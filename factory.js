@@ -1,9 +1,7 @@
-// Файл: factory.js (Версия 4.0, "Дезинфектор")
 import { GoogleGenerativeAI } from '@google/generative-ai';
 import fs from 'fs/promises';
 import path from 'path';
 
-// --- НАСТРОЙКИ ОПЕРАЦИИ ---
 const TARGET_URL_MAIN = "https://butlerspb.ru";
 const TARGET_URL_RENT = "https://butlerspb.ru/rent";
 const TOPICS_FILE = 'topics.txt';
@@ -40,13 +38,13 @@ function slugify(text) {
 }
 
 async function generatePost(topic) {
-    console.log(`[+] Генерирую статью на тему: ${topic}`);
+    console.log(`[+] Generating article for topic: ${topic}`);
     
-    const planPrompt = `Создай детальный, экспертный план-структуру для статьи на тему "${topic}". Включи 3-4 основных раздела с подзаголовками H2 и несколько подпунктов для каждого.`;
+    const planPrompt = `Create a detailed, expert-level structure for an article on the topic "${topic}". Include 3-4 main sections with H2 headings and several sub-points for each.`;
     const planResult = await model.generateContent(planPrompt);
     const plan = planResult.response.text();
 
-    const articlePrompt = `Напиши экспертную, полезную статью по этому плану:\n\n${plan}\n\nТема: "${topic}". Пиши без воды, структурированно, для владельцев недвижимости.`;
+    const articlePrompt = `Write an expert, useful article based on this plan:\n\n${plan}\n\nTopic: "${topic}". Write concisely, in a structured manner, for property owners.`;
     const articleResult = await model.generateContent(articlePrompt);
     let articleText = articleResult.response.text();
 
@@ -58,13 +56,13 @@ async function generatePost(topic) {
         articleText = paragraphs.join('\n\n');
     }
     
-    const seoPrompt = `Для статьи на тему "${topic}" сгенерируй JSON-объект. ВАЖНО: твой ответ должен быть ТОЛЬКО валидным JSON-объектом, без какого-либо сопроводительного текста, комментариев или markdown-оберток. JSON должен содержать следующие поля: "title" (SEO-заголовок до 70 символов), "description" (мета-описание до 160 символов), "schema" (валидный JSON-LD schema.org для типа BlogPosting, включающий headline, description, author, publisher, datePublished).`;
+    const seoPrompt = `For an article on the topic "${topic}", generate a JSON object. IMPORTANT: your response must ONLY be a valid JSON object, without any accompanying text, comments, or markdown wrappers. The JSON must contain the following fields: "title" (SEO title up to 70 characters), "description" (meta description up to 160 characters), "schema" (a valid JSON-LD schema.org for a BlogPosting type, including headline, description, author, publisher, datePublished).`;
     const seoResult = await model.generateContent(seoPrompt);
     let seoText = seoResult.response.text();
 
     const match = seoText.match(/\{[\s\S]*\}/);
     if (!match) {
-        throw new Error("Не удалось найти валидный JSON в ответе модели.");
+        throw new Error("Could not find a valid JSON in the model's response.");
     }
     const seoJson = match[0];
     const seoData = JSON.parse(seoJson);
@@ -83,15 +81,14 @@ schema: ${JSON.stringify(seoData.schema)}
 async function main() {
     try {
         const BATCH_SIZE = parseInt(process.env.BATCH_SIZE, 10) || 10;
-        console.log(`[i] Размер пачки установлен на: ${BATCH_SIZE}`);
+        console.log(`[i] Batch size set to: ${BATCH_SIZE}`);
 
         const postsDir = path.join(process.cwd(), 'src', 'content', 'posts');
         await fs.mkdir(postsDir, { recursive: true });
         
-        // ВОТ ОНО, ГЛАВНОЕ ИЗМЕНЕНИЕ: Добавляем .map(topic => topic.trim()) для очистки каждой строки
         const topics = (await fs.readFile(TOPICS_FILE, 'utf-8'))
           .split('\n')
-          .map(topic => topic.trim()) // <-- ДЕЗИНФЕКЦИЯ
+          .map(topic => topic.trim())
           .filter(Boolean);
 
         const existingFiles = await fs.readdir(postsDir);
@@ -100,48 +97,31 @@ async function main() {
         const newTopics = topics.filter(topic => !existingSlugs.includes(slugify(topic)));
 
         if (newTopics.length === 0) {
-            console.log("Нет новых тем для генерации. Завод в режиме ожидания.");
+            console.log("No new topics to generate. Factory is in standby mode.");
             return;
         }
 
-        console.log(`Найдено ${newTopics.length} новых тем. Беру в работу первые ${BATCH_SIZE}.`);
+        console.log(`Found ${newTopics.length} new topics. Processing the first ${BATCH_SIZE}.`);
 
         for (const topic of newTopics.slice(0, BATCH_SIZE)) { 
             try {
-                // Теперь сюда будет приходить очищенная тема
                 const slug = slugify(topic);
-                // Дополнительная проверка на случай, если slug все равно пустой
                 if (!slug) {
-                    console.error(`[!] Пропускаю тему "${topic}", так как из нее не удалось создать имя файла.`);
+                    console.error(`[!] Skipping topic "${topic}" as it resulted in an empty slug.`);
                     continue;
                 }
                 const fullContent = await generatePost(topic);
                 await fs.writeFile(path.join(postsDir, `${slug}.md`), fullContent);
-                console.log(`[✔] Статья "${topic}" успешно создана и сохранена.`);
+                console.log(`[✔] Article "${topic}" created and saved successfully.`);
                 await new Promise(resolve => setTimeout(resolve, 2000));
             } catch (e) {
-                console.error(`[!] Ошибка при генерации статьи "${topic}":`, e.message);
+                console.error(`[!] Error generating article for topic "${topic}":`, e.message);
                 continue;
             }
         }
     } catch (error) {
-        console.error("[!] Критическая ошибка в работе завода:", error);
+        console.error("[!] Critical error in factory operation:", error);
     }
 }
 
-main();```
-</details>
-
-**Что именно мы изменили:**
-
-*   **Добавили `.map(topic => topic.trim())`**: Эта команда проходит по каждой теме **после** того, как они были разделены, и **удаляет все невидимые пробелы и символы возврата каретки (`\r`)** с начала и конца строки.
-*   **Добавили проверку `if (!slug)`**: На случай, если даже после очистки `slugify` вернет пустую строку, мы не будем создавать файл `.md`, а просто пропустим эту тему и сообщим об этом в логе.
-
-Это финальное "укрепление" нашего кода. Оно делает его неуязвимым для самой распространенной проблемы с текстовыми файлами.
-
-**Ваши действия:**
-1.  Убедитесь, что папка `src/content/posts/` пуста.
-2.  Замените код в `factory.js` на новую версию.
-3.  Запустите завод.
-
-Я абсолютно уверен, что на этот раз вы увидите файл с правильным, длинным именем. Мы нашли "диверсанта" и нейтрализовали его.
+main();
