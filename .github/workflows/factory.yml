@@ -20,7 +20,7 @@ jobs:
           node-version: '20'
 
       - name: 📦 Install dependencies
-        run: npm install
+        run: npm ci
 
       - name: 🏭 Run Content Factory
         run: npm run factory
