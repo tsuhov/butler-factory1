@@ -1,4 +1,4 @@
-// Этот код уже проверен и является финальной версией
+// Файл: factory.js (Версия 2.0, "Бронебойный")
 import { GoogleGenerativeAI } from '@google/generative-ai';
 import fs from 'fs/promises';
 import path from 'path';
@@ -15,6 +15,7 @@ if (!GEMINI_API_KEY) {
 }
 
 const genAI = new GoogleGenerativeAI(GEMINI_API_KEY);
+// Используем новую, более мощную модель, как вы и просили
 const model = genAI.getGenerativeModel({ model: "gemini-2.5-pro" });
 
 const ANCHORS = [
@@ -41,14 +42,18 @@ function slugify(text) {
 
 async function generatePost(topic) {
     console.log(`[+] Генерирую статью на тему: ${topic}`);
+    
+    // 1. Создаем структуру
     const planPrompt = `Создай детальный, экспертный план-структуру для статьи на тему "${topic}". Включи 3-4 основных раздела с подзаголовками H2 и несколько подпунктов для каждого.`;
     const planResult = await model.generateContent(planPrompt);
     const plan = planResult.response.text();
 
+    // 2. Пишем статью по плану
     const articlePrompt = `Напиши экспертную, полезную статью по этому плану:\n\n${plan}\n\nТема: "${topic}". Пиши без воды, структурированно, для владельцев недвижимости.`;
     const articleResult = await model.generateContent(articlePrompt);
     let articleText = articleResult.response.text();
 
+    // 3. Вставляем ссылку
     const paragraphs = articleText.split('\n\n');
     if (paragraphs.length > 2) {
         const randomIndex = Math.floor(Math.random() * (paragraphs.length - 2)) + 1;
@@ -57,9 +62,17 @@ async function generatePost(topic) {
         articleText = paragraphs.join('\n\n');
     }
     
-    const seoPrompt = `Для этой статьи:\n\n${articleText}\n\nСгенерируй JSON-объект со следующими полями: "title" (SEO-заголовок до 70 символов), "description" (мета-описание до 160 символов), "schema" (валидный JSON-LD schema.org для типа BlogPosting, включающий headline, description, author, publisher, datePublished).`;
+    // 4. Генерируем SEO и Schema (УЛУЧШЕННЫЙ, БОЛЕЕ СТРОГИЙ ПРОМПТ)
+    const seoPrompt = `Для статьи на тему "${topic}" сгенерируй JSON-объект. ВАЖНО: твой ответ должен быть ТОЛЬКО валидным JSON-объектом, без какого-либо сопроводительного текста, комментариев или markdown-оберток. JSON должен содержать следующие поля: "title" (SEO-заголовок до 70 символов), "description" (мета-описание до 160 символов), "schema" (валидный JSON-LD schema.org для типа BlogPosting, включающий headline, description, author, publisher, datePublished).`;
     const seoResult = await model.generateContent(seoPrompt);
-    let seoJson = seoResult.response.text().replace(/```json/g, '').replace(/```/g, '').trim();
+    let seoText = seoResult.response.text();
+
+    // **НОВЫЙ БРОНЕБОЙНЫЙ ПАРСЕР**
+    const match = seoText.match(/\{[\s\S]*\}/);
+    if (!match) {
+        throw new Error("Не удалось найти валидный JSON в ответе модели.");
+    }
+    const seoJson = match[0];
     const seoData = JSON.parse(seoJson);
 
     const frontmatter = `---
@@ -73,6 +86,7 @@ schema: ${JSON.stringify(seoData.schema)}
     return frontmatter + '\n' + articleText;
 }
 
+// ... (остальной код функции main() остается без изменений)
 async function main() {
     try {
         const postsDir = path.join(process.cwd(), 'src', 'content', 'posts');
@@ -97,7 +111,7 @@ async function main() {
                 const fullContent = await generatePost(topic);
                 await fs.writeFile(path.join(postsDir, `${slug}.md`), fullContent);
                 console.log(`[✔] Статья "${topic}" успешно создана и сохранена.`);
-                await new Promise(resolve => setTimeout(resolve, 2000)); // Пауза 2 секунды
+                await new Promise(resolve => setTimeout(resolve, 5000)); // Увеличим паузу до 5 секунд для стабильности
             } catch (e) {
                 console.error(`Ошибка при генерации статьи "${topic}":`, e.message);
             }
