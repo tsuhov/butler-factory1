@@ -1,4 +1,4 @@
-// Файл: factory.js (Версия 2.0, "Бронебойный")
+// Файл: factory.js (Версия 3.0, "Конфигурируемый")
 import { GoogleGenerativeAI } from '@google/generative-ai';
 import fs from 'fs/promises';
 import path from 'path';
@@ -15,7 +15,6 @@ if (!GEMINI_API_KEY) {
 }
 
 const genAI = new GoogleGenerativeAI(GEMINI_API_KEY);
-// Используем новую, более мощную модель, как вы и просили
 const model = genAI.getGenerativeModel({ model: "gemini-2.5-pro" });
 
 const ANCHORS = [
@@ -43,17 +42,14 @@ function slugify(text) {
 async function generatePost(topic) {
     console.log(`[+] Генерирую статью на тему: ${topic}`);
     
-    // 1. Создаем структуру
     const planPrompt = `Создай детальный, экспертный план-структуру для статьи на тему "${topic}". Включи 3-4 основных раздела с подзаголовками H2 и несколько подпунктов для каждого.`;
     const planResult = await model.generateContent(planPrompt);
     const plan = planResult.response.text();
 
-    // 2. Пишем статью по плану
     const articlePrompt = `Напиши экспертную, полезную статью по этому плану:\n\n${plan}\n\nТема: "${topic}". Пиши без воды, структурированно, для владельцев недвижимости.`;
     const articleResult = await model.generateContent(articlePrompt);
     let articleText = articleResult.response.text();
 
-    // 3. Вставляем ссылку
     const paragraphs = articleText.split('\n\n');
     if (paragraphs.length > 2) {
         const randomIndex = Math.floor(Math.random() * (paragraphs.length - 2)) + 1;
@@ -62,12 +58,10 @@ async function generatePost(topic) {
         articleText = paragraphs.join('\n\n');
     }
     
-    // 4. Генерируем SEO и Schema (УЛУЧШЕННЫЙ, БОЛЕЕ СТРОГИЙ ПРОМПТ)
     const seoPrompt = `Для статьи на тему "${topic}" сгенерируй JSON-объект. ВАЖНО: твой ответ должен быть ТОЛЬКО валидным JSON-объектом, без какого-либо сопроводительного текста, комментариев или markdown-оберток. JSON должен содержать следующие поля: "title" (SEO-заголовок до 70 символов), "description" (мета-описание до 160 символов), "schema" (валидный JSON-LD schema.org для типа BlogPosting, включающий headline, description, author, publisher, datePublished).`;
     const seoResult = await model.generateContent(seoPrompt);
     let seoText = seoResult.response.text();
 
-    // **НОВЫЙ БРОНЕБОЙНЫЙ ПАРСЕР**
     const match = seoText.match(/\{[\s\S]*\}/);
     if (!match) {
         throw new Error("Не удалось найти валидный JSON в ответе модели.");
@@ -86,9 +80,11 @@ schema: ${JSON.stringify(seoData.schema)}
     return frontmatter + '\n' + articleText;
 }
 
-// ... (остальной код функции main() остается без изменений)
 async function main() {
     try {
+        const BATCH_SIZE = parseInt(process.env.BATCH_SIZE, 10) || 10;
+        console.log(`[i] Размер пачки установлен на: ${BATCH_SIZE}`);
+
         const postsDir = path.join(process.cwd(), 'src', 'content', 'posts');
         await fs.mkdir(postsDir, { recursive: true });
         
@@ -103,21 +99,24 @@ async function main() {
             return;
         }
 
-        console.log(`Найдено ${newTopics.length} новых тем. Начинаю генерацию...`);
+        console.log(`Найдено ${newTopics.length} новых тем. Беру в работу первые ${BATCH_SIZE}.`);
 
-        for (const topic of newTopics.slice(0, 50)) { // Лимит на 50 статей за один запуск
+        for (const topic of newTopics.slice(0, BATCH_SIZE)) { 
             try {
                 const slug = slugify(topic);
                 const fullContent = await generatePost(topic);
                 await fs.writeFile(path.join(postsDir, `${slug}.md`), fullContent);
                 console.log(`[✔] Статья "${topic}" успешно создана и сохранена.`);
-                await new Promise(resolve => setTimeout(resolve, 5000)); // Увеличим паузу до 5 секунд для стабильности
+                // С платным API можно уменьшить паузу для ускорения
+                await new Promise(resolve => setTimeout(resolve, 2000)); // Пауза 2 секунды
             } catch (e) {
-                console.error(`Ошибка при генерации статьи "${topic}":`, e.message);
+                console.error(`[!] Ошибка при генерации статьи "${topic}":`, e.message);
+                // Пропускаем эту статью и идем дальше, а не ломаем весь процесс
+                continue;
             }
         }
     } catch (error) {
-        console.error("Критическая ошибка в работе завода:", error);
+        console.error("[!] Критическая ошибка в работе завода:", error);
     }
 }
 
