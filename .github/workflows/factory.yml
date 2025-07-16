@@ -1,0 +1,40 @@
+name: 🚀 Content Factory
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '0 * * * *' # Запускать каждый час
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: ⬇️ Checkout repo
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          
+      - name: ⚙️ Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: 📦 Install dependencies
+        run: npm install
+
+      - name: 🏭 Run Content Factory
+        run: npm run factory
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+
+      - name: 🚀 Commit and Push new posts
+        run: |
+          git config --global user.name 'GitHub Actions Bot'
+          git config --global user.email 'actions-bot@github.com'
+          if [[ -n $(git status -s) ]]; then
+            git add src/content/posts/*.md
+            git commit -m "🚀 Автоматически добавлены новые статьи"
+            git push
+          else
+            echo "Нет изменений для коммита."
+          fi

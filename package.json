@@ -1,0 +1,17 @@
+{
+  "name": "butler-factory",
+  "type": "module",
+  "version": "0.0.1",
+  "scripts": {
+    "dev": "astro dev",
+    "start": "astro dev",
+    "build": "astro build",
+    "preview": "astro preview",
+    "astro": "astro",
+    "factory": "node factory.js"
+  },
+  "dependencies": {
+    "astro": "^4.7.1",
+    "@google/generative-ai": "^0.7.1"
+  }
+}

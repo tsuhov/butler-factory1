@@ -1,0 +1,17 @@
+---
+import Layout from '../../layouts/Layout.astro';
+import { getCollection } from "astro:content";
+
+const allPosts = await getCollection("posts");
+---
+
+<Layout title="Блог об управлении недвижимостью" description="Все о посуточной аренде в Санкт-Петербурге.">
+  <h1>Статьи и гайды</h1>
+  <ul>
+    {allPosts.map((post) => (
+      <li>
+        <a href={`/blog/${post.slug}/`}>{post.data.title}</a>
+      </li>
+    ))}
+  </ul>
+</Layout>
