@@ -1,12 +1,17 @@
 ---
+// Файл: src/pages/blog/index.astro
+// Это финальная, правильная версия, которая использует Content Collections.
 import Layout from '../../layouts/Layout.astro';
 import { getCollection } from "astro:content";
 
+// Эта команда говорит Astro: "Зайди в папку `src/content/posts` и собери все статьи"
 const allPosts = await getCollection("posts");
 ---
 
 <Layout title="Блог об управлении недвижимостью" description="Все о посуточной аренде в Санкт-Петербурге.">
   <h1>Статьи и гайды</h1>
+  
+  <!-- Этот блок кода берет найденные статьи и превращает их в список ссылок -->
   <ul>
     {allPosts.map((post) => (
       <li>
@@ -15,3 +20,21 @@ const allPosts = await getCollection("posts");
     ))}
   </ul>
 </Layout>
+
+<style>
+  ul {
+    list-style-type: none;
+    padding: 0;
+  }
+  li {
+    margin-bottom: 1rem;
+    font-size: 1.2rem;
+  }
+  a {
+    text-decoration: none;
+    color: #333;
+  }
+  a:hover {
+    text-decoration: underline;
+  }
+</style>
