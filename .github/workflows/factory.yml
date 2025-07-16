@@ -1,4 +1,4 @@
-name: 🚀 Content Factory (Configurable Conveyor)
+name: 🚀 Content Factory (Armored Conveyor)
 
 on:
   workflow_dispatch:
@@ -6,14 +6,18 @@ on:
       batch_size:
         description: 'Сколько статей генерировать за 1 итерацию?'
         required: true
-        default: '10'
+        default: '50'
       iterations:
         description: 'Сколько раз запустить конвейер?'
         required: true
-        default: '5'
+        default: '10'
 
 jobs:
   build:
+    # ВОТ КЛЮЧЕВОЕ ДОБАВЛЕНИЕ - ВЫДАЕМ ПРАВА
+    permissions:
+      contents: write
+      
     runs-on: ubuntu-latest
     steps:
       - name: ⬇️ Checkout repo
@@ -32,24 +36,23 @@ jobs:
       - name: 🏭 Run Content Factory Conveyor
         env:
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
-          # Передаем размер пачки в скрипт
           BATCH_SIZE: ${{ github.event.inputs.batch_size }}
         run: |
           git config --global user.name 'GitHub Actions Bot'
           git config --global user.email 'actions-bot@github.com'
           
-          # Используем количество итераций из инпутов
           for i in $(seq 1 ${{ github.event.inputs.iterations }})
           do
-            echo "--- КОНВЕЙЕР: Запуск итерации $i ---"
+            echo "--- КОНВЕЙЕР: Запуск итерации $i из ${{ github.event.inputs.iterations }} ---"
             npm run factory
             
+            # Проверяем, есть ли изменения (статьи или package-lock.json)
             if [[ -z $(git status --porcelain) ]]; then
               echo "✅ Новых статей в этой итерации нет. Работа полностью завершена."
               break
             fi
 
-            echo "🔥 Обнаружены новые статьи. Отправляю пачку $i..."
+            echo "🔥 Обнаружены новые файлы. Отправляю пачку $i..."
             git add .
             git commit -m "🚀 Авто-публикация: пачка статей №$i"
             git push
