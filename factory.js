@@ -1,7 +1,9 @@
+// Файл: factory.js (Версия 5.0, "Транслитерация")
 import { GoogleGenerativeAI } from '@google/generative-ai';
 import fs from 'fs/promises';
 import path from 'path';
 
+// --- НАСТРОЙКИ ОПЕРАЦИИ ---
 const TARGET_URL_MAIN = "https://butlerspb.ru";
 const TARGET_URL_RENT = "https://butlerspb.ru/rent";
 const TOPICS_FILE = 'topics.txt';
@@ -23,28 +25,33 @@ const ANCHORS = [
     `доверительное управление квартирой - <a href="${TARGET_URL_RENT}" target="_blank" rel="nofollow">отличное решение</a>`
 ];
 
+// НОВАЯ, ПРАВИЛЬНАЯ ФУНКЦИЯ SLUGIFY
 function slugify(text) {
-  const a = "àáâäæãåāăąçćčđďèéêëēėęěğǵḧîïíīįìłḿñńǹňôöòóœøōõőṕŕřßśšşșťțûüùúūǘůűųẃẍÿýžźż·/_,:;"
-  const b = "aaaaaaaaaacccddeeeeeeeegghiiiiiilmnnnnoooooooooprrsssssttuuuuuuuuuwxyyzzz------"
-  const p = new RegExp(a.split('').join('|'), 'g')
-  return text.toString().toLowerCase()
-    .replace(/\s+/g, '-')
-    .replace(p, c => b.charAt(a.indexOf(c)))
-    .replace(/&/g, '-and-')
-    .replace(/[^\w\-]+/g, '')
-    .replace(/\-\-+/g, '-')
-    .replace(/^-+/, '')
-    .replace(/-+$/, '')
+    const from = "а б в г д е ё ж з и й к л м н о п р с т у ф х ц ч ш щ ъ ы ь э ю я".split(' ');
+    const to = "a b v g d e yo zh z i y k l m n o p r s t u f h c ch sh sch '' y ' e yu ya".split(' ');
+
+    let newText = text.toString().toLowerCase().trim();
+
+    for (let i = 0; i < from.length; i++) {
+        newText = newText.replace(new RegExp(from[i], 'g'), to[i]);
+    }
+
+    return newText
+        .replace(/\s+/g, '-') // заменяем пробелы на -
+        .replace(/[^\w-]+/g, '') // удаляем все несловесные символы, кроме дефисов
+        .replace(/--+/g, '-') // заменяем несколько - на один -
+        .replace(/^-+/, '') // убираем дефисы в начале
+        .replace(/-+$/, ''); // убираем дефисы в конце
 }
 
 async function generatePost(topic) {
-    console.log(`[+] Generating article for topic: ${topic}`);
+    console.log(`[+] Генерирую статью на тему: ${topic}`);
     
-    const planPrompt = `Create a detailed, expert-level structure for an article on the topic "${topic}". Include 3-4 main sections with H2 headings and several sub-points for each.`;
+    const planPrompt = `Создай детальный, экспертный план-структуру для статьи на тему "${topic}". Включи 3-4 основных раздела с подзаголовками H2 и несколько подпунктов для каждого.`;
     const planResult = await model.generateContent(planPrompt);
     const plan = planResult.response.text();
 
-    const articlePrompt = `Write an expert, useful article based on this plan:\n\n${plan}\n\nTopic: "${topic}". Write concisely, in a structured manner, for property owners.`;
+    const articlePrompt = `Напиши экспертную, полезную статью по этому плану:\n\n${plan}\n\nТема: "${topic}". Пиши без воды, структурированно, для владельцев недвижимости.`;
     const articleResult = await model.generateContent(articlePrompt);
     let articleText = articleResult.response.text();
 
@@ -56,13 +63,13 @@ async function generatePost(topic) {
         articleText = paragraphs.join('\n\n');
     }
     
-    const seoPrompt = `For an article on the topic "${topic}", generate a JSON object. IMPORTANT: your response must ONLY be a valid JSON object, without any accompanying text, comments, or markdown wrappers. The JSON must contain the following fields: "title" (SEO title up to 70 characters), "description" (meta description up to 160 characters), "schema" (a valid JSON-LD schema.org for a BlogPosting type, including headline, description, author, publisher, datePublished).`;
+    const seoPrompt = `Для статьи на тему "${topic}" сгенерируй JSON-объект. ВАЖНО: твой ответ должен быть ТОЛЬКО валидным JSON-объектом, без какого-либо сопроводительного текста, комментариев или markdown-оберток. JSON должен содержать следующие поля: "title" (SEO-заголовок до 70 символов), "description" (мета-описание до 160 символов), "schema" (валидный JSON-LD schema.org для типа BlogPosting, включающий headline, description, author, publisher, datePublished).`;
     const seoResult = await model.generateContent(seoPrompt);
     let seoText = seoResult.response.text();
 
     const match = seoText.match(/\{[\s\S]*\}/);
     if (!match) {
-        throw new Error("Could not find a valid JSON in the model's response.");
+        throw new Error("Не удалось найти валидный JSON в ответе модели.");
     }
     const seoJson = match[0];
     const seoData = JSON.parse(seoJson);
@@ -81,14 +88,14 @@ schema: ${JSON.stringify(seoData.schema)}
 async function main() {
     try {
         const BATCH_SIZE = parseInt(process.env.BATCH_SIZE, 10) || 10;
-        console.log(`[i] Batch size set to: ${BATCH_SIZE}`);
+        console.log(`[i] Размер пачки установлен на: ${BATCH_SIZE}`);
 
         const postsDir = path.join(process.cwd(), 'src', 'content', 'posts');
         await fs.mkdir(postsDir, { recursive: true });
         
         const topics = (await fs.readFile(TOPICS_FILE, 'utf-8'))
           .split('\n')
-          .map(topic => topic.trim())
+          .map(topic => topic.trim()) 
           .filter(Boolean);
 
         const existingFiles = await fs.readdir(postsDir);
@@ -97,30 +104,30 @@ async function main() {
         const newTopics = topics.filter(topic => !existingSlugs.includes(slugify(topic)));
 
         if (newTopics.length === 0) {
-            console.log("No new topics to generate. Factory is in standby mode.");
+            console.log("Нет новых тем для генерации. Завод в режиме ожидания.");
             return;
         }
 
-        console.log(`Found ${newTopics.length} new topics. Processing the first ${BATCH_SIZE}.`);
+        console.log(`Найдено ${newTopics.length} новых тем. Беру в работу первые ${BATCH_SIZE}.`);
 
         for (const topic of newTopics.slice(0, BATCH_SIZE)) { 
             try {
                 const slug = slugify(topic);
                 if (!slug) {
-                    console.error(`[!] Skipping topic "${topic}" as it resulted in an empty slug.`);
+                    console.error(`[!] Пропускаю тему "${topic}", так как из нее не удалось создать имя файла.`);
                     continue;
                 }
                 const fullContent = await generatePost(topic);
                 await fs.writeFile(path.join(postsDir, `${slug}.md`), fullContent);
-                console.log(`[✔] Article "${topic}" created and saved successfully.`);
+                console.log(`[✔] Статья "${topic}" успешно создана и сохранена.`);
                 await new Promise(resolve => setTimeout(resolve, 2000));
             } catch (e) {
-                console.error(`[!] Error generating article for topic "${topic}":`, e.message);
+                console.error(`[!] Ошибка при генерации статьи "${topic}":`, e.message);
                 continue;
             }
         }
     } catch (error) {
-        console.error("[!] Critical error in factory operation:", error);
+        console.error("[!] Критическая ошибка в работе завода:", error);
     }
 }
 
