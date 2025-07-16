@@ -1,4 +1,4 @@
-// Файл: factory.js (Версия 3.0, "Конфигурируемый")
+// Файл: factory.js (Версия 4.0, "Дезинфектор")
 import { GoogleGenerativeAI } from '@google/generative-ai';
 import fs from 'fs/promises';
 import path from 'path';
@@ -88,7 +88,12 @@ async function main() {
         const postsDir = path.join(process.cwd(), 'src', 'content', 'posts');
         await fs.mkdir(postsDir, { recursive: true });
         
-        const topics = (await fs.readFile(TOPICS_FILE, 'utf-8')).split('\n').filter(Boolean);
+        // ВОТ ОНО, ГЛАВНОЕ ИЗМЕНЕНИЕ: Добавляем .map(topic => topic.trim()) для очистки каждой строки
+        const topics = (await fs.readFile(TOPICS_FILE, 'utf-8'))
+          .split('\n')
+          .map(topic => topic.trim()) // <-- ДЕЗИНФЕКЦИЯ
+          .filter(Boolean);
+
         const existingFiles = await fs.readdir(postsDir);
         const existingSlugs = existingFiles.map(file => file.replace('.md', ''));
 
@@ -103,15 +108,19 @@ async function main() {
 
         for (const topic of newTopics.slice(0, BATCH_SIZE)) { 
             try {
+                // Теперь сюда будет приходить очищенная тема
                 const slug = slugify(topic);
+                // Дополнительная проверка на случай, если slug все равно пустой
+                if (!slug) {
+                    console.error(`[!] Пропускаю тему "${topic}", так как из нее не удалось создать имя файла.`);
+                    continue;
+                }
                 const fullContent = await generatePost(topic);
                 await fs.writeFile(path.join(postsDir, `${slug}.md`), fullContent);
                 console.log(`[✔] Статья "${topic}" успешно создана и сохранена.`);
-                // С платным API можно уменьшить паузу для ускорения
-                await new Promise(resolve => setTimeout(resolve, 2000)); // Пауза 2 секунды
+                await new Promise(resolve => setTimeout(resolve, 2000));
             } catch (e) {
                 console.error(`[!] Ошибка при генерации статьи "${topic}":`, e.message);
-                // Пропускаем эту статью и идем дальше, а не ломаем весь процесс
                 continue;
             }
         }
@@ -120,4 +129,19 @@ async function main() {
     }
 }
 
-main();
+main();```
+</details>
+
+**Что именно мы изменили:**
+
+*   **Добавили `.map(topic => topic.trim())`**: Эта команда проходит по каждой теме **после** того, как они были разделены, и **удаляет все невидимые пробелы и символы возврата каретки (`\r`)** с начала и конца строки.
+*   **Добавили проверку `if (!slug)`**: На случай, если даже после очистки `slugify` вернет пустую строку, мы не будем создавать файл `.md`, а просто пропустим эту тему и сообщим об этом в логе.
+
+Это финальное "укрепление" нашего кода. Оно делает его неуязвимым для самой распространенной проблемы с текстовыми файлами.
+
+**Ваши действия:**
+1.  Убедитесь, что папка `src/content/posts/` пуста.
+2.  Замените код в `factory.js` на новую версию.
+3.  Запустите завод.
+
+Я абсолютно уверен, что на этот раз вы увидите файл с правильным, длинным именем. Мы нашли "диверсанта" и нейтрализовали его.
