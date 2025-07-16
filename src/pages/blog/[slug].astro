@@ -1,4 +1,5 @@
 ---
+// Файл: src/pages/blog/[slug].astro
 import Layout from '../../layouts/Layout.astro';
 import { type CollectionEntry, getCollection } from 'astro:content';
 
@@ -18,9 +19,12 @@ const { Content } = await post.render();
 <Layout title={post.data.title} description={post.data.description}>
 	<article>
 		<h1>{post.data.title}</h1>
-		<p>Опубликовано: {post.data.pubDate.toLocaleDateString('ru-RU')}</p>
+    <!-- Исправляем отображение даты -->
+		<p>Опубликовано: {new Date(post.data.pubDate).toLocaleDateString('ru-RU')}</p>
 		<hr>
 		<Content />
 	</article>
 </Layout>
+
+<!-- Проверяем, что этот скрипт на месте -->
 <script type="application/ld+json" set:html={JSON.stringify(post.data.schema)} />
