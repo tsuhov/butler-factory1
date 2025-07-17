@@ -1,4 +1,4 @@
-// Файл: factory.js (Версия 6.0, "Чистый Контент")
+// Файл: factory.js (Версия 7.0, "Неуязвимый")
 import { GoogleGenerativeAI } from '@google/generative-ai';
 import fs from 'fs/promises';
 import path from 'path';
@@ -25,48 +25,51 @@ const ANCHORS = [
     `доверительное управление квартирой - <a href="${TARGET_URL_RENT}" target="_blank" rel="nofollow">отличное решение</a>`
 ];
 
-// НОВАЯ, ПРАВИЛЬНАЯ ФУНКЦИЯ SLUGIFY
 function slugify(text) {
     const from = "а б в г д е ё ж з и й к л м н о п р с т у ф х ц ч ш щ ъ ы ь э ю я".split(' ');
     const to = "a b v g d e yo zh z i y k l m n o p r s t u f h c ch sh sch '' y ' e yu ya".split(' ');
-
     let newText = text.toString().toLowerCase().trim();
-
     for (let i = 0; i < from.length; i++) {
         newText = newText.replace(new RegExp(from[i], 'g'), to[i]);
     }
-
-    return newText
-        .replace(/\s+/g, '-') 
-        .replace(/[^\w-]+/g, '')
-        .replace(/--+/g, '-') 
-        .replace(/^-+/, '') 
-        .replace(/-+$/, '');
+    return newText.replace(/\s+/g, '-').replace(/[^\w-]+/g, '').replace(/--+/g, '-').replace(/^-+/, '').replace(/-+$/, '');
 }
+
+// --- НОВЫЙ БЛОК: Функция повторных запросов ---
+async function generateWithRetry(prompt, maxRetries = 4) {
+    let delay = 5000; // Начать с 5 секунд
+    for (let i = 0; i < maxRetries; i++) {
+        try {
+            const result = await model.generateContent(prompt);
+            return result.response.text();
+        } catch (error) {
+            // Проверяем, является ли ошибка "перегрузкой сервера"
+            if (error.message.includes('503')) {
+                console.warn(`[!] Модель перегружена. Попытка ${i + 1} из ${maxRetries}. Жду ${delay / 1000}с...`);
+                await new Promise(resolve => setTimeout(resolve, delay));
+                delay *= 2; // Увеличиваем задержку для следующей попытки
+            } else {
+                // Если ошибка другая, выбрасываем ее сразу
+                throw error;
+            }
+        }
+    }
+    throw new Error(`Не удалось получить ответ от модели после ${maxRetries} попыток.`);
+}
+// --- КОНЕЦ НОВОГО БЛОКА ---
 
 async function generatePost(topic) {
     console.log(`[+] Генерирую статью на тему: ${topic}`);
     
     const planPrompt = `Создай детальный, экспертный план-структуру для статьи на тему "${topic}". Включи 3-4 основных раздела с подзаголовками H2 и несколько подпунктов для каждого.`;
-    const planResult = await model.generateContent(planPrompt);
-    const plan = planResult.response.text();
+    const plan = await generateWithRetry(planPrompt);
 
     const articlePrompt = `Напиши экспертную, полезную статью по этому плану:\n\n${plan}\n\nТема: "${topic}". Пиши без воды, структурированно, для владельцев недвижимости.`;
-    const articleResult = await model.generateContent(articlePrompt);
-    let rawArticleText = articleResult.response.text();
+    let rawArticleText = await generateWithRetry(articlePrompt);
 
-    // --- ОПЕРАЦИЯ "ЧИСТЫЙ КОНТЕНТ" ---
-    // Находим первую строку, которая начинается с символа # (заголовок)
-    // и отсекаем весь текст до нее.
     const lines = rawArticleText.split('\n');
     const firstHeadingIndex = lines.findIndex(line => line.trim().startsWith('#'));
-
-    // Если заголовок найден, используем текст начиная с него.
-    // Если нет - используем исходный текст, чтобы ничего не потерять.
-    let articleText = firstHeadingIndex !== -1 
-      ? lines.slice(firstHeadingIndex).join('\n') 
-      : rawArticleText;
-    // --- КОНЕЦ ОПЕРАЦИИ ---
+    let articleText = firstHeadingIndex !== -1 ? lines.slice(firstHeadingIndex).join('\n') : rawArticleText;
 
     const paragraphs = articleText.split('\n\n');
     if (paragraphs.length > 2) {
@@ -77,15 +80,11 @@ async function generatePost(topic) {
     }
     
     const seoPrompt = `Для статьи на тему "${topic}" сгенерируй JSON-объект. ВАЖНО: твой ответ должен быть ТОЛЬКО валидным JSON-объектом, без какого-либо сопроводительного текста, комментариев или markdown-оберток. JSON должен содержать следующие поля: "title" (SEO-заголовок до 70 символов), "description" (мета-описание до 160 символов), "schema" (валидный JSON-LD schema.org для типа BlogPosting, включающий headline, description, author, publisher, datePublished).`;
-    const seoResult = await model.generateContent(seoPrompt);
-    let seoText = seoResult.response.text();
+    let seoText = await generateWithRetry(seoPrompt);
 
     const match = seoText.match(/\{[\s\S]*\}/);
-    if (!match) {
-        throw new Error("Не удалось найти валидный JSON в ответе модели.");
-    }
-    const seoJson = match[0];
-    const seoData = JSON.parse(seoJson);
+    if (!match) { throw new Error("Не удалось найти валидный JSON в ответе модели."); }
+    const seoData = JSON.parse(match[0]);
 
     const frontmatter = `---
 title: "${seoData.title.replace(/"/g, '\\"')}"
@@ -102,40 +101,26 @@ async function main() {
     try {
         const BATCH_SIZE = parseInt(process.env.BATCH_SIZE, 10) || 10;
         console.log(`[i] Размер пачки установлен на: ${BATCH_SIZE}`);
-
+        const topics = (await fs.readFile(TOPICS_FILE, 'utf-8')).split('\n').map(topic => topic.trim()).filter(Boolean);
         const postsDir = path.join(process.cwd(), 'src', 'content', 'posts');
         await fs.mkdir(postsDir, { recursive: true });
-        
-        const topics = (await fs.readFile(TOPICS_FILE, 'utf-8'))
-          .split('\n')
-          .map(topic => topic.trim()) 
-          .filter(Boolean);
-
         const existingFiles = await fs.readdir(postsDir);
         const existingSlugs = existingFiles.map(file => file.replace('.md', ''));
-
         const newTopics = topics.filter(topic => !existingSlugs.includes(slugify(topic)));
 
-        if (newTopics.length === 0) {
-            console.log("Нет новых тем для генерации. Завод в режиме ожидания.");
-            return;
-        }
-
+        if (newTopics.length === 0) { console.log("Нет новых тем для генерации."); return; }
         console.log(`Найдено ${newTopics.length} новых тем. Беру в работу первые ${BATCH_SIZE}.`);
 
         for (const topic of newTopics.slice(0, BATCH_SIZE)) { 
             try {
                 const slug = slugify(topic);
-                if (!slug) {
-                    console.error(`[!] Пропускаю тему "${topic}", так как из нее не удалось создать имя файла.`);
-                    continue;
-                }
+                if (!slug) { console.error(`[!] Пропускаю тему "${topic}", так как из нее не удалось создать имя файла.`); continue; }
                 const fullContent = await generatePost(topic);
                 await fs.writeFile(path.join(postsDir, `${slug}.md`), fullContent);
                 console.log(`[✔] Статья "${topic}" успешно создана и сохранена.`);
-                await new Promise(resolve => setTimeout(resolve, 2000));
+                await new Promise(resolve => setTimeout(resolve, 1000)); // Можно уменьшить паузу
             } catch (e) {
-                console.error(`[!] Ошибка при генерации статьи "${topic}":`, e.message);
+                console.error(`[!] Ошибка при генерации статьи "${topic}": ${e.message}`);
                 continue;
             }
         }
