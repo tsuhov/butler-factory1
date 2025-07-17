@@ -1,9 +1,8 @@
-// Файл: factory.js (Версия 8.0, "Структурированный Markdown")
+// Файл: factory.js (Версия 9.0, с изображениями)
 import { GoogleGenerativeAI } from '@google/generative-ai';
 import fs from 'fs/promises';
 import path from 'path';
 
-// --- НАСТРОЙКИ ОПЕРАЦИИ ---
 const TARGET_URL_MAIN = "https://butlerspb.ru";
 const TARGET_URL_RENT = "https://butlerspb.ru/rent";
 const TOPICS_FILE = 'topics.txt';
@@ -36,7 +35,7 @@ function slugify(text) {
 }
 
 async function generateWithRetry(prompt, maxRetries = 4) {
-    let delay = 5000; 
+    let delay = 5000;
     for (let i = 0; i < maxRetries; i++) {
         try {
             const result = await model.generateContent(prompt);
@@ -45,7 +44,7 @@ async function generateWithRetry(prompt, maxRetries = 4) {
             if (error.message.includes('503')) {
                 console.warn(`[!] Модель перегружена. Попытка ${i + 1} из ${maxRetries}. Жду ${delay / 1000}с...`);
                 await new Promise(resolve => setTimeout(resolve, delay));
-                delay *= 2; 
+                delay *= 2;
             } else {
                 throw error;
             }
@@ -57,15 +56,11 @@ async function generateWithRetry(prompt, maxRetries = 4) {
 async function generatePost(topic) {
     console.log(`[+] Генерирую статью на тему: ${topic}`);
     
-    // --- ИЗМЕНЕНИЕ №1: Улучшенный промпт для структуры ---
     const planPrompt = `Создай детальный, экспертный план-структуру для SEO-статьи на тему "${topic}". Используй стандартный Markdown для иерархии: ## для заголовков второго уровня (H2) и ### для подпунктов (H3). Включи 3-4 основных раздела.`;
     const plan = await generateWithRetry(planPrompt);
 
-    // --- ИЗМЕНЕНИЕ №2: Улучшенный промпт для генерации статьи ---
     const articlePrompt = `Напиши экспертную, полезную SEO-статью по этому плану:\n\n${plan}\n\nТема: "${topic}". ВАЖНО: строго следуй плану и используй синтаксис Markdown для всех заголовков (# для H1, ## для H2, ### для H3). Не добавляй никакого сопроводительного текста перед первым заголовком. Текст должен начинаться сразу с заголовка H1.`;
     let articleText = await generateWithRetry(articlePrompt);
-
-    // Логика очистки больше не нужна, так как промпт требует начинать с H1
 
     const paragraphs = articleText.split('\n\n');
     if (paragraphs.length > 2) {
@@ -75,7 +70,7 @@ async function generatePost(topic) {
         articleText = paragraphs.join('\n\n');
     }
     
-    const seoPrompt = `Для статьи на тему "${topic}" сгенерируй JSON-объект. ВАЖНО: твой ответ должен быть ТОЛЬКО валидным JSON-объектом, без какого-либо сопроводительного текста, комментариев или markdown-оберток. JSON должен содержать следующие поля: "title" (SEO-заголовок до 70 символов), "description" (мета-описание до 160 символов), "schema" (валидный JSON-LD schema.org для типа BlogPosting, включающий headline, description, author, publisher, datePublished).`;
+    const seoPrompt = `Для статьи на тему "${topic}" сгенерируй JSON-объект. ВАЖНО: твой ответ должен быть ТОЛЬКО валидным JSON-объектом, без какого-либо сопроводительного текста. JSON должен содержать следующие поля: "title" (SEO-заголовок), "description" (мета-описание), "heroImage" (URL релевантного, бесплатного для коммерческого использования изображения с Unsplash или Pexels, подходящего по теме), "schema" (валидный JSON-LD schema.org для типа BlogPosting, включающий headline, description, author, publisher, datePublished).`;
     let seoText = await generateWithRetry(seoPrompt);
 
     const match = seoText.match(/\{[\s\S]*\}/);
@@ -87,6 +82,7 @@ title: "${seoData.title.replace(/"/g, '\\"')}"
 description: "${seoData.description.replace(/"/g, '\\"')}"
 pubDate: "${new Date().toISOString()}"
 author: "ButlerSPB Expert"
+heroImage: "${seoData.heroImage}"
 schema: ${JSON.stringify(seoData.schema)}
 ---
 `;
@@ -125,4 +121,48 @@ async function main() {
     }
 }
 
-main();
+main();```
+</details>
+
+**Пункт 3: Итоговый код для Шаблона Статьи (`[slug].astro`)**
+<details>
+<summary><strong>Нажмите, чтобы развернуть код для `src/pages/blog/[slug].astro`</strong></summary>
+
+```astro
+---
+// Файл: src/pages/blog/[slug].astro
+import Layout from '../../layouts/Layout.astro';
+import { type CollectionEntry, getCollection } from 'astro:content';
+
+export async function getStaticPaths() {
+	const posts = await getCollection('posts');
+	return posts.map(post => ({
+		params: { slug: post.slug },
+		props: post,
+	}));
+}
+type Props = CollectionEntry<'posts'>;
+
+const post = Astro.props;
+const { Content } = await post.render();
+---
+
+<Layout title={post.data.title} description={post.data.description}>
+	<article>
+        <!-- ВОТ ИЗМЕНЕНИЕ: Добавляем изображение перед статьей -->
+        {post.data.heroImage && (
+            <img 
+                src={post.data.heroImage} 
+                alt={post.data.title} 
+                style="width: 100%; height: auto; border-radius: 8px; margin-bottom: 2rem;"
+            />
+        )}
+
+		<h1>{post.data.title}</h1>
+		<p>Опубликовано: {new Date(post.data.pubDate).toLocaleDateString('ru-RU')}</p>
+		<hr>
+		<Content />
+	</article>
+</Layout>
+
+<script type="application/ld+json" set:html={JSON.stringify(post.data.schema)} />
