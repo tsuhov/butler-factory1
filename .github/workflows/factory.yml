@@ -1,4 +1,4 @@
-name: 🚀 Content Factory (Diagnostic Mode)
+name: 🚀 Content Factory (Final Version)
 
 on:
   workflow_dispatch:
@@ -51,28 +51,17 @@ jobs:
             
             npm run factory
             
-            # --- НАЧАЛО ДИАГНОСТИЧЕСКОГО БЛОКА ---
-            echo "--- Диагностика Git ---"
-            echo "Проверяю статус файлов..."
-            git status
-
             if [[ -z $(git status --porcelain) ]]; then
-              echo "✅ Новых файлов для коммита не найдено. Завершаю итерацию."
-              continue # Переходим к следующей итерации, если она есть
+              echo "✅ Новых статей в этой итерации нет. Завершаю итерацию."
+              continue
             fi
             
-            echo "🔥 Обнаружены новые файлы. Добавляю в индекс..."
+            echo "🔥 Обнаружены новые файлы. Добавляю в индекс и выполняю коммит..."
             git add .
-
-            echo "Проверяю статус после 'git add':"
-            git status
-
-            echo "Выполняю коммит..."
             git commit -m "🚀 Авто-публикация: пачка статей №$i"
 
             echo "Выполняю push..."
             git push
-            # --- КОНЕЦ ДИАГНОСТИЧЕСКОГО БЛОКА ---
             
             commit_after=$(git rev-parse HEAD)
 
@@ -87,6 +76,7 @@ jobs:
             echo "✅ Пачка $i успешно обработана."
           done
 
+          # Улучшенный способ сохранения списка для следующего шага
           echo "urllist<<EOF" >> $GITHUB_OUTPUT
           echo -e "$ALL_NEW_URLS" >> $GITHUB_OUTPUT
           echo "EOF" >> $GITHUB_OUTPUT
@@ -98,13 +88,16 @@ jobs:
           API_KEY="d1b055ab1eb146d892169bbb2c96550e"
           HOST="butlerspb-blog.netlify.app"
           
+          # --- ВОТ ФИНАЛЬНОЕ ИСПРАВЛЕНИЕ ---
+          # Этот метод правильно обработает многострочный список URL
           JSON_PAYLOAD=$(jq -n \
                           --arg host "$HOST" \
                           --arg key "$API_KEY" \
-                          --argjson urls "$(echo '${{ steps.factory_run.outputs.urllist }}' | jq -R . | jq -s .)" \
-                          '{host: $host, key: $key, urlList: $urls}')
+                          --arg urls_string "${{ steps.factory_run.outputs.urllist }}" \
+                          '{host: $host, key: $key, urlList: ($urls_string | split("\n") | map(select(length > 0)))}'
+                          )
 
           curl -X POST "https://yandex.com/indexnow" \
                -H "Content-Type: application/json; charset=utf-8" \
                -d "$JSON_PAYLOAD"
-          echo -e "\nУведомление отправлено."```
+          echo -e "\nУведомление отправлено."
