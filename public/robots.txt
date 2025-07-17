@@ -1,0 +1,8 @@
+# Правила для всех поисковых роботов
+User-agent: *
+
+# Запрещаем сканировать служебные папки (на всякий случай)
+Disallow: /node_modules/
+
+# Указываем основной путь к карте сайта
+Sitemap: https://butlerspb-blog.netlify.app/sitemap.xml
