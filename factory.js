@@ -1,4 +1,4 @@
-// Файл: factory.js (Версия 7.0, "Неуязвимый")
+// Файл: factory.js (Версия 8.0, "Структурированный Markdown")
 import { GoogleGenerativeAI } from '@google/generative-ai';
 import fs from 'fs/promises';
 import path from 'path';
@@ -35,41 +35,37 @@ function slugify(text) {
     return newText.replace(/\s+/g, '-').replace(/[^\w-]+/g, '').replace(/--+/g, '-').replace(/^-+/, '').replace(/-+$/, '');
 }
 
-// --- НОВЫЙ БЛОК: Функция повторных запросов ---
 async function generateWithRetry(prompt, maxRetries = 4) {
-    let delay = 5000; // Начать с 5 секунд
+    let delay = 5000; 
     for (let i = 0; i < maxRetries; i++) {
         try {
             const result = await model.generateContent(prompt);
             return result.response.text();
         } catch (error) {
-            // Проверяем, является ли ошибка "перегрузкой сервера"
             if (error.message.includes('503')) {
                 console.warn(`[!] Модель перегружена. Попытка ${i + 1} из ${maxRetries}. Жду ${delay / 1000}с...`);
                 await new Promise(resolve => setTimeout(resolve, delay));
-                delay *= 2; // Увеличиваем задержку для следующей попытки
+                delay *= 2; 
             } else {
-                // Если ошибка другая, выбрасываем ее сразу
                 throw error;
             }
         }
     }
     throw new Error(`Не удалось получить ответ от модели после ${maxRetries} попыток.`);
 }
-// --- КОНЕЦ НОВОГО БЛОКА ---
 
 async function generatePost(topic) {
     console.log(`[+] Генерирую статью на тему: ${topic}`);
     
-    const planPrompt = `Создай детальный, экспертный план-структуру для статьи на тему "${topic}". Включи 3-4 основных раздела с подзаголовками H2 и несколько подпунктов для каждого.`;
+    // --- ИЗМЕНЕНИЕ №1: Улучшенный промпт для структуры ---
+    const planPrompt = `Создай детальный, экспертный план-структуру для SEO-статьи на тему "${topic}". Используй стандартный Markdown для иерархии: ## для заголовков второго уровня (H2) и ### для подпунктов (H3). Включи 3-4 основных раздела.`;
     const plan = await generateWithRetry(planPrompt);
 
-    const articlePrompt = `Напиши экспертную, полезную статью по этому плану:\n\n${plan}\n\nТема: "${topic}". Пиши без воды, структурированно, для владельцев недвижимости.`;
-    let rawArticleText = await generateWithRetry(articlePrompt);
+    // --- ИЗМЕНЕНИЕ №2: Улучшенный промпт для генерации статьи ---
+    const articlePrompt = `Напиши экспертную, полезную SEO-статью по этому плану:\n\n${plan}\n\nТема: "${topic}". ВАЖНО: строго следуй плану и используй синтаксис Markdown для всех заголовков (# для H1, ## для H2, ### для H3). Не добавляй никакого сопроводительного текста перед первым заголовком. Текст должен начинаться сразу с заголовка H1.`;
+    let articleText = await generateWithRetry(articlePrompt);
 
-    const lines = rawArticleText.split('\n');
-    const firstHeadingIndex = lines.findIndex(line => line.trim().startsWith('#'));
-    let articleText = firstHeadingIndex !== -1 ? lines.slice(firstHeadingIndex).join('\n') : rawArticleText;
+    // Логика очистки больше не нужна, так как промпт требует начинать с H1
 
     const paragraphs = articleText.split('\n\n');
     if (paragraphs.length > 2) {
@@ -118,7 +114,7 @@ async function main() {
                 const fullContent = await generatePost(topic);
                 await fs.writeFile(path.join(postsDir, `${slug}.md`), fullContent);
                 console.log(`[✔] Статья "${topic}" успешно создана и сохранена.`);
-                await new Promise(resolve => setTimeout(resolve, 1000)); // Можно уменьшить паузу
+                await new Promise(resolve => setTimeout(resolve, 1000));
             } catch (e) {
                 console.error(`[!] Ошибка при генерации статьи "${topic}": ${e.message}`);
                 continue;
