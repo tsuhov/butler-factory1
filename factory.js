@@ -1,4 +1,4 @@
-// Файл: factory.js (Версия 5.0, "Транслитерация")
+// Файл: factory.js (Версия 6.0, "Чистый Контент")
 import { GoogleGenerativeAI } from '@google/generative-ai';
 import fs from 'fs/promises';
 import path from 'path';
@@ -37,11 +37,11 @@ function slugify(text) {
     }
 
     return newText
-        .replace(/\s+/g, '-') // заменяем пробелы на -
-        .replace(/[^\w-]+/g, '') // удаляем все несловесные символы, кроме дефисов
-        .replace(/--+/g, '-') // заменяем несколько - на один -
-        .replace(/^-+/, '') // убираем дефисы в начале
-        .replace(/-+$/, ''); // убираем дефисы в конце
+        .replace(/\s+/g, '-') 
+        .replace(/[^\w-]+/g, '')
+        .replace(/--+/g, '-') 
+        .replace(/^-+/, '') 
+        .replace(/-+$/, '');
 }
 
 async function generatePost(topic) {
@@ -53,7 +53,20 @@ async function generatePost(topic) {
 
     const articlePrompt = `Напиши экспертную, полезную статью по этому плану:\n\n${plan}\n\nТема: "${topic}". Пиши без воды, структурированно, для владельцев недвижимости.`;
     const articleResult = await model.generateContent(articlePrompt);
-    let articleText = articleResult.response.text();
+    let rawArticleText = articleResult.response.text();
+
+    // --- ОПЕРАЦИЯ "ЧИСТЫЙ КОНТЕНТ" ---
+    // Находим первую строку, которая начинается с символа # (заголовок)
+    // и отсекаем весь текст до нее.
+    const lines = rawArticleText.split('\n');
+    const firstHeadingIndex = lines.findIndex(line => line.trim().startsWith('#'));
+
+    // Если заголовок найден, используем текст начиная с него.
+    // Если нет - используем исходный текст, чтобы ничего не потерять.
+    let articleText = firstHeadingIndex !== -1 
+      ? lines.slice(firstHeadingIndex).join('\n') 
+      : rawArticleText;
+    // --- КОНЕЦ ОПЕРАЦИИ ---
 
     const paragraphs = articleText.split('\n\n');
     if (paragraphs.length > 2) {
