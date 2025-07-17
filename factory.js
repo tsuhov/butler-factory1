@@ -1,4 +1,4 @@
-// Файл: factory.js (Версия 10.0, «Железобетон»)
+// Файл: factory.js (Версия 12.0, «Железобетон»)
 import { GoogleGenerativeAI } from '@google/generative-ai';
 import fs from 'fs/promises';
 import path from 'path';
@@ -9,6 +9,9 @@ const TARGET_URL_RENT = "https://butlerspb.ru/rent";
 const TOPICS_FILE = 'topics.txt';
 const POSTS_DIR = 'src/content/posts';
 const GEMINI_API_KEY = process.env.GEMINI_API_KEY;
+
+// --- ЗАЩИТА №3: Наш "Резервный Склад" с универсальным изображением ---
+const FALLBACK_IMAGE_URL = "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop";
 
 if (!GEMINI_API_KEY) {
   throw new Error("Секретный ключ GEMINI_API_KEY не найден в GitHub Secrets!");
@@ -35,7 +38,6 @@ function slugify(text) {
     return newText.replace(/\s+/g, '-').replace(/[^\w-]+/g, '').replace(/--+/g, '-').replace(/^-+/, '').replace(/-+$/, '');
 }
 
-// ВОТ УЛУЧШЕННАЯ ФУНКЦИЯ, КОТОРАЯ ОБРАБАТЫВАЕТ ОБЕ ОШИБКИ
 async function generateWithRetry(prompt, maxRetries = 4) {
     let delay = 5000;
     for (let i = 0; i < maxRetries; i++) {
@@ -79,12 +81,17 @@ async function generatePost(topic) {
     if (!match) { throw new Error("Не удалось найти валидный JSON в ответе модели."); }
     const seoData = JSON.parse(match[0]);
 
+    // --- ЗАЩИТА №2: Проверяем полученный URL на месте ---
+    const finalHeroImage = seoData.heroImage && seoData.heroImage.startsWith('http') 
+      ? seoData.heroImage 
+      : FALLBACK_IMAGE_URL; // Если URL "бракованный", используем запасной
+
     const frontmatter = `---
 title: "${seoData.title.replace(/"/g, '\\"')}"
 description: "${seoData.description.replace(/"/g, '\\"')}"
 pubDate: "${new Date().toISOString()}"
 author: "ButlerSPB Expert"
-heroImage: "${seoData.heroImage}"
+heroImage: "${finalHeroImage}"
 schema: ${JSON.stringify(seoData.schema)}
 ---
 `;
