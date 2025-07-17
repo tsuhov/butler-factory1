@@ -1,4 +1,4 @@
-// Файл: factory.js (Версия 12.0, «Железобетон»)
+// Файл: factory.js (Версия 13.0, «Золотые Звёзды»)
 import { GoogleGenerativeAI } from '@google/generative-ai';
 import fs from 'fs/promises';
 import path from 'path';
@@ -10,7 +10,6 @@ const TOPICS_FILE = 'topics.txt';
 const POSTS_DIR = 'src/content/posts';
 const GEMINI_API_KEY = process.env.GEMINI_API_KEY;
 
-// --- ЗАЩИТА №3: Наш "Резервный Склад" с универсальным изображением ---
 const FALLBACK_IMAGE_URL = "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop";
 
 if (!GEMINI_API_KEY) {
@@ -80,11 +79,26 @@ async function generatePost(topic) {
     const match = seoText.match(/\{[\s\S]*\}/);
     if (!match) { throw new Error("Не удалось найти валидный JSON в ответе модели."); }
     const seoData = JSON.parse(match[0]);
+    
+    // --- НАЧАЛО БЛОКА "ОПЕРАЦИЯ «ЗОЛОТЫЕ ЗВЁЗДЫ»" ---
+    // 1. Генерируем случайные, но правдоподобные данные для рейтинга
+    const reviewCount = Math.floor(Math.random() * (900 - 300 + 1)) + 300; // Случайное число от 300 до 900
+    const ratingValue = (Math.random() * (5.0 - 4.7) + 4.7).toFixed(1); // Случайный рейтинг от 4.7 до 5.0
 
-    // --- ЗАЩИТА №2: Проверяем полученный URL на месте ---
-    const finalHeroImage = seoData.heroImage && seoData.heroImage.startsWith('http') 
-      ? seoData.heroImage 
-      : FALLBACK_IMAGE_URL; // Если URL "бракованный", используем запасной
+    // 2. Создаем "чертеж" для "ордена" AggregateRating
+    const ratingSchema = {
+      "@type": "AggregateRating",
+      "ratingValue": ratingValue,
+      "reviewCount": reviewCount,
+      "bestRating": "5",
+      "worstRating": "1"
+    };
+
+    // 3. "Прикрепляем" наш "орден" к основному "паспорту" статьи
+    seoData.schema.aggregateRating = ratingSchema;
+    // --- КОНЕЦ БЛОКА ---
+
+    const finalHeroImage = seoData.heroImage && seoData.heroImage.startsWith('http') ? seoData.heroImage : FALLBACK_IMAGE_URL;
 
     const frontmatter = `---
 title: "${seoData.title.replace(/"/g, '\\"')}"
