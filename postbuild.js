@@ -1,8 +1,8 @@
-// Файл: postbuild.js
+// Файл: postbuild.js (Версия 2.0, с правильным доменом)
 import fs from 'fs/promises';
 import path from 'path';
 
-// ВАЖНО: Замените этот адрес на ваш реальный адрес Netlify
+// ВАЖНО: Адрес вашего сайта Netlify
 const siteUrl = 'https://butlerspb-blog.netlify.app'; 
 const publicDir = './dist';
 
@@ -13,11 +13,11 @@ async function generateSitemap() {
         const htmlFiles = files.filter(file => file.endsWith('.html'));
 
         const urls = htmlFiles.map(file => {
-            let relativePath = path.join('/', file).replace(/\\/g, '/'); // Нормализуем путь
+            let relativePath = path.join('/', file).replace(/\\/g, '/');
             if (relativePath.endsWith('index.html')) {
-                relativePath = relativePath.slice(0, -10); // Убираем 'index.html', оставляя '/'
+                relativePath = relativePath.slice(0, -10);
             } else if (relativePath.endsWith('.html')) {
-                relativePath = relativePath.slice(0, -5); // Убираем '.html'
+                relativePath = relativePath.slice(0, -5);
             }
             return `
     <url>
