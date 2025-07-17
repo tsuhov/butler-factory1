@@ -1,4 +1,4 @@
-name: 🚀 Content Factory (Armored Conveyor)
+name: 🚀 Content Factory (IndexNow Ready)
 
 on:
   workflow_dispatch:
@@ -14,7 +14,6 @@ on:
 
 jobs:
   build:
-    # ВОТ КЛЮЧЕВОЕ ДОБАВЛЕНИЕ - ВЫДАЕМ ПРАВА
     permissions:
       contents: write
       
@@ -23,8 +22,9 @@ jobs:
       - name: ⬇️ Checkout repo
         uses: actions/checkout@v4
         with:
-          token: ${{ secrets.GITHUB_TOKEN }}
-        
+          # ВАЖНО: Нам нужна вся история, чтобы сравнивать изменения
+          fetch-depth: 0 
+
       - name: ⚙️ Setup Node.js
         uses: actions/setup-node@v4
         with:
@@ -34,6 +34,7 @@ jobs:
         run: npm install
 
       - name: 🏭 Run Content Factory Conveyor
+        id: factory_run # <-- Даем этому шагу ID, чтобы передать данные дальше
         env:
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
           BATCH_SIZE: ${{ github.event.inputs.batch_size }}
@@ -41,20 +42,64 @@ jobs:
           git config --global user.name 'GitHub Actions Bot'
           git config --global user.email 'actions-bot@github.com'
           
+          # Переменная для хранения ВСЕХ новых URL за весь запуск
+          ALL_NEW_URLS=""
+
           for i in $(seq 1 ${{ github.event.inputs.iterations }})
           do
             echo "--- КОНВЕЙЕР: Запуск итерации $i из ${{ github.event.inputs.iterations }} ---"
+            
+            commit_before=$(git rev-parse HEAD)
+            
             npm run factory
             
-            # Проверяем, есть ли изменения (статьи или package-lock.json)
             if [[ -z $(git status --porcelain) ]]; then
               echo "✅ Новых статей в этой итерации нет. Работа полностью завершена."
               break
             fi
 
             echo "🔥 Обнаружены новые файлы. Отправляю пачку $i..."
-            git add .
-            git commit -m "🚀 Авто-публикация: пачка статей №$i"
-            git push
+            # Добавляем --atomic чтобы гарантировать, что push пройдет успешно
+            git push --atomic origin main
+            
+            commit_after=$(git rev-parse HEAD)
+
+            # Получаем список созданных статей ТОЛЬКО в этой итерации
+            NEW_FILES=$(git diff --name-only $commit_before $commit_after -- 'src/content/posts/*.md')
+            
+            for file in $NEW_FILES; do
+              slug=$(basename $file .md)
+              url="https://butlerspb-blog.netlify.app/blog/${slug}/"
+              ALL_NEW_URLS="${ALL_NEW_URLS}${url}\n"
+            done
+
             echo "✅ Пачка $i успешно отправлена на публикацию."
           done
+
+          # Сохраняем итоговый список URL для следующего шага
+          echo "urllist<<EOF" >> $GITHUB_OUTPUT
+          echo -e "$ALL_NEW_URLS" >> $GITHUB_OUTPUT
+          echo "EOF" >> $GITHUB_OUTPUT
+
+      # --- ВОТ НОВЫЙ ШАГ, КОТОРЫЙ МЫ ДОБАВЛЯЕМ В КОНЕЦ ---
+      - name: 📢 Notify IndexNow
+        # Этот шаг выполняется, только если были сгенерированы новые URL
+        if: steps.factory_run.outputs.urllist
+        run: |
+          echo "Отправляю уведомление о новых страницах в IndexNow..."
+          # ВАЖНО: Вставьте сюда ваш СГЕНЕРИРОВАННЫЙ ключ
+          API_KEY="d1b055ab1eb146d892169bbb2c96550e"
+          HOST="butlerspb-blog.netlify.app"
+          
+          # Создаем JSON-тело запроса
+          JSON_PAYLOAD=$(jq -n \
+                          --arg host "$HOST" \
+                          --arg key "$API_KEY" \
+                          --argjson urls "$(echo '${{ steps.factory_run.outputs.urllist }}' | jq -R . | jq -s .)" \
+                          '{host: $host, key: $key, urlList: $urls}')
+
+          # Отправляем POST-запрос
+          curl -X POST "https://yandex.com/indexnow" \
+               -H "Content-Type: application/json; charset=utf-8" \
+               -d "$JSON_PAYLOAD"
+          echo -e "\nУведомление отправлено."
