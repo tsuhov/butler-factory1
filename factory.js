@@ -1,8 +1,9 @@
-// Файл: factory.js (Версия 9.0, с изображениями)
+// Файл: factory.js (Версия 10.0, «Железобетон»)
 import { GoogleGenerativeAI } from '@google/generative-ai';
 import fs from 'fs/promises';
 import path from 'path';
 
+// --- НАСТРОЙКИ ОПЕРАЦИИ ---
 const TARGET_URL_MAIN = "https://butlerspb.ru";
 const TARGET_URL_RENT = "https://butlerspb.ru/rent";
 const TOPICS_FILE = 'topics.txt';
@@ -34,6 +35,7 @@ function slugify(text) {
     return newText.replace(/\s+/g, '-').replace(/[^\w-]+/g, '').replace(/--+/g, '-').replace(/^-+/, '').replace(/-+$/, '');
 }
 
+// ВОТ УЛУЧШЕННАЯ ФУНКЦИЯ, КОТОРАЯ ОБРАБАТЫВАЕТ ОБЕ ОШИБКИ
 async function generateWithRetry(prompt, maxRetries = 4) {
     let delay = 5000;
     for (let i = 0; i < maxRetries; i++) {
@@ -41,8 +43,8 @@ async function generateWithRetry(prompt, maxRetries = 4) {
             const result = await model.generateContent(prompt);
             return result.response.text();
         } catch (error) {
-            if (error.message.includes('503')) {
-                console.warn(`[!] Модель перегружена. Попытка ${i + 1} из ${maxRetries}. Жду ${delay / 1000}с...`);
+            if (error.message.includes('503') || error.message.includes('429')) {
+                console.warn(`[!] Модель перегружена или квота исчерпана. Попытка ${i + 1} из ${maxRetries}. Жду ${delay / 1000}с...`);
                 await new Promise(resolve => setTimeout(resolve, delay));
                 delay *= 2;
             } else {
@@ -121,48 +123,4 @@ async function main() {
     }
 }
 
-main();```
-</details>
-
-**Пункт 3: Итоговый код для Шаблона Статьи (`[slug].astro`)**
-<details>
-<summary><strong>Нажмите, чтобы развернуть код для `src/pages/blog/[slug].astro`</strong></summary>
-
-```astro
----
-// Файл: src/pages/blog/[slug].astro
-import Layout from '../../layouts/Layout.astro';
-import { type CollectionEntry, getCollection } from 'astro:content';
-
-export async function getStaticPaths() {
-	const posts = await getCollection('posts');
-	return posts.map(post => ({
-		params: { slug: post.slug },
-		props: post,
-	}));
-}
-type Props = CollectionEntry<'posts'>;
-
-const post = Astro.props;
-const { Content } = await post.render();
----
-
-<Layout title={post.data.title} description={post.data.description}>
-	<article>
-        <!-- ВОТ ИЗМЕНЕНИЕ: Добавляем изображение перед статьей -->
-        {post.data.heroImage && (
-            <img 
-                src={post.data.heroImage} 
-                alt={post.data.title} 
-                style="width: 100%; height: auto; border-radius: 8px; margin-bottom: 2rem;"
-            />
-        )}
-
-		<h1>{post.data.title}</h1>
-		<p>Опубликовано: {new Date(post.data.pubDate).toLocaleDateString('ru-RU')}</p>
-		<hr>
-		<Content />
-	</article>
-</Layout>
-
-<script type="application/ld+json" set:html={JSON.stringify(post.data.schema)} />
+main();
