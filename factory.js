@@ -1,8 +1,10 @@
-// Файл: factory.js (Версия 15.0, «Идеальная Микроразметка»)
+// Файл: factory.js (Версия 16.0, «Финальный Синтез»)
 import { GoogleGenerativeAI } from '@google/generative-ai';
 import fs from 'fs/promises';
 import path from 'path';
+import fetch from 'node-fetch'; // Убедимся, что fetch импортирован
 
+// --- НАСТРОЙКИ ОПЕРАЦИИ ---
 const TARGET_URL_MAIN = "https://butlerspb.ru";
 const TARGET_URL_RENT = "https://butlerspb.ru/rent";
 const TOPICS_FILE = 'topics.txt';
@@ -26,6 +28,20 @@ const ANCHORS = [
     `подробности на <a href="${TARGET_URL_RENT}" target="_blank" rel="nofollow">этой странице</a>`,
     `доверительное управление квартирой - <a href="${TARGET_URL_RENT}" target="_blank" rel="nofollow">отличное решение</a>`
 ];
+
+// --- Функция "Боевой Проверки" URL ---
+async function isUrlAccessible(url) {
+    if (!url || !url.startsWith('http')) {
+        return false;
+    }
+    try {
+        const response = await fetch(url, { method: 'HEAD' });
+        return response.ok;
+    } catch (error) {
+        console.warn(`[!] Предупреждение: не удалось проверить URL изображения: ${url}. Ошибка: ${error.message}`);
+        return false;
+    }
+}
 
 function slugify(text) {
     const from = "а б в г д е ё ж з и й к л м н о п р с т у ф х ц ч ш щ ъ ы ь э ю я".split(' ');
@@ -73,7 +89,6 @@ async function generatePost(topic, slug) {
         articleText = paragraphs.join('\n\n');
     }
     
-    // --- ИЗМЕНЕНИЕ №1: Улучшенный промпт для SEO ---
     const seoPrompt = `Для статьи на тему "${topic}" сгенерируй JSON-объект. ВАЖНО: твой ответ должен быть ТОЛЬКО валидным JSON-объектом. JSON должен содержать: "title", "description", "heroImage" (URL с Unsplash или Pexels), "authorName" (имя автора, например "Эксперт ButlerSPB"), "publisherName" (название издателя, например "Блог ButlerSPB").`;
     let seoText = await generateWithRetry(seoPrompt);
 
@@ -84,12 +99,16 @@ async function generatePost(topic, slug) {
     const reviewCount = Math.floor(Math.random() * (900 - 300 + 1)) + 300;
     const ratingValue = (Math.random() * (5.0 - 4.7) + 4.7).toFixed(1);
 
-    const finalHeroImage = seoData.heroImage && seoData.heroImage.startsWith('http') ? seoData.heroImage : FALLBACK_IMAGE_URL;
+    // --- ИСПОЛЬЗУЕМ "БОЕВУЮ ПРОВЕРКУ" И ЗАПАСНОЕ ИЗОБРАЖЕНИЕ ---
+    const isImageOk = await isUrlAccessible(seoData.heroImage);
+    const finalHeroImage = isImageOk ? seoData.heroImage : FALLBACK_IMAGE_URL;
+    if (!isImageOk) {
+        console.warn(`[!] Изображение от Gemini недоступно (${seoData.heroImage}). Используется запасное.`);
+    }
 
-    // --- ИЗМЕНЕНИЕ №2: Создаем новую, полностью валидную схему ---
     const fullSchema = {
       "@context": "https://schema.org",
-      "@type": "HowTo", // Используем тип HowTo, который ПОДДЕРЖИВАЕТ рейтинг
+      "@type": "HowTo",
       "name": seoData.title,
       "description": seoData.description,
       "image": {
@@ -115,7 +134,6 @@ async function generatePost(topic, slug) {
         "@type": "WebPage",
         "@id": `${SITE_URL}/blog/${slug}/`
       }
-      // Дополнительные поля для HowTo можно будет добавить позже (например, шаги)
     };
 
     const frontmatter = `---
@@ -148,7 +166,6 @@ async function main() {
             try {
                 const slug = slugify(topic);
                 if (!slug) { console.error(`[!] Пропускаю тему "${topic}", так как из нее не удалось создать имя файла.`); continue; }
-                // Передаем slug в generatePost
                 const fullContent = await generatePost(topic, slug);
                 await fs.writeFile(path.join(postsDir, `${slug}.md`), fullContent);
                 console.log(`[✔] Статья "${topic}" успешно создана и сохранена.`);
