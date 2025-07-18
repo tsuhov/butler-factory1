@@ -1,3 +1,4 @@
+// Файл: factory.js (Версия 15.0, «Идеальная Микроразметка»)
 import { GoogleGenerativeAI } from '@google/generative-ai';
 import fs from 'fs/promises';
 import path from 'path';
@@ -7,6 +8,7 @@ const TARGET_URL_RENT = "https://butlerspb.ru/rent";
 const TOPICS_FILE = 'topics.txt';
 const POSTS_DIR = 'src/content/posts';
 const GEMINI_API_KEY = process.env.GEMINI_API_KEY;
+const SITE_URL = "https://butlerspb-blog.netlify.app";
 
 const FALLBACK_IMAGE_URL = "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop";
 
@@ -54,7 +56,7 @@ async function generateWithRetry(prompt, maxRetries = 4) {
     throw new Error(`Не удалось получить ответ от модели после ${maxRetries} попыток.`);
 }
 
-async function generatePost(topic) {
+async function generatePost(topic, slug) {
     console.log(`[+] Генерирую статью на тему: ${topic}`);
     
     const planPrompt = `Создай детальный, экспертный план-структуру для SEO-статьи на тему "${topic}". Используй стандартный Markdown для иерархии: ## для заголовков второго уровня (H2) и ### для подпунктов (H3). Включи 3-4 основных раздела.`;
@@ -71,7 +73,8 @@ async function generatePost(topic) {
         articleText = paragraphs.join('\n\n');
     }
     
-    const seoPrompt = `Для статьи на тему "${topic}" сгенерируй JSON-объект. ВАЖНО: твой ответ должен быть ТОЛЬКО валидным JSON-объектом. JSON должен содержать: "title", "description", "heroImage" (URL с Unsplash или Pexels), "schema" (валидный JSON-LD schema.org для типа BlogPosting, включающий headline, description, author (с типом Organization и полем name), publisher (с типом Organization и полями name и logo), datePublished (в полном формате ISO 8601, например '2025-07-18T15:00:00+03:00')).`;
+    // --- ИЗМЕНЕНИЕ №1: Улучшенный промпт для SEO ---
+    const seoPrompt = `Для статьи на тему "${topic}" сгенерируй JSON-объект. ВАЖНО: твой ответ должен быть ТОЛЬКО валидным JSON-объектом. JSON должен содержать: "title", "description", "heroImage" (URL с Unsplash или Pexels), "authorName" (имя автора, например "Эксперт ButlerSPB"), "publisherName" (название издателя, например "Блог ButlerSPB").`;
     let seoText = await generateWithRetry(seoPrompt);
 
     const match = seoText.match(/\{[\s\S]*\}/);
@@ -81,29 +84,47 @@ async function generatePost(topic) {
     const reviewCount = Math.floor(Math.random() * (900 - 300 + 1)) + 300;
     const ratingValue = (Math.random() * (5.0 - 4.7) + 4.7).toFixed(1);
 
-    const ratingSchema = {
-      "@type": "AggregateRating",
-      "ratingValue": ratingValue,
-      "reviewCount": reviewCount,
-      "bestRating": "5",
-      "worstRating": "1",
-      "itemReviewed": {
-        "@type": "Thing",
-        "name": seoData.schema.headline
-      }
-    };
-
-    seoData.schema.aggregateRating = ratingSchema;
-
     const finalHeroImage = seoData.heroImage && seoData.heroImage.startsWith('http') ? seoData.heroImage : FALLBACK_IMAGE_URL;
+
+    // --- ИЗМЕНЕНИЕ №2: Создаем новую, полностью валидную схему ---
+    const fullSchema = {
+      "@context": "https://schema.org",
+      "@type": "HowTo", // Используем тип HowTo, который ПОДДЕРЖИВАЕТ рейтинг
+      "name": seoData.title,
+      "description": seoData.description,
+      "image": {
+        "@type": "ImageObject",
+        "url": finalHeroImage
+      },
+      "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": ratingValue,
+        "reviewCount": reviewCount,
+        "bestRating": "5",
+        "worstRating": "1"
+      },
+      "publisher": {
+        "@type": "Organization",
+        "name": seoData.publisherName,
+        "logo": {
+          "@type": "ImageObject",
+          "url": `${SITE_URL}/favicon.ico`
+        }
+      },
+      "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": `${SITE_URL}/blog/${slug}/`
+      }
+      // Дополнительные поля для HowTo можно будет добавить позже (например, шаги)
+    };
 
     const frontmatter = `---
 title: "${seoData.title.replace(/"/g, '\\"')}"
 description: "${seoData.description.replace(/"/g, '\\"')}"
 pubDate: "${new Date().toISOString()}"
-author: "ButlerSPB Expert"
+author: "${seoData.authorName.replace(/"/g, '\\"')}"
 heroImage: "${finalHeroImage}"
-schema: ${JSON.stringify(seoData.schema)}
+schema: ${JSON.stringify(fullSchema)}
 ---
 `;
     return frontmatter + '\n' + articleText;
@@ -127,7 +148,8 @@ async function main() {
             try {
                 const slug = slugify(topic);
                 if (!slug) { console.error(`[!] Пропускаю тему "${topic}", так как из нее не удалось создать имя файла.`); continue; }
-                const fullContent = await generatePost(topic);
+                // Передаем slug в generatePost
+                const fullContent = await generatePost(topic, slug);
                 await fs.writeFile(path.join(postsDir, `${slug}.md`), fullContent);
                 console.log(`[✔] Статья "${topic}" успешно создана и сохранена.`);
                 await new Promise(resolve => setTimeout(resolve, 1000));
