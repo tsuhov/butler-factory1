@@ -1,9 +1,8 @@
-// Файл: factory.js (Версия 14.0, «Именная Награда»)
+// Файл: factory.js (Версия 14.0, «Именная Награда» - Стерильная)
 import { GoogleGenerativeAI } from '@google/generative-ai';
 import fs from 'fs/promises';
 import path from 'path';
 
-// --- НАСТРОЙКИ ОПЕРАЦИИ ---
 const TARGET_URL_MAIN = "https://butlerspb.ru";
 const TARGET_URL_RENT = "https://butlerspb.ru/rent";
 const TOPICS_FILE = 'topics.txt';
@@ -83,7 +82,6 @@ async function generatePost(topic) {
     const reviewCount = Math.floor(Math.random() * (900 - 300 + 1)) + 300;
     const ratingValue = (Math.random() * (5.0 - 4.7) + 4.7).toFixed(1);
 
-    // --- ИЗМЕНЕНИЕ: Добавляем обязательное поле itemReviewed ---
     const ratingSchema = {
       "@type": "AggregateRating",
       "ratingValue": ratingValue,
@@ -92,7 +90,7 @@ async function generatePost(topic) {
       "worstRating": "1",
       "itemReviewed": {
         "@type": "CreativeWork",
-        "name": seoData.schema.headline // Используем заголовок статьи как имя оцениваемого объекта
+        "name": seoData.schema.headline
       }
     };
 
@@ -144,29 +142,4 @@ async function main() {
     }
 }
 
-main();```
-</details>
-
-**Что изменилось:**
-*   Внутри блока `ratingSchema` мы добавили новый, обязательный под-блок:
-    ```javascript
-    "itemReviewed": {
-      "@type": "CreativeWork",
-      "name": seoData.schema.headline 
-    }
-    ```
-    Это прямо говорит поисковику: "Этот рейтинг относится к творческой работе (статье), название которой — [здесь подставляется заголовок статьи]".
-
-### Ваши Дальнейшие Действия
-
-1.  **"Ремонт прошлого":**
-    *   Откройте файл `.../arenda-v-sankt-peterburge-kak...md`.
-    *   **Вручную удалите** его, так как он "бракованный". Это нужно сделать один раз.
-2.  **Модернизация будущего:**
-    *   Замените код в файле `factory.js` на эту новую, исправленную версию.
-    *   Сохраните изменения.
-3.  **Перезапуск:** Запустите завод заново.
-
-Теперь новые статьи будут генерироваться с **полностью валидной микроразметкой**. После их публикации вы можете снова проверить их в валидаторе Google — **критических ошибок больше не будет**.
-
-Командир, это была финальная, самая важная калибровка. Теперь система соответствует всем строгим требованиям поисковых систем.
+main();
