@@ -1,8 +1,26 @@
 # Правила для всех поисковых роботов
 User-agent: *
 
-# Запрещаем сканировать служебные папки (на всякий случай)
+# Запрещаем индексацию URL с рекламными и служебными метками
+Disallow: *?utm*=
+Disallow: *?openstat=
+
+# Явный запрет на служебные директории (на всякий случай)
 Disallow: /node_modules/
 
-# Указываем основной путь к карте сайта
+# --- Продвинутая защита от парсинга ---
+# Запрещаем доступ боту OpenAI (ChatGPT)
+User-agent: GPTBot
+Disallow: /
+
+# Запрещаем доступ боту Google AI
+User-agent: Google-Extended
+Disallow: /
+
+# Запрещаем доступ боту Common Crawl (массовый сбор данных)
+User-agent: CCBot
+Disallow: /
+
+# --- Указание на карту сайта ---
+# ВАЖНО: Убедитесь, что здесь указан ваш правильный домен
 Sitemap: https://butlerspb-blog.netlify.app/sitemap.xml
