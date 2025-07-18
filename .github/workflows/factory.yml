@@ -1,4 +1,4 @@
-name: 🚀 Content Factory (Final Version)
+name: 🚀 Content Factory (Yandex + Bing Ready)
 
 on:
   workflow_dispatch:
@@ -52,15 +52,17 @@ jobs:
             npm run factory
             
             if [[ -z $(git status --porcelain) ]]; then
-              echo "✅ Новых статей в этой итерации нет. Завершаю итерацию."
-              continue
+              echo "✅ Новых статей в этой итерации нет. Работа полностью завершена."
+              break
             fi
-            
+
             echo "🔥 Обнаружены новые файлы. Добавляю в индекс и выполняю коммит..."
             git add .
             git commit -m "🚀 Авто-публикация: пачка статей №$i"
 
             echo "Выполняю push..."
+            # --- ИЗМЕНЕНИЕ: Добавляем git pull перед push ---
+            git pull --rebase
             git push
             
             commit_after=$(git rev-parse HEAD)
@@ -76,28 +78,32 @@ jobs:
             echo "✅ Пачка $i успешно обработана."
           done
 
-          # Улучшенный способ сохранения списка для следующего шага
           echo "urllist<<EOF" >> $GITHUB_OUTPUT
           echo -e "$ALL_NEW_URLS" >> $GITHUB_OUTPUT
           echo "EOF" >> $GITHUB_OUTPUT
 
-      - name: 📢 Notify IndexNow
+      - name: 📢 Notify IndexNow (Yandex & Bing)
         if: steps.factory_run.outputs.urllist
         run: |
-          echo "Отправляю уведомление о новых страницах в IndexNow..."
+          echo "Подготовка к отправке уведомлений в IndexNow..."
           API_KEY="d1b055ab1eb146d892169bbb2c96550e"
           HOST="butlerspb-blog.netlify.app"
           
-          # --- ВОТ ФИНАЛЬНОЕ ИСПРАВЛЕНИЕ ---
-          # Этот метод правильно обработает многострочный список URL
           JSON_PAYLOAD=$(jq -n \
                           --arg host "$HOST" \
                           --arg key "$API_KEY" \
                           --arg urls_string "${{ steps.factory_run.outputs.urllist }}" \
                           '{host: $host, key: $key, urlList: ($urls_string | split("\n") | map(select(length > 0)))}'
                           )
-
+          
+          echo "--- Отправка в Яндекс ---"
           curl -X POST "https://yandex.com/indexnow" \
                -H "Content-Type: application/json; charset=utf-8" \
                -d "$JSON_PAYLOAD"
-          echo -e "\nУведомление отправлено."
+          
+          echo -e "\n--- Отправка в Bing ---"
+          curl -X POST "https://www.bing.com/indexnow" \
+               -H "Content-Type: application/json; charset=utf-8" \
+               -d "$JSON_PAYLOAD"
+
+          echo -e "\nУведомления отправлены."
