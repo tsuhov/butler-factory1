@@ -13,11 +13,8 @@ const { title, description } = Astro.props;
 		<meta name="viewport" content="width=device-width" />
 		<title>{title}</title>
         
-        <!-- Ваши теги верификации -->
         <meta name="google-site-verification" content="QmTdEF5xHLHXsL1FEcotg-xZTPfD14z9BxH6D64b0ds" />
         <meta name="yandex-verification" content="92b03968d7c06925" />
-
-        <!-- === НОВАЯ, КЛЮЧЕВАЯ СТРОКА === -->
         <link rel="icon" href="/favicon.ico" type="image/x-icon">
 
         <!-- Yandex.Metrika counter -->
@@ -36,15 +33,16 @@ const { title, description } = Astro.props;
            });
         </script>
         <!-- /Yandex.Metrika counter -->
-
 	</head>
 	<body>
-        <!-- Yandex.Metrika noscript -->
         <noscript><div><img src="https://mc.yandex.ru/watch/103370647" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
-        <!-- /Yandex.Metrika noscript -->
 
-		<header style="padding: 1rem; border-bottom: 1px solid #ccc; margin-bottom: 2rem;">
+		<header style="padding: 1rem; border-bottom: 1px solid #ccc; margin-bottom: 2rem; display: flex; justify-content: space-between; align-items: center;">
 			<a href="/" style="text-decoration: none; font-weight: bold; font-size: 1.2rem;">Наш Блог-сателлит</a>
+            <nav>
+                <a href="/blog" style="margin-left: 1rem;">Блог</a>
+                <a href="/kontakty" style="margin-left: 1rem;">Контакты</a>
+            </nav>
 		</header>
 		<main style="padding: 0 1rem;">
 			<slot />
