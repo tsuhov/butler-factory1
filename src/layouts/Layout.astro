@@ -13,11 +13,14 @@ const { title, description } = Astro.props;
 		<meta name="viewport" content="width=device-width" />
 		<title>{title}</title>
         
-        <!-- Ваши теги верификации (остаются на месте) -->
+        <!-- Ваши теги верификации -->
         <meta name="google-site-verification" content="QmTdEF5xHLHXsL1FEcotg-xZTPfD14z9BxH6D64b0ds" />
         <meta name="yandex-verification" content="92b03968d7c06925" />
 
-        <!-- НОВЫЙ Yandex.Metrika counter (основная часть) -->
+        <!-- === НОВАЯ, КЛЮЧЕВАЯ СТРОКА === -->
+        <link rel="icon" href="/favicon.ico" type="image/x-icon">
+
+        <!-- Yandex.Metrika counter -->
         <script type="text/javascript" >
            (function(m,e,t,r,i,k,a){m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)};
            m[i].l=1*new Date();
@@ -36,9 +39,9 @@ const { title, description } = Astro.props;
 
 	</head>
 	<body>
-        <!-- НОВЫЙ Yandex.Metrika counter (noscript часть) -->
+        <!-- Yandex.Metrika noscript -->
         <noscript><div><img src="https://mc.yandex.ru/watch/103370647" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
-        <!-- /Yandex.Metrika counter -->
+        <!-- /Yandex.Metrika noscript -->
 
 		<header style="padding: 1rem; border-bottom: 1px solid #ccc; margin-bottom: 2rem;">
 			<a href="/" style="text-decoration: none; font-weight: bold; font-size: 1.2rem;">Наш Блог-сателлит</a>
