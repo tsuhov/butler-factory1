@@ -1,4 +1,4 @@
-name: 🚀 Content Factory (Per-Batch Notify)
+name: 🚀 Content Factory (Diagnostic Mode)
 
 on:
   workflow_dispatch:
@@ -6,11 +6,11 @@ on:
       batch_size:
         description: 'Сколько статей генерировать за 1 итерацию?'
         required: true
-        default: '50'
+        default: '1'
       iterations:
         description: 'Сколько раз запустить конвейер?'
         required: true
-        default: '10'
+        default: '1'
 
 jobs:
   build:
@@ -33,6 +33,7 @@ jobs:
         run: npm install
 
       - name: 🏭 Run Content Factory Conveyor
+        id: factory_run
         env:
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
           BATCH_SIZE: ${{ github.event.inputs.batch_size }}
@@ -40,6 +41,8 @@ jobs:
           git config --global user.name 'GitHub Actions Bot'
           git config --global user.email 'actions-bot@github.com'
           
+          ALL_NEW_URLS=""
+
           for i in $(seq 1 ${{ github.event.inputs.iterations }})
           do
             echo "--- КОНВЕЙЕР: Запуск итерации $i из ${{ github.event.inputs.iterations }} ---"
@@ -63,36 +66,58 @@ jobs:
             
             commit_after=$(git rev-parse HEAD)
 
-            # --- ЛОГИКА INDEXNOW ПЕРЕНЕСЕНА ВНУТРЬ ЦИКЛА ---
             NEW_FILES=$(git diff --name-only $commit_before $commit_after -- 'src/content/posts/*.md')
             
-            # Собираем URL только для этой пачки
-            URL_LIST=""
             for file in $NEW_FILES; do
               slug=$(basename $file .md)
               url="https://butlerspb-blog.netlify.app/blog/${slug}/"
-              URL_LIST="${URL_LIST}${url}\n"
+              ALL_NEW_URLS="${ALL_NEW_URLS}${url}\n"
             done
 
-            if [[ -n "$URL_LIST" ]]; then
-              echo "📢 Отправляю уведомление о новых страницах в IndexNow..."
-              API_KEY="d1b055ab1eb146d892169bbb2c96550e"
-              HOST="butlerspb-blog.netlify.app"
-              
-              JSON_PAYLOAD=$(jq -n \
-                              --arg host "$HOST" \
-                              --arg key "$API_KEY" \
-                              --arg urls_string "$URL_LIST" \
-                              '{host: $host, key: $key, urlList: ($urls_string | split("\n") | map(select(length > 0)))}'
-                              )
-              
-              echo "--- Отправка в Яндекс ---"
-              curl -X POST "https://yandex.com/indexnow" -H "Content-Type: application/json; charset=utf-8" -d "$JSON_PAYLOAD"
-              
-              echo -e "\n--- Отправка в Bing ---"
-              curl -X POST "https://www.bing.com/indexnow" -H "Content-Type: application/json; charset=utf-8" -d "$JSON_PAYLOAD"
-            fi
-            # --- КОНЕЦ ЛОГИКИ INDEXNOW ---
-
-            echo -e "\n✅ Пачка $i успешно обработана и отправлена в IndexNow."
+            echo "✅ Пачка $i успешно обработана."
           done
+
+          echo "urllist<<EOF" >> $GITHUB_OUTPUT
+          echo -e "$ALL_NEW_URLS" >> $GITHUB_OUTPUT
+          echo "EOF" >> $GITHUB_OUTPUT
+
+      # --- НОВЫЙ ДИАГНОСТИЧЕСКИЙ ШАГ ---
+      - name: 🔬 Inspect URL List
+        if: steps.factory_run.outputs.urllist
+        run: |
+          echo "--- НАЧАЛО ДИАГНОСТИКИ СПИСКА URL ---"
+          echo "Вот список URL, который был передан на следующий шаг:"
+          echo "-------------------------------------------"
+          echo "${{ steps.factory_run.outputs.urllist }}"
+          echo "-------------------------------------------"
+          echo "Теперь я покажу его в 'сыром' виде, с невидимыми символами:"
+          echo "-------------------------------------------"
+          echo "${{ steps.factory_run.outputs.urllist }}" | cat -ET
+          echo "-------------------------------------------"
+          echo "--- КОНЕЦ ДИАГНОСТИКИ ---"
+
+      - name: 📢 Notify IndexNow (Yandex & Bing)
+        if: steps.factory_run.outputs.urllist
+        run: |
+          echo "Подготовка к отправке уведомлений в IndexNow..."
+          API_KEY="d1b055ab1eb146d892169bbb2c96550e"
+          HOST="butlerspb-blog.netlify.app"
+          
+          JSON_PAYLOAD=$(jq -n \
+                          --arg host "$HOST" \
+                          --arg key "$API_KEY" \
+                          --arg urls_string "${{ steps.factory_run.outputs.urllist }}" \
+                          '{host: $host, key: $key, urlList: ($urls_string | split("\n") | map(select(length > 0)))}'
+                          )
+          
+          echo "--- Отправка в Яндекс ---"
+          curl -X POST "https://yandex.com/indexnow" \
+               -H "Content-Type: application/json; charset=utf-8" \
+               -d "$JSON_PAYLOAD"
+          
+          echo -e "\n--- Отправка в Bing ---"
+          curl -X POST "https://www.bing.com/indexnow" \
+               -H "Content-Type: application/json; charset=utf-8" \
+               -d "$JSON_PAYLOAD"
+
+          echo -e "\nУведомления отправлены."
