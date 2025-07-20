@@ -1,4 +1,4 @@
-name: 🚀 Content Factory (Ironclad Report)
+name: 🚀 Content Factory (Full Diagnostics)
 
 on:
   workflow_dispatch:
@@ -74,16 +74,22 @@ jobs:
             done
 
             if [[ -n "$URL_LIST" ]]; then
-              echo "📢 Отправляю уведомление о новых страницах в IndexNow..."
+              echo "📢 Подготовка уведомления для IndexNow..."
               API_KEY="d1b055ab1eb146d892169bbb2c96550e"
               HOST="butlerspb-blog.netlify.app"
               
+              # Собираем JSON-пакет
               JSON_PAYLOAD=$(jq -n \
                               --arg host "$HOST" \
                               --arg key "$API_KEY" \
                               --arg urls_string "$URL_LIST" \
                               '{host: $host, key: $key, urlList: ($urls_string | split("\n") | map(select(length > 0)))}'
                               )
+              
+              # --- НОВЫЙ ДИАГНОСТИЧЕСКИЙ БЛОК ---
+              echo "--- Диагностика пакета для IndexNow (пачка №$i) ---"
+              echo "$JSON_PAYLOAD"
+              echo "--- Конец диагностики пакета ---"
               
               echo "--- Отправка в Яндекс ---"
               curl -X POST "https://yandex.com/indexnow" -H "Content-Type: application/json; charset=utf-8" -d "$JSON_PAYLOAD"
