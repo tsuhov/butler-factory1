@@ -1,4 +1,4 @@
-name: 🚀 Content Factory (Immediate Notify + Diagnostics)
+name: 🚀 Content Factory (Ironclad Report)
 
 on:
   workflow_dispatch:
@@ -6,7 +6,7 @@ on:
       batch_size:
         description: 'Сколько статей генерировать за 1 итерацию?'
         required: true
-        default: '1'
+        default: '50'
       iterations:
         description: 'Сколько раз запустить конвейер?'
         required: true
@@ -38,7 +38,7 @@ jobs:
           BATCH_SIZE: ${{ github.event.inputs.batch_size }}
         run: |
           git config --global user.name 'GitHub Actions Bot'
-          git config --global user.email 'actions-bot@github.**com**'
+          git config --global user.email 'actions-bot@github.com'
           
           for i in $(seq 1 ${{ github.event.inputs.iterations }})
           do
@@ -63,6 +63,7 @@ jobs:
             
             commit_after=$(git rev-parse HEAD)
 
+            # --- ИСТОЧНИК ПРАВДЫ ВНУТРИ ЦИКЛА ---
             NEW_FILES=$(git diff --name-only $commit_before $commit_after -- 'src/content/posts/*.md')
             
             URL_LIST=""
@@ -73,11 +74,6 @@ jobs:
             done
 
             if [[ -n "$URL_LIST" ]]; then
-              # --- ДИАГНОСТИЧЕСКИЙ БЛОК ВНУТРИ ЦИКЛА ---
-              echo "--- Диагностика URL для пачки №$i ---"
-              echo "${URL_LIST}" | cat -ET
-              echo "--- Конец диагностики ---"
-
               echo "📢 Отправляю уведомление о новых страницах в IndexNow..."
               API_KEY="d1b055ab1eb146d892169bbb2c96550e"
               HOST="butlerspb-blog.netlify.app"
