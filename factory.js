@@ -1,8 +1,8 @@
-// Файл: factory.js (Версия 16.0, «Финальный Синтез»)
+// Файл: factory.js (Версия 17.0, «Фирменный Стиль»)
 import { GoogleGenerativeAI } from '@google/generative-ai';
 import fs from 'fs/promises';
 import path from 'path';
-import fetch from 'node-fetch'; // Убедимся, что fetch импортирован
+import fetch from 'node-fetch';
 
 // --- НАСТРОЙКИ ОПЕРАЦИИ ---
 const TARGET_URL_MAIN = "https://butlerspb.ru";
@@ -11,6 +11,12 @@ const TOPICS_FILE = 'topics.txt';
 const POSTS_DIR = 'src/content/posts';
 const GEMINI_API_KEY = process.env.GEMINI_API_KEY;
 const SITE_URL = "https://butlerspb-blog.netlify.app";
+
+// --- НОВЫЙ БЛОК: Константы бренда ---
+const BRAND_NAME = "ButlerSPB";
+const BRAND_BLOG_NAME = `Блог ${BRAND_NAME}`;
+const BRAND_AUTHOR_NAME = `Эксперт ${BRAND_NAME}`;
+// --- КОНЕЦ БЛОКА ---
 
 const FALLBACK_IMAGE_URL = "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop";
 
@@ -22,18 +28,15 @@ const genAI = new GoogleGenerativeAI(GEMINI_API_KEY);
 const model = genAI.getGenerativeModel({ model: "gemini-2.5-pro" });
 
 const ANCHORS = [
-    `узнайте больше об управлении на <a href="${TARGET_URL_RENT}" target="_blank" rel="nofollow">сайте ButlerSPB</a>`,
+    `узнайте больше об управлении на <a href="${TARGET_URL_RENT}" target="_blank" rel="nofollow">сайте ${BRAND_NAME}</a>`,
     `профессиональные услуги по управлению можно найти <a href="${TARGET_URL_RENT}" target="_blank" rel="nofollow">здесь</a>`,
-    `как советуют эксперты из <a href="${TARGET_URL_MAIN}" target="_blank" rel="nofollow">ButlerSPB</a>`,
+    `как советуют эксперты из <a href="${TARGET_URL_MAIN}" target="_blank" rel="nofollow">${BRAND_NAME}</a>`,
     `подробности на <a href="${TARGET_URL_RENT}" target="_blank" rel="nofollow">этой странице</a>`,
     `доверительное управление квартирой - <a href="${TARGET_URL_RENT}" target="_blank" rel="nofollow">отличное решение</a>`
 ];
 
-// --- Функция "Боевой Проверки" URL ---
 async function isUrlAccessible(url) {
-    if (!url || !url.startsWith('http')) {
-        return false;
-    }
+    if (!url || !url.startsWith('http')) return false;
     try {
         const response = await fetch(url, { method: 'HEAD' });
         return response.ok;
@@ -75,10 +78,10 @@ async function generateWithRetry(prompt, maxRetries = 4) {
 async function generatePost(topic, slug) {
     console.log(`[+] Генерирую статью на тему: ${topic}`);
     
-    const planPrompt = `Создай детальный, экспертный план-структуру для SEO-статьи на тему "${topic}". Используй стандартный Markdown для иерархии: ## для заголовков второго уровня (H2) и ### для подпунктов (H3). Включи 3-4 основных раздела.`;
+    const planPrompt = `Создай детальный, экспертный план-структуру для SEO-статьи на тему "${topic}". Контекст: статья пишется для блога компании ButlerSPB, которая занимается управлением посуточной арендой в Санкт-Петербурге.`;
     const plan = await generateWithRetry(planPrompt);
 
-    const articlePrompt = `Напиши экспертную, полезную SEO-статью по этому плану:\n\n${plan}\n\nТема: "${topic}". ВАЖНО: строго следуй плану и используй синтаксис Markdown для всех заголовков (# для H1, ## для H2, ### для H3). Не добавляй никакого сопроводительного текста перед первым заголовком. Текст должен начинаться сразу с заголовка H1.`;
+    const articlePrompt = `Напиши экспертную, полезную SEO-статью по этому плану:\n\n${plan}\n\nТема: "${topic}". ВАЖНО: строго следуй плану и используй синтаксис Markdown для всех заголовков. Текст должен быть написан от лица компании ButlerSPB и может ненавязчиво упоминать ее. Не добавляй никакого сопроводительного текста перед первым заголовком. Текст должен начинаться сразу с заголовка H1.`;
     let articleText = await generateWithRetry(articlePrompt);
 
     const paragraphs = articleText.split('\n\n');
@@ -89,7 +92,7 @@ async function generatePost(topic, slug) {
         articleText = paragraphs.join('\n\n');
     }
     
-    const seoPrompt = `Для статьи на тему "${topic}" сгенерируй JSON-объект. ВАЖНО: твой ответ должен быть ТОЛЬКО валидным JSON-объектом. JSON должен содержать: "title", "description", "heroImage" (URL с Unsplash или Pexels), "authorName" (имя автора, например "Эксперт ButlerSPB"), "publisherName" (название издателя, например "Блог ButlerSPB").`;
+    const seoPrompt = `Для статьи на тему "${topic}" сгенерируй JSON-объект. ВАЖНО: твой ответ должен быть ТОЛЬКО валидным JSON-объектом. JSON должен содержать: "title", "description", "heroImage" (URL с Unsplash или Pexels). Контекст: это блог компании ButlerSPB.`;
     let seoText = await generateWithRetry(seoPrompt);
 
     const match = seoText.match(/\{[\s\S]*\}/);
@@ -99,11 +102,10 @@ async function generatePost(topic, slug) {
     const reviewCount = Math.floor(Math.random() * (900 - 300 + 1)) + 300;
     const ratingValue = (Math.random() * (5.0 - 4.7) + 4.7).toFixed(1);
 
-    // --- ИСПОЛЬЗУЕМ "БОЕВУЮ ПРОВЕРКУ" И ЗАПАСНОЕ ИЗОБРАЖЕНИЕ ---
     const isImageOk = await isUrlAccessible(seoData.heroImage);
     const finalHeroImage = isImageOk ? seoData.heroImage : FALLBACK_IMAGE_URL;
     if (!isImageOk) {
-        console.warn(`[!] Изображение от Gemini недоступно (${seoData.heroImage}). Используется запасное.`);
+        console.warn(`[!] Изображение от Gemini недоступно. Используется запасное.`);
     }
 
     const fullSchema = {
@@ -111,10 +113,7 @@ async function generatePost(topic, slug) {
       "@type": "HowTo",
       "name": seoData.title,
       "description": seoData.description,
-      "image": {
-        "@type": "ImageObject",
-        "url": finalHeroImage
-      },
+      "image": { "@type": "ImageObject", "url": finalHeroImage },
       "aggregateRating": {
         "@type": "AggregateRating",
         "ratingValue": ratingValue,
@@ -124,23 +123,20 @@ async function generatePost(topic, slug) {
       },
       "publisher": {
         "@type": "Organization",
-        "name": seoData.publisherName,
+        "name": BRAND_BLOG_NAME, // Используем константу
         "logo": {
           "@type": "ImageObject",
           "url": `${SITE_URL}/favicon.ico`
         }
       },
-      "mainEntityOfPage": {
-        "@type": "WebPage",
-        "@id": `${SITE_URL}/blog/${slug}/`
-      }
+      "mainEntityOfPage": { "@type": "WebPage", "@id": `${SITE_URL}/blog/${slug}/` }
     };
 
     const frontmatter = `---
 title: "${seoData.title.replace(/"/g, '\\"')}"
 description: "${seoData.description.replace(/"/g, '\\"')}"
 pubDate: "${new Date().toISOString()}"
-author: "${seoData.authorName.replace(/"/g, '\\"')}"
+author: "${BRAND_AUTHOR_NAME}"
 heroImage: "${finalHeroImage}"
 schema: ${JSON.stringify(fullSchema)}
 ---
@@ -152,12 +148,16 @@ async function main() {
     try {
         const BATCH_SIZE = parseInt(process.env.BATCH_SIZE, 10) || 10;
         console.log(`[i] Размер пачки установлен на: ${BATCH_SIZE}`);
-        const topics = (await fs.readFile(TOPICS_FILE, 'utf-8')).split('\n').map(topic => topic.trim()).filter(Boolean);
+        const topics = (await fs.readFile(TOPICS_FILE, 'utf-8')).split(/\r?\n/).map(topic => topic.trim()).filter(Boolean);
         const postsDir = path.join(process.cwd(), 'src', 'content', 'posts');
         await fs.mkdir(postsDir, { recursive: true });
         const existingFiles = await fs.readdir(postsDir);
         const existingSlugs = existingFiles.map(file => file.replace('.md', ''));
-        const newTopics = topics.filter(topic => !existingSlugs.includes(slugify(topic)));
+        
+        const newTopics = topics.filter(topic => {
+            const topicSlug = slugify(topic);
+            return topicSlug && !existingSlugs.includes(topicSlug);
+        });
 
         if (newTopics.length === 0) { console.log("Нет новых тем для генерации."); return; }
         console.log(`Найдено ${newTopics.length} новых тем. Беру в работу первые ${BATCH_SIZE}.`);
