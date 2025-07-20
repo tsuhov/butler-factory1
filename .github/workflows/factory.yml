@@ -6,7 +6,7 @@ on:
       batch_size:
         description: 'Сколько статей генерировать за 1 итерацию?'
         required: true
-        default: '50'
+        default: '1'
       iterations:
         description: 'Сколько раз запустить конвейер?'
         required: true
