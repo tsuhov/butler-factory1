@@ -1,4 +1,4 @@
-name: 🚀 Content Factory (Full Diagnostics)
+name: 🚀 Content Factory (Surgical Precision)
 
 on:
   workflow_dispatch:
@@ -63,33 +63,34 @@ jobs:
             
             commit_after=$(git rev-parse HEAD)
 
-            # --- ИСТОЧНИК ПРАВДЫ ВНУТРИ ЦИКЛА ---
+            # --- НОВАЯ, ЖЕЛЕЗОБЕТОННАЯ ЛОГИКА INDEXNOW ---
             NEW_FILES=$(git diff --name-only $commit_before $commit_after -- 'src/content/posts/*.md')
             
-            URL_LIST=""
-            for file in $NEW_FILES; do
-              slug=$(basename $file .md)
-              url="https://butlerspb-blog.netlify.app/blog/${slug}/"
-              URL_LIST="${URL_LIST}${url}\n"
-            done
-
-            if [[ -n "$URL_LIST" ]]; then
+            if [[ -n "$NEW_FILES" ]]; then
               echo "📢 Подготовка уведомления для IndexNow..."
               API_KEY="d1b055ab1eb146d892169bbb2c96550e"
               HOST="butlerspb-blog.netlify.app"
               
-              # Собираем JSON-пакет
+              # Собираем URL в одну строку, разделенную пробелами
+              URL_LIST_STRING=""
+              for file in $NEW_FILES; do
+                slug=$(basename $file .md)
+                url="https://butlerspb-blog.netlify.app/blog/${slug}/"
+                URL_LIST_STRING="$URL_LIST_STRING $url"
+              done
+              
+              # jq сам "нарежет" эту строку на массив
               JSON_PAYLOAD=$(jq -n \
                               --arg host "$HOST" \
                               --arg key "$API_KEY" \
-                              --arg urls_string "$URL_LIST" \
-                              '{host: $host, key: $key, urlList: ($urls_string | split("\n") | map(select(length > 0)))}'
+                              --arg urls "$URL_LIST_STRING" \
+                              '{host: $host, key: $key, urlList: ($urls | split(" ") | map(select(length > 0)))}'
                               )
-              
-              # --- НОВЫЙ ДИАГНОСТИЧЕСКИЙ БЛОК ---
+
+              # --- ДИАГНОСТИКА ---
               echo "--- Диагностика пакета для IndexNow (пачка №$i) ---"
               echo "$JSON_PAYLOAD"
-              echo "--- Конец диагностики пакета ---"
+              echo "--- Конец диагностики ---"
               
               echo "--- Отправка в Яндекс ---"
               curl -X POST "https://yandex.com/indexnow" -H "Content-Type: application/json; charset=utf-8" -d "$JSON_PAYLOAD"
