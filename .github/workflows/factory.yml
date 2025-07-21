@@ -1,4 +1,4 @@
-name: 🚀 Content Factory (Iron Matrix)
+name: 🚀 Content Factory (Final Diagnostics)
 
 on:
   workflow_dispatch:
@@ -13,7 +13,6 @@ on:
         default: '5'
 
 jobs:
-  # --- ЗАДАЧА №1: Определяем, сколько потоков нужно запустить ---
   prepare:
     runs-on: ubuntu-latest
     outputs:
@@ -22,7 +21,7 @@ jobs:
       - name: Create thread matrix
         id: set_matrix
         run: |
-          MAX_THREADS=20 # Максимальное количество ключей, которые мы можем использовать
+          MAX_THREADS=20
           REQUESTED_THREADS=${{ github.event.inputs.threads }}
           
           if (( REQUESTED_THREADS > MAX_THREADS )); then
@@ -30,15 +29,11 @@ jobs:
             REQUESTED_THREADS=$MAX_THREADS
           fi
 
-          # Создаем JSON-массив от 1 до N
           MATRIX=$(jq -cn --argjson n "$REQUESTED_THREADS" '[range(1; $n + 1)]')
           echo "matrix=$MATRIX" >> $GITHUB_OUTPUT
 
-  # --- ЗАДАЧА №2: Запускаем параллельные генераторы на основе созданной матрицы ---
   generate_and_publish:
-    # Эта задача зависит от успешного завершения предыдущей
     needs: prepare
-    
     permissions:
       contents: write
       
@@ -46,7 +41,6 @@ jobs:
     
     strategy:
       fail-fast: false
-      # Используем матрицу, созданную на предыдущем шаге
       matrix:
         thread: ${{ fromJson(needs.prepare.outputs.matrix) }}
 
@@ -68,7 +62,8 @@ jobs:
         id: set_key
         run: |
           API_KEYS="${{ secrets.GEMINI_API_KEYS_POOL }}"
-          CURRENT_KEY=$(echo "$API_KEYS" | awk "NR==${{ matrix.thread }}")
+          # Улучшенная, более надежная команда извлечения ключа
+          CURRENT_KEY=$(echo "$API_KEYS" | sed -n '${{ matrix.thread }}p' | tr -d '\r')
           if [[ -z "$CURRENT_KEY" ]]; then
             echo "::error::Не удалось извлечь API-ключ для потока #${{ matrix.thread }}. Проверьте секрет GEMINI_API_KEYS_POOL."
             exit 1
@@ -103,9 +98,6 @@ jobs:
           git push
           
           commit_after=$(git rev-parse HEAD)
-          
-          # Нам нужен commit_before, который был до первого pull
-          # Для простоты и надежности, мы возьмем просто предыдущий коммит
           commit_before=$(git rev-parse HEAD~1)
           
           NEW_FILES=$(git diff --name-only $commit_before $commit_after -- 'src/content/posts/*.md')
@@ -118,7 +110,7 @@ jobs:
           done
 
           if [[ -n "$URL_LIST" ]]; then
-            echo "📢 ЭСКАДРОН #${{ matrix.thread }}: Отправляю уведомление в IndexNow..."
+            echo "📢 ЭСКАДРОН #${{ matrix.thread }}: Подготовка уведомления для IndexNow..."
             API_KEY="d1b055ab1eb146d892169bbb2c96550e"
             HOST="butlerspb-blog.netlify.app"
             
@@ -128,7 +120,12 @@ jobs:
                             --arg urls_string "$URL_LIST" \
                             '{host: $host, key: $key, urlList: ($urls_string | split("\n") | map(select(length > 0)))}'
                             )
-            
+
+            # --- ВОЗВРАЩАЕМ ДИАГНОСТИЧЕСКИЙ БЛОК ---
+            echo "--- Диагностика пакета для IndexNow (Эскадрон №${{ matrix.thread }}) ---"
+            echo "$JSON_PAYLOAD"
+            echo "--- Конец диагностики ---"
+
             curl -X POST "https://yandex.com/indexnow" -H "Content-Type: application/json; charset=utf-8" -d "$JSON_PAYLOAD"
             curl -X POST "https://www.bing.com/indexnow" -H "Content-Type: application/json; charset=utf-8" -d "$JSON_PAYLOAD"
           fi
