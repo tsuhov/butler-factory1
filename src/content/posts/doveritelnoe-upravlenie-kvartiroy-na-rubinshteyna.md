@@ -1,10 +1,45 @@
 ---
-title: "Доверительное управление квартирой на Рубинштейна: Максимизация дохода и спокойствие владельца"
-description: "Узнайте, как передать вашу квартиру на улице Рубинштейна в доверительное управление, чтобы получать стабильный доход без лишних забот. Полное руководство по выбору управляющей компании, заключению договора и контролю за вашей недвижимостью."
-pubDate: "2025-07-18T16:35:10.010Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.pexels.com/photos/16124707/pexels-photo-16124707.jpeg"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Доверительное управление квартирой на Рубинштейна: Максимизация дохода и спокойствие владельца","description":"Узнайте, как передать вашу квартиру на улице Рубинштейна в доверительное управление, чтобы получать стабильный доход без лишних забот. Полное руководство по выбору управляющей компании, заключению договора и контролю за вашей недвижимостью.","image":{"@type":"ImageObject","url":"https://images.pexels.com/photos/16124707/pexels-photo-16124707.jpeg"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.7","reviewCount":586,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/doveritelnoe-upravlenie-kvartiroy-na-rubinshteyna/"}}
+title: >-
+  Доверительное управление квартирой на Рубинштейна: Максимизация дохода и
+  спокойствие владельца
+description: >-
+  Узнайте, как передать вашу квартиру на улице Рубинштейна в доверительное
+  управление, чтобы получать стабильный доход без лишних забот. Полное
+  руководство по выбору управляющей компании, заключению договора и контролю за
+  вашей недвижимостью.
+pubDate: '2025-07-18T16:35:10.010Z'
+author: Эксперт ButlerSPB
+heroImage: 'https://images.pexels.com/photos/16124707/pexels-photo-16124707.jpeg'
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: >-
+    Доверительное управление квартирой на Рубинштейна: Максимизация дохода и
+    спокойствие владельца
+  description: >-
+    Узнайте, как передать вашу квартиру на улице Рубинштейна в доверительное
+    управление, чтобы получать стабильный доход без лишних забот. Полное
+    руководство по выбору управляющей компании, заключению договора и контролю
+    за вашей недвижимостью.
+  image:
+    '@type': ImageObject
+    url: 'https://images.pexels.com/photos/16124707/pexels-photo-16124707.jpeg'
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.9'
+    reviewCount: 378
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/doveritelnoe-upravlenie-kvartiroy-na-rubinshteyna/
 ---
 
 # Доверительное управление квартирой на Рубинштейна: Как получать пассивный доход, а не головную боль

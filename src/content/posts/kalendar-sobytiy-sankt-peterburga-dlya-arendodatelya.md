@@ -1,10 +1,43 @@
 ---
-title: "Календарь событий Санкт-Петербурга для арендодателя"
-description: "Ключевые мероприятия и события в Санкт-Петербурге, которые напрямую влияют на спрос и цены на краткосрочную аренду. Этот календарь поможет арендодателям планировать ценообразование, прогнозировать пиковые даты и максимизировать доход от своей недвижимости в течение всего года."
-pubDate: "2025-07-19T12:33:52.874Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Календарь событий Санкт-Петербурга для арендодателя","description":"Ключевые мероприятия и события в Санкт-Петербурге, которые напрямую влияют на спрос и цены на краткосрочную аренду. Этот календарь поможет арендодателям планировать ценообразование, прогнозировать пиковые даты и максимизировать доход от своей недвижимости в течение всего года.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"5.0","reviewCount":521,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/kalendar-sobytiy-sankt-peterburga-dlya-arendodatelya/"}}
+title: Календарь событий Санкт-Петербурга для арендодателя
+description: >-
+  Ключевые мероприятия и события в Санкт-Петербурге, которые напрямую влияют на
+  спрос и цены на краткосрочную аренду. Этот календарь поможет арендодателям
+  планировать ценообразование, прогнозировать пиковые даты и максимизировать
+  доход от своей недвижимости в течение всего года.
+pubDate: '2025-07-19T12:33:52.874Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: Календарь событий Санкт-Петербурга для арендодателя
+  description: >-
+    Ключевые мероприятия и события в Санкт-Петербурге, которые напрямую влияют
+    на спрос и цены на краткосрочную аренду. Этот календарь поможет
+    арендодателям планировать ценообразование, прогнозировать пиковые даты и
+    максимизировать доход от своей недвижимости в течение всего года.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.7'
+    reviewCount: 725
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/kalendar-sobytiy-sankt-peterburga-dlya-arendodatelya/
 ---
 
 # Календарь событий Санкт-Петербурга 2024-2025: Полное руководство для арендодателя по максимизации прибыли

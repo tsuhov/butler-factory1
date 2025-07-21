@@ -1,10 +1,49 @@
 ---
-title: "Доверьте рутину профессионалам: как получать пассивный доход от недвижимости с ButlerSPB"
-description: "Владение недвижимостью для сдачи в аренду — это не только источник дохода, но и постоянная рутина: поиск жильцов, решение бытовых проблем, контроль оплаты. Узнайте из нашей статьи, как передать эти заботы профессионалам из ButlerSPB и превратить вашу квартиру в стабильный источник пассивного дохода, свободного от ежедневных хлопот."
-pubDate: "2025-07-20T13:02:35.156Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Доверьте рутину профессионалам: как получать пассивный доход от недвижимости с ButlerSPB","description":"Владение недвижимостью для сдачи в аренду — это не только источник дохода, но и постоянная рутина: поиск жильцов, решение бытовых проблем, контроль оплаты. Узнайте из нашей статьи, как передать эти заботы профессионалам из ButlerSPB и превратить вашу квартиру в стабильный источник пассивного дохода, свободного от ежедневных хлопот.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.8","reviewCount":400,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/doverte-rutinu-professionalam-poluchayte-passivnyy-dohod/"}}
+title: >-
+  Доверьте рутину профессионалам: как получать пассивный доход от недвижимости с
+  ButlerSPB
+description: >-
+  Владение недвижимостью для сдачи в аренду — это не только источник дохода, но
+  и постоянная рутина: поиск жильцов, решение бытовых проблем, контроль оплаты.
+  Узнайте из нашей статьи, как передать эти заботы профессионалам из ButlerSPB и
+  превратить вашу квартиру в стабильный источник пассивного дохода, свободного
+  от ежедневных хлопот.
+pubDate: '2025-07-20T13:02:35.156Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: >-
+    Доверьте рутину профессионалам: как получать пассивный доход от недвижимости
+    с ButlerSPB
+  description: >-
+    Владение недвижимостью для сдачи в аренду — это не только источник дохода,
+    но и постоянная рутина: поиск жильцов, решение бытовых проблем, контроль
+    оплаты. Узнайте из нашей статьи, как передать эти заботы профессионалам из
+    ButlerSPB и превратить вашу квартиру в стабильный источник пассивного
+    дохода, свободного от ежедневных хлопот.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.8'
+    reviewCount: 548
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/doverte-rutinu-professionalam-poluchayte-passivnyy-dohod/
 ---
 
 # Доверьте рутину профессионалам: как превратить квартиру в СПб в стабильный источник пассивного дохода

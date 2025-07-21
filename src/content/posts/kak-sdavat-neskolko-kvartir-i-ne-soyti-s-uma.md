@@ -1,10 +1,41 @@
 ---
-title: "Как сдавать несколько квартир и не сойти с ума"
-description: "Управление несколькими объектами недвижимости — это не просто дополнительный доход, а полноценная работа. В этой статье мы разберем, как автоматизировать рутину, выстроить общение с жильцами и оптимизировать налоги, чтобы инвестиции приносили радость, а не головную боль."
-pubDate: "2025-07-20T00:18:06.922Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.pexels.com/photos/101808/pexels-photo-101808.jpeg"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Как сдавать несколько квартир и не сойти с ума","description":"Управление несколькими объектами недвижимости — это не просто дополнительный доход, а полноценная работа. В этой статье мы разберем, как автоматизировать рутину, выстроить общение с жильцами и оптимизировать налоги, чтобы инвестиции приносили радость, а не головную боль.","image":{"@type":"ImageObject","url":"https://images.pexels.com/photos/101808/pexels-photo-101808.jpeg"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":882,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/kak-sdavat-neskolko-kvartir-i-ne-soyti-s-uma/"}}
+title: Как сдавать несколько квартир и не сойти с ума
+description: >-
+  Управление несколькими объектами недвижимости — это не просто дополнительный
+  доход, а полноценная работа. В этой статье мы разберем, как автоматизировать
+  рутину, выстроить общение с жильцами и оптимизировать налоги, чтобы инвестиции
+  приносили радость, а не головную боль.
+pubDate: '2025-07-20T00:18:06.922Z'
+author: Эксперт ButlerSPB
+heroImage: 'https://images.pexels.com/photos/101808/pexels-photo-101808.jpeg'
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: Как сдавать несколько квартир и не сойти с ума
+  description: >-
+    Управление несколькими объектами недвижимости — это не просто дополнительный
+    доход, а полноценная работа. В этой статье мы разберем, как автоматизировать
+    рутину, выстроить общение с жильцами и оптимизировать налоги, чтобы
+    инвестиции приносили радость, а не головную боль.
+  image:
+    '@type': ImageObject
+    url: 'https://images.pexels.com/photos/101808/pexels-photo-101808.jpeg'
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.7'
+    reviewCount: 357
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/kak-sdavat-neskolko-kvartir-i-ne-soyti-s-uma/
 ---
 
 # Как сдавать несколько квартир и не сойти с ума: Полное руководство для инвестора

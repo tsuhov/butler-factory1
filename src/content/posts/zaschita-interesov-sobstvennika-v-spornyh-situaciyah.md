@@ -1,10 +1,45 @@
 ---
-title: "Защита интересов собственника в спорных ситуациях"
-description: "Споры с арендаторами, конфликты с соседями, недобросовестные подрядчики — владение недвижимостью может принести не только доход, но и проблемы. В новой статье для блога ButlerSPB разбираем юридические тонкости и даем практические советы, как собственнику защитить свои права и имущество в конфликтных ситуациях."
-pubDate: "2025-07-21T00:17:29.646Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560518883-ce09059eeffa?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Защита интересов собственника в спорных ситуациях","description":"Споры с арендаторами, конфликты с соседями, недобросовестные подрядчики — владение недвижимостью может принести не только доход, но и проблемы. В новой статье для блога ButlerSPB разбираем юридические тонкости и даем практические советы, как собственнику защитить свои права и имущество в конфликтных ситуациях.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560518883-ce09059eeffa?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.7","reviewCount":340,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/zaschita-interesov-sobstvennika-v-spornyh-situaciyah/"}}
+title: Защита интересов собственника в спорных ситуациях
+description: >-
+  Споры с арендаторами, конфликты с соседями, недобросовестные подрядчики —
+  владение недвижимостью может принести не только доход, но и проблемы. В новой
+  статье для блога ButlerSPB разбираем юридические тонкости и даем практические
+  советы, как собственнику защитить свои права и имущество в конфликтных
+  ситуациях.
+pubDate: '2025-07-21T00:17:29.646Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560518883-ce09059eeffa?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: Защита интересов собственника в спорных ситуациях
+  description: >-
+    Споры с арендаторами, конфликты с соседями, недобросовестные подрядчики —
+    владение недвижимостью может принести не только доход, но и проблемы. В
+    новой статье для блога ButlerSPB разбираем юридические тонкости и даем
+    практические советы, как собственнику защитить свои права и имущество в
+    конфликтных ситуациях.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560518883-ce09059eeffa?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.8'
+    reviewCount: 824
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/zaschita-interesov-sobstvennika-v-spornyh-situaciyah/
 ---
 
 # Защита собственника в посуточной аренде: от порчи имущества до споров с гостями. Полный гайд от ButlerSPB

@@ -1,10 +1,39 @@
 ---
-title: "Эффективная коммуникация с гостями: скрипты и решения в СПБ"
-description: "Ключевые скрипты и практические советы для отельеров и владельцев апартаментов в Санкт-Петербурге, которые помогут улучшить общение с гостями, автоматизировать рутинные задачи и повысить качество сервиса."
-pubDate: "2025-07-18T18:10:53.410Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.pexels.com/photos/70441/pexels-photo-70441.jpeg"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Эффективная коммуникация с гостями: скрипты и решения в СПБ","description":"Ключевые скрипты и практические советы для отельеров и владельцев апартаментов в Санкт-Петербурге, которые помогут улучшить общение с гостями, автоматизировать рутинные задачи и повысить качество сервиса.","image":{"@type":"ImageObject","url":"https://images.pexels.com/photos/70441/pexels-photo-70441.jpeg"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":637,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/effektivnaya-kommunikaciya-s-gostyami-skripty-i-resheniya-v-spb/"}}
+title: 'Эффективная коммуникация с гостями: скрипты и решения в СПБ'
+description: >-
+  Ключевые скрипты и практические советы для отельеров и владельцев апартаментов
+  в Санкт-Петербурге, которые помогут улучшить общение с гостями,
+  автоматизировать рутинные задачи и повысить качество сервиса.
+pubDate: '2025-07-18T18:10:53.410Z'
+author: Эксперт ButlerSPB
+heroImage: 'https://images.pexels.com/photos/70441/pexels-photo-70441.jpeg'
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Эффективная коммуникация с гостями: скрипты и решения в СПБ'
+  description: >-
+    Ключевые скрипты и практические советы для отельеров и владельцев
+    апартаментов в Санкт-Петербурге, которые помогут улучшить общение с гостями,
+    автоматизировать рутинные задачи и повысить качество сервиса.
+  image:
+    '@type': ImageObject
+    url: 'https://images.pexels.com/photos/70441/pexels-photo-70441.jpeg'
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.9'
+    reviewCount: 417
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/effektivnaya-kommunikaciya-s-gostyami-skripty-i-resheniya-v-spb/
 ---
 
 # Эффективная коммуникация с гостями: скрипты и решения в СПБ

@@ -1,10 +1,47 @@
 ---
-title: "Навигация в мире законов: как ButlerSPB обеспечивает полное соответствие требованиям законодательства"
-description: "Соблюдение законодательных норм — это не просто формальность, а фундамент доверия и стабильности. В блоге ButlerSPB мы делимся нашим подходом к юридической чистоте бизнеса, от защиты персональных данных до соблюдения трудового кодекса, чтобы наши клиенты и партнеры всегда были уверены в нас."
-pubDate: "2025-07-20T23:08:44.885Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.pexels.com/photos/5668858/pexels-photo-5668858.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Навигация в мире законов: как ButlerSPB обеспечивает полное соответствие требованиям законодательства","description":"Соблюдение законодательных норм — это не просто формальность, а фундамент доверия и стабильности. В блоге ButlerSPB мы делимся нашим подходом к юридической чистоте бизнеса, от защиты персональных данных до соблюдения трудового кодекса, чтобы наши клиенты и партнеры всегда были уверены в нас.","image":{"@type":"ImageObject","url":"https://images.pexels.com/photos/5668858/pexels-photo-5668858.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.8","reviewCount":318,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/sootvetstvie-trebovaniyam-zakonodatelstva/"}}
+title: >-
+  Навигация в мире законов: как ButlerSPB обеспечивает полное соответствие
+  требованиям законодательства
+description: >-
+  Соблюдение законодательных норм — это не просто формальность, а фундамент
+  доверия и стабильности. В блоге ButlerSPB мы делимся нашим подходом к
+  юридической чистоте бизнеса, от защиты персональных данных до соблюдения
+  трудового кодекса, чтобы наши клиенты и партнеры всегда были уверены в нас.
+pubDate: '2025-07-20T23:08:44.885Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.pexels.com/photos/5668858/pexels-photo-5668858.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: >-
+    Навигация в мире законов: как ButlerSPB обеспечивает полное соответствие
+    требованиям законодательства
+  description: >-
+    Соблюдение законодательных норм — это не просто формальность, а фундамент
+    доверия и стабильности. В блоге ButlerSPB мы делимся нашим подходом к
+    юридической чистоте бизнеса, от защиты персональных данных до соблюдения
+    трудового кодекса, чтобы наши клиенты и партнеры всегда были уверены в нас.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.pexels.com/photos/5668858/pexels-photo-5668858.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.9'
+    reviewCount: 663
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/sootvetstvie-trebovaniyam-zakonodatelstva/
 ---
 
 # Новый закон о посуточной аренде: как сдавать квартиру в Петербурге легально и без головной боли

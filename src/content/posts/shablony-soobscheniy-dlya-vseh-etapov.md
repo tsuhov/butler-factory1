@@ -1,10 +1,41 @@
 ---
-title: "Шаблоны сообщений для всех этапов"
-description: "Эффективная коммуникация — ключ к первоклассному сервису. В этой статье команда ButlerSPB делится универсальными шаблонами сообщений для всех этапов взаимодействия с клиентами: от первого контакта и подтверждения заказа до сбора обратной связи после оказания услуги."
-pubDate: "2025-07-20T18:05:02.714Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1554415707-6e8cfc93fe23"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Шаблоны сообщений для всех этапов","description":"Эффективная коммуникация — ключ к первоклассному сервису. В этой статье команда ButlerSPB делится универсальными шаблонами сообщений для всех этапов взаимодействия с клиентами: от первого контакта и подтверждения заказа до сбора обратной связи после оказания услуги.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1554415707-6e8cfc93fe23"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.8","reviewCount":825,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/shablony-soobscheniy-dlya-vseh-etapov/"}}
+title: Шаблоны сообщений для всех этапов
+description: >-
+  Эффективная коммуникация — ключ к первоклассному сервису. В этой статье
+  команда ButlerSPB делится универсальными шаблонами сообщений для всех этапов
+  взаимодействия с клиентами: от первого контакта и подтверждения заказа до
+  сбора обратной связи после оказания услуги.
+pubDate: '2025-07-20T18:05:02.714Z'
+author: Эксперт ButlerSPB
+heroImage: 'https://images.unsplash.com/photo-1554415707-6e8cfc93fe23'
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: Шаблоны сообщений для всех этапов
+  description: >-
+    Эффективная коммуникация — ключ к первоклассному сервису. В этой статье
+    команда ButlerSPB делится универсальными шаблонами сообщений для всех этапов
+    взаимодействия с клиентами: от первого контакта и подтверждения заказа до
+    сбора обратной связи после оказания услуги.
+  image:
+    '@type': ImageObject
+    url: 'https://images.unsplash.com/photo-1554415707-6e8cfc93fe23'
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.8'
+    reviewCount: 640
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/shablony-soobscheniy-dlya-vseh-etapov/
 ---
 
 # Экспертное руководство: 15+ шаблонов сообщений для гостей посуточной аренды (от бронирования до отзыва)

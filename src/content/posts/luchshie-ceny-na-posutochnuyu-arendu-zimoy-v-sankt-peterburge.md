@@ -1,10 +1,41 @@
 ---
-title: "Лучшие цены на посуточную аренду зимой в Санкт-Петербурге"
-description: "Зимний Санкт-Петербург очаровывает своей сказочной атмосферой. Узнайте, как и где найти лучшие предложения по посуточной аренде квартир в этот период. Наш гид поможет вам сэкономить и выбрать идеальное жилье для незабываемого путешествия."
-pubDate: "2025-07-19T10:44:40.942Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.pexels.com/photos/7048366/pexels-photo-7048366.jpeg"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Лучшие цены на посуточную аренду зимой в Санкт-Петербурге","description":"Зимний Санкт-Петербург очаровывает своей сказочной атмосферой. Узнайте, как и где найти лучшие предложения по посуточной аренде квартир в этот период. Наш гид поможет вам сэкономить и выбрать идеальное жилье для незабываемого путешествия.","image":{"@type":"ImageObject","url":"https://images.pexels.com/photos/7048366/pexels-photo-7048366.jpeg"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"5.0","reviewCount":868,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/luchshie-ceny-na-posutochnuyu-arendu-zimoy-v-sankt-peterburge/"}}
+title: Лучшие цены на посуточную аренду зимой в Санкт-Петербурге
+description: >-
+  Зимний Санкт-Петербург очаровывает своей сказочной атмосферой. Узнайте, как и
+  где найти лучшие предложения по посуточной аренде квартир в этот период. Наш
+  гид поможет вам сэкономить и выбрать идеальное жилье для незабываемого
+  путешествия.
+pubDate: '2025-07-19T10:44:40.942Z'
+author: Эксперт ButlerSPB
+heroImage: 'https://images.pexels.com/photos/7048366/pexels-photo-7048366.jpeg'
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: Лучшие цены на посуточную аренду зимой в Санкт-Петербурге
+  description: >-
+    Зимний Санкт-Петербург очаровывает своей сказочной атмосферой. Узнайте, как
+    и где найти лучшие предложения по посуточной аренде квартир в этот период.
+    Наш гид поможет вам сэкономить и выбрать идеальное жилье для незабываемого
+    путешествия.
+  image:
+    '@type': ImageObject
+    url: 'https://images.pexels.com/photos/7048366/pexels-photo-7048366.jpeg'
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '5.0'
+    reviewCount: 725
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/luchshie-ceny-na-posutochnuyu-arendu-zimoy-v-sankt-peterburge/
 ---
 
 # Лучшие цены на посуточную аренду зимой в Санкт-Петербурге: Гид 2023-2024

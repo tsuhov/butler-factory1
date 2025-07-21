@@ -1,10 +1,39 @@
 ---
-title: "Как выбрать компанию по управлению посуточной арендой в Питере"
-description: "Подробное руководство для владельцев недвижимости в Санкт-Петербурге. Узнайте, на какие критерии обратить внимание при выборе управляющей компании для посуточной аренды, чтобы максимизировать доход и минимизировать риски."
-pubDate: "2025-07-18T17:57:37.349Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.pexels.com/photos/1796736/pexels-photo-1796736.jpeg"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Как выбрать компанию по управлению посуточной арендой в Питере","description":"Подробное руководство для владельцев недвижимости в Санкт-Петербурге. Узнайте, на какие критерии обратить внимание при выборе управляющей компании для посуточной аренды, чтобы максимизировать доход и минимизировать риски.","image":{"@type":"ImageObject","url":"https://images.pexels.com/photos/1796736/pexels-photo-1796736.jpeg"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.8","reviewCount":514,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/kak-vybrat-kompaniyu-po-upravleniyu-posutochnoy-arendoy-v-pitere/"}}
+title: Как выбрать компанию по управлению посуточной арендой в Питере
+description: >-
+  Подробное руководство для владельцев недвижимости в Санкт-Петербурге. Узнайте,
+  на какие критерии обратить внимание при выборе управляющей компании для
+  посуточной аренды, чтобы максимизировать доход и минимизировать риски.
+pubDate: '2025-07-18T17:57:37.349Z'
+author: Эксперт ButlerSPB
+heroImage: 'https://images.pexels.com/photos/1796736/pexels-photo-1796736.jpeg'
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: Как выбрать компанию по управлению посуточной арендой в Питере
+  description: >-
+    Подробное руководство для владельцев недвижимости в Санкт-Петербурге.
+    Узнайте, на какие критерии обратить внимание при выборе управляющей компании
+    для посуточной аренды, чтобы максимизировать доход и минимизировать риски.
+  image:
+    '@type': ImageObject
+    url: 'https://images.pexels.com/photos/1796736/pexels-photo-1796736.jpeg'
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.8'
+    reviewCount: 430
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/kak-vybrat-kompaniyu-po-upravleniyu-posutochnoy-arendoy-v-pitere/
 ---
 
 # Как выбрать управляющую компанию для посуточной аренды в Санкт-Петербурге: Полное руководство для собственника

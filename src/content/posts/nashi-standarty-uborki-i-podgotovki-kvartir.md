@@ -1,10 +1,39 @@
 ---
-title: "Наши стандарты уборки и подготовки квартир"
-description: "Узнайте о высоких стандартах чистоты, которые мы применяем в каждой квартире. Подробный разбор наших процессов уборки и подготовки жилья для вашего комфорта и безопасности."
-pubDate: "2025-07-20T12:08:27.780Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1600585152220-90363fe7e115"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Наши стандарты уборки и подготовки квартир","description":"Узнайте о высоких стандартах чистоты, которые мы применяем в каждой квартире. Подробный разбор наших процессов уборки и подготовки жилья для вашего комфорта и безопасности.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1600585152220-90363fe7e115"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.7","reviewCount":826,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/nashi-standarty-uborki-i-podgotovki-kvartir/"}}
+title: Наши стандарты уборки и подготовки квартир
+description: >-
+  Узнайте о высоких стандартах чистоты, которые мы применяем в каждой квартире.
+  Подробный разбор наших процессов уборки и подготовки жилья для вашего комфорта
+  и безопасности.
+pubDate: '2025-07-20T12:08:27.780Z'
+author: Эксперт ButlerSPB
+heroImage: 'https://images.unsplash.com/photo-1600585152220-90363fe7e115'
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: Наши стандарты уборки и подготовки квартир
+  description: >-
+    Узнайте о высоких стандартах чистоты, которые мы применяем в каждой
+    квартире. Подробный разбор наших процессов уборки и подготовки жилья для
+    вашего комфорта и безопасности.
+  image:
+    '@type': ImageObject
+    url: 'https://images.unsplash.com/photo-1600585152220-90363fe7e115'
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.9'
+    reviewCount: 737
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/nashi-standarty-uborki-i-podgotovki-kvartir/
 ---
 
 # Безупречная чистота и комфорт: Наши золотые стандарты уборки и подготовки квартир

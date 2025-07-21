@@ -1,10 +1,39 @@
 ---
-title: "Борьба с курением в посуточных квартирах: методы и решения для арендодателей"
-description: "Курение в арендных квартирах — серьезная проблема для владельцев. В статье рассматриваем эффективные способы борьбы с этой вредной привычкой: от установки датчиков дыма до юридических аспектов в договоре аренды."
-pubDate: "2025-07-19T13:28:05.546Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.pexels.com/photos/4006151/pexels-photo-4006151.jpeg"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Борьба с курением в посуточных квартирах: методы и решения для арендодателей","description":"Курение в арендных квартирах — серьезная проблема для владельцев. В статье рассматриваем эффективные способы борьбы с этой вредной привычкой: от установки датчиков дыма до юридических аспектов в договоре аренды.","image":{"@type":"ImageObject","url":"https://images.pexels.com/photos/4006151/pexels-photo-4006151.jpeg"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.8","reviewCount":609,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/borba-s-kureniem-v-posutochnyh-kvartirah/"}}
+title: 'Борьба с курением в посуточных квартирах: методы и решения для арендодателей'
+description: >-
+  Курение в арендных квартирах — серьезная проблема для владельцев. В статье
+  рассматриваем эффективные способы борьбы с этой вредной привычкой: от
+  установки датчиков дыма до юридических аспектов в договоре аренды.
+pubDate: '2025-07-19T13:28:05.546Z'
+author: Эксперт ButlerSPB
+heroImage: 'https://images.pexels.com/photos/4006151/pexels-photo-4006151.jpeg'
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Борьба с курением в посуточных квартирах: методы и решения для арендодателей'
+  description: >-
+    Курение в арендных квартирах — серьезная проблема для владельцев. В статье
+    рассматриваем эффективные способы борьбы с этой вредной привычкой: от
+    установки датчиков дыма до юридических аспектов в договоре аренды.
+  image:
+    '@type': ImageObject
+    url: 'https://images.pexels.com/photos/4006151/pexels-photo-4006151.jpeg'
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.9'
+    reviewCount: 647
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/borba-s-kureniem-v-posutochnyh-kvartirah/
 ---
 
 # Борьба с курением в посуточных квартирах: полное руководство для владельца

@@ -1,10 +1,44 @@
 ---
-title: "Как мы создаем уют в апартаментах: секреты от ButlerSPB"
-description: "В этой статье команда ButlerSPB делится профессиональными советами и лайфхаками, которые помогают нам превращать любые апартаменты в островок комфорта и уюта для наших гостей. Узнайте, как с помощью простых деталей — от выбора текстиля до правильного освещения — создать незабываемую атмосферу."
-pubDate: "2025-07-20T23:55:03.880Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.pexels.com/photos/7195245/pexels-photo-7195245.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Как мы создаем уют в апартаментах: секреты от ButlerSPB","description":"В этой статье команда ButlerSPB делится профессиональными советами и лайфхаками, которые помогают нам превращать любые апартаменты в островок комфорта и уюта для наших гостей. Узнайте, как с помощью простых деталей — от выбора текстиля до правильного освещения — создать незабываемую атмосферу.","image":{"@type":"ImageObject","url":"https://images.pexels.com/photos/7195245/pexels-photo-7195245.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":398,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/kak-my-sozdaem-uyut-v-apartamentah/"}}
+title: 'Как мы создаем уют в апартаментах: секреты от ButlerSPB'
+description: >-
+  В этой статье команда ButlerSPB делится профессиональными советами и
+  лайфхаками, которые помогают нам превращать любые апартаменты в островок
+  комфорта и уюта для наших гостей. Узнайте, как с помощью простых деталей — от
+  выбора текстиля до правильного освещения — создать незабываемую атмосферу.
+pubDate: '2025-07-20T23:55:03.880Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.pexels.com/photos/7195245/pexels-photo-7195245.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Как мы создаем уют в апартаментах: секреты от ButlerSPB'
+  description: >-
+    В этой статье команда ButlerSPB делится профессиональными советами и
+    лайфхаками, которые помогают нам превращать любые апартаменты в островок
+    комфорта и уюта для наших гостей. Узнайте, как с помощью простых деталей —
+    от выбора текстиля до правильного освещения — создать незабываемую
+    атмосферу.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.pexels.com/photos/7195245/pexels-photo-7195245.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.8'
+    reviewCount: 518
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/kak-my-sozdaem-uyut-v-apartamentah/
 ---
 
 ### **Философия уюта от ButlerSPB: Как мы превращаем апартаменты в Санкт-Петербурге в дом, куда хочется возвращаться**

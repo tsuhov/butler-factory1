@@ -1,10 +1,43 @@
 ---
-title: "Как найти проверенного мастера для ремонта и не пожалеть: советы от ButlerSPB"
-description: "Ремонт — это стресс, а поиск надежного исполнителя может превратиться в настоящий квест. Чтобы вы не тратили время и нервы, мы в ButlerSPB собрали главные советы: где искать профессионалов, как проверять их квалификацию и на что обратить внимание в договоре."
-pubDate: "2025-07-20T18:38:34.185Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.pexels.com/photos/3771097/pexels-photo-3771097.jpeg"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Как найти проверенного мастера для ремонта и не пожалеть: советы от ButlerSPB","description":"Ремонт — это стресс, а поиск надежного исполнителя может превратиться в настоящий квест. Чтобы вы не тратили время и нервы, мы в ButlerSPB собрали главные советы: где искать профессионалов, как проверять их квалификацию и на что обратить внимание в договоре.","image":{"@type":"ImageObject","url":"https://images.pexels.com/photos/3771097/pexels-photo-3771097.jpeg"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":303,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/poisk-proverennyh-masterov-dlya-remonta/"}}
+title: 'Как найти проверенного мастера для ремонта и не пожалеть: советы от ButlerSPB'
+description: >-
+  Ремонт — это стресс, а поиск надежного исполнителя может превратиться в
+  настоящий квест. Чтобы вы не тратили время и нервы, мы в ButlerSPB собрали
+  главные советы: где искать профессионалов, как проверять их квалификацию и на
+  что обратить внимание в договоре.
+pubDate: '2025-07-20T18:38:34.185Z'
+author: Эксперт ButlerSPB
+heroImage: 'https://images.pexels.com/photos/3771097/pexels-photo-3771097.jpeg'
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: >-
+    Как найти проверенного мастера для ремонта и не пожалеть: советы от
+    ButlerSPB
+  description: >-
+    Ремонт — это стресс, а поиск надежного исполнителя может превратиться в
+    настоящий квест. Чтобы вы не тратили время и нервы, мы в ButlerSPB собрали
+    главные советы: где искать профессионалов, как проверять их квалификацию и
+    на что обратить внимание в договоре.
+  image:
+    '@type': ImageObject
+    url: 'https://images.pexels.com/photos/3771097/pexels-photo-3771097.jpeg'
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '5.0'
+    reviewCount: 768
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/poisk-proverennyh-masterov-dlya-remonta/
 ---
 
 # Где и как найти проверенного мастера для ремонта в квартире под сдачу: Полный гид для владельца в СПб

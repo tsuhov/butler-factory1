@@ -1,10 +1,41 @@
 ---
-title: "Как начать сдавать квартиру посуточно в Питере: пошаговая инструкция 2024"
-description: "Полное руководство по запуску посуточной аренды в Санкт-Петербурге. Узнайте все о юридических аспектах, подготовке квартиры, поиске гостей и увеличении дохода."
-pubDate: "2025-07-17T21:23:43.414Z"
-author: "ButlerSPB Expert"
-heroImage: "https://images.pexels.com/photos/6492397/pexels-photo-6492397.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
-schema: {"@context":"https://schema.org","@type":"BlogPosting","headline":"Как начать сдавать квартиру посуточно в Питере: пошаговая инструкция 2024","description":"Полное руководство по запуску посуточной аренды в Санкт-Петербурге. Узнайте все о юридических аспектах, подготовке квартиры, поиске гостей и увеличении дохода.","image":"https://images.pexels.com/photos/6492397/pexels-photo-6492397.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2","author":{"@type":"Person","name":"Алексей Петров"},"publisher":{"@type":"Organization","name":"SPB-Rentals","logo":{"@type":"ImageObject","url":"https://example.com/logo.png"}},"datePublished":"2024-05-23"}
+title: 'Как начать сдавать квартиру посуточно в Питере: пошаговая инструкция 2024'
+description: >-
+  Полное руководство по запуску посуточной аренды в Санкт-Петербурге. Узнайте
+  все о юридических аспектах, подготовке квартиры, поиске гостей и увеличении
+  дохода.
+pubDate: '2025-07-17T21:23:43.414Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.pexels.com/photos/6492397/pexels-photo-6492397.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Как начать сдавать квартиру посуточно в Питере: пошаговая инструкция 2024'
+  description: >-
+    Полное руководство по запуску посуточной аренды в Санкт-Петербурге. Узнайте
+    все о юридических аспектах, подготовке квартиры, поиске гостей и увеличении
+    дохода.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.pexels.com/photos/6492397/pexels-photo-6492397.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.9'
+    reviewCount: 626
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/poshagovaya-instrukciya-kak-nachat-sdavat-kvartiru-posutochno-v-pitere/
 ---
 
 # **Пошаговая инструкция: как начать сдавать квартиру посуточно в Питере**

@@ -1,10 +1,43 @@
 ---
-title: "Давайте зарабатывать на вашей недвижимости вместе"
-description: "Узнайте, как ButlerSPB может превратить вашу квартиру в Санкт-Петербурге в стабильный источник дохода. Мы предлагаем полное управление недвижимостью, от поиска арендаторов до обслуживания, позволяя вам зарабатывать без лишних хлопот. Давайте станем партнерами в успехе!"
-pubDate: "2025-07-20T22:27:35.210Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.pexels.com/photos/439391/pexels-photo-439391.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Давайте зарабатывать на вашей недвижимости вместе","description":"Узнайте, как ButlerSPB может превратить вашу квартиру в Санкт-Петербурге в стабильный источник дохода. Мы предлагаем полное управление недвижимостью, от поиска арендаторов до обслуживания, позволяя вам зарабатывать без лишних хлопот. Давайте станем партнерами в успехе!","image":{"@type":"ImageObject","url":"https://images.pexels.com/photos/439391/pexels-photo-439391.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.8","reviewCount":690,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/davayte-zarabatyvat-na-vashey-nedvizhimosti-vmeste/"}}
+title: Давайте зарабатывать на вашей недвижимости вместе
+description: >-
+  Узнайте, как ButlerSPB может превратить вашу квартиру в Санкт-Петербурге в
+  стабильный источник дохода. Мы предлагаем полное управление недвижимостью, от
+  поиска арендаторов до обслуживания, позволяя вам зарабатывать без лишних
+  хлопот. Давайте станем партнерами в успехе!
+pubDate: '2025-07-20T22:27:35.210Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.pexels.com/photos/439391/pexels-photo-439391.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: Давайте зарабатывать на вашей недвижимости вместе
+  description: >-
+    Узнайте, как ButlerSPB может превратить вашу квартиру в Санкт-Петербурге в
+    стабильный источник дохода. Мы предлагаем полное управление недвижимостью,
+    от поиска арендаторов до обслуживания, позволяя вам зарабатывать без лишних
+    хлопот. Давайте станем партнерами в успехе!
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.pexels.com/photos/439391/pexels-photo-439391.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.7'
+    reviewCount: 493
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/davayte-zarabatyvat-na-vashey-nedvizhimosti-vmeste/
 ---
 
 # Давайте зарабатывать на вашей недвижимости вместе: как превратить квартиру в СПб в стабильный источник высокого дохода

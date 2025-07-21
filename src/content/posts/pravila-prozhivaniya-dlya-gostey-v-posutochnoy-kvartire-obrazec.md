@@ -1,10 +1,41 @@
 ---
-title: "Правила проживания для гостей в посуточной квартире: образец"
-description: "Подробный шаблон правил проживания для арендаторов посуточных квартир. Этот образец поможет избежать недопониманий, защитить ваше имущество и обеспечить комфортное пребывание для всех."
-pubDate: "2025-07-19T11:26:12.229Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1618221195710-dd6b41faaea6?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Правила проживания для гостей в посуточной квартире: образец","description":"Подробный шаблон правил проживания для арендаторов посуточных квартир. Этот образец поможет избежать недопониманий, защитить ваше имущество и обеспечить комфортное пребывание для всех.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1618221195710-dd6b41faaea6?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":793,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/pravila-prozhivaniya-dlya-gostey-v-posutochnoy-kvartire-obrazec/"}}
+title: 'Правила проживания для гостей в посуточной квартире: образец'
+description: >-
+  Подробный шаблон правил проживания для арендаторов посуточных квартир. Этот
+  образец поможет избежать недопониманий, защитить ваше имущество и обеспечить
+  комфортное пребывание для всех.
+pubDate: '2025-07-19T11:26:12.229Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1618221195710-dd6b41faaea6?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Правила проживания для гостей в посуточной квартире: образец'
+  description: >-
+    Подробный шаблон правил проживания для арендаторов посуточных квартир. Этот
+    образец поможет избежать недопониманий, защитить ваше имущество и обеспечить
+    комфортное пребывание для всех.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1618221195710-dd6b41faaea6?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.8'
+    reviewCount: 462
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/pravila-prozhivaniya-dlya-gostey-v-posutochnoy-kvartire-obrazec/
 ---
 
 # Правила проживания для гостей в посуточной квартире: образец

@@ -1,10 +1,39 @@
 ---
-title: "От хоум-стейджинга до восторженных отзывов"
-description: "Узнайте, как профессиональная предпродажная подготовка квартиры превращает обычный объект в мечту покупателя и обеспечивает поток восторженных отзывов. Секреты успешного хоум-стейджинга от экспертов ButlerSPB."
-pubDate: "2025-07-20T13:22:26.936Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.pexels.com/photos/2724749/pexels-photo-2724749.jpeg"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"От хоум-стейджинга до восторженных отзывов","description":"Узнайте, как профессиональная предпродажная подготовка квартиры превращает обычный объект в мечту покупателя и обеспечивает поток восторженных отзывов. Секреты успешного хоум-стейджинга от экспертов ButlerSPB.","image":{"@type":"ImageObject","url":"https://images.pexels.com/photos/2724749/pexels-photo-2724749.jpeg"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":815,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/ot-houm-steydzhinga-do-vostorzhennyh-otzyvov/"}}
+title: От хоум-стейджинга до восторженных отзывов
+description: >-
+  Узнайте, как профессиональная предпродажная подготовка квартиры превращает
+  обычный объект в мечту покупателя и обеспечивает поток восторженных отзывов.
+  Секреты успешного хоум-стейджинга от экспертов ButlerSPB.
+pubDate: '2025-07-20T13:22:26.936Z'
+author: Эксперт ButlerSPB
+heroImage: 'https://images.pexels.com/photos/2724749/pexels-photo-2724749.jpeg'
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: От хоум-стейджинга до восторженных отзывов
+  description: >-
+    Узнайте, как профессиональная предпродажная подготовка квартиры превращает
+    обычный объект в мечту покупателя и обеспечивает поток восторженных отзывов.
+    Секреты успешного хоум-стейджинга от экспертов ButlerSPB.
+  image:
+    '@type': ImageObject
+    url: 'https://images.pexels.com/photos/2724749/pexels-photo-2724749.jpeg'
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.8'
+    reviewCount: 857
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/ot-houm-steydzhinga-do-vostorzhennyh-otzyvov/
 ---
 
 # От хоум-стейджинга до восторженных отзывов: как ButlerSPB превращает вашу квартиру в СПб в магнит для гостей и денег

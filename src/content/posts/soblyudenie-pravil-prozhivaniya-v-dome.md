@@ -1,10 +1,44 @@
 ---
-title: "Ваш комфорт и спокойствие: почему важно соблюдать правила проживания"
-description: "Проживание в многоквартирном доме или апартаментах — это не только уют и личное пространство, но и ответственность перед соседями. В новой статье блога ButlerSPB разбираемся, почему соблюдение установленных правил является ключом к добрососедским отношениям, безопасности и комфорту для всех жильцов."
-pubDate: "2025-07-20T18:46:40.456Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.pexels.com/photos/271816/pexels-photo-271816.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Ваш комфорт и спокойствие: почему важно соблюдать правила проживания","description":"Проживание в многоквартирном доме или апартаментах — это не только уют и личное пространство, но и ответственность перед соседями. В новой статье блога ButlerSPB разбираемся, почему соблюдение установленных правил является ключом к добрососедским отношениям, безопасности и комфорту для всех жильцов.","image":{"@type":"ImageObject","url":"https://images.pexels.com/photos/271816/pexels-photo-271816.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":314,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/soblyudenie-pravil-prozhivaniya-v-dome/"}}
+title: 'Ваш комфорт и спокойствие: почему важно соблюдать правила проживания'
+description: >-
+  Проживание в многоквартирном доме или апартаментах — это не только уют и
+  личное пространство, но и ответственность перед соседями. В новой статье блога
+  ButlerSPB разбираемся, почему соблюдение установленных правил является ключом
+  к добрососедским отношениям, безопасности и комфорту для всех жильцов.
+pubDate: '2025-07-20T18:46:40.456Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.pexels.com/photos/271816/pexels-photo-271816.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Ваш комфорт и спокойствие: почему важно соблюдать правила проживания'
+  description: >-
+    Проживание в многоквартирном доме или апартаментах — это не только уют и
+    личное пространство, но и ответственность перед соседями. В новой статье
+    блога ButlerSPB разбираемся, почему соблюдение установленных правил является
+    ключом к добрососедским отношениям, безопасности и комфорту для всех
+    жильцов.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.pexels.com/photos/271816/pexels-photo-271816.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.9'
+    reviewCount: 501
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/soblyudenie-pravil-prozhivaniya-v-dome/
 ---
 
 # Ваш идеальный отдых в Петербурге: простые правила проживания в апартаментах ButlerSPB

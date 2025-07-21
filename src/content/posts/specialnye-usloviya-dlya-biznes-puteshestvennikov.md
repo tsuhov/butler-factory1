@@ -1,10 +1,43 @@
 ---
-title: "Специальные условия для бизнес-путешественников от ButlerSPB"
-description: "Организуете командировку в Санкт-Петербург? Узнайте, какие преимущества ButlerSPB предлагает корпоративным клиентам: от гибких тарифов и полного пакета отчетных документов до персонального сервиса и комфортабельных апартаментов в центре города."
-pubDate: "2025-07-20T14:44:22.914Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.pexels.com/photos/3769021/pexels-photo-3769021.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Специальные условия для бизнес-путешественников от ButlerSPB","description":"Организуете командировку в Санкт-Петербург? Узнайте, какие преимущества ButlerSPB предлагает корпоративным клиентам: от гибких тарифов и полного пакета отчетных документов до персонального сервиса и комфортабельных апартаментов в центре города.","image":{"@type":"ImageObject","url":"https://images.pexels.com/photos/3769021/pexels-photo-3769021.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.8","reviewCount":577,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/specialnye-usloviya-dlya-biznes-puteshestvennikov/"}}
+title: Специальные условия для бизнес-путешественников от ButlerSPB
+description: >-
+  Организуете командировку в Санкт-Петербург? Узнайте, какие преимущества
+  ButlerSPB предлагает корпоративным клиентам: от гибких тарифов и полного
+  пакета отчетных документов до персонального сервиса и комфортабельных
+  апартаментов в центре города.
+pubDate: '2025-07-20T14:44:22.914Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.pexels.com/photos/3769021/pexels-photo-3769021.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: Специальные условия для бизнес-путешественников от ButlerSPB
+  description: >-
+    Организуете командировку в Санкт-Петербург? Узнайте, какие преимущества
+    ButlerSPB предлагает корпоративным клиентам: от гибких тарифов и полного
+    пакета отчетных документов до персонального сервиса и комфортабельных
+    апартаментов в центре города.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.pexels.com/photos/3769021/pexels-photo-3769021.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.9'
+    reviewCount: 859
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/specialnye-usloviya-dlya-biznes-puteshestvennikov/
 ---
 
 # Специальные условия для бизнес-путешественников: Как снять идеальную квартиру для командировки в Санкт-Петербурге

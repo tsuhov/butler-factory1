@@ -1,10 +1,45 @@
 ---
-title: "Партнерство с местными кафе и ресторанами: Как выстроить взаимовыгодное сотрудничество"
-description: "Узнайте, как сотрудничество с локальными заведениями может повысить узнаваемость вашего бренда, привлечь новых клиентов и укрепить связь с местным сообществом. В статье мы рассмотрим успешные стратегии, идеи для совместных акций и советы по заключению партнерских соглашений."
-pubDate: "2025-07-20T00:37:00.158Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.pexels.com/photos/3184423/pexels-photo-3184423.jpeg"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Партнерство с местными кафе и ресторанами: Как выстроить взаимовыгодное сотрудничество","description":"Узнайте, как сотрудничество с локальными заведениями может повысить узнаваемость вашего бренда, привлечь новых клиентов и укрепить связь с местным сообществом. В статье мы рассмотрим успешные стратегии, идеи для совместных акций и советы по заключению партнерских соглашений.","image":{"@type":"ImageObject","url":"https://images.pexels.com/photos/3184423/pexels-photo-3184423.jpeg"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.8","reviewCount":339,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/partnerstvo-s-mestnymi-kafe-i-restoranami/"}}
+title: >-
+  Партнерство с местными кафе и ресторанами: Как выстроить взаимовыгодное
+  сотрудничество
+description: >-
+  Узнайте, как сотрудничество с локальными заведениями может повысить
+  узнаваемость вашего бренда, привлечь новых клиентов и укрепить связь с местным
+  сообществом. В статье мы рассмотрим успешные стратегии, идеи для совместных
+  акций и советы по заключению партнерских соглашений.
+pubDate: '2025-07-20T00:37:00.158Z'
+author: Эксперт ButlerSPB
+heroImage: 'https://images.pexels.com/photos/3184423/pexels-photo-3184423.jpeg'
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: >-
+    Партнерство с местными кафе и ресторанами: Как выстроить взаимовыгодное
+    сотрудничество
+  description: >-
+    Узнайте, как сотрудничество с локальными заведениями может повысить
+    узнаваемость вашего бренда, привлечь новых клиентов и укрепить связь с
+    местным сообществом. В статье мы рассмотрим успешные стратегии, идеи для
+    совместных акций и советы по заключению партнерских соглашений.
+  image:
+    '@type': ImageObject
+    url: 'https://images.pexels.com/photos/3184423/pexels-photo-3184423.jpeg'
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.7'
+    reviewCount: 884
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/partnerstvo-s-mestnymi-kafe-i-restoranami/
 ---
 
 # Партнерство с местными кафе и ресторанами: Полное руководство по созданию взаимовыгодных коллабораций

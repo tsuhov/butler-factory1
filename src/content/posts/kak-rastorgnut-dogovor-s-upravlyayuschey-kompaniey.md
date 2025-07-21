@@ -1,10 +1,41 @@
 ---
-title: "Как расторгнуть договор с управляющей компанией: пошаговая инструкция"
-description: "Подробное руководство для собственников жилья о том, как законно инициировать смену управляющей компании. Освещаем основные причины, необходимые документы и процедуру расторжения договора."
-pubDate: "2025-07-20T11:39:46.691Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.pexels.com/photos/8294578/pexels-photo-8294578.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Как расторгнуть договор с управляющей компанией: пошаговая инструкция","description":"Подробное руководство для собственников жилья о том, как законно инициировать смену управляющей компании. Освещаем основные причины, необходимые документы и процедуру расторжения договора.","image":{"@type":"ImageObject","url":"https://images.pexels.com/photos/8294578/pexels-photo-8294578.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"5.0","reviewCount":542,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/kak-rastorgnut-dogovor-s-upravlyayuschey-kompaniey/"}}
+title: 'Как расторгнуть договор с управляющей компанией: пошаговая инструкция'
+description: >-
+  Подробное руководство для собственников жилья о том, как законно инициировать
+  смену управляющей компании. Освещаем основные причины, необходимые документы и
+  процедуру расторжения договора.
+pubDate: '2025-07-20T11:39:46.691Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.pexels.com/photos/8294578/pexels-photo-8294578.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Как расторгнуть договор с управляющей компанией: пошаговая инструкция'
+  description: >-
+    Подробное руководство для собственников жилья о том, как законно
+    инициировать смену управляющей компании. Освещаем основные причины,
+    необходимые документы и процедуру расторжения договора.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.pexels.com/photos/8294578/pexels-photo-8294578.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.9'
+    reviewCount: 563
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/kak-rastorgnut-dogovor-s-upravlyayuschey-kompaniey/
 ---
 
 # Как расторгнуть договор с управляющей компанией: Полное пошаговое руководство

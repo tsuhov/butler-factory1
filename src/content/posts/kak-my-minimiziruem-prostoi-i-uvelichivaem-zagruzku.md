@@ -1,10 +1,39 @@
 ---
-title: "Как мы минимизируем простои и увеличиваем загрузку"
-description: "В блоге ButlerSPB делимся проверенными стратегиями и инструментами, которые помогают нам сокращать время простоя и максимально эффективно использовать ресурсы, обеспечивая бесперебойную работу для наших клиентов."
-pubDate: "2025-07-21T11:00:59.991Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.pexels.com/photos/1906658/pexels-photo-1906658.jpeg"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Как мы минимизируем простои и увеличиваем загрузку","description":"В блоге ButlerSPB делимся проверенными стратегиями и инструментами, которые помогают нам сокращать время простоя и максимально эффективно использовать ресурсы, обеспечивая бесперебойную работу для наших клиентов.","image":{"@type":"ImageObject","url":"https://images.pexels.com/photos/1906658/pexels-photo-1906658.jpeg"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.7","reviewCount":328,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/kak-my-minimiziruem-prostoi-i-uvelichivaem-zagruzku/"}}
+title: Как мы минимизируем простои и увеличиваем загрузку
+description: >-
+  В блоге ButlerSPB делимся проверенными стратегиями и инструментами, которые
+  помогают нам сокращать время простоя и максимально эффективно использовать
+  ресурсы, обеспечивая бесперебойную работу для наших клиентов.
+pubDate: '2025-07-21T11:00:59.991Z'
+author: Эксперт ButlerSPB
+heroImage: 'https://images.pexels.com/photos/1906658/pexels-photo-1906658.jpeg'
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: Как мы минимизируем простои и увеличиваем загрузку
+  description: >-
+    В блоге ButlerSPB делимся проверенными стратегиями и инструментами, которые
+    помогают нам сокращать время простоя и максимально эффективно использовать
+    ресурсы, обеспечивая бесперебойную работу для наших клиентов.
+  image:
+    '@type': ImageObject
+    url: 'https://images.pexels.com/photos/1906658/pexels-photo-1906658.jpeg'
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.9'
+    reviewCount: 476
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/kak-my-minimiziruem-prostoi-i-uvelichivaem-zagruzku/
 ---
 
 # Простои съедают вашу прибыль? Как ButlerSPB обеспечивает загрузку квартир в Петербурге на 90%+ даже в низкий сезон

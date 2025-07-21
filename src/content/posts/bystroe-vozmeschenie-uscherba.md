@@ -1,10 +1,42 @@
 ---
-title: "Быстрое возмещение ущерба: инструкция от ButlerSPB"
-description: "Столкнулись с неприятностью? В нашей новой статье мы подробно разбираем, как оперативно получить компенсацию за причиненный ущерб, какие шаги предпринять в первую очередь и как ButlerSPB помогает ускорить этот процесс для своих клиентов."
-pubDate: "2025-07-20T14:57:17.858Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.pexels.com/photos/5997993/pexels-photo-5997993.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Быстрое возмещение ущерба: инструкция от ButlerSPB","description":"Столкнулись с неприятностью? В нашей новой статье мы подробно разбираем, как оперативно получить компенсацию за причиненный ущерб, какие шаги предпринять в первую очередь и как ButlerSPB помогает ускорить этот процесс для своих клиентов.","image":{"@type":"ImageObject","url":"https://images.pexels.com/photos/5997993/pexels-photo-5997993.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.8","reviewCount":407,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/bystroe-vozmeschenie-uscherba/"}}
+title: 'Быстрое возмещение ущерба: инструкция от ButlerSPB'
+description: >-
+  Столкнулись с неприятностью? В нашей новой статье мы подробно разбираем, как
+  оперативно получить компенсацию за причиненный ущерб, какие шаги предпринять в
+  первую очередь и как ButlerSPB помогает ускорить этот процесс для своих
+  клиентов.
+pubDate: '2025-07-20T14:57:17.858Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.pexels.com/photos/5997993/pexels-photo-5997993.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Быстрое возмещение ущерба: инструкция от ButlerSPB'
+  description: >-
+    Столкнулись с неприятностью? В нашей новой статье мы подробно разбираем, как
+    оперативно получить компенсацию за причиненный ущерб, какие шаги предпринять
+    в первую очередь и как ButlerSPB помогает ускорить этот процесс для своих
+    клиентов.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.pexels.com/photos/5997993/pexels-photo-5997993.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.8'
+    reviewCount: 755
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': 'https://butlerspb-blog.netlify.app/blog/bystroe-vozmeschenie-uscherba/'
 ---
 
 # Как быстро и полностью возместить ущерб от гостей в посуточной аренде?

@@ -1,10 +1,39 @@
 ---
-title: "Отзывы о работе с управляющей компанией ButlerSPB: Реальный опыт клиентов"
-description: "Анализ отзывов клиентов об управляющей компании ButlerSPB. В этой статье мы собрали мнения жильцов о качестве обслуживания, скорости реакции на заявки и прозрачности работы компании."
-pubDate: "2025-07-19T10:55:57.205Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.pexels.com/photos/3184418/pexels-photo-3184418.jpeg"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Отзывы о работе с управляющей компанией ButlerSPB: Реальный опыт клиентов","description":"Анализ отзывов клиентов об управляющей компании ButlerSPB. В этой статье мы собрали мнения жильцов о качестве обслуживания, скорости реакции на заявки и прозрачности работы компании.","image":{"@type":"ImageObject","url":"https://images.pexels.com/photos/3184418/pexels-photo-3184418.jpeg"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"5.0","reviewCount":361,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/otzyvy-o-rabote-s-upravlyayuschey-kompaniey-butlerspb/"}}
+title: 'Отзывы о работе с управляющей компанией ButlerSPB: Реальный опыт клиентов'
+description: >-
+  Анализ отзывов клиентов об управляющей компании ButlerSPB. В этой статье мы
+  собрали мнения жильцов о качестве обслуживания, скорости реакции на заявки и
+  прозрачности работы компании.
+pubDate: '2025-07-19T10:55:57.205Z'
+author: Эксперт ButlerSPB
+heroImage: 'https://images.pexels.com/photos/3184418/pexels-photo-3184418.jpeg'
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Отзывы о работе с управляющей компанией ButlerSPB: Реальный опыт клиентов'
+  description: >-
+    Анализ отзывов клиентов об управляющей компании ButlerSPB. В этой статье мы
+    собрали мнения жильцов о качестве обслуживания, скорости реакции на заявки и
+    прозрачности работы компании.
+  image:
+    '@type': ImageObject
+    url: 'https://images.pexels.com/photos/3184418/pexels-photo-3184418.jpeg'
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.7'
+    reviewCount: 711
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/otzyvy-o-rabote-s-upravlyayuschey-kompaniey-butlerspb/
 ---
 
 # Отзывы о ButlerSPB: Полный разбор работы управляющей компании в Санкт-Петербурге

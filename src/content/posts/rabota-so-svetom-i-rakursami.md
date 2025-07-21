@@ -1,10 +1,42 @@
 ---
-title: "Искусство фотографии: секреты работы со светом и ракурсами"
-description: "Узнайте, как правильное освещение и выбор ракурса могут кардинально изменить ваши снимки. В новой статье блога ButlerSPB мы делимся профессиональными советами и техниками, которые помогут вам превратить обычные кадры в настоящие шедевры."
-pubDate: "2025-07-20T18:15:39.649Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.pexels.com/photos/1983037/pexels-photo-1983037.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Искусство фотографии: секреты работы со светом и ракурсами","description":"Узнайте, как правильное освещение и выбор ракурса могут кардинально изменить ваши снимки. В новой статье блога ButlerSPB мы делимся профессиональными советами и техниками, которые помогут вам превратить обычные кадры в настоящие шедевры.","image":{"@type":"ImageObject","url":"https://images.pexels.com/photos/1983037/pexels-photo-1983037.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.8","reviewCount":695,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/rabota-so-svetom-i-rakursami/"}}
+title: 'Искусство фотографии: секреты работы со светом и ракурсами'
+description: >-
+  Узнайте, как правильное освещение и выбор ракурса могут кардинально изменить
+  ваши снимки. В новой статье блога ButlerSPB мы делимся профессиональными
+  советами и техниками, которые помогут вам превратить обычные кадры в настоящие
+  шедевры.
+pubDate: '2025-07-20T18:15:39.649Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.pexels.com/photos/1983037/pexels-photo-1983037.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Искусство фотографии: секреты работы со светом и ракурсами'
+  description: >-
+    Узнайте, как правильное освещение и выбор ракурса могут кардинально изменить
+    ваши снимки. В новой статье блога ButlerSPB мы делимся профессиональными
+    советами и техниками, которые помогут вам превратить обычные кадры в
+    настоящие шедевры.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.pexels.com/photos/1983037/pexels-photo-1983037.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.8'
+    reviewCount: 830
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': 'https://butlerspb-blog.netlify.app/blog/rabota-so-svetom-i-rakursami/'
 ---
 
 # Искусство фотографии для посуточной аренды: экспертные советы по свету и ракурсам для владельцев квартир в Петербурге

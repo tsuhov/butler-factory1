@@ -1,10 +1,48 @@
 ---
-title: "Круглосуточная поддержка гостей в мессенджерах: как мы в ButlerSPB заботимся о вас 24/7"
-description: "Комфорт и спокойствие гостя — наш главный приоритет. В этой статье мы расскажем, как наша служба поддержки в мессенджерах работает круглосуточно, чтобы мгновенно отвечать на ваши вопросы, решать любые возникающие проблемы и делать ваше пребывание в Санкт-Петербурге максимально приятным и беззаботным."
-pubDate: "2025-07-20T18:09:19.937Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.pexels.com/photos/4467735/pexels-photo-4467735.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Круглосуточная поддержка гостей в мессенджерах: как мы в ButlerSPB заботимся о вас 24/7","description":"Комфорт и спокойствие гостя — наш главный приоритет. В этой статье мы расскажем, как наша служба поддержки в мессенджерах работает круглосуточно, чтобы мгновенно отвечать на ваши вопросы, решать любые возникающие проблемы и делать ваше пребывание в Санкт-Петербурге максимально приятным и беззаботным.","image":{"@type":"ImageObject","url":"https://images.pexels.com/photos/4467735/pexels-photo-4467735.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.8","reviewCount":656,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/kruglosutochnaya-podderzhka-gostey-v-messendzherah/"}}
+title: >-
+  Круглосуточная поддержка гостей в мессенджерах: как мы в ButlerSPB заботимся о
+  вас 24/7
+description: >-
+  Комфорт и спокойствие гостя — наш главный приоритет. В этой статье мы
+  расскажем, как наша служба поддержки в мессенджерах работает круглосуточно,
+  чтобы мгновенно отвечать на ваши вопросы, решать любые возникающие проблемы и
+  делать ваше пребывание в Санкт-Петербурге максимально приятным и беззаботным.
+pubDate: '2025-07-20T18:09:19.937Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.pexels.com/photos/4467735/pexels-photo-4467735.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: >-
+    Круглосуточная поддержка гостей в мессенджерах: как мы в ButlerSPB заботимся
+    о вас 24/7
+  description: >-
+    Комфорт и спокойствие гостя — наш главный приоритет. В этой статье мы
+    расскажем, как наша служба поддержки в мессенджерах работает круглосуточно,
+    чтобы мгновенно отвечать на ваши вопросы, решать любые возникающие проблемы
+    и делать ваше пребывание в Санкт-Петербурге максимально приятным и
+    беззаботным.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.pexels.com/photos/4467735/pexels-photo-4467735.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.8'
+    reviewCount: 604
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/kruglosutochnaya-podderzhka-gostey-v-messendzherah/
 ---
 
 # Круглосуточная поддержка гостей в мессенджерах: От ночного кошмара собственника к 5-звездочному сервису

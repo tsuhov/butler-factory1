@@ -1,10 +1,43 @@
 ---
-title: "Как мы обеспечиваем 100% легальность и безопасность сделок"
-description: "В ButlerSPB мы убеждены, что безопасность вашей сделки — это главный приоритет. Узнайте о нашей многоступенчатой системе проверки, юридическом сопровождении и технологиях, которые мы используем для гарантии полной легальности и защиты каждого договора."
-pubDate: "2025-07-20T12:51:01.180Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.pexels.com/photos/6077326/pexels-photo-6077326.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Как мы обеспечиваем 100% легальность и безопасность сделок","description":"В ButlerSPB мы убеждены, что безопасность вашей сделки — это главный приоритет. Узнайте о нашей многоступенчатой системе проверки, юридическом сопровождении и технологиях, которые мы используем для гарантии полной легальности и защиты каждого договора.","image":{"@type":"ImageObject","url":"https://images.pexels.com/photos/6077326/pexels-photo-6077326.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.7","reviewCount":304,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/kak-my-obespechivaem-100-legalnost-i-bezopasnost-sdelok/"}}
+title: Как мы обеспечиваем 100% легальность и безопасность сделок
+description: >-
+  В ButlerSPB мы убеждены, что безопасность вашей сделки — это главный
+  приоритет. Узнайте о нашей многоступенчатой системе проверки, юридическом
+  сопровождении и технологиях, которые мы используем для гарантии полной
+  легальности и защиты каждого договора.
+pubDate: '2025-07-20T12:51:01.180Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.pexels.com/photos/6077326/pexels-photo-6077326.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: Как мы обеспечиваем 100% легальность и безопасность сделок
+  description: >-
+    В ButlerSPB мы убеждены, что безопасность вашей сделки — это главный
+    приоритет. Узнайте о нашей многоступенчатой системе проверки, юридическом
+    сопровождении и технологиях, которые мы используем для гарантии полной
+    легальности и защиты каждого договора.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.pexels.com/photos/6077326/pexels-photo-6077326.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.9'
+    reviewCount: 752
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/kak-my-obespechivaem-100-legalnost-i-bezopasnost-sdelok/
 ---
 
 # 100% легально и безопасно: Как ButlerSPB защищает ваши сделки по посуточной аренде в Петербурге

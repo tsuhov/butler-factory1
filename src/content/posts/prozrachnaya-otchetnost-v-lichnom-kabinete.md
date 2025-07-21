@@ -1,10 +1,41 @@
 ---
-title: "Прозрачная отчетность в личном кабинете: Ключ к доверию и эффективности"
-description: "Узнайте, почему детальная и понятная отчетность в вашем личном кабинете — это не просто набор цифр, а мощный инструмент для контроля, анализа и построения доверительных отношений. В статье мы разбираем, какие данные важны и как их правильно интерпретировать."
-pubDate: "2025-07-20T11:51:00.339Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1551288049-bebda4e38f71"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Прозрачная отчетность в личном кабинете: Ключ к доверию и эффективности","description":"Узнайте, почему детальная и понятная отчетность в вашем личном кабинете — это не просто набор цифр, а мощный инструмент для контроля, анализа и построения доверительных отношений. В статье мы разбираем, какие данные важны и как их правильно интерпретировать.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1551288049-bebda4e38f71"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.7","reviewCount":679,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/prozrachnaya-otchetnost-v-lichnom-kabinete/"}}
+title: 'Прозрачная отчетность в личном кабинете: Ключ к доверию и эффективности'
+description: >-
+  Узнайте, почему детальная и понятная отчетность в вашем личном кабинете — это
+  не просто набор цифр, а мощный инструмент для контроля, анализа и построения
+  доверительных отношений. В статье мы разбираем, какие данные важны и как их
+  правильно интерпретировать.
+pubDate: '2025-07-20T11:51:00.339Z'
+author: Эксперт ButlerSPB
+heroImage: 'https://images.unsplash.com/photo-1551288049-bebda4e38f71'
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Прозрачная отчетность в личном кабинете: Ключ к доверию и эффективности'
+  description: >-
+    Узнайте, почему детальная и понятная отчетность в вашем личном кабинете —
+    это не просто набор цифр, а мощный инструмент для контроля, анализа и
+    построения доверительных отношений. В статье мы разбираем, какие данные
+    важны и как их правильно интерпретировать.
+  image:
+    '@type': ImageObject
+    url: 'https://images.unsplash.com/photo-1551288049-bebda4e38f71'
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.7'
+    reviewCount: 676
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/prozrachnaya-otchetnost-v-lichnom-kabinete/
 ---
 
 # Прозрачная отчетность в личном кабинете: как превратить данные в доверие и удержать клиента

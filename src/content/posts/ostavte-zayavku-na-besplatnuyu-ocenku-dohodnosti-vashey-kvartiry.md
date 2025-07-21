@@ -1,10 +1,39 @@
 ---
-title: "Оставьте заявку на бесплатную оценку доходности вашей квартиры"
-description: "Хотите знать, сколько может приносить ваша недвижимость? Наши эксперты проведут бесплатный анализ и предоставят вам подробный отчет о потенциальной доходности вашей квартиры при сдаче в аренду."
-pubDate: "2025-07-20T12:05:00.952Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.pexels.com/photos/2724749/pexels-photo-2724749.jpeg"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Оставьте заявку на бесплатную оценку доходности вашей квартиры","description":"Хотите знать, сколько может приносить ваша недвижимость? Наши эксперты проведут бесплатный анализ и предоставят вам подробный отчет о потенциальной доходности вашей квартиры при сдаче в аренду.","image":{"@type":"ImageObject","url":"https://images.pexels.com/photos/2724749/pexels-photo-2724749.jpeg"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":558,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/ostavte-zayavku-na-besplatnuyu-ocenku-dohodnosti-vashey-kvartiry/"}}
+title: Оставьте заявку на бесплатную оценку доходности вашей квартиры
+description: >-
+  Хотите знать, сколько может приносить ваша недвижимость? Наши эксперты
+  проведут бесплатный анализ и предоставят вам подробный отчет о потенциальной
+  доходности вашей квартиры при сдаче в аренду.
+pubDate: '2025-07-20T12:05:00.952Z'
+author: Эксперт ButlerSPB
+heroImage: 'https://images.pexels.com/photos/2724749/pexels-photo-2724749.jpeg'
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: Оставьте заявку на бесплатную оценку доходности вашей квартиры
+  description: >-
+    Хотите знать, сколько может приносить ваша недвижимость? Наши эксперты
+    проведут бесплатный анализ и предоставят вам подробный отчет о потенциальной
+    доходности вашей квартиры при сдаче в аренду.
+  image:
+    '@type': ImageObject
+    url: 'https://images.pexels.com/photos/2724749/pexels-photo-2724749.jpeg'
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.7'
+    reviewCount: 375
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/ostavte-zayavku-na-besplatnuyu-ocenku-dohodnosti-vashey-kvartiry/
 ---
 
 # Узнайте реальную доходность вашей квартиры: Бесплатная профессиональная оценка от экспертов

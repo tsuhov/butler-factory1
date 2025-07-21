@@ -1,10 +1,39 @@
 ---
-title: "Оснащение квартиры для посуточной аренды: полный список необходимого"
-description: "Подробный чек-лист всего необходимого для оснащения квартиры под посуточную аренду: от мебели и техники до мелочей, создающих уют и привлекающих гостей."
-pubDate: "2025-07-18T15:42:25.351Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.pexels.com/photos/3797991/pexels-photo-3797991.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Оснащение квартиры для посуточной аренды: полный список необходимого","description":"Подробный чек-лист всего необходимого для оснащения квартиры под посуточную аренду: от мебели и техники до мелочей, создающих уют и привлекающих гостей.","image":{"@type":"ImageObject","url":"https://images.pexels.com/photos/3797991/pexels-photo-3797991.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":429,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/osnaschenie-kvartiry-dlya-posutochnoy-arendy-polnyy-spisok-neobhodimogo/"}}
+title: 'Оснащение квартиры для посуточной аренды: полный список необходимого'
+description: >-
+  Подробный чек-лист всего необходимого для оснащения квартиры под посуточную
+  аренду: от мебели и техники до мелочей, создающих уют и привлекающих гостей.
+pubDate: '2025-07-18T15:42:25.351Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.pexels.com/photos/3797991/pexels-photo-3797991.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Оснащение квартиры для посуточной аренды: полный список необходимого'
+  description: >-
+    Подробный чек-лист всего необходимого для оснащения квартиры под посуточную
+    аренду: от мебели и техники до мелочей, создающих уют и привлекающих гостей.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.pexels.com/photos/3797991/pexels-photo-3797991.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.9'
+    reviewCount: 635
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/osnaschenie-kvartiry-dlya-posutochnoy-arendy-polnyy-spisok-neobhodimogo/
 ---
 
 # Оснащение квартиры для посуточной аренды: полный чек-лист для максимального дохода и 5-звездочных отзывов

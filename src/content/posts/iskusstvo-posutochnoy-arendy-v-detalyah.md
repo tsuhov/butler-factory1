@@ -1,10 +1,41 @@
 ---
-title: "Искусство посуточной аренды в деталях"
-description: "Раскрываем секреты успешной посуточной аренды: от хоум-стейджинга и профессиональной фотосъемки до динамического ценообразования и безупречного сервиса. Узнайте, как превратить вашу квартиру в прибыльный актив вместе с ButlerSPB."
-pubDate: "2025-07-20T14:26:25.375Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.pexels.com/photos/1571460/pexels-photo-1571460.jpeg"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Искусство посуточной аренды в деталях","description":"Раскрываем секреты успешной посуточной аренды: от хоум-стейджинга и профессиональной фотосъемки до динамического ценообразования и безупречного сервиса. Узнайте, как превратить вашу квартиру в прибыльный актив вместе с ButlerSPB.","image":{"@type":"ImageObject","url":"https://images.pexels.com/photos/1571460/pexels-photo-1571460.jpeg"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.8","reviewCount":598,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/iskusstvo-posutochnoy-arendy-v-detalyah/"}}
+title: Искусство посуточной аренды в деталях
+description: >-
+  Раскрываем секреты успешной посуточной аренды: от хоум-стейджинга и
+  профессиональной фотосъемки до динамического ценообразования и безупречного
+  сервиса. Узнайте, как превратить вашу квартиру в прибыльный актив вместе с
+  ButlerSPB.
+pubDate: '2025-07-20T14:26:25.375Z'
+author: Эксперт ButlerSPB
+heroImage: 'https://images.pexels.com/photos/1571460/pexels-photo-1571460.jpeg'
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: Искусство посуточной аренды в деталях
+  description: >-
+    Раскрываем секреты успешной посуточной аренды: от хоум-стейджинга и
+    профессиональной фотосъемки до динамического ценообразования и безупречного
+    сервиса. Узнайте, как превратить вашу квартиру в прибыльный актив вместе с
+    ButlerSPB.
+  image:
+    '@type': ImageObject
+    url: 'https://images.pexels.com/photos/1571460/pexels-photo-1571460.jpeg'
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.7'
+    reviewCount: 378
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/iskusstvo-posutochnoy-arendy-v-detalyah/
 ---
 
 # Искусство посуточной аренды в деталях: Превращаем вашу квартиру в СПб в источник стабильного дохода

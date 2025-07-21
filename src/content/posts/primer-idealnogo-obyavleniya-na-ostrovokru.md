@@ -1,10 +1,39 @@
 ---
-title: "Пример идеального объявления на Островок.ру: Как привлечь больше гостей"
-description: "Разбираем на конкретном примере, как создать объявление на Островок.ру, которое будет выделяться среди конкурентов. Советы по фотографиям, описанию, удобствам и ценообразованию для максимального заполнения вашего объекта."
-pubDate: "2025-07-19T13:53:30.839Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.pexels.com/photos/271816/pexels-photo-271816.jpeg"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Пример идеального объявления на Островок.ру: Как привлечь больше гостей","description":"Разбираем на конкретном примере, как создать объявление на Островок.ру, которое будет выделяться среди конкурентов. Советы по фотографиям, описанию, удобствам и ценообразованию для максимального заполнения вашего объекта.","image":{"@type":"ImageObject","url":"https://images.pexels.com/photos/271816/pexels-photo-271816.jpeg"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":450,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/primer-idealnogo-obyavleniya-na-ostrovokru/"}}
+title: 'Пример идеального объявления на Островок.ру: Как привлечь больше гостей'
+description: >-
+  Разбираем на конкретном примере, как создать объявление на Островок.ру,
+  которое будет выделяться среди конкурентов. Советы по фотографиям, описанию,
+  удобствам и ценообразованию для максимального заполнения вашего объекта.
+pubDate: '2025-07-19T13:53:30.839Z'
+author: Эксперт ButlerSPB
+heroImage: 'https://images.pexels.com/photos/271816/pexels-photo-271816.jpeg'
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Пример идеального объявления на Островок.ру: Как привлечь больше гостей'
+  description: >-
+    Разбираем на конкретном примере, как создать объявление на Островок.ру,
+    которое будет выделяться среди конкурентов. Советы по фотографиям, описанию,
+    удобствам и ценообразованию для максимального заполнения вашего объекта.
+  image:
+    '@type': ImageObject
+    url: 'https://images.pexels.com/photos/271816/pexels-photo-271816.jpeg'
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.9'
+    reviewCount: 861
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/primer-idealnogo-obyavleniya-na-ostrovokru/
 ---
 
 # Как создать идеальное объявление на Островок.ру: Полное руководство для отельера (+ примеры и чек-лист)

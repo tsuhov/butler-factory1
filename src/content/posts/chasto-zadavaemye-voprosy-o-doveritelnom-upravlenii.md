@@ -1,10 +1,41 @@
 ---
-title: "Часто задаваемые вопросы о доверительном управлении недвижимостью"
-description: "В этой статье мы собрали ответы на самые популярные вопросы о доверительном управлении: что это такое, кому подходит, какие риски существуют и как выбрать надежного управляющего для вашей квартиры или коммерческого объекта."
-pubDate: "2025-07-20T12:19:26.870Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.pexels.com/photos/8293747/pexels-photo-8293747.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Часто задаваемые вопросы о доверительном управлении недвижимостью","description":"В этой статье мы собрали ответы на самые популярные вопросы о доверительном управлении: что это такое, кому подходит, какие риски существуют и как выбрать надежного управляющего для вашей квартиры или коммерческого объекта.","image":{"@type":"ImageObject","url":"https://images.pexels.com/photos/8293747/pexels-photo-8293747.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.8","reviewCount":338,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/chasto-zadavaemye-voprosy-o-doveritelnom-upravlenii/"}}
+title: Часто задаваемые вопросы о доверительном управлении недвижимостью
+description: >-
+  В этой статье мы собрали ответы на самые популярные вопросы о доверительном
+  управлении: что это такое, кому подходит, какие риски существуют и как выбрать
+  надежного управляющего для вашей квартиры или коммерческого объекта.
+pubDate: '2025-07-20T12:19:26.870Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.pexels.com/photos/8293747/pexels-photo-8293747.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: Часто задаваемые вопросы о доверительном управлении недвижимостью
+  description: >-
+    В этой статье мы собрали ответы на самые популярные вопросы о доверительном
+    управлении: что это такое, кому подходит, какие риски существуют и как
+    выбрать надежного управляющего для вашей квартиры или коммерческого объекта.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.pexels.com/photos/8293747/pexels-photo-8293747.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.7'
+    reviewCount: 664
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/chasto-zadavaemye-voprosy-o-doveritelnom-upravlenii/
 ---
 
 # Доверительное управление (ДУ): 15 главных вопросов для инвестора

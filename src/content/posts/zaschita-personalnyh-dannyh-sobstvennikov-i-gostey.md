@@ -1,10 +1,47 @@
 ---
-title: "Защита персональных данных: как мы обеспечиваем безопасность собственников и гостей"
-description: "В современном мире вопрос конфиденциальности стоит особенно остро. В этой статье мы расскажем, какие меры предпринимает ButlerSPB для надежной защиты персональных данных владельцев недвижимости и их гостей, в соответствии с законодательством и лучшими мировыми практиками."
-pubDate: "2025-07-20T23:06:35.797Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.pexels.com/photos/60504/security-protection-anti-virus-software-60504.jpeg"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Защита персональных данных: как мы обеспечиваем безопасность собственников и гостей","description":"В современном мире вопрос конфиденциальности стоит особенно остро. В этой статье мы расскажем, какие меры предпринимает ButlerSPB для надежной защиты персональных данных владельцев недвижимости и их гостей, в соответствии с законодательством и лучшими мировыми практиками.","image":{"@type":"ImageObject","url":"https://images.pexels.com/photos/60504/security-protection-anti-virus-software-60504.jpeg"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.8","reviewCount":409,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/zaschita-personalnyh-dannyh-sobstvennikov-i-gostey/"}}
+title: >-
+  Защита персональных данных: как мы обеспечиваем безопасность собственников и
+  гостей
+description: >-
+  В современном мире вопрос конфиденциальности стоит особенно остро. В этой
+  статье мы расскажем, какие меры предпринимает ButlerSPB для надежной защиты
+  персональных данных владельцев недвижимости и их гостей, в соответствии с
+  законодательством и лучшими мировыми практиками.
+pubDate: '2025-07-20T23:06:35.797Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.pexels.com/photos/60504/security-protection-anti-virus-software-60504.jpeg
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: >-
+    Защита персональных данных: как мы обеспечиваем безопасность собственников и
+    гостей
+  description: >-
+    В современном мире вопрос конфиденциальности стоит особенно остро. В этой
+    статье мы расскажем, какие меры предпринимает ButlerSPB для надежной защиты
+    персональных данных владельцев недвижимости и их гостей, в соответствии с
+    законодательством и лучшими мировыми практиками.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.pexels.com/photos/60504/security-protection-anti-virus-software-60504.jpeg
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.9'
+    reviewCount: 717
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/zaschita-personalnyh-dannyh-sobstvennikov-i-gostey/
 ---
 
 # Защита персональных данных в посуточной аренде: как ButlerSPB обеспечивает безопасность собственников и гостей

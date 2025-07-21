@@ -1,10 +1,38 @@
 ---
-title: "Отзывы о работе с ButlerSPB: Что говорят клиенты?"
-description: "Собрали для вас самые честные и подробные отзывы о сотрудничестве с компанией ButlerSPB. Узнайте о реальном опыте клиентов из первых уст."
-pubDate: "2025-07-20T11:41:31.049Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.pexels.com/photos/3184311/pexels-photo-3184311.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Отзывы о работе с ButlerSPB: Что говорят клиенты?","description":"Собрали для вас самые честные и подробные отзывы о сотрудничестве с компанией ButlerSPB. Узнайте о реальном опыте клиентов из первых уст.","image":{"@type":"ImageObject","url":"https://images.pexels.com/photos/3184311/pexels-photo-3184311.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.8","reviewCount":840,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/otzyvy-o-rabote-s-butlerspb/"}}
+title: 'Отзывы о работе с ButlerSPB: Что говорят клиенты?'
+description: >-
+  Собрали для вас самые честные и подробные отзывы о сотрудничестве с компанией
+  ButlerSPB. Узнайте о реальном опыте клиентов из первых уст.
+pubDate: '2025-07-20T11:41:31.049Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.pexels.com/photos/3184311/pexels-photo-3184311.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Отзывы о работе с ButlerSPB: Что говорят клиенты?'
+  description: >-
+    Собрали для вас самые честные и подробные отзывы о сотрудничестве с
+    компанией ButlerSPB. Узнайте о реальном опыте клиентов из первых уст.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.pexels.com/photos/3184311/pexels-photo-3184311.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.8'
+    reviewCount: 605
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': 'https://butlerspb-blog.netlify.app/blog/otzyvy-o-rabote-s-butlerspb/'
 ---
 
 # ButlerSPB: Отзывы о работе, зарплате и условиях. Вся правда от сотрудников и клиентов в 2024 году.

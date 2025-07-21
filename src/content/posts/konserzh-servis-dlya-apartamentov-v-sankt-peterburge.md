@@ -1,10 +1,43 @@
 ---
-title: "Консьерж-сервис для апартаментов в Санкт-Петербурге: новый уровень комфорта"
-description: "Узнайте, как консьерж-сервис трансформирует жизнь в апартаментах Санкт-Петербурга, предлагая эксклюзивные услуги от заказа билетов до организации мероприятий. Повысьте качество своей жизни и сэкономьте время с помощью профессионалов."
-pubDate: "2025-07-18T17:59:29.604Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1596394516093-501ba68a0ba6?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1770&q=80"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Консьерж-сервис для апартаментов в Санкт-Петербурге: новый уровень комфорта","description":"Узнайте, как консьерж-сервис трансформирует жизнь в апартаментах Санкт-Петербурга, предлагая эксклюзивные услуги от заказа билетов до организации мероприятий. Повысьте качество своей жизни и сэкономьте время с помощью профессионалов.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1596394516093-501ba68a0ba6?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1770&q=80"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.7","reviewCount":761,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/konserzh-servis-dlya-apartamentov-v-sankt-peterburge/"}}
+title: 'Консьерж-сервис для апартаментов в Санкт-Петербурге: новый уровень комфорта'
+description: >-
+  Узнайте, как консьерж-сервис трансформирует жизнь в апартаментах
+  Санкт-Петербурга, предлагая эксклюзивные услуги от заказа билетов до
+  организации мероприятий. Повысьте качество своей жизни и сэкономьте время с
+  помощью профессионалов.
+pubDate: '2025-07-18T17:59:29.604Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1596394516093-501ba68a0ba6?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1770&q=80
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Консьерж-сервис для апартаментов в Санкт-Петербурге: новый уровень комфорта'
+  description: >-
+    Узнайте, как консьерж-сервис трансформирует жизнь в апартаментах
+    Санкт-Петербурга, предлагая эксклюзивные услуги от заказа билетов до
+    организации мероприятий. Повысьте качество своей жизни и сэкономьте время с
+    помощью профессионалов.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1596394516093-501ba68a0ba6?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1770&q=80
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '5.0'
+    reviewCount: 519
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/konserzh-servis-dlya-apartamentov-v-sankt-peterburge/
 ---
 
 # Консьерж-сервис для апартаментов в Санкт-Петербурге: Ваш ключ к комфорту и премиальному статусу

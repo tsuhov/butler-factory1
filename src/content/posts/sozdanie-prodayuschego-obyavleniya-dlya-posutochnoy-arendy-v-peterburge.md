@@ -1,10 +1,41 @@
 ---
-title: "Создание продающего объявления для посуточной аренды в Петербурге"
-description: "Пошаговое руководство по созданию эффективного объявления для сдачи квартиры в Санкт-Петербурге. Узнайте, как написать цепляющий заголовок, сделать качественные фото и составить описание, которое привлечет максимум гостей и увеличит ваш доход."
-pubDate: "2025-07-18T14:34:22.713Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.pexels.com/photos/2724749/pexels-photo-2724749.jpeg"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Создание продающего объявления для посуточной аренды в Петербурге","description":"Пошаговое руководство по созданию эффективного объявления для сдачи квартиры в Санкт-Петербурге. Узнайте, как написать цепляющий заголовок, сделать качественные фото и составить описание, которое привлечет максимум гостей и увеличит ваш доход.","image":{"@type":"ImageObject","url":"https://images.pexels.com/photos/2724749/pexels-photo-2724749.jpeg"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.8","reviewCount":424,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/sozdanie-prodayuschego-obyavleniya-dlya-posutochnoy-arendy-v-peterburge/"}}
+title: Создание продающего объявления для посуточной аренды в Петербурге
+description: >-
+  Пошаговое руководство по созданию эффективного объявления для сдачи квартиры в
+  Санкт-Петербурге. Узнайте, как написать цепляющий заголовок, сделать
+  качественные фото и составить описание, которое привлечет максимум гостей и
+  увеличит ваш доход.
+pubDate: '2025-07-18T14:34:22.713Z'
+author: Эксперт ButlerSPB
+heroImage: 'https://images.pexels.com/photos/2724749/pexels-photo-2724749.jpeg'
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: Создание продающего объявления для посуточной аренды в Петербурге
+  description: >-
+    Пошаговое руководство по созданию эффективного объявления для сдачи квартиры
+    в Санкт-Петербурге. Узнайте, как написать цепляющий заголовок, сделать
+    качественные фото и составить описание, которое привлечет максимум гостей и
+    увеличит ваш доход.
+  image:
+    '@type': ImageObject
+    url: 'https://images.pexels.com/photos/2724749/pexels-photo-2724749.jpeg'
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.8'
+    reviewCount: 569
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/sozdanie-prodayuschego-obyavleniya-dlya-posutochnoy-arendy-v-peterburge/
 ---
 
 # Как создать продающее объявление для посуточной аренды в Петербурге: полное руководство для рантье

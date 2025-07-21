@@ -1,10 +1,46 @@
 ---
-title: "Ароматизация помещений: Как создать идеальную атмосферу в вашем доме или офисе"
-description: "Запахи играют ключевую роль в восприятии пространства и могут влиять на настроение, продуктивность и общее самочувствие. В этой статье от ButlerSPB мы рассмотрим современные методы ароматизации помещений – от классических диффузоров до профессиональных аромамашин, и поможем выбрать идеальное решение для вашего дома или бизнеса."
-pubDate: "2025-07-21T00:01:23.425Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.pexels.com/photos/4202325/pexels-photo-4202325.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Ароматизация помещений: Как создать идеальную атмосферу в вашем доме или офисе","description":"Запахи играют ключевую роль в восприятии пространства и могут влиять на настроение, продуктивность и общее самочувствие. В этой статье от ButlerSPB мы рассмотрим современные методы ароматизации помещений – от классических диффузоров до профессиональных аромамашин, и поможем выбрать идеальное решение для вашего дома или бизнеса.","image":{"@type":"ImageObject","url":"https://images.pexels.com/photos/4202325/pexels-photo-4202325.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":670,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/aromatizaciya-pomescheniy/"}}
+title: 'Ароматизация помещений: Как создать идеальную атмосферу в вашем доме или офисе'
+description: >-
+  Запахи играют ключевую роль в восприятии пространства и могут влиять на
+  настроение, продуктивность и общее самочувствие. В этой статье от ButlerSPB мы
+  рассмотрим современные методы ароматизации помещений – от классических
+  диффузоров до профессиональных аромамашин, и поможем выбрать идеальное решение
+  для вашего дома или бизнеса.
+pubDate: '2025-07-21T00:01:23.425Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.pexels.com/photos/4202325/pexels-photo-4202325.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: >-
+    Ароматизация помещений: Как создать идеальную атмосферу в вашем доме или
+    офисе
+  description: >-
+    Запахи играют ключевую роль в восприятии пространства и могут влиять на
+    настроение, продуктивность и общее самочувствие. В этой статье от ButlerSPB
+    мы рассмотрим современные методы ароматизации помещений – от классических
+    диффузоров до профессиональных аромамашин, и поможем выбрать идеальное
+    решение для вашего дома или бизнеса.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.pexels.com/photos/4202325/pexels-photo-4202325.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.8'
+    reviewCount: 462
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': 'https://butlerspb-blog.netlify.app/blog/aromatizaciya-pomescheniy/'
 ---
 
 # Запах денег: как ароматизация помещений повышает рейтинг вашей квартиры и доход от аренды

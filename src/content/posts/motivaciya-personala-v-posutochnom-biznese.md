@@ -1,10 +1,43 @@
 ---
-title: "Мотивация персонала в посуточном бизнесе: как вдохновить команду на результат"
-description: "Эффективная система мотивации — ключ к успеху в сфере посуточной аренды. В статье разбираем материальные и нематериальные способы поощрения горничных, администраторов и управляющих, которые напрямую влияют на качество сервиса, отзывы гостей и прибыльность бизнеса."
-pubDate: "2025-07-20T00:23:53.226Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.pexels.com/photos/3184418/pexels-photo-3184418.jpeg"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Мотивация персонала в посуточном бизнесе: как вдохновить команду на результат","description":"Эффективная система мотивации — ключ к успеху в сфере посуточной аренды. В статье разбираем материальные и нематериальные способы поощрения горничных, администраторов и управляющих, которые напрямую влияют на качество сервиса, отзывы гостей и прибыльность бизнеса.","image":{"@type":"ImageObject","url":"https://images.pexels.com/photos/3184418/pexels-photo-3184418.jpeg"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.8","reviewCount":842,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/motivaciya-personala-v-posutochnom-biznese/"}}
+title: 'Мотивация персонала в посуточном бизнесе: как вдохновить команду на результат'
+description: >-
+  Эффективная система мотивации — ключ к успеху в сфере посуточной аренды. В
+  статье разбираем материальные и нематериальные способы поощрения горничных,
+  администраторов и управляющих, которые напрямую влияют на качество сервиса,
+  отзывы гостей и прибыльность бизнеса.
+pubDate: '2025-07-20T00:23:53.226Z'
+author: Эксперт ButlerSPB
+heroImage: 'https://images.pexels.com/photos/3184418/pexels-photo-3184418.jpeg'
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: >-
+    Мотивация персонала в посуточном бизнесе: как вдохновить команду на
+    результат
+  description: >-
+    Эффективная система мотивации — ключ к успеху в сфере посуточной аренды. В
+    статье разбираем материальные и нематериальные способы поощрения горничных,
+    администраторов и управляющих, которые напрямую влияют на качество сервиса,
+    отзывы гостей и прибыльность бизнеса.
+  image:
+    '@type': ImageObject
+    url: 'https://images.pexels.com/photos/3184418/pexels-photo-3184418.jpeg'
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.8'
+    reviewCount: 869
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/motivaciya-personala-v-posutochnom-biznese/
 ---
 
 # Мотивация персонала в посуточном бизнесе: от текучки кадров к 5-звездочным отзывам

@@ -1,10 +1,49 @@
 ---
-title: "Уборка апартаментов после гостей на Петроградской стороне: чек-лист для идеального сервиса"
-description: "Петроградская сторона — престижный район, где гости ожидают безупречного сервиса. Правильная и тщательная уборка апартаментов после каждого гостя является ключом к положительным отзывам и успеху вашего арендного бизнеса. Узнайте, как обеспечить идеальную чистоту и подготовить жилье к приезду новых постояльцев."
-pubDate: "2025-07-19T09:48:10.233Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.pexels.com/photos/4098274/pexels-photo-4098274.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Уборка апартаментов после гостей на Петроградской стороне: чек-лист для идеального сервиса","description":"Петроградская сторона — престижный район, где гости ожидают безупречного сервиса. Правильная и тщательная уборка апартаментов после каждого гостя является ключом к положительным отзывам и успеху вашего арендного бизнеса. Узнайте, как обеспечить идеальную чистоту и подготовить жилье к приезду новых постояльцев.","image":{"@type":"ImageObject","url":"https://images.pexels.com/photos/4098274/pexels-photo-4098274.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.8","reviewCount":640,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/uborka-apartamentov-posle-gostey-na-petrogradskoy-storone/"}}
+title: >-
+  Уборка апартаментов после гостей на Петроградской стороне: чек-лист для
+  идеального сервиса
+description: >-
+  Петроградская сторона — престижный район, где гости ожидают безупречного
+  сервиса. Правильная и тщательная уборка апартаментов после каждого гостя
+  является ключом к положительным отзывам и успеху вашего арендного бизнеса.
+  Узнайте, как обеспечить идеальную чистоту и подготовить жилье к приезду новых
+  постояльцев.
+pubDate: '2025-07-19T09:48:10.233Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.pexels.com/photos/4098274/pexels-photo-4098274.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: >-
+    Уборка апартаментов после гостей на Петроградской стороне: чек-лист для
+    идеального сервиса
+  description: >-
+    Петроградская сторона — престижный район, где гости ожидают безупречного
+    сервиса. Правильная и тщательная уборка апартаментов после каждого гостя
+    является ключом к положительным отзывам и успеху вашего арендного бизнеса.
+    Узнайте, как обеспечить идеальную чистоту и подготовить жилье к приезду
+    новых постояльцев.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.pexels.com/photos/4098274/pexels-photo-4098274.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '5.0'
+    reviewCount: 753
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/uborka-apartamentov-posle-gostey-na-petrogradskoy-storone/
 ---
 
 # Профессиональная уборка апартаментов на Петроградской стороне: Гарантия идеальной чистоты и высоких оценок

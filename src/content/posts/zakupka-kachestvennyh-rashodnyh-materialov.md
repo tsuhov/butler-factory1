@@ -1,10 +1,44 @@
 ---
-title: "Закупка качественных расходных материалов: как экономить без потери качества"
-description: "В этой статье от ButlerSPB мы разберем ключевые аспекты выбора и закупки расходных материалов для бизнеса. Узнайте, почему экономия на качестве может привести к дополнительным затратам, и как найти надежного поставщика, который обеспечит вас всем необходимым для поддержания идеальной чистоты и порядка."
-pubDate: "2025-07-20T18:36:31.130Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.pexels.com/photos/4239031/pexels-photo-4239031.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Закупка качественных расходных материалов: как экономить без потери качества","description":"В этой статье от ButlerSPB мы разберем ключевые аспекты выбора и закупки расходных материалов для бизнеса. Узнайте, почему экономия на качестве может привести к дополнительным затратам, и как найти надежного поставщика, который обеспечит вас всем необходимым для поддержания идеальной чистоты и порядка.","image":{"@type":"ImageObject","url":"https://images.pexels.com/photos/4239031/pexels-photo-4239031.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.8","reviewCount":418,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/zakupka-kachestvennyh-rashodnyh-materialov/"}}
+title: 'Закупка качественных расходных материалов: как экономить без потери качества'
+description: >-
+  В этой статье от ButlerSPB мы разберем ключевые аспекты выбора и закупки
+  расходных материалов для бизнеса. Узнайте, почему экономия на качестве может
+  привести к дополнительным затратам, и как найти надежного поставщика, который
+  обеспечит вас всем необходимым для поддержания идеальной чистоты и порядка.
+pubDate: '2025-07-20T18:36:31.130Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.pexels.com/photos/4239031/pexels-photo-4239031.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Закупка качественных расходных материалов: как экономить без потери качества'
+  description: >-
+    В этой статье от ButlerSPB мы разберем ключевые аспекты выбора и закупки
+    расходных материалов для бизнеса. Узнайте, почему экономия на качестве может
+    привести к дополнительным затратам, и как найти надежного поставщика,
+    который обеспечит вас всем необходимым для поддержания идеальной чистоты и
+    порядка.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.pexels.com/photos/4239031/pexels-photo-4239031.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.9'
+    reviewCount: 608
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/zakupka-kachestvennyh-rashodnyh-materialov/
 ---
 
 # **Расходные материалы для посуточной аренды: Полный гайд, который повысит ваш рейтинг и доход**

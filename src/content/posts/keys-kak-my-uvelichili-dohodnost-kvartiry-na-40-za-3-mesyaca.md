@@ -1,10 +1,41 @@
 ---
-title: "Кейс: как мы увеличили доходность квартиры на 40% за 3 месяца"
-description: "Подробный разбор реального кейса по увеличению прибыли от сдачи квартиры в аренду. Рассказываем о шагах, которые помогли поднять доходность на 40% всего за один квартал: от хоумстейджинга и правильной фотосъемки до оптимизации ценообразования и работы с отзывами."
-pubDate: "2025-07-20T11:45:34.411Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.pexels.com/photos/1571460/pexels-photo-1571460.jpeg"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Кейс: как мы увеличили доходность квартиры на 40% за 3 месяца","description":"Подробный разбор реального кейса по увеличению прибыли от сдачи квартиры в аренду. Рассказываем о шагах, которые помогли поднять доходность на 40% всего за один квартал: от хоумстейджинга и правильной фотосъемки до оптимизации ценообразования и работы с отзывами.","image":{"@type":"ImageObject","url":"https://images.pexels.com/photos/1571460/pexels-photo-1571460.jpeg"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.8","reviewCount":414,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/keys-kak-my-uvelichili-dohodnost-kvartiry-na-40-za-3-mesyaca/"}}
+title: 'Кейс: как мы увеличили доходность квартиры на 40% за 3 месяца'
+description: >-
+  Подробный разбор реального кейса по увеличению прибыли от сдачи квартиры в
+  аренду. Рассказываем о шагах, которые помогли поднять доходность на 40% всего
+  за один квартал: от хоумстейджинга и правильной фотосъемки до оптимизации
+  ценообразования и работы с отзывами.
+pubDate: '2025-07-20T11:45:34.411Z'
+author: Эксперт ButlerSPB
+heroImage: 'https://images.pexels.com/photos/1571460/pexels-photo-1571460.jpeg'
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Кейс: как мы увеличили доходность квартиры на 40% за 3 месяца'
+  description: >-
+    Подробный разбор реального кейса по увеличению прибыли от сдачи квартиры в
+    аренду. Рассказываем о шагах, которые помогли поднять доходность на 40%
+    всего за один квартал: от хоумстейджинга и правильной фотосъемки до
+    оптимизации ценообразования и работы с отзывами.
+  image:
+    '@type': ImageObject
+    url: 'https://images.pexels.com/photos/1571460/pexels-photo-1571460.jpeg'
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.7'
+    reviewCount: 454
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/keys-kak-my-uvelichili-dohodnost-kvartiry-na-40-za-3-mesyaca/
 ---
 
 # Кейс: как мы увеличили доходность квартиры на 40% за 3 месяца

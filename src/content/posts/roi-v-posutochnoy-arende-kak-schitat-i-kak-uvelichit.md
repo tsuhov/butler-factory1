@@ -1,10 +1,39 @@
 ---
-title: "ROI в посуточной аренде: как считать и как увеличить"
-description: "Полное руководство по расчету рентабельности инвестиций (ROI) для объектов посуточной аренды. Узнайте, какие метрики важны, как использовать формулы на практике и какие стратегии помогут максимизировать вашу прибыль."
-pubDate: "2025-07-20T10:49:25.971Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.pexels.com/photos/1571460/pexels-photo-1571460.jpeg"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"ROI в посуточной аренде: как считать и как увеличить","description":"Полное руководство по расчету рентабельности инвестиций (ROI) для объектов посуточной аренды. Узнайте, какие метрики важны, как использовать формулы на практике и какие стратегии помогут максимизировать вашу прибыль.","image":{"@type":"ImageObject","url":"https://images.pexels.com/photos/1571460/pexels-photo-1571460.jpeg"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.8","reviewCount":516,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/roi-v-posutochnoy-arende-kak-schitat-i-kak-uvelichit/"}}
+title: 'ROI в посуточной аренде: как считать и как увеличить'
+description: >-
+  Полное руководство по расчету рентабельности инвестиций (ROI) для объектов
+  посуточной аренды. Узнайте, какие метрики важны, как использовать формулы на
+  практике и какие стратегии помогут максимизировать вашу прибыль.
+pubDate: '2025-07-20T10:49:25.971Z'
+author: Эксперт ButlerSPB
+heroImage: 'https://images.pexels.com/photos/1571460/pexels-photo-1571460.jpeg'
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'ROI в посуточной аренде: как считать и как увеличить'
+  description: >-
+    Полное руководство по расчету рентабельности инвестиций (ROI) для объектов
+    посуточной аренды. Узнайте, какие метрики важны, как использовать формулы на
+    практике и какие стратегии помогут максимизировать вашу прибыль.
+  image:
+    '@type': ImageObject
+    url: 'https://images.pexels.com/photos/1571460/pexels-photo-1571460.jpeg'
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.8'
+    reviewCount: 882
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/roi-v-posutochnoy-arende-kak-schitat-i-kak-uvelichit/
 ---
 
 # ROI в посуточной аренде: Полное руководство по расчету и увеличению доходности

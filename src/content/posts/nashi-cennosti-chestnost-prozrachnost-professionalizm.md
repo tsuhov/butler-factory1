@@ -1,10 +1,43 @@
 ---
-title: "Три кита ButlerSPB: честность, прозрачность и профессионализм"
-description: "В основе успешной компании всегда лежат сильные принципы. Для команды ButlerSPB — это не просто слова, а ежедневное руководство к действию. Честность в общении с клиентами, прозрачность всех наших процессов и бескомпромиссный профессионализм в каждой задаче — вот фундамент, на котором мы строим доверительные и долгосрочные отношения."
-pubDate: "2025-07-20T22:21:46.183Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.pexels.com/photos/3184418/pexels-photo-3184418.jpeg"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Три кита ButlerSPB: честность, прозрачность и профессионализм","description":"В основе успешной компании всегда лежат сильные принципы. Для команды ButlerSPB — это не просто слова, а ежедневное руководство к действию. Честность в общении с клиентами, прозрачность всех наших процессов и бескомпромиссный профессионализм в каждой задаче — вот фундамент, на котором мы строим доверительные и долгосрочные отношения.","image":{"@type":"ImageObject","url":"https://images.pexels.com/photos/3184418/pexels-photo-3184418.jpeg"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":883,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/nashi-cennosti-chestnost-prozrachnost-professionalizm/"}}
+title: 'Три кита ButlerSPB: честность, прозрачность и профессионализм'
+description: >-
+  В основе успешной компании всегда лежат сильные принципы. Для команды
+  ButlerSPB — это не просто слова, а ежедневное руководство к действию.
+  Честность в общении с клиентами, прозрачность всех наших процессов и
+  бескомпромиссный профессионализм в каждой задаче — вот фундамент, на котором
+  мы строим доверительные и долгосрочные отношения.
+pubDate: '2025-07-20T22:21:46.183Z'
+author: Эксперт ButlerSPB
+heroImage: 'https://images.pexels.com/photos/3184418/pexels-photo-3184418.jpeg'
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Три кита ButlerSPB: честность, прозрачность и профессионализм'
+  description: >-
+    В основе успешной компании всегда лежат сильные принципы. Для команды
+    ButlerSPB — это не просто слова, а ежедневное руководство к действию.
+    Честность в общении с клиентами, прозрачность всех наших процессов и
+    бескомпромиссный профессионализм в каждой задаче — вот фундамент, на котором
+    мы строим доверительные и долгосрочные отношения.
+  image:
+    '@type': ImageObject
+    url: 'https://images.pexels.com/photos/3184418/pexels-photo-3184418.jpeg'
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.9'
+    reviewCount: 800
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/nashi-cennosti-chestnost-prozrachnost-professionalizm/
 ---
 
 # Наши ценности — ваш успех: Как честность, прозрачность и профессионализм ButlerSPB увеличивают доходность вашей квартиры

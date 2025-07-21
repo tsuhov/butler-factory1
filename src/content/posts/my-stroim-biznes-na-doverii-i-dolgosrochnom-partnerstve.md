@@ -1,10 +1,41 @@
 ---
-title: "Мы строим бизнес на доверии и долгосрочном партнерстве"
-description: "Для команды ButlerSPB доверие клиентов и построение прочных, долгосрочных отношений — это не просто слова, а основа нашей философии. Узнайте, как наши принципы помогают нам совместно с партнерами достигать новых высот."
-pubDate: "2025-07-21T00:33:42.615Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.pexels.com/photos/3184418/pexels-photo-3184418.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Мы строим бизнес на доверии и долгосрочном партнерстве","description":"Для команды ButlerSPB доверие клиентов и построение прочных, долгосрочных отношений — это не просто слова, а основа нашей философии. Узнайте, как наши принципы помогают нам совместно с партнерами достигать новых высот.","image":{"@type":"ImageObject","url":"https://images.pexels.com/photos/3184418/pexels-photo-3184418.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.8","reviewCount":388,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/my-stroim-biznes-na-doverii-i-dolgosrochnom-partnerstve/"}}
+title: Мы строим бизнес на доверии и долгосрочном партнерстве
+description: >-
+  Для команды ButlerSPB доверие клиентов и построение прочных, долгосрочных
+  отношений — это не просто слова, а основа нашей философии. Узнайте, как наши
+  принципы помогают нам совместно с партнерами достигать новых высот.
+pubDate: '2025-07-21T00:33:42.615Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.pexels.com/photos/3184418/pexels-photo-3184418.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: Мы строим бизнес на доверии и долгосрочном партнерстве
+  description: >-
+    Для команды ButlerSPB доверие клиентов и построение прочных, долгосрочных
+    отношений — это не просто слова, а основа нашей философии. Узнайте, как наши
+    принципы помогают нам совместно с партнерами достигать новых высот.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.pexels.com/photos/3184418/pexels-photo-3184418.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '5.0'
+    reviewCount: 801
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/my-stroim-biznes-na-doverii-i-dolgosrochnom-partnerstve/
 ---
 
 # Мы не просто управляем вашей квартирой. Мы строим бизнес на доверии и долгосрочном партнерстве.

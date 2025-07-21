@@ -1,10 +1,42 @@
 ---
-title: "Постобработка фотографий: как превратить хороший снимок в великолепный"
-description: "Откройте для себя мир постобработки и научитесь придавать вашим фотографиям профессиональный вид. В новой статье блога ButlerSPB мы разбираем ключевые этапы, инструменты и секреты, которые помогут раскрыть полный потенциал ваших кадров."
-pubDate: "2025-07-20T18:17:42.941Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.pexels.com/photos/3747488/pexels-photo-3747488.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Постобработка фотографий: как превратить хороший снимок в великолепный","description":"Откройте для себя мир постобработки и научитесь придавать вашим фотографиям профессиональный вид. В новой статье блога ButlerSPB мы разбираем ключевые этапы, инструменты и секреты, которые помогут раскрыть полный потенциал ваших кадров.","image":{"@type":"ImageObject","url":"https://images.pexels.com/photos/3747488/pexels-photo-3747488.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":547,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/postobrabotka-fotografiy/"}}
+title: 'Постобработка фотографий: как превратить хороший снимок в великолепный'
+description: >-
+  Откройте для себя мир постобработки и научитесь придавать вашим фотографиям
+  профессиональный вид. В новой статье блога ButlerSPB мы разбираем ключевые
+  этапы, инструменты и секреты, которые помогут раскрыть полный потенциал ваших
+  кадров.
+pubDate: '2025-07-20T18:17:42.941Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.pexels.com/photos/3747488/pexels-photo-3747488.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Постобработка фотографий: как превратить хороший снимок в великолепный'
+  description: >-
+    Откройте для себя мир постобработки и научитесь придавать вашим фотографиям
+    профессиональный вид. В новой статье блога ButlerSPB мы разбираем ключевые
+    этапы, инструменты и секреты, которые помогут раскрыть полный потенциал
+    ваших кадров.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.pexels.com/photos/3747488/pexels-photo-3747488.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '5.0'
+    reviewCount: 361
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': 'https://butlerspb-blog.netlify.app/blog/postobrabotka-fotografiy/'
 ---
 
 # **Магия постобработки: Превращаем фото вашей квартиры в магнит для гостей и денег**

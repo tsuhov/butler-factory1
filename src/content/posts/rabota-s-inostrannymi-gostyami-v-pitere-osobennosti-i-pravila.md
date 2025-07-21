@@ -1,10 +1,39 @@
 ---
-title: "Работа с иностранными гостями в Питере: особенности и правила"
-description: "Ключевые аспекты гостеприимства в Санкт-Петербурге для иностранных туристов. В статье рассматриваются юридические тонкости, культурные различия и практические советы по созданию незабываемого опыта для гостей из-за рубежа."
-pubDate: "2025-07-18T18:28:52.221Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.pexels.com/photos/1569076/pexels-photo-1569076.jpeg"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Работа с иностранными гостями в Питере: особенности и правила","description":"Ключевые аспекты гостеприимства в Санкт-Петербурге для иностранных туристов. В статье рассматриваются юридические тонкости, культурные различия и практические советы по созданию незабываемого опыта для гостей из-за рубежа.","image":{"@type":"ImageObject","url":"https://images.pexels.com/photos/1569076/pexels-photo-1569076.jpeg"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.8","reviewCount":348,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/rabota-s-inostrannymi-gostyami-v-pitere-osobennosti-i-pravila/"}}
+title: 'Работа с иностранными гостями в Питере: особенности и правила'
+description: >-
+  Ключевые аспекты гостеприимства в Санкт-Петербурге для иностранных туристов. В
+  статье рассматриваются юридические тонкости, культурные различия и
+  практические советы по созданию незабываемого опыта для гостей из-за рубежа.
+pubDate: '2025-07-18T18:28:52.221Z'
+author: Эксперт ButlerSPB
+heroImage: 'https://images.pexels.com/photos/1569076/pexels-photo-1569076.jpeg'
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Работа с иностранными гостями в Питере: особенности и правила'
+  description: >-
+    Ключевые аспекты гостеприимства в Санкт-Петербурге для иностранных туристов.
+    В статье рассматриваются юридические тонкости, культурные различия и
+    практические советы по созданию незабываемого опыта для гостей из-за рубежа.
+  image:
+    '@type': ImageObject
+    url: 'https://images.pexels.com/photos/1569076/pexels-photo-1569076.jpeg'
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.9'
+    reviewCount: 348
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/rabota-s-inostrannymi-gostyami-v-pitere-osobennosti-i-pravila/
 ---
 
 # Работа с иностранными гостями в Санкт-Петербурге: полное руководство для хостов в 2024 году

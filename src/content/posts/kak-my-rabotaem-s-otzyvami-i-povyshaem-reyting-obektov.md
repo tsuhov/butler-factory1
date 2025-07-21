@@ -1,10 +1,39 @@
 ---
-title: "Как мы работаем с отзывами и повышаем рейтинг объектов"
-description: "Узнайте о нашей комплексной стратегии по работе с обратной связью. От сбора и анализа отзывов до внедрения улучшений, которые напрямую влияют на повышение рейтинга и удовлетворенность гостей."
-pubDate: "2025-07-20T12:13:54.063Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.pexels.com/photos/5668858/pexels-photo-5668858.jpeg"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Как мы работаем с отзывами и повышаем рейтинг объектов","description":"Узнайте о нашей комплексной стратегии по работе с обратной связью. От сбора и анализа отзывов до внедрения улучшений, которые напрямую влияют на повышение рейтинга и удовлетворенность гостей.","image":{"@type":"ImageObject","url":"https://images.pexels.com/photos/5668858/pexels-photo-5668858.jpeg"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.8","reviewCount":649,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/kak-my-rabotaem-s-otzyvami-i-povyshaem-reyting-obektov/"}}
+title: Как мы работаем с отзывами и повышаем рейтинг объектов
+description: >-
+  Узнайте о нашей комплексной стратегии по работе с обратной связью. От сбора и
+  анализа отзывов до внедрения улучшений, которые напрямую влияют на повышение
+  рейтинга и удовлетворенность гостей.
+pubDate: '2025-07-20T12:13:54.063Z'
+author: Эксперт ButlerSPB
+heroImage: 'https://images.pexels.com/photos/5668858/pexels-photo-5668858.jpeg'
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: Как мы работаем с отзывами и повышаем рейтинг объектов
+  description: >-
+    Узнайте о нашей комплексной стратегии по работе с обратной связью. От сбора
+    и анализа отзывов до внедрения улучшений, которые напрямую влияют на
+    повышение рейтинга и удовлетворенность гостей.
+  image:
+    '@type': ImageObject
+    url: 'https://images.pexels.com/photos/5668858/pexels-photo-5668858.jpeg'
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.8'
+    reviewCount: 713
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/kak-my-rabotaem-s-otzyvami-i-povyshaem-reyting-obektov/
 ---
 
 # **Как мы работаем с отзывами и повышаем рейтинг компании на картах: полная методология**

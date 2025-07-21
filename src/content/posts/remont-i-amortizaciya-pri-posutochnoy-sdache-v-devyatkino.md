@@ -1,10 +1,45 @@
 ---
-title: "Ремонт и амортизация при посуточной сдаче в Девяткино: как сохранить квартиру и прибыль"
-description: "Посуточная аренда в Девяткино – выгодный бизнес, но высокий износ жилья может съесть всю прибыль. Рассказываем, как правильно рассчитать амортизацию, планировать ремонт и минимизировать затраты, чтобы ваша квартира оставалась привлекательной для гостей и рентабельной для вас."
-pubDate: "2025-07-19T10:50:33.184Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.pexels.com/photos/4050315/pexels-photo-4050315.jpeg"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Ремонт и амортизация при посуточной сдаче в Девяткино: как сохранить квартиру и прибыль","description":"Посуточная аренда в Девяткино – выгодный бизнес, но высокий износ жилья может съесть всю прибыль. Рассказываем, как правильно рассчитать амортизацию, планировать ремонт и минимизировать затраты, чтобы ваша квартира оставалась привлекательной для гостей и рентабельной для вас.","image":{"@type":"ImageObject","url":"https://images.pexels.com/photos/4050315/pexels-photo-4050315.jpeg"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":388,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/remont-i-amortizaciya-pri-posutochnoy-sdache-v-devyatkino/"}}
+title: >-
+  Ремонт и амортизация при посуточной сдаче в Девяткино: как сохранить квартиру
+  и прибыль
+description: >-
+  Посуточная аренда в Девяткино – выгодный бизнес, но высокий износ жилья может
+  съесть всю прибыль. Рассказываем, как правильно рассчитать амортизацию,
+  планировать ремонт и минимизировать затраты, чтобы ваша квартира оставалась
+  привлекательной для гостей и рентабельной для вас.
+pubDate: '2025-07-19T10:50:33.184Z'
+author: Эксперт ButlerSPB
+heroImage: 'https://images.pexels.com/photos/4050315/pexels-photo-4050315.jpeg'
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: >-
+    Ремонт и амортизация при посуточной сдаче в Девяткино: как сохранить
+    квартиру и прибыль
+  description: >-
+    Посуточная аренда в Девяткино – выгодный бизнес, но высокий износ жилья
+    может съесть всю прибыль. Рассказываем, как правильно рассчитать
+    амортизацию, планировать ремонт и минимизировать затраты, чтобы ваша
+    квартира оставалась привлекательной для гостей и рентабельной для вас.
+  image:
+    '@type': ImageObject
+    url: 'https://images.pexels.com/photos/4050315/pexels-photo-4050315.jpeg'
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.9'
+    reviewCount: 829
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/remont-i-amortizaciya-pri-posutochnoy-sdache-v-devyatkino/
 ---
 
 # Ремонт и амортизация при посуточной сдаче в Девяткино: Как превратить износ в доход

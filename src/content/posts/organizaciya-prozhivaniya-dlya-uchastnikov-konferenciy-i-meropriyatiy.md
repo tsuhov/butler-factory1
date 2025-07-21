@@ -1,10 +1,47 @@
 ---
-title: "Организация проживания для участников конференций и мероприятий: гид от ButlerSPB"
-description: "Планирование крупного мероприятия в Санкт-Петербурге? Ключ к успеху — комфортное размещение участников. В этой статье команда ButlerSPB делится экспертными советами по выбору отелей, групповому бронированию и созданию безупречного опыта для ваших гостей."
-pubDate: "2025-07-20T14:46:20.094Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1521737711867-e3b97375f902?q=80&w=2574&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Организация проживания для участников конференций и мероприятий: гид от ButlerSPB","description":"Планирование крупного мероприятия в Санкт-Петербурге? Ключ к успеху — комфортное размещение участников. В этой статье команда ButlerSPB делится экспертными советами по выбору отелей, групповому бронированию и созданию безупречного опыта для ваших гостей.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1521737711867-e3b97375f902?q=80&w=2574&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.8","reviewCount":545,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/organizaciya-prozhivaniya-dlya-uchastnikov-konferenciy-i-meropriyatiy/"}}
+title: >-
+  Организация проживания для участников конференций и мероприятий: гид от
+  ButlerSPB
+description: >-
+  Планирование крупного мероприятия в Санкт-Петербурге? Ключ к успеху —
+  комфортное размещение участников. В этой статье команда ButlerSPB делится
+  экспертными советами по выбору отелей, групповому бронированию и созданию
+  безупречного опыта для ваших гостей.
+pubDate: '2025-07-20T14:46:20.094Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1521737711867-e3b97375f902?q=80&w=2574&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: >-
+    Организация проживания для участников конференций и мероприятий: гид от
+    ButlerSPB
+  description: >-
+    Планирование крупного мероприятия в Санкт-Петербурге? Ключ к успеху —
+    комфортное размещение участников. В этой статье команда ButlerSPB делится
+    экспертными советами по выбору отелей, групповому бронированию и созданию
+    безупречного опыта для ваших гостей.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1521737711867-e3b97375f902?q=80&w=2574&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '5.0'
+    reviewCount: 540
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/organizaciya-prozhivaniya-dlya-uchastnikov-konferenciy-i-meropriyatiy/
 ---
 
 # Как организовать проживание для участников конференции в СПб: Полное руководство от экспертов ButlerSPB

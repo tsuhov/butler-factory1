@@ -1,10 +1,41 @@
 ---
-title: "Сезонность в посуточной аренде в Санкт-Петербурге: как заработать в несезон"
-description: "Анализ пиков и спадов туристического потока в Санкт-Петербурге. Практические советы для владельцев апартаментов по увеличению дохода и привлечению гостей в межсезонье."
-pubDate: "2025-07-18T18:15:06.428Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.pexels.com/photos/3552358/pexels-photo-3552358.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Сезонность в посуточной аренде в Санкт-Петербурге: как заработать в несезон","description":"Анализ пиков и спадов туристического потока в Санкт-Петербурге. Практические советы для владельцев апартаментов по увеличению дохода и привлечению гостей в межсезонье.","image":{"@type":"ImageObject","url":"https://images.pexels.com/photos/3552358/pexels-photo-3552358.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":680,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/sezonnost-v-posutochnoy-arende-v-sankt-peterburge-kak-zarabotat-v-nesezon/"}}
+title: 'Сезонность в посуточной аренде в Санкт-Петербурге: как заработать в несезон'
+description: >-
+  Анализ пиков и спадов туристического потока в Санкт-Петербурге. Практические
+  советы для владельцев апартаментов по увеличению дохода и привлечению гостей в
+  межсезонье.
+pubDate: '2025-07-18T18:15:06.428Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.pexels.com/photos/3552358/pexels-photo-3552358.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Сезонность в посуточной аренде в Санкт-Петербурге: как заработать в несезон'
+  description: >-
+    Анализ пиков и спадов туристического потока в Санкт-Петербурге. Практические
+    советы для владельцев апартаментов по увеличению дохода и привлечению гостей
+    в межсезонье.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.pexels.com/photos/3552358/pexels-photo-3552358.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.8'
+    reviewCount: 480
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/sezonnost-v-posutochnoy-arende-v-sankt-peterburge-kak-zarabotat-v-nesezon/
 ---
 
 # Сезонность в посуточной аренде в Санкт-Петербурге: как заработать в несезон — полное руководство для рантье

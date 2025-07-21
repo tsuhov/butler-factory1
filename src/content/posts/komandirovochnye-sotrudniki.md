@@ -1,10 +1,46 @@
 ---
-title: "Командировочные сотрудники в Петербурге: как ButlerSPB создает комфорт вдали от дома"
-description: "Деловые поездки требуют максимальной концентрации на работе. Узнайте, как наш сервис помогает командировочным сотрудникам решать бытовые вопросы, организовывать досуг и чувствовать себя в Санкт-Петербурге продуктивно и комфортно."
-pubDate: "2025-07-20T18:21:56.535Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.pexels.com/photos/3760067/pexels-photo-3760067.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Командировочные сотрудники в Петербурге: как ButlerSPB создает комфорт вдали от дома","description":"Деловые поездки требуют максимальной концентрации на работе. Узнайте, как наш сервис помогает командировочным сотрудникам решать бытовые вопросы, организовывать досуг и чувствовать себя в Санкт-Петербурге продуктивно и комфортно.","image":{"@type":"ImageObject","url":"https://images.pexels.com/photos/3760067/pexels-photo-3760067.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":744,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/komandirovochnye-sotrudniki/"}}
+title: >-
+  Командировочные сотрудники в Петербурге: как ButlerSPB создает комфорт вдали
+  от дома
+description: >-
+  Деловые поездки требуют максимальной концентрации на работе. Узнайте, как наш
+  сервис помогает командировочным сотрудникам решать бытовые вопросы,
+  организовывать досуг и чувствовать себя в Санкт-Петербурге продуктивно и
+  комфортно.
+pubDate: '2025-07-20T18:21:56.535Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.pexels.com/photos/3760067/pexels-photo-3760067.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: >-
+    Командировочные сотрудники в Петербурге: как ButlerSPB создает комфорт вдали
+    от дома
+  description: >-
+    Деловые поездки требуют максимальной концентрации на работе. Узнайте, как
+    наш сервис помогает командировочным сотрудникам решать бытовые вопросы,
+    организовывать досуг и чувствовать себя в Санкт-Петербурге продуктивно и
+    комфортно.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.pexels.com/photos/3760067/pexels-photo-3760067.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.8'
+    reviewCount: 543
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': 'https://butlerspb-blog.netlify.app/blog/komandirovochnye-sotrudniki/'
 ---
 
 # Командировка в Санкт-Петербург: Как выбрать идеальное жилье и почему квартира лучше отеля

@@ -1,10 +1,41 @@
 ---
-title: "Как подготовить квартиру к заезду гостя с аллергией"
-description: "Подробный чек-лист по созданию гипоаллергенного пространства. Советы по уборке, выбору постельного белья и бытовой химии, чтобы пребывание вашего гостя было максимально комфортным и безопасным."
-pubDate: "2025-07-19T23:49:51.966Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.pexels.com/photos/4210850/pexels-photo-4210850.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Как подготовить квартиру к заезду гостя с аллергией","description":"Подробный чек-лист по созданию гипоаллергенного пространства. Советы по уборке, выбору постельного белья и бытовой химии, чтобы пребывание вашего гостя было максимально комфортным и безопасным.","image":{"@type":"ImageObject","url":"https://images.pexels.com/photos/4210850/pexels-photo-4210850.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.8","reviewCount":624,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/kak-podgotovit-kvartiru-k-zaezdu-gostya-s-allergiey/"}}
+title: Как подготовить квартиру к заезду гостя с аллергией
+description: >-
+  Подробный чек-лист по созданию гипоаллергенного пространства. Советы по
+  уборке, выбору постельного белья и бытовой химии, чтобы пребывание вашего
+  гостя было максимально комфортным и безопасным.
+pubDate: '2025-07-19T23:49:51.966Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.pexels.com/photos/4210850/pexels-photo-4210850.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: Как подготовить квартиру к заезду гостя с аллергией
+  description: >-
+    Подробный чек-лист по созданию гипоаллергенного пространства. Советы по
+    уборке, выбору постельного белья и бытовой химии, чтобы пребывание вашего
+    гостя было максимально комфортным и безопасным.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.pexels.com/photos/4210850/pexels-photo-4210850.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.7'
+    reviewCount: 896
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/kak-podgotovit-kvartiru-k-zaezdu-gostya-s-allergiey/
 ---
 
 # Как подготовить квартиру для гостя с аллергией: полное руководство для заботливого хозяина

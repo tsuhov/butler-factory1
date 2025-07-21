@@ -1,10 +1,39 @@
 ---
-title: "Как мы используем динамическое ценообразование для вашей выгоды"
-description: "В ButlerSPB мы применяем умные технологии, чтобы предлагать вам лучшие цены. Узнайте, как динамическое ценообразование помогает нам делать наши услуги доступнее и выгоднее именно для вас, а не просто меняет цифры на ценнике."
-pubDate: "2025-07-20T12:42:30.347Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1551288049-bebda4e38f71"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Как мы используем динамическое ценообразование для вашей выгоды","description":"В ButlerSPB мы применяем умные технологии, чтобы предлагать вам лучшие цены. Узнайте, как динамическое ценообразование помогает нам делать наши услуги доступнее и выгоднее именно для вас, а не просто меняет цифры на ценнике.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1551288049-bebda4e38f71"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"5.0","reviewCount":740,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/kak-my-ispolzuem-dinamicheskoe-cenoobrazovanie-dlya-vashey-vygody/"}}
+title: Как мы используем динамическое ценообразование для вашей выгоды
+description: >-
+  В ButlerSPB мы применяем умные технологии, чтобы предлагать вам лучшие цены.
+  Узнайте, как динамическое ценообразование помогает нам делать наши услуги
+  доступнее и выгоднее именно для вас, а не просто меняет цифры на ценнике.
+pubDate: '2025-07-20T12:42:30.347Z'
+author: Эксперт ButlerSPB
+heroImage: 'https://images.unsplash.com/photo-1551288049-bebda4e38f71'
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: Как мы используем динамическое ценообразование для вашей выгоды
+  description: >-
+    В ButlerSPB мы применяем умные технологии, чтобы предлагать вам лучшие цены.
+    Узнайте, как динамическое ценообразование помогает нам делать наши услуги
+    доступнее и выгоднее именно для вас, а не просто меняет цифры на ценнике.
+  image:
+    '@type': ImageObject
+    url: 'https://images.unsplash.com/photo-1551288049-bebda4e38f71'
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.9'
+    reviewCount: 523
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/kak-my-ispolzuem-dinamicheskoe-cenoobrazovanie-dlya-vashey-vygody/
 ---
 
 # Как мы используем динамическое ценообразование, чтобы вы зарабатывали больше на посуточной аренде

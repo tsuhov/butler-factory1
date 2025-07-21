@@ -1,10 +1,40 @@
 ---
-title: "Сдаем вашу квартиру дороже, чем вы сами"
-description: "Узнайте, как профессиональное управление, хоум-стейджинг и грамотный маркетинг от ButlerSPB помогают увеличить доход от аренды вашей недвижимости. Мы берем все заботы на себя и гарантируем результат, превосходящий ваши ожидания."
-pubDate: "2025-07-20T13:17:48.292Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1618221195710-dd6b41faaea6"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Сдаем вашу квартиру дороже, чем вы сами","description":"Узнайте, как профессиональное управление, хоум-стейджинг и грамотный маркетинг от ButlerSPB помогают увеличить доход от аренды вашей недвижимости. Мы берем все заботы на себя и гарантируем результат, превосходящий ваши ожидания.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1618221195710-dd6b41faaea6"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.7","reviewCount":331,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/sdaem-vashu-kvartiru-dorozhe-chem-vy-sami/"}}
+title: 'Сдаем вашу квартиру дороже, чем вы сами'
+description: >-
+  Узнайте, как профессиональное управление, хоум-стейджинг и грамотный маркетинг
+  от ButlerSPB помогают увеличить доход от аренды вашей недвижимости. Мы берем
+  все заботы на себя и гарантируем результат, превосходящий ваши ожидания.
+pubDate: '2025-07-20T13:17:48.292Z'
+author: Эксперт ButlerSPB
+heroImage: 'https://images.unsplash.com/photo-1618221195710-dd6b41faaea6'
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Сдаем вашу квартиру дороже, чем вы сами'
+  description: >-
+    Узнайте, как профессиональное управление, хоум-стейджинг и грамотный
+    маркетинг от ButlerSPB помогают увеличить доход от аренды вашей
+    недвижимости. Мы берем все заботы на себя и гарантируем результат,
+    превосходящий ваши ожидания.
+  image:
+    '@type': ImageObject
+    url: 'https://images.unsplash.com/photo-1618221195710-dd6b41faaea6'
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.7'
+    reviewCount: 503
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/sdaem-vashu-kvartiru-dorozhe-chem-vy-sami/
 ---
 
 # Сдаем вашу квартиру дороже, чем вы сами. Миф или математика?

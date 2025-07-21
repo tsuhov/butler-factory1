@@ -1,10 +1,41 @@
 ---
-title: "Чистящие средства для профессиональной уборки в апартаментах"
-description: "Обзор и рекомендации по выбору профессиональной химии для клининга апартаментов. Узнайте, какие средства используют эксперты для достижения идеальной чистоты и безопасности."
-pubDate: "2025-07-19T13:35:46.229Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.pexels.com/photos/6197116/pexels-photo-6197116.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Чистящие средства для профессиональной уборки в апартаментах","description":"Обзор и рекомендации по выбору профессиональной химии для клининга апартаментов. Узнайте, какие средства используют эксперты для достижения идеальной чистоты и безопасности.","image":{"@type":"ImageObject","url":"https://images.pexels.com/photos/6197116/pexels-photo-6197116.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.8","reviewCount":678,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/chistyaschie-sredstva-dlya-professionalnoy-uborki-v-apartamentah/"}}
+title: Чистящие средства для профессиональной уборки в апартаментах
+description: >-
+  Обзор и рекомендации по выбору профессиональной химии для клининга
+  апартаментов. Узнайте, какие средства используют эксперты для достижения
+  идеальной чистоты и безопасности.
+pubDate: '2025-07-19T13:35:46.229Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.pexels.com/photos/6197116/pexels-photo-6197116.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: Чистящие средства для профессиональной уборки в апартаментах
+  description: >-
+    Обзор и рекомендации по выбору профессиональной химии для клининга
+    апартаментов. Узнайте, какие средства используют эксперты для достижения
+    идеальной чистоты и безопасности.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.pexels.com/photos/6197116/pexels-photo-6197116.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.8'
+    reviewCount: 381
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/chistyaschie-sredstva-dlya-professionalnoy-uborki-v-apartamentah/
 ---
 
 # Профессиональные чистящие средства для апартаментов: Полный гид по выбору и применению

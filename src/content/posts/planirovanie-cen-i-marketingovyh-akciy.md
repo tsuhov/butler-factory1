@@ -1,10 +1,43 @@
 ---
-title: "Эффективное планирование цен и маркетинговых акций: ключ к успеху вашего бизнеса"
-description: "Узнайте, как правильно устанавливать цены на товары и услуги, планировать выгодные маркетинговые акции и увеличивать прибыль. В этой статье от ButlerSPB мы делимся проверенными стратегиями и практическими советами."
-pubDate: "2025-07-20T18:55:19.171Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.pexels.com/photos/3184291/pexels-photo-3184291.jpeg"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Эффективное планирование цен и маркетинговых акций: ключ к успеху вашего бизнеса","description":"Узнайте, как правильно устанавливать цены на товары и услуги, планировать выгодные маркетинговые акции и увеличивать прибыль. В этой статье от ButlerSPB мы делимся проверенными стратегиями и практическими советами.","image":{"@type":"ImageObject","url":"https://images.pexels.com/photos/3184291/pexels-photo-3184291.jpeg"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"5.0","reviewCount":696,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/planirovanie-cen-i-marketingovyh-akciy/"}}
+title: >-
+  Эффективное планирование цен и маркетинговых акций: ключ к успеху вашего
+  бизнеса
+description: >-
+  Узнайте, как правильно устанавливать цены на товары и услуги, планировать
+  выгодные маркетинговые акции и увеличивать прибыль. В этой статье от ButlerSPB
+  мы делимся проверенными стратегиями и практическими советами.
+pubDate: '2025-07-20T18:55:19.171Z'
+author: Эксперт ButlerSPB
+heroImage: 'https://images.pexels.com/photos/3184291/pexels-photo-3184291.jpeg'
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: >-
+    Эффективное планирование цен и маркетинговых акций: ключ к успеху вашего
+    бизнеса
+  description: >-
+    Узнайте, как правильно устанавливать цены на товары и услуги, планировать
+    выгодные маркетинговые акции и увеличивать прибыль. В этой статье от
+    ButlerSPB мы делимся проверенными стратегиями и практическими советами.
+  image:
+    '@type': ImageObject
+    url: 'https://images.pexels.com/photos/3184291/pexels-photo-3184291.jpeg'
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '5.0'
+    reviewCount: 746
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/planirovanie-cen-i-marketingovyh-akciy/
 ---
 
 # **Как планировать цены и акции в посуточной аренде: Полное руководство для собственников в СПб по увеличению дохода**

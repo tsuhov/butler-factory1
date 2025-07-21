@@ -1,10 +1,39 @@
 ---
-title: "Как мы работаем с юридическими вопросами"
-description: "Прозрачность и юридическая чистота — основа нашей работы. В этой статье мы рассказываем, как ButlerSPB подходит к решению правовых вопросов, обеспечивая защиту интересов наших клиентов на каждом этапе сотрудничества."
-pubDate: "2025-07-21T00:11:15.459Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.pexels.com/photos/5668858/pexels-photo-5668858.jpeg"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Как мы работаем с юридическими вопросами","description":"Прозрачность и юридическая чистота — основа нашей работы. В этой статье мы рассказываем, как ButlerSPB подходит к решению правовых вопросов, обеспечивая защиту интересов наших клиентов на каждом этапе сотрудничества.","image":{"@type":"ImageObject","url":"https://images.pexels.com/photos/5668858/pexels-photo-5668858.jpeg"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.8","reviewCount":898,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/kak-my-rabotaem-s-yuridicheskimi-voprosami/"}}
+title: Как мы работаем с юридическими вопросами
+description: >-
+  Прозрачность и юридическая чистота — основа нашей работы. В этой статье мы
+  рассказываем, как ButlerSPB подходит к решению правовых вопросов, обеспечивая
+  защиту интересов наших клиентов на каждом этапе сотрудничества.
+pubDate: '2025-07-21T00:11:15.459Z'
+author: Эксперт ButlerSPB
+heroImage: 'https://images.pexels.com/photos/5668858/pexels-photo-5668858.jpeg'
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: Как мы работаем с юридическими вопросами
+  description: >-
+    Прозрачность и юридическая чистота — основа нашей работы. В этой статье мы
+    рассказываем, как ButlerSPB подходит к решению правовых вопросов,
+    обеспечивая защиту интересов наших клиентов на каждом этапе сотрудничества.
+  image:
+    '@type': ImageObject
+    url: 'https://images.pexels.com/photos/5668858/pexels-photo-5668858.jpeg'
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.7'
+    reviewCount: 302
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/kak-my-rabotaem-s-yuridicheskimi-voprosami/
 ---
 
 # Юридическая безопасность в посуточной аренде: как ButlerSPB защищает собственников в Санкт-Петербурге

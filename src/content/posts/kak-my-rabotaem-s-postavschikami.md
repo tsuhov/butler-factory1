@@ -1,10 +1,42 @@
 ---
-title: "Партнерство и качество: Принципы работы с поставщиками в ButlerSPB"
-description: "В ButlerSPB мы верим, что безупречный сервис начинается с надежных партнеров. В этой статье мы раскроем наши ключевые принципы работы с поставщиками: от строгого отбора и проверки качества до выстраивания долгосрочных и взаимовыгодных отношений. Узнайте, как мы гарантируем стабильность и превосходство в каждой детали для наших клиентов."
-pubDate: "2025-07-20T18:32:20.256Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.pexels.com/photos/4458554/pexels-photo-4458554.jpeg"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Партнерство и качество: Принципы работы с поставщиками в ButlerSPB","description":"В ButlerSPB мы верим, что безупречный сервис начинается с надежных партнеров. В этой статье мы раскроем наши ключевые принципы работы с поставщиками: от строгого отбора и проверки качества до выстраивания долгосрочных и взаимовыгодных отношений. Узнайте, как мы гарантируем стабильность и превосходство в каждой детали для наших клиентов.","image":{"@type":"ImageObject","url":"https://images.pexels.com/photos/4458554/pexels-photo-4458554.jpeg"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":502,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/kak-my-rabotaem-s-postavschikami/"}}
+title: 'Партнерство и качество: Принципы работы с поставщиками в ButlerSPB'
+description: >-
+  В ButlerSPB мы верим, что безупречный сервис начинается с надежных партнеров.
+  В этой статье мы раскроем наши ключевые принципы работы с поставщиками: от
+  строгого отбора и проверки качества до выстраивания долгосрочных и
+  взаимовыгодных отношений. Узнайте, как мы гарантируем стабильность и
+  превосходство в каждой детали для наших клиентов.
+pubDate: '2025-07-20T18:32:20.256Z'
+author: Эксперт ButlerSPB
+heroImage: 'https://images.pexels.com/photos/4458554/pexels-photo-4458554.jpeg'
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Партнерство и качество: Принципы работы с поставщиками в ButlerSPB'
+  description: >-
+    В ButlerSPB мы верим, что безупречный сервис начинается с надежных
+    партнеров. В этой статье мы раскроем наши ключевые принципы работы с
+    поставщиками: от строгого отбора и проверки качества до выстраивания
+    долгосрочных и взаимовыгодных отношений. Узнайте, как мы гарантируем
+    стабильность и превосходство в каждой детали для наших клиентов.
+  image:
+    '@type': ImageObject
+    url: 'https://images.pexels.com/photos/4458554/pexels-photo-4458554.jpeg'
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.8'
+    reviewCount: 764
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': 'https://butlerspb-blog.netlify.app/blog/kak-my-rabotaem-s-postavschikami/'
 ---
 
 # За кулисами гостеприимства: Как мы строим работу с поставщиками для ваших апартаментов

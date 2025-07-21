@@ -1,10 +1,43 @@
 ---
-title: "Как подготовить квартиру к передаче в управление"
-description: "Передача квартиры в доверительное управление – ответственный шаг. В этой статье от ButlerSPB мы собрали полный чек-лист для собственников: от технической проверки и генеральной уборки до юридических нюансов и сбора необходимых документов. Узнайте, как сделать процесс передачи быстрым, гладким и безопасным."
-pubDate: "2025-07-21T00:44:25.358Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.pexels.com/photos/439227/pexels-photo-439227.jpeg"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Как подготовить квартиру к передаче в управление","description":"Передача квартиры в доверительное управление – ответственный шаг. В этой статье от ButlerSPB мы собрали полный чек-лист для собственников: от технической проверки и генеральной уборки до юридических нюансов и сбора необходимых документов. Узнайте, как сделать процесс передачи быстрым, гладким и безопасным.","image":{"@type":"ImageObject","url":"https://images.pexels.com/photos/439227/pexels-photo-439227.jpeg"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"5.0","reviewCount":646,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/kak-podgotovit-kvartiru-k-peredache-v-upravlenie/"}}
+title: Как подготовить квартиру к передаче в управление
+description: >-
+  Передача квартиры в доверительное управление – ответственный шаг. В этой
+  статье от ButlerSPB мы собрали полный чек-лист для собственников: от
+  технической проверки и генеральной уборки до юридических нюансов и сбора
+  необходимых документов. Узнайте, как сделать процесс передачи быстрым, гладким
+  и безопасным.
+pubDate: '2025-07-21T00:44:25.358Z'
+author: Эксперт ButlerSPB
+heroImage: 'https://images.pexels.com/photos/439227/pexels-photo-439227.jpeg'
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: Как подготовить квартиру к передаче в управление
+  description: >-
+    Передача квартиры в доверительное управление – ответственный шаг. В этой
+    статье от ButlerSPB мы собрали полный чек-лист для собственников: от
+    технической проверки и генеральной уборки до юридических нюансов и сбора
+    необходимых документов. Узнайте, как сделать процесс передачи быстрым,
+    гладким и безопасным.
+  image:
+    '@type': ImageObject
+    url: 'https://images.pexels.com/photos/439227/pexels-photo-439227.jpeg'
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.9'
+    reviewCount: 752
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/kak-podgotovit-kvartiru-k-peredache-v-upravlenie/
 ---
 
 # Как подготовить квартиру к передаче в управление: Полное руководство для собственника в Санкт-Петербурге

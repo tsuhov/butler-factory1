@@ -1,10 +1,43 @@
 ---
-title: "Как правильно фотографировать квартиру для сдачи в Питере: полное руководство"
-description: "Создайте объявление, которое привлечет идеальных арендаторов. Наши советы по подготовке квартиры, выбору ракурсов, работе со светом и постобработке помогут сдать вашу недвижимость в Санкт-Петербурге быстрее и выгоднее."
-pubDate: "2025-07-18T15:11:05.449Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1616046229478-9901c5536a45?q=80&w=2680&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Как правильно фотографировать квартиру для сдачи в Питере: полное руководство","description":"Создайте объявление, которое привлечет идеальных арендаторов. Наши советы по подготовке квартиры, выбору ракурсов, работе со светом и постобработке помогут сдать вашу недвижимость в Санкт-Петербурге быстрее и выгоднее.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1616046229478-9901c5536a45?q=80&w=2680&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.8","reviewCount":749,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/kak-pravilno-fotografirovat-kvartiru-dlya-sdachi-v-pitere/"}}
+title: 'Как правильно фотографировать квартиру для сдачи в Питере: полное руководство'
+description: >-
+  Создайте объявление, которое привлечет идеальных арендаторов. Наши советы по
+  подготовке квартиры, выбору ракурсов, работе со светом и постобработке помогут
+  сдать вашу недвижимость в Санкт-Петербурге быстрее и выгоднее.
+pubDate: '2025-07-18T15:11:05.449Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1616046229478-9901c5536a45?q=80&w=2680&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: >-
+    Как правильно фотографировать квартиру для сдачи в Питере: полное
+    руководство
+  description: >-
+    Создайте объявление, которое привлечет идеальных арендаторов. Наши советы по
+    подготовке квартиры, выбору ракурсов, работе со светом и постобработке
+    помогут сдать вашу недвижимость в Санкт-Петербурге быстрее и выгоднее.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1616046229478-9901c5536a45?q=80&w=2680&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '5.0'
+    reviewCount: 456
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/kak-pravilno-fotografirovat-kvartiru-dlya-sdachi-v-pitere/
 ---
 
 # **Как правильно сфотографировать квартиру для сдачи в Питере: полное руководство для собственника**

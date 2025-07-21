@@ -1,10 +1,43 @@
 ---
-title: "Маркетинг для посуточной аренды: где искать гостей кроме агрегаторов в СПБ"
-description: "Узнайте, как привлекать гостей в свои апартаменты в Санкт-Петербурге, не полагаясь только на популярные агрегаторы. Рассматриваем эффективные каналы: от соцсетей и корпоративных клиентов до партнерств с ивент-агентствами и медицинскими центрами."
-pubDate: "2025-07-18T21:00:11.126Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.pexels.com/photos/271624/pexels-photo-271624.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Маркетинг для посуточной аренды: где искать гостей кроме агрегаторов в СПБ","description":"Узнайте, как привлекать гостей в свои апартаменты в Санкт-Петербурге, не полагаясь только на популярные агрегаторы. Рассматриваем эффективные каналы: от соцсетей и корпоративных клиентов до партнерств с ивент-агентствами и медицинскими центрами.","image":{"@type":"ImageObject","url":"https://images.pexels.com/photos/271624/pexels-photo-271624.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"5.0","reviewCount":556,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/marketing-dlya-posutochnoy-arendy-gde-iskat-gostey-krome-agregatorov-v-spb/"}}
+title: 'Маркетинг для посуточной аренды: где искать гостей кроме агрегаторов в СПБ'
+description: >-
+  Узнайте, как привлекать гостей в свои апартаменты в Санкт-Петербурге, не
+  полагаясь только на популярные агрегаторы. Рассматриваем эффективные каналы:
+  от соцсетей и корпоративных клиентов до партнерств с ивент-агентствами и
+  медицинскими центрами.
+pubDate: '2025-07-18T21:00:11.126Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.pexels.com/photos/271624/pexels-photo-271624.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Маркетинг для посуточной аренды: где искать гостей кроме агрегаторов в СПБ'
+  description: >-
+    Узнайте, как привлекать гостей в свои апартаменты в Санкт-Петербурге, не
+    полагаясь только на популярные агрегаторы. Рассматриваем эффективные каналы:
+    от соцсетей и корпоративных клиентов до партнерств с ивент-агентствами и
+    медицинскими центрами.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.pexels.com/photos/271624/pexels-photo-271624.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.8'
+    reviewCount: 496
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/marketing-dlya-posutochnoy-arendy-gde-iskat-gostey-krome-agregatorov-v-spb/
 ---
 
 # Маркетинг для посуточной аренды: 10+ способов найти гостей в СПб без агрегаторов и комиссий

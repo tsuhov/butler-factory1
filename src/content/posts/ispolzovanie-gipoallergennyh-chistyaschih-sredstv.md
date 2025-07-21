@@ -1,10 +1,46 @@
 ---
-title: "Чистота без вреда: гид по выбору и использованию гипоаллергенных чистящих средств"
-description: "Аллергия на бытовую химию — частая проблема. В нашей новой статье от ButlerSPB мы расскажем, как выбрать безопасные и эффективные гипоаллергенные средства, чтобы ваш дом сиял чистотой без вреда для здоровья семьи и домашних питомцев."
-pubDate: "2025-07-20T15:03:42.388Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.pexels.com/photos/4239147/pexels-photo-4239147.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Чистота без вреда: гид по выбору и использованию гипоаллергенных чистящих средств","description":"Аллергия на бытовую химию — частая проблема. В нашей новой статье от ButlerSPB мы расскажем, как выбрать безопасные и эффективные гипоаллергенные средства, чтобы ваш дом сиял чистотой без вреда для здоровья семьи и домашних питомцев.","image":{"@type":"ImageObject","url":"https://images.pexels.com/photos/4239147/pexels-photo-4239147.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.8","reviewCount":638,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/ispolzovanie-gipoallergennyh-chistyaschih-sredstv/"}}
+title: >-
+  Чистота без вреда: гид по выбору и использованию гипоаллергенных чистящих
+  средств
+description: >-
+  Аллергия на бытовую химию — частая проблема. В нашей новой статье от ButlerSPB
+  мы расскажем, как выбрать безопасные и эффективные гипоаллергенные средства,
+  чтобы ваш дом сиял чистотой без вреда для здоровья семьи и домашних питомцев.
+pubDate: '2025-07-20T15:03:42.388Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.pexels.com/photos/4239147/pexels-photo-4239147.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: >-
+    Чистота без вреда: гид по выбору и использованию гипоаллергенных чистящих
+    средств
+  description: >-
+    Аллергия на бытовую химию — частая проблема. В нашей новой статье от
+    ButlerSPB мы расскажем, как выбрать безопасные и эффективные гипоаллергенные
+    средства, чтобы ваш дом сиял чистотой без вреда для здоровья семьи и
+    домашних питомцев.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.pexels.com/photos/4239147/pexels-photo-4239147.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '5.0'
+    reviewCount: 348
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/ispolzovanie-gipoallergennyh-chistyaschih-sredstv/
 ---
 
 # Стандарт чистоты ButlerSPB: Почему мы используем только гипоаллергенные средства и как это влияет на успех вашего объекта

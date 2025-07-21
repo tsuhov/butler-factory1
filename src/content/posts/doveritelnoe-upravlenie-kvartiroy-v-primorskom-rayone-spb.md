@@ -1,10 +1,46 @@
 ---
-title: "Доверительное управление квартирой в Приморском районе СПБ: Ваш гид по беззаботной аренде"
-description: "Узнайте, как сдать квартиру в Приморском районе Санкт-Петербурга с максимальной выгодой и минимальными усилиями. Полное руководство по услуге доверительного управления: от поиска жильцов до решения всех бытовых вопросов."
-pubDate: "2025-07-18T16:36:49.681Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.pexels.com/photos/1571460/pexels-photo-1571460.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Доверительное управление квартирой в Приморском районе СПБ: Ваш гид по беззаботной аренде","description":"Узнайте, как сдать квартиру в Приморском районе Санкт-Петербурга с максимальной выгодой и минимальными усилиями. Полное руководство по услуге доверительного управления: от поиска жильцов до решения всех бытовых вопросов.","image":{"@type":"ImageObject","url":"https://images.pexels.com/photos/1571460/pexels-photo-1571460.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.8","reviewCount":893,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/doveritelnoe-upravlenie-kvartiroy-v-primorskom-rayone-spb/"}}
+title: >-
+  Доверительное управление квартирой в Приморском районе СПБ: Ваш гид по
+  беззаботной аренде
+description: >-
+  Узнайте, как сдать квартиру в Приморском районе Санкт-Петербурга с
+  максимальной выгодой и минимальными усилиями. Полное руководство по услуге
+  доверительного управления: от поиска жильцов до решения всех бытовых вопросов.
+pubDate: '2025-07-18T16:36:49.681Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.pexels.com/photos/1571460/pexels-photo-1571460.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: >-
+    Доверительное управление квартирой в Приморском районе СПБ: Ваш гид по
+    беззаботной аренде
+  description: >-
+    Узнайте, как сдать квартиру в Приморском районе Санкт-Петербурга с
+    максимальной выгодой и минимальными усилиями. Полное руководство по услуге
+    доверительного управления: от поиска жильцов до решения всех бытовых
+    вопросов.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.pexels.com/photos/1571460/pexels-photo-1571460.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.9'
+    reviewCount: 574
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/doveritelnoe-upravlenie-kvartiroy-v-primorskom-rayone-spb/
 ---
 
 # Доверительное управление квартирой в Приморском районе СПб: Как получать стабильный доход от аренды без хлопот

@@ -1,10 +1,41 @@
 ---
-title: "Заботимся о вашей квартире как о своей собственной"
-description: "В ButlerSPB мы понимаем, что ваша квартира — это не просто недвижимость, а ваш дом. Узнайте, как наш подход к управлению и обслуживанию гарантирует, что о вашей собственности заботятся с максимальным вниманием и уважением, как если бы она была нашей собственной."
-pubDate: "2025-07-20T13:15:36.313Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.pexels.com/photos/1571460/pexels-photo-1571460.jpeg"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Заботимся о вашей квартире как о своей собственной","description":"В ButlerSPB мы понимаем, что ваша квартира — это не просто недвижимость, а ваш дом. Узнайте, как наш подход к управлению и обслуживанию гарантирует, что о вашей собственности заботятся с максимальным вниманием и уважением, как если бы она была нашей собственной.","image":{"@type":"ImageObject","url":"https://images.pexels.com/photos/1571460/pexels-photo-1571460.jpeg"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.8","reviewCount":554,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/zabotimsya-o-vashey-kvartire-kak-o-svoey-sobstvennoy/"}}
+title: Заботимся о вашей квартире как о своей собственной
+description: >-
+  В ButlerSPB мы понимаем, что ваша квартира — это не просто недвижимость, а ваш
+  дом. Узнайте, как наш подход к управлению и обслуживанию гарантирует, что о
+  вашей собственности заботятся с максимальным вниманием и уважением, как если
+  бы она была нашей собственной.
+pubDate: '2025-07-20T13:15:36.313Z'
+author: Эксперт ButlerSPB
+heroImage: 'https://images.pexels.com/photos/1571460/pexels-photo-1571460.jpeg'
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: Заботимся о вашей квартире как о своей собственной
+  description: >-
+    В ButlerSPB мы понимаем, что ваша квартира — это не просто недвижимость, а
+    ваш дом. Узнайте, как наш подход к управлению и обслуживанию гарантирует,
+    что о вашей собственности заботятся с максимальным вниманием и уважением,
+    как если бы она была нашей собственной.
+  image:
+    '@type': ImageObject
+    url: 'https://images.pexels.com/photos/1571460/pexels-photo-1571460.jpeg'
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.7'
+    reviewCount: 446
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/zabotimsya-o-vashey-kvartire-kak-o-svoey-sobstvennoy/
 ---
 
 # Ваша квартира в надежных руках: Как ButlerSPB заботится о вашей недвижимости в Санкт-Петербурге

@@ -1,10 +1,39 @@
 ---
-title: "Почему гости возвращаются в апартаменты ButlerSPB снова и снова"
-description: "Раскрываем секреты нашего гостеприимства. Узнайте, какие детали создают незабываемые впечатления и заставляют гостей выбирать нас для своих поездок в Санкт-Петербург."
-pubDate: "2025-07-20T14:39:23.427Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.pexels.com/photos/6492397/pexels-photo-6492397.jpeg"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Почему гости возвращаются в апартаменты ButlerSPB снова и снова","description":"Раскрываем секреты нашего гостеприимства. Узнайте, какие детали создают незабываемые впечатления и заставляют гостей выбирать нас для своих поездок в Санкт-Петербург.","image":{"@type":"ImageObject","url":"https://images.pexels.com/photos/6492397/pexels-photo-6492397.jpeg"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"5.0","reviewCount":780,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/pochemu-gosti-vozvraschayutsya-v-nashi-apartamenty-snova-i-snova/"}}
+title: Почему гости возвращаются в апартаменты ButlerSPB снова и снова
+description: >-
+  Раскрываем секреты нашего гостеприимства. Узнайте, какие детали создают
+  незабываемые впечатления и заставляют гостей выбирать нас для своих поездок в
+  Санкт-Петербург.
+pubDate: '2025-07-20T14:39:23.427Z'
+author: Эксперт ButlerSPB
+heroImage: 'https://images.pexels.com/photos/6492397/pexels-photo-6492397.jpeg'
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: Почему гости возвращаются в апартаменты ButlerSPB снова и снова
+  description: >-
+    Раскрываем секреты нашего гостеприимства. Узнайте, какие детали создают
+    незабываемые впечатления и заставляют гостей выбирать нас для своих поездок
+    в Санкт-Петербург.
+  image:
+    '@type': ImageObject
+    url: 'https://images.pexels.com/photos/6492397/pexels-photo-6492397.jpeg'
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '5.0'
+    reviewCount: 636
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/pochemu-gosti-vozvraschayutsya-v-nashi-apartamenty-snova-i-snova/
 ---
 
 # Секрет постоянных гостей: Почему в наши апартаменты в Петербурге возвращаются снова и снова

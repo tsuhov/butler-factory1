@@ -1,10 +1,39 @@
 ---
-title: "Налоги для самозанятых при посуточной аренде в Московском районе: полный гид"
-description: "Разбираемся, как самозанятому легально сдавать квартиру посуточно в Московском районе Санкт-Петербурга. Какие налоги платить, как принимать оплату и какие есть риски."
-pubDate: "2025-07-19T09:52:00.645Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.pexels.com/photos/14875795/pexels-photo-14875795.jpeg"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Налоги для самозанятых при посуточной аренде в Московском районе: полный гид","description":"Разбираемся, как самозанятому легально сдавать квартиру посуточно в Московском районе Санкт-Петербурга. Какие налоги платить, как принимать оплату и какие есть риски.","image":{"@type":"ImageObject","url":"https://images.pexels.com/photos/14875795/pexels-photo-14875795.jpeg"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":809,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/nalogi-dlya-samozanyatyh-pri-posutochnoy-arende-v-moskovskom-rayone/"}}
+title: 'Налоги для самозанятых при посуточной аренде в Московском районе: полный гид'
+description: >-
+  Разбираемся, как самозанятому легально сдавать квартиру посуточно в Московском
+  районе Санкт-Петербурга. Какие налоги платить, как принимать оплату и какие
+  есть риски.
+pubDate: '2025-07-19T09:52:00.645Z'
+author: Эксперт ButlerSPB
+heroImage: 'https://images.pexels.com/photos/14875795/pexels-photo-14875795.jpeg'
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Налоги для самозанятых при посуточной аренде в Московском районе: полный гид'
+  description: >-
+    Разбираемся, как самозанятому легально сдавать квартиру посуточно в
+    Московском районе Санкт-Петербурга. Какие налоги платить, как принимать
+    оплату и какие есть риски.
+  image:
+    '@type': ImageObject
+    url: 'https://images.pexels.com/photos/14875795/pexels-photo-14875795.jpeg'
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.8'
+    reviewCount: 880
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/nalogi-dlya-samozanyatyh-pri-posutochnoy-arende-v-moskovskom-rayone/
 ---
 
 # Налоги для самозанятых при посуточной аренде в Московском районе СПб: Полное руководство 2024

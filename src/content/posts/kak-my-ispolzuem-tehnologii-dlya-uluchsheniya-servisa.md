@@ -1,10 +1,45 @@
 ---
-title: "Технологии на службе вашего комфорта: Инновации в ButlerSPB"
-description: "В ButlerSPB мы верим, что безупречный сервис — это сочетание персонального подхода и передовых технологий. В этой статье мы расскажем, как наше мобильное приложение, интеллектуальная CRM-система и автоматизированные процессы помогают нам предугадывать ваши желания, выполнять задачи быстрее и делать ваше взаимодействие с нами максимально удобным и прозрачным."
-pubDate: "2025-07-20T22:05:59.461Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1544228865-7d73678c0f28?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Технологии на службе вашего комфорта: Инновации в ButlerSPB","description":"В ButlerSPB мы верим, что безупречный сервис — это сочетание персонального подхода и передовых технологий. В этой статье мы расскажем, как наше мобильное приложение, интеллектуальная CRM-система и автоматизированные процессы помогают нам предугадывать ваши желания, выполнять задачи быстрее и делать ваше взаимодействие с нами максимально удобным и прозрачным.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1544228865-7d73678c0f28?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.8","reviewCount":754,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/kak-my-ispolzuem-tehnologii-dlya-uluchsheniya-servisa/"}}
+title: 'Технологии на службе вашего комфорта: Инновации в ButlerSPB'
+description: >-
+  В ButlerSPB мы верим, что безупречный сервис — это сочетание персонального
+  подхода и передовых технологий. В этой статье мы расскажем, как наше мобильное
+  приложение, интеллектуальная CRM-система и автоматизированные процессы
+  помогают нам предугадывать ваши желания, выполнять задачи быстрее и делать
+  ваше взаимодействие с нами максимально удобным и прозрачным.
+pubDate: '2025-07-20T22:05:59.461Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1544228865-7d73678c0f28?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Технологии на службе вашего комфорта: Инновации в ButlerSPB'
+  description: >-
+    В ButlerSPB мы верим, что безупречный сервис — это сочетание персонального
+    подхода и передовых технологий. В этой статье мы расскажем, как наше
+    мобильное приложение, интеллектуальная CRM-система и автоматизированные
+    процессы помогают нам предугадывать ваши желания, выполнять задачи быстрее и
+    делать ваше взаимодействие с нами максимально удобным и прозрачным.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1544228865-7d73678c0f28?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '5.0'
+    reviewCount: 755
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/kak-my-ispolzuem-tehnologii-dlya-uluchsheniya-servisa/
 ---
 
 # Больше дохода, меньше хлопот: Технологический стек ButlerSPB для управления вашей недвижимостью

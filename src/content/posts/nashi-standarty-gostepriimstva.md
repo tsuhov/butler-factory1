@@ -1,10 +1,42 @@
 ---
-title: "Наши стандарты гостеприимства: Забота в каждой детали от ButlerSPB"
-description: "Мы в ButlerSPB убеждены, что исключительный сервис — это не просто набор правил, а философия. В этой статье мы делимся ключевыми стандартами гостеприимства, которые лежат в основе нашей работы и помогают создавать для вас атмосферу безупречного комфорта и искренней заботы в Санкт-Петербурге."
-pubDate: "2025-07-20T14:37:20.927Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.pexels.com/photos/271624/pexels-photo-271624.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Наши стандарты гостеприимства: Забота в каждой детали от ButlerSPB","description":"Мы в ButlerSPB убеждены, что исключительный сервис — это не просто набор правил, а философия. В этой статье мы делимся ключевыми стандартами гостеприимства, которые лежат в основе нашей работы и помогают создавать для вас атмосферу безупречного комфорта и искренней заботы в Санкт-Петербурге.","image":{"@type":"ImageObject","url":"https://images.pexels.com/photos/271624/pexels-photo-271624.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":835,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/nashi-standarty-gostepriimstva/"}}
+title: 'Наши стандарты гостеприимства: Забота в каждой детали от ButlerSPB'
+description: >-
+  Мы в ButlerSPB убеждены, что исключительный сервис — это не просто набор
+  правил, а философия. В этой статье мы делимся ключевыми стандартами
+  гостеприимства, которые лежат в основе нашей работы и помогают создавать для
+  вас атмосферу безупречного комфорта и искренней заботы в Санкт-Петербурге.
+pubDate: '2025-07-20T14:37:20.927Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.pexels.com/photos/271624/pexels-photo-271624.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Наши стандарты гостеприимства: Забота в каждой детали от ButlerSPB'
+  description: >-
+    Мы в ButlerSPB убеждены, что исключительный сервис — это не просто набор
+    правил, а философия. В этой статье мы делимся ключевыми стандартами
+    гостеприимства, которые лежат в основе нашей работы и помогают создавать для
+    вас атмосферу безупречного комфорта и искренней заботы в Санкт-Петербурге.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.pexels.com/photos/271624/pexels-photo-271624.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.7'
+    reviewCount: 477
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': 'https://butlerspb-blog.netlify.app/blog/nashi-standarty-gostepriimstva/'
 ---
 
 # Наши стандарты гостеприимства: Что делает отдых в апартаментах ButlerSPB безупречным

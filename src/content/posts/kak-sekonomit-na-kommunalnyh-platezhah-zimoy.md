@@ -1,10 +1,39 @@
 ---
-title: "Как сэкономить на коммунальных платежах зимой"
-description: "Практические советы и лайфхаки, которые помогут сократить расходы на отопление, электричество и воду в холодное время года, не жертвуя комфортом в вашем доме."
-pubDate: "2025-07-20T00:46:06.090Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.pexels.com/photos/6207818/pexels-photo-6207818.jpeg"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Как сэкономить на коммунальных платежах зимой","description":"Практические советы и лайфхаки, которые помогут сократить расходы на отопление, электричество и воду в холодное время года, не жертвуя комфортом в вашем доме.","image":{"@type":"ImageObject","url":"https://images.pexels.com/photos/6207818/pexels-photo-6207818.jpeg"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":848,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/kak-sekonomit-na-kommunalnyh-platezhah-zimoy/"}}
+title: Как сэкономить на коммунальных платежах зимой
+description: >-
+  Практические советы и лайфхаки, которые помогут сократить расходы на
+  отопление, электричество и воду в холодное время года, не жертвуя комфортом в
+  вашем доме.
+pubDate: '2025-07-20T00:46:06.090Z'
+author: Эксперт ButlerSPB
+heroImage: 'https://images.pexels.com/photos/6207818/pexels-photo-6207818.jpeg'
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: Как сэкономить на коммунальных платежах зимой
+  description: >-
+    Практические советы и лайфхаки, которые помогут сократить расходы на
+    отопление, электричество и воду в холодное время года, не жертвуя комфортом
+    в вашем доме.
+  image:
+    '@type': ImageObject
+    url: 'https://images.pexels.com/photos/6207818/pexels-photo-6207818.jpeg'
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.8'
+    reviewCount: 676
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/kak-sekonomit-na-kommunalnyh-platezhah-zimoy/
 ---
 
 # Как сэкономить на коммунальных платежах зимой: полное руководство от А до Я

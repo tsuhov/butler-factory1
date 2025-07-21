@@ -1,10 +1,47 @@
 ---
-title: "Как общаться с гостями из Китая в Санкт-Петербурге: Путеводитель для гостеприимного хозяина"
-description: "Откройте для себя секреты успешного общения с туристами из Китая. В этой статье вы найдете практические советы, ключевые фразы на мандаринском, рекомендации по этикету и полезные приложения, которые помогут сделать пребывание ваших китайских гостей в Санкт-Петербурге незабываемым."
-pubDate: "2025-07-19T11:10:21.643Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.pexels.com/photos/1569076/pexels-photo-1569076.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Как общаться с гостями из Китая в Санкт-Петербурге: Путеводитель для гостеприимного хозяина","description":"Откройте для себя секреты успешного общения с туристами из Китая. В этой статье вы найдете практические советы, ключевые фразы на мандаринском, рекомендации по этикету и полезные приложения, которые помогут сделать пребывание ваших китайских гостей в Санкт-Петербурге незабываемым.","image":{"@type":"ImageObject","url":"https://images.pexels.com/photos/1569076/pexels-photo-1569076.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":785,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/kak-obschatsya-s-gostyami-iz-kitaya-v-sankt-peterburge/"}}
+title: >-
+  Как общаться с гостями из Китая в Санкт-Петербурге: Путеводитель для
+  гостеприимного хозяина
+description: >-
+  Откройте для себя секреты успешного общения с туристами из Китая. В этой
+  статье вы найдете практические советы, ключевые фразы на мандаринском,
+  рекомендации по этикету и полезные приложения, которые помогут сделать
+  пребывание ваших китайских гостей в Санкт-Петербурге незабываемым.
+pubDate: '2025-07-19T11:10:21.643Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.pexels.com/photos/1569076/pexels-photo-1569076.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: >-
+    Как общаться с гостями из Китая в Санкт-Петербурге: Путеводитель для
+    гостеприимного хозяина
+  description: >-
+    Откройте для себя секреты успешного общения с туристами из Китая. В этой
+    статье вы найдете практические советы, ключевые фразы на мандаринском,
+    рекомендации по этикету и полезные приложения, которые помогут сделать
+    пребывание ваших китайских гостей в Санкт-Петербурге незабываемым.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.pexels.com/photos/1569076/pexels-photo-1569076.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.8'
+    reviewCount: 802
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/kak-obschatsya-s-gostyami-iz-kitaya-v-sankt-peterburge/
 ---
 
 # Как общаться с гостями из Китая в Санкт-Петербурге: Полное руководство по гостеприимству

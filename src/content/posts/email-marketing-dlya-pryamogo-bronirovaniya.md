@@ -1,10 +1,41 @@
 ---
-title: "Email-маркетинг для прямого бронирования: как увеличить прибыль отеля"
-description: "Узнайте, как эффективно использовать email-рассылки для привлечения гостей напрямую, минуя агрегаторы. Готовые стратегии, примеры писем и советы по автоматизации для увеличения прямых бронирований и лояльности клиентов."
-pubDate: "2025-07-20T00:31:32.337Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.pexels.com/photos/6476587/pexels-photo-6476587.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Email-маркетинг для прямого бронирования: как увеличить прибыль отеля","description":"Узнайте, как эффективно использовать email-рассылки для привлечения гостей напрямую, минуя агрегаторы. Готовые стратегии, примеры писем и советы по автоматизации для увеличения прямых бронирований и лояльности клиентов.","image":{"@type":"ImageObject","url":"https://images.pexels.com/photos/6476587/pexels-photo-6476587.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.7","reviewCount":824,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/email-marketing-dlya-pryamogo-bronirovaniya/"}}
+title: 'Email-маркетинг для прямого бронирования: как увеличить прибыль отеля'
+description: >-
+  Узнайте, как эффективно использовать email-рассылки для привлечения гостей
+  напрямую, минуя агрегаторы. Готовые стратегии, примеры писем и советы по
+  автоматизации для увеличения прямых бронирований и лояльности клиентов.
+pubDate: '2025-07-20T00:31:32.337Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.pexels.com/photos/6476587/pexels-photo-6476587.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Email-маркетинг для прямого бронирования: как увеличить прибыль отеля'
+  description: >-
+    Узнайте, как эффективно использовать email-рассылки для привлечения гостей
+    напрямую, минуя агрегаторы. Готовые стратегии, примеры писем и советы по
+    автоматизации для увеличения прямых бронирований и лояльности клиентов.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.pexels.com/photos/6476587/pexels-photo-6476587.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.8'
+    reviewCount: 878
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/email-marketing-dlya-pryamogo-bronirovaniya/
 ---
 
 # Email-маркетинг для отелей: как получать прямые бронирования и победить комиссии OTA

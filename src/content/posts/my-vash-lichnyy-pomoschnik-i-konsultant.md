@@ -1,10 +1,43 @@
 ---
-title: "ButlerSPB: Мы ваш личный помощник и консультант"
-description: "В современном ритме жизни делегирование задач — это не роскошь, а необходимость. Узнайте, как команда ButlerSPB может стать вашим надежным партнером, взяв на себя рутинные и сложные задачи, освобождая ваше время для самого важного."
-pubDate: "2025-07-21T00:29:45.429Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.pexels.com/photos/3184418/pexels-photo-3184418.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"ButlerSPB: Мы ваш личный помощник и консультант","description":"В современном ритме жизни делегирование задач — это не роскошь, а необходимость. Узнайте, как команда ButlerSPB может стать вашим надежным партнером, взяв на себя рутинные и сложные задачи, освобождая ваше время для самого важного.","image":{"@type":"ImageObject","url":"https://images.pexels.com/photos/3184418/pexels-photo-3184418.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.8","reviewCount":537,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/my-vash-lichnyy-pomoschnik-i-konsultant/"}}
+title: 'ButlerSPB: Мы ваш личный помощник и консультант'
+description: >-
+  В современном ритме жизни делегирование задач — это не роскошь, а
+  необходимость. Узнайте, как команда ButlerSPB может стать вашим надежным
+  партнером, взяв на себя рутинные и сложные задачи, освобождая ваше время для
+  самого важного.
+pubDate: '2025-07-21T00:29:45.429Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.pexels.com/photos/3184418/pexels-photo-3184418.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'ButlerSPB: Мы ваш личный помощник и консультант'
+  description: >-
+    В современном ритме жизни делегирование задач — это не роскошь, а
+    необходимость. Узнайте, как команда ButlerSPB может стать вашим надежным
+    партнером, взяв на себя рутинные и сложные задачи, освобождая ваше время для
+    самого важного.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.pexels.com/photos/3184418/pexels-photo-3184418.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '5.0'
+    reviewCount: 700
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/my-vash-lichnyy-pomoschnik-i-konsultant/
 ---
 
 # Максимизируйте доход от аренды в СПб, пока мы работаем. ButlerSPB — ваш личный помощник и консультант

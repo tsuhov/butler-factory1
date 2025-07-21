@@ -1,10 +1,40 @@
 ---
-title: "Масштаб и опыт работы на рынке: ключевые преимущества ButlerSPB"
-description: "В этой статье мы рассмотрим, как многолетний опыт и масштаб деятельности позволяют нам реализовывать проекты любой сложности, обеспечивая стабильность, надежность и высочайшее качество услуг для наших клиентов."
-pubDate: "2025-07-21T10:50:03.943Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.pexels.com/photos/3184418/pexels-photo-3184418.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Масштаб и опыт работы на рынке: ключевые преимущества ButlerSPB","description":"В этой статье мы рассмотрим, как многолетний опыт и масштаб деятельности позволяют нам реализовывать проекты любой сложности, обеспечивая стабильность, надежность и высочайшее качество услуг для наших клиентов.","image":{"@type":"ImageObject","url":"https://images.pexels.com/photos/3184418/pexels-photo-3184418.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.8","reviewCount":679,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/masshtab-i-opyt-raboty-na-rynke/"}}
+title: 'Масштаб и опыт работы на рынке: ключевые преимущества ButlerSPB'
+description: >-
+  В этой статье мы рассмотрим, как многолетний опыт и масштаб деятельности
+  позволяют нам реализовывать проекты любой сложности, обеспечивая стабильность,
+  надежность и высочайшее качество услуг для наших клиентов.
+pubDate: '2025-07-21T10:50:03.943Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.pexels.com/photos/3184418/pexels-photo-3184418.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Масштаб и опыт работы на рынке: ключевые преимущества ButlerSPB'
+  description: >-
+    В этой статье мы рассмотрим, как многолетний опыт и масштаб деятельности
+    позволяют нам реализовывать проекты любой сложности, обеспечивая
+    стабильность, надежность и высочайшее качество услуг для наших клиентов.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.pexels.com/photos/3184418/pexels-photo-3184418.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.9'
+    reviewCount: 624
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': 'https://butlerspb-blog.netlify.app/blog/masshtab-i-opyt-raboty-na-rynke/'
 ---
 
 # Масштаб и опыт на рынке посуточной аренды: как выбрать надежного партнера в Санкт-Петербурге

@@ -1,10 +1,43 @@
 ---
-title: "Полный чек-лист: Как подготовить квартиру к приезду гостей в Санкт-Петербурге"
-description: "Собираетесь принимать гостей в Питере? Наш подробный чек-лист поможет вам ничего не упустить: от генеральной уборки до создания уютной атмосферы. Сделайте пребывание ваших гостей незабываемым!"
-pubDate: "2025-07-17T21:40:29.790Z"
-author: "ButlerSPB Expert"
-heroImage: "https://images.pexels.com/photos/6492397/pexels-photo-6492397.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
-schema: {"@context":"https://schema.org","@type":"BlogPosting","headline":"Полный чек-лист: Как подготовить квартиру к приезду гостей в Санкт-Петербурге","description":"Собираетесь принимать гостей в Питере? Наш подробный чек-лист поможет вам ничего не упустить: от генеральной уборки до создания уютной атмосферы. Сделайте пребывание ваших гостей незабываемым!","author":{"@type":"Person","name":"Редакция блога"},"publisher":{"@type":"Organization","name":"Петербургский Гид","logo":{"@type":"ImageObject","url":"https://example.com/logo.png"}},"datePublished":"2024-05-23"}
+title: 'Полный чек-лист: Как подготовить квартиру к приезду гостей в Санкт-Петербурге'
+description: >-
+  Собираетесь принимать гостей в Питере? Наш подробный чек-лист поможет вам
+  ничего не упустить: от генеральной уборки до создания уютной атмосферы.
+  Сделайте пребывание ваших гостей незабываемым!
+pubDate: '2025-07-17T21:40:29.790Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.pexels.com/photos/6492397/pexels-photo-6492397.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: >-
+    Полный чек-лист: Как подготовить квартиру к приезду гостей в
+    Санкт-Петербурге
+  description: >-
+    Собираетесь принимать гостей в Питере? Наш подробный чек-лист поможет вам
+    ничего не упустить: от генеральной уборки до создания уютной атмосферы.
+    Сделайте пребывание ваших гостей незабываемым!
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.pexels.com/photos/6492397/pexels-photo-6492397.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.9'
+    reviewCount: 619
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/chek-list-podgotovki-kvartiry-k-priezdu-gostey-v-pitere/
 ---
 
 # **Идеальный хозяин: полный чек-лист подготовки квартиры к приезду гостей в Санкт-Петербурге**

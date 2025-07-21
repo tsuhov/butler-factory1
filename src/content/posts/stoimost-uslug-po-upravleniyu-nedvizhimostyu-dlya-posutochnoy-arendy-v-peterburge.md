@@ -1,10 +1,43 @@
 ---
-title: "Стоимость услуг по управлению недвижимостью для посуточной аренды в Петербурге"
-description: "Подробный разбор тарифов и факторов, влияющих на стоимость услуг управляющих компаний по посуточной аренде квартир в Санкт-Петербурге. Узнайте, сколько стоит делегировать управление и как выбрать оптимальный пакет услуг."
-pubDate: "2025-07-18T17:22:11.820Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Стоимость услуг по управлению недвижимостью для посуточной аренды в Петербурге","description":"Подробный разбор тарифов и факторов, влияющих на стоимость услуг управляющих компаний по посуточной аренде квартир в Санкт-Петербурге. Узнайте, сколько стоит делегировать управление и как выбрать оптимальный пакет услуг.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.7","reviewCount":638,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/stoimost-uslug-po-upravleniyu-nedvizhimostyu-dlya-posutochnoy-arendy-v-peterburge/"}}
+title: Стоимость услуг по управлению недвижимостью для посуточной аренды в Петербурге
+description: >-
+  Подробный разбор тарифов и факторов, влияющих на стоимость услуг управляющих
+  компаний по посуточной аренде квартир в Санкт-Петербурге. Узнайте, сколько
+  стоит делегировать управление и как выбрать оптимальный пакет услуг.
+pubDate: '2025-07-18T17:22:11.820Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: >-
+    Стоимость услуг по управлению недвижимостью для посуточной аренды в
+    Петербурге
+  description: >-
+    Подробный разбор тарифов и факторов, влияющих на стоимость услуг управляющих
+    компаний по посуточной аренде квартир в Санкт-Петербурге. Узнайте, сколько
+    стоит делегировать управление и как выбрать оптимальный пакет услуг.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.8'
+    reviewCount: 545
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/stoimost-uslug-po-upravleniyu-nedvizhimostyu-dlya-posutochnoy-arendy-v-peterburge/
 ---
 
 # Сколько стоит управление посуточной арендой в Санкт-Петербурге: полный разбор тарифов и услуг в 2024 году

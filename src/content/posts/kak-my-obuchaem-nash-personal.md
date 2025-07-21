@@ -1,10 +1,42 @@
 ---
-title: "Как мы обучаем наш персонал"
-description: "В ButlerSPB мы верим, что ключ к первоклассному сервису — это постоянное развитие и обучение нашей команды. В этой статье мы подробно рассказываем о нашей многоуровневой системе подготовки персонала: от интенсивного вводного курса для новичков до специализированных тренингов и мастер-классов для опытных сотрудников."
-pubDate: "2025-07-20T22:13:56.056Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.pexels.com/photos/3184418/pexels-photo-3184418.jpeg"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Как мы обучаем наш персонал","description":"В ButlerSPB мы верим, что ключ к первоклассному сервису — это постоянное развитие и обучение нашей команды. В этой статье мы подробно рассказываем о нашей многоуровневой системе подготовки персонала: от интенсивного вводного курса для новичков до специализированных тренингов и мастер-классов для опытных сотрудников.","image":{"@type":"ImageObject","url":"https://images.pexels.com/photos/3184418/pexels-photo-3184418.jpeg"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.8","reviewCount":771,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/kak-my-obuchaem-nash-personal/"}}
+title: Как мы обучаем наш персонал
+description: >-
+  В ButlerSPB мы верим, что ключ к первоклассному сервису — это постоянное
+  развитие и обучение нашей команды. В этой статье мы подробно рассказываем о
+  нашей многоуровневой системе подготовки персонала: от интенсивного вводного
+  курса для новичков до специализированных тренингов и мастер-классов для
+  опытных сотрудников.
+pubDate: '2025-07-20T22:13:56.056Z'
+author: Эксперт ButlerSPB
+heroImage: 'https://images.pexels.com/photos/3184418/pexels-photo-3184418.jpeg'
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: Как мы обучаем наш персонал
+  description: >-
+    В ButlerSPB мы верим, что ключ к первоклассному сервису — это постоянное
+    развитие и обучение нашей команды. В этой статье мы подробно рассказываем о
+    нашей многоуровневой системе подготовки персонала: от интенсивного вводного
+    курса для новичков до специализированных тренингов и мастер-классов для
+    опытных сотрудников.
+  image:
+    '@type': ImageObject
+    url: 'https://images.pexels.com/photos/3184418/pexels-photo-3184418.jpeg'
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '5.0'
+    reviewCount: 687
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': 'https://butlerspb-blog.netlify.app/blog/kak-my-obuchaem-nash-personal/'
 ---
 
 # За кулисами 5-звездочного сервиса: Как мы в ButlerSPB обучаем персонал для ваших апартаментов

@@ -1,10 +1,45 @@
 ---
-title: "Как выгодно сдать квартиру посуточно на Петроградской стороне: полное руководство"
-description: "Петроградская сторона — один из самых престижных и востребованных районов Санкт-Петербурга. Узнайте, как максимизировать доход от посуточной аренды вашей квартиры, избежать типичных ошибок и привлечь лучших гостей в этом историческом центре."
-pubDate: "2025-07-18T16:33:22.905Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.pexels.com/photos/8924872/pexels-photo-8924872.jpeg"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Как выгодно сдать квартиру посуточно на Петроградской стороне: полное руководство","description":"Петроградская сторона — один из самых престижных и востребованных районов Санкт-Петербурга. Узнайте, как максимизировать доход от посуточной аренды вашей квартиры, избежать типичных ошибок и привлечь лучших гостей в этом историческом центре.","image":{"@type":"ImageObject","url":"https://images.pexels.com/photos/8924872/pexels-photo-8924872.jpeg"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.8","reviewCount":544,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/sdat-kvartiru-posutochno-na-petrogradskoy-storone/"}}
+title: >-
+  Как выгодно сдать квартиру посуточно на Петроградской стороне: полное
+  руководство
+description: >-
+  Петроградская сторона — один из самых престижных и востребованных районов
+  Санкт-Петербурга. Узнайте, как максимизировать доход от посуточной аренды
+  вашей квартиры, избежать типичных ошибок и привлечь лучших гостей в этом
+  историческом центре.
+pubDate: '2025-07-18T16:33:22.905Z'
+author: Эксперт ButlerSPB
+heroImage: 'https://images.pexels.com/photos/8924872/pexels-photo-8924872.jpeg'
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: >-
+    Как выгодно сдать квартиру посуточно на Петроградской стороне: полное
+    руководство
+  description: >-
+    Петроградская сторона — один из самых престижных и востребованных районов
+    Санкт-Петербурга. Узнайте, как максимизировать доход от посуточной аренды
+    вашей квартиры, избежать типичных ошибок и привлечь лучших гостей в этом
+    историческом центре.
+  image:
+    '@type': ImageObject
+    url: 'https://images.pexels.com/photos/8924872/pexels-photo-8924872.jpeg'
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.7'
+    reviewCount: 554
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/sdat-kvartiru-posutochno-na-petrogradskoy-storone/
 ---
 
 # Как выгодно сдать квартиру посуточно на Петроградской стороне: полное руководство для собственника в 2024 году

@@ -1,10 +1,45 @@
 ---
-title: "Анализ доходности в сравнении с рынком: как оценить эффективность вашего портфеля"
-description: "В новой статье блога ButlerSPB разбираемся, почему простого роста портфеля недостаточно для оценки успеха. Узнайте, как использовать рыночные бенчмарки (индексы) для объективного анализа доходности, что такое альфа и бета, и как эти показатели помогают принимать взвешенные инвестиционные решения."
-pubDate: "2025-07-20T22:03:47.352Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.pexels.com/photos/6801874/pexels-photo-6801874.jpeg"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Анализ доходности в сравнении с рынком: как оценить эффективность вашего портфеля","description":"В новой статье блога ButlerSPB разбираемся, почему простого роста портфеля недостаточно для оценки успеха. Узнайте, как использовать рыночные бенчмарки (индексы) для объективного анализа доходности, что такое альфа и бета, и как эти показатели помогают принимать взвешенные инвестиционные решения.","image":{"@type":"ImageObject","url":"https://images.pexels.com/photos/6801874/pexels-photo-6801874.jpeg"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":549,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/analiz-dohodnosti-v-sravnenii-s-rynkom/"}}
+title: >-
+  Анализ доходности в сравнении с рынком: как оценить эффективность вашего
+  портфеля
+description: >-
+  В новой статье блога ButlerSPB разбираемся, почему простого роста портфеля
+  недостаточно для оценки успеха. Узнайте, как использовать рыночные бенчмарки
+  (индексы) для объективного анализа доходности, что такое альфа и бета, и как
+  эти показатели помогают принимать взвешенные инвестиционные решения.
+pubDate: '2025-07-20T22:03:47.352Z'
+author: Эксперт ButlerSPB
+heroImage: 'https://images.pexels.com/photos/6801874/pexels-photo-6801874.jpeg'
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: >-
+    Анализ доходности в сравнении с рынком: как оценить эффективность вашего
+    портфеля
+  description: >-
+    В новой статье блога ButlerSPB разбираемся, почему простого роста портфеля
+    недостаточно для оценки успеха. Узнайте, как использовать рыночные бенчмарки
+    (индексы) для объективного анализа доходности, что такое альфа и бета, и как
+    эти показатели помогают принимать взвешенные инвестиционные решения.
+  image:
+    '@type': ImageObject
+    url: 'https://images.pexels.com/photos/6801874/pexels-photo-6801874.jpeg'
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.8'
+    reviewCount: 892
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/analiz-dohodnosti-v-sravnenii-s-rynkom/
 ---
 
 # Ваша квартира в Петербурге может приносить больше. Рассказываем, как это доказать с помощью анализа рынка

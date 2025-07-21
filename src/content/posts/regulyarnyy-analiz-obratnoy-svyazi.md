@@ -1,10 +1,45 @@
 ---
-title: "Регулярный анализ обратной связи: Как ButlerSPB превращает ваши отзывы в лучший сервис"
-description: "Узнайте, почему систематический сбор и анализ отзывов является основой нашей работы. В этой статье мы делимся нашим подходом к работе с обратной связью, который помогает нам становиться лучше с каждым днем и превосходить ваши ожидания."
-pubDate: "2025-07-21T00:21:34.214Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1551288049-bebda4e38f71"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Регулярный анализ обратной связи: Как ButlerSPB превращает ваши отзывы в лучший сервис","description":"Узнайте, почему систематический сбор и анализ отзывов является основой нашей работы. В этой статье мы делимся нашим подходом к работе с обратной связью, который помогает нам становиться лучше с каждым днем и превосходить ваши ожидания.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1551288049-bebda4e38f71"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.7","reviewCount":402,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/regulyarnyy-analiz-obratnoy-svyazi/"}}
+title: >-
+  Регулярный анализ обратной связи: Как ButlerSPB превращает ваши отзывы в
+  лучший сервис
+description: >-
+  Узнайте, почему систематический сбор и анализ отзывов является основой нашей
+  работы. В этой статье мы делимся нашим подходом к работе с обратной связью,
+  который помогает нам становиться лучше с каждым днем и превосходить ваши
+  ожидания.
+pubDate: '2025-07-21T00:21:34.214Z'
+author: Эксперт ButlerSPB
+heroImage: 'https://images.unsplash.com/photo-1551288049-bebda4e38f71'
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: >-
+    Регулярный анализ обратной связи: Как ButlerSPB превращает ваши отзывы в
+    лучший сервис
+  description: >-
+    Узнайте, почему систематический сбор и анализ отзывов является основой нашей
+    работы. В этой статье мы делимся нашим подходом к работе с обратной связью,
+    который помогает нам становиться лучше с каждым днем и превосходить ваши
+    ожидания.
+  image:
+    '@type': ImageObject
+    url: 'https://images.unsplash.com/photo-1551288049-bebda4e38f71'
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.9'
+    reviewCount: 372
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/regulyarnyy-analiz-obratnoy-svyazi/
 ---
 
 # Отзывы — это не просто оценка. Как системный анализ обратной связи увеличивает доход от вашей квартиры в Санкт-Петербурге

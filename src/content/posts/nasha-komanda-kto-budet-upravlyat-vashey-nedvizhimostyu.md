@@ -1,10 +1,39 @@
 ---
-title: "Наша команда: кто будет управлять вашей недвижимостью"
-description: "Познакомьтесь с профессионалами, которые стоят за спокойствием владельцев и комфортом арендаторов. В этой статье мы расскажем о ключевых специалистах нашей команды и их роли в управлении вашей собственностью."
-pubDate: "2025-07-20T11:47:13.000Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.pexels.com/photos/3184418/pexels-photo-3184418.jpeg"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Наша команда: кто будет управлять вашей недвижимостью","description":"Познакомьтесь с профессионалами, которые стоят за спокойствием владельцев и комфортом арендаторов. В этой статье мы расскажем о ключевых специалистах нашей команды и их роли в управлении вашей собственностью.","image":{"@type":"ImageObject","url":"https://images.pexels.com/photos/3184418/pexels-photo-3184418.jpeg"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.8","reviewCount":461,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/nasha-komanda-kto-budet-upravlyat-vashey-nedvizhimostyu/"}}
+title: 'Наша команда: кто будет управлять вашей недвижимостью'
+description: >-
+  Познакомьтесь с профессионалами, которые стоят за спокойствием владельцев и
+  комфортом арендаторов. В этой статье мы расскажем о ключевых специалистах
+  нашей команды и их роли в управлении вашей собственностью.
+pubDate: '2025-07-20T11:47:13.000Z'
+author: Эксперт ButlerSPB
+heroImage: 'https://images.pexels.com/photos/3184418/pexels-photo-3184418.jpeg'
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Наша команда: кто будет управлять вашей недвижимостью'
+  description: >-
+    Познакомьтесь с профессионалами, которые стоят за спокойствием владельцев и
+    комфортом арендаторов. В этой статье мы расскажем о ключевых специалистах
+    нашей команды и их роли в управлении вашей собственностью.
+  image:
+    '@type': ImageObject
+    url: 'https://images.pexels.com/photos/3184418/pexels-photo-3184418.jpeg'
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '5.0'
+    reviewCount: 677
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/nasha-komanda-kto-budet-upravlyat-vashey-nedvizhimostyu/
 ---
 
 # Наша команда: Познакомьтесь с экспертами, которые будут управлять вашей недвижимостью

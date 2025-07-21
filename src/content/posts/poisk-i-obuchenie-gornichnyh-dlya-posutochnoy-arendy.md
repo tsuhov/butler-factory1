@@ -1,10 +1,43 @@
 ---
-title: "Поиск и обучение горничных для посуточной аренды: полное руководство"
-description: "Эффективный поиск, отбор и обучение горничных — ключ к безупречной чистоте в ваших апартаментах и высоким оценкам от гостей. В этой статье мы разберем, где искать персонал, на что обращать внимание при найме и как создать четкую систему обучения."
-pubDate: "2025-07-20T00:22:03.509Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.pexels.com/photos/713297/pexels-photo-713297.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Поиск и обучение горничных для посуточной аренды: полное руководство","description":"Эффективный поиск, отбор и обучение горничных — ключ к безупречной чистоте в ваших апартаментах и высоким оценкам от гостей. В этой статье мы разберем, где искать персонал, на что обращать внимание при найме и как создать четкую систему обучения.","image":{"@type":"ImageObject","url":"https://images.pexels.com/photos/713297/pexels-photo-713297.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":597,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/poisk-i-obuchenie-gornichnyh-dlya-posutochnoy-arendy/"}}
+title: 'Поиск и обучение горничных для посуточной аренды: полное руководство'
+description: >-
+  Эффективный поиск, отбор и обучение горничных — ключ к безупречной чистоте в
+  ваших апартаментах и высоким оценкам от гостей. В этой статье мы разберем, где
+  искать персонал, на что обращать внимание при найме и как создать четкую
+  систему обучения.
+pubDate: '2025-07-20T00:22:03.509Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.pexels.com/photos/713297/pexels-photo-713297.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Поиск и обучение горничных для посуточной аренды: полное руководство'
+  description: >-
+    Эффективный поиск, отбор и обучение горничных — ключ к безупречной чистоте в
+    ваших апартаментах и высоким оценкам от гостей. В этой статье мы разберем,
+    где искать персонал, на что обращать внимание при найме и как создать четкую
+    систему обучения.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.pexels.com/photos/713297/pexels-photo-713297.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.9'
+    reviewCount: 347
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/poisk-i-obuchenie-gornichnyh-dlya-posutochnoy-arendy/
 ---
 
 # Как найти и обучить идеальную горничную для посуточной аренды: полное руководство для хоста

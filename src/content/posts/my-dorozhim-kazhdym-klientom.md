@@ -1,10 +1,40 @@
 ---
-title: "Мы дорожим каждым клиентом: Философия ButlerSPB"
-description: "В ButlerSPB мы верим, что основа успешного бизнеса — это не просто качественные услуги, а прочные и доверительные отношения. Узнайте, почему индивидуальный подход и забота о каждом из вас являются главным приоритетом нашей компании."
-pubDate: "2025-07-20T23:02:32.052Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.pexels.com/photos/7688162/pexels-photo-7688162.jpeg"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Мы дорожим каждым клиентом: Философия ButlerSPB","description":"В ButlerSPB мы верим, что основа успешного бизнеса — это не просто качественные услуги, а прочные и доверительные отношения. Узнайте, почему индивидуальный подход и забота о каждом из вас являются главным приоритетом нашей компании.","image":{"@type":"ImageObject","url":"https://images.pexels.com/photos/7688162/pexels-photo-7688162.jpeg"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.7","reviewCount":602,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/my-dorozhim-kazhdym-klientom/"}}
+title: 'Мы дорожим каждым клиентом: Философия ButlerSPB'
+description: >-
+  В ButlerSPB мы верим, что основа успешного бизнеса — это не просто
+  качественные услуги, а прочные и доверительные отношения. Узнайте, почему
+  индивидуальный подход и забота о каждом из вас являются главным приоритетом
+  нашей компании.
+pubDate: '2025-07-20T23:02:32.052Z'
+author: Эксперт ButlerSPB
+heroImage: 'https://images.pexels.com/photos/7688162/pexels-photo-7688162.jpeg'
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Мы дорожим каждым клиентом: Философия ButlerSPB'
+  description: >-
+    В ButlerSPB мы верим, что основа успешного бизнеса — это не просто
+    качественные услуги, а прочные и доверительные отношения. Узнайте, почему
+    индивидуальный подход и забота о каждом из вас являются главным приоритетом
+    нашей компании.
+  image:
+    '@type': ImageObject
+    url: 'https://images.pexels.com/photos/7688162/pexels-photo-7688162.jpeg'
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.9'
+    reviewCount: 604
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': 'https://butlerspb-blog.netlify.app/blog/my-dorozhim-kazhdym-klientom/'
 ---
 
 # "Мы дорожим каждым клиентом" — не просто слова. Как ButlerSPB строит партнерство с владельцами квартир в Петербурге

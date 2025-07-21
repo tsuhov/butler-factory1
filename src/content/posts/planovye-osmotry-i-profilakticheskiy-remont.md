@@ -1,10 +1,44 @@
 ---
-title: "Плановые осмотры и профилактический ремонт: инвестиция в ваше спокойствие"
-description: "Почему регулярное техническое обслуживание важнее экстренного ремонта? Команда ButlerSPB объясняет, как плановые осмотры помогают предотвратить серьезные поломки, сэкономить бюджет и обеспечить безопасность вашего объекта. Узнайте, как проактивный подход сохраняет ценность вашей недвижимости."
-pubDate: "2025-07-21T00:05:08.406Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.pexels.com/photos/7217996/pexels-photo-7217996.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Плановые осмотры и профилактический ремонт: инвестиция в ваше спокойствие","description":"Почему регулярное техническое обслуживание важнее экстренного ремонта? Команда ButlerSPB объясняет, как плановые осмотры помогают предотвратить серьезные поломки, сэкономить бюджет и обеспечить безопасность вашего объекта. Узнайте, как проактивный подход сохраняет ценность вашей недвижимости.","image":{"@type":"ImageObject","url":"https://images.pexels.com/photos/7217996/pexels-photo-7217996.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":864,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/planovye-osmotry-i-profilakticheskiy-remont/"}}
+title: 'Плановые осмотры и профилактический ремонт: инвестиция в ваше спокойствие'
+description: >-
+  Почему регулярное техническое обслуживание важнее экстренного ремонта? Команда
+  ButlerSPB объясняет, как плановые осмотры помогают предотвратить серьезные
+  поломки, сэкономить бюджет и обеспечить безопасность вашего объекта. Узнайте,
+  как проактивный подход сохраняет ценность вашей недвижимости.
+pubDate: '2025-07-21T00:05:08.406Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.pexels.com/photos/7217996/pexels-photo-7217996.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Плановые осмотры и профилактический ремонт: инвестиция в ваше спокойствие'
+  description: >-
+    Почему регулярное техническое обслуживание важнее экстренного ремонта?
+    Команда ButlerSPB объясняет, как плановые осмотры помогают предотвратить
+    серьезные поломки, сэкономить бюджет и обеспечить безопасность вашего
+    объекта. Узнайте, как проактивный подход сохраняет ценность вашей
+    недвижимости.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.pexels.com/photos/7217996/pexels-photo-7217996.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.9'
+    reviewCount: 683
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/planovye-osmotry-i-profilakticheskiy-remont/
 ---
 
 # Как не потерять деньги на ремонте квартиры в посуточной аренде: система плановых осмотров и профилактики от ButlerSPB

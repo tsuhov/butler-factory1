@@ -1,10 +1,42 @@
 ---
-title: "Как мы автоматизируем общение с гостями"
-description: "В новой статье блога ButlerSPB мы делимся секретами эффективной коммуникации. Узнайте, какие инструменты и подходы помогают нам отвечать на запросы гостей 24/7, предвосхищать их ожидания и делать каждое пребывание безупречным."
-pubDate: "2025-07-20T18:02:49.419Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.pexels.com/photos/5668473/pexels-photo-5668473.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Как мы автоматизируем общение с гостями","description":"В новой статье блога ButlerSPB мы делимся секретами эффективной коммуникации. Узнайте, какие инструменты и подходы помогают нам отвечать на запросы гостей 24/7, предвосхищать их ожидания и делать каждое пребывание безупречным.","image":{"@type":"ImageObject","url":"https://images.pexels.com/photos/5668473/pexels-photo-5668473.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"5.0","reviewCount":744,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/kak-my-avtomatiziruem-obschenie-s-gostyami/"}}
+title: Как мы автоматизируем общение с гостями
+description: >-
+  В новой статье блога ButlerSPB мы делимся секретами эффективной коммуникации.
+  Узнайте, какие инструменты и подходы помогают нам отвечать на запросы гостей
+  24/7, предвосхищать их ожидания и делать каждое пребывание безупречным.
+pubDate: '2025-07-20T18:02:49.419Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.pexels.com/photos/5668473/pexels-photo-5668473.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: Как мы автоматизируем общение с гостями
+  description: >-
+    В новой статье блога ButlerSPB мы делимся секретами эффективной
+    коммуникации. Узнайте, какие инструменты и подходы помогают нам отвечать на
+    запросы гостей 24/7, предвосхищать их ожидания и делать каждое пребывание
+    безупречным.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.pexels.com/photos/5668473/pexels-photo-5668473.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.7'
+    reviewCount: 480
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/kak-my-avtomatiziruem-obschenie-s-gostyami/
 ---
 
 # Как мы в ButlerSPB автоматизируем общение с гостями: от бронирования до отзыва

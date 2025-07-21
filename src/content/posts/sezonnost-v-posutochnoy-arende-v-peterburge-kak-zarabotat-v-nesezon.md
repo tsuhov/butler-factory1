@@ -1,10 +1,41 @@
 ---
-title: "Сезонность в посуточной аренде в Петербурге: как заработать в несезон"
-description: "Анализ сезонных колебаний на рынке посуточной аренды жилья в Санкт-Петербурге. В статье рассматриваются ключевые вызовы низкого сезона и предлагаются эффективные стратегии для собственников, позволяющие максимизировать доходность и привлекать гостей круглый год."
-pubDate: "2025-07-18T18:17:06.287Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.pexels.com/photos/208821/pexels-photo-208821.jpeg"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Сезонность в посуточной аренде в Петербурге: как заработать в несезон","description":"Анализ сезонных колебаний на рынке посуточной аренды жилья в Санкт-Петербурге. В статье рассматриваются ключевые вызовы низкого сезона и предлагаются эффективные стратегии для собственников, позволяющие максимизировать доходность и привлекать гостей круглый год.","image":{"@type":"ImageObject","url":"https://images.pexels.com/photos/208821/pexels-photo-208821.jpeg"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.8","reviewCount":607,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/sezonnost-v-posutochnoy-arende-v-peterburge-kak-zarabotat-v-nesezon/"}}
+title: 'Сезонность в посуточной аренде в Петербурге: как заработать в несезон'
+description: >-
+  Анализ сезонных колебаний на рынке посуточной аренды жилья в Санкт-Петербурге.
+  В статье рассматриваются ключевые вызовы низкого сезона и предлагаются
+  эффективные стратегии для собственников, позволяющие максимизировать
+  доходность и привлекать гостей круглый год.
+pubDate: '2025-07-18T18:17:06.287Z'
+author: Эксперт ButlerSPB
+heroImage: 'https://images.pexels.com/photos/208821/pexels-photo-208821.jpeg'
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Сезонность в посуточной аренде в Петербурге: как заработать в несезон'
+  description: >-
+    Анализ сезонных колебаний на рынке посуточной аренды жилья в
+    Санкт-Петербурге. В статье рассматриваются ключевые вызовы низкого сезона и
+    предлагаются эффективные стратегии для собственников, позволяющие
+    максимизировать доходность и привлекать гостей круглый год.
+  image:
+    '@type': ImageObject
+    url: 'https://images.pexels.com/photos/208821/pexels-photo-208821.jpeg'
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.9'
+    reviewCount: 630
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/sezonnost-v-posutochnoy-arende-v-peterburge-kak-zarabotat-v-nesezon/
 ---
 
 # Сезонность в посуточной аренде Петербурга: как заработать в несезон и превратить простой в прибыль

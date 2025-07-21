@@ -1,10 +1,43 @@
 ---
-title: "Управляющая компания недвижимостью в СПб: Полное руководство от ButlerSPB"
-description: "Ищете надежную управляющую компанию в Санкт-Петербурге? В этой статье от ButlerSPB мы разбираем ключевые услуги, критерии выбора и преимущества профессионального управления недвижимостью. Узнайте, как сэкономить время и максимизировать доход от ваших апартаментов в Северной столице."
-pubDate: "2025-07-21T16:16:07.244Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.pexels.com/photos/10173539/pexels-photo-10173539.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Управляющая компания недвижимостью в СПб: Полное руководство от ButlerSPB","description":"Ищете надежную управляющую компанию в Санкт-Петербурге? В этой статье от ButlerSPB мы разбираем ключевые услуги, критерии выбора и преимущества профессионального управления недвижимостью. Узнайте, как сэкономить время и максимизировать доход от ваших апартаментов в Северной столице.","image":{"@type":"ImageObject","url":"https://images.pexels.com/photos/10173539/pexels-photo-10173539.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"5.0","reviewCount":669,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/upravlyayuschaya-kompaniya-nedvizhimostyu-v-spb/"}}
+title: 'Управляющая компания недвижимостью в СПб: Полное руководство от ButlerSPB'
+description: >-
+  Ищете надежную управляющую компанию в Санкт-Петербурге? В этой статье от
+  ButlerSPB мы разбираем ключевые услуги, критерии выбора и преимущества
+  профессионального управления недвижимостью. Узнайте, как сэкономить время и
+  максимизировать доход от ваших апартаментов в Северной столице.
+pubDate: '2025-07-21T16:16:07.244Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.pexels.com/photos/10173539/pexels-photo-10173539.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Управляющая компания недвижимостью в СПб: Полное руководство от ButlerSPB'
+  description: >-
+    Ищете надежную управляющую компанию в Санкт-Петербурге? В этой статье от
+    ButlerSPB мы разбираем ключевые услуги, критерии выбора и преимущества
+    профессионального управления недвижимостью. Узнайте, как сэкономить время и
+    максимизировать доход от ваших апартаментов в Северной столице.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.pexels.com/photos/10173539/pexels-photo-10173539.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.9'
+    reviewCount: 463
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/upravlyayuschaya-kompaniya-nedvizhimostyu-v-spb/
 ---
 
 # Управляющая компания недвижимостью в СПБ: Как получать стабильный доход от квартиры без лишних хлопот. Полное руководство от ButlerSPB

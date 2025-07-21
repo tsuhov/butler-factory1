@@ -1,10 +1,41 @@
 ---
-title: "Как отзывы влияют на рейтинг и бронирования"
-description: "Подробный разбор того, как обратная связь от гостей напрямую влияет на позицию вашего объекта в поиске, его рейтинг и, как следствие, количество бронирований. Узнайте, почему работа с отзывами — ключ к успеху в гостиничном бизнесе."
-pubDate: "2025-07-19T13:49:36.055Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.pexels.com/photos/7176318/pexels-photo-7176318.jpeg"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Как отзывы влияют на рейтинг и бронирования","description":"Подробный разбор того, как обратная связь от гостей напрямую влияет на позицию вашего объекта в поиске, его рейтинг и, как следствие, количество бронирований. Узнайте, почему работа с отзывами — ключ к успеху в гостиничном бизнесе.","image":{"@type":"ImageObject","url":"https://images.pexels.com/photos/7176318/pexels-photo-7176318.jpeg"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.8","reviewCount":702,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/kak-otzyvy-vliyayut-na-reyting-i-bronirovaniya/"}}
+title: Как отзывы влияют на рейтинг и бронирования
+description: >-
+  Подробный разбор того, как обратная связь от гостей напрямую влияет на позицию
+  вашего объекта в поиске, его рейтинг и, как следствие, количество
+  бронирований. Узнайте, почему работа с отзывами — ключ к успеху в гостиничном
+  бизнесе.
+pubDate: '2025-07-19T13:49:36.055Z'
+author: Эксперт ButlerSPB
+heroImage: 'https://images.pexels.com/photos/7176318/pexels-photo-7176318.jpeg'
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: Как отзывы влияют на рейтинг и бронирования
+  description: >-
+    Подробный разбор того, как обратная связь от гостей напрямую влияет на
+    позицию вашего объекта в поиске, его рейтинг и, как следствие, количество
+    бронирований. Узнайте, почему работа с отзывами — ключ к успеху в
+    гостиничном бизнесе.
+  image:
+    '@type': ImageObject
+    url: 'https://images.pexels.com/photos/7176318/pexels-photo-7176318.jpeg'
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.9'
+    reviewCount: 504
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/kak-otzyvy-vliyayut-na-reyting-i-bronirovaniya/
 ---
 
 # Как отзывы влияют на рейтинг и бронирования: Полное руководство для отельеров и владельцев арендного жилья

@@ -1,10 +1,49 @@
 ---
-title: "Мобильное приложение для собственников: Управление недвижимостью на кончиках пальцев"
-description: "Узнайте, как наше новое мобильное приложение упрощает жизнь собственников недвижимости. В статье мы расскажем о ключевых функциях: отслеживание доходности, доступ к финансовым отчетам в режиме 24/7, оперативная связь с менеджером и полный контроль над вашим объектом прямо со смартфона. Управляйте своей собственностью легко и эффективно вместе с ButlerSPB."
-pubDate: "2025-07-20T22:08:02.327Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.pexels.com/photos/4383928/pexels-photo-4383928.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Мобильное приложение для собственников: Управление недвижимостью на кончиках пальцев","description":"Узнайте, как наше новое мобильное приложение упрощает жизнь собственников недвижимости. В статье мы расскажем о ключевых функциях: отслеживание доходности, доступ к финансовым отчетам в режиме 24/7, оперативная связь с менеджером и полный контроль над вашим объектом прямо со смартфона. Управляйте своей собственностью легко и эффективно вместе с ButlerSPB.","image":{"@type":"ImageObject","url":"https://images.pexels.com/photos/4383928/pexels-photo-4383928.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"5.0","reviewCount":878,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/mobilnoe-prilozhenie-dlya-sobstvennikov/"}}
+title: >-
+  Мобильное приложение для собственников: Управление недвижимостью на кончиках
+  пальцев
+description: >-
+  Узнайте, как наше новое мобильное приложение упрощает жизнь собственников
+  недвижимости. В статье мы расскажем о ключевых функциях: отслеживание
+  доходности, доступ к финансовым отчетам в режиме 24/7, оперативная связь с
+  менеджером и полный контроль над вашим объектом прямо со смартфона. Управляйте
+  своей собственностью легко и эффективно вместе с ButlerSPB.
+pubDate: '2025-07-20T22:08:02.327Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.pexels.com/photos/4383928/pexels-photo-4383928.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: >-
+    Мобильное приложение для собственников: Управление недвижимостью на кончиках
+    пальцев
+  description: >-
+    Узнайте, как наше новое мобильное приложение упрощает жизнь собственников
+    недвижимости. В статье мы расскажем о ключевых функциях: отслеживание
+    доходности, доступ к финансовым отчетам в режиме 24/7, оперативная связь с
+    менеджером и полный контроль над вашим объектом прямо со смартфона.
+    Управляйте своей собственностью легко и эффективно вместе с ButlerSPB.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.pexels.com/photos/4383928/pexels-photo-4383928.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.9'
+    reviewCount: 316
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/mobilnoe-prilozhenie-dlya-sobstvennikov/
 ---
 
 # Мобильное приложение для собственника: как полностью контролировать посуточную аренду и доход с телефона

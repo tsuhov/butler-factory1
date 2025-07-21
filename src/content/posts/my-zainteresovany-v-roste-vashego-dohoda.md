@@ -1,10 +1,39 @@
 ---
-title: "Мы заинтересованы в росте вашего дохода"
-description: "В блоге ButlerSPB мы делимся проверенными стратегиями и инструментами, которые помогут вам увеличить прибыль. Узнайте, как наши решения и экспертный подход способствуют вашему финансовому росту и благополучию."
-pubDate: "2025-07-21T00:31:43.468Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.pexels.com/photos/6801642/pexels-photo-6801642.jpeg"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Мы заинтересованы в росте вашего дохода","description":"В блоге ButlerSPB мы делимся проверенными стратегиями и инструментами, которые помогут вам увеличить прибыль. Узнайте, как наши решения и экспертный подход способствуют вашему финансовому росту и благополучию.","image":{"@type":"ImageObject","url":"https://images.pexels.com/photos/6801642/pexels-photo-6801642.jpeg"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":707,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/my-zainteresovany-v-roste-vashego-dohoda/"}}
+title: Мы заинтересованы в росте вашего дохода
+description: >-
+  В блоге ButlerSPB мы делимся проверенными стратегиями и инструментами, которые
+  помогут вам увеличить прибыль. Узнайте, как наши решения и экспертный подход
+  способствуют вашему финансовому росту и благополучию.
+pubDate: '2025-07-21T00:31:43.468Z'
+author: Эксперт ButlerSPB
+heroImage: 'https://images.pexels.com/photos/6801642/pexels-photo-6801642.jpeg'
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: Мы заинтересованы в росте вашего дохода
+  description: >-
+    В блоге ButlerSPB мы делимся проверенными стратегиями и инструментами,
+    которые помогут вам увеличить прибыль. Узнайте, как наши решения и
+    экспертный подход способствуют вашему финансовому росту и благополучию.
+  image:
+    '@type': ImageObject
+    url: 'https://images.pexels.com/photos/6801642/pexels-photo-6801642.jpeg'
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.8'
+    reviewCount: 525
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/my-zainteresovany-v-roste-vashego-dohoda/
 ---
 
 # Мы заинтересованы в росте вашего дохода: Как ButlerSPB максимизирует прибыль от вашей квартиры в Петербурге

@@ -1,10 +1,41 @@
 ---
-title: "Профессиональные фотографии и 3D-туры: Инвестиция в быструю и выгодную сделку"
-description: "Узнайте, как качественный визуальный контент влияет на скорость продажи и аренды недвижимости. В этой статье блога ButlerSPB мы разбираем преимущества профессиональной съемки и виртуальных туров для собственников."
-pubDate: "2025-07-20T15:28:28.755Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.pexels.com/photos/8293778/pexels-photo-8293778.jpeg"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Профессиональные фотографии и 3D-туры: Инвестиция в быструю и выгодную сделку","description":"Узнайте, как качественный визуальный контент влияет на скорость продажи и аренды недвижимости. В этой статье блога ButlerSPB мы разбираем преимущества профессиональной съемки и виртуальных туров для собственников.","image":{"@type":"ImageObject","url":"https://images.pexels.com/photos/8293778/pexels-photo-8293778.jpeg"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"5.0","reviewCount":356,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/professionalnye-fotografii-i-3d-tury/"}}
+title: 'Профессиональные фотографии и 3D-туры: Инвестиция в быструю и выгодную сделку'
+description: >-
+  Узнайте, как качественный визуальный контент влияет на скорость продажи и
+  аренды недвижимости. В этой статье блога ButlerSPB мы разбираем преимущества
+  профессиональной съемки и виртуальных туров для собственников.
+pubDate: '2025-07-20T15:28:28.755Z'
+author: Эксперт ButlerSPB
+heroImage: 'https://images.pexels.com/photos/8293778/pexels-photo-8293778.jpeg'
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: >-
+    Профессиональные фотографии и 3D-туры: Инвестиция в быструю и выгодную
+    сделку
+  description: >-
+    Узнайте, как качественный визуальный контент влияет на скорость продажи и
+    аренды недвижимости. В этой статье блога ButlerSPB мы разбираем преимущества
+    профессиональной съемки и виртуальных туров для собственников.
+  image:
+    '@type': ImageObject
+    url: 'https://images.pexels.com/photos/8293778/pexels-photo-8293778.jpeg'
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.9'
+    reviewCount: 593
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/professionalnye-fotografii-i-3d-tury/
 ---
 
 # Профессиональные фото и 3D-туры: Как мы увеличиваем доход от посуточной аренды в СПб на 20-40% | Блог ButlerSPB

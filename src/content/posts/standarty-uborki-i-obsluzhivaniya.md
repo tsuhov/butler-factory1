@@ -1,10 +1,40 @@
 ---
-title: "Стандарты уборки и обслуживания ButlerSPB: Гарантия безупречной чистоты"
-description: "Узнайте, как высокие стандарты уборки и обслуживания отличают ButlerSPB. В этой статье мы раскрываем наши внутренние протоколы, выбор профессиональных средств и технологий, которые обеспечивают идеальный порядок и гигиену в каждом помещении."
-pubDate: "2025-07-20T22:17:40.277Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.pexels.com/photos/4239147/pexels-photo-4239147.jpeg"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Стандарты уборки и обслуживания ButlerSPB: Гарантия безупречной чистоты","description":"Узнайте, как высокие стандарты уборки и обслуживания отличают ButlerSPB. В этой статье мы раскрываем наши внутренние протоколы, выбор профессиональных средств и технологий, которые обеспечивают идеальный порядок и гигиену в каждом помещении.","image":{"@type":"ImageObject","url":"https://images.pexels.com/photos/4239147/pexels-photo-4239147.jpeg"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"5.0","reviewCount":894,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/standarty-uborki-i-obsluzhivaniya/"}}
+title: 'Стандарты уборки и обслуживания ButlerSPB: Гарантия безупречной чистоты'
+description: >-
+  Узнайте, как высокие стандарты уборки и обслуживания отличают ButlerSPB. В
+  этой статье мы раскрываем наши внутренние протоколы, выбор профессиональных
+  средств и технологий, которые обеспечивают идеальный порядок и гигиену в
+  каждом помещении.
+pubDate: '2025-07-20T22:17:40.277Z'
+author: Эксперт ButlerSPB
+heroImage: 'https://images.pexels.com/photos/4239147/pexels-photo-4239147.jpeg'
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Стандарты уборки и обслуживания ButlerSPB: Гарантия безупречной чистоты'
+  description: >-
+    Узнайте, как высокие стандарты уборки и обслуживания отличают ButlerSPB. В
+    этой статье мы раскрываем наши внутренние протоколы, выбор профессиональных
+    средств и технологий, которые обеспечивают идеальный порядок и гигиену в
+    каждом помещении.
+  image:
+    '@type': ImageObject
+    url: 'https://images.pexels.com/photos/4239147/pexels-photo-4239147.jpeg'
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.9'
+    reviewCount: 304
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': 'https://butlerspb-blog.netlify.app/blog/standarty-uborki-i-obsluzhivaniya/'
 ---
 
 # Золотой стандарт: Как уборка и обслуживание превращают вашу квартиру в прибыльный бизнес

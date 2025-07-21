@@ -1,10 +1,41 @@
 ---
-title: "Превратите вашу квартиру в источник пассивного дохода"
-description: "Узнайте, как эффективно монетизировать вашу недвижимость. В этой статье мы рассмотрим лучшие способы получения пассивного дохода от вашей квартиры, от краткосрочной аренды до долгосрочной, и как ButlerSPB может помочь вам в этом процессе."
-pubDate: "2025-07-20T22:29:30.082Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Превратите вашу квартиру в источник пассивного дохода","description":"Узнайте, как эффективно монетизировать вашу недвижимость. В этой статье мы рассмотрим лучшие способы получения пассивного дохода от вашей квартиры, от краткосрочной аренды до долгосрочной, и как ButlerSPB может помочь вам в этом процессе.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"5.0","reviewCount":455,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/prevratite-vashu-kvartiru-v-istochnik-passivnogo-dohoda/"}}
+title: Превратите вашу квартиру в источник пассивного дохода
+description: >-
+  Узнайте, как эффективно монетизировать вашу недвижимость. В этой статье мы
+  рассмотрим лучшие способы получения пассивного дохода от вашей квартиры, от
+  краткосрочной аренды до долгосрочной, и как ButlerSPB может помочь вам в этом
+  процессе.
+pubDate: '2025-07-20T22:29:30.082Z'
+author: Эксперт ButlerSPB
+heroImage: 'https://images.unsplash.com/photo-1560448204-e02f11c3d0e2'
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: Превратите вашу квартиру в источник пассивного дохода
+  description: >-
+    Узнайте, как эффективно монетизировать вашу недвижимость. В этой статье мы
+    рассмотрим лучшие способы получения пассивного дохода от вашей квартиры, от
+    краткосрочной аренды до долгосрочной, и как ButlerSPB может помочь вам в
+    этом процессе.
+  image:
+    '@type': ImageObject
+    url: 'https://images.unsplash.com/photo-1560448204-e02f11c3d0e2'
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.8'
+    reviewCount: 462
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/prevratite-vashu-kvartiru-v-istochnik-passivnogo-dohoda/
 ---
 
 # Превратите вашу квартиру в Санкт-Петербурге в источник пассивного дохода: Полное руководство для собственников

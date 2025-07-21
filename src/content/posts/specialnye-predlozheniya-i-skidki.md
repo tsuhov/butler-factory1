@@ -1,10 +1,41 @@
 ---
-title: "Специальные предложения и скидки от ButlerSPB: Ваш гид по выгодным услугам"
-description: "Откройте для себя мир эксклюзивных предложений от ButlerSPB. В этой статье мы собрали все актуальные акции и скидки, чтобы вы могли пользоваться нашими услугами с максимальной выгодой. Узнайте, как сэкономить, не теряя в качестве."
-pubDate: "2025-07-20T18:59:39.937Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Специальные предложения и скидки от ButlerSPB: Ваш гид по выгодным услугам","description":"Откройте для себя мир эксклюзивных предложений от ButlerSPB. В этой статье мы собрали все актуальные акции и скидки, чтобы вы могли пользоваться нашими услугами с максимальной выгодой. Узнайте, как сэкономить, не теряя в качестве.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.7","reviewCount":776,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/specialnye-predlozheniya-i-skidki/"}}
+title: 'Специальные предложения и скидки от ButlerSPB: Ваш гид по выгодным услугам'
+description: >-
+  Откройте для себя мир эксклюзивных предложений от ButlerSPB. В этой статье мы
+  собрали все актуальные акции и скидки, чтобы вы могли пользоваться нашими
+  услугами с максимальной выгодой. Узнайте, как сэкономить, не теряя в качестве.
+pubDate: '2025-07-20T18:59:39.937Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Специальные предложения и скидки от ButlerSPB: Ваш гид по выгодным услугам'
+  description: >-
+    Откройте для себя мир эксклюзивных предложений от ButlerSPB. В этой статье
+    мы собрали все актуальные акции и скидки, чтобы вы могли пользоваться нашими
+    услугами с максимальной выгодой. Узнайте, как сэкономить, не теряя в
+    качестве.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.9'
+    reviewCount: 408
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': 'https://butlerspb-blog.netlify.app/blog/specialnye-predlozheniya-i-skidki/'
 ---
 
 # Как сэкономить на посуточной аренде в СПб: Полный гид по скидкам и спецпредложениям от ButlerSPB

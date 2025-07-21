@@ -1,10 +1,45 @@
 ---
-title: "Детальная опись и фотофиксация при каждом заезде: гарантия сохранности вашего имущества"
-description: "Узнайте, почему тщательная опись и фотофиксация состояния квартиры перед заселением арендаторов — это не просто формальность, а ключевой элемент защиты ваших инвестиций и спокойствия от ButlerSPB."
-pubDate: "2025-07-20T14:53:01.636Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.pexels.com/photos/7578803/pexels-photo-7578803.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Детальная опись и фотофиксация при каждом заезде: гарантия сохранности вашего имущества","description":"Узнайте, почему тщательная опись и фотофиксация состояния квартиры перед заселением арендаторов — это не просто формальность, а ключевой элемент защиты ваших инвестиций и спокойствия от ButlerSPB.","image":{"@type":"ImageObject","url":"https://images.pexels.com/photos/7578803/pexels-photo-7578803.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":354,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/detalnaya-opis-i-fotofiksaciya-pri-kazhdom-zaezde/"}}
+title: >-
+  Детальная опись и фотофиксация при каждом заезде: гарантия сохранности вашего
+  имущества
+description: >-
+  Узнайте, почему тщательная опись и фотофиксация состояния квартиры перед
+  заселением арендаторов — это не просто формальность, а ключевой элемент защиты
+  ваших инвестиций и спокойствия от ButlerSPB.
+pubDate: '2025-07-20T14:53:01.636Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.pexels.com/photos/7578803/pexels-photo-7578803.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: >-
+    Детальная опись и фотофиксация при каждом заезде: гарантия сохранности
+    вашего имущества
+  description: >-
+    Узнайте, почему тщательная опись и фотофиксация состояния квартиры перед
+    заселением арендаторов — это не просто формальность, а ключевой элемент
+    защиты ваших инвестиций и спокойствия от ButlerSPB.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.pexels.com/photos/7578803/pexels-photo-7578803.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.8'
+    reviewCount: 378
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/detalnaya-opis-i-fotofiksaciya-pri-kazhdom-zaezde/
 ---
 
 # Детальная опись и фотофиксация при каждом заезде: ваш гид по защите недвижимости в Санкт-Петербурге

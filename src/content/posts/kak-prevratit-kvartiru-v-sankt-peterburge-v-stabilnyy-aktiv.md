@@ -1,10 +1,41 @@
 ---
-title: "Как превратить квартиру в Санкт-Петербурге в стабильный актив"
-description: "Подробное руководство от ButlerSPB: анализируем стратегии инвестирования в недвижимость Санкт-Петербурга, от долгосрочной аренды до посуточной сдачи, и рассказываем, как максимизировать доходность и минимизировать риски."
-pubDate: "2025-07-20T14:28:35.380Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.pexels.com/photos/2087387/pexels-photo-2087387.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Как превратить квартиру в Санкт-Петербурге в стабильный актив","description":"Подробное руководство от ButlerSPB: анализируем стратегии инвестирования в недвижимость Санкт-Петербурга, от долгосрочной аренды до посуточной сдачи, и рассказываем, как максимизировать доходность и минимизировать риски.","image":{"@type":"ImageObject","url":"https://images.pexels.com/photos/2087387/pexels-photo-2087387.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":745,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/kak-prevratit-kvartiru-v-sankt-peterburge-v-stabilnyy-aktiv/"}}
+title: Как превратить квартиру в Санкт-Петербурге в стабильный актив
+description: >-
+  Подробное руководство от ButlerSPB: анализируем стратегии инвестирования в
+  недвижимость Санкт-Петербурга, от долгосрочной аренды до посуточной сдачи, и
+  рассказываем, как максимизировать доходность и минимизировать риски.
+pubDate: '2025-07-20T14:28:35.380Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.pexels.com/photos/2087387/pexels-photo-2087387.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: Как превратить квартиру в Санкт-Петербурге в стабильный актив
+  description: >-
+    Подробное руководство от ButlerSPB: анализируем стратегии инвестирования в
+    недвижимость Санкт-Петербурга, от долгосрочной аренды до посуточной сдачи, и
+    рассказываем, как максимизировать доходность и минимизировать риски.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.pexels.com/photos/2087387/pexels-photo-2087387.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.8'
+    reviewCount: 541
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/kak-prevratit-kvartiru-v-sankt-peterburge-v-stabilnyy-aktiv/
 ---
 
 # Как превратить квартиру в Санкт-Петербурге в стабильный актив

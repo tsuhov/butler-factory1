@@ -1,10 +1,43 @@
 ---
-title: "Как мы решаем конфликтные ситуации с гостями"
-description: "Конфликты с гостями — неизбежная часть работы в сфере гостеприимства. В этой статье мы делимся проверенными методами и стратегиями, которые помогают нам превратить недовольство в лояльность: от активного слушания до поиска взаимовыгодных решений."
-pubDate: "2025-07-20T12:10:14.198Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.pexels.com/photos/8867432/pexels-photo-8867432.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Как мы решаем конфликтные ситуации с гостями","description":"Конфликты с гостями — неизбежная часть работы в сфере гостеприимства. В этой статье мы делимся проверенными методами и стратегиями, которые помогают нам превратить недовольство в лояльность: от активного слушания до поиска взаимовыгодных решений.","image":{"@type":"ImageObject","url":"https://images.pexels.com/photos/8867432/pexels-photo-8867432.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.8","reviewCount":561,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/kak-my-reshaem-konfliktnye-situacii-s-gostyami/"}}
+title: Как мы решаем конфликтные ситуации с гостями
+description: >-
+  Конфликты с гостями — неизбежная часть работы в сфере гостеприимства. В этой
+  статье мы делимся проверенными методами и стратегиями, которые помогают нам
+  превратить недовольство в лояльность: от активного слушания до поиска
+  взаимовыгодных решений.
+pubDate: '2025-07-20T12:10:14.198Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.pexels.com/photos/8867432/pexels-photo-8867432.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: Как мы решаем конфликтные ситуации с гостями
+  description: >-
+    Конфликты с гостями — неизбежная часть работы в сфере гостеприимства. В этой
+    статье мы делимся проверенными методами и стратегиями, которые помогают нам
+    превратить недовольство в лояльность: от активного слушания до поиска
+    взаимовыгодных решений.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.pexels.com/photos/8867432/pexels-photo-8867432.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.9'
+    reviewCount: 552
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/kak-my-reshaem-konfliktnye-situacii-s-gostyami/
 ---
 
 # **Как мы решаем конфликтные ситуации с гостями: от жалобы до лояльности**

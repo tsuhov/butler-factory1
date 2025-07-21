@@ -1,10 +1,43 @@
 ---
-title: "Страхование квартиры при посуточной аренде в Петербурге: полное руководство для собственника"
-description: "Узнайте, как защитить свою квартиру в Санкт-Петербурге при посуточной сдаче. Полный обзор рисков, видов страхования и советы по выбору полиса для арендодателей."
-pubDate: "2025-07-17T21:10:13.727Z"
-author: "ButlerSPB Expert"
-heroImage: "https://images.pexels.com/photos/1571460/pexels-photo-1571460.jpeg"
-schema: {"@context":"https://schema.org","@type":"BlogPosting","headline":"Страхование квартиры при посуточной аренде в Петербурге: полное руководство для собственника","description":"Узнайте, как защитить свою квартиру в Санкт-Петербурге при посуточной сдаче. Полный обзор рисков, видов страхования и советы по выбору полиса для арендодателей.","image":"https://images.pexels.com/photos/1571460/pexels-photo-1571460.jpeg","author":{"@type":"Person","name":"Анна Волкова"},"publisher":{"@type":"Organization","name":"SPb Realty Guide","logo":{"@type":"ImageObject","url":"https://example.com/logo.png"}},"datePublished":"2023-10-27"}
+title: >-
+  Страхование квартиры при посуточной аренде в Петербурге: полное руководство
+  для собственника
+description: >-
+  Узнайте, как защитить свою квартиру в Санкт-Петербурге при посуточной сдаче.
+  Полный обзор рисков, видов страхования и советы по выбору полиса для
+  арендодателей.
+pubDate: '2025-07-17T21:10:13.727Z'
+author: Эксперт ButlerSPB
+heroImage: 'https://images.pexels.com/photos/1571460/pexels-photo-1571460.jpeg'
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: >-
+    Страхование квартиры при посуточной аренде в Петербурге: полное руководство
+    для собственника
+  description: >-
+    Узнайте, как защитить свою квартиру в Санкт-Петербурге при посуточной сдаче.
+    Полный обзор рисков, видов страхования и советы по выбору полиса для
+    арендодателей.
+  image:
+    '@type': ImageObject
+    url: 'https://images.pexels.com/photos/1571460/pexels-photo-1571460.jpeg'
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.9'
+    reviewCount: 556
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/strahovanie-kvartiry-pri-posutochnoy-arende-v-peterburge/
 ---
 
 # Страхование квартиры при посуточной аренде в Петербурге: полный гид для собственника

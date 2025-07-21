@@ -1,10 +1,41 @@
 ---
-title: "Вы получаете только прибыль и спокойствие"
-description: "Забудьте о поиске арендаторов, решении бытовых проблем и бумажной волоките. Команда ButlerSPB берет на себя полное управление вашей недвижимостью, гарантируя вам стабильный доход и освобождая ваше время для самого важного. Ваша инвестиция работает, вы — отдыхаете."
-pubDate: "2025-07-20T22:54:40.012Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.pexels.com/photos/6434622/pexels-photo-6434622.jpeg"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Вы получаете только прибыль и спокойствие","description":"Забудьте о поиске арендаторов, решении бытовых проблем и бумажной волоките. Команда ButlerSPB берет на себя полное управление вашей недвижимостью, гарантируя вам стабильный доход и освобождая ваше время для самого важного. Ваша инвестиция работает, вы — отдыхаете.","image":{"@type":"ImageObject","url":"https://images.pexels.com/photos/6434622/pexels-photo-6434622.jpeg"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.8","reviewCount":441,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/vy-poluchaete-tolko-pribyl-i-spokoystvie/"}}
+title: Вы получаете только прибыль и спокойствие
+description: >-
+  Забудьте о поиске арендаторов, решении бытовых проблем и бумажной волоките.
+  Команда ButlerSPB берет на себя полное управление вашей недвижимостью,
+  гарантируя вам стабильный доход и освобождая ваше время для самого важного.
+  Ваша инвестиция работает, вы — отдыхаете.
+pubDate: '2025-07-20T22:54:40.012Z'
+author: Эксперт ButlerSPB
+heroImage: 'https://images.pexels.com/photos/6434622/pexels-photo-6434622.jpeg'
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: Вы получаете только прибыль и спокойствие
+  description: >-
+    Забудьте о поиске арендаторов, решении бытовых проблем и бумажной волоките.
+    Команда ButlerSPB берет на себя полное управление вашей недвижимостью,
+    гарантируя вам стабильный доход и освобождая ваше время для самого важного.
+    Ваша инвестиция работает, вы — отдыхаете.
+  image:
+    '@type': ImageObject
+    url: 'https://images.pexels.com/photos/6434622/pexels-photo-6434622.jpeg'
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.8'
+    reviewCount: 796
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/vy-poluchaete-tolko-pribyl-i-spokoystvie/
 ---
 
 # Вы получаете только прибыль и спокойствие: Как сдать квартиру в Санкт-Петербурге и забыть о хлопотах

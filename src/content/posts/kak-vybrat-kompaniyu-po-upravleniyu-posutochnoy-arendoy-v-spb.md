@@ -1,10 +1,41 @@
 ---
-title: "Как выбрать компанию по управлению посуточной арендой в СПБ"
-description: "Полное руководство для собственников недвижимости в Санкт-Петербурге. Рассматриваем ключевые критерии: от размера комиссии и набора услуг до юридических аспектов и отзывов."
-pubDate: "2025-07-18T17:55:46.438Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.pexels.com/photos/2087387/pexels-photo-2087387.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Как выбрать компанию по управлению посуточной арендой в СПБ","description":"Полное руководство для собственников недвижимости в Санкт-Петербурге. Рассматриваем ключевые критерии: от размера комиссии и набора услуг до юридических аспектов и отзывов.","image":{"@type":"ImageObject","url":"https://images.pexels.com/photos/2087387/pexels-photo-2087387.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.8","reviewCount":416,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/kak-vybrat-kompaniyu-po-upravleniyu-posutochnoy-arendoy-v-spb/"}}
+title: Как выбрать компанию по управлению посуточной арендой в СПБ
+description: >-
+  Полное руководство для собственников недвижимости в Санкт-Петербурге.
+  Рассматриваем ключевые критерии: от размера комиссии и набора услуг до
+  юридических аспектов и отзывов.
+pubDate: '2025-07-18T17:55:46.438Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.pexels.com/photos/2087387/pexels-photo-2087387.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: Как выбрать компанию по управлению посуточной арендой в СПБ
+  description: >-
+    Полное руководство для собственников недвижимости в Санкт-Петербурге.
+    Рассматриваем ключевые критерии: от размера комиссии и набора услуг до
+    юридических аспектов и отзывов.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.pexels.com/photos/2087387/pexels-photo-2087387.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.9'
+    reviewCount: 794
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/kak-vybrat-kompaniyu-po-upravleniyu-posutochnoy-arendoy-v-spb/
 ---
 
 # Как выбрать компанию по управлению посуточной арендой в СПб: Полное руководство для собственника

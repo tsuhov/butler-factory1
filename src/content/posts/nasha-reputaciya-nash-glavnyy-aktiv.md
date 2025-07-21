@@ -1,10 +1,41 @@
 ---
-title: "Наша репутация — наш главный актив"
-description: "В ButlerSPB мы убеждены, что доверие клиентов — это основа успешного бизнеса. Узнайте, как мы ежедневно работаем над созданием безупречной репутации и почему считаем ее самым ценным капиталом нашей компании."
-pubDate: "2025-07-20T23:00:37.347Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.pexels.com/photos/3184465/pexels-photo-3184465.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Наша репутация — наш главный актив","description":"В ButlerSPB мы убеждены, что доверие клиентов — это основа успешного бизнеса. Узнайте, как мы ежедневно работаем над созданием безупречной репутации и почему считаем ее самым ценным капиталом нашей компании.","image":{"@type":"ImageObject","url":"https://images.pexels.com/photos/3184465/pexels-photo-3184465.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.7","reviewCount":791,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/nasha-reputaciya-nash-glavnyy-aktiv/"}}
+title: Наша репутация — наш главный актив
+description: >-
+  В ButlerSPB мы убеждены, что доверие клиентов — это основа успешного бизнеса.
+  Узнайте, как мы ежедневно работаем над созданием безупречной репутации и
+  почему считаем ее самым ценным капиталом нашей компании.
+pubDate: '2025-07-20T23:00:37.347Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.pexels.com/photos/3184465/pexels-photo-3184465.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: Наша репутация — наш главный актив
+  description: >-
+    В ButlerSPB мы убеждены, что доверие клиентов — это основа успешного
+    бизнеса. Узнайте, как мы ежедневно работаем над созданием безупречной
+    репутации и почему считаем ее самым ценным капиталом нашей компании.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.pexels.com/photos/3184465/pexels-photo-3184465.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.9'
+    reviewCount: 472
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/nasha-reputaciya-nash-glavnyy-aktiv/
 ---
 
 # Ваша репутация — наш главный актив: как мы превращаем отзывы гостей в вашу прибыль

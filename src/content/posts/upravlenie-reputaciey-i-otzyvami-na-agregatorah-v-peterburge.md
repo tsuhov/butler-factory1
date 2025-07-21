@@ -1,10 +1,47 @@
 ---
-title: "Управление репутацией и отзывами на агрегаторах в Петербурге: полное руководство"
-description: "Как бизнесу в Санкт-Петербурге эффективно работать с отзывами на Яндекс.Картах, 2ГИС, Zoon и других площадках. Разбираем стратегии реагирования на негатив, способы получения положительных оценок и инструменты для автоматизации."
-pubDate: "2025-07-18T20:07:51.544Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.pexels.com/photos/1577196/pexels-photo-1577196.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Управление репутацией и отзывами на агрегаторах в Петербурге: полное руководство","description":"Как бизнесу в Санкт-Петербурге эффективно работать с отзывами на Яндекс.Картах, 2ГИС, Zoon и других площадках. Разбираем стратегии реагирования на негатив, способы получения положительных оценок и инструменты для автоматизации.","image":{"@type":"ImageObject","url":"https://images.pexels.com/photos/1577196/pexels-photo-1577196.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":541,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/upravlenie-reputaciey-i-otzyvami-na-agregatorah-v-peterburge/"}}
+title: >-
+  Управление репутацией и отзывами на агрегаторах в Петербурге: полное
+  руководство
+description: >-
+  Как бизнесу в Санкт-Петербурге эффективно работать с отзывами на
+  Яндекс.Картах, 2ГИС, Zoon и других площадках. Разбираем стратегии реагирования
+  на негатив, способы получения положительных оценок и инструменты для
+  автоматизации.
+pubDate: '2025-07-18T20:07:51.544Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.pexels.com/photos/1577196/pexels-photo-1577196.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: >-
+    Управление репутацией и отзывами на агрегаторах в Петербурге: полное
+    руководство
+  description: >-
+    Как бизнесу в Санкт-Петербурге эффективно работать с отзывами на
+    Яндекс.Картах, 2ГИС, Zoon и других площадках. Разбираем стратегии
+    реагирования на негатив, способы получения положительных оценок и
+    инструменты для автоматизации.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.pexels.com/photos/1577196/pexels-photo-1577196.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.9'
+    reviewCount: 418
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/upravlenie-reputaciey-i-otzyvami-na-agregatorah-v-peterburge/
 ---
 
 # SERM для бизнеса в СПб: Как управлять отзывами на Яндекс Картах, 2ГИС и других площадках

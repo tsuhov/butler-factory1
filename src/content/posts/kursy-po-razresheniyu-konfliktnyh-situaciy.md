@@ -1,10 +1,43 @@
 ---
-title: "Курсы по разрешению конфликтов: как превратить спор в точку роста"
-description: "Конфликты — неизбежная часть работы и личной жизни. Неумение их решать приводит к стрессу, снижению продуктивности и разрыву отношений. Специализированные курсы учат техникам медиации, активного слушания и ведения переговоров. В этой статье от ButlerSPB мы разберем, почему навыки конфликтологии так важны сегодня и как выбрать подходящий курс."
-pubDate: "2025-07-20T22:19:50.739Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.pexels.com/photos/3184292/pexels-photo-3184292.jpeg"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Курсы по разрешению конфликтов: как превратить спор в точку роста","description":"Конфликты — неизбежная часть работы и личной жизни. Неумение их решать приводит к стрессу, снижению продуктивности и разрыву отношений. Специализированные курсы учат техникам медиации, активного слушания и ведения переговоров. В этой статье от ButlerSPB мы разберем, почему навыки конфликтологии так важны сегодня и как выбрать подходящий курс.","image":{"@type":"ImageObject","url":"https://images.pexels.com/photos/3184292/pexels-photo-3184292.jpeg"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.7","reviewCount":563,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/kursy-po-razresheniyu-konfliktnyh-situaciy/"}}
+title: 'Курсы по разрешению конфликтов: как превратить спор в точку роста'
+description: >-
+  Конфликты — неизбежная часть работы и личной жизни. Неумение их решать
+  приводит к стрессу, снижению продуктивности и разрыву отношений.
+  Специализированные курсы учат техникам медиации, активного слушания и ведения
+  переговоров. В этой статье от ButlerSPB мы разберем, почему навыки
+  конфликтологии так важны сегодня и как выбрать подходящий курс.
+pubDate: '2025-07-20T22:19:50.739Z'
+author: Эксперт ButlerSPB
+heroImage: 'https://images.pexels.com/photos/3184292/pexels-photo-3184292.jpeg'
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Курсы по разрешению конфликтов: как превратить спор в точку роста'
+  description: >-
+    Конфликты — неизбежная часть работы и личной жизни. Неумение их решать
+    приводит к стрессу, снижению продуктивности и разрыву отношений.
+    Специализированные курсы учат техникам медиации, активного слушания и
+    ведения переговоров. В этой статье от ButlerSPB мы разберем, почему навыки
+    конфликтологии так важны сегодня и как выбрать подходящий курс.
+  image:
+    '@type': ImageObject
+    url: 'https://images.pexels.com/photos/3184292/pexels-photo-3184292.jpeg'
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.7'
+    reviewCount: 483
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/kursy-po-razresheniyu-konfliktnyh-situaciy/
 ---
 
 # Ваш личный «курс» по разрешению конфликтов в посуточной аренде: от шумных гостей до недовольных соседей

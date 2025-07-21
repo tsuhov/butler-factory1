@@ -1,10 +1,41 @@
 ---
-title: "Золотой стандарт: Требования к уборке для посуточной аренды премиум-класса"
-description: "Подробное руководство по созданию безупречной чистоты в апартаментах премиум-класса. Узнайте, какие стандарты уборки ожидают гости высокого уровня и как превзойти их ожидания для получения восторженных отзывов и повторных бронирований."
-pubDate: "2025-07-19T11:12:20.887Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.pexels.com/photos/7031407/pexels-photo-7031407.jpeg"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Золотой стандарт: Требования к уборке для посуточной аренды премиум-класса","description":"Подробное руководство по созданию безупречной чистоты в апартаментах премиум-класса. Узнайте, какие стандарты уборки ожидают гости высокого уровня и как превзойти их ожидания для получения восторженных отзывов и повторных бронирований.","image":{"@type":"ImageObject","url":"https://images.pexels.com/photos/7031407/pexels-photo-7031407.jpeg"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.8","reviewCount":640,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/trebovaniya-k-uborke-dlya-posutochnoy-arendy-premium-klassa/"}}
+title: 'Золотой стандарт: Требования к уборке для посуточной аренды премиум-класса'
+description: >-
+  Подробное руководство по созданию безупречной чистоты в апартаментах
+  премиум-класса. Узнайте, какие стандарты уборки ожидают гости высокого уровня
+  и как превзойти их ожидания для получения восторженных отзывов и повторных
+  бронирований.
+pubDate: '2025-07-19T11:12:20.887Z'
+author: Эксперт ButlerSPB
+heroImage: 'https://images.pexels.com/photos/7031407/pexels-photo-7031407.jpeg'
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Золотой стандарт: Требования к уборке для посуточной аренды премиум-класса'
+  description: >-
+    Подробное руководство по созданию безупречной чистоты в апартаментах
+    премиум-класса. Узнайте, какие стандарты уборки ожидают гости высокого
+    уровня и как превзойти их ожидания для получения восторженных отзывов и
+    повторных бронирований.
+  image:
+    '@type': ImageObject
+    url: 'https://images.pexels.com/photos/7031407/pexels-photo-7031407.jpeg'
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.8'
+    reviewCount: 493
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/trebovaniya-k-uborke-dlya-posutochnoy-arendy-premium-klassa/
 ---
 
 # Идеальная чистота как стандарт: Полное руководство по уборке для посуточной аренды премиум-класса

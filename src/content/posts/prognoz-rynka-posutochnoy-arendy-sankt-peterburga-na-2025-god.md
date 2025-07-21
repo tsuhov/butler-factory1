@@ -1,10 +1,39 @@
 ---
-title: "Прогноз рынка посуточной аренды Санкт-Петербурга на 2025 год"
-description: "Анализ ключевых тенденций, факторов роста и потенциальных рисков на рынке краткосрочной аренды жилья в Санкт-Петербурге. Эксперты делятся ожиданиями по спросу, ценовой политике и изменению законодательства в 2025 году."
-pubDate: "2025-07-19T13:57:37.971Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.pexels.com/photos/2233678/pexels-photo-2233678.jpeg"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Прогноз рынка посуточной аренды Санкт-Петербурга на 2025 год","description":"Анализ ключевых тенденций, факторов роста и потенциальных рисков на рынке краткосрочной аренды жилья в Санкт-Петербурге. Эксперты делятся ожиданиями по спросу, ценовой политике и изменению законодательства в 2025 году.","image":{"@type":"ImageObject","url":"https://images.pexels.com/photos/2233678/pexels-photo-2233678.jpeg"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":430,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/prognoz-rynka-posutochnoy-arendy-sankt-peterburga-na-2025-god/"}}
+title: Прогноз рынка посуточной аренды Санкт-Петербурга на 2025 год
+description: >-
+  Анализ ключевых тенденций, факторов роста и потенциальных рисков на рынке
+  краткосрочной аренды жилья в Санкт-Петербурге. Эксперты делятся ожиданиями по
+  спросу, ценовой политике и изменению законодательства в 2025 году.
+pubDate: '2025-07-19T13:57:37.971Z'
+author: Эксперт ButlerSPB
+heroImage: 'https://images.pexels.com/photos/2233678/pexels-photo-2233678.jpeg'
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: Прогноз рынка посуточной аренды Санкт-Петербурга на 2025 год
+  description: >-
+    Анализ ключевых тенденций, факторов роста и потенциальных рисков на рынке
+    краткосрочной аренды жилья в Санкт-Петербурге. Эксперты делятся ожиданиями
+    по спросу, ценовой политике и изменению законодательства в 2025 году.
+  image:
+    '@type': ImageObject
+    url: 'https://images.pexels.com/photos/2233678/pexels-photo-2233678.jpeg'
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.7'
+    reviewCount: 619
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/prognoz-rynka-posutochnoy-arendy-sankt-peterburga-na-2025-god/
 ---
 
 # Прогноз рынка посуточной аренды Санкт-Петербурга на 2025 год: Тренды, цены и стратегии для инвесторов

@@ -1,10 +1,41 @@
 ---
-title: "Инвестируйте в спокойствие: доверьте управление нам"
-description: "В современном мире время — самый ценный ресурс. Узнайте, как делегирование рутинных задач и управление имуществом профессионалам из ButlerSPB может освободить вас для самого важного и подарить настоящее спокойствие."
-pubDate: "2025-07-20T13:24:37.230Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.pexels.com/photos/3797991/pexels-photo-3797991.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Инвестируйте в спокойствие: доверьте управление нам","description":"В современном мире время — самый ценный ресурс. Узнайте, как делегирование рутинных задач и управление имуществом профессионалам из ButlerSPB может освободить вас для самого важного и подарить настоящее спокойствие.","image":{"@type":"ImageObject","url":"https://images.pexels.com/photos/3797991/pexels-photo-3797991.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"5.0","reviewCount":462,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/investiruyte-v-spokoystvie-doverte-upravlenie-nam/"}}
+title: 'Инвестируйте в спокойствие: доверьте управление нам'
+description: >-
+  В современном мире время — самый ценный ресурс. Узнайте, как делегирование
+  рутинных задач и управление имуществом профессионалам из ButlerSPB может
+  освободить вас для самого важного и подарить настоящее спокойствие.
+pubDate: '2025-07-20T13:24:37.230Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.pexels.com/photos/3797991/pexels-photo-3797991.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Инвестируйте в спокойствие: доверьте управление нам'
+  description: >-
+    В современном мире время — самый ценный ресурс. Узнайте, как делегирование
+    рутинных задач и управление имуществом профессионалам из ButlerSPB может
+    освободить вас для самого важного и подарить настоящее спокойствие.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.pexels.com/photos/3797991/pexels-photo-3797991.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.7'
+    reviewCount: 434
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/investiruyte-v-spokoystvie-doverte-upravlenie-nam/
 ---
 
 # Инвестируйте в спокойствие: почему доверительное управление посуточной арендой — лучшее решение для собственника в СПб

@@ -1,10 +1,48 @@
 ---
-title: "Видеонаблюдение в общих зонах МКД: правовые аспекты и практические советы от ButlerSPB"
-description: "Установка камер в подъездах, на парковках и детских площадках повышает безопасность, но вызывает вопросы о законности. В этой статье от ButlerSPB разбираемся, как правильно организовать систему видеонаблюдения в многоквартирном доме, соблюдая права всех жильцов, и какие преимущества это дает."
-pubDate: "2025-07-20T18:28:12.051Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Видеонаблюдение в общих зонах МКД: правовые аспекты и практические советы от ButlerSPB","description":"Установка камер в подъездах, на парковках и детских площадках повышает безопасность, но вызывает вопросы о законности. В этой статье от ButlerSPB разбираемся, как правильно организовать систему видеонаблюдения в многоквартирном доме, соблюдая права всех жильцов, и какие преимущества это дает.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.7","reviewCount":634,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/videonablyudenie-v-obschih-zonah/"}}
+title: >-
+  Видеонаблюдение в общих зонах МКД: правовые аспекты и практические советы от
+  ButlerSPB
+description: >-
+  Установка камер в подъездах, на парковках и детских площадках повышает
+  безопасность, но вызывает вопросы о законности. В этой статье от ButlerSPB
+  разбираемся, как правильно организовать систему видеонаблюдения в
+  многоквартирном доме, соблюдая права всех жильцов, и какие преимущества это
+  дает.
+pubDate: '2025-07-20T18:28:12.051Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: >-
+    Видеонаблюдение в общих зонах МКД: правовые аспекты и практические советы от
+    ButlerSPB
+  description: >-
+    Установка камер в подъездах, на парковках и детских площадках повышает
+    безопасность, но вызывает вопросы о законности. В этой статье от ButlerSPB
+    разбираемся, как правильно организовать систему видеонаблюдения в
+    многоквартирном доме, соблюдая права всех жильцов, и какие преимущества это
+    дает.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '5.0'
+    reviewCount: 674
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': 'https://butlerspb-blog.netlify.app/blog/videonablyudenie-v-obschih-zonah/'
 ---
 
 # Видеонаблюдение в посуточной квартире: Как защитить собственность и не нарушить закон. Полное руководство для владельца от ButlerSPB.

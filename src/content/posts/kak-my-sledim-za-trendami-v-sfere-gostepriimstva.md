@@ -1,10 +1,45 @@
 ---
-title: "Как мы следим за трендами в сфере гостеприимства"
-description: "В динамичном мире гостеприимства оставаться на шаг впереди — ключ к успеху. В этой статье команда ButlerSPB делится методами и источниками, которые помогают нам быть в курсе последних инноваций: от цифровизации сервисов и устойчивого развития до персонализации гостевого опыта. Узнайте, как мы превращаем тренды в высочайший стандарт обслуживания."
-pubDate: "2025-07-20T22:42:20.722Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.pexels.com/photos/3825529/pexels-photo-3825529.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Как мы следим за трендами в сфере гостеприимства","description":"В динамичном мире гостеприимства оставаться на шаг впереди — ключ к успеху. В этой статье команда ButlerSPB делится методами и источниками, которые помогают нам быть в курсе последних инноваций: от цифровизации сервисов и устойчивого развития до персонализации гостевого опыта. Узнайте, как мы превращаем тренды в высочайший стандарт обслуживания.","image":{"@type":"ImageObject","url":"https://images.pexels.com/photos/3825529/pexels-photo-3825529.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"5.0","reviewCount":508,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/kak-my-sledim-za-trendami-v-sfere-gostepriimstva/"}}
+title: Как мы следим за трендами в сфере гостеприимства
+description: >-
+  В динамичном мире гостеприимства оставаться на шаг впереди — ключ к успеху. В
+  этой статье команда ButlerSPB делится методами и источниками, которые помогают
+  нам быть в курсе последних инноваций: от цифровизации сервисов и устойчивого
+  развития до персонализации гостевого опыта. Узнайте, как мы превращаем тренды
+  в высочайший стандарт обслуживания.
+pubDate: '2025-07-20T22:42:20.722Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.pexels.com/photos/3825529/pexels-photo-3825529.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: Как мы следим за трендами в сфере гостеприимства
+  description: >-
+    В динамичном мире гостеприимства оставаться на шаг впереди — ключ к успеху.
+    В этой статье команда ButlerSPB делится методами и источниками, которые
+    помогают нам быть в курсе последних инноваций: от цифровизации сервисов и
+    устойчивого развития до персонализации гостевого опыта. Узнайте, как мы
+    превращаем тренды в высочайший стандарт обслуживания.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.pexels.com/photos/3825529/pexels-photo-3825529.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '5.0'
+    reviewCount: 769
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/kak-my-sledim-za-trendami-v-sfere-gostepriimstva/
 ---
 
 # Не просто сдаем, а управляем трендами: как мы увеличиваем доходность ваших апартаментов в Санкт-Петербурге

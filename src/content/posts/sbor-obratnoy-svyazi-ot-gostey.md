@@ -1,10 +1,38 @@
 ---
-title: "Обратная связь от гостей: полное руководство по сбору и анализу"
-description: "Узнайте, как эффективно собирать отзывы от ваших гостей, какие инструменты использовать и как анализировать полученную информацию для улучшения сервиса и повышения рейтинга. Практические советы от команды ButlerSPB."
-pubDate: "2025-07-20T15:19:20.529Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.pexels.com/photos/4145190/pexels-photo-4145190.jpeg"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Обратная связь от гостей: полное руководство по сбору и анализу","description":"Узнайте, как эффективно собирать отзывы от ваших гостей, какие инструменты использовать и как анализировать полученную информацию для улучшения сервиса и повышения рейтинга. Практические советы от команды ButlerSPB.","image":{"@type":"ImageObject","url":"https://images.pexels.com/photos/4145190/pexels-photo-4145190.jpeg"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":572,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/sbor-obratnoy-svyazi-ot-gostey/"}}
+title: 'Обратная связь от гостей: полное руководство по сбору и анализу'
+description: >-
+  Узнайте, как эффективно собирать отзывы от ваших гостей, какие инструменты
+  использовать и как анализировать полученную информацию для улучшения сервиса и
+  повышения рейтинга. Практические советы от команды ButlerSPB.
+pubDate: '2025-07-20T15:19:20.529Z'
+author: Эксперт ButlerSPB
+heroImage: 'https://images.pexels.com/photos/4145190/pexels-photo-4145190.jpeg'
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Обратная связь от гостей: полное руководство по сбору и анализу'
+  description: >-
+    Узнайте, как эффективно собирать отзывы от ваших гостей, какие инструменты
+    использовать и как анализировать полученную информацию для улучшения сервиса
+    и повышения рейтинга. Практические советы от команды ButlerSPB.
+  image:
+    '@type': ImageObject
+    url: 'https://images.pexels.com/photos/4145190/pexels-photo-4145190.jpeg'
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.8'
+    reviewCount: 538
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': 'https://butlerspb-blog.netlify.app/blog/sbor-obratnoy-svyazi-ot-gostey/'
 ---
 
 # Полное руководство по сбору обратной связи от гостей: от анкеты до работы с негативом

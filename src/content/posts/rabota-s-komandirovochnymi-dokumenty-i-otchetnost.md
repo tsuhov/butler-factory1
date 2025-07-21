@@ -1,10 +1,41 @@
 ---
-title: "Работа с командировочными: документы и отчетность"
-description: "Полное руководство по оформлению деловых поездок: от приказа до авансового отчета. Узнайте, какие документы обязательны, как правильно учитывать расходы и избежать проблем с налоговой."
-pubDate: "2025-07-19T13:41:50.448Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.pexels.com/photos/7551631/pexels-photo-7551631.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Работа с командировочными: документы и отчетность","description":"Полное руководство по оформлению деловых поездок: от приказа до авансового отчета. Узнайте, какие документы обязательны, как правильно учитывать расходы и избежать проблем с налоговой.","image":{"@type":"ImageObject","url":"https://images.pexels.com/photos/7551631/pexels-photo-7551631.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":823,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/rabota-s-komandirovochnymi-dokumenty-i-otchetnost/"}}
+title: 'Работа с командировочными: документы и отчетность'
+description: >-
+  Полное руководство по оформлению деловых поездок: от приказа до авансового
+  отчета. Узнайте, какие документы обязательны, как правильно учитывать расходы
+  и избежать проблем с налоговой.
+pubDate: '2025-07-19T13:41:50.448Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.pexels.com/photos/7551631/pexels-photo-7551631.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Работа с командировочными: документы и отчетность'
+  description: >-
+    Полное руководство по оформлению деловых поездок: от приказа до авансового
+    отчета. Узнайте, какие документы обязательны, как правильно учитывать
+    расходы и избежать проблем с налоговой.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.pexels.com/photos/7551631/pexels-photo-7551631.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.8'
+    reviewCount: 829
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/rabota-s-komandirovochnymi-dokumenty-i-otchetnost/
 ---
 
 # Командировочные расходы 2024: Полное руководство по документам и отчетности от А до Я

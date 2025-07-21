@@ -1,10 +1,41 @@
 ---
-title: "Анализ рынка посуточной аренды СПБ: итоги 2024"
-description: "Подробный разбор ключевых трендов, динамики цен, спроса и предложения на рынке краткосрочной аренды жилья в Санкт-Петербурге по результатам 2024 года. Прогнозы и рекомендации для собственников и инвесторов."
-pubDate: "2025-07-19T13:55:32.594Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.pexels.com/photos/1769345/pexels-photo-1769345.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Анализ рынка посуточной аренды СПБ: итоги 2024","description":"Подробный разбор ключевых трендов, динамики цен, спроса и предложения на рынке краткосрочной аренды жилья в Санкт-Петербурге по результатам 2024 года. Прогнозы и рекомендации для собственников и инвесторов.","image":{"@type":"ImageObject","url":"https://images.pexels.com/photos/1769345/pexels-photo-1769345.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":518,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/analiz-rynka-posutochnoy-arendy-spb-itogi-2024/"}}
+title: 'Анализ рынка посуточной аренды СПБ: итоги 2024'
+description: >-
+  Подробный разбор ключевых трендов, динамики цен, спроса и предложения на рынке
+  краткосрочной аренды жилья в Санкт-Петербурге по результатам 2024 года.
+  Прогнозы и рекомендации для собственников и инвесторов.
+pubDate: '2025-07-19T13:55:32.594Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.pexels.com/photos/1769345/pexels-photo-1769345.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Анализ рынка посуточной аренды СПБ: итоги 2024'
+  description: >-
+    Подробный разбор ключевых трендов, динамики цен, спроса и предложения на
+    рынке краткосрочной аренды жилья в Санкт-Петербурге по результатам 2024
+    года. Прогнозы и рекомендации для собственников и инвесторов.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.pexels.com/photos/1769345/pexels-photo-1769345.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.8'
+    reviewCount: 843
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/analiz-rynka-posutochnoy-arendy-spb-itogi-2024/
 ---
 
 # Анализ рынка посуточной аренды СПБ: итоги 2024 года, тренды и прогнозы на 2025

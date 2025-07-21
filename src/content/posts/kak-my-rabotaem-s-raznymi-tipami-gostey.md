@@ -1,10 +1,41 @@
 ---
-title: "Как мы работаем с разными типами гостей"
-description: "В ButlerSPB мы гордимся индивидуальным подходом к каждому гостю. В этой статье мы расскажем, как наша команда находит общий язык с самыми разными типами путешественников, от деловых людей до семей с детьми, чтобы обеспечить им идеальное пребывание в Санкт-Петербурге."
-pubDate: "2025-07-20T18:19:55.815Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.pexels.com/photos/5940841/pexels-photo-5940841.jpeg"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Как мы работаем с разными типами гостей","description":"В ButlerSPB мы гордимся индивидуальным подходом к каждому гостю. В этой статье мы расскажем, как наша команда находит общий язык с самыми разными типами путешественников, от деловых людей до семей с детьми, чтобы обеспечить им идеальное пребывание в Санкт-Петербурге.","image":{"@type":"ImageObject","url":"https://images.pexels.com/photos/5940841/pexels-photo-5940841.jpeg"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":474,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/kak-my-rabotaem-s-raznymi-tipami-gostey/"}}
+title: Как мы работаем с разными типами гостей
+description: >-
+  В ButlerSPB мы гордимся индивидуальным подходом к каждому гостю. В этой статье
+  мы расскажем, как наша команда находит общий язык с самыми разными типами
+  путешественников, от деловых людей до семей с детьми, чтобы обеспечить им
+  идеальное пребывание в Санкт-Петербурге.
+pubDate: '2025-07-20T18:19:55.815Z'
+author: Эксперт ButlerSPB
+heroImage: 'https://images.pexels.com/photos/5940841/pexels-photo-5940841.jpeg'
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: Как мы работаем с разными типами гостей
+  description: >-
+    В ButlerSPB мы гордимся индивидуальным подходом к каждому гостю. В этой
+    статье мы расскажем, как наша команда находит общий язык с самыми разными
+    типами путешественников, от деловых людей до семей с детьми, чтобы
+    обеспечить им идеальное пребывание в Санкт-Петербурге.
+  image:
+    '@type': ImageObject
+    url: 'https://images.pexels.com/photos/5940841/pexels-photo-5940841.jpeg'
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.8'
+    reviewCount: 684
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/kak-my-rabotaem-s-raznymi-tipami-gostey/
 ---
 
 # От туриста до CEO: Как мы выстраиваем работу с каждым гостем и почему это выгодно владельцу

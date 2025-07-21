@@ -1,10 +1,41 @@
 ---
-title: "Наша система безопасности для вашей недвижимости"
-description: "Узнайте, как наши современные решения по безопасности обеспечивают надежную защиту вашей квартиры, дома или коммерческого объекта. Комплексный подход для вашего спокойствия 24/7."
-pubDate: "2025-07-20T12:12:01.143Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1558002038-1055907df827?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Наша система безопасности для вашей недвижимости","description":"Узнайте, как наши современные решения по безопасности обеспечивают надежную защиту вашей квартиры, дома или коммерческого объекта. Комплексный подход для вашего спокойствия 24/7.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1558002038-1055907df827?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.7","reviewCount":749,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/nasha-sistema-bezopasnosti-dlya-vashey-nedvizhimosti/"}}
+title: Наша система безопасности для вашей недвижимости
+description: >-
+  Узнайте, как наши современные решения по безопасности обеспечивают надежную
+  защиту вашей квартиры, дома или коммерческого объекта. Комплексный подход для
+  вашего спокойствия 24/7.
+pubDate: '2025-07-20T12:12:01.143Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1558002038-1055907df827?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: Наша система безопасности для вашей недвижимости
+  description: >-
+    Узнайте, как наши современные решения по безопасности обеспечивают надежную
+    защиту вашей квартиры, дома или коммерческого объекта. Комплексный подход
+    для вашего спокойствия 24/7.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1558002038-1055907df827?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.7'
+    reviewCount: 425
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/nasha-sistema-bezopasnosti-dlya-vashey-nedvizhimosti/
 ---
 
 # Наша система безопасности для вашей недвижимости: комплексная защита 24/7

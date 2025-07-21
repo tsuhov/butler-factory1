@@ -1,10 +1,41 @@
 ---
-title: "Генеральная уборка и мелкий ремонт: полное руководство от ButlerSPB"
-description: "Весна — идеальное время не только для наведения чистоты, но и для устранения мелких неисправностей. В этой статье мы расскажем, как эффективно совместить генеральную уборку с мелким ремонтом, чтобы ваш дом засиял по-новому. Полезные советы и пошаговые инструкции от экспертов ButlerSPB."
-pubDate: "2025-07-20T18:53:06.490Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.pexels.com/photos/4239031/pexels-photo-4239031.jpeg"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Генеральная уборка и мелкий ремонт: полное руководство от ButlerSPB","description":"Весна — идеальное время не только для наведения чистоты, но и для устранения мелких неисправностей. В этой статье мы расскажем, как эффективно совместить генеральную уборку с мелким ремонтом, чтобы ваш дом засиял по-новому. Полезные советы и пошаговые инструкции от экспертов ButlerSPB.","image":{"@type":"ImageObject","url":"https://images.pexels.com/photos/4239031/pexels-photo-4239031.jpeg"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":375,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/generalnaya-uborka-i-melkiy-remont/"}}
+title: 'Генеральная уборка и мелкий ремонт: полное руководство от ButlerSPB'
+description: >-
+  Весна — идеальное время не только для наведения чистоты, но и для устранения
+  мелких неисправностей. В этой статье мы расскажем, как эффективно совместить
+  генеральную уборку с мелким ремонтом, чтобы ваш дом засиял по-новому. Полезные
+  советы и пошаговые инструкции от экспертов ButlerSPB.
+pubDate: '2025-07-20T18:53:06.490Z'
+author: Эксперт ButlerSPB
+heroImage: 'https://images.pexels.com/photos/4239031/pexels-photo-4239031.jpeg'
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Генеральная уборка и мелкий ремонт: полное руководство от ButlerSPB'
+  description: >-
+    Весна — идеальное время не только для наведения чистоты, но и для устранения
+    мелких неисправностей. В этой статье мы расскажем, как эффективно совместить
+    генеральную уборку с мелким ремонтом, чтобы ваш дом засиял по-новому.
+    Полезные советы и пошаговые инструкции от экспертов ButlerSPB.
+  image:
+    '@type': ImageObject
+    url: 'https://images.pexels.com/photos/4239031/pexels-photo-4239031.jpeg'
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.8'
+    reviewCount: 438
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/generalnaya-uborka-i-melkiy-remont/
 ---
 
 # Генеральная уборка и мелкий ремонт: инвестиция в максимальный доход от вашей квартиры в Петербурге

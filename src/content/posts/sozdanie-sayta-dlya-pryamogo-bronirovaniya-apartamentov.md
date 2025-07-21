@@ -1,10 +1,47 @@
 ---
-title: "Создание сайта для прямого бронирования апартаментов: полное руководство для владельцев"
-description: "Узнайте, как создать собственный сайт для сдачи апартаментов в аренду, избежать комиссий агрегаторов и получить полный контроль над бронированиями. В статье рассматриваем ключевые шаги, необходимые функции и инструменты для запуска успешного проекта."
-pubDate: "2025-07-19T13:22:12.776Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.pexels.com/photos/271624/pexels-photo-271624.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Создание сайта для прямого бронирования апартаментов: полное руководство для владельцев","description":"Узнайте, как создать собственный сайт для сдачи апартаментов в аренду, избежать комиссий агрегаторов и получить полный контроль над бронированиями. В статье рассматриваем ключевые шаги, необходимые функции и инструменты для запуска успешного проекта.","image":{"@type":"ImageObject","url":"https://images.pexels.com/photos/271624/pexels-photo-271624.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"5.0","reviewCount":670,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/sozdanie-sayta-dlya-pryamogo-bronirovaniya-apartamentov/"}}
+title: >-
+  Создание сайта для прямого бронирования апартаментов: полное руководство для
+  владельцев
+description: >-
+  Узнайте, как создать собственный сайт для сдачи апартаментов в аренду,
+  избежать комиссий агрегаторов и получить полный контроль над бронированиями. В
+  статье рассматриваем ключевые шаги, необходимые функции и инструменты для
+  запуска успешного проекта.
+pubDate: '2025-07-19T13:22:12.776Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.pexels.com/photos/271624/pexels-photo-271624.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: >-
+    Создание сайта для прямого бронирования апартаментов: полное руководство для
+    владельцев
+  description: >-
+    Узнайте, как создать собственный сайт для сдачи апартаментов в аренду,
+    избежать комиссий агрегаторов и получить полный контроль над бронированиями.
+    В статье рассматриваем ключевые шаги, необходимые функции и инструменты для
+    запуска успешного проекта.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.pexels.com/photos/271624/pexels-photo-271624.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.9'
+    reviewCount: 662
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/sozdanie-sayta-dlya-pryamogo-bronirovaniya-apartamentov/
 ---
 
 # Как создать сайт для прямого бронирования апартаментов и перестать платить комиссии агрегаторам

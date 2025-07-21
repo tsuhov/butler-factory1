@@ -1,10 +1,43 @@
 ---
-title: "Юридический договор посуточной аренды в СПБ: образец 2024 и ключевые моменты"
-description: "Скачайте актуальный образец договора посуточной аренды квартиры в Санкт-Петербурге. В статье разбираем важные пункты, которые защитят собственника от рисков и помогут юридически грамотно оформить отношения с гостем."
-pubDate: "2025-07-19T10:54:09.318Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.pexels.com/photos/7578901/pexels-photo-7578901.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Юридический договор посуточной аренды в СПБ: образец 2024 и ключевые моменты","description":"Скачайте актуальный образец договора посуточной аренды квартиры в Санкт-Петербурге. В статье разбираем важные пункты, которые защитят собственника от рисков и помогут юридически грамотно оформить отношения с гостем.","image":{"@type":"ImageObject","url":"https://images.pexels.com/photos/7578901/pexels-photo-7578901.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":887,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/yuridicheskiy-dogovor-posutochnoy-arendy-v-spb-obrazec/"}}
+title: 'Юридический договор посуточной аренды в СПБ: образец 2024 и ключевые моменты'
+description: >-
+  Скачайте актуальный образец договора посуточной аренды квартиры в
+  Санкт-Петербурге. В статье разбираем важные пункты, которые защитят
+  собственника от рисков и помогут юридически грамотно оформить отношения с
+  гостем.
+pubDate: '2025-07-19T10:54:09.318Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.pexels.com/photos/7578901/pexels-photo-7578901.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Юридический договор посуточной аренды в СПБ: образец 2024 и ключевые моменты'
+  description: >-
+    Скачайте актуальный образец договора посуточной аренды квартиры в
+    Санкт-Петербурге. В статье разбираем важные пункты, которые защитят
+    собственника от рисков и помогут юридически грамотно оформить отношения с
+    гостем.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.pexels.com/photos/7578901/pexels-photo-7578901.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.9'
+    reviewCount: 570
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/yuridicheskiy-dogovor-posutochnoy-arendy-v-spb-obrazec/
 ---
 
 # Договор посуточной аренды квартиры в СПб: скачать образец 2024 года и юридический разбор

@@ -1,10 +1,45 @@
 ---
-title: "Энергосбережение в посуточной квартире: как снизить расходы и позаботиться об экологии"
-description: "Практические рекомендации по сокращению потребления электроэнергии и воды в апартаментах для краткосрочной аренды. Узнайте, как простые привычки помогут сэкономить деньги владельцам и проявить заботу об окружающей среде гостям."
-pubDate: "2025-07-19T13:33:54.196Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.pexels.com/photos/39284/macbook-apple-imac-computer-39284.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Энергосбережение в посуточной квартире: как снизить расходы и позаботиться об экологии","description":"Практические рекомендации по сокращению потребления электроэнергии и воды в апартаментах для краткосрочной аренды. Узнайте, как простые привычки помогут сэкономить деньги владельцам и проявить заботу об окружающей среде гостям.","image":{"@type":"ImageObject","url":"https://images.pexels.com/photos/39284/macbook-apple-imac-computer-39284.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":754,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/energosberezhenie-v-posutochnoy-kvartire/"}}
+title: >-
+  Энергосбережение в посуточной квартире: как снизить расходы и позаботиться об
+  экологии
+description: >-
+  Практические рекомендации по сокращению потребления электроэнергии и воды в
+  апартаментах для краткосрочной аренды. Узнайте, как простые привычки помогут
+  сэкономить деньги владельцам и проявить заботу об окружающей среде гостям.
+pubDate: '2025-07-19T13:33:54.196Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.pexels.com/photos/39284/macbook-apple-imac-computer-39284.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: >-
+    Энергосбережение в посуточной квартире: как снизить расходы и позаботиться
+    об экологии
+  description: >-
+    Практические рекомендации по сокращению потребления электроэнергии и воды в
+    апартаментах для краткосрочной аренды. Узнайте, как простые привычки помогут
+    сэкономить деньги владельцам и проявить заботу об окружающей среде гостям.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.pexels.com/photos/39284/macbook-apple-imac-computer-39284.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.7'
+    reviewCount: 734
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/energosberezhenie-v-posutochnoy-kvartire/
 ---
 
 # Энергосбережение в посуточной квартире: как снизить расходы на 30% и повысить привлекательность жилья

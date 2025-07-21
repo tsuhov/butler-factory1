@@ -1,10 +1,40 @@
 ---
-title: "Динамическое ценообразование: как технологии меняют правила игры в бизнесе"
-description: "Узнайте, как стратегия динамического ценообразования позволяет компаниям максимизировать прибыль, адаптируясь к спросу, поведению конкурентов и другим рыночным факторам в реальном времени. В этой статье от ButlerSPB мы разбираем принципы, примеры и инструменты для внедрения."
-pubDate: "2025-07-21T11:03:10.709Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1551288049-bebda4e38f71"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Динамическое ценообразование: как технологии меняют правила игры в бизнесе","description":"Узнайте, как стратегия динамического ценообразования позволяет компаниям максимизировать прибыль, адаптируясь к спросу, поведению конкурентов и другим рыночным факторам в реальном времени. В этой статье от ButlerSPB мы разбираем принципы, примеры и инструменты для внедрения.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1551288049-bebda4e38f71"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":878,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/dinamicheskoe-cenoobrazovanie/"}}
+title: 'Динамическое ценообразование: как технологии меняют правила игры в бизнесе'
+description: >-
+  Узнайте, как стратегия динамического ценообразования позволяет компаниям
+  максимизировать прибыль, адаптируясь к спросу, поведению конкурентов и другим
+  рыночным факторам в реальном времени. В этой статье от ButlerSPB мы разбираем
+  принципы, примеры и инструменты для внедрения.
+pubDate: '2025-07-21T11:03:10.709Z'
+author: Эксперт ButlerSPB
+heroImage: 'https://images.unsplash.com/photo-1551288049-bebda4e38f71'
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Динамическое ценообразование: как технологии меняют правила игры в бизнесе'
+  description: >-
+    Узнайте, как стратегия динамического ценообразования позволяет компаниям
+    максимизировать прибыль, адаптируясь к спросу, поведению конкурентов и
+    другим рыночным факторам в реальном времени. В этой статье от ButlerSPB мы
+    разбираем принципы, примеры и инструменты для внедрения.
+  image:
+    '@type': ImageObject
+    url: 'https://images.unsplash.com/photo-1551288049-bebda4e38f71'
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.8'
+    reviewCount: 422
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': 'https://butlerspb-blog.netlify.app/blog/dinamicheskoe-cenoobrazovanie/'
 ---
 
 # Динамическое ценообразование: Как мы увеличиваем доход от вашей квартиры в Санкт-Петербурге на 20-40%

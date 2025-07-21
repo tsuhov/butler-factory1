@@ -1,10 +1,45 @@
 ---
-title: "Новые возможности вашего личного кабинета: Удобный доступ к календарям и отчетам"
-description: "Мы обновили личный кабинет ButlerSPB! Теперь вы можете легко отслеживать расписание услуг, просматривать детализированные отчеты о проделанной работе и управлять задачами в едином интерфейсе. Узнайте, как новые инструменты помогут вам экономить время и всегда быть в курсе событий."
-pubDate: "2025-07-21T00:55:22.767Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.pexels.com/photos/669615/pexels-photo-669615.jpeg"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Новые возможности вашего личного кабинета: Удобный доступ к календарям и отчетам","description":"Мы обновили личный кабинет ButlerSPB! Теперь вы можете легко отслеживать расписание услуг, просматривать детализированные отчеты о проделанной работе и управлять задачами в едином интерфейсе. Узнайте, как новые инструменты помогут вам экономить время и всегда быть в курсе событий.","image":{"@type":"ImageObject","url":"https://images.pexels.com/photos/669615/pexels-photo-669615.jpeg"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.8","reviewCount":303,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/lichnyy-kabinet-s-dostupom-k-kalendaryam-i-otchetam/"}}
+title: >-
+  Новые возможности вашего личного кабинета: Удобный доступ к календарям и
+  отчетам
+description: >-
+  Мы обновили личный кабинет ButlerSPB! Теперь вы можете легко отслеживать
+  расписание услуг, просматривать детализированные отчеты о проделанной работе и
+  управлять задачами в едином интерфейсе. Узнайте, как новые инструменты помогут
+  вам экономить время и всегда быть в курсе событий.
+pubDate: '2025-07-21T00:55:22.767Z'
+author: Эксперт ButlerSPB
+heroImage: 'https://images.pexels.com/photos/669615/pexels-photo-669615.jpeg'
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: >-
+    Новые возможности вашего личного кабинета: Удобный доступ к календарям и
+    отчетам
+  description: >-
+    Мы обновили личный кабинет ButlerSPB! Теперь вы можете легко отслеживать
+    расписание услуг, просматривать детализированные отчеты о проделанной работе
+    и управлять задачами в едином интерфейсе. Узнайте, как новые инструменты
+    помогут вам экономить время и всегда быть в курсе событий.
+  image:
+    '@type': ImageObject
+    url: 'https://images.pexels.com/photos/669615/pexels-photo-669615.jpeg'
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.9'
+    reviewCount: 627
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/lichnyy-kabinet-s-dostupom-k-kalendaryam-i-otchetam/
 ---
 
 # Больше никаких "черных ящиков": Как личный кабинет ButlerSPB делает управление арендой на 100% прозрачным

@@ -1,10 +1,43 @@
 ---
-title: "Как сдавать квартиру для фотосессий и мероприятий в Санкт-Петербурге"
-description: "Подробное руководство для владельцев недвижимости в Санкт-Петербурге, желающих получить дополнительный доход, сдавая свою квартиру под фотосъемки, видеосъемки и небольшие мероприятия. Советы по подготовке, ценообразованию и поиску клиентов."
-pubDate: "2025-07-19T09:36:18.608Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.pexels.com/photos/6434623/pexels-photo-6434623.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Как сдавать квартиру для фотосессий и мероприятий в Санкт-Петербурге","description":"Подробное руководство для владельцев недвижимости в Санкт-Петербурге, желающих получить дополнительный доход, сдавая свою квартиру под фотосъемки, видеосъемки и небольшие мероприятия. Советы по подготовке, ценообразованию и поиску клиентов.","image":{"@type":"ImageObject","url":"https://images.pexels.com/photos/6434623/pexels-photo-6434623.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":579,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/kak-sdavat-kvartiru-dlya-fotosessiy-i-meropriyatiy-v-sankt-peterburge/"}}
+title: Как сдавать квартиру для фотосессий и мероприятий в Санкт-Петербурге
+description: >-
+  Подробное руководство для владельцев недвижимости в Санкт-Петербурге, желающих
+  получить дополнительный доход, сдавая свою квартиру под фотосъемки,
+  видеосъемки и небольшие мероприятия. Советы по подготовке, ценообразованию и
+  поиску клиентов.
+pubDate: '2025-07-19T09:36:18.608Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.pexels.com/photos/6434623/pexels-photo-6434623.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: Как сдавать квартиру для фотосессий и мероприятий в Санкт-Петербурге
+  description: >-
+    Подробное руководство для владельцев недвижимости в Санкт-Петербурге,
+    желающих получить дополнительный доход, сдавая свою квартиру под фотосъемки,
+    видеосъемки и небольшие мероприятия. Советы по подготовке, ценообразованию и
+    поиску клиентов.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.pexels.com/photos/6434623/pexels-photo-6434623.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.9'
+    reviewCount: 528
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/kak-sdavat-kvartiru-dlya-fotosessiy-i-meropriyatiy-v-sankt-peterburge/
 ---
 
 # Как сдавать квартиру для фотосессий и мероприятий в Санкт-Петербурге: полный гид для владельца

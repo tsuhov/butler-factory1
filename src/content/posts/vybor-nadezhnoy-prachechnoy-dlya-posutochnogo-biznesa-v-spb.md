@@ -1,10 +1,41 @@
 ---
-title: "Выбор надежной прачечной для посуточного бизнеса в СПБ"
-description: "Чистое белье - визитная карточка вашего арендного бизнеса. Узнайте, как выбрать идеальную прачечную в Санкт-Петербурге, чтобы ваши гости всегда были довольны, а вы экономили время и деньги. Ключевые критерии и полезные советы для владельцев апартаментов."
-pubDate: "2025-07-19T13:37:46.884Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1626806819282-2c1dc01a5e0c"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Выбор надежной прачечной для посуточного бизнеса в СПБ","description":"Чистое белье - визитная карточка вашего арендного бизнеса. Узнайте, как выбрать идеальную прачечную в Санкт-Петербурге, чтобы ваши гости всегда были довольны, а вы экономили время и деньги. Ключевые критерии и полезные советы для владельцев апартаментов.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1626806819282-2c1dc01a5e0c"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.7","reviewCount":407,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/vybor-nadezhnoy-prachechnoy-dlya-posutochnogo-biznesa-v-spb/"}}
+title: Выбор надежной прачечной для посуточного бизнеса в СПБ
+description: >-
+  Чистое белье - визитная карточка вашего арендного бизнеса. Узнайте, как
+  выбрать идеальную прачечную в Санкт-Петербурге, чтобы ваши гости всегда были
+  довольны, а вы экономили время и деньги. Ключевые критерии и полезные советы
+  для владельцев апартаментов.
+pubDate: '2025-07-19T13:37:46.884Z'
+author: Эксперт ButlerSPB
+heroImage: 'https://images.unsplash.com/photo-1626806819282-2c1dc01a5e0c'
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: Выбор надежной прачечной для посуточного бизнеса в СПБ
+  description: >-
+    Чистое белье - визитная карточка вашего арендного бизнеса. Узнайте, как
+    выбрать идеальную прачечную в Санкт-Петербурге, чтобы ваши гости всегда были
+    довольны, а вы экономили время и деньги. Ключевые критерии и полезные советы
+    для владельцев апартаментов.
+  image:
+    '@type': ImageObject
+    url: 'https://images.unsplash.com/photo-1626806819282-2c1dc01a5e0c'
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.9'
+    reviewCount: 723
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/vybor-nadezhnoy-prachechnoy-dlya-posutochnogo-biznesa-v-spb/
 ---
 
 # Как выбрать надежную прачечную для посуточного бизнеса в СПб: полное руководство для владельца апартаментов

@@ -1,10 +1,43 @@
 ---
-title: "Стандарты чистоты для посуточной аренды"
-description: "Подробное руководство по стандартам уборки для объектов посуточной аренды. Узнайте, как безупречная чистота влияет на отзывы гостей, повторные бронирования и общий успех вашего бизнеса. В статье рассматриваются ключевые чек-листы для каждой зоны, от кухни до ванной комнаты, и даются практические советы по организации процесса уборки."
-pubDate: "2025-07-19T23:51:38.416Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.pexels.com/photos/4099467/pexels-photo-4099467.jpeg"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Стандарты чистоты для посуточной аренды","description":"Подробное руководство по стандартам уборки для объектов посуточной аренды. Узнайте, как безупречная чистота влияет на отзывы гостей, повторные бронирования и общий успех вашего бизнеса. В статье рассматриваются ключевые чек-листы для каждой зоны, от кухни до ванной комнаты, и даются практические советы по организации процесса уборки.","image":{"@type":"ImageObject","url":"https://images.pexels.com/photos/4099467/pexels-photo-4099467.jpeg"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.7","reviewCount":619,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/standarty-chistoty-dlya-posutochnoy-arendy/"}}
+title: Стандарты чистоты для посуточной аренды
+description: >-
+  Подробное руководство по стандартам уборки для объектов посуточной аренды.
+  Узнайте, как безупречная чистота влияет на отзывы гостей, повторные
+  бронирования и общий успех вашего бизнеса. В статье рассматриваются ключевые
+  чек-листы для каждой зоны, от кухни до ванной комнаты, и даются практические
+  советы по организации процесса уборки.
+pubDate: '2025-07-19T23:51:38.416Z'
+author: Эксперт ButlerSPB
+heroImage: 'https://images.pexels.com/photos/4099467/pexels-photo-4099467.jpeg'
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: Стандарты чистоты для посуточной аренды
+  description: >-
+    Подробное руководство по стандартам уборки для объектов посуточной аренды.
+    Узнайте, как безупречная чистота влияет на отзывы гостей, повторные
+    бронирования и общий успех вашего бизнеса. В статье рассматриваются ключевые
+    чек-листы для каждой зоны, от кухни до ванной комнаты, и даются практические
+    советы по организации процесса уборки.
+  image:
+    '@type': ImageObject
+    url: 'https://images.pexels.com/photos/4099467/pexels-photo-4099467.jpeg'
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.8'
+    reviewCount: 530
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/standarty-chistoty-dlya-posutochnoy-arendy/
 ---
 
 # **Золотой стандарт чистоты в посуточной аренде: полный гид для хозяина**

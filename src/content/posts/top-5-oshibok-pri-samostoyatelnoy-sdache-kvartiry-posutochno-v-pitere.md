@@ -1,10 +1,39 @@
 ---
-title: "Топ-5 ошибок при самостоятельной сдаче квартиры посуточно в Питере"
-description: "Избегайте типичных промахов, которые могут стоить вам денег и нервов. В этой статье мы разбираем главные ошибки собственников при посуточной аренде жилья в Санкт-Петербурге и даем советы, как их не допустить."
-pubDate: "2025-07-18T17:10:22.915Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.pexels.com/photos/1103808/pexels-photo-1103808.jpeg"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Топ-5 ошибок при самостоятельной сдаче квартиры посуточно в Питере","description":"Избегайте типичных промахов, которые могут стоить вам денег и нервов. В этой статье мы разбираем главные ошибки собственников при посуточной аренде жилья в Санкт-Петербурге и даем советы, как их не допустить.","image":{"@type":"ImageObject","url":"https://images.pexels.com/photos/1103808/pexels-photo-1103808.jpeg"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.8","reviewCount":879,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/top-5-oshibok-pri-samostoyatelnoy-sdache-kvartiry-posutochno-v-pitere/"}}
+title: Топ-5 ошибок при самостоятельной сдаче квартиры посуточно в Питере
+description: >-
+  Избегайте типичных промахов, которые могут стоить вам денег и нервов. В этой
+  статье мы разбираем главные ошибки собственников при посуточной аренде жилья в
+  Санкт-Петербурге и даем советы, как их не допустить.
+pubDate: '2025-07-18T17:10:22.915Z'
+author: Эксперт ButlerSPB
+heroImage: 'https://images.pexels.com/photos/1103808/pexels-photo-1103808.jpeg'
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: Топ-5 ошибок при самостоятельной сдаче квартиры посуточно в Питере
+  description: >-
+    Избегайте типичных промахов, которые могут стоить вам денег и нервов. В этой
+    статье мы разбираем главные ошибки собственников при посуточной аренде жилья
+    в Санкт-Петербурге и даем советы, как их не допустить.
+  image:
+    '@type': ImageObject
+    url: 'https://images.pexels.com/photos/1103808/pexels-photo-1103808.jpeg'
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '5.0'
+    reviewCount: 802
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/top-5-oshibok-pri-samostoyatelnoy-sdache-kvartiry-posutochno-v-pitere/
 ---
 
 # Топ-5 ошибок при самостоятельной сдаче квартиры посуточно в Питере: как не потерять деньги и нервы

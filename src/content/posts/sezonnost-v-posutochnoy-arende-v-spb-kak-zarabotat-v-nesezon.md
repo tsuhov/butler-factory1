@@ -1,10 +1,45 @@
 ---
-title: "Сезонность в посуточной аренде в СПБ: как заработать в несезон"
-description: "Санкт-Петербург — город с ярко выраженной сезонностью. Летом спрос на посуточную аренду зашкаливает, но что делать в межсезонье и зимой? В этой статье мы раскроем секреты, как сохранить высокую загрузку и доходность вашей квартиры даже в низкий сезон, привлекая новые сегменты гостей и используя умные стратегии."
-pubDate: "2025-07-18T18:19:15.399Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.pexels.com/photos/5472251/pexels-photo-5472251.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Сезонность в посуточной аренде в СПБ: как заработать в несезон","description":"Санкт-Петербург — город с ярко выраженной сезонностью. Летом спрос на посуточную аренду зашкаливает, но что делать в межсезонье и зимой? В этой статье мы раскроем секреты, как сохранить высокую загрузку и доходность вашей квартиры даже в низкий сезон, привлекая новые сегменты гостей и используя умные стратегии.","image":{"@type":"ImageObject","url":"https://images.pexels.com/photos/5472251/pexels-photo-5472251.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.7","reviewCount":888,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/sezonnost-v-posutochnoy-arende-v-spb-kak-zarabotat-v-nesezon/"}}
+title: 'Сезонность в посуточной аренде в СПБ: как заработать в несезон'
+description: >-
+  Санкт-Петербург — город с ярко выраженной сезонностью. Летом спрос на
+  посуточную аренду зашкаливает, но что делать в межсезонье и зимой? В этой
+  статье мы раскроем секреты, как сохранить высокую загрузку и доходность вашей
+  квартиры даже в низкий сезон, привлекая новые сегменты гостей и используя
+  умные стратегии.
+pubDate: '2025-07-18T18:19:15.399Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.pexels.com/photos/5472251/pexels-photo-5472251.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Сезонность в посуточной аренде в СПБ: как заработать в несезон'
+  description: >-
+    Санкт-Петербург — город с ярко выраженной сезонностью. Летом спрос на
+    посуточную аренду зашкаливает, но что делать в межсезонье и зимой? В этой
+    статье мы раскроем секреты, как сохранить высокую загрузку и доходность
+    вашей квартиры даже в низкий сезон, привлекая новые сегменты гостей и
+    используя умные стратегии.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.pexels.com/photos/5472251/pexels-photo-5472251.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.9'
+    reviewCount: 382
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/sezonnost-v-posutochnoy-arende-v-spb-kak-zarabotat-v-nesezon/
 ---
 
 # Сезонность в посуточной аренде в СПб: как заполнить календарь и заработать в низкий сезон

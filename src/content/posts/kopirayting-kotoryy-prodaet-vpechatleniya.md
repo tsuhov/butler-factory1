@@ -1,10 +1,43 @@
 ---
-title: "Не просто слова: Как писать тексты, которые продают впечатления"
-description: "В мире, перенасыщенном предложениями, продают не характеристики, а эмоции. Блог ButlerSPB раскрывает секреты копирайтинга, который превращает читателей в лояльных клиентов, создавая незабываемые впечатления и работая на уровне чувств и воспоминаний."
-pubDate: "2025-07-20T15:30:57.471Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.pexels.com/photos/4112237/pexels-photo-4112237.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Не просто слова: Как писать тексты, которые продают впечатления","description":"В мире, перенасыщенном предложениями, продают не характеристики, а эмоции. Блог ButlerSPB раскрывает секреты копирайтинга, который превращает читателей в лояльных клиентов, создавая незабываемые впечатления и работая на уровне чувств и воспоминаний.","image":{"@type":"ImageObject","url":"https://images.pexels.com/photos/4112237/pexels-photo-4112237.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.7","reviewCount":517,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/kopirayting-kotoryy-prodaet-vpechatleniya/"}}
+title: 'Не просто слова: Как писать тексты, которые продают впечатления'
+description: >-
+  В мире, перенасыщенном предложениями, продают не характеристики, а эмоции.
+  Блог ButlerSPB раскрывает секреты копирайтинга, который превращает читателей в
+  лояльных клиентов, создавая незабываемые впечатления и работая на уровне
+  чувств и воспоминаний.
+pubDate: '2025-07-20T15:30:57.471Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.pexels.com/photos/4112237/pexels-photo-4112237.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Не просто слова: Как писать тексты, которые продают впечатления'
+  description: >-
+    В мире, перенасыщенном предложениями, продают не характеристики, а эмоции.
+    Блог ButlerSPB раскрывает секреты копирайтинга, который превращает читателей
+    в лояльных клиентов, создавая незабываемые впечатления и работая на уровне
+    чувств и воспоминаний.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.pexels.com/photos/4112237/pexels-photo-4112237.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.7'
+    reviewCount: 548
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/kopirayting-kotoryy-prodaet-vpechatleniya/
 ---
 
 # Копирайтинг, который продает впечатления: Как превратить описание вашей квартиры в магнит для лучших гостей

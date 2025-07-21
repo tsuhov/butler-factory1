@@ -1,10 +1,41 @@
 ---
-title: "Доверительное управление видовой квартирой в Питере"
-description: "Узнайте о преимуществах и особенностях доверительного управления вашей видовой квартирой в Санкт-Петербурге. Как максимизировать доход и защитить свою недвижимость с помощью профессионалов."
-pubDate: "2025-07-18T16:44:12.168Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Доверительное управление видовой квартирой в Питере","description":"Узнайте о преимуществах и особенностях доверительного управления вашей видовой квартирой в Санкт-Петербурге. Как максимизировать доход и защитить свою недвижимость с помощью профессионалов.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"5.0","reviewCount":701,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/doveritelnoe-upravlenie-vidovoy-kvartiroy-v-pitere/"}}
+title: Доверительное управление видовой квартирой в Питере
+description: >-
+  Узнайте о преимуществах и особенностях доверительного управления вашей видовой
+  квартирой в Санкт-Петербурге. Как максимизировать доход и защитить свою
+  недвижимость с помощью профессионалов.
+pubDate: '2025-07-18T16:44:12.168Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: Доверительное управление видовой квартирой в Питере
+  description: >-
+    Узнайте о преимуществах и особенностях доверительного управления вашей
+    видовой квартирой в Санкт-Петербурге. Как максимизировать доход и защитить
+    свою недвижимость с помощью профессионалов.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.9'
+    reviewCount: 393
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/doveritelnoe-upravlenie-vidovoy-kvartiroy-v-pitere/
 ---
 
 # Доверительное управление видовой квартирой в Санкт-Петербурге: Ваш гид по максимизации прибыли и минимизации рисков

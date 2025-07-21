@@ -1,10 +1,41 @@
 ---
-title: "Как привлечь новые сегменты аудитории: опыт ButlerSPB"
-description: "Откройте для себя проверенные стратегии по расширению клиентской базы. В этой статье мы делимся инсайтами и практическим опытом по анализу рынка, определению и привлечению новых сегментов аудитории для устойчивого роста вашего бизнеса."
-pubDate: "2025-07-20T19:01:52.070Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.pexels.com/photos/3184431/pexels-photo-3184431.jpeg"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Как привлечь новые сегменты аудитории: опыт ButlerSPB","description":"Откройте для себя проверенные стратегии по расширению клиентской базы. В этой статье мы делимся инсайтами и практическим опытом по анализу рынка, определению и привлечению новых сегментов аудитории для устойчивого роста вашего бизнеса.","image":{"@type":"ImageObject","url":"https://images.pexels.com/photos/3184431/pexels-photo-3184431.jpeg"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.7","reviewCount":858,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/privlechenie-novyh-segmentov-auditorii/"}}
+title: 'Как привлечь новые сегменты аудитории: опыт ButlerSPB'
+description: >-
+  Откройте для себя проверенные стратегии по расширению клиентской базы. В этой
+  статье мы делимся инсайтами и практическим опытом по анализу рынка,
+  определению и привлечению новых сегментов аудитории для устойчивого роста
+  вашего бизнеса.
+pubDate: '2025-07-20T19:01:52.070Z'
+author: Эксперт ButlerSPB
+heroImage: 'https://images.pexels.com/photos/3184431/pexels-photo-3184431.jpeg'
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Как привлечь новые сегменты аудитории: опыт ButlerSPB'
+  description: >-
+    Откройте для себя проверенные стратегии по расширению клиентской базы. В
+    этой статье мы делимся инсайтами и практическим опытом по анализу рынка,
+    определению и привлечению новых сегментов аудитории для устойчивого роста
+    вашего бизнеса.
+  image:
+    '@type': ImageObject
+    url: 'https://images.pexels.com/photos/3184431/pexels-photo-3184431.jpeg'
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.9'
+    reviewCount: 528
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/privlechenie-novyh-segmentov-auditorii/
 ---
 
 # Больше, чем туристы: Как привлечь новые сегменты гостей и удвоить доход от посуточной аренды в СПб

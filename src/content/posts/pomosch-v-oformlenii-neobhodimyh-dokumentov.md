@@ -1,10 +1,41 @@
 ---
-title: "Помощь в оформлении документов: как сэкономить время и нервы с ButlerSPB"
-description: "Сбор и подача документов — утомительный процесс, отнимающий много времени и сил. Узнайте, как делегировать эту задачу профессионалам ButlerSPB и избежать бюрократических проволочек, ошибок в заполнении и долгих очередей."
-pubDate: "2025-07-21T00:15:26.832Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.pexels.com/photos/7709249/pexels-photo-7709249.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Помощь в оформлении документов: как сэкономить время и нервы с ButlerSPB","description":"Сбор и подача документов — утомительный процесс, отнимающий много времени и сил. Узнайте, как делегировать эту задачу профессионалам ButlerSPB и избежать бюрократических проволочек, ошибок в заполнении и долгих очередей.","image":{"@type":"ImageObject","url":"https://images.pexels.com/photos/7709249/pexels-photo-7709249.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.8","reviewCount":732,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/pomosch-v-oformlenii-neobhodimyh-dokumentov/"}}
+title: 'Помощь в оформлении документов: как сэкономить время и нервы с ButlerSPB'
+description: >-
+  Сбор и подача документов — утомительный процесс, отнимающий много времени и
+  сил. Узнайте, как делегировать эту задачу профессионалам ButlerSPB и избежать
+  бюрократических проволочек, ошибок в заполнении и долгих очередей.
+pubDate: '2025-07-21T00:15:26.832Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.pexels.com/photos/7709249/pexels-photo-7709249.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Помощь в оформлении документов: как сэкономить время и нервы с ButlerSPB'
+  description: >-
+    Сбор и подача документов — утомительный процесс, отнимающий много времени и
+    сил. Узнайте, как делегировать эту задачу профессионалам ButlerSPB и
+    избежать бюрократических проволочек, ошибок в заполнении и долгих очередей.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.pexels.com/photos/7709249/pexels-photo-7709249.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '5.0'
+    reviewCount: 361
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/pomosch-v-oformlenii-neobhodimyh-dokumentov/
 ---
 
 # Помощь в оформлении документов для посуточной аренды: полный чек-лист для собственника в СПб

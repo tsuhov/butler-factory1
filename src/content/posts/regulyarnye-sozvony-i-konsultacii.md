@@ -1,10 +1,40 @@
 ---
-title: "Регулярные созвоны и консультации: ключ к успешному проекту"
-description: "В ButlerSPB мы убеждены, что прозрачность и постоянный диалог с клиентом — основа успешного сотрудничества. Узнайте, как регулярные созвоны помогают нам оставаться на одной волне, оперативно решать вопросы и достигать поставленных целей, экономя ваше время и нервы."
-pubDate: "2025-07-21T10:30:44.159Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1588196749597-9ff075ee6b5b"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Регулярные созвоны и консультации: ключ к успешному проекту","description":"В ButlerSPB мы убеждены, что прозрачность и постоянный диалог с клиентом — основа успешного сотрудничества. Узнайте, как регулярные созвоны помогают нам оставаться на одной волне, оперативно решать вопросы и достигать поставленных целей, экономя ваше время и нервы.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1588196749597-9ff075ee6b5b"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.8","reviewCount":630,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/regulyarnye-sozvony-i-konsultacii/"}}
+title: 'Регулярные созвоны и консультации: ключ к успешному проекту'
+description: >-
+  В ButlerSPB мы убеждены, что прозрачность и постоянный диалог с клиентом —
+  основа успешного сотрудничества. Узнайте, как регулярные созвоны помогают нам
+  оставаться на одной волне, оперативно решать вопросы и достигать поставленных
+  целей, экономя ваше время и нервы.
+pubDate: '2025-07-21T10:30:44.159Z'
+author: Эксперт ButlerSPB
+heroImage: 'https://images.unsplash.com/photo-1588196749597-9ff075ee6b5b'
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Регулярные созвоны и консультации: ключ к успешному проекту'
+  description: >-
+    В ButlerSPB мы убеждены, что прозрачность и постоянный диалог с клиентом —
+    основа успешного сотрудничества. Узнайте, как регулярные созвоны помогают
+    нам оставаться на одной волне, оперативно решать вопросы и достигать
+    поставленных целей, экономя ваше время и нервы.
+  image:
+    '@type': ImageObject
+    url: 'https://images.unsplash.com/photo-1588196749597-9ff075ee6b5b'
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.7'
+    reviewCount: 505
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': 'https://butlerspb-blog.netlify.app/blog/regulyarnye-sozvony-i-konsultacii/'
 ---
 
 # Контроль и доходность: Почему регулярные созвоны с управляющей компанией — ваш ключ к успеху в посуточной аренде

@@ -1,10 +1,45 @@
 ---
-title: "Ключевые показатели: ADR, RevPAR, Occupancy"
-description: "Понимание и анализ ключевых гостиничных метрик, таких как ADR, Occupancy и RevPAR, является основой успешного управления отелем. В этой статье мы разбираем, что означает каждый из этих показателей, как их рассчитывать и, самое главное, как их улучшить для повышения прибыльности вашего бизнеса. Узнайте, как ButlerSPB помогает своим партнерам достигать выдающихся результатов, оптимизируя эти метрики."
-pubDate: "2025-07-20T19:10:02.326Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1618773928121-c32242e63f39"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Ключевые показатели: ADR, RevPAR, Occupancy","description":"Понимание и анализ ключевых гостиничных метрик, таких как ADR, Occupancy и RevPAR, является основой успешного управления отелем. В этой статье мы разбираем, что означает каждый из этих показателей, как их рассчитывать и, самое главное, как их улучшить для повышения прибыльности вашего бизнеса. Узнайте, как ButlerSPB помогает своим партнерам достигать выдающихся результатов, оптимизируя эти метрики.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1618773928121-c32242e63f39"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.8","reviewCount":492,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/klyuchevye-pokazateli-adr-revpar-occupancy/"}}
+title: 'Ключевые показатели: ADR, RevPAR, Occupancy'
+description: >-
+  Понимание и анализ ключевых гостиничных метрик, таких как ADR, Occupancy и
+  RevPAR, является основой успешного управления отелем. В этой статье мы
+  разбираем, что означает каждый из этих показателей, как их рассчитывать и,
+  самое главное, как их улучшить для повышения прибыльности вашего бизнеса.
+  Узнайте, как ButlerSPB помогает своим партнерам достигать выдающихся
+  результатов, оптимизируя эти метрики.
+pubDate: '2025-07-20T19:10:02.326Z'
+author: Эксперт ButlerSPB
+heroImage: 'https://images.unsplash.com/photo-1618773928121-c32242e63f39'
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Ключевые показатели: ADR, RevPAR, Occupancy'
+  description: >-
+    Понимание и анализ ключевых гостиничных метрик, таких как ADR, Occupancy и
+    RevPAR, является основой успешного управления отелем. В этой статье мы
+    разбираем, что означает каждый из этих показателей, как их рассчитывать и,
+    самое главное, как их улучшить для повышения прибыльности вашего бизнеса.
+    Узнайте, как ButlerSPB помогает своим партнерам достигать выдающихся
+    результатов, оптимизируя эти метрики.
+  image:
+    '@type': ImageObject
+    url: 'https://images.unsplash.com/photo-1618773928121-c32242e63f39'
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.8'
+    reviewCount: 555
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/klyuchevye-pokazateli-adr-revpar-occupancy/
 ---
 
 # ADR, RevPAR, Occupancy: Как 3 показателя помогут удвоить доход от вашей квартиры в Петербурге

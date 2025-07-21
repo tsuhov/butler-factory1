@@ -1,10 +1,43 @@
 ---
-title: "Работа с иностранными гостями в Санкт-Петербурге: особенности и правила"
-description: "Полное руководство по приему и обслуживанию иностранных туристов в культурной столице России. От визовых формальностей и культурных нюансов до советов по коммуникации и обеспечению безопасности – все, что нужно знать для создания незабываемого опыта для ваших гостей."
-pubDate: "2025-07-18T18:23:14.259Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.pexels.com/photos/1569076/pexels-photo-1569076.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Работа с иностранными гостями в Санкт-Петербурге: особенности и правила","description":"Полное руководство по приему и обслуживанию иностранных туристов в культурной столице России. От визовых формальностей и культурных нюансов до советов по коммуникации и обеспечению безопасности – все, что нужно знать для создания незабываемого опыта для ваших гостей.","image":{"@type":"ImageObject","url":"https://images.pexels.com/photos/1569076/pexels-photo-1569076.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.8","reviewCount":625,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/rabota-s-inostrannymi-gostyami-v-sankt-peterburge-osobennosti-i-pravila/"}}
+title: 'Работа с иностранными гостями в Санкт-Петербурге: особенности и правила'
+description: >-
+  Полное руководство по приему и обслуживанию иностранных туристов в культурной
+  столице России. От визовых формальностей и культурных нюансов до советов по
+  коммуникации и обеспечению безопасности – все, что нужно знать для создания
+  незабываемого опыта для ваших гостей.
+pubDate: '2025-07-18T18:23:14.259Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.pexels.com/photos/1569076/pexels-photo-1569076.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Работа с иностранными гостями в Санкт-Петербурге: особенности и правила'
+  description: >-
+    Полное руководство по приему и обслуживанию иностранных туристов в
+    культурной столице России. От визовых формальностей и культурных нюансов до
+    советов по коммуникации и обеспечению безопасности – все, что нужно знать
+    для создания незабываемого опыта для ваших гостей.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.pexels.com/photos/1569076/pexels-photo-1569076.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.8'
+    reviewCount: 300
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/rabota-s-inostrannymi-gostyami-v-sankt-peterburge-osobennosti-i-pravila/
 ---
 
 # Работа с иностранными гостями в Санкт-Петербурге: полное руководство для отелей, ресторанов и гидов

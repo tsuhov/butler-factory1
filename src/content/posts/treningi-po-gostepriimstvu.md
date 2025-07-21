@@ -1,10 +1,44 @@
 ---
-title: "Тренинги по гостеприимству: Как превратить сервис в искусство и повысить лояльность гостей"
-description: "В мире, где впечатления значат все, безупречный сервис становится главным конкурентным преимуществом. Узнайте, как наши тренинги по гостеприимству от ButlerSPB помогают командам отелей, ресторанов и бутиков достигать новых высот, превращая каждого гостя в постоянного клиента."
-pubDate: "2025-07-20T22:15:50.929Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.pexels.com/photos/3201921/pexels-photo-3201921.jpeg"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Тренинги по гостеприимству: Как превратить сервис в искусство и повысить лояльность гостей","description":"В мире, где впечатления значат все, безупречный сервис становится главным конкурентным преимуществом. Узнайте, как наши тренинги по гостеприимству от ButlerSPB помогают командам отелей, ресторанов и бутиков достигать новых высот, превращая каждого гостя в постоянного клиента.","image":{"@type":"ImageObject","url":"https://images.pexels.com/photos/3201921/pexels-photo-3201921.jpeg"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":637,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/treningi-po-gostepriimstvu/"}}
+title: >-
+  Тренинги по гостеприимству: Как превратить сервис в искусство и повысить
+  лояльность гостей
+description: >-
+  В мире, где впечатления значат все, безупречный сервис становится главным
+  конкурентным преимуществом. Узнайте, как наши тренинги по гостеприимству от
+  ButlerSPB помогают командам отелей, ресторанов и бутиков достигать новых
+  высот, превращая каждого гостя в постоянного клиента.
+pubDate: '2025-07-20T22:15:50.929Z'
+author: Эксперт ButlerSPB
+heroImage: 'https://images.pexels.com/photos/3201921/pexels-photo-3201921.jpeg'
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: >-
+    Тренинги по гостеприимству: Как превратить сервис в искусство и повысить
+    лояльность гостей
+  description: >-
+    В мире, где впечатления значат все, безупречный сервис становится главным
+    конкурентным преимуществом. Узнайте, как наши тренинги по гостеприимству от
+    ButlerSPB помогают командам отелей, ресторанов и бутиков достигать новых
+    высот, превращая каждого гостя в постоянного клиента.
+  image:
+    '@type': ImageObject
+    url: 'https://images.pexels.com/photos/3201921/pexels-photo-3201921.jpeg'
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.7'
+    reviewCount: 803
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': 'https://butlerspb-blog.netlify.app/blog/treningi-po-gostepriimstvu/'
 ---
 
 # Тренинги по гостеприимству: Превращаем вашу квартиру в бизнес с рейтингом 5.0 и стабильным доходом

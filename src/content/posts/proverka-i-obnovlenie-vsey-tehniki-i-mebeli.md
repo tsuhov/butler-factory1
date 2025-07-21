@@ -1,10 +1,41 @@
 ---
-title: "Проверка и обновление всей техники и мебели"
-description: "Регулярная инвентаризация и своевременное обновление техники и мебели – ключ к комфорту, безопасности и сохранению ценности вашей недвижимости. Узнайте, как ButlerSPB помогает поддерживать ваше имущество в идеальном состоянии."
-pubDate: "2025-07-20T18:51:03.506Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1618220179428-22790b461013?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Проверка и обновление всей техники и мебели","description":"Регулярная инвентаризация и своевременное обновление техники и мебели – ключ к комфорту, безопасности и сохранению ценности вашей недвижимости. Узнайте, как ButlerSPB помогает поддерживать ваше имущество в идеальном состоянии.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1618220179428-22790b461013?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":842,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/proverka-i-obnovlenie-vsey-tehniki-i-mebeli/"}}
+title: Проверка и обновление всей техники и мебели
+description: >-
+  Регулярная инвентаризация и своевременное обновление техники и мебели – ключ к
+  комфорту, безопасности и сохранению ценности вашей недвижимости. Узнайте, как
+  ButlerSPB помогает поддерживать ваше имущество в идеальном состоянии.
+pubDate: '2025-07-20T18:51:03.506Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1618220179428-22790b461013?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: Проверка и обновление всей техники и мебели
+  description: >-
+    Регулярная инвентаризация и своевременное обновление техники и мебели – ключ
+    к комфорту, безопасности и сохранению ценности вашей недвижимости. Узнайте,
+    как ButlerSPB помогает поддерживать ваше имущество в идеальном состоянии.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1618220179428-22790b461013?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '5.0'
+    reviewCount: 889
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/proverka-i-obnovlenie-vsey-tehniki-i-mebeli/
 ---
 
 # Усталая квартира — пустой календарь: Полное руководство по проверке и обновлению техники и мебели для посуточной аренды

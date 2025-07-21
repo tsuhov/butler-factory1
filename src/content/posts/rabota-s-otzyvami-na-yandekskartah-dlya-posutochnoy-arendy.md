@@ -1,10 +1,43 @@
 ---
-title: "Работа с отзывами на Яндекс.Картах для посуточной аренды"
-description: "Эффективная стратегия работы с отзывами на Яндекс.Картах может значительно повысить привлекательность вашей посуточной аренды. В этой статье мы разбираем, как правильно реагировать на позитивные и негативные комментарии, мотивировать гостей оставлять отзывы и использовать обратную связь для улучшения сервиса и увеличения бронирований."
-pubDate: "2025-07-19T14:14:24.564Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.pexels.com/photos/7641849/pexels-photo-7641849.jpeg"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Работа с отзывами на Яндекс.Картах для посуточной аренды","description":"Эффективная стратегия работы с отзывами на Яндекс.Картах может значительно повысить привлекательность вашей посуточной аренды. В этой статье мы разбираем, как правильно реагировать на позитивные и негативные комментарии, мотивировать гостей оставлять отзывы и использовать обратную связь для улучшения сервиса и увеличения бронирований.","image":{"@type":"ImageObject","url":"https://images.pexels.com/photos/7641849/pexels-photo-7641849.jpeg"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.7","reviewCount":781,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/rabota-s-otzyvami-na-yandekskartah-dlya-posutochnoy-arendy/"}}
+title: Работа с отзывами на Яндекс.Картах для посуточной аренды
+description: >-
+  Эффективная стратегия работы с отзывами на Яндекс.Картах может значительно
+  повысить привлекательность вашей посуточной аренды. В этой статье мы
+  разбираем, как правильно реагировать на позитивные и негативные комментарии,
+  мотивировать гостей оставлять отзывы и использовать обратную связь для
+  улучшения сервиса и увеличения бронирований.
+pubDate: '2025-07-19T14:14:24.564Z'
+author: Эксперт ButlerSPB
+heroImage: 'https://images.pexels.com/photos/7641849/pexels-photo-7641849.jpeg'
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: Работа с отзывами на Яндекс.Картах для посуточной аренды
+  description: >-
+    Эффективная стратегия работы с отзывами на Яндекс.Картах может значительно
+    повысить привлекательность вашей посуточной аренды. В этой статье мы
+    разбираем, как правильно реагировать на позитивные и негативные комментарии,
+    мотивировать гостей оставлять отзывы и использовать обратную связь для
+    улучшения сервиса и увеличения бронирований.
+  image:
+    '@type': ImageObject
+    url: 'https://images.pexels.com/photos/7641849/pexels-photo-7641849.jpeg'
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '5.0'
+    reviewCount: 758
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/rabota-s-otzyvami-na-yandekskartah-dlya-posutochnoy-arendy/
 ---
 
 # **Как отзывы на Яндекс.Картах удваивают бронирования в посуточной аренде: полное руководство**

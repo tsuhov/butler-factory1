@@ -1,10 +1,48 @@
 ---
-title: "Технологии и автоматизация: Как ButlerSPB использует инновации для вашего комфорта"
-description: "В современном мире технологии проникают во все сферы жизни, делая ее проще и эффективнее. В ButlerSPB мы активно внедряем передовые решения для автоматизации рутинных задач, чтобы предоставлять вам сервис высочайшего качества. Узнайте, как умные системы и цифровые платформы помогают нам заботиться о вашей недвижимости и исполнять ваши поручения быстрее и точнее."
-pubDate: "2025-07-21T10:47:54.926Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.pexels.com/photos/8386440/pexels-photo-8386440.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Технологии и автоматизация: Как ButlerSPB использует инновации для вашего комфорта","description":"В современном мире технологии проникают во все сферы жизни, делая ее проще и эффективнее. В ButlerSPB мы активно внедряем передовые решения для автоматизации рутинных задач, чтобы предоставлять вам сервис высочайшего качества. Узнайте, как умные системы и цифровые платформы помогают нам заботиться о вашей недвижимости и исполнять ваши поручения быстрее и точнее.","image":{"@type":"ImageObject","url":"https://images.pexels.com/photos/8386440/pexels-photo-8386440.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":860,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/tehnologii-i-avtomatizaciya/"}}
+title: >-
+  Технологии и автоматизация: Как ButlerSPB использует инновации для вашего
+  комфорта
+description: >-
+  В современном мире технологии проникают во все сферы жизни, делая ее проще и
+  эффективнее. В ButlerSPB мы активно внедряем передовые решения для
+  автоматизации рутинных задач, чтобы предоставлять вам сервис высочайшего
+  качества. Узнайте, как умные системы и цифровые платформы помогают нам
+  заботиться о вашей недвижимости и исполнять ваши поручения быстрее и точнее.
+pubDate: '2025-07-21T10:47:54.926Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.pexels.com/photos/8386440/pexels-photo-8386440.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: >-
+    Технологии и автоматизация: Как ButlerSPB использует инновации для вашего
+    комфорта
+  description: >-
+    В современном мире технологии проникают во все сферы жизни, делая ее проще и
+    эффективнее. В ButlerSPB мы активно внедряем передовые решения для
+    автоматизации рутинных задач, чтобы предоставлять вам сервис высочайшего
+    качества. Узнайте, как умные системы и цифровые платформы помогают нам
+    заботиться о вашей недвижимости и исполнять ваши поручения быстрее и точнее.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.pexels.com/photos/8386440/pexels-photo-8386440.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.9'
+    reviewCount: 485
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': 'https://butlerspb-blog.netlify.app/blog/tehnologii-i-avtomatizaciya/'
 ---
 
 # Автоматизация посуточной аренды: От головной боли собственника к пассивному доходу с технологиями ButlerSPB

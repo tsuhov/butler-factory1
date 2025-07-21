@@ -1,10 +1,41 @@
 ---
-title: "Динамическое ценообразование в посуточной аренде: инструкция для СПБ"
-description: "Полное руководство для собственников жилья в Санкт-Петербурге о том, как увеличить доход от посуточной аренды с помощью стратегий динамического ценообразования. Разбираем ключевые факторы, инструменты и даем практические советы."
-pubDate: "2025-07-18T15:16:58.253Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.pexels.com/photos/279746/pexels-photo-279746.jpeg"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Динамическое ценообразование в посуточной аренде: инструкция для СПБ","description":"Полное руководство для собственников жилья в Санкт-Петербурге о том, как увеличить доход от посуточной аренды с помощью стратегий динамического ценообразования. Разбираем ключевые факторы, инструменты и даем практические советы.","image":{"@type":"ImageObject","url":"https://images.pexels.com/photos/279746/pexels-photo-279746.jpeg"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"5.0","reviewCount":542,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/dinamicheskoe-cenoobrazovanie-v-posutochnoy-arende-instrukciya-dlya-spb/"}}
+title: 'Динамическое ценообразование в посуточной аренде: инструкция для СПБ'
+description: >-
+  Полное руководство для собственников жилья в Санкт-Петербурге о том, как
+  увеличить доход от посуточной аренды с помощью стратегий динамического
+  ценообразования. Разбираем ключевые факторы, инструменты и даем практические
+  советы.
+pubDate: '2025-07-18T15:16:58.253Z'
+author: Эксперт ButlerSPB
+heroImage: 'https://images.pexels.com/photos/279746/pexels-photo-279746.jpeg'
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Динамическое ценообразование в посуточной аренде: инструкция для СПБ'
+  description: >-
+    Полное руководство для собственников жилья в Санкт-Петербурге о том, как
+    увеличить доход от посуточной аренды с помощью стратегий динамического
+    ценообразования. Разбираем ключевые факторы, инструменты и даем практические
+    советы.
+  image:
+    '@type': ImageObject
+    url: 'https://images.pexels.com/photos/279746/pexels-photo-279746.jpeg'
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.8'
+    reviewCount: 671
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/dinamicheskoe-cenoobrazovanie-v-posutochnoy-arende-instrukciya-dlya-spb/
 ---
 
 # Динамическое ценообразование в посуточной аренде СПБ: Полное руководство по увеличению дохода

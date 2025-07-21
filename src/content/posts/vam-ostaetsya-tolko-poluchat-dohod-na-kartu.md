@@ -1,10 +1,43 @@
 ---
-title: "Вам остается только получать доход на карту"
-description: "Узнайте, как сервис по управлению недвижимостью от ButlerSPB избавляет вас от всех хлопот, связанных со сдачей квартиры в аренду. Мы берем на себя всё: от поиска жильцов до технического обслуживания, а вы просто наслаждаетесь стабильным доходом, который поступает прямо на вашу банковскую карту."
-pubDate: "2025-07-21T11:16:16.440Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Вам остается только получать доход на карту","description":"Узнайте, как сервис по управлению недвижимостью от ButlerSPB избавляет вас от всех хлопот, связанных со сдачей квартиры в аренду. Мы берем на себя всё: от поиска жильцов до технического обслуживания, а вы просто наслаждаетесь стабильным доходом, который поступает прямо на вашу банковскую карту.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.7","reviewCount":760,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/vam-ostaetsya-tolko-poluchat-dohod-na-kartu/"}}
+title: Вам остается только получать доход на карту
+description: >-
+  Узнайте, как сервис по управлению недвижимостью от ButlerSPB избавляет вас от
+  всех хлопот, связанных со сдачей квартиры в аренду. Мы берем на себя всё: от
+  поиска жильцов до технического обслуживания, а вы просто наслаждаетесь
+  стабильным доходом, который поступает прямо на вашу банковскую карту.
+pubDate: '2025-07-21T11:16:16.440Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: Вам остается только получать доход на карту
+  description: >-
+    Узнайте, как сервис по управлению недвижимостью от ButlerSPB избавляет вас
+    от всех хлопот, связанных со сдачей квартиры в аренду. Мы берем на себя всё:
+    от поиска жильцов до технического обслуживания, а вы просто наслаждаетесь
+    стабильным доходом, который поступает прямо на вашу банковскую карту.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.7'
+    reviewCount: 873
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/vam-ostaetsya-tolko-poluchat-dohod-na-kartu/
 ---
 
 # Вам остается только получать доход на карту.

@@ -1,10 +1,41 @@
 ---
-title: "Как легально сдавать апартаменты в Санкт-Петербурге"
-description: "Полное руководство для собственников: от выбора налогового режима и регистрации до заключения договора с жильцами. Разбираем все юридические тонкости, чтобы ваш арендный бизнес был прибыльным и полностью законным."
-pubDate: "2025-07-19T13:59:47.668Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Как легально сдавать апартаменты в Санкт-Петербурге","description":"Полное руководство для собственников: от выбора налогового режима и регистрации до заключения договора с жильцами. Разбираем все юридические тонкости, чтобы ваш арендный бизнес был прибыльным и полностью законным.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":363,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/kak-legalno-sdavat-apartamenty-v-sankt-peterburge/"}}
+title: Как легально сдавать апартаменты в Санкт-Петербурге
+description: >-
+  Полное руководство для собственников: от выбора налогового режима и
+  регистрации до заключения договора с жильцами. Разбираем все юридические
+  тонкости, чтобы ваш арендный бизнес был прибыльным и полностью законным.
+pubDate: '2025-07-19T13:59:47.668Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: Как легально сдавать апартаменты в Санкт-Петербурге
+  description: >-
+    Полное руководство для собственников: от выбора налогового режима и
+    регистрации до заключения договора с жильцами. Разбираем все юридические
+    тонкости, чтобы ваш арендный бизнес был прибыльным и полностью законным.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.8'
+    reviewCount: 775
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/kak-legalno-sdavat-apartamenty-v-sankt-peterburge/
 ---
 
 # Как легально сдавать апартаменты в Санкт-Петербурге: Полное руководство для собственника в 2024 году

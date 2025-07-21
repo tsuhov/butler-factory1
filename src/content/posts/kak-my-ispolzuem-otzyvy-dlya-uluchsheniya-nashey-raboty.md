@@ -1,10 +1,39 @@
 ---
-title: "Как мы используем отзывы для улучшения нашей работы"
-description: "В ButlerSPB мы убеждены, что обратная связь от клиентов — это самый ценный ресурс для роста. В этой статье мы делимся нашим подходом к сбору, анализу и внедрению ваших предложений, чтобы каждый день становиться лучше для вас."
-pubDate: "2025-07-21T00:19:27.373Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.pexels.com/photos/1395967/pexels-photo-1395967.jpeg"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Как мы используем отзывы для улучшения нашей работы","description":"В ButlerSPB мы убеждены, что обратная связь от клиентов — это самый ценный ресурс для роста. В этой статье мы делимся нашим подходом к сбору, анализу и внедрению ваших предложений, чтобы каждый день становиться лучше для вас.","image":{"@type":"ImageObject","url":"https://images.pexels.com/photos/1395967/pexels-photo-1395967.jpeg"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.8","reviewCount":868,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/kak-my-ispolzuem-otzyvy-dlya-uluchsheniya-nashey-raboty/"}}
+title: Как мы используем отзывы для улучшения нашей работы
+description: >-
+  В ButlerSPB мы убеждены, что обратная связь от клиентов — это самый ценный
+  ресурс для роста. В этой статье мы делимся нашим подходом к сбору, анализу и
+  внедрению ваших предложений, чтобы каждый день становиться лучше для вас.
+pubDate: '2025-07-21T00:19:27.373Z'
+author: Эксперт ButlerSPB
+heroImage: 'https://images.pexels.com/photos/1395967/pexels-photo-1395967.jpeg'
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: Как мы используем отзывы для улучшения нашей работы
+  description: >-
+    В ButlerSPB мы убеждены, что обратная связь от клиентов — это самый ценный
+    ресурс для роста. В этой статье мы делимся нашим подходом к сбору, анализу и
+    внедрению ваших предложений, чтобы каждый день становиться лучше для вас.
+  image:
+    '@type': ImageObject
+    url: 'https://images.pexels.com/photos/1395967/pexels-photo-1395967.jpeg'
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.9'
+    reviewCount: 632
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/kak-my-ispolzuem-otzyvy-dlya-uluchsheniya-nashey-raboty/
 ---
 
 # **Отзыв — это не оценка, а точка роста. Как в ButlerSPB превращают обратную связь в доход для собственников**

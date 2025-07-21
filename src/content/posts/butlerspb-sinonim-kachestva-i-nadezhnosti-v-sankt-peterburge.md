@@ -1,10 +1,45 @@
 ---
-title: "ButlerSPB — синоним качества и надежности в Санкт-Петербурге"
-description: "В мире, где выбор услуг огромен, найти компанию, которая станет настоящим партнером, — большая удача. ButlerSPB уже много лет доказывает, что высокий стандарт сервиса, внимание к деталям и безупречная репутация — не просто слова, а основа ежедневной работы. Узнайте, почему жители и гости Санкт-Петербурга доверяют нам самое ценное."
-pubDate: "2025-07-20T22:56:42.198Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"ButlerSPB — синоним качества и надежности в Санкт-Петербурге","description":"В мире, где выбор услуг огромен, найти компанию, которая станет настоящим партнером, — большая удача. ButlerSPB уже много лет доказывает, что высокий стандарт сервиса, внимание к деталям и безупречная репутация — не просто слова, а основа ежедневной работы. Узнайте, почему жители и гости Санкт-Петербурга доверяют нам самое ценное.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.8","reviewCount":360,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/butlerspb-sinonim-kachestva-i-nadezhnosti-v-sankt-peterburge/"}}
+title: ButlerSPB — синоним качества и надежности в Санкт-Петербурге
+description: >-
+  В мире, где выбор услуг огромен, найти компанию, которая станет настоящим
+  партнером, — большая удача. ButlerSPB уже много лет доказывает, что высокий
+  стандарт сервиса, внимание к деталям и безупречная репутация — не просто
+  слова, а основа ежедневной работы. Узнайте, почему жители и гости
+  Санкт-Петербурга доверяют нам самое ценное.
+pubDate: '2025-07-20T22:56:42.198Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: ButlerSPB — синоним качества и надежности в Санкт-Петербурге
+  description: >-
+    В мире, где выбор услуг огромен, найти компанию, которая станет настоящим
+    партнером, — большая удача. ButlerSPB уже много лет доказывает, что высокий
+    стандарт сервиса, внимание к деталям и безупречная репутация — не просто
+    слова, а основа ежедневной работы. Узнайте, почему жители и гости
+    Санкт-Петербурга доверяют нам самое ценное.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.8'
+    reviewCount: 788
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/butlerspb-sinonim-kachestva-i-nadezhnosti-v-sankt-peterburge/
 ---
 
 # ButlerSPB — ваш надежный партнер в управлении посуточной арендой в Санкт-Петербурге

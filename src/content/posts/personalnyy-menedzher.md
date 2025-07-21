@@ -1,10 +1,43 @@
 ---
-title: "Персональный менеджер ButlerSPB: ключ к вашей продуктивности и спокойствию"
-description: "В современном мире время — самый ценный ресурс. Узнайте из нашей новой статьи, как персональный менеджер от ButlerSPB может взять на себя рутинные и сложные задачи, освобождая ваше время для самого важного. Мы расскажем, какие именно поручения можно делегировать и как это изменит вашу жизнь к лучшему."
-pubDate: "2025-07-21T10:28:46.750Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1556761175-5973dc0f32e7?q=80&w=2832&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Персональный менеджер ButlerSPB: ключ к вашей продуктивности и спокойствию","description":"В современном мире время — самый ценный ресурс. Узнайте из нашей новой статьи, как персональный менеджер от ButlerSPB может взять на себя рутинные и сложные задачи, освобождая ваше время для самого важного. Мы расскажем, какие именно поручения можно делегировать и как это изменит вашу жизнь к лучшему.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1556761175-5973dc0f32e7?q=80&w=2832&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":811,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/personalnyy-menedzher/"}}
+title: 'Персональный менеджер ButlerSPB: ключ к вашей продуктивности и спокойствию'
+description: >-
+  В современном мире время — самый ценный ресурс. Узнайте из нашей новой статьи,
+  как персональный менеджер от ButlerSPB может взять на себя рутинные и сложные
+  задачи, освобождая ваше время для самого важного. Мы расскажем, какие именно
+  поручения можно делегировать и как это изменит вашу жизнь к лучшему.
+pubDate: '2025-07-21T10:28:46.750Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1556761175-5973dc0f32e7?q=80&w=2832&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Персональный менеджер ButlerSPB: ключ к вашей продуктивности и спокойствию'
+  description: >-
+    В современном мире время — самый ценный ресурс. Узнайте из нашей новой
+    статьи, как персональный менеджер от ButlerSPB может взять на себя рутинные
+    и сложные задачи, освобождая ваше время для самого важного. Мы расскажем,
+    какие именно поручения можно делегировать и как это изменит вашу жизнь к
+    лучшему.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1556761175-5973dc0f32e7?q=80&w=2832&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.8'
+    reviewCount: 309
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': 'https://butlerspb-blog.netlify.app/blog/personalnyy-menedzher/'
 ---
 
 # Ваш персональный менеджер в мире посуточной аренды: Как ButlerSPB превращает квартиру в СПб из головной боли в стабильный источник дохода

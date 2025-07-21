@@ -1,10 +1,43 @@
 ---
-title: "Как работать с площадками: Авито, Суточно, Островок для аренды в Питере"
-description: "Подробное руководство для арендодателей в Санкт-Петербурге по эффективной работе с популярными площадками для сдачи квартир в аренду: Авито, Суточно.ру и Островок.ру. Советы по созданию объявлений, управлению бронированиями и увеличению дохода."
-pubDate: "2025-07-18T13:31:55.876Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.pexels.com/photos/2087387/pexels-photo-2087387.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Как работать с площадками: Авито, Суточно, Островок для аренды в Питере","description":"Подробное руководство для арендодателей в Санкт-Петербурге по эффективной работе с популярными площадками для сдачи квартир в аренду: Авито, Суточно.ру и Островок.ру. Советы по созданию объявлений, управлению бронированиями и увеличению дохода.","image":{"@type":"ImageObject","url":"https://images.pexels.com/photos/2087387/pexels-photo-2087387.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":443,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/kak-rabotat-s-ploschadkami-avito-sutochno-ostrovok-dlya-arendy-v-pitere/"}}
+title: 'Как работать с площадками: Авито, Суточно, Островок для аренды в Питере'
+description: >-
+  Подробное руководство для арендодателей в Санкт-Петербурге по эффективной
+  работе с популярными площадками для сдачи квартир в аренду: Авито, Суточно.ру
+  и Островок.ру. Советы по созданию объявлений, управлению бронированиями и
+  увеличению дохода.
+pubDate: '2025-07-18T13:31:55.876Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.pexels.com/photos/2087387/pexels-photo-2087387.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Как работать с площадками: Авито, Суточно, Островок для аренды в Питере'
+  description: >-
+    Подробное руководство для арендодателей в Санкт-Петербурге по эффективной
+    работе с популярными площадками для сдачи квартир в аренду: Авито,
+    Суточно.ру и Островок.ру. Советы по созданию объявлений, управлению
+    бронированиями и увеличению дохода.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.pexels.com/photos/2087387/pexels-photo-2087387.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.8'
+    reviewCount: 603
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/kak-rabotat-s-ploschadkami-avito-sutochno-ostrovok-dlya-arendy-v-pitere/
 ---
 
 # Как сдавать квартиру в Питере: подробный гид по Авито, Суточно.ру и Островку

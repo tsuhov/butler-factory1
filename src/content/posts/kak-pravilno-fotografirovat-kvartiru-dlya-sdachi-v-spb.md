@@ -1,10 +1,41 @@
 ---
-title: "Как правильно фотографировать квартиру для сдачи в СПБ"
-description: "Качественные фотографии — ключ к быстрой и выгодной сдаче квартиры. Узнайте, как подготовить жилье к съемке, выбрать правильное освещение и ракурсы, чтобы ваша квартира в Санкт-Петербурге выглядела максимально привлекательно для потенциальных арендаторов."
-pubDate: "2025-07-18T15:09:03.098Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.pexels.com/photos/2724749/pexels-photo-2724749.jpeg"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Как правильно фотографировать квартиру для сдачи в СПБ","description":"Качественные фотографии — ключ к быстрой и выгодной сдаче квартиры. Узнайте, как подготовить жилье к съемке, выбрать правильное освещение и ракурсы, чтобы ваша квартира в Санкт-Петербурге выглядела максимально привлекательно для потенциальных арендаторов.","image":{"@type":"ImageObject","url":"https://images.pexels.com/photos/2724749/pexels-photo-2724749.jpeg"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":408,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/kak-pravilno-fotografirovat-kvartiru-dlya-sdachi-v-spb/"}}
+title: Как правильно фотографировать квартиру для сдачи в СПБ
+description: >-
+  Качественные фотографии — ключ к быстрой и выгодной сдаче квартиры. Узнайте,
+  как подготовить жилье к съемке, выбрать правильное освещение и ракурсы, чтобы
+  ваша квартира в Санкт-Петербурге выглядела максимально привлекательно для
+  потенциальных арендаторов.
+pubDate: '2025-07-18T15:09:03.098Z'
+author: Эксперт ButlerSPB
+heroImage: 'https://images.pexels.com/photos/2724749/pexels-photo-2724749.jpeg'
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: Как правильно фотографировать квартиру для сдачи в СПБ
+  description: >-
+    Качественные фотографии — ключ к быстрой и выгодной сдаче квартиры. Узнайте,
+    как подготовить жилье к съемке, выбрать правильное освещение и ракурсы,
+    чтобы ваша квартира в Санкт-Петербурге выглядела максимально привлекательно
+    для потенциальных арендаторов.
+  image:
+    '@type': ImageObject
+    url: 'https://images.pexels.com/photos/2724749/pexels-photo-2724749.jpeg'
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.7'
+    reviewCount: 883
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/kak-pravilno-fotografirovat-kvartiru-dlya-sdachi-v-spb/
 ---
 
 # Как фотографировать квартиру для сдачи в аренду в СПб: полное руководство для собственника

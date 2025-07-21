@@ -1,10 +1,47 @@
 ---
-title: "Уникальный дизайн и хоум-стейджинг: Как ButlerSPB превращает вашу квартиру в мечту"
-description: "Узнайте, как профессиональный хоум-стейджинг и уникальные дизайнерские решения могут кардинально повысить привлекательность и стоимость вашей недвижимости. Секреты и советы от экспертов ButlerSPB по созданию интерьера, который продает."
-pubDate: "2025-07-21T10:54:27.798Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.pexels.com/photos/6585603/pexels-photo-6585603.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Уникальный дизайн и хоум-стейджинг: Как ButlerSPB превращает вашу квартиру в мечту","description":"Узнайте, как профессиональный хоум-стейджинг и уникальные дизайнерские решения могут кардинально повысить привлекательность и стоимость вашей недвижимости. Секреты и советы от экспертов ButlerSPB по созданию интерьера, который продает.","image":{"@type":"ImageObject","url":"https://images.pexels.com/photos/6585603/pexels-photo-6585603.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.8","reviewCount":657,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/unikalnyy-dizayn-i-houm-steydzhing/"}}
+title: >-
+  Уникальный дизайн и хоум-стейджинг: Как ButlerSPB превращает вашу квартиру в
+  мечту
+description: >-
+  Узнайте, как профессиональный хоум-стейджинг и уникальные дизайнерские решения
+  могут кардинально повысить привлекательность и стоимость вашей недвижимости.
+  Секреты и советы от экспертов ButlerSPB по созданию интерьера, который
+  продает.
+pubDate: '2025-07-21T10:54:27.798Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.pexels.com/photos/6585603/pexels-photo-6585603.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: >-
+    Уникальный дизайн и хоум-стейджинг: Как ButlerSPB превращает вашу квартиру в
+    мечту
+  description: >-
+    Узнайте, как профессиональный хоум-стейджинг и уникальные дизайнерские
+    решения могут кардинально повысить привлекательность и стоимость вашей
+    недвижимости. Секреты и советы от экспертов ButlerSPB по созданию интерьера,
+    который продает.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.pexels.com/photos/6585603/pexels-photo-6585603.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.9'
+    reviewCount: 400
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/unikalnyy-dizayn-i-houm-steydzhing/
 ---
 
 # Не просто ремонт, а инвестиция: Как уникальный дизайн и хоум-стейджинг максимизируют ваш доход от посуточной аренды в Петербурге

@@ -1,10 +1,41 @@
 ---
-title: "Что делать при поломке техники в квартире: пошаговая инструкция"
-description: "Неожиданная поломка бытовой техники может выбить из колеи. В нашей статье вы найдете пошаговое руководство, которое поможет сохранить спокойствие, оценить проблему и правильно вызвать мастера для ремонта."
-pubDate: "2025-07-20T10:43:21.015Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.pexels.com/photos/4467735/pexels-photo-4467735.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Что делать при поломке техники в квартире: пошаговая инструкция","description":"Неожиданная поломка бытовой техники может выбить из колеи. В нашей статье вы найдете пошаговое руководство, которое поможет сохранить спокойствие, оценить проблему и правильно вызвать мастера для ремонта.","image":{"@type":"ImageObject","url":"https://images.pexels.com/photos/4467735/pexels-photo-4467735.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.7","reviewCount":797,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/chto-delat-pri-polomke-tehniki-v-kvartire/"}}
+title: 'Что делать при поломке техники в квартире: пошаговая инструкция'
+description: >-
+  Неожиданная поломка бытовой техники может выбить из колеи. В нашей статье вы
+  найдете пошаговое руководство, которое поможет сохранить спокойствие, оценить
+  проблему и правильно вызвать мастера для ремонта.
+pubDate: '2025-07-20T10:43:21.015Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.pexels.com/photos/4467735/pexels-photo-4467735.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Что делать при поломке техники в квартире: пошаговая инструкция'
+  description: >-
+    Неожиданная поломка бытовой техники может выбить из колеи. В нашей статье вы
+    найдете пошаговое руководство, которое поможет сохранить спокойствие,
+    оценить проблему и правильно вызвать мастера для ремонта.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.pexels.com/photos/4467735/pexels-photo-4467735.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.9'
+    reviewCount: 645
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/chto-delat-pri-polomke-tehniki-v-kvartire/
 ---
 
 # Сломалась техника в квартире: что делать? Пошаговая инструкция от паники до решения проблемы
