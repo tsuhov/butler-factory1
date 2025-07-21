@@ -1,103 +1,101 @@
-name: 🚀 Content Factory (Surgical Precision)
+name: 🚀 Content Factory (Autonomous Squads)
 
 on:
   workflow_dispatch:
     inputs:
-      batch_size:
-        description: 'Сколько статей генерировать за 1 итерацию?'
-        required: true
-        default: '1'
-      iterations:
-        description: 'Сколько раз запустить конвейер?'
+      batch_size_per_thread:
+        description: 'Сколько статей генерировать КАЖДЫМ потоком?'
         required: true
         default: '10'
+      threads:
+        description: 'Сколько потоков запустить ОДНОВРЕМЕННО?'
+        required: true
+        default: '5'
 
 jobs:
-  build:
+  generate_and_publish:
     permissions:
       contents: write
       
     runs-on: ubuntu-latest
+    
+    strategy:
+      fail-fast: false
+      matrix:
+        thread: ${{ fromJson(format('[{0}]', range(1, github.event.inputs.threads + 1))) }}
+
     steps:
-      - name: ⬇️ Checkout repo
+      - name: ⬇️ Checkout repo (Thread ${{ matrix.thread }})
         uses: actions/checkout@v4
         with:
           fetch-depth: 0 
 
-      - name: ⚙️ Setup Node.js
+      - name: ⚙️ Setup Node.js (Thread ${{ matrix.thread }})
         uses: actions/setup-node@v4
         with:
           node-version: '20'
 
-      - name: 📦 Install dependencies
+      - name: 📦 Install dependencies (Thread ${{ matrix.thread }})
         run: npm install
 
-      - name: 🏭 Run Content Factory Conveyor
+      - name: 🏭 Run Factory & 📢 Publish & Notify (Thread ${{ matrix.thread }})
         env:
-          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
-          BATCH_SIZE: ${{ github.event.inputs.batch_size }}
+          GEMINI_API_KEY_CURRENT: ${{ secrets[format('GEMINI_API_KEY_{0}', matrix.thread)] }}
+          BATCH_SIZE: ${{ github.event.inputs.batch_size_per_thread }}
+          TOTAL_THREADS: ${{ github.event.inputs.threads }}
+          THREAD_ID: ${{ matrix.thread }}
         run: |
           git config --global user.name 'GitHub Actions Bot'
           git config --global user.email 'actions-bot@github.com'
           
-          for i in $(seq 1 ${{ github.event.inputs.iterations }})
-          do
-            echo "--- КОНВЕЙЕР: Запуск итерации $i из ${{ github.event.inputs.iterations }} ---"
-            
-            commit_before=$(git rev-parse HEAD)
-            
-            npm run factory
-            
-            if [[ -z $(git status --porcelain) ]]; then
-              echo "✅ Новых статей в этой итерации нет. Работа полностью завершена."
-              break
-            fi
+          echo "--- ЭСКАДРОН #${{ matrix.thread }}: Начинаю генерацию ---"
+          
+          # Синхронизируемся с сервером ПЕРЕД началом работы
+          git pull --rebase
 
-            echo "🔥 Обнаружены новые файлы. Добавляю в индекс и выполняю коммит..."
-            git add .
-            git commit -m "🚀 Авто-публикация: пачка статей №$i"
+          commit_before=$(git rev-parse HEAD)
+          
+          npm run factory
+          
+          if [[ -z $(git status --porcelain) ]]; then
+            echo "✅ ЭСКАДРОН #${{ matrix.thread }}: Новых статей для этого потока не найдено. Миссия завершена."
+            exit 0
+          fi
 
-            echo "Выполняю push..."
-            git pull --rebase
-            git push
-            
-            commit_after=$(git rev-parse HEAD)
+          echo "🔥 ЭСКАДРОН #${{ matrix.thread }}: Обнаружены новые файлы. Публикую пачку..."
+          git add src/content/posts/*.md
+          git commit -m "🚀 Авто-публикация: пачка от Эскадрона №${{ matrix.thread }}"
+          
+          # Синхронизируемся еще раз перед отправкой, чтобы избежать конфликтов
+          git pull --rebase
+          git push
+          
+          commit_after=$(git rev-parse HEAD)
 
-            # --- НОВАЯ, ЖЕЛЕЗОБЕТОННАЯ ЛОГИКА INDEXNOW ---
-            NEW_FILES=$(git diff --name-only $commit_before $commit_after -- 'src/content/posts/*.md')
-            
-            if [[ -n "$NEW_FILES" ]]; then
-              echo "📢 Подготовка уведомления для IndexNow..."
-              API_KEY="d1b055ab1eb146d892169bbb2c96550e"
-              HOST="butlerspb-blog.netlify.app"
-              
-              # Собираем URL в одну строку, разделенную пробелами
-              URL_LIST_STRING=""
-              for file in $NEW_FILES; do
-                slug=$(basename $file .md)
-                url="https://butlerspb-blog.netlify.app/blog/${slug}/"
-                URL_LIST_STRING="$URL_LIST_STRING $url"
-              done
-              
-              # jq сам "нарежет" эту строку на массив
-              JSON_PAYLOAD=$(jq -n \
-                              --arg host "$HOST" \
-                              --arg key "$API_KEY" \
-                              --arg urls "$URL_LIST_STRING" \
-                              '{host: $host, key: $key, urlList: ($urls | split(" ") | map(select(length > 0)))}'
-                              )
-
-              # --- ДИАГНОСТИКА ---
-              echo "--- Диагностика пакета для IndexNow (пачка №$i) ---"
-              echo "$JSON_PAYLOAD"
-              echo "--- Конец диагностики ---"
-              
-              echo "--- Отправка в Яндекс ---"
-              curl -X POST "https://yandex.com/indexnow" -H "Content-Type: application/json; charset=utf-8" -d "$JSON_PAYLOAD"
-              
-              echo -e "\n--- Отправка в Bing ---"
-              curl -X POST "https://www.bing.com/indexnow" -H "Content-Type: application/json; charset=utf-8" -d "$JSON_PAYLOAD"
-            fi
-            
-            echo -e "\n✅ Пачка $i успешно обработана и отправлена в IndexNow."
+          # --- ЛОГИКА INDEXNOW ---
+          NEW_FILES=$(git diff --name-only $commit_before $commit_after -- 'src/content/posts/*.md')
+          
+          URL_LIST=""
+          for file in $NEW_FILES; do
+            slug=$(basename $file .md)
+            url="https://butlerspb-blog.netlify.app/blog/${slug}/"
+            URL_LIST="${URL_LIST}${url}\n"
           done
+
+          if [[ -n "$URL_LIST" ]]; then
+            echo "📢 ЭСКАДРОН #${{ matrix.thread }}: Отправляю уведомление в IndexNow..."
+            API_KEY="d1b055ab1eb146d892169bbb2c96550e"
+            HOST="butlerspb-blog.netlify.app"
+            
+            JSON_PAYLOAD=$(jq -n \
+                            --arg host "$HOST" \
+                            --arg key "$API_KEY" \
+                            --arg urls_string "$URL_LIST" \
+                            '{host: $host, key: $key, urlList: ($urls_string | split("\n") | map(select(length > 0)))}'
+                            )
+            
+            curl -X POST "https://yandex.com/indexnow" -H "Content-Type: application/json; charset=utf-8" -d "$JSON_PAYLOAD"
+            curl -X POST "https://www.bing.com/indexnow" -H "Content-Type: application/json; charset=utf-8" -d "$JSON_PAYLOAD"
+          fi
+          
+          echo -e "\n✅ ЭСКАДРОН #${{ matrix.thread }}: Миссия успешно завершена."
