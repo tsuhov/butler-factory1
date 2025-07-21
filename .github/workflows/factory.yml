@@ -1,4 +1,4 @@
-name: 🚀 Content Factory (Correct Order)
+name: 🚀 Content Factory (Final Order)
 
 on:
   workflow_dispatch:
@@ -81,7 +81,7 @@ jobs:
           
           echo "--- ЭСКАДРОН #${{ matrix.thread }}: Начинаю генерацию ---"
           
-          git pull --rebase
+          # Мы больше НЕ делаем pull здесь
           npm run factory
           
           if [[ -z $(git status --porcelain) ]]; then
@@ -91,11 +91,11 @@ jobs:
 
           echo "🔥 ЭСКАДРОН #${{ matrix.thread }}: Обнаружены новые файлы. Публикую пачку..."
           
-          # --- ИСПРАВЛЕННЫЙ ПОРЯДОК ---
-          git add src/content/posts/*.md
-          git commit -m "🚀 Авто-публикация: пачка от Эскадрона №${{ matrix.thread }}"
-          git pull --rebase # Сначала коммитим, потом синхронизируемся
-          git push
+          # --- ПРАВИЛЬНЫЙ ПОРЯДОК ---
+          git add . # 1. Добавляем ВСЕ изменения (статьи и package-lock.json)
+          git commit -m "🚀 Авто-публикация: пачка от Эскадрона №${{ matrix.thread }}" # 2. Коммитим
+          git pull --rebase # 3. Синхронизируемся
+          git push # 4. Отправляем
           
           commit_after=$(git rev-parse HEAD)
           commit_before=$(git rev-parse HEAD~1)
