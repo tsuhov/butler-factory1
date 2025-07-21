@@ -1,0 +1,45 @@
+name: 🛠️ One-Time Surgeon (Repair Existing Posts)
+
+# Эта строка позволяет запускать его вручную
+on:
+  workflow_dispatch:
+
+jobs:
+  repair-posts:
+    permissions:
+      contents: write
+      
+    runs-on: ubuntu-latest
+    steps:
+      - name: ⬇️ Checkout repo
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: ⚙️ Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: 📦 Install dependencies (including gray-matter)
+        run: npm install
+
+      - name: 🩺 Run the Surgeon Script
+        run: npm run surgeon
+
+      - name: 🚀 Commit and Push Repaired Files
+        run: |
+          git config --global user.name 'GitHub Actions Bot'
+          git config --global user.email 'actions-bot@github.com'
+          
+          # Проверяем, были ли внесены исправления
+          if [[ -z $(git status --porcelain) ]]; then
+            echo "✅ Проверка завершена. Все файлы уже были в порядке."
+            exit 0
+          fi
+
+          echo "🔥 Обнаружены и отремонтированы файлы. Публикую исправления..."
+          git add src/content/posts/*.md
+          git commit -m "🩺 Автоматический ремонт (пересборка frontmatter) существующих статей"
+          git pull --rebase
+          git push```
