@@ -1,3 +1,4 @@
+// Файл: factory.js (Версия 19.0, «Тотальный Фильтр»)
 import { GoogleGenerativeAI } from '@google/generative-ai';
 import fs from 'fs/promises';
 import path from 'path';
@@ -7,18 +8,29 @@ const TARGET_URL_MAIN = "https://butlerspb.ru";
 const TARGET_URL_RENT = "https://butlerspb.ru/rent";
 const TOPICS_FILE = 'topics.txt';
 const POSTS_DIR = 'src/content/posts';
+const GEMINI_API_KEY = process.env.GEMINI_API_KEY_CURRENT;
 const SITE_URL = "https://butlerspb-blog.netlify.app";
 const BRAND_NAME = "ButlerSPB";
 const BRAND_BLOG_NAME = `Блог ${BRAND_NAME}`;
 const BRAND_AUTHOR_NAME = `Эксперт ${BRAND_NAME}`;
-const FALLBACK_IMAGE_URL = "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop";
 
-const apiKey = process.env.GEMINI_API_KEY_CURRENT;
-if (!apiKey) {
-    throw new Error("Не был предоставлен API-ключ для этого потока (GEMINI_API_KEY_CURRENT)!");
+const IMAGE_ARSENAL = [
+    "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop",
+    "https://images.unsplash.com/photo-1618221195710-dd6b41fa2247?q=80&w=2070&auto=format&fit=crop",
+    "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?q=80&w=2070&auto=format&fit=crop",
+    "https://images.unsplash.com/photo-1522708323590-d24dbb6b0267?q=80&w=2070&auto=format&fit=crop",
+    "https://images.unsplash.com/photo-1616046229478-9901c5536a45?q=80&w=2070&auto=format&fit=crop",
+    "https://images.unsplash.com/photo-1556742518-b827e3c9a4a7?q=80&w=2070&auto=format&fit=crop",
+    "https://images.unsplash.com/photo-1605346435345-31c3a645b219?q=80&w=2070&auto=format&fit=crop",
+    "https://images.unsplash.com/photo-1512917774080-9991f1c4c750?q=80&w=2070&auto=format&fit=crop",
+    "https://images.unsplash.com/photo-1600607687939-ce8a6c25118c?q=80&w=2070&auto=format&fit=crop"
+];
+
+if (!GEMINI_API_KEY) {
+  throw new Error("Секретный ключ GEMINI_API_KEY_CURRENT не найден!");
 }
 
-const genAI = new GoogleGenerativeAI(apiKey);
+const genAI = new GoogleGenerativeAI(GEMINI_API_KEY);
 const model = genAI.getGenerativeModel({ model: "gemini-2.5-pro" });
 
 const ANCHORS = [
@@ -79,6 +91,9 @@ async function generatePost(topic, slug, interlinks) {
     const articlePrompt = `Напиши экспертную, полезную SEO-статью по этому плану:\n\n${plan}\n\nТема: "${topic}". ВАЖНО: строго следуй плану и используй синтаксис Markdown для всех заголовков (# для H1, ## для H2, ### для H3). Текст должен быть написан от лица компании ButlerSPB. Не добавляй никакого сопроводительного текста перед первым заголовком.`;
     let articleText = await generateWithRetry(articlePrompt);
 
+    // --- "ТОТАЛЬНЫЙ ФИЛЬТР" ДЛЯ БРАКОВАННЫХ ИЗОБРАЖЕНИЙ ---
+    articleText = articleText.replace(/!\[.*?\]\((?!http).*?\)/g, '');
+
     if (interlinks.length > 0) {
         let interlinkingBlock = '\n\n---\n\n## Читайте также\n\n';
         interlinks.forEach(link => {
@@ -95,7 +110,7 @@ async function generatePost(topic, slug, interlinks) {
         articleText = paragraphs.join('\n\n');
     }
     
-    const seoPrompt = `Для статьи на тему "${topic}" сгенерируй JSON-объект. ВАЖНО: твой ответ должен быть ТОЛЬКО валидным JSON-объектом. JSON должен содержать: "title", "description", "heroImage" (URL с Unsplash или Pexels). Контекст: это блог компании ButlerSPB.`;
+    const seoPrompt = `Для статьи на тему "${topic}" сгенерируй JSON-объект. ВАЖНО: твой ответ должен быть ТОЛЬКО валидным JSON-объектом. JSON должен содержать: "title", "description". Контекст: это блог компании ButlerSPB.`;
     let seoText = await generateWithRetry(seoPrompt);
 
     const match = seoText.match(/\{[\s\S]*\}/);
@@ -105,8 +120,7 @@ async function generatePost(topic, slug, interlinks) {
     const reviewCount = Math.floor(Math.random() * (900 - 300 + 1)) + 300;
     const ratingValue = (Math.random() * (5.0 - 4.7) + 4.7).toFixed(1);
 
-    const isImageOk = await isUrlAccessible(seoData.heroImage);
-    const finalHeroImage = isImageOk ? seoData.heroImage : FALLBACK_IMAGE_URL;
+    const finalHeroImage = IMAGE_ARSENAL[Math.floor(Math.random() * IMAGE_ARSENAL.length)];
 
     const fullSchema = {
       "@context": "https://schema.org",
