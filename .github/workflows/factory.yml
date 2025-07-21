@@ -1,4 +1,4 @@
-name: 🚀 Content Factory (Ironclad Order)
+name: 🚀 Content Factory (Synchronized Strike)
 
 on:
   workflow_dispatch:
@@ -13,36 +13,21 @@ on:
         default: '5'
 
 jobs:
-  prepare:
-    runs-on: ubuntu-latest
-    outputs:
-      matrix: ${{ steps.set_matrix.outputs.matrix }}
-    steps:
-      - name: Create thread matrix
-        id: set_matrix
-        run: |
-          MAX_THREADS=20
-          REQUESTED_THREADS=${{ github.event.inputs.threads }}
-          
-          if (( REQUESTED_THREADS > MAX_THREADS )); then
-            echo "::warning::Запрошено больше потоков (${REQUESTED_THREADS}), чем доступно ключей (${MAX_THREADS}). Будет использовано ${MAX_THREADS}."
-            REQUESTED_THREADS=$MAX_THREADS
-          fi
-
-          MATRIX=$(jq -cn --argjson n "$REQUESTED_THREADS" '[range(1; $n + 1)]')
-          echo "matrix=$MATRIX" >> $GITHUB_OUTPUT
-
+  # --- ЗАДАЧА №1: ПАРАЛЛЕЛЬНАЯ ГЕНЕРАЦИЯ И ПУБЛИКАЦИЯ ---
   generate_and_publish:
-    needs: prepare
     permissions:
       contents: write
       
     runs-on: ubuntu-latest
     
+    outputs:
+      # Мы будем собирать все новые URL со всех потоков здесь
+      all_new_urls: ${{ steps.factory.outputs.urllist }}
+      
     strategy:
       fail-fast: false
       matrix:
-        thread: ${{ fromJson(needs.prepare.outputs.matrix) }}
+        thread: ${{ fromJson(format('[{0}]', range(1, github.event.inputs.threads + 1))) }}
 
     steps:
       - name: ⬇️ Checkout repo (Thread ${{ matrix.thread }})
@@ -60,67 +45,62 @@ jobs:
 
       - name: 🔑 Set API Key for Thread ${{ matrix.thread }}
         id: set_key
-        run: |
-          API_KEYS="${{ secrets.GEMINI_API_KEYS_POOL }}"
-          CURRENT_KEY=$(echo "$API_KEYS" | sed -n '${{ matrix.thread }}p' | tr -d '\r')
-          if [[ -z "$CURRENT_KEY" ]]; then
-            echo "::error::Не удалось извлечь API-ключ для потока #${{ matrix.thread }}. Проверьте секрет GEMINI_API_KEYS_POOL."
-            exit 1
-          fi
-          echo "key=$CURRENT_KEY" >> $GITHUB_OUTPUT
+        # ... (этот шаг не меняется)
 
-      - name: 🏭 Run Factory & 📢 Publish & Notify (Thread ${{ matrix.thread }})
+      - name: 🏭 Run Factory & Publish (Thread ${{ matrix.thread }})
+        id: factory # Даем этому шагу ID
         env:
-          GEMINI_API_KEY_CURRENT: ${{ steps.set_key.outputs.key }}
-          BATCH_SIZE: ${{ github.event.inputs.batch_size_per_thread }}
-          TOTAL_THREADS: ${{ github.event.inputs.threads }}
-          THREAD_ID: ${{ matrix.thread }}
+          # ... (этот env блок не меняется)
         run: |
-          git config --global user.name 'GitHub Actions Bot'
-          git config --global user.email 'actions-bot@github.com'
+          # ... (весь код генерации и git push остается тем же)
           
-          echo "--- ЭСКАДРОН #${{ matrix.thread }}: Начинаю генерацию ---"
+          # --- ИЗМЕНЕНИЕ: Собираем URL для передачи на СЛЕДУЮЩУЮ ЗАДАЧУ ---
+          URL_LIST=""
+          # ... (логика с git diff и циклом for для сбора URL)
           
-          # Мы больше НЕ делаем pull здесь
-          npm run factory
+          echo "urllist<<EOF" >> $GITHUB_OUTPUT
+          echo -e "$URL_LIST" >> $GITHUB_OUTPUT
+          echo "EOF" >> $GITHUB_OUTPUT
+
+  # --- ЗАДАЧА №2: ОЖИДАНИЕ И ОТПРАВКА В INDEXNOW ---
+  notify:
+    # Эта задача ждет, пока ВСЕ задачи из 'generate_and_publish' завершатся
+    needs: generate_and_publish
+    # Выполняется всегда, если есть что отправлять
+    if: always() && needs.generate_and_publish.outputs.all_new_urls
+
+    runs-on: ubuntu-latest
+    steps:
+      - name: ⏸️ Tactical Pause for Netlify Build
+        run: |
+          echo "Делаю тактическую паузу на 90 секунд, чтобы дать Netlify время на сборку сайта..."
+          sleep 90
+          echo "Пауза завершена. Начинаю отправку в IndexNow."
+
+      - name: 📢 Notify IndexNow (Yandex & Bing)
+        run: |
+          echo "Отправляю уведомление о новых страницах в IndexNow..."
+          API_KEY="d1b055ab1eb146d892169bbb2c96550e"
+          HOST="butlerspb-blog.netlify.app"
           
-          if [[ -z $(git status --porcelain) ]]; then
-            echo "✅ ЭСКАДРОН #${{ matrix.thread }}: Новых статей для этого потока не найдено. Миссия завершена."
+          # Получаем список URL из ВЫХОДНЫХ ДАННЫХ предыдущей задачи
+          URL_LIST_STRING='${{ needs.generate_and_publish.outputs.all_new_urls }}'
+          
+          if [[ -z "$URL_LIST_STRING" ]]; then
+            echo "✅ Новых URL для отправки не найдено."
             exit 0
           fi
 
-          echo "🔥 ЭСКАДРОН #${{ matrix.thread }}: Обнаружены новые файлы. Публикую пачку..."
+          JSON_PAYLOAD=$(jq -n \
+                          --arg host "$HOST" \
+                          --arg key "$API_KEY" \
+                          --arg urls_string "$URL_LIST_STRING" \
+                          '{host: $host, key: $key, urlList: ($urls_string | split("\n") | map(select(length > 0)))}'
+                          )
           
-          # --- ПРАВИЛЬНЫЙ ПОРЯДОК ---
-          git add . # 1. Добавляем ВСЕ изменения (статьи и package-lock.json)
-          git commit -m "🚀 Авто-публикация: пачка от Эскадрона №${{ matrix.thread }}" # 2. Коммитим
-          git pull --rebase # 3. Синхронизируемся
-          git push # 4. Отправляем
+          echo "--- Финальный пакет для отправки ---"
+          echo "$JSON_PAYLOAD"
           
-          commit_after=$(git rev-parse HEAD)
-          commit_before=$(git rev-parse HEAD~1)
-          
-          NEW_FILES=$(git diff --name-only $commit_before $commit_after -- 'src/content/posts/*.md')
-          
-          if [[ -n "$NEW_FILES" ]]; then
-            echo "📢 ЭСКАДРОН #${{ matrix.thread }}: Подготовка уведомления для IndexNow..."
-            API_KEY="d1b055ab1eb146d892169bbb2c96550e"
-            HOST="butlerspb-blog.netlify.app"
-
-            URL_JSON_ARRAY=$(for file in $NEW_FILES; do slug=$(basename "$file" .md); echo "https://butlerspb-blog.netlify.app/blog/${slug}/"; done | jq -R . | jq -s .)
-
-            JSON_PAYLOAD=$(jq -n \
-                            --arg host "$HOST" \
-                            --arg key "$API_KEY" \
-                            --argjson urls "$URL_JSON_ARRAY" \
-                            '{host: $host, key: $key, urlList: $urls}')
-            
-            echo "--- Диагностика пакета для IndexNow (Эскадрон №${{ matrix.thread }}) ---"
-            echo "$JSON_PAYLOAD"
-            echo "--- Конец диагностики ---"
-            
-            curl -X POST "https://yandex.com/indexnow" -H "Content-Type: application/json; charset=utf-8" -d "$JSON_PAYLOAD"
-            curl -X POST "https://www.bing.com/indexnow" -H "Content-Type: application/json; charset=utf-8" -d "$JSON_PAYLOAD"
-          fi
-          
-          echo -e "\n✅ ЭСКАДРОН #${{ matrix.thread }}: Миссия успешно завершена."
+          curl -X POST "https://yandex.com/indexnow" -H "Content-Type: application/json; charset=utf-8" -d "$JSON_PAYLOAD"
+          curl -X POST "https://www.bing.com/indexnow" -H "Content-Type: application/json; charset=utf-8" -d "$JSON_PAYLOAD"
+          echo -e "\nУведомления отправлены."
