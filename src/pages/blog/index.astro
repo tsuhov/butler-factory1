@@ -1,40 +1,41 @@
 ---
-// Файл: src/pages/blog/index.astro
-// Это финальная, правильная версия, которая использует Content Collections.
+// Файл: src/pages/blog/index.astro (Версия «Зрячий Список»)
 import Layout from '../../layouts/Layout.astro';
 import { getCollection } from "astro:content";
 
-// Эта команда говорит Astro: "Зайди в папку `src/content/posts` и собери все статьи"
-const allPosts = await getCollection("posts");
+// Получаем ВСЕ статьи из папки /posts/ и сортируем их по дате публикации (новые вверху)
+const allPosts = (await getCollection("posts")).sort(
+	(a, b) => new Date(b.data.pubDate).valueOf() - new Date(a.data.pubDate).valueOf()
+);
 ---
 
 <Layout title="Блог об управлении недвижимостью" description="Все о посуточной аренде в Санкт-Петербурге.">
-  <h1>Статьи и гайды</h1>
-  
-  <!-- Этот блок кода берет найденные статьи и превращает их в список ссылок -->
-  <ul>
-    {allPosts.map((post) => (
-      <li>
-        <a href={`/blog/${post.slug}/`}>{post.data.title}</a>
-      </li>
-    ))}
-  </ul>
+  <div style="padding: 1rem 0;">
+    <h1>Статьи и гайды</h1>
+    
+    <ul style="list-style-type: none; padding: 0; margin-top: 2rem;">
+      {allPosts.map((post) => (
+        <li style="margin-bottom: 1.5rem; border-bottom: 1px solid #eee; padding-bottom: 1.5rem;">
+          <!-- Проверяем, есть ли у статьи изображение -->
+          {post.data.heroImage && (
+            <a href={`/blog/${post.slug}/`} style="display: block; margin-bottom: 1rem;">
+              <img 
+                src={post.data.heroImage} 
+                alt={post.data.title} 
+                style="width: 100%; height: 200px; object-fit: cover; border-radius: 8px;" 
+              />
+            </a>
+          )}
+          <!-- Выводим заголовок как ссылку -->
+          <h2 style="margin: 0 0 0.5rem 0; font-size: 1.5rem;">
+            <a href={`/blog/${post.slug}/`} style="text-decoration: none; color: #333;">{post.data.title}</a>
+          </h2>
+          <!-- Выводим описание -->
+          <p style="margin: 0; color: #666;">
+            {post.data.description}
+          </p>
+        </li>
+      ))}
+    </ul>
+  </div>
 </Layout>
-
-<style>
-  ul {
-    list-style-type: none;
-    padding: 0;
-  }
-  li {
-    margin-bottom: 1rem;
-    font-size: 1.2rem;
-  }
-  a {
-    text-decoration: none;
-    color: #333;
-  }
-  a:hover {
-    text-decoration: underline;
-  }
-</style>
