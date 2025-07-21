@@ -5,11 +5,11 @@
   "scripts": {
     "dev": "astro dev",
     "start": "astro dev",
-    "build": "astro build && node postbuild.js",
+    "build": "astro build",
     "preview": "astro preview",
     "astro": "astro",
     "factory": "node factory.js",
-    "surgeon": "node surgeon.js"
+    "fix": "node fixer.js"
   },
   "dependencies": {
     "astro": "^4.11.0",
