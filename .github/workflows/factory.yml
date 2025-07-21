@@ -1,4 +1,4 @@
-name: 🚀 Content Factory (Autonomous Squads)
+name: 🚀 Content Factory (Unified Arsenal)
 
 on:
   workflow_dispatch:
@@ -38,9 +38,22 @@ jobs:
       - name: 📦 Install dependencies (Thread ${{ matrix.thread }})
         run: npm install
 
+      - name: 🔑 Set API Key for Thread ${{ matrix.thread }}
+        id: set_key
+        run: |
+          API_KEYS="${{ secrets.GEMINI_API_KEYS_POOL }}"
+          KEY_INDEX=$((${{ matrix.thread }} - 1))
+          # Используем sed для извлечения нужной строки. awk - более надежный вариант
+          CURRENT_KEY=$(echo "$API_KEYS" | awk "NR==${{ matrix.thread }}")
+          if [[ -z "$CURRENT_KEY" ]]; then
+            echo "::error::Не удалось извлечь API-ключ для потока #${{ matrix.thread }}. Проверьте секрет GEMINI_API_KEYS_POOL."
+            exit 1
+          fi
+          echo "key=$CURRENT_KEY" >> $GITHUB_OUTPUT
+
       - name: 🏭 Run Factory & 📢 Publish & Notify (Thread ${{ matrix.thread }})
         env:
-          GEMINI_API_KEY_CURRENT: ${{ secrets[format('GEMINI_API_KEY_{0}', matrix.thread)] }}
+          GEMINI_API_KEY_CURRENT: ${{ steps.set_key.outputs.key }}
           BATCH_SIZE: ${{ github.event.inputs.batch_size_per_thread }}
           TOTAL_THREADS: ${{ github.event.inputs.threads }}
           THREAD_ID: ${{ matrix.thread }}
@@ -50,7 +63,6 @@ jobs:
           
           echo "--- ЭСКАДРОН #${{ matrix.thread }}: Начинаю генерацию ---"
           
-          # Синхронизируемся с сервером ПЕРЕД началом работы
           git pull --rebase
 
           commit_before=$(git rev-parse HEAD)
@@ -66,13 +78,11 @@ jobs:
           git add src/content/posts/*.md
           git commit -m "🚀 Авто-публикация: пачка от Эскадрона №${{ matrix.thread }}"
           
-          # Синхронизируемся еще раз перед отправкой, чтобы избежать конфликтов
           git pull --rebase
           git push
           
           commit_after=$(git rev-parse HEAD)
 
-          # --- ЛОГИКА INDEXNOW ---
           NEW_FILES=$(git diff --name-only $commit_before $commit_after -- 'src/content/posts/*.md')
           
           URL_LIST=""
