@@ -4,7 +4,8 @@ description: "Эффективные советы для владельцев к
 pubDate: "2025-07-17T13:23:48.359Z"
 author: "ButlerSPB Expert"
 schema: {"@context":"https://schema.org","@type":"BlogPosting","headline":"Простои квартиры при посуточной сдаче: как избежать в Петербурге","description":"Эффективные советы для владельцев квартир в Санкт-Петербурге. Узнайте, как минимизировать простои, повысить заполняемость и увеличить доход от посуточной аренды.","author":{"@type":"Person","name":"Александра Новикова"},"publisher":{"@type":"Organization","name":"SPbRentals-Expert","logo":{"@type":"ImageObject","url":"https://example.com/logo.png"}},"datePublished":"2023-10-27","image":"https://example.com/images/spb-apartment-view.jpg"}
----
+
+heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"---
 
 ### **Заголовок статьи: Невидимый враг рантье: как победить простои квартиры при посуточной сдаче в Санкт-Петербурге**
 

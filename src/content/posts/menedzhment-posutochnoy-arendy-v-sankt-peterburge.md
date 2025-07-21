@@ -4,7 +4,8 @@ description: "Узнайте все о менеджменте посуточно
 pubDate: "2025-07-17T12:02:43.549Z"
 author: "ButlerSPB Expert"
 schema: {"@context":"https://schema.org","@type":"BlogPosting","headline":"Менеджмент посуточной аренды в СПб: полное руководство","description":"Узнайте все о менеджменте посуточной аренды в Санкт-Петербурге: от поиска гостей и ценообразования до уборки и юридических аспектов. Увеличьте свой доход!","author":{"@type":"Person","name":"Алексей Иванов"},"publisher":{"@type":"Organization","name":"SPb Realty Experts","logo":{"@type":"ImageObject","url":"https://example.com/logo.png"}},"datePublished":"2024-05-21"}
----
+
+heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"---
 
 ### **Заголовок (H1): Менеджмент посуточной аренды в Санкт-Петербурге: от подготовки квартиры до масштабирования бизнеса**
 

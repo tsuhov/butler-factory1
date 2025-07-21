@@ -4,7 +4,8 @@ description: "Все о юридических аспектах посуточн
 pubDate: "2025-07-17T16:27:56.667Z"
 author: "ButlerSPB Expert"
 schema: {"@context":"https://schema.org","@type":"BlogPosting","headline":"Юридические аспекты посуточной аренды в Санкт-Петербурге в 2025 году: полный гайд","description":"Разбираем ключевые изменения в законодательстве, регулирующем краткосрочную аренду жилья в Санкт-Петербурге с 2025 года. Налоги, регистрация, права и обязанности сторон.","author":{"@type":"Person","name":"Алексей Смирнов, юрист по недвижимости"},"publisher":{"@type":"Organization","name":"Юридический портал СПб","logo":{"@type":"ImageObject","url":"https://example.com/logo.jpg"}},"datePublished":"2025-01-20"}
----
+
+heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"---
 
 ### **(H1) Юридические аспекты посуточной аренды 2025 в Питере: Как сдавать легально и не бояться штрафов**
 

@@ -4,7 +4,8 @@ description: "Узнайте, как сдать квартиру в управл
 pubDate: "2025-07-17T00:35:55.751Z"
 author: "ButlerSPB Expert"
 schema: {"@context":"https://schema.org","@type":"BlogPosting","headline":"Сдать квартиру в управление посуточно в СПб: выгодно и просто","description":"Узнайте, как сдать квартиру в управление для посуточной аренды в Санкт-Петербурге. Плюсы, минусы и выбор надежной компании для максимального дохода.","author":{"@type":"Person","name":"Алексей Петров"},"publisher":{"@type":"Organization","name":"SPb Realty Management","logo":{"@type":"ImageObject","url":"https://example.com/logo.png"}},"datePublished":"2024-05-21"}
----
+
+heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"---
 
 ### **Посуточное управление квартирой в Петербурге: Полное руководство для собственника**
 

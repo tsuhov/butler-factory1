@@ -4,7 +4,8 @@ description: "Получили плохой отзыв о квартире в С
 pubDate: "2025-07-17T17:16:55.554Z"
 author: "ButlerSPB Expert"
 schema: {"@context":"https://schema.org","@type":"BlogPosting","headline":"Как бороться с негативными отзывами о квартире в Питере: полное руководство для арендодателя","description":"Получили плохой отзыв о квартире в СПб? Наша инструкция поможет превратить негатив в преимущество, сохранить репутацию и привлечь новых жильцов.","author":{"@type":"Person","name":"Екатерина Смирнова"},"publisher":{"@type":"Organization","name":"Эксперт по недвижимости СПб","logo":{"@type":"ImageObject","url":"https://example.com/logo.png"}},"datePublished":"2024-05-21"}
----
+
+heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"---
 
 ### **(H1) Негативный отзыв о квартире в Питере: от паники к плану действий. Полное руководство для арендодателя.**
 

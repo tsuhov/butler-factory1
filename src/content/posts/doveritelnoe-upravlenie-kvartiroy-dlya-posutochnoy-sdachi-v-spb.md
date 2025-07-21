@@ -4,7 +4,8 @@ description: "Узнайте, как передать квартиру в дов
 pubDate: "2025-07-17T00:21:29.919Z"
 author: "ButlerSPB Expert"
 schema: {"@context":"https://schema.org","@type":"BlogPosting","headline":"Доверительное управление квартирой в СПБ для посуточной сдачи","description":"Узнайте, как передать квартиру в доверительное управление для посуточной аренды в Санкт-Петербурге. Плюсы, минусы и выбор надежной компании.","author":{"@type":"Organization","name":"SPB-Rentals Pro","url":"https://example-spb-rentals.com"},"publisher":{"@type":"Organization","name":"SPB-Rentals Pro","logo":{"@type":"ImageObject","url":"https://example-spb-rentals.com/logo.png"}},"datePublished":"2024-05-21"}
----
+
+heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"---
 
 ### **(H1) Доверительное управление квартирой в Санкт-Петербурге: как превратить недвижимость в пассивный доход от посуточной аренды**
 

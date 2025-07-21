@@ -4,7 +4,8 @@ description: "Что такое доверительное управление 
 pubDate: "2025-07-17T00:19:26.094Z"
 author: "ButlerSPB Expert"
 schema: {"@context":"https://schema.org","@type":"BlogPosting","headline":"Доверительное управление квартирой для посуточной сдачи в Петербурге","description":"Узнайте все о доверительном управлении квартирой для посуточной сдачи в Санкт-Петербурге: плюсы и минусы, как выбрать управляющую компанию и начать получать пассивный доход.","author":{"@type":"Organization","name":"Эксперты по недвижимости СПб"},"publisher":{"@type":"Organization","name":"Портал аренды 'Питер-Рент'","logo":{"@type":"ImageObject","url":"https://example.com/logo.png","width":600,"height":60}},"datePublished":"2024-05-21"}
----
+
+heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"---
 
 ### **(H1) Доверительное управление квартирой для посуточной сдачи в Петербурге: как превратить недвижимость в пассивный доход**
 

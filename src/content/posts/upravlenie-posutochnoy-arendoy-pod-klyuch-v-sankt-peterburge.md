@@ -4,7 +4,8 @@ description: "Профессиональное управление посуто
 pubDate: "2025-07-17T07:52:48.131Z"
 author: "ButlerSPB Expert"
 schema: {"@context":"https://schema.org","@type":"BlogPosting","headline":"Управление посуточной арендой под ключ в Санкт-Петербурге","description":"Профессиональное управление посуточной арендой квартир в СПб. Доверьте свою недвижимость экспертам и получайте пассивный доход без хлопот.","author":{"@type":"Person","name":"Эксперт по недвижимости"},"publisher":{"@type":"Organization","name":"Агентство недвижимости СПб","logo":{"@type":"ImageObject","url":"https://example.com/logo.png"}},"datePublished":"2024-05-21"}
----
+
+heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"---
 
 ### **<h1>Управление посуточной арендой в Санкт-Петербурге «под ключ»: от подготовки квартиры до пассивного дохода</h1>**
 

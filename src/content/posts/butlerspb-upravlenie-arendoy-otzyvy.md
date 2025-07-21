@@ -4,7 +4,8 @@ description: "Реальные отзывы клиентов о компании
 pubDate: "2025-07-17T07:35:47.543Z"
 author: "ButlerSPB Expert"
 schema: {"@context":"https://schema.org","@type":"BlogPosting","headline":"ButlerSPB управление арендой: отзывы клиентов и разбор услуг","description":"Реальные отзывы клиентов о компании ButlerSPB. Анализ услуг доверительного управления арендой в СПб. Узнайте, стоит ли доверять им свою недвижимость.","author":{"@type":"Person","name":"Алексей Смирнов, эксперт по недвижимости"},"publisher":{"@type":"Organization","name":"Портал о недвижимости СПб","logo":{"@type":"ImageObject","url":"https://example.com/logo.png"}},"datePublished":"2024-05-21"}
----
+
+heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"---
 
 ### **H1: ButlerSPB: Честный разбор отзывов и полный гид по управлению арендой в Санкт-Петербурге**
 

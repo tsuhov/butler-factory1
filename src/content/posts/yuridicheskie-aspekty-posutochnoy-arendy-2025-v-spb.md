@@ -4,7 +4,8 @@ description: "Актуальные законы о посуточной арен
 pubDate: "2025-07-17T16:25:45.504Z"
 author: "ButlerSPB Expert"
 schema: {"@context":"https://schema.org","@type":"BlogPosting","headline":"Посуточная аренда в СПБ 2025: юридические аспекты и законы","description":"Актуальные законы о посуточной аренде квартир в Санкт-Петербурге в 2025 г. Разбираем права и обязанности, налоги, риски и новые требования для собственников.","author":{"@type":"Person","name":"Алексей Смирнов, юрист"},"publisher":{"@type":"Organization","name":"Правовой Вестник Недвижимости","logo":{"@type":"ImageObject","url":"https://example.com/logo.png"}},"datePublished":"2025-02-10"}
----
+
+heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"---
 
 ### **(H1) Юридические аспекты посуточной аренды в СПб 2025: Полное руководство для собственника**
 

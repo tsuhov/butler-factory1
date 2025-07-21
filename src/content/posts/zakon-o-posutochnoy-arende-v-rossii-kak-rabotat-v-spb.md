@@ -3,7 +3,7 @@ title: "Закон о посуточной аренде в России 2024: к
 description: "Разбираем новый закон о посуточной аренде. Узнайте, какие правила действуют для собственников жилья в Санкт-Петербурге, как избежать штрафов и легально сдавать квартиры туристам."
 pubDate: "2025-07-17T21:12:09.922Z"
 author: "ButlerSPB Expert"
-heroImage: "https://images.pexels.com/photos/4559553/pexels-photo-4559553.jpeg"
+heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
 schema: {"@context":"https://schema.org","@type":"BlogPosting","headline":"Закон о посуточной аренде в России 2024: как работать в СПБ","description":"Разбираем новый закон о посуточной аренде. Узнайте, какие правила действуют для собственников жилья в Санкт-Петербурге, как избежать штрафов и легально сдавать квартиры туристам.","image":"https://images.pexels.com/photos/4559553/pexels-photo-4559553.jpeg","author":{"@type":"Person","name":"Анна Смирнова","url":"https://example.com/authors/anna-smirnova"},"publisher":{"@type":"Organization","name":"СПБ Недвижимость Сегодня","logo":{"@type":"ImageObject","url":"https://example.com/logo.png"}},"datePublished":"2024-05-21","mainEntityOfPage":{"@type":"WebPage","@id":"https://example.com/blog/zakon-posutochnoy-arendy-spb"}}
 ---
 

@@ -4,7 +4,8 @@ description: "Узнайте все о доверительном управле
 pubDate: "2025-07-17T07:39:37.289Z"
 author: "ButlerSPB Expert"
 schema: {"@context":"https://schema.org","@type":"BlogPosting","headline":"Доверительное управление апартаментами в Санкт-Петербурге: плюсы и минусы","description":"Подробный разбор услуги доверительного управления апартаментами в СПб. Рассказываем, как это работает, кому подходит и как выбрать надежную управляющую компанию.","author":{"@type":"Organization","name":"SPb Realty Experts"},"publisher":{"@type":"Organization","name":"SPb Realty Experts","logo":{"@type":"ImageObject","url":"https://example.com/logo.png"}},"datePublished":"2024-05-21"}
----
+
+heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"---
 
 ### **H1: Доверительное управление апартаментами в Санкт-Петербурге: Полное руководство для собственника**
 

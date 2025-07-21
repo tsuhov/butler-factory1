@@ -4,7 +4,8 @@ description: "Откройте для себя эксклюзивные услу
 pubDate: "2025-07-17T07:37:32.009Z"
 author: "ButlerSPB Expert"
 schema: {"@context":"https://schema.org","@type":"BlogPosting","headline":"Батлер-сервис в СПб: Элитные услуги по управлению","description":"Откройте для себя эксклюзивные услуги батлера в Санкт-Петербурге. Профессиональное управление недвижимостью, личными делами и организация мероприятий.","author":{"@type":"Person","name":"Алексей Петров"},"publisher":{"@type":"Organization","name":"Elite Butler SPB","logo":{"@type":"ImageObject","url":"https://example.com/logo.png"}},"datePublished":"2023-11-15"}
----
+
+heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"---
 
 ### **H1: Батлер в Санкт-Петербурге: Больше, чем дворецкий. Современные услуги по управлению элитной резиденцией и стилем жизни.**
 

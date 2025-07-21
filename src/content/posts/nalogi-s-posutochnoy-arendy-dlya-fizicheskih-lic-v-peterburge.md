@@ -4,7 +4,8 @@ description: "Сдаете квартиру посуточно в Петербу
 pubDate: "2025-07-17T17:06:05.737Z"
 author: "ButlerSPB Expert"
 schema: {"@context":"https://schema.org","@type":"BlogPosting","headline":"Налоги с посуточной аренды для физических лиц в Петербурге","description":"Полное руководство по налогам для физических лиц, сдающих жилье в краткосрочную аренду в Санкт-Петербурге. Рассматриваем варианты: самозанятость, ИП и уплата НДФЛ.","author":{"@type":"Person","name":"Иван Петров, налоговый эксперт"},"publisher":{"@type":"Organization","name":"Правовой Вестник Недвижимости","logo":{"@type":"ImageObject","url":"https://example.com/logo.png"}},"datePublished":"2024-05-21"}
----
+
+heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"---
 
 ### **(H1) Налоги с посуточной аренды в Петербурге: Полное руководство для собственника в 2024 году**
 

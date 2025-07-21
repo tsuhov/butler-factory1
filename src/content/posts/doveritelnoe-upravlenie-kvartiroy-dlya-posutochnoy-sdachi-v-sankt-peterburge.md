@@ -4,7 +4,8 @@ description: "Доверительное управление квартирой
 pubDate: "2025-07-17T00:17:33.317Z"
 author: "ButlerSPB Expert"
 schema: {"@context":"https://schema.org","@type":"BlogPosting","headline":"Доверительное управление квартирой для посуточной сдачи в Санкт-Петербурге","description":"Узнайте все о доверительном управлении квартирой для посуточной аренды в Санкт-Петербурге. Как это работает, какие преимущества дает владельцу и как выбрать надежную управляющую компанию для получения пассивного дохода.","image":{"@type":"ImageObject","url":"https://example.com/images/article-image.jpg","width":1200,"height":675},"author":{"@type":"Person","name":"Алексей Смирнов","url":"https://example.com/authors/alexey-smirnov"},"publisher":{"@type":"Organization","name":"SPb Realty Group","logo":{"@type":"ImageObject","url":"https://example.com/images/logo.png","width":600,"height":60}},"datePublished":"2023-11-15"}
----
+
+heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"---
 
 # **Доверительное управление квартирой в Санкт-Петербурге: как превратить недвижимость в стабильный пассивный доход**
 

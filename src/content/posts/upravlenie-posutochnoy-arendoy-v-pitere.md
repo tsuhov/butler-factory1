@@ -4,7 +4,8 @@ description: "Секреты успешной посуточной аренды 
 pubDate: "2025-07-17T00:15:25.553Z"
 author: "ButlerSPB Expert"
 schema: {"@context":"https://schema.org","@type":"BlogPosting","headline":"Управление посуточной арендой в Питере: Полный гид 2024","description":"Секреты успешной посуточной аренды квартир в Санкт-Петербурге. Как увеличить доход, автоматизировать процессы и получать отличные отзывы от гостей.","image":"https://example.com/images/spb-daily-rent.jpg","author":{"@type":"Person","name":"Анна Воронцова, эксперт по недвижимости"},"publisher":{"@type":"Organization","name":"SPbRentals-Consulting","logo":{"@type":"ImageObject","url":"https://example.com/logo.png"}},"datePublished":"2024-05-21"}
----
+
+heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"---
 
 ### **Посуточная аренда в Петербурге: Полное руководство для собственника от А до Я**
 

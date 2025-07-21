@@ -4,7 +4,8 @@ description: "Узнайте о главных рисках при сдаче к
 pubDate: "2025-07-17T17:22:56.659Z"
 author: "ButlerSPB Expert"
 schema: {"@context":"https://schema.org","@type":"BlogPosting","headline":"Посуточная аренда в СПБ: Главные риски для владельца","description":"Узнайте о главных рисках при сдаче квартиры посуточно в Санкт-Петербурге: порча имущества, проблемы с соседями, налоги и юридические тонкости. Советы для арендодателей.","image":"https://example.com/images/spb-rental-risks.jpg","author":{"@type":"Person","name":"Алексей Смирнов"},"publisher":{"@type":"Organization","name":"СПБ-Рента-Инфо","logo":{"@type":"ImageObject","url":"https://example.com/images/logo.png"}},"datePublished":"2024-05-21"}
----
+
+heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"---
 
 ### **Заголовок (H1): Риски посуточной аренды в Санкт-Петербурге: Как не потерять деньги, нервы и квартиру**
 

@@ -4,7 +4,8 @@ description: "Ищете квартиру на сутки в Санкт-Пете
 pubDate: "2025-07-17T06:54:46.926Z"
 author: "ButlerSPB Expert"
 schema: {"@context":"https://schema.org","@type":"BlogPosting","headline":"Агентство по посуточной аренде квартир в СПБ: Как выбрать надежного партнера","description":"Полное руководство по выбору агентства для посуточной аренды жилья в Санкт-Петербурге. Советы, цены и обзор лучших районов для комфортного проживания.","author":{"@type":"Person","name":"Иван Петров"},"publisher":{"@type":"Organization","name":"SPB-Rent-Expert","logo":{"@type":"ImageObject","url":"https://example.com/logo.png"}},"datePublished":"2023-11-15"}
----
+
+heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"---
 
 ### **(H1) Как выбрать агентство посуточной аренды квартир в Санкт-Петербурге: Полное руководство для туриста и собственника**
 

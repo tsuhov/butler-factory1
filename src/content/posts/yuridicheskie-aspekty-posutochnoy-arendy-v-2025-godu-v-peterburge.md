@@ -4,7 +4,8 @@ description: "Какие юридические изменения ждут со
 pubDate: "2025-07-17T16:22:40.802Z"
 author: "ButlerSPB Expert"
 schema: {"@context":"https://schema.org","@type":"BlogPosting","headline":"Юридические аспекты посуточной аренды в 2025 году в Петербурге","description":"Полный анализ юридических аспектов посуточной аренды квартир в Санкт-Петербурге в 2025 году. Рассматриваем новые законы, налогообложение, права и обязанности собственников и арендаторов.","author":{"@type":"Person","name":"Иван Сергеев, юрист по недвижимости"},"publisher":{"@type":"Organization","name":"Правовой Вестник Недвижимости","logo":{"@type":"ImageObject","url":"https://example.com/logo.png"}},"datePublished":"2025-01-15"}
----
+
+heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"---
 
 ### **(H1) Посуточная аренда в Петербурге 2025: Полный юридический гид для собственника**
 

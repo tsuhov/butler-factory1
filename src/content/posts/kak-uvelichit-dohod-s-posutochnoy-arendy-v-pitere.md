@@ -4,7 +4,8 @@ description: "Увеличьте прибыль от своей квартиры
 pubDate: "2025-07-17T13:17:00.920Z"
 author: "ButlerSPB Expert"
 schema: {"@context":"https://schema.org","@type":"BlogPosting","headline":"Как увеличить доход с посуточной аренды в Санкт-Петербурге: эффективные стратегии","description":"Увеличьте прибыль от своей квартиры в Санкт-Петербурге. Практические советы по ценообразованию, сервису и маркетингу для посуточной аренды. Заставьте жилье работать!","author":{"@type":"Person","name":"Алексей Смирнов"},"publisher":{"@type":"Organization","name":"Питер Рент Эксперт","logo":{"@type":"ImageObject","url":"https://example.com/logo.png"}},"datePublished":"2023-11-15"}
----
+
+heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"---
 
 ### **(H1) Как увеличить доход с посуточной аренды в Санкт-Петербурге: полное руководство для рантье**
 

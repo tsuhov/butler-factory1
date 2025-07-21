@@ -4,7 +4,8 @@ description: "Как избежать простоев при посуточно
 pubDate: "2025-07-17T16:11:01.418Z"
 author: "ButlerSPB Expert"
 schema: {"@context":"https://schema.org","@type":"BlogPosting","headline":"Простои квартиры при посуточной сдаче: как избежать в Питере","description":"Как избежать простоев при посуточной сдаче квартиры в Санкт-Петербурге? Советы по ценообразованию, маркетингу и работе с отзывами для повышения загрузки.","author":{"@type":"Person","name":"Иван Рентьев"},"publisher":{"@type":"Organization","name":"Питер-Аренда-Инфо","logo":{"@type":"ImageObject","url":"https://example.com/logo.png"}},"datePublished":"2024-05-21"}
----
+
+heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"---
 
 ### **Пустые окна с видом на Неву: как победить простои при посуточной аренде в Санкт-Петербурге**
 
