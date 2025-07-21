@@ -1,10 +1,41 @@
 ---
-title: "Часто задаваемые вопросы о доверительном управлении недвижимостью"
-description: ">-"
-pubDate: "2025-07-20T12:19:26.870Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Часто задаваемые вопросы о доверительном управлении недвижимостью","description":">-","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.8","reviewCount":460,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/chasto-zadavaemye-voprosy-o-doveritelnom-upravlenii/"}}
+title: Часто задаваемые вопросы о доверительном управлении недвижимостью
+description: >-
+  Что такое доверительное управление активами, как выбрать управляющего, какие
+  есть риски и сколько это стоит? Отвечаем на самые частые вопросы о ДУ простыми
+  слов
+pubDate: '2025-07-20T12:19:26.870Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: Часто задаваемые вопросы о доверительном управлении недвижимостью
+  description: >-
+    Что такое доверительное управление активами, как выбрать управляющего, какие
+    есть риски и сколько это стоит? Отвечаем на самые частые вопросы о ДУ
+    простыми слов
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.9'
+    reviewCount: 411
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/chasto-zadavaemye-voprosy-o-doveritelnom-upravlenii/
 ---
 
 # Доверительное управление (ДУ): 15 главных вопросов для инвестора

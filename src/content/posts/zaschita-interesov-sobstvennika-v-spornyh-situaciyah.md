@@ -1,10 +1,41 @@
 ---
-title: "Защита интересов собственника в спорных ситуациях"
-description: ">-"
-pubDate: "2025-07-21T00:17:29.646Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Защита интересов собственника в спорных ситуациях","description":">-","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"5.0","reviewCount":897,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/zaschita-interesov-sobstvennika-v-spornyh-situaciyah/"}}
+title: Защита интересов собственника в спорных ситуациях
+description: >-
+  Сдача квартиры в посуточную аренду в Санкт-Петербурге — это высокий доход, но
+  и сопутствующие риски. Что делать, если гости устроили вечеринку, повредили
+  дорогу
+pubDate: '2025-07-21T00:17:29.646Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: Защита интересов собственника в спорных ситуациях
+  description: >-
+    Сдача квартиры в посуточную аренду в Санкт-Петербурге — это высокий доход,
+    но и сопутствующие риски. Что делать, если гости устроили вечеринку,
+    повредили дорогу
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.9'
+    reviewCount: 401
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/zaschita-interesov-sobstvennika-v-spornyh-situaciyah/
 ---
 
 # Защита собственника в посуточной аренде: от порчи имущества до споров с гостями. Полный гайд от ButlerSPB

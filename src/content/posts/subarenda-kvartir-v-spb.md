@@ -1,10 +1,40 @@
 ---
-title: "Субаренда квартир в СПб: полное руководство от ButlerSPB"
-description: ">-"
-pubDate: "2025-07-21T16:42:51.833Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Субаренда квартир в СПб: полное руководство от ButlerSPB","description":">-","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.8","reviewCount":672,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/subarenda-kvartir-v-spb/"}}
+title: 'Субаренда квартир в СПб: полное руководство от ButlerSPB'
+description: >-
+  Представьте: вы сняли прекрасную квартиру на Петроградке, но срочная
+  командировка или долгожданное путешествие заставляют уехать на 3 месяца.
+  Платить за пустующ
+pubDate: '2025-07-21T16:42:51.833Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Субаренда квартир в СПб: полное руководство от ButlerSPB'
+  description: >-
+    Представьте: вы сняли прекрасную квартиру на Петроградке, но срочная
+    командировка или долгожданное путешествие заставляют уехать на 3 месяца.
+    Платить за пустующ
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.9'
+    reviewCount: 724
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': 'https://butlerspb-blog.netlify.app/blog/subarenda-kvartir-v-spb/'
 ---
 
 # Субаренда в Санкт-Петербурге: Полное руководство от А до Я для арендаторов и жильцов

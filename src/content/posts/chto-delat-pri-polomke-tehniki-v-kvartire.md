@@ -1,10 +1,41 @@
 ---
-title: "Что делать при поломке техники в квартире: пошаговая инструкция"
-description: ">-"
-pubDate: "2025-07-20T10:43:21.015Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Что делать при поломке техники в квартире: пошаговая инструкция","description":">-","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":728,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/chto-delat-pri-polomke-tehniki-v-kvartire/"}}
+title: 'Что делать при поломке техники в квартире: пошаговая инструкция'
+description: >-
+  Глухая тишина там, где еще вчера гудел холодильник. Неприятная лужа под
+  стиральной машиной. Телевизор, который отказался включаться перед финалом
+  любимого сериа
+pubDate: '2025-07-20T10:43:21.015Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Что делать при поломке техники в квартире: пошаговая инструкция'
+  description: >-
+    Глухая тишина там, где еще вчера гудел холодильник. Неприятная лужа под
+    стиральной машиной. Телевизор, который отказался включаться перед финалом
+    любимого сериа
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.9'
+    reviewCount: 583
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/chto-delat-pri-polomke-tehniki-v-kvartire/
 ---
 
 # Сломалась техника в квартире: что делать? Пошаговая инструкция от паники до решения проблемы

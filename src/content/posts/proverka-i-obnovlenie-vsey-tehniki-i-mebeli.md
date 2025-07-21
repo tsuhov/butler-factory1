@@ -1,10 +1,41 @@
 ---
-title: "Проверка и обновление всей техники и мебели"
-description: ">-"
-pubDate: "2025-07-20T18:51:03.506Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Проверка и обновление всей техники и мебели","description":">-","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":861,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/proverka-i-obnovlenie-vsey-tehniki-i-mebeli/"}}
+title: Проверка и обновление всей техники и мебели
+description: >-
+  Один негативный отзыв о продавленном диване или неработающем Wi-Fi может
+  стоить вам десятков тысяч рублей упущенной выгоды. Гости в Петербурге сегодня
+  особенно 
+pubDate: '2025-07-20T18:51:03.506Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: Проверка и обновление всей техники и мебели
+  description: >-
+    Один негативный отзыв о продавленном диване или неработающем Wi-Fi может
+    стоить вам десятков тысяч рублей упущенной выгоды. Гости в Петербурге
+    сегодня особенно 
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '5.0'
+    reviewCount: 838
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/proverka-i-obnovlenie-vsey-tehniki-i-mebeli/
 ---
 
 # Усталая квартира — пустой календарь: Полное руководство по проверке и обновлению техники и мебели для посуточной аренды

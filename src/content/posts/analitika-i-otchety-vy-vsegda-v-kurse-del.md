@@ -1,10 +1,41 @@
 ---
-title: "Аналитика и отчеты: вы всегда в курсе дел"
-description: ">-"
-pubDate: "2025-07-20T13:33:36.785Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Аналитика и отчеты: вы всегда в курсе дел","description":">-","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.7","reviewCount":319,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/analitika-i-otchety-vy-vsegda-v-kurse-del/"}}
+title: 'Аналитика и отчеты: вы всегда в курсе дел'
+description: >-
+  Владение квартирой для посуточной аренды — это бизнес. А в любом бизнесе
+  главный вопрос — «Сколько я на самом деле зарабатываю?». Без точных данных вы
+  действует
+pubDate: '2025-07-20T13:33:36.785Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Аналитика и отчеты: вы всегда в курсе дел'
+  description: >-
+    Владение квартирой для посуточной аренды — это бизнес. А в любом бизнесе
+    главный вопрос — «Сколько я на самом деле зарабатываю?». Без точных данных
+    вы действует
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.9'
+    reviewCount: 819
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/analitika-i-otchety-vy-vsegda-v-kurse-del/
 ---
 
 # Аналитика и отчеты ButlerSPB: Как мы держим вас в курсе дел и увеличиваем доход вашей квартиры

@@ -1,10 +1,41 @@
 ---
-title: "Ключевые факторы, влияющие на доходность: гайд от ButlerSPB"
-description: ">-"
-pubDate: "2025-07-21T00:38:11.404Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Ключевые факторы, влияющие на доходность: гайд от ButlerSPB","description":">-","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":419,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/klyuchevye-faktory-vliyayuschie-na-dohodnost/"}}
+title: 'Ключевые факторы, влияющие на доходность: гайд от ButlerSPB'
+description: >-
+  **Meta Description:** `Узнайте, какие факторы реально влияют на доходность
+  посуточной аренды в Санкт-Петербурге. Эксперты ButlerSPB делятся секретами
+  ценообразо
+pubDate: '2025-07-21T00:38:11.404Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Ключевые факторы, влияющие на доходность: гайд от ButlerSPB'
+  description: >-
+    **Meta Description:** `Узнайте, какие факторы реально влияют на доходность
+    посуточной аренды в Санкт-Петербурге. Эксперты ButlerSPB делятся секретами
+    ценообразо
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.8'
+    reviewCount: 786
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/klyuchevye-faktory-vliyayuschie-na-dohodnost/
 ---
 
 # Как максимизировать доходность от посуточной аренды в СПб: экспертный разбор 10 ключевых факторов

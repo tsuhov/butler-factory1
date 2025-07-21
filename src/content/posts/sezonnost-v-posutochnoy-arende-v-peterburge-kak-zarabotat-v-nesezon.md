@@ -1,10 +1,41 @@
 ---
-title: "Сезонность в посуточной аренде в Петербурге: как заработать в несезон"
-description: ">-"
-pubDate: "2025-07-18T18:17:06.287Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Сезонность в посуточной аренде в Петербурге: как заработать в несезон","description":">-","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.7","reviewCount":632,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/sezonnost-v-posutochnoy-arende-v-peterburge-kak-zarabotat-v-nesezon/"}}
+title: 'Сезонность в посуточной аренде в Петербурге: как заработать в несезон'
+description: >-
+  **SEO-Description (Meta-описание):** Узнайте, как справиться с низким сезоном
+  в посуточной аренде Санкт-Петербурга. Экспертные стратегии по ценообразованию,
+  мар
+pubDate: '2025-07-18T18:17:06.287Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Сезонность в посуточной аренде в Петербурге: как заработать в несезон'
+  description: >-
+    **SEO-Description (Meta-описание):** Узнайте, как справиться с низким
+    сезоном в посуточной аренде Санкт-Петербурга. Экспертные стратегии по
+    ценообразованию, мар
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.9'
+    reviewCount: 805
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/sezonnost-v-posutochnoy-arende-v-peterburge-kak-zarabotat-v-nesezon/
 ---
 
 # Сезонность в посуточной аренде Петербурга: как заработать в несезон и превратить простой в прибыль

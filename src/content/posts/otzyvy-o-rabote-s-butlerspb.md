@@ -1,10 +1,40 @@
 ---
-title: "Отзывы о работе с ButlerSPB: Что говорят клиенты?"
-description: ">-"
-pubDate: "2025-07-20T11:41:31.049Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Отзывы о работе с ButlerSPB: Что говорят клиенты?","description":">-","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.7","reviewCount":670,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/otzyvy-o-rabote-s-butlerspb/"}}
+title: 'Отзывы о работе с ButlerSPB: Что говорят клиенты?'
+description: >-
+  **Meta-описание:** Ищете реальные отзывы о работе в ButlerSPB? Собрали мнения
+  сотрудников и клиентов: условия труда, зарплата, карьера, качество услуг.
+  Читайте 
+pubDate: '2025-07-20T11:41:31.049Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Отзывы о работе с ButlerSPB: Что говорят клиенты?'
+  description: >-
+    **Meta-описание:** Ищете реальные отзывы о работе в ButlerSPB? Собрали
+    мнения сотрудников и клиентов: условия труда, зарплата, карьера, качество
+    услуг. Читайте 
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.7'
+    reviewCount: 323
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': 'https://butlerspb-blog.netlify.app/blog/otzyvy-o-rabote-s-butlerspb/'
 ---
 
 # ButlerSPB: Отзывы о работе, зарплате и условиях. Вся правда от сотрудников и клиентов в 2024 году.

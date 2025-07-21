@@ -1,10 +1,49 @@
 ---
-title: "Как выбрать надежное агентство по сдаче квартир в Санкт-Петербурге: Советы от ButlerSPB"
-description: "Сдача квартиры в аренду в Санкт-Петербурге — задача, требующая времени, знаний и внимания к деталям. В нашей новой статье мы расскажем, на что обратить внимание при выборе агентства недвижимости, какие риски существуют для собственников и как профессиональное управление от ButlerSPB поможет вам получать стабильный доход без лишних хлопот."
-pubDate: "2025-07-21T19:21:08.760Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1522708323590-d24dbb6b0267?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Как выбрать надежное агентство по сдаче квартир в Санкт-Петербурге: Советы от ButlerSPB","description":"Сдача квартиры в аренду в Санкт-Петербурге — задача, требующая времени, знаний и внимания к деталям. В нашей новой статье мы расскажем, на что обратить внимание при выборе агентства недвижимости, какие риски существуют для собственников и как профессиональное управление от ButlerSPB поможет вам получать стабильный доход без лишних хлопот.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1522708323590-d24dbb6b0267?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.8","reviewCount":472,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/agentstvo-po-sdache-kvartir-v-sankt-peterburge/"}}
+title: >-
+  Как выбрать надежное агентство по сдаче квартир в Санкт-Петербурге: Советы от
+  ButlerSPB
+description: >-
+  Сдача квартиры в аренду в Санкт-Петербурге — задача, требующая времени, знаний
+  и внимания к деталям. В нашей новой статье мы расскажем, на что обратить
+  внимание при выборе агентства недвижимости, какие риски существуют для
+  собственников и как профессиональное управление от ButlerSPB поможет вам
+  получать стабильный доход без лишних хлопот.
+pubDate: '2025-07-21T19:21:08.760Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1522708323590-d24dbb6b0267?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: >-
+    Как выбрать надежное агентство по сдаче квартир в Санкт-Петербурге: Советы
+    от ButlerSPB
+  description: >-
+    Сдача квартиры в аренду в Санкт-Петербурге — задача, требующая времени,
+    знаний и внимания к деталям. В нашей новой статье мы расскажем, на что
+    обратить внимание при выборе агентства недвижимости, какие риски существуют
+    для собственников и как профессиональное управление от ButlerSPB поможет вам
+    получать стабильный доход без лишних хлопот.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1522708323590-d24dbb6b0267?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.9'
+    reviewCount: 782
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/agentstvo-po-sdache-kvartir-v-sankt-peterburge/
 ---
 
 # Сдать квартиру через агентство в Санкт-Петербурге: Полное руководство для собственника от ButlerSPB

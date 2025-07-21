@@ -1,10 +1,53 @@
 ---
-title: "Риэлтор по загородной недвижимости в Санкт-Петербурге: Ключ к дому вашей мечты с ButlerSPB"
-description: "Мечтаете о собственном доме в окружении природы недалеко от Санкт-Петербурга? Покупка загородной недвижимости — процесс со множеством нюансов, от юридической проверки земли до оценки коммуникаций. В новой статье блога ButlerSPB рассказываем, почему для такой сделки необходим узкопрофильный специалист, на что обратить внимание при выборе риэлтора и как наша команда помогает находить идеальные загородные резиденции в СПб и Ленинградской области."
-pubDate: "2025-07-21T20:14:15.200Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Риэлтор по загородной недвижимости в Санкт-Петербурге: Ключ к дому вашей мечты с ButlerSPB","description":"Мечтаете о собственном доме в окружении природы недалеко от Санкт-Петербурга? Покупка загородной недвижимости — процесс со множеством нюансов, от юридической проверки земли до оценки коммуникаций. В новой статье блога ButlerSPB рассказываем, почему для такой сделки необходим узкопрофильный специалист, на что обратить внимание при выборе риэлтора и как наша команда помогает находить идеальные загородные резиденции в СПб и Ленинградской области.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.8","reviewCount":728,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/rieltor-po-zagorodnoy-nedvizhimosti-v-pitere/"}}
+title: >-
+  Риэлтор по загородной недвижимости в Санкт-Петербурге: Ключ к дому вашей мечты
+  с ButlerSPB
+description: >-
+  Мечтаете о собственном доме в окружении природы недалеко от Санкт-Петербурга?
+  Покупка загородной недвижимости — процесс со множеством нюансов, от
+  юридической проверки земли до оценки коммуникаций. В новой статье блога
+  ButlerSPB рассказываем, почему для такой сделки необходим узкопрофильный
+  специалист, на что обратить внимание при выборе риэлтора и как наша команда
+  помогает находить идеальные загородные резиденции в СПб и Ленинградской
+  области.
+pubDate: '2025-07-21T20:14:15.200Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: >-
+    Риэлтор по загородной недвижимости в Санкт-Петербурге: Ключ к дому вашей
+    мечты с ButlerSPB
+  description: >-
+    Мечтаете о собственном доме в окружении природы недалеко от
+    Санкт-Петербурга? Покупка загородной недвижимости — процесс со множеством
+    нюансов, от юридической проверки земли до оценки коммуникаций. В новой
+    статье блога ButlerSPB рассказываем, почему для такой сделки необходим
+    узкопрофильный специалист, на что обратить внимание при выборе риэлтора и
+    как наша команда помогает находить идеальные загородные резиденции в СПб и
+    Ленинградской области.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.8'
+    reviewCount: 684
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/rieltor-po-zagorodnoy-nedvizhimosti-v-pitere/
 ---
 
 # Ваш идеальный загородный дом в Петербурге: почему выбор риэлтора — это 90% успеха

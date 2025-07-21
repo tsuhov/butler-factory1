@@ -1,10 +1,40 @@
 ---
-title: "Снижаем риски, повышаем прибыль: Руководство для бизнеса от ButlerSPB"
-description: ">-"
-pubDate: "2025-07-20T14:19:46.017Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Снижаем риски, повышаем прибыль: Руководство для бизнеса от ButlerSPB","description":">-","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.8","reviewCount":631,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/snizhaem-riski-povyshaem-pribyl/"}}
+title: 'Снижаем риски, повышаем прибыль: Руководство для бизнеса от ButlerSPB'
+description: >-
+  Посуточная аренда в Петербурге — золотая жила или минное поле? Для многих
+  собственников это вопрос, на который нет однозначного ответа. С одной стороны
+  — возмож
+pubDate: '2025-07-20T14:19:46.017Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Снижаем риски, повышаем прибыль: Руководство для бизнеса от ButlerSPB'
+  description: >-
+    Посуточная аренда в Петербурге — золотая жила или минное поле? Для многих
+    собственников это вопрос, на который нет однозначного ответа. С одной
+    стороны — возмож
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '5.0'
+    reviewCount: 390
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': 'https://butlerspb-blog.netlify.app/blog/snizhaem-riski-povyshaem-pribyl/'
 ---
 
 # Снижаем риски, повышаем прибыль: Полное руководство по посуточной аренде в Санкт-Петербурге от экспертов ButlerSPB

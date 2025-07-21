@@ -1,10 +1,41 @@
 ---
-title: "Секреты успешной коммуникации с техподдержкой агрегаторов"
-description: ">-"
-pubDate: "2025-07-19T14:12:24.300Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Секреты успешной коммуникации с техподдержкой агрегаторов","description":">-","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":497,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/sekrety-uspeshnoy-kommunikacii-s-tehpodderzhkoy-agregatorov/"}}
+title: Секреты успешной коммуникации с техподдержкой агрегаторов
+description: >-
+  Общение с поддержкой крупных агрегаторов — будь то Ozon, Wildberries,
+  Яндекс.Еда или Avito — часто напоминает хождение по минному полю. Длинные
+  ожидания, шаблон
+pubDate: '2025-07-19T14:12:24.300Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: Секреты успешной коммуникации с техподдержкой агрегаторов
+  description: >-
+    Общение с поддержкой крупных агрегаторов — будь то Ozon, Wildberries,
+    Яндекс.Еда или Avito — часто напоминает хождение по минному полю. Длинные
+    ожидания, шаблон
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.9'
+    reviewCount: 835
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/sekrety-uspeshnoy-kommunikacii-s-tehpodderzhkoy-agregatorov/
 ---
 
 # **Техподдержка агрегаторов: Как общаться, чтобы вас услышали и решили проблему**

@@ -1,10 +1,41 @@
 ---
-title: "Заботимся о вашей квартире как о своей собственной"
-description: ">-"
-pubDate: "2025-07-20T13:15:36.313Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Заботимся о вашей квартире как о своей собственной","description":">-","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":376,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/zabotimsya-o-vashey-kvartire-kak-o-svoey-sobstvennoy/"}}
+title: Заботимся о вашей квартире как о своей собственной
+description: >-
+  Сдать квартиру в посуточную аренду в Санкт-Петербурге — это прекрасная
+  возможность получать стабильный доход. Но вместе с ней приходит главный
+  вопрос: "Что стан
+pubDate: '2025-07-20T13:15:36.313Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: Заботимся о вашей квартире как о своей собственной
+  description: >-
+    Сдать квартиру в посуточную аренду в Санкт-Петербурге — это прекрасная
+    возможность получать стабильный доход. Но вместе с ней приходит главный
+    вопрос: "Что стан
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.8'
+    reviewCount: 582
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/zabotimsya-o-vashey-kvartire-kak-o-svoey-sobstvennoy/
 ---
 
 # Ваша квартира в надежных руках: Как ButlerSPB заботится о вашей недвижимости в Санкт-Петербурге

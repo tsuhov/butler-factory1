@@ -1,10 +1,40 @@
 ---
-title: "Мы дорожим каждым клиентом: Философия ButlerSPB"
-description: ">-"
-pubDate: "2025-07-20T23:02:32.052Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Мы дорожим каждым клиентом: Философия ButlerSPB","description":">-","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":600,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/my-dorozhim-kazhdym-klientom/"}}
+title: 'Мы дорожим каждым клиентом: Философия ButlerSPB'
+description: >-
+  Передать свою квартиру в управление — это всегда немного тревожно. Будет ли
+  она в безопасности? Получу ли я ожидаемый доход? Не превратится ли общение с
+  управля
+pubDate: '2025-07-20T23:02:32.052Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Мы дорожим каждым клиентом: Философия ButlerSPB'
+  description: >-
+    Передать свою квартиру в управление — это всегда немного тревожно. Будет ли
+    она в безопасности? Получу ли я ожидаемый доход? Не превратится ли общение с
+    управля
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '5.0'
+    reviewCount: 669
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': 'https://butlerspb-blog.netlify.app/blog/my-dorozhim-kazhdym-klientom/'
 ---
 
 # "Мы дорожим каждым клиентом" — не просто слова. Как ButlerSPB строит партнерство с владельцами квартир в Петербурге

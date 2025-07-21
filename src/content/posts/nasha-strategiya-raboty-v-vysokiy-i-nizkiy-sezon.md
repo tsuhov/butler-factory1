@@ -1,10 +1,41 @@
 ---
-title: "Наша стратегия работы в высокий и низкий сезон"
-description: ">-"
-pubDate: "2025-07-20T13:29:05.209Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Наша стратегия работы в высокий и низкий сезон","description":">-","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":538,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/nasha-strategiya-raboty-v-vysokiy-i-nizkiy-sezon/"}}
+title: Наша стратегия работы в высокий и низкий сезон
+description: >-
+  Санкт-Петербург — город крайностей не только в погоде, но и в бизнесе
+  посуточной аренды. Летом — ажиотаж, туристы и полная загрузка, а с ноября по
+  март — пугающ
+pubDate: '2025-07-20T13:29:05.209Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: Наша стратегия работы в высокий и низкий сезон
+  description: >-
+    Санкт-Петербург — город крайностей не только в погоде, но и в бизнесе
+    посуточной аренды. Летом — ажиотаж, туристы и полная загрузка, а с ноября по
+    март — пугающ
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.7'
+    reviewCount: 738
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/nasha-strategiya-raboty-v-vysokiy-i-nizkiy-sezon/
 ---
 
 # Как мы удваиваем доход в высокий сезон и избегаем простоев в низкий: Полная стратегия управления от ButlerSPB

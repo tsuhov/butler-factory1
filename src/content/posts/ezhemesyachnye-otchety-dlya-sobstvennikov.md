@@ -1,10 +1,41 @@
 ---
-title: "Ежемесячные отчеты для собственников: ключ к прозрачности и контролю"
-description: ">-"
-pubDate: "2025-07-20T19:07:46.560Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Ежемесячные отчеты для собственников: ключ к прозрачности и контролю","description":">-","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"5.0","reviewCount":433,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/ezhemesyachnye-otchety-dlya-sobstvennikov/"}}
+title: 'Ежемесячные отчеты для собственников: ключ к прозрачности и контролю'
+description: >-
+  Вы доверили свою квартиру управляющей компании. Но как понять, что она
+  работает на 100% эффективно, а не просто присылает вам итоговую сумму раз в
+  месяц? Где га
+pubDate: '2025-07-20T19:07:46.560Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Ежемесячные отчеты для собственников: ключ к прозрачности и контролю'
+  description: >-
+    Вы доверили свою квартиру управляющей компании. Но как понять, что она
+    работает на 100% эффективно, а не просто присылает вам итоговую сумму раз в
+    месяц? Где га
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.9'
+    reviewCount: 674
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/ezhemesyachnye-otchety-dlya-sobstvennikov/
 ---
 
 # Ежемесячный отчет для собственника: Полный гайд по цифрам, которые действительно имеют значение

@@ -1,10 +1,45 @@
 ---
-title: ">-"
-description: ">-"
-pubDate: "2025-07-18T18:30:48.869Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":">-","description":">-","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.8","reviewCount":453,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/upravlenie-reputaciey-i-otzyvami-na-agregatorah-v-sankt-peterburge/"}}
+title: >-
+  Управление репутацией в Санкт-Петербурге: Полное руководство по работе с
+  отзывами на Яндекс Картах, 2ГИС и других агрегаторах
+description: >-
+  В высококонкурентной среде Санкт-Петербурга репутация на онлайн-картах и
+  агрегаторах — это не просто "желательно", а критически важный фактор выживания
+  и роста 
+pubDate: '2025-07-18T18:30:48.869Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: >-
+    Управление репутацией в Санкт-Петербурге: Полное руководство по работе с
+    отзывами на Яндекс Картах, 2ГИС и других агрегаторах
+  description: >-
+    В высококонкурентной среде Санкт-Петербурга репутация на онлайн-картах и
+    агрегаторах — это не просто "желательно", а критически важный фактор
+    выживания и роста 
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '5.0'
+    reviewCount: 312
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/upravlenie-reputaciey-i-otzyvami-na-agregatorah-v-sankt-peterburge/
 ---
 
 # Управление репутацией в Санкт-Петербурге: Полное руководство по работе с отзывами на Яндекс Картах, 2ГИС и других агрегаторах

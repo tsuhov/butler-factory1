@@ -1,10 +1,45 @@
 ---
-title: ">-"
-description: ">-"
-pubDate: "2025-07-20T13:31:22.036Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":">-","description":">-","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.7","reviewCount":623,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/bezuprechnyy-servis-kotoryy-povyshaet-stoimost-vashey-nedvizhimosti/"}}
+title: >-
+  Не просто аренда: Как безупречный сервис превращает вашу квартиру в
+  Санкт-Петербурге в высокодоходный актив
+description: >-
+  Ваша квартира в прекрасном районе Петербурга приносит не тот доход, на который
+  вы рассчитывали? Отзывы гостей средние, а простои съедают прибыль? Вы не
+  одиноки.
+pubDate: '2025-07-20T13:31:22.036Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: >-
+    Не просто аренда: Как безупречный сервис превращает вашу квартиру в
+    Санкт-Петербурге в высокодоходный актив
+  description: >-
+    Ваша квартира в прекрасном районе Петербурга приносит не тот доход, на
+    который вы рассчитывали? Отзывы гостей средние, а простои съедают прибыль?
+    Вы не одиноки.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.8'
+    reviewCount: 658
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/bezuprechnyy-servis-kotoryy-povyshaet-stoimost-vashey-nedvizhimosti/
 ---
 
 # Не просто аренда: Как безупречный сервис превращает вашу квартиру в Санкт-Петербурге в высокодоходный актив

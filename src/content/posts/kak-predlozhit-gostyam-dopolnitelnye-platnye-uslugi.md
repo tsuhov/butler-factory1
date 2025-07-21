@@ -1,10 +1,43 @@
 ---
-title: "Искусство апселлинга: 5 эффективных способов предложить гостям платные услуги"
-description: ">-"
-pubDate: "2025-07-19T14:16:42.387Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Искусство апселлинга: 5 эффективных способов предложить гостям платные услуги","description":">-","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"5.0","reviewCount":761,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/kak-predlozhit-gostyam-dopolnitelnye-platnye-uslugi/"}}
+title: 'Искусство апселлинга: 5 эффективных способов предложить гостям платные услуги'
+description: >-
+  *__(Мета-описание: Увеличьте прибыль вашего отеля и лояльность гостей.
+  Узнайте, какие платные услуги предлагать, как делать это ненавязчиво и
+  эффективно на кажд
+pubDate: '2025-07-19T14:16:42.387Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: >-
+    Искусство апселлинга: 5 эффективных способов предложить гостям платные
+    услуги
+  description: >-
+    *__(Мета-описание: Увеличьте прибыль вашего отеля и лояльность гостей.
+    Узнайте, какие платные услуги предлагать, как делать это ненавязчиво и
+    эффективно на кажд
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.9'
+    reviewCount: 676
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/kak-predlozhit-gostyam-dopolnitelnye-platnye-uslugi/
 ---
 
 # **Как предложить гостям дополнительные платные услуги: Полное руководство по увеличению дохода отеля**

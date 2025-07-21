@@ -1,10 +1,45 @@
 ---
-title: ">-"
-description: ">-"
-pubDate: "2025-07-20T22:08:02.327Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":">-","description":">-","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":524,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/mobilnoe-prilozhenie-dlya-sobstvennikov/"}}
+title: >-
+  Мобильное приложение для собственника: как полностью контролировать посуточную
+  аренду и доход с телефона
+description: >-
+  Помните то тревожное чувство, когда ваша квартира в Санкт-Петербурге сдается,
+  а вы находитесь в другом городе или просто заняты своими делами? Вы можете
+  лишь до
+pubDate: '2025-07-20T22:08:02.327Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: >-
+    Мобильное приложение для собственника: как полностью контролировать
+    посуточную аренду и доход с телефона
+  description: >-
+    Помните то тревожное чувство, когда ваша квартира в Санкт-Петербурге
+    сдается, а вы находитесь в другом городе или просто заняты своими делами? Вы
+    можете лишь до
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.7'
+    reviewCount: 708
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/mobilnoe-prilozhenie-dlya-sobstvennikov/
 ---
 
 # Мобильное приложение для собственника: как полностью контролировать посуточную аренду и доход с телефона

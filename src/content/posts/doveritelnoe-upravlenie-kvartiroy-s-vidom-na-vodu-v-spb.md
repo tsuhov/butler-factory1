@@ -1,10 +1,45 @@
 ---
-title: ">-"
-description: ">-"
-pubDate: "2025-07-18T16:42:09.659Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":">-","description":">-","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.7","reviewCount":658,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/doveritelnoe-upravlenie-kvartiroy-s-vidom-na-vodu-v-spb/"}}
+title: >-
+  Доверительное управление квартирой с видом на воду в СПб: как получать
+  пассивный доход, не тратя время
+description: >-
+  **Meta-description:** Профессиональное доверительное управление видовыми
+  квартирами в Санкт-Петербурге. Узнайте, как сдать элитную квартиру с видом на
+  Неву или 
+pubDate: '2025-07-18T16:42:09.659Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: >-
+    Доверительное управление квартирой с видом на воду в СПб: как получать
+    пассивный доход, не тратя время
+  description: >-
+    **Meta-description:** Профессиональное доверительное управление видовыми
+    квартирами в Санкт-Петербурге. Узнайте, как сдать элитную квартиру с видом
+    на Неву или 
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.8'
+    reviewCount: 895
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/doveritelnoe-upravlenie-kvartiroy-s-vidom-na-vodu-v-spb/
 ---
 
 # Доверительное управление квартирой с видом на воду в СПб: как получать пассивный доход, не тратя время

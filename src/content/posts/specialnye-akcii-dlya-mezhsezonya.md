@@ -1,10 +1,40 @@
 ---
-title: "Специальные акции для межсезонья: как привлечь клиентов и увеличить прибыль"
-description: ">-"
-pubDate: "2025-07-20T10:56:25.175Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Специальные акции для межсезонья: как привлечь клиентов и увеличить прибыль","description":">-","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.8","reviewCount":700,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/specialnye-akcii-dlya-mezhsezonya/"}}
+title: 'Специальные акции для межсезонья: как привлечь клиентов и увеличить прибыль'
+description: >-
+  Пустые залы, снижение онлайн-трафика, падение выручки — знакомая картина для
+  любого сезонного бизнеса. Тревожное затишье, которое принято называть
+  межсезоньем, 
+pubDate: '2025-07-20T10:56:25.175Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Специальные акции для межсезонья: как привлечь клиентов и увеличить прибыль'
+  description: >-
+    Пустые залы, снижение онлайн-трафика, падение выручки — знакомая картина для
+    любого сезонного бизнеса. Тревожное затишье, которое принято называть
+    межсезоньем, 
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '5.0'
+    reviewCount: 883
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': 'https://butlerspb-blog.netlify.app/blog/specialnye-akcii-dlya-mezhsezonya/'
 ---
 
 # Как превратить межсезонье в пик продаж: Полное руководство по специальным акциям

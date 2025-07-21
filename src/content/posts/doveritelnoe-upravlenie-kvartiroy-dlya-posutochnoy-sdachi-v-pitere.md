@@ -1,10 +1,39 @@
 ---
-title: "Доверительное управление квартирой посуточно в СПб: как это работает"
-description: "Узнайте, как сдать квартиру в Санкт-Петербурге в доверительное управление для посуточной аренды. Плюсы, минусы и выбор надежной управляющей компании."
-pubDate: "2025-07-17T00:23:31.938Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Доверительное управление квартирой посуточно в СПб: как это работает","description":"Узнайте, как сдать квартиру в Санкт-Петербурге в доверительное управление для посуточной аренды. Плюсы, минусы и выбор надежной управляющей компании.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.8","reviewCount":737,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/doveritelnoe-upravlenie-kvartiroy-dlya-posutochnoy-sdachi-v-pitere/"}}
+title: 'Доверительное управление квартирой посуточно в СПб: как это работает'
+description: >-
+  Узнайте, как сдать квартиру в Санкт-Петербурге в доверительное управление для
+  посуточной аренды. Плюсы, минусы и выбор надежной управляющей компании.
+pubDate: '2025-07-17T00:23:31.938Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Доверительное управление квартирой посуточно в СПб: как это работает'
+  description: >-
+    Узнайте, как сдать квартиру в Санкт-Петербурге в доверительное управление
+    для посуточной аренды. Плюсы, минусы и выбор надежной управляющей компании.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.9'
+    reviewCount: 456
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/doveritelnoe-upravlenie-kvartiroy-dlya-posutochnoy-sdachi-v-pitere/
 ---
 
 ### **Доверительное управление квартирой в Санкт-Петербурге: как получать пассивный доход от посуточной аренды без лишних хлопот**

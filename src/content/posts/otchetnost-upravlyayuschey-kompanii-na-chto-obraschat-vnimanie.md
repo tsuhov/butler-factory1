@@ -1,10 +1,41 @@
 ---
-title: "Отчетность управляющей компании: на что обращать внимание"
-description: ">-"
-pubDate: "2025-07-20T11:37:52.062Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Отчетность управляющей компании: на что обращать внимание","description":">-","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.8","reviewCount":580,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/otchetnost-upravlyayuschey-kompanii-na-chto-obraschat-vnimanie/"}}
+title: 'Отчетность управляющей компании: на что обращать внимание'
+description: >-
+  Каждый месяц вы платите за «содержание жилья», но куда именно уходят эти
+  деньги? Прозрачная отчетность управляющей компании (УК) — это не формальность,
+  а ваше з
+pubDate: '2025-07-20T11:37:52.062Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Отчетность управляющей компании: на что обращать внимание'
+  description: >-
+    Каждый месяц вы платите за «содержание жилья», но куда именно уходят эти
+    деньги? Прозрачная отчетность управляющей компании (УК) — это не
+    формальность, а ваше з
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.8'
+    reviewCount: 326
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/otchetnost-upravlyayuschey-kompanii-na-chto-obraschat-vnimanie/
 ---
 
 # Отчетность управляющей компании: полный гид по проверке и на что обращать внимание

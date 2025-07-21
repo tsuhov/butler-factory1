@@ -1,10 +1,43 @@
 ---
-title: "Полный цикл управления посуточной арендой: пошаговое руководство от ButlerSPB"
-description: ">-"
-pubDate: "2025-07-20T13:20:06.861Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Полный цикл управления посуточной арендой: пошаговое руководство от ButlerSPB","description":">-","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"5.0","reviewCount":853,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/polnyy-cikl-upravleniya-posutochnoy-arendoy/"}}
+title: 'Полный цикл управления посуточной арендой: пошаговое руководство от ButlerSPB'
+description: >-
+  Ваша квартира в центре Петербурга могла бы приносить в 2-3 раза больше дохода,
+  чем при долгосрочной аренде. Но мысль о постоянных звонках, уборках и общении
+  с г
+pubDate: '2025-07-20T13:20:06.861Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: >-
+    Полный цикл управления посуточной арендой: пошаговое руководство от
+    ButlerSPB
+  description: >-
+    Ваша квартира в центре Петербурга могла бы приносить в 2-3 раза больше
+    дохода, чем при долгосрочной аренде. Но мысль о постоянных звонках, уборках
+    и общении с г
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.9'
+    reviewCount: 336
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/polnyy-cikl-upravleniya-posutochnoy-arendoy/
 ---
 
 # **Полный цикл управления посуточной арендой в СПб: от подготовки квартиры до 5-звездочных отзывов**

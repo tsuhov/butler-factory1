@@ -1,10 +1,41 @@
 ---
-title: "Работа с командировочными: документы и отчетность"
-description: ">-"
-pubDate: "2025-07-19T13:41:50.448Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Работа с командировочными: документы и отчетность","description":">-","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.8","reviewCount":508,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/rabota-s-komandirovochnymi-dokumenty-i-otchetnost/"}}
+title: 'Работа с командировочными: документы и отчетность'
+description: >-
+  Оформление командировки часто превращается в квест для сотрудника и головную
+  боль для бухгалтерии. Один утерянный чек или неверно заполненный приказ могут
+  приве
+pubDate: '2025-07-19T13:41:50.448Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Работа с командировочными: документы и отчетность'
+  description: >-
+    Оформление командировки часто превращается в квест для сотрудника и головную
+    боль для бухгалтерии. Один утерянный чек или неверно заполненный приказ
+    могут приве
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.9'
+    reviewCount: 421
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/rabota-s-komandirovochnymi-dokumenty-i-otchetnost/
 ---
 
 # Командировочные расходы 2024: Полное руководство по документам и отчетности от А до Я

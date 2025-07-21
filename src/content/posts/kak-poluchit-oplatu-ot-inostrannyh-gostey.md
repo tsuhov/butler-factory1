@@ -1,10 +1,41 @@
 ---
-title: "Как получить оплату от иностранных гостей: полное руководство"
-description: ">-"
-pubDate: "2025-07-20T00:04:52.733Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Как получить оплату от иностранных гостей: полное руководство","description":">-","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.8","reviewCount":442,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/kak-poluchit-oplatu-ot-inostrannyh-gostey/"}}
+title: 'Как получить оплату от иностранных гостей: полное руководство'
+description: >-
+  Столкнулись с проблемой приема платежей от туристов из-за рубежа? Санкции,
+  отключение Visa/Mastercard и SWIFT-ограничения создают трудности. В этой
+  статье мы по
+pubDate: '2025-07-20T00:04:52.733Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Как получить оплату от иностранных гостей: полное руководство'
+  description: >-
+    Столкнулись с проблемой приема платежей от туристов из-за рубежа? Санкции,
+    отключение Visa/Mastercard и SWIFT-ограничения создают трудности. В этой
+    статье мы по
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.9'
+    reviewCount: 622
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/kak-poluchit-oplatu-ot-inostrannyh-gostey/
 ---
 
 # Как принять оплату от иностранных гостей в 2024 году: полное руководство для отельеров и арендодателей

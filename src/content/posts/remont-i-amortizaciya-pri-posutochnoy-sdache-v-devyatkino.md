@@ -1,10 +1,45 @@
 ---
-title: ">-"
-description: ">-"
-pubDate: "2025-07-19T10:50:33.184Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":">-","description":">-","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.7","reviewCount":743,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/remont-i-amortizaciya-pri-posutochnoy-sdache-v-devyatkino/"}}
+title: >-
+  Ремонт и амортизация при посуточной сдаче в Девяткино: Как превратить износ в
+  доход
+description: >-
+  Посуточная аренда в Девяткино — высококонкурентный бизнес, где состояние
+  квартиры напрямую влияет на доходность и рейтинг. Интенсивная эксплуатация
+  ведет к быст
+pubDate: '2025-07-19T10:50:33.184Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: >-
+    Ремонт и амортизация при посуточной сдаче в Девяткино: Как превратить износ
+    в доход
+  description: >-
+    Посуточная аренда в Девяткино — высококонкурентный бизнес, где состояние
+    квартиры напрямую влияет на доходность и рейтинг. Интенсивная эксплуатация
+    ведет к быст
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.9'
+    reviewCount: 758
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/remont-i-amortizaciya-pri-posutochnoy-sdache-v-devyatkino/
 ---
 
 # Ремонт и амортизация при посуточной сдаче в Девяткино: Как превратить износ в доход

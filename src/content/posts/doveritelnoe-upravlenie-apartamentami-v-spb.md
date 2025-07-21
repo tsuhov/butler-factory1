@@ -1,10 +1,39 @@
 ---
-title: "Доверительное управление апартаментами в СПБ: полный гайд"
-description: "Узнайте все о доверительном управлении апартаментами в СПб. Как передать недвижимость УК и получать пассивный доход без лишних забот."
-pubDate: "2025-07-17T07:43:10.972Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Доверительное управление апартаментами в СПБ: полный гайд","description":"Узнайте все о доверительном управлении апартаментами в СПб. Как передать недвижимость УК и получать пассивный доход без лишних забот.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.8","reviewCount":320,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/doveritelnoe-upravlenie-apartamentami-v-spb/"}}
+title: 'Доверительное управление апартаментами в СПБ: полный гайд'
+description: >-
+  Узнайте все о доверительном управлении апартаментами в СПб. Как передать
+  недвижимость УК и получать пассивный доход без лишних забот.
+pubDate: '2025-07-17T07:43:10.972Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Доверительное управление апартаментами в СПБ: полный гайд'
+  description: >-
+    Узнайте все о доверительном управлении апартаментами в СПб. Как передать
+    недвижимость УК и получать пассивный доход без лишних забот.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.9'
+    reviewCount: 591
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/doveritelnoe-upravlenie-apartamentami-v-spb/
 ---
 
 ### **(H1) Доверительное управление апартаментами в СПб: Полное руководство для инвестора по максимизации дохода и минимизации рисков**

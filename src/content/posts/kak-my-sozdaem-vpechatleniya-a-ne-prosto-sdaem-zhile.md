@@ -1,10 +1,41 @@
 ---
-title: "Как мы создаем впечатления, а не просто сдаем жилье"
-description: ">-"
-pubDate: "2025-07-20T14:35:06.725Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Как мы создаем впечатления, а не просто сдаем жилье","description":">-","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.8","reviewCount":598,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/kak-my-sozdaem-vpechatleniya-a-ne-prosto-sdaem-zhile/"}}
+title: 'Как мы создаем впечатления, а не просто сдаем жилье'
+description: >-
+  Рынок посуточной аренды в Санкт-Петербурге перенасыщен. Сотни квартир
+  соревнуются за внимание гостя, и цена – далеко не единственный аргумент. Как
+  выделиться, к
+pubDate: '2025-07-20T14:35:06.725Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Как мы создаем впечатления, а не просто сдаем жилье'
+  description: >-
+    Рынок посуточной аренды в Санкт-Петербурге перенасыщен. Сотни квартир
+    соревнуются за внимание гостя, и цена – далеко не единственный аргумент. Как
+    выделиться, к
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.9'
+    reviewCount: 328
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/kak-my-sozdaem-vpechatleniya-a-ne-prosto-sdaem-zhile/
 ---
 
 # От квадратных метров к незабываемым эмоциям: как подход ButlerSPB увеличивает ваш доход от аренды в Петербурге

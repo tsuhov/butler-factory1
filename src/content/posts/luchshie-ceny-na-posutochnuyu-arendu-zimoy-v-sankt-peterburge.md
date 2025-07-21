@@ -1,10 +1,41 @@
 ---
-title: "Лучшие цены на посуточную аренду зимой в Санкт-Петербурге"
-description: ">-"
-pubDate: "2025-07-19T10:44:40.942Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Лучшие цены на посуточную аренду зимой в Санкт-Петербурге","description":">-","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"5.0","reviewCount":774,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/luchshie-ceny-na-posutochnuyu-arendu-zimoy-v-sankt-peterburge/"}}
+title: Лучшие цены на посуточную аренду зимой в Санкт-Петербурге
+description: >-
+  Зимний Петербург — это настоящая сказка. Заснеженные набережные Невы, огни
+  гирлянд на Невском проспекте, уютные кофейни, согревающие после прогулок по
+  морозному
+pubDate: '2025-07-19T10:44:40.942Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: Лучшие цены на посуточную аренду зимой в Санкт-Петербурге
+  description: >-
+    Зимний Петербург — это настоящая сказка. Заснеженные набережные Невы, огни
+    гирлянд на Невском проспекте, уютные кофейни, согревающие после прогулок по
+    морозному
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '5.0'
+    reviewCount: 326
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/luchshie-ceny-na-posutochnuyu-arendu-zimoy-v-sankt-peterburge/
 ---
 
 # Лучшие цены на посуточную аренду зимой в Санкт-Петербурге: Гид 2023-2024

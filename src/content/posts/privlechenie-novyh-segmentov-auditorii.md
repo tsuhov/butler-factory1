@@ -1,10 +1,41 @@
 ---
-title: "Как привлечь новые сегменты аудитории: опыт ButlerSPB"
-description: ">-"
-pubDate: "2025-07-20T19:01:52.070Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Как привлечь новые сегменты аудитории: опыт ButlerSPB","description":">-","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"5.0","reviewCount":470,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/privlechenie-novyh-segmentov-auditorii/"}}
+title: 'Как привлечь новые сегменты аудитории: опыт ButlerSPB'
+description: >-
+  Белые ночи и летние месяцы приносят стабильный поток гостей, но что
+  происходит, когда туристический сезон заканчивается? Ваша квартира начинает
+  простаивать, а д
+pubDate: '2025-07-20T19:01:52.070Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Как привлечь новые сегменты аудитории: опыт ButlerSPB'
+  description: >-
+    Белые ночи и летние месяцы приносят стабильный поток гостей, но что
+    происходит, когда туристический сезон заканчивается? Ваша квартира начинает
+    простаивать, а д
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.9'
+    reviewCount: 499
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/privlechenie-novyh-segmentov-auditorii/
 ---
 
 # Больше, чем туристы: Как привлечь новые сегменты гостей и удвоить доход от посуточной аренды в СПб

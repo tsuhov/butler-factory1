@@ -1,10 +1,41 @@
 ---
-title: "Полное управление объектом после покупки: Ваш ключ к беззаботному владению"
-description: ">-"
-pubDate: "2025-07-20T22:40:09.603Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Полное управление объектом после покупки: Ваш ключ к беззаботному владению","description":">-","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.8","reviewCount":426,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/polnoe-upravlenie-obektom-posle-pokupki/"}}
+title: 'Полное управление объектом после покупки: Ваш ключ к беззаботному владению'
+description: >-
+  Поздравляем с покупкой квартиры в Санкт-Петербурге! Это волнующий момент, но
+  вместе с ключами вы получаете и главный вопрос: как превратить эти квадратные
+  метры
+pubDate: '2025-07-20T22:40:09.603Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Полное управление объектом после покупки: Ваш ключ к беззаботному владению'
+  description: >-
+    Поздравляем с покупкой квартиры в Санкт-Петербурге! Это волнующий момент, но
+    вместе с ключами вы получаете и главный вопрос: как превратить эти
+    квадратные метры
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.9'
+    reviewCount: 735
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/polnoe-upravlenie-obektom-posle-pokupki/
 ---
 
 # Полное управление квартирой после покупки в СПб: Ваш пошаговый план от ключей до первого гостя

@@ -1,10 +1,45 @@
 ---
-title: ">-"
-description: ">-"
-pubDate: "2025-07-19T09:42:03.856Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":">-","description":">-","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":605,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/upravlenie-arendoy-kvartir-posutochno-v-centralnom-rayone-spb/"}}
+title: >-
+  Управление посуточной арендой квартир в Центральном районе СПб: от пассивного
+  дохода до полной загрузки
+description: >-
+  Центральный район Санкт-Петербурга – это сердце города, магнит для миллионов
+  туристов и деловых людей. Владеть здесь квартирой – значит обладать ликвидным
+  актив
+pubDate: '2025-07-19T09:42:03.856Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: >-
+    Управление посуточной арендой квартир в Центральном районе СПб: от
+    пассивного дохода до полной загрузки
+  description: >-
+    Центральный район Санкт-Петербурга – это сердце города, магнит для миллионов
+    туристов и деловых людей. Владеть здесь квартирой – значит обладать
+    ликвидным актив
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.7'
+    reviewCount: 408
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/upravlenie-arendoy-kvartir-posutochno-v-centralnom-rayone-spb/
 ---
 
 # Управление посуточной арендой квартир в Центральном районе СПб: от пассивного дохода до полной загрузки

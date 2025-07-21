@@ -1,10 +1,41 @@
 ---
-title: "Золотой стандарт: Требования к уборке для посуточной аренды премиум-класса"
-description: ">-"
-pubDate: "2025-07-19T11:12:20.887Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Золотой стандарт: Требования к уборке для посуточной аренды премиум-класса","description":">-","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.8","reviewCount":497,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/trebovaniya-k-uborke-dlya-posutochnoy-arendy-premium-klassa/"}}
+title: 'Золотой стандарт: Требования к уборке для посуточной аренды премиум-класса'
+description: >-
+  В мире посуточной аренды премиум-класса ваши гости платят не за стены и крышу,
+  а за безупречные впечатления и исключительный сервис. Безупречная чистота —
+  это н
+pubDate: '2025-07-19T11:12:20.887Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Золотой стандарт: Требования к уборке для посуточной аренды премиум-класса'
+  description: >-
+    В мире посуточной аренды премиум-класса ваши гости платят не за стены и
+    крышу, а за безупречные впечатления и исключительный сервис. Безупречная
+    чистота — это н
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.9'
+    reviewCount: 818
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/trebovaniya-k-uborke-dlya-posutochnoy-arendy-premium-klassa/
 ---
 
 # Идеальная чистота как стандарт: Полное руководство по уборке для посуточной аренды премиум-класса

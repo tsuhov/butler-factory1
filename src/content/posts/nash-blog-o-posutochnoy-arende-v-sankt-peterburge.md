@@ -1,10 +1,41 @@
 ---
-title: "Наш блог о посуточной аренде в Санкт-Петербурге"
-description: ">-"
-pubDate: "2025-07-20T12:36:22.380Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Наш блог о посуточной аренде в Санкт-Петербурге","description":">-","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.7","reviewCount":423,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/nash-blog-o-posutochnoy-arende-v-sankt-peterburge/"}}
+title: Наш блог о посуточной аренде в Санкт-Петербурге
+description: >-
+  Владеете квартирой в Санкт-Петербурге и хотите, чтобы она приносила стабильный
+  высокий доход, а не головную боль? Или ищете, куда выгодно инвестировать
+  средства
+pubDate: '2025-07-20T12:36:22.380Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: Наш блог о посуточной аренде в Санкт-Петербурге
+  description: >-
+    Владеете квартирой в Санкт-Петербурге и хотите, чтобы она приносила
+    стабильный высокий доход, а не головную боль? Или ищете, куда выгодно
+    инвестировать средства
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.9'
+    reviewCount: 678
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/nash-blog-o-posutochnoy-arende-v-sankt-peterburge/
 ---
 
 # Наш блог о посуточной аренде в Санкт-Петербурге: Ваш путеводитель в мире доходной недвижимости

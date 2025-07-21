@@ -1,10 +1,41 @@
 ---
-title: "Как подготовить квартиру к заезду гостя с аллергией"
-description: ">-"
-pubDate: "2025-07-19T23:49:51.966Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Как подготовить квартиру к заезду гостя с аллергией","description":">-","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"5.0","reviewCount":632,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/kak-podgotovit-kvartiru-k-zaezdu-gostya-s-allergiey/"}}
+title: Как подготовить квартиру к заезду гостя с аллергией
+description: >-
+  Ожидаете в гости друга или готовите квартиру для арендатора, который упомянул
+  об аллергии? Это не просто вежливость, а настоящее проявление заботы, которое
+  ваш 
+pubDate: '2025-07-19T23:49:51.966Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: Как подготовить квартиру к заезду гостя с аллергией
+  description: >-
+    Ожидаете в гости друга или готовите квартиру для арендатора, который
+    упомянул об аллергии? Это не просто вежливость, а настоящее проявление
+    заботы, которое ваш 
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.9'
+    reviewCount: 548
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/kak-podgotovit-kvartiru-k-zaezdu-gostya-s-allergiey/
 ---
 
 # Как подготовить квартиру для гостя с аллергией: полное руководство для заботливого хозяина

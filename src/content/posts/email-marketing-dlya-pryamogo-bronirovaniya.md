@@ -1,10 +1,41 @@
 ---
-title: "Email-маркетинг для прямого бронирования: как увеличить прибыль отеля"
-description: ">-"
-pubDate: "2025-07-20T00:31:32.337Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Email-маркетинг для прямого бронирования: как увеличить прибыль отеля","description":">-","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.7","reviewCount":479,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/email-marketing-dlya-pryamogo-bronirovaniya/"}}
+title: 'Email-маркетинг для прямого бронирования: как увеличить прибыль отеля'
+description: >-
+  **Meta-description:** Полное руководство по email-маркетингу для отелей и
+  апартаментов. Узнайте, как собирать базу гостей, создавать автоматические
+  цепочки писе
+pubDate: '2025-07-20T00:31:32.337Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Email-маркетинг для прямого бронирования: как увеличить прибыль отеля'
+  description: >-
+    **Meta-description:** Полное руководство по email-маркетингу для отелей и
+    апартаментов. Узнайте, как собирать базу гостей, создавать автоматические
+    цепочки писе
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.9'
+    reviewCount: 724
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/email-marketing-dlya-pryamogo-bronirovaniya/
 ---
 
 # Email-маркетинг для отелей: как получать прямые бронирования и победить комиссии OTA

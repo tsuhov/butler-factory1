@@ -1,10 +1,41 @@
 ---
-title: "Стандарты чистоты для посуточной аренды"
-description: ">-"
-pubDate: "2025-07-19T23:51:38.416Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Стандарты чистоты для посуточной аренды","description":">-","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.7","reviewCount":852,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/standarty-chistoty-dlya-posutochnoy-arendy/"}}
+title: Стандарты чистоты для посуточной аренды
+description: >-
+  Идеальная чистота в квартире для посуточной аренды — это не просто приятный
+  бонус для гостя. Это фундаментальный элемент вашего бизнеса, напрямую влияющий
+  на ре
+pubDate: '2025-07-19T23:51:38.416Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: Стандарты чистоты для посуточной аренды
+  description: >-
+    Идеальная чистота в квартире для посуточной аренды — это не просто приятный
+    бонус для гостя. Это фундаментальный элемент вашего бизнеса, напрямую
+    влияющий на ре
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.8'
+    reviewCount: 625
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/standarty-chistoty-dlya-posutochnoy-arendy/
 ---
 
 # **Золотой стандарт чистоты в посуточной аренде: полный гид для хозяина**

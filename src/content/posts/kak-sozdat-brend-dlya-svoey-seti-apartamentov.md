@@ -1,10 +1,41 @@
 ---
-title: "Как создать бренд для своей сети апартаментов"
-description: ">-"
-pubDate: "2025-07-20T00:25:48.364Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Как создать бренд для своей сети апартаментов","description":">-","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.8","reviewCount":890,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/kak-sozdat-brend-dlya-svoey-seti-apartamentov/"}}
+title: Как создать бренд для своей сети апартаментов
+description: >-
+  Высокая конкуренция на рынке посуточной аренды заставляет собственников
+  постоянно снижать цены. Объявления на агрегаторах сливаются в однообразную
+  массу, а гост
+pubDate: '2025-07-20T00:25:48.364Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: Как создать бренд для своей сети апартаментов
+  description: >-
+    Высокая конкуренция на рынке посуточной аренды заставляет собственников
+    постоянно снижать цены. Объявления на агрегаторах сливаются в однообразную
+    массу, а гост
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '5.0'
+    reviewCount: 423
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/kak-sozdat-brend-dlya-svoey-seti-apartamentov/
 ---
 
 # **Как создать бренд для сети апартаментов: от идеи до лояльных гостей**

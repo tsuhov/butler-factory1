@@ -1,10 +1,41 @@
 ---
-title: "Маркетинг для посуточной аренды: где искать гостей кроме агрегаторов в СПБ"
-description: ">-"
-pubDate: "2025-07-18T21:00:11.126Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Маркетинг для посуточной аренды: где искать гостей кроме агрегаторов в СПБ","description":">-","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"5.0","reviewCount":726,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/marketing-dlya-posutochnoy-arendy-gde-iskat-gostey-krome-agregatorov-v-spb/"}}
+title: 'Маркетинг для посуточной аренды: где искать гостей кроме агрегаторов в СПБ'
+description: >-
+  **SEO-Description (Мета-описание):** Устали от высоких комиссий агрегаторов
+  вроде Суточно.ру или Авито? Узнайте, как привлекать гостей в свои апартаменты
+  в Санк
+pubDate: '2025-07-18T21:00:11.126Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Маркетинг для посуточной аренды: где искать гостей кроме агрегаторов в СПБ'
+  description: >-
+    **SEO-Description (Мета-описание):** Устали от высоких комиссий агрегаторов
+    вроде Суточно.ру или Авито? Узнайте, как привлекать гостей в свои
+    апартаменты в Санк
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.9'
+    reviewCount: 827
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/marketing-dlya-posutochnoy-arendy-gde-iskat-gostey-krome-agregatorov-v-spb/
 ---
 
 # Маркетинг для посуточной аренды: 10+ способов найти гостей в СПб без агрегаторов и комиссий

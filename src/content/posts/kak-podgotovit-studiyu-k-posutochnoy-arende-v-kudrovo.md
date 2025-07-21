@@ -1,10 +1,41 @@
 ---
-title: "Как подготовить студию к посуточной аренде в Кудрово"
-description: ">-"
-pubDate: "2025-07-19T10:46:47.841Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Как подготовить студию к посуточной аренде в Кудрово","description":">-","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":314,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/kak-podgotovit-studiyu-k-posutochnoy-arende-v-kudrovo/"}}
+title: Как подготовить студию к посуточной аренде в Кудрово
+description: >-
+  Кудрово — молодой и динамично развивающийся район с огромным количеством новых
+  студий. Это создает высокую конкуренцию на рынке посуточной аренды, и
+  выделиться 
+pubDate: '2025-07-19T10:46:47.841Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: Как подготовить студию к посуточной аренде в Кудрово
+  description: >-
+    Кудрово — молодой и динамично развивающийся район с огромным количеством
+    новых студий. Это создает высокую конкуренцию на рынке посуточной аренды, и
+    выделиться 
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.8'
+    reviewCount: 366
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/kak-podgotovit-studiyu-k-posutochnoy-arende-v-kudrovo/
 ---
 
 # Как подготовить студию к посуточной аренде в Кудрово: полное руководство для инвестора

@@ -1,10 +1,45 @@
 ---
-title: ">-"
-description: ">-"
-pubDate: "2025-07-20T14:53:01.636Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":">-","description":">-","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":567,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/detalnaya-opis-i-fotofiksaciya-pri-kazhdom-zaezde/"}}
+title: >-
+  Детальная опись и фотофиксация при каждом заезде: ваш гид по защите
+  недвижимости в Санкт-Петербурге
+description: >-
+  Холодный пот по спине при мысли о том, что вы обнаружите после очередных
+  гостей? Разводы на новом диване, скол на столешнице, пропавший фен... Эти
+  страхи знаком
+pubDate: '2025-07-20T14:53:01.636Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: >-
+    Детальная опись и фотофиксация при каждом заезде: ваш гид по защите
+    недвижимости в Санкт-Петербурге
+  description: >-
+    Холодный пот по спине при мысли о том, что вы обнаружите после очередных
+    гостей? Разводы на новом диване, скол на столешнице, пропавший фен... Эти
+    страхи знаком
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.9'
+    reviewCount: 693
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/detalnaya-opis-i-fotofiksaciya-pri-kazhdom-zaezde/
 ---
 
 # Детальная опись и фотофиксация при каждом заезде: ваш гид по защите недвижимости в Санкт-Петербурге

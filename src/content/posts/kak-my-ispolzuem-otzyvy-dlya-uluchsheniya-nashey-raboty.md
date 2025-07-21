@@ -1,10 +1,41 @@
 ---
-title: "Как мы используем отзывы для улучшения нашей работы"
-description: ">-"
-pubDate: "2025-07-21T00:19:27.373Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Как мы используем отзывы для улучшения нашей работы","description":">-","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"5.0","reviewCount":676,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/kak-my-ispolzuem-otzyvy-dlya-uluchsheniya-nashey-raboty/"}}
+title: Как мы используем отзывы для улучшения нашей работы
+description: >-
+  Каждый из нас, прежде чем забронировать отель или квартиру, читает отзывы.
+  Пять звезд радуют, одна — отпугивает. Но что происходит *после* того, как
+  отзыв остав
+pubDate: '2025-07-21T00:19:27.373Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: Как мы используем отзывы для улучшения нашей работы
+  description: >-
+    Каждый из нас, прежде чем забронировать отель или квартиру, читает отзывы.
+    Пять звезд радуют, одна — отпугивает. Но что происходит *после* того, как
+    отзыв остав
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.7'
+    reviewCount: 394
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/kak-my-ispolzuem-otzyvy-dlya-uluchsheniya-nashey-raboty/
 ---
 
 # **Отзыв — это не оценка, а точка роста. Как в ButlerSPB превращают обратную связь в доход для собственников**

@@ -1,10 +1,40 @@
 ---
-title: "Мониторинг цен конкурентов: как оставаться в рынке и увеличивать прибыль"
-description: ">-"
-pubDate: "2025-07-20T15:12:46.152Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Мониторинг цен конкурентов: как оставаться в рынке и увеличивать прибыль","description":">-","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.8","reviewCount":488,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/monitoring-cen-konkurentov/"}}
+title: 'Мониторинг цен конкурентов: как оставаться в рынке и увеличивать прибыль'
+description: >-
+  Ваша квартира в центре Петербурга простаивает в будни, хотя у соседей — полная
+  загрузка? Или вы боитесь продешевить в период белых ночей и проведения ПМЭФ?
+  Проб
+pubDate: '2025-07-20T15:12:46.152Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Мониторинг цен конкурентов: как оставаться в рынке и увеличивать прибыль'
+  description: >-
+    Ваша квартира в центре Петербурга простаивает в будни, хотя у соседей —
+    полная загрузка? Или вы боитесь продешевить в период белых ночей и
+    проведения ПМЭФ? Проб
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.7'
+    reviewCount: 495
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': 'https://butlerspb-blog.netlify.app/blog/monitoring-cen-konkurentov/'
 ---
 
 # Как мониторинг цен конкурентов увеличивает ваш доход от посуточной аренды: полное руководство для владельцев жилья в Санкт-Петербурге

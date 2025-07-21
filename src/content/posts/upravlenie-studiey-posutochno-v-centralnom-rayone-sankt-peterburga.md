@@ -1,10 +1,45 @@
 ---
-title: ">-"
-description: ">-"
-pubDate: "2025-07-18T15:46:34.761Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":">-","description":">-","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":630,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/upravlenie-studiey-posutochno-v-centralnom-rayone-sankt-peterburga/"}}
+title: >-
+  Управление студией посуточно в Центральном районе СПб: Полное руководство для
+  собственника по максимизации дохода
+description: >-
+  Владеть студией в сердце Санкт-Петербурга, в окружении Эрмитажа, Невского
+  проспекта и бурлящей культурной жизни, — значит обладать настоящим золотым
+  активом. Ту
+pubDate: '2025-07-18T15:46:34.761Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: >-
+    Управление студией посуточно в Центральном районе СПб: Полное руководство
+    для собственника по максимизации дохода
+  description: >-
+    Владеть студией в сердце Санкт-Петербурга, в окружении Эрмитажа, Невского
+    проспекта и бурлящей культурной жизни, — значит обладать настоящим золотым
+    активом. Ту
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.7'
+    reviewCount: 371
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/upravlenie-studiey-posutochno-v-centralnom-rayone-sankt-peterburga/
 ---
 
 # Управление студией посуточно в Центральном районе СПб: Полное руководство для собственника по максимизации дохода

@@ -1,10 +1,44 @@
 ---
-title: ">-"
-description: ">-"
-pubDate: "2025-07-20T18:28:12.051Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":">-","description":">-","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.8","reviewCount":718,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/videonablyudenie-v-obschih-zonah/"}}
+title: >-
+  Видеонаблюдение в посуточной квартире: Как защитить собственность и не
+  нарушить закон. Полное руководство для владельца от ButlerSPB.
+description: >-
+  Сдача квартиры посуточно — это прибыльный бизнес, но он сопряжен с рисками:
+  шумные вечеринки, порча имущества, несанкционированные гости. Как
+  контролировать сит
+pubDate: '2025-07-20T18:28:12.051Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: >-
+    Видеонаблюдение в посуточной квартире: Как защитить собственность и не
+    нарушить закон. Полное руководство для владельца от ButlerSPB.
+  description: >-
+    Сдача квартиры посуточно — это прибыльный бизнес, но он сопряжен с рисками:
+    шумные вечеринки, порча имущества, несанкционированные гости. Как
+    контролировать сит
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.9'
+    reviewCount: 664
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': 'https://butlerspb-blog.netlify.app/blog/videonablyudenie-v-obschih-zonah/'
 ---
 
 # Видеонаблюдение в посуточной квартире: Как защитить собственность и не нарушить закон. Полное руководство для владельца от ButlerSPB.

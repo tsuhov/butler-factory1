@@ -1,10 +1,45 @@
 ---
-title: ">-"
-description: ">-"
-pubDate: "2025-07-20T13:02:35.156Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":">-","description":">-","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.8","reviewCount":320,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/doverte-rutinu-professionalam-poluchayte-passivnyy-dohod/"}}
+title: >-
+  Доверьте рутину профессионалам: как превратить квартиру в СПб в стабильный
+  источник пассивного дохода
+description: >-
+  Ваша квартира в самом сердце Санкт-Петербурга — это не просто квадратные
+  метры, это ценный актив. Мечта любого собственника — чтобы этот актив работал
+  на вас 24
+pubDate: '2025-07-20T13:02:35.156Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: >-
+    Доверьте рутину профессионалам: как превратить квартиру в СПб в стабильный
+    источник пассивного дохода
+  description: >-
+    Ваша квартира в самом сердце Санкт-Петербурга — это не просто квадратные
+    метры, это ценный актив. Мечта любого собственника — чтобы этот актив
+    работал на вас 24
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.8'
+    reviewCount: 551
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/doverte-rutinu-professionalam-poluchayte-passivnyy-dohod/
 ---
 
 # Доверьте рутину профессионалам: как превратить квартиру в СПб в стабильный источник пассивного дохода

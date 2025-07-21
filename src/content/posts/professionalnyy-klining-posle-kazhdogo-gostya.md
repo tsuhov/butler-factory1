@@ -1,10 +1,45 @@
 ---
-title: ">-"
-description: ">-"
-pubDate: "2025-07-20T15:01:29.603Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":">-","description":">-","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.7","reviewCount":481,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/professionalnyy-klining-posle-kazhdogo-gostya/"}}
+title: >-
+  Почему профессиональный клининг после каждого гостя — золотой стандарт
+  посуточной аренды в Санкт-Петербурге
+description: >-
+  Представьте: гость выезжает, а через 3 часа заезжает новый. Времени в обрез.
+  Один пропущенный волосок в ванной или пятнышко на зеркале — и вот уже отзыв на
+  4 зв
+pubDate: '2025-07-20T15:01:29.603Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: >-
+    Почему профессиональный клининг после каждого гостя — золотой стандарт
+    посуточной аренды в Санкт-Петербурге
+  description: >-
+    Представьте: гость выезжает, а через 3 часа заезжает новый. Времени в обрез.
+    Один пропущенный волосок в ванной или пятнышко на зеркале — и вот уже отзыв
+    на 4 зв
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.9'
+    reviewCount: 495
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/professionalnyy-klining-posle-kazhdogo-gostya/
 ---
 
 # Почему профессиональный клининг после каждого гостя — золотой стандарт посуточной аренды в Санкт-Петербурге

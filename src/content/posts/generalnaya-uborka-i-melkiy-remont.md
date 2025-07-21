@@ -1,10 +1,41 @@
 ---
-title: "Генеральная уборка и мелкий ремонт: полное руководство от ButlerSPB"
-description: ">-"
-pubDate: "2025-07-20T18:53:06.490Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Генеральная уборка и мелкий ремонт: полное руководство от ButlerSPB","description":">-","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"5.0","reviewCount":616,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/generalnaya-uborka-i-melkiy-remont/"}}
+title: 'Генеральная уборка и мелкий ремонт: полное руководство от ButlerSPB'
+description: >-
+  Высокий сезон в Петербурге не за горами. Готовы ли вы встретить поток
+  туристов? Или мелкие недочеты и «уставший» вид квартиры могут стоить вам сотен
+  тысяч рубле
+pubDate: '2025-07-20T18:53:06.490Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Генеральная уборка и мелкий ремонт: полное руководство от ButlerSPB'
+  description: >-
+    Высокий сезон в Петербурге не за горами. Готовы ли вы встретить поток
+    туристов? Или мелкие недочеты и «уставший» вид квартиры могут стоить вам
+    сотен тысяч рубле
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '5.0'
+    reviewCount: 759
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/generalnaya-uborka-i-melkiy-remont/
 ---
 
 # Генеральная уборка и мелкий ремонт: инвестиция в максимальный доход от вашей квартиры в Петербурге

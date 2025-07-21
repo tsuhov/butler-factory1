@@ -1,10 +1,41 @@
 ---
-title: "Чистящие средства для профессиональной уборки в апартаментах"
-description: ">-"
-pubDate: "2025-07-19T13:35:46.229Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Чистящие средства для профессиональной уборки в апартаментах","description":">-","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.8","reviewCount":804,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/chistyaschie-sredstva-dlya-professionalnoy-uborki-v-apartamentah/"}}
+title: Чистящие средства для профессиональной уборки в апартаментах
+description: >-
+  Идеальная чистота в апартаментах — не просто приятный бонус для гостя, а
+  ключевой фактор, влияющий на отзывы, рейтинг и повторные бронирования.
+  Добиться такого 
+pubDate: '2025-07-19T13:35:46.229Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: Чистящие средства для профессиональной уборки в апартаментах
+  description: >-
+    Идеальная чистота в апартаментах — не просто приятный бонус для гостя, а
+    ключевой фактор, влияющий на отзывы, рейтинг и повторные бронирования.
+    Добиться такого 
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.7'
+    reviewCount: 691
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/chistyaschie-sredstva-dlya-professionalnoy-uborki-v-apartamentah/
 ---
 
 # Профессиональные чистящие средства для апартаментов: Полный гид по выбору и применению

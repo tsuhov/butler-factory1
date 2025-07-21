@@ -1,10 +1,41 @@
 ---
-title: "Мы знаем рынок Санкт-Петербурга как свои пять пальцев"
-description: ">-"
-pubDate: "2025-07-20T12:58:11.510Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Мы знаем рынок Санкт-Петербурга как свои пять пальцев","description":">-","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"5.0","reviewCount":314,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/my-znaem-rynok-sankt-peterburga-kak-svoi-pyat-palcev/"}}
+title: Мы знаем рынок Санкт-Петербурга как свои пять пальцев
+description: >-
+  Санкт-Петербург — город с огромным туристическим потенциалом, но и с
+  жесточайшей конкуренцией на рынке посуточной аренды. Почему одни квартиры
+  приносят владельц
+pubDate: '2025-07-20T12:58:11.510Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: Мы знаем рынок Санкт-Петербурга как свои пять пальцев
+  description: >-
+    Санкт-Петербург — город с огромным туристическим потенциалом, но и с
+    жесточайшей конкуренцией на рынке посуточной аренды. Почему одни квартиры
+    приносят владельц
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.8'
+    reviewCount: 774
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/my-znaem-rynok-sankt-peterburga-kak-svoi-pyat-palcev/
 ---
 
 # ButlerSPB: Мы знаем рынок посуточной аренды Санкт-Петербурга как свои пять пальцев

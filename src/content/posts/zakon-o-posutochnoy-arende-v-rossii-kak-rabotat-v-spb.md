@@ -1,10 +1,41 @@
 ---
-title: "Закон о посуточной аренде в России 2024: как работать в СПБ"
-description: ">-"
-pubDate: "2025-07-17T21:12:09.922Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Закон о посуточной аренде в России 2024: как работать в СПБ","description":">-","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.8","reviewCount":571,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/zakon-o-posutochnoy-arende-v-rossii-kak-rabotat-v-spb/"}}
+title: 'Закон о посуточной аренде в России 2024: как работать в СПБ'
+description: >-
+  Новый закон о краткосрочной аренде, вступивший в силу в 2024 году, вызвал
+  много вопросов у собственников в Санкт-Петербурге. Это запрет или новые
+  правила игры? 
+pubDate: '2025-07-17T21:12:09.922Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Закон о посуточной аренде в России 2024: как работать в СПБ'
+  description: >-
+    Новый закон о краткосрочной аренде, вступивший в силу в 2024 году, вызвал
+    много вопросов у собственников в Санкт-Петербурге. Это запрет или новые
+    правила игры? 
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.9'
+    reviewCount: 756
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/zakon-o-posutochnoy-arende-v-rossii-kak-rabotat-v-spb/
 ---
 
 # Закон о посуточной аренде в России: полное руководство для владельцев жилья в Санкт-Петербурге в 2024 году

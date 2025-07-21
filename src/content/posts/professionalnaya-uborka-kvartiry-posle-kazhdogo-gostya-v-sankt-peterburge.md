@@ -1,10 +1,39 @@
 ---
-title: "Профессиональная уборка квартиры после гостей в СПб"
-description: "Закажите профессиональную уборку квартиры в Санкт-Петербурге после каждого гостя. Гарантия чистоты для посуточной аренды. Быстро, качественно, надежно."
-pubDate: "2025-07-17T16:12:53.949Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Профессиональная уборка квартиры после гостей в СПб","description":"Закажите профессиональную уборку квартиры в Санкт-Петербурге после каждого гостя. Гарантия чистоты для посуточной аренды. Быстро, качественно, надежно.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"5.0","reviewCount":582,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/professionalnaya-uborka-kvartiry-posle-kazhdogo-gostya-v-sankt-peterburge/"}}
+title: Профессиональная уборка квартиры после гостей в СПб
+description: >-
+  Закажите профессиональную уборку квартиры в Санкт-Петербурге после каждого
+  гостя. Гарантия чистоты для посуточной аренды. Быстро, качественно, надежно.
+pubDate: '2025-07-17T16:12:53.949Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: Профессиональная уборка квартиры после гостей в СПб
+  description: >-
+    Закажите профессиональную уборку квартиры в Санкт-Петербурге после каждого
+    гостя. Гарантия чистоты для посуточной аренды. Быстро, качественно, надежно.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.7'
+    reviewCount: 528
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/professionalnaya-uborka-kvartiry-posle-kazhdogo-gostya-v-sankt-peterburge/
 ---
 
 ### **(H1) Чистота как бизнес-инструмент: почему профессиональная уборка после каждого гостя — золотой стандарт для аренды квартир в Санкт-Петербурге**

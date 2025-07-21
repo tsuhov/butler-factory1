@@ -1,10 +1,41 @@
 ---
-title: "Как мы работаем с разными типами гостей"
-description: ">-"
-pubDate: "2025-07-20T18:19:55.815Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Как мы работаем с разными типами гостей","description":">-","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.7","reviewCount":873,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/kak-my-rabotaem-s-raznymi-tipami-gostey/"}}
+title: Как мы работаем с разными типами гостей
+description: >-
+  Сдача квартиры посуточно часто напоминает лотерею. Сегодня у вас
+  останавливается идеальная пара туристов из Европы, оставляя после себя
+  безупречный порядок и во
+pubDate: '2025-07-20T18:19:55.815Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: Как мы работаем с разными типами гостей
+  description: >-
+    Сдача квартиры посуточно часто напоминает лотерею. Сегодня у вас
+    останавливается идеальная пара туристов из Европы, оставляя после себя
+    безупречный порядок и во
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '5.0'
+    reviewCount: 809
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/kak-my-rabotaem-s-raznymi-tipami-gostey/
 ---
 
 # От туриста до CEO: Как мы выстраиваем работу с каждым гостем и почему это выгодно владельцу

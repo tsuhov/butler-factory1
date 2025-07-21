@@ -1,10 +1,41 @@
 ---
-title: "Как мы решаем конфликтные ситуации с гостями"
-description: ">-"
-pubDate: "2025-07-20T12:10:14.198Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Как мы решаем конфликтные ситуации с гостями","description":">-","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.7","reviewCount":378,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/kak-my-reshaem-konfliktnye-situacii-s-gostyami/"}}
+title: Как мы решаем конфликтные ситуации с гостями
+description: >-
+  В сфере гостеприимства, где всё вращается вокруг эмоций и впечатлений,
+  недопонимания и конфликты практически неизбежны. Идеального сервиса, который
+  на 100% заст
+pubDate: '2025-07-20T12:10:14.198Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: Как мы решаем конфликтные ситуации с гостями
+  description: >-
+    В сфере гостеприимства, где всё вращается вокруг эмоций и впечатлений,
+    недопонимания и конфликты практически неизбежны. Идеального сервиса, который
+    на 100% заст
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '5.0'
+    reviewCount: 423
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/kak-my-reshaem-konfliktnye-situacii-s-gostyami/
 ---
 
 # **Как мы решаем конфликтные ситуации с гостями: от жалобы до лояльности**

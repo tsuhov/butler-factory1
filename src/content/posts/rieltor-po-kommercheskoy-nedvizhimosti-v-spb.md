@@ -1,10 +1,47 @@
 ---
-title: "Риэлтор по коммерческой недвижимости в СПБ: как выбрать профессионала и не ошибиться?"
-description: "Планируете арендовать или купить офис, склад или торговое помещение в Санкт-Петербурге? Команда ButlerSPB рассказывает, какими качествами должен обладать риэлтор по коммерческой недвижимости, на что обратить внимание при выборе специалиста и как избежать типичных ошибок при заключении сделки."
-pubDate: "2025-07-21T19:23:17.822Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1512917774080-9991f1c4c750?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Риэлтор по коммерческой недвижимости в СПБ: как выбрать профессионала и не ошибиться?","description":"Планируете арендовать или купить офис, склад или торговое помещение в Санкт-Петербурге? Команда ButlerSPB рассказывает, какими качествами должен обладать риэлтор по коммерческой недвижимости, на что обратить внимание при выборе специалиста и как избежать типичных ошибок при заключении сделки.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1512917774080-9991f1c4c750?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.8","reviewCount":784,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/rieltor-po-kommercheskoy-nedvizhimosti-v-spb/"}}
+title: >-
+  Риэлтор по коммерческой недвижимости в СПБ: как выбрать профессионала и не
+  ошибиться?
+description: >-
+  Планируете арендовать или купить офис, склад или торговое помещение в
+  Санкт-Петербурге? Команда ButlerSPB рассказывает, какими качествами должен
+  обладать риэлтор по коммерческой недвижимости, на что обратить внимание при
+  выборе специалиста и как избежать типичных ошибок при заключении сделки.
+pubDate: '2025-07-21T19:23:17.822Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1512917774080-9991f1c4c750?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: >-
+    Риэлтор по коммерческой недвижимости в СПБ: как выбрать профессионала и не
+    ошибиться?
+  description: >-
+    Планируете арендовать или купить офис, склад или торговое помещение в
+    Санкт-Петербурге? Команда ButlerSPB рассказывает, какими качествами должен
+    обладать риэлтор по коммерческой недвижимости, на что обратить внимание при
+    выборе специалиста и как избежать типичных ошибок при заключении сделки.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1512917774080-9991f1c4c750?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.7'
+    reviewCount: 709
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/rieltor-po-kommercheskoy-nedvizhimosti-v-spb/
 ---
 
 # Риэлтор по коммерческой недвижимости в СПБ: ваш стратегический партнер для успешной сделки

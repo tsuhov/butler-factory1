@@ -1,10 +1,41 @@
 ---
-title: "Мы заинтересованы в росте вашего дохода"
-description: ">-"
-pubDate: "2025-07-21T00:31:43.468Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Мы заинтересованы в росте вашего дохода","description":">-","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":898,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/my-zainteresovany-v-roste-vashego-dohoda/"}}
+title: Мы заинтересованы в росте вашего дохода
+description: >-
+  Владение квартирой в Санкт-Петербурге — это ценный актив, а посуточная аренда
+  — один из самых доходных способов его использования. Но задумывались ли вы,
+  почему
+pubDate: '2025-07-21T00:31:43.468Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: Мы заинтересованы в росте вашего дохода
+  description: >-
+    Владение квартирой в Санкт-Петербурге — это ценный актив, а посуточная
+    аренда — один из самых доходных способов его использования. Но задумывались
+    ли вы, почему
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.9'
+    reviewCount: 388
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/my-zainteresovany-v-roste-vashego-dohoda/
 ---
 
 # Мы заинтересованы в росте вашего дохода: Как ButlerSPB максимизирует прибыль от вашей квартиры в Петербурге

@@ -1,10 +1,41 @@
 ---
-title: "Давайте зарабатывать на вашей недвижимости вместе"
-description: ">-"
-pubDate: "2025-07-20T22:27:35.210Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Давайте зарабатывать на вашей недвижимости вместе","description":">-","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"5.0","reviewCount":614,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/davayte-zarabatyvat-na-vashey-nedvizhimosti-vmeste/"}}
+title: Давайте зарабатывать на вашей недвижимости вместе
+description: >-
+  Ваша квартира в Санкт-Петербурге — это ценный актив. Но работает ли он на 100%
+  своей мощности? Пока вы тратите время на рутину или получаете скромный доход
+  от д
+pubDate: '2025-07-20T22:27:35.210Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: Давайте зарабатывать на вашей недвижимости вместе
+  description: >-
+    Ваша квартира в Санкт-Петербурге — это ценный актив. Но работает ли он на
+    100% своей мощности? Пока вы тратите время на рутину или получаете скромный
+    доход от д
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.9'
+    reviewCount: 437
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/davayte-zarabatyvat-na-vashey-nedvizhimosti-vmeste/
 ---
 
 # Давайте зарабатывать на вашей недвижимости вместе: как превратить квартиру в СПб в стабильный источник высокого дохода

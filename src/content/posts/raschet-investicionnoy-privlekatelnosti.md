@@ -1,10 +1,41 @@
 ---
-title: "Расчет инвестиционной привлекательности: ключевые метрики и методы"
-description: ">-"
-pubDate: "2025-07-20T22:37:59.470Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Расчет инвестиционной привлекательности: ключевые метрики и методы","description":">-","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.7","reviewCount":657,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/raschet-investicionnoy-privlekatelnosti/"}}
+title: 'Расчет инвестиционной привлекательности: ключевые метрики и методы'
+description: >-
+  Санкт-Петербург продолжает бить рекорды по внутреннему туризму, оставаясь
+  магнитом для миллионов гостей круглый год. Этот стабильный поток создает
+  идеальные усл
+pubDate: '2025-07-20T22:37:59.470Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Расчет инвестиционной привлекательности: ключевые метрики и методы'
+  description: >-
+    Санкт-Петербург продолжает бить рекорды по внутреннему туризму, оставаясь
+    магнитом для миллионов гостей круглый год. Этот стабильный поток создает
+    идеальные усл
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.9'
+    reviewCount: 685
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/raschet-investicionnoy-privlekatelnosti/
 ---
 
 # Как рассчитать инвестиционную привлекательность квартиры для посуточной аренды в Санкт-Петербурге: Полное руководство от ButlerSPB

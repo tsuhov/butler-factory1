@@ -1,10 +1,43 @@
 ---
-title: "Система управления задачами для персонала: ключ к эффективности и прозрачности"
-description: ">-"
-pubDate: "2025-07-20T22:10:01.071Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Система управления задачами для персонала: ключ к эффективности и прозрачности","description":">-","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"5.0","reviewCount":751,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/sistema-upravleniya-zadachami-dlya-personala/"}}
+title: 'Система управления задачами для персонала: ключ к эффективности и прозрачности'
+description: >-
+  Звонок от гостя в 22:00: "В квартире не убрано". Сообщение от горничной: "Я
+  перепутала адреса". Знакомо? Если вы управляете даже парой квартир посуточно,
+  операц
+pubDate: '2025-07-20T22:10:01.071Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: >-
+    Система управления задачами для персонала: ключ к эффективности и
+    прозрачности
+  description: >-
+    Звонок от гостя в 22:00: "В квартире не убрано". Сообщение от горничной: "Я
+    перепутала адреса". Знакомо? Если вы управляете даже парой квартир
+    посуточно, операц
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.9'
+    reviewCount: 379
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/sistema-upravleniya-zadachami-dlya-personala/
 ---
 
 # Как система управления задачами превращает хаос в посуточной аренде в отлаженный бизнес: опыт ButlerSPB

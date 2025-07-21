@@ -1,10 +1,39 @@
 ---
-title: "Управление посуточной арендой в Питере: Полный гид 2024"
-description: "Секреты успешной посуточной аренды квартир в Санкт-Петербурге. Как увеличить доход, автоматизировать процессы и получать отличные отзывы от гостей."
-pubDate: "2025-07-17T00:15:25.553Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Управление посуточной арендой в Питере: Полный гид 2024","description":"Секреты успешной посуточной аренды квартир в Санкт-Петербурге. Как увеличить доход, автоматизировать процессы и получать отличные отзывы от гостей.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"5.0","reviewCount":593,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/upravlenie-posutochnoy-arendoy-v-pitere/"}}
+title: 'Управление посуточной арендой в Питере: Полный гид 2024'
+description: >-
+  Секреты успешной посуточной аренды квартир в Санкт-Петербурге. Как увеличить
+  доход, автоматизировать процессы и получать отличные отзывы от гостей.
+pubDate: '2025-07-17T00:15:25.553Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Управление посуточной арендой в Питере: Полный гид 2024'
+  description: >-
+    Секреты успешной посуточной аренды квартир в Санкт-Петербурге. Как увеличить
+    доход, автоматизировать процессы и получать отличные отзывы от гостей.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.7'
+    reviewCount: 349
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/upravlenie-posutochnoy-arendoy-v-pitere/
 ---
 
 ### **Посуточная аренда в Петербурге: Полное руководство для собственника от А до Я**

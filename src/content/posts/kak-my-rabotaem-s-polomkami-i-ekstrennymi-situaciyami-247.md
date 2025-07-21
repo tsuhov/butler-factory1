@@ -1,10 +1,41 @@
 ---
-title: "Как мы работаем с поломками и экстренными ситуациями 24/7"
-description: ">-"
-pubDate: "2025-07-20T13:44:35.227Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Как мы работаем с поломками и экстренными ситуациями 24/7","description":">-","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.8","reviewCount":396,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/kak-my-rabotaem-s-polomkami-i-ekstrennymi-situaciyami-247/"}}
+title: Как мы работаем с поломками и экстренными ситуациями 24/7
+description: >-
+  Звонок телефона в 3 часа ночи. На другом конце провода — ваш гость.
+  "Здравствуйте, у нас тут трубу прорвало..." Для 99% собственников, сдающих
+  квартиру посуточн
+pubDate: '2025-07-20T13:44:35.227Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: Как мы работаем с поломками и экстренными ситуациями 24/7
+  description: >-
+    Звонок телефона в 3 часа ночи. На другом конце провода — ваш гость.
+    "Здравствуйте, у нас тут трубу прорвало..." Для 99% собственников, сдающих
+    квартиру посуточн
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.8'
+    reviewCount: 564
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/kak-my-rabotaem-s-polomkami-i-ekstrennymi-situaciyami-247/
 ---
 
 # Как ButlerSPB обеспечивает ваше спокойствие: решаем поломки и экстренные ситуации 24/7

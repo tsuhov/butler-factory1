@@ -1,10 +1,41 @@
 ---
-title: "Прозрачная отчетность в личном кабинете: Ключ к доверию и эффективности"
-description: ">-"
-pubDate: "2025-07-20T11:51:00.339Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Прозрачная отчетность в личном кабинете: Ключ к доверию и эффективности","description":">-","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.7","reviewCount":682,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/prozrachnaya-otchetnost-v-lichnom-kabinete/"}}
+title: 'Прозрачная отчетность в личном кабинете: Ключ к доверию и эффективности'
+description: >-
+  **Мета-описание:** Узнайте, как создать систему прозрачной отчетности в личном
+  кабинете, которая повысит доверие клиентов, снизит отток и станет вашим
+  конкурент
+pubDate: '2025-07-20T11:51:00.339Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Прозрачная отчетность в личном кабинете: Ключ к доверию и эффективности'
+  description: >-
+    **Мета-описание:** Узнайте, как создать систему прозрачной отчетности в
+    личном кабинете, которая повысит доверие клиентов, снизит отток и станет
+    вашим конкурент
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.8'
+    reviewCount: 881
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/prozrachnaya-otchetnost-v-lichnom-kabinete/
 ---
 
 # Прозрачная отчетность в личном кабинете: как превратить данные в доверие и удержать клиента

@@ -1,10 +1,40 @@
 ---
-title: "Динамическое ценообразование: как технологии меняют правила игры в бизнесе"
-description: ">-"
-pubDate: "2025-07-21T11:03:10.709Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Динамическое ценообразование: как технологии меняют правила игры в бизнесе","description":">-","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":780,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/dinamicheskoe-cenoobrazovanie/"}}
+title: 'Динамическое ценообразование: как технологии меняют правила игры в бизнесе'
+description: >-
+  Выставляете одну и ту же цену на свою квартиру в дождливый ноябрьский вторник
+  и в солнечную субботу во время ПМЭФ? Если да, вы теряете деньги. Много денег.
+  Проб
+pubDate: '2025-07-21T11:03:10.709Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Динамическое ценообразование: как технологии меняют правила игры в бизнесе'
+  description: >-
+    Выставляете одну и ту же цену на свою квартиру в дождливый ноябрьский
+    вторник и в солнечную субботу во время ПМЭФ? Если да, вы теряете деньги.
+    Много денег. Проб
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.8'
+    reviewCount: 809
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': 'https://butlerspb-blog.netlify.app/blog/dinamicheskoe-cenoobrazovanie/'
 ---
 
 # Динамическое ценообразование: Как мы увеличиваем доход от вашей квартиры в Санкт-Петербурге на 20-40%

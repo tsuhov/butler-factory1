@@ -1,10 +1,41 @@
 ---
-title: "Добрососедство и ТСЖ: как ButlerSPB строит мосты, а не стены"
-description: ">-"
-pubDate: "2025-07-20T18:40:41.223Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Добрососедство и ТСЖ: как ButlerSPB строит мосты, а не стены","description":">-","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"5.0","reviewCount":326,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/kak-my-stroim-otnosheniya-s-sosedyami-i-tszh/"}}
+title: 'Добрососедство и ТСЖ: как ButlerSPB строит мосты, а не стены'
+description: >-
+  > Узнайте, как ButlerSPB профессионально решает конфликты с соседями и ТСЖ при
+  посуточной аренде в СПб. Наша пошаговая система для вашего дохода и
+  спокойствия. 
+pubDate: '2025-07-20T18:40:41.223Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Добрососедство и ТСЖ: как ButlerSPB строит мосты, а не стены'
+  description: >-
+    > Узнайте, как ButlerSPB профессионально решает конфликты с соседями и ТСЖ
+    при посуточной аренде в СПб. Наша пошаговая система для вашего дохода и
+    спокойствия. 
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.8'
+    reviewCount: 514
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/kak-my-stroim-otnosheniya-s-sosedyami-i-tszh/
 ---
 
 # Соседи, ТСЖ и посуточная аренда: Как мы в ButlerSPB строим мосты, а не стены

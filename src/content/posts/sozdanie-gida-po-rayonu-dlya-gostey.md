@@ -1,10 +1,41 @@
 ---
-title: "Создание гида по району для гостей: как впечатлить и помочь"
-description: ">-"
-pubDate: "2025-07-20T00:35:07.547Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Создание гида по району для гостей: как впечатлить и помочь","description":">-","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.8","reviewCount":552,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/sozdanie-gida-po-rayonu-dlya-gostey/"}}
+title: 'Создание гида по району для гостей: как впечатлить и помочь'
+description: >-
+  Представьте типичную ситуацию: гость только что заселился, и через пять минут
+  вам приходит сообщение: "А где здесь можно вкусно и недорого поесть?".
+  Знакомо? Хо
+pubDate: '2025-07-20T00:35:07.547Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Создание гида по району для гостей: как впечатлить и помочь'
+  description: >-
+    Представьте типичную ситуацию: гость только что заселился, и через пять
+    минут вам приходит сообщение: "А где здесь можно вкусно и недорого поесть?".
+    Знакомо? Хо
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '5.0'
+    reviewCount: 798
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/sozdanie-gida-po-rayonu-dlya-gostey/
 ---
 
 # Как создать идеальный гид по району для гостей: полный гайд для хостов Airbnb и отелей

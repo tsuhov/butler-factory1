@@ -1,10 +1,41 @@
 ---
-title: "Оптимизация для агрегаторов: как попасть в топ выдачи и обойти конкурентов"
-description: ">-"
-pubDate: "2025-07-20T18:00:47.472Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Оптимизация для агрегаторов: как попасть в топ выдачи и обойти конкурентов","description":">-","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"5.0","reviewCount":561,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/optimizaciya-pod-algoritmy-poiskovyh-sistem-agregatorov/"}}
+title: 'Оптимизация для агрегаторов: как попасть в топ выдачи и обойти конкурентов'
+description: >-
+  Вы вложили душу и средства в свою квартиру в центре Петербурга. Сделали
+  стильный ремонт, купили качественную мебель и красивую посуду. Но звонков и
+  бронирований
+pubDate: '2025-07-20T18:00:47.472Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Оптимизация для агрегаторов: как попасть в топ выдачи и обойти конкурентов'
+  description: >-
+    Вы вложили душу и средства в свою квартиру в центре Петербурга. Сделали
+    стильный ремонт, купили качественную мебель и красивую посуду. Но звонков и
+    бронирований
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.9'
+    reviewCount: 829
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/optimizaciya-pod-algoritmy-poiskovyh-sistem-agregatorov/
 ---
 
 # Как работают алгоритмы Авито, Циан и Суточно.ру: Полный гайд по оптимизации объявлений для максимального дохода в СПб

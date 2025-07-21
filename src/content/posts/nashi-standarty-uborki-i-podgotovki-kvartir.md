@@ -1,10 +1,41 @@
 ---
-title: "Наши стандарты уборки и подготовки квартир"
-description: ">-"
-pubDate: "2025-07-20T12:08:27.780Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Наши стандарты уборки и подготовки квартир","description":">-","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.8","reviewCount":663,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/nashi-standarty-uborki-i-podgotovki-kvartir/"}}
+title: Наши стандарты уборки и подготовки квартир
+description: >-
+  Приезжая в новый город и бронируя апартаменты, каждый гость задается главным
+  вопросом: «Будет ли там по-настояшему чисто?». Мы понимаем, что чистота — это
+  не пр
+pubDate: '2025-07-20T12:08:27.780Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: Наши стандарты уборки и подготовки квартир
+  description: >-
+    Приезжая в новый город и бронируя апартаменты, каждый гость задается главным
+    вопросом: «Будет ли там по-настояшему чисто?». Мы понимаем, что чистота —
+    это не пр
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.8'
+    reviewCount: 672
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/nashi-standarty-uborki-i-podgotovki-kvartir/
 ---
 
 # Безупречная чистота и комфорт: Наши золотые стандарты уборки и подготовки квартир

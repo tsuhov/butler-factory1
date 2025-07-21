@@ -1,10 +1,47 @@
 ---
-title: "Юридическое сопровождение покупки квартиры в Санкт-Петербурге: как защитить себя от рисков"
-description: "Покупка квартиры в СПб – серьезный шаг. В блоге ButlerSPB рассказываем, зачем нужно юридическое сопровождение, какие этапы включает проверка недвижимости, и как избежать мошенничества. Обеспечьте безопасность вашей сделки с нашими советами."
-pubDate: "2025-07-21T19:21:11.315Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1512917774080-9991f1c4c750?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Юридическое сопровождение покупки квартиры в Санкт-Петербурге: как защитить себя от рисков","description":"Покупка квартиры в СПб – серьезный шаг. В блоге ButlerSPB рассказываем, зачем нужно юридическое сопровождение, какие этапы включает проверка недвижимости, и как избежать мошенничества. Обеспечьте безопасность вашей сделки с нашими советами.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1512917774080-9991f1c4c750?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.8","reviewCount":463,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/yuridicheskoe-soprovozhdenie-pokupki-kvartiry-v-sankt-peterburge/"}}
+title: >-
+  Юридическое сопровождение покупки квартиры в Санкт-Петербурге: как защитить
+  себя от рисков
+description: >-
+  Покупка квартиры в СПб – серьезный шаг. В блоге ButlerSPB рассказываем, зачем
+  нужно юридическое сопровождение, какие этапы включает проверка недвижимости, и
+  как избежать мошенничества. Обеспечьте безопасность вашей сделки с нашими
+  советами.
+pubDate: '2025-07-21T19:21:11.315Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1512917774080-9991f1c4c750?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: >-
+    Юридическое сопровождение покупки квартиры в Санкт-Петербурге: как защитить
+    себя от рисков
+  description: >-
+    Покупка квартиры в СПб – серьезный шаг. В блоге ButlerSPB рассказываем,
+    зачем нужно юридическое сопровождение, какие этапы включает проверка
+    недвижимости, и как избежать мошенничества. Обеспечьте безопасность вашей
+    сделки с нашими советами.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1512917774080-9991f1c4c750?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.8'
+    reviewCount: 340
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/yuridicheskoe-soprovozhdenie-pokupki-kvartiry-v-sankt-peterburge/
 ---
 
 # Как безопасно купить квартиру в Санкт-Петербурге: чек-лист юридической проверки от экспертов ButlerSPB

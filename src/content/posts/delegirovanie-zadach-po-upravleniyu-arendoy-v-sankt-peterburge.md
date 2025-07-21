@@ -1,10 +1,45 @@
 ---
-title: ">-"
-description: ">-"
-pubDate: "2025-07-19T11:18:20.315Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":">-","description":">-","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"5.0","reviewCount":724,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/delegirovanie-zadach-po-upravleniyu-arendoy-v-sankt-peterburge/"}}
+title: >-
+  Делегирование управления арендой в Санкт-Петербурге: Как сдать квартиру и
+  сохранить время, нервы и деньги
+description: >-
+  **SEO-Description (Meta-описание):** Узнайте, как эффективно делегировать
+  управление арендой квартиры в СПб. Сравнение риелторов и управляющих компаний,
+  полный 
+pubDate: '2025-07-19T11:18:20.315Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: >-
+    Делегирование управления арендой в Санкт-Петербурге: Как сдать квартиру и
+    сохранить время, нервы и деньги
+  description: >-
+    **SEO-Description (Meta-описание):** Узнайте, как эффективно делегировать
+    управление арендой квартиры в СПб. Сравнение риелторов и управляющих
+    компаний, полный 
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.7'
+    reviewCount: 775
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/delegirovanie-zadach-po-upravleniyu-arendoy-v-sankt-peterburge/
 ---
 
 # Делегирование управления арендой в Санкт-Петербурге: Как сдать квартиру и сохранить время, нервы и деньги

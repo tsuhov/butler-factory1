@@ -1,10 +1,41 @@
 ---
-title: "Поиск и обучение горничных для посуточной аренды: полное руководство"
-description: ">-"
-pubDate: "2025-07-20T00:22:03.509Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Поиск и обучение горничных для посуточной аренды: полное руководство","description":">-","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.8","reviewCount":403,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/poisk-i-obuchenie-gornichnyh-dlya-posutochnoy-arendy/"}}
+title: 'Поиск и обучение горничных для посуточной аренды: полное руководство'
+description: >-
+  Чистота — это 90% успеха в бизнесе посуточной аренды. Один негативный отзыв о
+  грязной квартире может обрушить рейтинг и лишить вас будущих бронирований. Но
+  найт
+pubDate: '2025-07-20T00:22:03.509Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Поиск и обучение горничных для посуточной аренды: полное руководство'
+  description: >-
+    Чистота — это 90% успеха в бизнесе посуточной аренды. Один негативный отзыв
+    о грязной квартире может обрушить рейтинг и лишить вас будущих бронирований.
+    Но найт
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.8'
+    reviewCount: 748
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/poisk-i-obuchenie-gornichnyh-dlya-posutochnoy-arendy/
 ---
 
 # Как найти и обучить идеальную горничную для посуточной аренды: полное руководство для хоста

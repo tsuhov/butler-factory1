@@ -1,10 +1,41 @@
 ---
-title: "Как мы минимизируем простои и увеличиваем загрузку"
-description: ">-"
-pubDate: "2025-07-21T11:00:59.991Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Как мы минимизируем простои и увеличиваем загрузку","description":">-","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"5.0","reviewCount":330,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/kak-my-minimiziruem-prostoi-i-uvelichivaem-zagruzku/"}}
+title: Как мы минимизируем простои и увеличиваем загрузку
+description: >-
+  Ваша квартира в центре Петербурга пустует в будние дни? Календарь бронирований
+  напоминает швейцарский сыр с хаотичными дырами, а доход от аренды едва
+  покрывает 
+pubDate: '2025-07-21T11:00:59.991Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: Как мы минимизируем простои и увеличиваем загрузку
+  description: >-
+    Ваша квартира в центре Петербурга пустует в будние дни? Календарь
+    бронирований напоминает швейцарский сыр с хаотичными дырами, а доход от
+    аренды едва покрывает 
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.9'
+    reviewCount: 858
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/kak-my-minimiziruem-prostoi-i-uvelichivaem-zagruzku/
 ---
 
 # Простои съедают вашу прибыль? Как ButlerSPB обеспечивает загрузку квартир в Петербурге на 90%+ даже в низкий сезон

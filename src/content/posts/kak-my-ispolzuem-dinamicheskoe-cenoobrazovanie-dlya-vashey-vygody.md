@@ -1,10 +1,41 @@
 ---
-title: "Как мы используем динамическое ценообразование для вашей выгоды"
-description: ">-"
-pubDate: "2025-07-20T12:42:30.347Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Как мы используем динамическое ценообразование для вашей выгоды","description":">-","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.8","reviewCount":321,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/kak-my-ispolzuem-dinamicheskoe-cenoobrazovanie-dlya-vashey-vygody/"}}
+title: Как мы используем динамическое ценообразование для вашей выгоды
+description: >-
+  Сколько стоит ваша квартира сегодня? А завтра? А в дни проведения ПМЭФ или
+  школьных каникул? Если вы пытаетесь установить одну, фиксированную цену на все
+  случаи
+pubDate: '2025-07-20T12:42:30.347Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: Как мы используем динамическое ценообразование для вашей выгоды
+  description: >-
+    Сколько стоит ваша квартира сегодня? А завтра? А в дни проведения ПМЭФ или
+    школьных каникул? Если вы пытаетесь установить одну, фиксированную цену на
+    все случаи
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.8'
+    reviewCount: 873
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/kak-my-ispolzuem-dinamicheskoe-cenoobrazovanie-dlya-vashey-vygody/
 ---
 
 # Как мы используем динамическое ценообразование, чтобы вы зарабатывали больше на посуточной аренде

@@ -1,10 +1,41 @@
 ---
-title: "Home-стейджинг для посуточной аренды: полное руководство"
-description: ">-"
-pubDate: "2025-07-18T15:38:32.709Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Home-стейджинг для посуточной аренды: полное руководство","description":">-","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":513,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/home-steydzhing-dlya-posutochnoy-arendy-polnoe-rukovodstvo/"}}
+title: 'Home-стейджинг для посуточной аренды: полное руководство'
+description: >-
+  Ваша квартира простаивает? Получаете мало бронирований по низкой цене?
+  Проблема может быть не в расположении, а в "упаковке". В мире Airbnb и
+  Booking, где гости
+pubDate: '2025-07-18T15:38:32.709Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Home-стейджинг для посуточной аренды: полное руководство'
+  description: >-
+    Ваша квартира простаивает? Получаете мало бронирований по низкой цене?
+    Проблема может быть не в расположении, а в "упаковке". В мире Airbnb и
+    Booking, где гости
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.8'
+    reviewCount: 826
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/home-steydzhing-dlya-posutochnoy-arendy-polnoe-rukovodstvo/
 ---
 
 # Хоум-стейджинг для посуточной аренды: Полное руководство по увеличению дохода и заполняемости

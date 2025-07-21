@@ -1,10 +1,41 @@
 ---
-title: "Надежность и спокойствие: ключевые гарантии для собственника от ButlerSPB"
-description: ">-"
-pubDate: "2025-07-20T11:48:56.827Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Надежность и спокойствие: ключевые гарантии для собственника от ButlerSPB","description":">-","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.7","reviewCount":787,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/garantii-dlya-sobstvennika-pri-rabote-s-butlerspb/"}}
+title: 'Надежность и спокойствие: ключевые гарантии для собственника от ButlerSPB'
+description: >-
+  Ищете надежную управляющую компанию в СПб? Узнайте, какие финансовые,
+  юридические и имущественные гарантии предоставляет ButlerSPB собственникам
+  квартир. Обеспе
+pubDate: '2025-07-20T11:48:56.827Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Надежность и спокойствие: ключевые гарантии для собственника от ButlerSPB'
+  description: >-
+    Ищете надежную управляющую компанию в СПб? Узнайте, какие финансовые,
+    юридические и имущественные гарантии предоставляет ButlerSPB собственникам
+    квартир. Обеспе
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '5.0'
+    reviewCount: 651
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/garantii-dlya-sobstvennika-pri-rabote-s-butlerspb/
 ---
 
 # Гарантии для собственника при работе с ButlerSPB: Полная безопасность вашего имущества и дохода

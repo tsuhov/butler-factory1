@@ -1,10 +1,42 @@
 ---
-title: "Как сдать квартиру в СПб через агентство: полное руководство от ButlerSPB"
-description: "Планируете сдать квартиру в Санкт-Петербурге, но не знаете, с чего начать? Рассказываем, как работает агентство, как выбрать надежного партнера и почему доверительное управление с ButlerSPB — это выгодно и безопасно для собственника."
-pubDate: "2025-07-21T19:21:21.037Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1618221195710-dd6b41fa2247?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Как сдать квартиру в СПб через агентство: полное руководство от ButlerSPB","description":"Планируете сдать квартиру в Санкт-Петербурге, но не знаете, с чего начать? Рассказываем, как работает агентство, как выбрать надежного партнера и почему доверительное управление с ButlerSPB — это выгодно и безопасно для собственника.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1618221195710-dd6b41fa2247?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.7","reviewCount":734,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/agentstvo-po-sdache-kvartir-v-spb/"}}
+title: 'Как сдать квартиру в СПб через агентство: полное руководство от ButlerSPB'
+description: >-
+  Планируете сдать квартиру в Санкт-Петербурге, но не знаете, с чего начать?
+  Рассказываем, как работает агентство, как выбрать надежного партнера и почему
+  доверительное управление с ButlerSPB — это выгодно и безопасно для
+  собственника.
+pubDate: '2025-07-21T19:21:21.037Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1618221195710-dd6b41fa2247?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Как сдать квартиру в СПб через агентство: полное руководство от ButlerSPB'
+  description: >-
+    Планируете сдать квартиру в Санкт-Петербурге, но не знаете, с чего начать?
+    Рассказываем, как работает агентство, как выбрать надежного партнера и
+    почему доверительное управление с ButlerSPB — это выгодно и безопасно для
+    собственника.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1618221195710-dd6b41fa2247?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '5.0'
+    reviewCount: 396
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': 'https://butlerspb-blog.netlify.app/blog/agentstvo-po-sdache-kvartir-v-spb/'
 ---
 
 # Как сдать квартиру в СПБ через агентство: Полное руководство для собственника от ButlerSPB

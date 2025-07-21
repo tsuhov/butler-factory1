@@ -1,10 +1,41 @@
 ---
-title: "Как мы готовим квартиру к фотосессии"
-description: ">-"
-pubDate: "2025-07-20T18:11:31.513Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Как мы готовим квартиру к фотосессии","description":">-","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.8","reviewCount":703,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/kak-my-gotovim-kvartiru-k-fotosessii/"}}
+title: Как мы готовим квартиру к фотосессии
+description: >-
+  В мире Airbnb, Ostrovok.ru и Яндекс Путешествий первое впечатление решает всё.
+  Потенциальный гость тратит 3-5 секунд, чтобы оценить ваше объявление и решить,
+  кл
+pubDate: '2025-07-20T18:11:31.513Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: Как мы готовим квартиру к фотосессии
+  description: >-
+    В мире Airbnb, Ostrovok.ru и Яндекс Путешествий первое впечатление решает
+    всё. Потенциальный гость тратит 3-5 секунд, чтобы оценить ваше объявление и
+    решить, кл
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.9'
+    reviewCount: 670
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/kak-my-gotovim-kvartiru-k-fotosessii/
 ---
 
 # Больше бронирований на 30%: Как мы в ButlerSPB готовим вашу квартиру к фотосессии

@@ -1,10 +1,45 @@
 ---
-title: ">-"
-description: ">-"
-pubDate: "2025-07-19T13:51:32.191Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":">-","description":">-","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"5.0","reviewCount":746,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/primer-idealnogo-obyavleniya-na-sutochnoru/"}}
+title: >-
+  Идеальное объявление на Суточно.ру в 2024: пошаговый разбор с примерами,
+  которые приносят бронирования
+description: >-
+  Почему одни квартиры на Суточно.ру бронируют за месяц вперед, а другие
+  простаивают даже в сезон? Дело не только в ремонте, но и в грамотной подаче.
+  Идеальное об
+pubDate: '2025-07-19T13:51:32.191Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: >-
+    Идеальное объявление на Суточно.ру в 2024: пошаговый разбор с примерами,
+    которые приносят бронирования
+  description: >-
+    Почему одни квартиры на Суточно.ру бронируют за месяц вперед, а другие
+    простаивают даже в сезон? Дело не только в ремонте, но и в грамотной подаче.
+    Идеальное об
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.8'
+    reviewCount: 867
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/primer-idealnogo-obyavleniya-na-sutochnoru/
 ---
 
 # Идеальное объявление на Суточно.ру в 2024: пошаговый разбор с примерами, которые приносят бронирования

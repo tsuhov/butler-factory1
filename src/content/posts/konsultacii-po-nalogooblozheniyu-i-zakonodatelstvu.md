@@ -1,10 +1,45 @@
 ---
-title: ">-"
-description: ">-"
-pubDate: "2025-07-21T00:13:15.616Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":">-","description":">-","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"5.0","reviewCount":550,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/konsultacii-po-nalogooblozheniyu-i-zakonodatelstvu/"}}
+title: >-
+  Посуточная аренда в Санкт-Петербурге: Всё о налогах, законах и рисках в 2024
+  году
+description: >-
+  Посуточная аренда в Санкт-Петербурге — один из самых доходных способов
+  использования недвижимости. Однако новые законы и пристальное внимание
+  налоговой службы в
+pubDate: '2025-07-21T00:13:15.616Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: >-
+    Посуточная аренда в Санкт-Петербурге: Всё о налогах, законах и рисках в 2024
+    году
+  description: >-
+    Посуточная аренда в Санкт-Петербурге — один из самых доходных способов
+    использования недвижимости. Однако новые законы и пристальное внимание
+    налоговой службы в
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '5.0'
+    reviewCount: 448
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/konsultacii-po-nalogooblozheniyu-i-zakonodatelstvu/
 ---
 
 # Посуточная аренда в Санкт-Петербурге: Всё о налогах, законах и рисках в 2024 году

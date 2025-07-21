@@ -1,10 +1,41 @@
 ---
-title: "План действий при отключении воды или электричества"
-description: ">-"
-pubDate: "2025-07-20T23:49:21.621Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"План действий при отключении воды или электричества","description":">-","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.8","reviewCount":416,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/plan-deystviy-pri-otklyuchenii-vody-ili-elektrichestva/"}}
+title: План действий при отключении воды или электричества
+description: >-
+  Внезапное отключение света или воды может испортить любые планы, особенно
+  когда вы находитесь в путешествии и хотите наслаждаться городом, а не решать
+  бытовые в
+pubDate: '2025-07-20T23:49:21.621Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: План действий при отключении воды или электричества
+  description: >-
+    Внезапное отключение света или воды может испортить любые планы, особенно
+    когда вы находитесь в путешествии и хотите наслаждаться городом, а не решать
+    бытовые в
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.9'
+    reviewCount: 766
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/plan-deystviy-pri-otklyuchenii-vody-ili-elektrichestva/
 ---
 
 # Отключили свет или воду в съемной квартире? Пошаговая инструкция для гостей Санкт-Петербурга.

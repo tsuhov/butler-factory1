@@ -1,10 +1,41 @@
 ---
-title: "Стоимость услуг по управлению недвижимостью для посуточной аренды в Питере"
-description: ">-"
-pubDate: "2025-07-18T17:50:05.398Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Стоимость услуг по управлению недвижимостью для посуточной аренды в Питере","description":">-","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"5.0","reviewCount":391,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/stoimost-uslug-po-upravleniyu-nedvizhimostyu-dlya-posutochnoy-arendy-v-pitere/"}}
+title: Стоимость услуг по управлению недвижимостью для посуточной аренды в Питере
+description: >-
+  Санкт-Петербург — магнит для миллионов туристов. Белые ночи, разводные мосты,
+  Эрмитаж и бесчисленные каналы делают город одним из самых привлекательных
+  направле
+pubDate: '2025-07-18T17:50:05.398Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: Стоимость услуг по управлению недвижимостью для посуточной аренды в Питере
+  description: >-
+    Санкт-Петербург — магнит для миллионов туристов. Белые ночи, разводные
+    мосты, Эрмитаж и бесчисленные каналы делают город одним из самых
+    привлекательных направле
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.9'
+    reviewCount: 389
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/stoimost-uslug-po-upravleniyu-nedvizhimostyu-dlya-posutochnoy-arendy-v-pitere/
 ---
 
 # Стоимость управления посуточной арендой в Санкт-Петербурге: полный гид по ценам и услугам в 2024 году

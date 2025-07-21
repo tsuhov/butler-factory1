@@ -1,10 +1,41 @@
 ---
-title: "Долгосрочное партнерство: фундамент для стабильного роста и успеха"
-description: ">-"
-pubDate: "2025-07-20T14:48:34.971Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Долгосрочное партнерство: фундамент для стабильного роста и успеха","description":">-","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":732,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/dolgosrochnoe-partnerstvo-s-kompaniyami/"}}
+title: 'Долгосрочное партнерство: фундамент для стабильного роста и успеха'
+description: >-
+  Командировки, релокация ключевых специалистов, проектные команды в
+  Санкт-Петербурге — неотъемлемая часть роста многих компаний. Но вместе с
+  ростом приходят и оп
+pubDate: '2025-07-20T14:48:34.971Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Долгосрочное партнерство: фундамент для стабильного роста и успеха'
+  description: >-
+    Командировки, релокация ключевых специалистов, проектные команды в
+    Санкт-Петербурге — неотъемлемая часть роста многих компаний. Но вместе с
+    ростом приходят и оп
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.9'
+    reviewCount: 837
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/dolgosrochnoe-partnerstvo-s-kompaniyami/
 ---
 
 # ButlerSPB: Как долгосрочное партнерство по аренде жилья решает ключевые задачи вашего бизнеса в Санкт-Петербурге

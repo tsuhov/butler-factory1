@@ -1,10 +1,41 @@
 ---
-title: "Круглосуточная линия поддержки ButlerSPB: Мы на связи 24/7"
-description: ">-"
-pubDate: "2025-07-20T23:53:09.743Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Круглосуточная линия поддержки ButlerSPB: Мы на связи 24/7","description":">-","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.7","reviewCount":382,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/kruglosutochnaya-liniya-podderzhki/"}}
+title: 'Круглосуточная линия поддержки ButlerSPB: Мы на связи 24/7'
+description: >-
+  Представьте: 3 часа ночи. На вашем телефоне высвечивается незнакомый номер.
+  Это гость, который не может открыть электронный замок. Или, что хуже, соседи,
+  жалующ
+pubDate: '2025-07-20T23:53:09.743Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Круглосуточная линия поддержки ButlerSPB: Мы на связи 24/7'
+  description: >-
+    Представьте: 3 часа ночи. На вашем телефоне высвечивается незнакомый номер.
+    Это гость, который не может открыть электронный замок. Или, что хуже,
+    соседи, жалующ
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.9'
+    reviewCount: 844
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/kruglosutochnaya-liniya-podderzhki/
 ---
 
 # Круглосуточная линия поддержки: Как мы защищаем ваш сон, нервы и доход от посуточной аренды

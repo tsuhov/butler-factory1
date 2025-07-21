@@ -1,10 +1,45 @@
 ---
-title: ">-"
-description: ">-"
-pubDate: "2025-07-21T00:51:09.799Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":">-","description":">-","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"5.0","reviewCount":406,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/pomosch-v-doukomplektacii-i-podgotovke/"}}
+title: >-
+  От пустых стен до 5-звездочных отзывов: Полное руководство по доукомплектации
+  и подготовке квартиры для посуточной аренды в СПб
+description: >-
+  Конкуренция на рынке посуточной аренды в Санкт-Петербурге огромна. Как сделать
+  так, чтобы гости выбирали именно вашу квартиру, оставляли восторженные отзывы
+  и в
+pubDate: '2025-07-21T00:51:09.799Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: >-
+    От пустых стен до 5-звездочных отзывов: Полное руководство по
+    доукомплектации и подготовке квартиры для посуточной аренды в СПб
+  description: >-
+    Конкуренция на рынке посуточной аренды в Санкт-Петербурге огромна. Как
+    сделать так, чтобы гости выбирали именно вашу квартиру, оставляли
+    восторженные отзывы и в
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '5.0'
+    reviewCount: 328
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/pomosch-v-doukomplektacii-i-podgotovke/
 ---
 
 # От пустых стен до 5-звездочных отзывов: Полное руководство по доукомплектации и подготовке квартиры для посуточной аренды в СПб

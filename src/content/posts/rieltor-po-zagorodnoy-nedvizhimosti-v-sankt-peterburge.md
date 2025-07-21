@@ -1,10 +1,47 @@
 ---
-title: "Риэлтор по загородной недвижимости в Санкт-Петербурге: как найти своего специалиста"
-description: "Планируете покупку дома, коттеджа или участка в Ленинградской области? Эксперты ButlerSPB рассказывают, в чем специфика работы риэлтора по загородной недвижимости и на что обратить внимание при выборе профессионала для безопасной и выгодной сделки."
-pubDate: "2025-07-21T20:14:15.458Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Риэлтор по загородной недвижимости в Санкт-Петербурге: как найти своего специалиста","description":"Планируете покупку дома, коттеджа или участка в Ленинградской области? Эксперты ButlerSPB рассказывают, в чем специфика работы риэлтора по загородной недвижимости и на что обратить внимание при выборе профессионала для безопасной и выгодной сделки.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.8","reviewCount":780,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/rieltor-po-zagorodnoy-nedvizhimosti-v-sankt-peterburge/"}}
+title: >-
+  Риэлтор по загородной недвижимости в Санкт-Петербурге: как найти своего
+  специалиста
+description: >-
+  Планируете покупку дома, коттеджа или участка в Ленинградской области?
+  Эксперты ButlerSPB рассказывают, в чем специфика работы риэлтора по загородной
+  недвижимости и на что обратить внимание при выборе профессионала для
+  безопасной и выгодной сделки.
+pubDate: '2025-07-21T20:14:15.458Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: >-
+    Риэлтор по загородной недвижимости в Санкт-Петербурге: как найти своего
+    специалиста
+  description: >-
+    Планируете покупку дома, коттеджа или участка в Ленинградской области?
+    Эксперты ButlerSPB рассказывают, в чем специфика работы риэлтора по
+    загородной недвижимости и на что обратить внимание при выборе профессионала
+    для безопасной и выгодной сделки.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.9'
+    reviewCount: 894
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/rieltor-po-zagorodnoy-nedvizhimosti-v-sankt-peterburge/
 ---
 
 # Риэлтор по загородной недвижимости в Санкт-Петербурге: ваш проводник в мир домов, дач и участков

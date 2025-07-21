@@ -1,10 +1,41 @@
 ---
-title: "7 причин доверить свою недвижимость управляющей компании"
-description: ">-"
-pubDate: "2025-07-20T12:40:24.709Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"7 причин доверить свою недвижимость управляющей компании","description":">-","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":787,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/preimuschestva-raboty-s-professionalnoy-upravlyayuschey-kompaniey/"}}
+title: 7 причин доверить свою недвижимость управляющей компании
+description: >-
+  Представьте: поздний звонок от гостя, который не может найти ключи. Утром —
+  гневный отзыв из-за перегоревшей лампочки, который рушит ваш рейтинг. А
+  впереди еще 
+pubDate: '2025-07-20T12:40:24.709Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 7 причин доверить свою недвижимость управляющей компании
+  description: >-
+    Представьте: поздний звонок от гостя, который не может найти ключи. Утром —
+    гневный отзыв из-за перегоревшей лампочки, который рушит ваш рейтинг. А
+    впереди еще 
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.8'
+    reviewCount: 730
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/preimuschestva-raboty-s-professionalnoy-upravlyayuschey-kompaniey/
 ---
 
 # От головной боли к пассивному доходу: главные преимущества работы с управляющей компанией по посуточной аренде

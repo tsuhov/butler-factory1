@@ -1,10 +1,41 @@
 ---
-title: "Подготовка квартиры к летнему сезону в Санкт-Петербурге"
-description: ">-"
-pubDate: "2025-07-19T12:35:40.844Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Подготовка квартиры к летнему сезону в Санкт-Петербурге","description":">-","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":390,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/podgotovka-kvartiry-k-letnemu-sezonu-v-sankt-peterburge/"}}
+title: Подготовка квартиры к летнему сезону в Санкт-Петербурге
+description: >-
+  Долгожданное питерское лето – явление уникальное и капризное. На смену
+  затяжной серости приходят белые ночи, но вместе с ними и внезапная жара,
+  высокая влажност
+pubDate: '2025-07-19T12:35:40.844Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: Подготовка квартиры к летнему сезону в Санкт-Петербурге
+  description: >-
+    Долгожданное питерское лето – явление уникальное и капризное. На смену
+    затяжной серости приходят белые ночи, но вместе с ними и внезапная жара,
+    высокая влажност
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.9'
+    reviewCount: 377
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/podgotovka-kvartiry-k-letnemu-sezonu-v-sankt-peterburge/
 ---
 
 # Готовим квартиру к лету в Санкт-Петербурге: полный чек-лист для комфортного сезона

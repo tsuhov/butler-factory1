@@ -1,10 +1,41 @@
 ---
-title: "Как мы автоматизируем общение с гостями"
-description: ">-"
-pubDate: "2025-07-20T18:02:49.419Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Как мы автоматизируем общение с гостями","description":">-","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.7","reviewCount":395,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/kak-my-avtomatiziruem-obschenie-s-gostyami/"}}
+title: Как мы автоматизируем общение с гостями
+description: >-
+  Звонок в 3 часа ночи с вопросом «А где у вас лежат полотенца?». Десятое за
+  день сообщение «Какой пароль от Wi-Fi?». Знакомо? Управление посуточной
+  арендой — это
+pubDate: '2025-07-20T18:02:49.419Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: Как мы автоматизируем общение с гостями
+  description: >-
+    Звонок в 3 часа ночи с вопросом «А где у вас лежат полотенца?». Десятое за
+    день сообщение «Какой пароль от Wi-Fi?». Знакомо? Управление посуточной
+    арендой — это
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.8'
+    reviewCount: 346
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/kak-my-avtomatiziruem-obschenie-s-gostyami/
 ---
 
 # Как мы в ButlerSPB автоматизируем общение с гостями: от бронирования до отзыва

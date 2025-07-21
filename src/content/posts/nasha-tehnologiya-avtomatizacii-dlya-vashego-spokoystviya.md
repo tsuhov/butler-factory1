@@ -1,10 +1,41 @@
 ---
-title: "Наша технология автоматизации для вашего спокойствия"
-description: ">-"
-pubDate: "2025-07-20T12:44:45.473Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Наша технология автоматизации для вашего спокойствия","description":">-","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":849,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/nasha-tehnologiya-avtomatizacii-dlya-vashego-spokoystviya/"}}
+title: Наша технология автоматизации для вашего спокойствия
+description: >-
+  Поздний звонок от гостя, который не может найти ключи? Переживания о двойном
+  бронировании в пик сезона на Белые ночи? Часы, потраченные на обновление цен
+  на дес
+pubDate: '2025-07-20T12:44:45.473Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: Наша технология автоматизации для вашего спокойствия
+  description: >-
+    Поздний звонок от гостя, который не может найти ключи? Переживания о двойном
+    бронировании в пик сезона на Белые ночи? Часы, потраченные на обновление цен
+    на дес
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.9'
+    reviewCount: 829
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/nasha-tehnologiya-avtomatizacii-dlya-vashego-spokoystviya/
 ---
 
 # Забудьте о рутине: как наши технологии автоматизации гарантируют ваше спокойствие (и доход) от аренды в Петербурге

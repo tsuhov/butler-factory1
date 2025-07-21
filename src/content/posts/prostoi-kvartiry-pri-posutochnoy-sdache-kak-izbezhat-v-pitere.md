@@ -1,10 +1,40 @@
 ---
-title: "Простои квартиры при посуточной сдаче: как избежать в Питере"
-description: "Как избежать простоев при посуточной сдаче квартиры в Санкт-Петербурге? Советы по ценообразованию, маркетингу и работе с отзывами для повышения загрузки."
-pubDate: "2025-07-17T16:11:01.418Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Простои квартиры при посуточной сдаче: как избежать в Питере","description":"Как избежать простоев при посуточной сдаче квартиры в Санкт-Петербурге? Советы по ценообразованию, маркетингу и работе с отзывами для повышения загрузки.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.8","reviewCount":341,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/prostoi-kvartiry-pri-posutochnoy-sdache-kak-izbezhat-v-pitere/"}}
+title: 'Простои квартиры при посуточной сдаче: как избежать в Питере'
+description: >-
+  Как избежать простоев при посуточной сдаче квартиры в Санкт-Петербурге? Советы
+  по ценообразованию, маркетингу и работе с отзывами для повышения загрузки.
+pubDate: '2025-07-17T16:11:01.418Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Простои квартиры при посуточной сдаче: как избежать в Питере'
+  description: >-
+    Как избежать простоев при посуточной сдаче квартиры в Санкт-Петербурге?
+    Советы по ценообразованию, маркетингу и работе с отзывами для повышения
+    загрузки.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.8'
+    reviewCount: 380
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/prostoi-kvartiry-pri-posutochnoy-sdache-kak-izbezhat-v-pitere/
 ---
 
 ### **Пустые окна с видом на Неву: как победить простои при посуточной аренде в Санкт-Петербурге**

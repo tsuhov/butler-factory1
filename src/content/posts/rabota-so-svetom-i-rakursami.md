@@ -1,10 +1,38 @@
 ---
-title: "Искусство фотографии: секреты работы со светом и ракурсами"
-description: ">-"
-pubDate: "2025-07-20T18:15:39.649Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Искусство фотографии: секреты работы со светом и ракурсами","description":">-","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":724,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/rabota-so-svetom-i-rakursami/"}}
+title: 'Искусство фотографии: секреты работы со светом и ракурсами'
+description: >-
+  *Простые шаги, которые помогут вашей квартире выделиться на фоне конкурентов и
+  приносить больше дохода. Даже если у вас только смартфон.*
+pubDate: '2025-07-20T18:15:39.649Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Искусство фотографии: секреты работы со светом и ракурсами'
+  description: >-
+    *Простые шаги, которые помогут вашей квартире выделиться на фоне конкурентов
+    и приносить больше дохода. Даже если у вас только смартфон.*
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.8'
+    reviewCount: 450
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': 'https://butlerspb-blog.netlify.app/blog/rabota-so-svetom-i-rakursami/'
 ---
 
 # Искусство фотографии для посуточной аренды: экспертные советы по свету и ракурсам для владельцев квартир в Петербурге

@@ -1,10 +1,41 @@
 ---
-title: "Как мы работаем с корпоративными бронированиями"
-description: ">-"
-pubDate: "2025-07-20T14:42:05.804Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Как мы работаем с корпоративными бронированиями","description":">-","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.7","reviewCount":344,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/kak-my-rabotaem-s-korporativnymi-bronirovaniyami/"}}
+title: Как мы работаем с корпоративными бронированиями
+description: >-
+  Поиск жилья для сотрудников в командировке — это всегда компромисс между
+  бюджетом, комфортом и головной болью с документами. Гостиницы — дорого и
+  безлично. Част
+pubDate: '2025-07-20T14:42:05.804Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: Как мы работаем с корпоративными бронированиями
+  description: >-
+    Поиск жилья для сотрудников в командировке — это всегда компромисс между
+    бюджетом, комфортом и головной болью с документами. Гостиницы — дорого и
+    безлично. Част
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.8'
+    reviewCount: 476
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/kak-my-rabotaem-s-korporativnymi-bronirovaniyami/
 ---
 
 # Полный гид по корпоративной аренде апартаментов в Петербурге: Процессы, документы и преимущества работы с ButlerSPB

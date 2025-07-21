@@ -1,10 +1,41 @@
 ---
-title: "Сезонность в посуточной аренде в Санкт-Петербурге: как заработать в несезон"
-description: ">-"
-pubDate: "2025-07-18T18:15:06.428Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Сезонность в посуточной аренде в Санкт-Петербурге: как заработать в несезон","description":">-","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"5.0","reviewCount":332,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/sezonnost-v-posutochnoy-arende-v-sankt-peterburge-kak-zarabotat-v-nesezon/"}}
+title: 'Сезонность в посуточной аренде в Санкт-Петербурге: как заработать в несезон'
+description: >-
+  Июньский календарь бронирований в Петербурге забит под завязку, а ноябрьский
+  пугает пустыми окнами? Это знакомая боль для каждого владельца квартиры в
+  посуточно
+pubDate: '2025-07-18T18:15:06.428Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Сезонность в посуточной аренде в Санкт-Петербурге: как заработать в несезон'
+  description: >-
+    Июньский календарь бронирований в Петербурге забит под завязку, а ноябрьский
+    пугает пустыми окнами? Это знакомая боль для каждого владельца квартиры в
+    посуточно
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '5.0'
+    reviewCount: 570
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/sezonnost-v-posutochnoy-arende-v-sankt-peterburge-kak-zarabotat-v-nesezon/
 ---
 
 # Сезонность в посуточной аренде в Санкт-Петербурге: как заработать в несезон — полное руководство для рантье

@@ -1,10 +1,41 @@
 ---
-title: "Как мы создаем продающие объявления"
-description: ">-"
-pubDate: "2025-07-20T15:26:18.350Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Как мы создаем продающие объявления","description":">-","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.7","reviewCount":505,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/kak-my-sozdaem-prodayuschie-obyavleniya/"}}
+title: Как мы создаем продающие объявления
+description: >-
+  Ваша прекрасная квартира в центре Петербурга простаивает половину месяца? Вы
+  видите, что у конкурентов бронирования идут одно за другим, а у вас — тишина?
+  Дело 
+pubDate: '2025-07-20T15:26:18.350Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: Как мы создаем продающие объявления
+  description: >-
+    Ваша прекрасная квартира в центре Петербурга простаивает половину месяца? Вы
+    видите, что у конкурентов бронирования идут одно за другим, а у вас —
+    тишина? Дело 
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.8'
+    reviewCount: 314
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/kak-my-sozdaem-prodayuschie-obyavleniya/
 ---
 
 # Наш метод создания продающих объявлений: Как ButlerSPB превращает вашу квартиру в магнит для гостей

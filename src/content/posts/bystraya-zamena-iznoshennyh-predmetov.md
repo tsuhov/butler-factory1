@@ -1,10 +1,41 @@
 ---
-title: "Обновите свой дом: гид по быстрой замене изношенных вещей"
-description: ">-"
-pubDate: "2025-07-21T00:07:24.120Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Обновите свой дом: гид по быстрой замене изношенных вещей","description":">-","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.8","reviewCount":720,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/bystraya-zamena-iznoshennyh-predmetov/"}}
+title: 'Обновите свой дом: гид по быстрой замене изношенных вещей'
+description: >-
+  Представьте: вы получаете отзыв на 4 звезды вместо 5. Причина? "Вроде все
+  хорошо, но полотенца уже застиранные, а на одной из тарелок был скол". Эта
+  мелочь стои
+pubDate: '2025-07-21T00:07:24.120Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Обновите свой дом: гид по быстрой замене изношенных вещей'
+  description: >-
+    Представьте: вы получаете отзыв на 4 звезды вместо 5. Причина? "Вроде все
+    хорошо, но полотенца уже застиранные, а на одной из тарелок был скол". Эта
+    мелочь стои
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '5.0'
+    reviewCount: 644
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/bystraya-zamena-iznoshennyh-predmetov/
 ---
 
 # Потеря дохода из-за сколотой чашки: Ваш полный гид по быстрой замене изношенных предметов в посуточной аренде

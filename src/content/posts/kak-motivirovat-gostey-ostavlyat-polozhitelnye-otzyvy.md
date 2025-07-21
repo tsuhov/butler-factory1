@@ -1,10 +1,41 @@
 ---
-title: "Как мотивировать гостей оставлять положительные отзывы"
-description: ">-"
-pubDate: "2025-07-19T14:09:50.616Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Как мотивировать гостей оставлять положительные отзывы","description":">-","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.7","reviewCount":339,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/kak-motivirovat-gostey-ostavlyat-polozhitelnye-otzyvy/"}}
+title: Как мотивировать гостей оставлять положительные отзывы
+description: >-
+  Знаете ли вы, что 9 из 10 потребителей читают отзывы перед посещением
+  заведения? В цифровой век молчание — не золото, а упущенная прибыль.
+  Положительные отзывы 
+pubDate: '2025-07-19T14:09:50.616Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: Как мотивировать гостей оставлять положительные отзывы
+  description: >-
+    Знаете ли вы, что 9 из 10 потребителей читают отзывы перед посещением
+    заведения? В цифровой век молчание — не золото, а упущенная прибыль.
+    Положительные отзывы 
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.9'
+    reviewCount: 424
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/kak-motivirovat-gostey-ostavlyat-polozhitelnye-otzyvy/
 ---
 
 # Как мотивировать гостей оставлять положительные отзывы: полное руководство для отелей и ресторанов

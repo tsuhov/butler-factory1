@@ -1,10 +1,39 @@
 ---
-title: "Посуточная аренда в СПб 2025: новые законы и правила для собственников"
-description: "Разбираем юридические аспекты посуточной аренды жилья в Санкт-Петербурге в 2025 году. Новые требования к собственникам, налоги, штрафы и регистрация."
-pubDate: "2025-07-17T16:20:28.817Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Посуточная аренда в СПб 2025: новые законы и правила для собственников","description":"Разбираем юридические аспекты посуточной аренды жилья в Санкт-Петербурге в 2025 году. Новые требования к собственникам, налоги, штрафы и регистрация.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.8","reviewCount":410,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/yuridicheskie-aspekty-posutochnoy-arendy-v-2025-godu-v-sankt-peterburge/"}}
+title: 'Посуточная аренда в СПб 2025: новые законы и правила для собственников'
+description: >-
+  Разбираем юридические аспекты посуточной аренды жилья в Санкт-Петербурге в
+  2025 году. Новые требования к собственникам, налоги, штрафы и регистрация.
+pubDate: '2025-07-17T16:20:28.817Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Посуточная аренда в СПб 2025: новые законы и правила для собственников'
+  description: >-
+    Разбираем юридические аспекты посуточной аренды жилья в Санкт-Петербурге в
+    2025 году. Новые требования к собственникам, налоги, штрафы и регистрация.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.8'
+    reviewCount: 668
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/yuridicheskie-aspekty-posutochnoy-arendy-v-2025-godu-v-sankt-peterburge/
 ---
 
 ### **Посуточная аренда в Санкт-Петербурге 2025: полный юридический гид для собственника**

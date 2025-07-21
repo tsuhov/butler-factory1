@@ -1,10 +1,41 @@
 ---
-title: "Как мы готовимся к пиковому сезону"
-description: ">-"
-pubDate: "2025-07-20T18:48:42.866Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Как мы готовимся к пиковому сезону","description":">-","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":303,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/kak-my-gotovimsya-k-pikovomu-sezonu/"}}
+title: Как мы готовимся к пиковому сезону
+description: >-
+  Белые ночи, разводные мосты, тысячи туристов со всего мира... Пиковый сезон в
+  Петербурге — это золотое время для владельца квартиры, сдающейся посуточно. Но
+  как
+pubDate: '2025-07-20T18:48:42.866Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: Как мы готовимся к пиковому сезону
+  description: >-
+    Белые ночи, разводные мосты, тысячи туристов со всего мира... Пиковый сезон
+    в Петербурге — это золотое время для владельца квартиры, сдающейся
+    посуточно. Но как
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.9'
+    reviewCount: 615
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/kak-my-gotovimsya-k-pikovomu-sezonu/
 ---
 
 # Пиковый сезон в Петербурге: наш пошаговый план подготовки, который увеличивает доход вашей квартиры

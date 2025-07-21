@@ -1,10 +1,41 @@
 ---
-title: "Как мы следим за трендами в сфере гостеприимства"
-description: ">-"
-pubDate: "2025-07-20T22:42:20.722Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Как мы следим за трендами в сфере гостеприимства","description":">-","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.7","reviewCount":402,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/kak-my-sledim-za-trendami-v-sfere-gostepriimstva/"}}
+title: Как мы следим за трендами в сфере гостеприимства
+description: >-
+  Рынок посуточной аренды в Санкт-Петербурге меняется быстрее, чем погода на
+  Неве. То, что приносило стабильный доход вчера, сегодня может оказаться
+  неэффективным
+pubDate: '2025-07-20T22:42:20.722Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: Как мы следим за трендами в сфере гостеприимства
+  description: >-
+    Рынок посуточной аренды в Санкт-Петербурге меняется быстрее, чем погода на
+    Неве. То, что приносило стабильный доход вчера, сегодня может оказаться
+    неэффективным
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '5.0'
+    reviewCount: 462
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/kak-my-sledim-za-trendami-v-sfere-gostepriimstva/
 ---
 
 # Не просто сдаем, а управляем трендами: как мы увеличиваем доходность ваших апартаментов в Санкт-Петербурге

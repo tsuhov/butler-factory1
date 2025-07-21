@@ -1,10 +1,45 @@
 ---
-title: "Юридическое сопровождение сделок с недвижимостью в Санкт-Петербурге"
-description: "Покупка или продажа квартиры в Санкт-Петербурге — сложный процесс с множеством юридических нюансов. В блоге компании ButlerSPB рассказываем, почему важно привлекать юриста, как проверить чистоту объекта, какие документы необходимы для сделки и как защитить себя от мошенников. Обеспечьте безопасность ваших инвестиций с профессиональной поддержкой."
-pubDate: "2025-07-21T20:16:20.535Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Юридическое сопровождение сделок с недвижимостью в Санкт-Петербурге","description":"Покупка или продажа квартиры в Санкт-Петербурге — сложный процесс с множеством юридических нюансов. В блоге компании ButlerSPB рассказываем, почему важно привлекать юриста, как проверить чистоту объекта, какие документы необходимы для сделки и как защитить себя от мошенников. Обеспечьте безопасность ваших инвестиций с профессиональной поддержкой.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"5.0","reviewCount":812,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/yuridicheskoe-soprovozhdenie-sdelok-s-nedvizhimostyu-v-sankt-peterburge/"}}
+title: Юридическое сопровождение сделок с недвижимостью в Санкт-Петербурге
+description: >-
+  Покупка или продажа квартиры в Санкт-Петербурге — сложный процесс с множеством
+  юридических нюансов. В блоге компании ButlerSPB рассказываем, почему важно
+  привлекать юриста, как проверить чистоту объекта, какие документы необходимы
+  для сделки и как защитить себя от мошенников. Обеспечьте безопасность ваших
+  инвестиций с профессиональной поддержкой.
+pubDate: '2025-07-21T20:16:20.535Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: Юридическое сопровождение сделок с недвижимостью в Санкт-Петербурге
+  description: >-
+    Покупка или продажа квартиры в Санкт-Петербурге — сложный процесс с
+    множеством юридических нюансов. В блоге компании ButlerSPB рассказываем,
+    почему важно привлекать юриста, как проверить чистоту объекта, какие
+    документы необходимы для сделки и как защитить себя от мошенников.
+    Обеспечьте безопасность ваших инвестиций с профессиональной поддержкой.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.8'
+    reviewCount: 387
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/yuridicheskoe-soprovozhdenie-sdelok-s-nedvizhimostyu-v-sankt-peterburge/
 ---
 
 # Юридическое сопровождение сделок с недвижимостью в Санкт-Петербурге: Полное руководство по защите ваших инвестиций

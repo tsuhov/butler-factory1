@@ -1,10 +1,43 @@
 ---
-title: "Как найти проверенного мастера для ремонта и не пожалеть: советы от ButlerSPB"
-description: ">-"
-pubDate: "2025-07-20T18:38:34.185Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Как найти проверенного мастера для ремонта и не пожалеть: советы от ButlerSPB","description":">-","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.7","reviewCount":807,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/poisk-proverennyh-masterov-dlya-remonta/"}}
+title: 'Как найти проверенного мастера для ремонта и не пожалеть: советы от ButlerSPB'
+description: >-
+  Представьте: поздний вечер, вам звонит гость и сообщает о прорванной трубе в
+  ванной. А завтра уже новый заезд. Паника, судорожный поиск мастера в ночи,
+  риск нар
+pubDate: '2025-07-20T18:38:34.185Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: >-
+    Как найти проверенного мастера для ремонта и не пожалеть: советы от
+    ButlerSPB
+  description: >-
+    Представьте: поздний вечер, вам звонит гость и сообщает о прорванной трубе в
+    ванной. А завтра уже новый заезд. Паника, судорожный поиск мастера в ночи,
+    риск нар
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.9'
+    reviewCount: 698
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/poisk-proverennyh-masterov-dlya-remonta/
 ---
 
 # Где и как найти проверенного мастера для ремонта в квартире под сдачу: Полный гид для владельца в СПб

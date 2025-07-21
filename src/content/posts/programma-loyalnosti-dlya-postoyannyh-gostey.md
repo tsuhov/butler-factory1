@@ -1,10 +1,45 @@
 ---
-title: ">-"
-description: ">-"
-pubDate: "2025-07-20T00:29:26.593Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":">-","description":">-","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.7","reviewCount":692,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/programma-loyalnosti-dlya-postoyannyh-gostey/"}}
+title: >-
+  Программа лояльности для гостей: Как удержать клиентов и увеличить прибыль в
+  2024 году
+description: >-
+  Знаете ли вы, что привлечение нового клиента обходится в 5-7 раз дороже, чем
+  удержание существующего? В условиях высокой конкуренции в сфере гостеприимства
+  — бу
+pubDate: '2025-07-20T00:29:26.593Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: >-
+    Программа лояльности для гостей: Как удержать клиентов и увеличить прибыль в
+    2024 году
+  description: >-
+    Знаете ли вы, что привлечение нового клиента обходится в 5-7 раз дороже, чем
+    удержание существующего? В условиях высокой конкуренции в сфере
+    гостеприимства — бу
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.8'
+    reviewCount: 384
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/programma-loyalnosti-dlya-postoyannyh-gostey/
 ---
 
 # Программа лояльности для гостей: Как удержать клиентов и увеличить прибыль в 2024 году

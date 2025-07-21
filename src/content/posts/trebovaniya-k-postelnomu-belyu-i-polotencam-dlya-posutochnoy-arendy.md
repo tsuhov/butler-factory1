@@ -1,10 +1,45 @@
 ---
-title: ">-"
-description: ">-"
-pubDate: "2025-07-18T20:56:13.594Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":">-","description":">-","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.8","reviewCount":778,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/trebovaniya-k-postelnomu-belyu-i-polotencam-dlya-posutochnoy-arendy/"}}
+title: >-
+  **Требования к постельному белью и полотенцам для посуточной аренды: Полное
+  руководство для хозяина**
+description: >-
+  Качественный текстиль в квартире для посуточной аренды — это не просто статья
+  расходов, а прямая инвестиция в вашу репутацию, высокие оценки и, как
+  следствие, в
+pubDate: '2025-07-18T20:56:13.594Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: >-
+    **Требования к постельному белью и полотенцам для посуточной аренды: Полное
+    руководство для хозяина**
+  description: >-
+    Качественный текстиль в квартире для посуточной аренды — это не просто
+    статья расходов, а прямая инвестиция в вашу репутацию, высокие оценки и, как
+    следствие, в
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.8'
+    reviewCount: 357
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/trebovaniya-k-postelnomu-belyu-i-polotencam-dlya-posutochnoy-arendy/
 ---
 
 # **Требования к постельному белью и полотенцам для посуточной аренды: Полное руководство для хозяина**

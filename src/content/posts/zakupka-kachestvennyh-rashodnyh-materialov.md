@@ -1,10 +1,41 @@
 ---
-title: "Закупка качественных расходных материалов: как экономить без потери качества"
-description: ">-"
-pubDate: "2025-07-20T18:36:31.130Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Закупка качественных расходных материалов: как экономить без потери качества","description":">-","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.8","reviewCount":561,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/zakupka-kachestvennyh-rashodnyh-materialov/"}}
+title: 'Закупка качественных расходных материалов: как экономить без потери качества'
+description: >-
+  Представьте: гость после долгой дороги или насыщенной прогулки по
+  Санкт-Петербургу заходит в вашу квартиру, идет в ванную и видит дешевый
+  обмылок и жесткое, зас
+pubDate: '2025-07-20T18:36:31.130Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Закупка качественных расходных материалов: как экономить без потери качества'
+  description: >-
+    Представьте: гость после долгой дороги или насыщенной прогулки по
+    Санкт-Петербургу заходит в вашу квартиру, идет в ванную и видит дешевый
+    обмылок и жесткое, зас
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.9'
+    reviewCount: 441
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/zakupka-kachestvennyh-rashodnyh-materialov/
 ---
 
 # **Расходные материалы для посуточной аренды: Полный гайд, который повысит ваш рейтинг и доход**

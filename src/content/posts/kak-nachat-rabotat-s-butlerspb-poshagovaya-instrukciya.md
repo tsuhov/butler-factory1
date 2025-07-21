@@ -1,10 +1,41 @@
 ---
-title: "Как начать работать с ButlerSPB: пошаговая инструкция"
-description: ">-"
-pubDate: "2025-07-20T12:03:14.215Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Как начать работать с ButlerSPB: пошаговая инструкция","description":">-","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":402,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/kak-nachat-rabotat-s-butlerspb-poshagovaya-instrukciya/"}}
+title: 'Как начать работать с ButlerSPB: пошаговая инструкция'
+description: >-
+  Хотите экономить время и делегировать рутину? Наша детальная инструкция
+  поможет вам быстро начать пользоваться консьерж-сервисом ButlerSPB. Узнайте,
+  как зарегис
+pubDate: '2025-07-20T12:03:14.215Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Как начать работать с ButlerSPB: пошаговая инструкция'
+  description: >-
+    Хотите экономить время и делегировать рутину? Наша детальная инструкция
+    поможет вам быстро начать пользоваться консьерж-сервисом ButlerSPB. Узнайте,
+    как зарегис
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.8'
+    reviewCount: 697
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/kak-nachat-rabotat-s-butlerspb-poshagovaya-instrukciya/
 ---
 
 # Как начать работать с ButlerSPB: пошаговая инструкция для новичков

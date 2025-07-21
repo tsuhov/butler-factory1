@@ -1,10 +1,45 @@
 ---
-title: ">-"
-description: ">-"
-pubDate: "2025-07-20T22:35:46.388Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":">-","description":">-","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.8","reviewCount":807,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/poisk-i-pokupka-obekta-pod-posutochnuyu-arendu/"}}
+title: >-
+  Поиск и покупка объекта под посуточную аренду: полное руководство для
+  инвестора в Санкт-Петербурге
+description: >-
+  Посуточная аренда в Санкт-Петербурге может приносить до 12-15% годовых, что в
+  2-3 раза выше доходности долгосрочной сдачи. Но только при правильном выборе
+  объек
+pubDate: '2025-07-20T22:35:46.388Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: >-
+    Поиск и покупка объекта под посуточную аренду: полное руководство для
+    инвестора в Санкт-Петербурге
+  description: >-
+    Посуточная аренда в Санкт-Петербурге может приносить до 12-15% годовых, что
+    в 2-3 раза выше доходности долгосрочной сдачи. Но только при правильном
+    выборе объек
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.9'
+    reviewCount: 498
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/poisk-i-pokupka-obekta-pod-posutochnuyu-arendu/
 ---
 
 # Поиск и покупка объекта под посуточную аренду: полное руководство для инвестора в Санкт-Петербурге

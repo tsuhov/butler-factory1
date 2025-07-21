@@ -1,10 +1,45 @@
 ---
-title: "Агентство по сдаче квартир в Питере: как ButlerSPB помогает собственникам"
-description: "Сдача квартиры в аренду в Санкт-Петербурге может быть сложной задачей. В этой статье блога ButlerSPB мы расскажем, на какие критерии стоит опираться при выборе агентства, какие услуги мы предоставляем и как профессиональное доверительное управление помогает собственникам экономить время и получать стабильный доход."
-pubDate: "2025-07-21T19:21:17.100Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1600607687939-ce8a6c25118c?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Агентство по сдаче квартир в Питере: как ButlerSPB помогает собственникам","description":"Сдача квартиры в аренду в Санкт-Петербурге может быть сложной задачей. В этой статье блога ButlerSPB мы расскажем, на какие критерии стоит опираться при выборе агентства, какие услуги мы предоставляем и как профессиональное доверительное управление помогает собственникам экономить время и получать стабильный доход.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1600607687939-ce8a6c25118c?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":410,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/agentstvo-po-sdache-kvartir-v-pitere/"}}
+title: 'Агентство по сдаче квартир в Питере: как ButlerSPB помогает собственникам'
+description: >-
+  Сдача квартиры в аренду в Санкт-Петербурге может быть сложной задачей. В этой
+  статье блога ButlerSPB мы расскажем, на какие критерии стоит опираться при
+  выборе агентства, какие услуги мы предоставляем и как профессиональное
+  доверительное управление помогает собственникам экономить время и получать
+  стабильный доход.
+pubDate: '2025-07-21T19:21:17.100Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1600607687939-ce8a6c25118c?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Агентство по сдаче квартир в Питере: как ButlerSPB помогает собственникам'
+  description: >-
+    Сдача квартиры в аренду в Санкт-Петербурге может быть сложной задачей. В
+    этой статье блога ButlerSPB мы расскажем, на какие критерии стоит опираться
+    при выборе агентства, какие услуги мы предоставляем и как профессиональное
+    доверительное управление помогает собственникам экономить время и получать
+    стабильный доход.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1600607687939-ce8a6c25118c?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.8'
+    reviewCount: 422
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/agentstvo-po-sdache-kvartir-v-pitere/
 ---
 
 # Как выбрать лучшее агентство по сдаче квартир в Питере: Полное руководство для собственника

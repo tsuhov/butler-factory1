@@ -1,10 +1,41 @@
 ---
-title: "ButlerSPB — ваш личный консьерж в мире посуточной аренды"
-description: ">-"
-pubDate: "2025-07-20T13:04:36.272Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"ButlerSPB — ваш личный консьерж в мире посуточной аренды","description":">-","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.8","reviewCount":426,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/butlerspb-vash-lichnyy-konserzh-v-mire-posutochnoy-arendy/"}}
+title: ButlerSPB — ваш личный консьерж в мире посуточной аренды
+description: >-
+  Представьте: ваша квартира в Петербурге приносит стабильный доход, а вы не
+  тратите ни минуты на общение с гостями, уборку и ночные звонки. Мечта? Для
+  многих вла
+pubDate: '2025-07-20T13:04:36.272Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: ButlerSPB — ваш личный консьерж в мире посуточной аренды
+  description: >-
+    Представьте: ваша квартира в Петербурге приносит стабильный доход, а вы не
+    тратите ни минуты на общение с гостями, уборку и ночные звонки. Мечта? Для
+    многих вла
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.7'
+    reviewCount: 676
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/butlerspb-vash-lichnyy-konserzh-v-mire-posutochnoy-arendy/
 ---
 
 # Управление посуточной арендой в СПб: Почему обычного менеджмента недостаточно и как работает консьерж-сервис от ButlerSPB

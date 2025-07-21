@@ -1,10 +1,41 @@
 ---
-title: "ButlerSPB — больше чем управляющая компания"
-description: ">-"
-pubDate: "2025-07-21T00:27:46.936Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"ButlerSPB — больше чем управляющая компания","description":">-","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"5.0","reviewCount":668,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/butlerspb-bolshe-chem-upravlyayuschaya-kompaniya/"}}
+title: ButlerSPB — больше чем управляющая компания
+description: >-
+  Сдать квартиру в посуточную аренду в Петербурге кажется простым способом
+  заработать. Но на деле это превращается в круглосуточную работу: общение с
+  гостями, убо
+pubDate: '2025-07-21T00:27:46.936Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: ButlerSPB — больше чем управляющая компания
+  description: >-
+    Сдать квартиру в посуточную аренду в Петербурге кажется простым способом
+    заработать. Но на деле это превращается в круглосуточную работу: общение с
+    гостями, убо
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.8'
+    reviewCount: 872
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/butlerspb-bolshe-chem-upravlyayuschaya-kompaniya/
 ---
 
 # ButlerSPB: Больше, чем управляющая компания по посуточной аренде в СПб

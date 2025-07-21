@@ -1,10 +1,41 @@
 ---
-title: "Как мы создаем уют в апартаментах: секреты от ButlerSPB"
-description: ">-"
-pubDate: "2025-07-20T23:55:03.880Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Как мы создаем уют в апартаментах: секреты от ButlerSPB","description":">-","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.8","reviewCount":567,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/kak-my-sozdaem-uyut-v-apartamentah/"}}
+title: 'Как мы создаем уют в апартаментах: секреты от ButlerSPB'
+description: >-
+  В условиях высококонкурентного рынка посуточной аренды Санкт-Петербурга
+  недостаточно просто иметь квартиру с хорошим ремонтом и удачным расположением.
+  Современн
+pubDate: '2025-07-20T23:55:03.880Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Как мы создаем уют в апартаментах: секреты от ButlerSPB'
+  description: >-
+    В условиях высококонкурентного рынка посуточной аренды Санкт-Петербурга
+    недостаточно просто иметь квартиру с хорошим ремонтом и удачным
+    расположением. Современн
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.9'
+    reviewCount: 651
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/kak-my-sozdaem-uyut-v-apartamentah/
 ---
 
 ### **Философия уюта от ButlerSPB: Как мы превращаем апартаменты в Санкт-Петербурге в дом, куда хочется возвращаться**

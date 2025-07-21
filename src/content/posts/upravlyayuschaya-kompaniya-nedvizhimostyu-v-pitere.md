@@ -1,10 +1,45 @@
 ---
-title: ">-"
-description: ">-"
-pubDate: "2025-07-21T16:42:51.247Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":">-","description":">-","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.7","reviewCount":583,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/upravlyayuschaya-kompaniya-nedvizhimostyu-v-pitere/"}}
+title: >-
+  Управляющая компания недвижимостью в Питере: Ваш гид по беззаботной аренде и
+  максимальному доходу
+description: >-
+  Санкт-Петербург – город, в который влюбляются. А недвижимость здесь – не
+  просто квадратные метры, а ценный актив. Но часто этот актив вместо пассивного
+  дохода п
+pubDate: '2025-07-21T16:42:51.247Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: >-
+    Управляющая компания недвижимостью в Питере: Ваш гид по беззаботной аренде и
+    максимальному доходу
+  description: >-
+    Санкт-Петербург – город, в который влюбляются. А недвижимость здесь – не
+    просто квадратные метры, а ценный актив. Но часто этот актив вместо
+    пассивного дохода п
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '5.0'
+    reviewCount: 660
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/upravlyayuschaya-kompaniya-nedvizhimostyu-v-pitere/
 ---
 
 # Управляющая компания недвижимостью в Питере: Ваш гид по беззаботной аренде и максимальному доходу

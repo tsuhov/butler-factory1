@@ -1,10 +1,41 @@
 ---
-title: "Оформление временной регистрации для гостей: полное руководство"
-description: ">-"
-pubDate: "2025-07-19T13:39:50.965Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Оформление временной регистрации для гостей: полное руководство","description":">-","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.7","reviewCount":748,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/oformlenie-vremennoy-registracii-dlya-gostey/"}}
+title: 'Оформление временной регистрации для гостей: полное руководство'
+description: >-
+  Прием гостей, родственников или друзей на длительный срок — обычная жизненная
+  ситуация. Однако, если гость планирует оставаться у вас более 90 дней, закон
+  обязы
+pubDate: '2025-07-19T13:39:50.965Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Оформление временной регистрации для гостей: полное руководство'
+  description: >-
+    Прием гостей, родственников или друзей на длительный срок — обычная
+    жизненная ситуация. Однако, если гость планирует оставаться у вас более 90
+    дней, закон обязы
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.7'
+    reviewCount: 799
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/oformlenie-vremennoy-registracii-dlya-gostey/
 ---
 
 # **Как сделать временную регистрацию для гостя: полное руководство для собственника в 2024 году**

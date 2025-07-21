@@ -1,10 +1,41 @@
 ---
-title: "Управляющая компания недвижимостью в СПб: Полное руководство от ButlerSPB"
-description: ">-"
-pubDate: "2025-07-21T16:16:07.244Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Управляющая компания недвижимостью в СПб: Полное руководство от ButlerSPB","description":">-","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"5.0","reviewCount":816,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/upravlyayuschaya-kompaniya-nedvizhimostyu-v-spb/"}}
+title: 'Управляющая компания недвижимостью в СПб: Полное руководство от ButlerSPB'
+description: >-
+  Владение квартирой в Санкт-Петербурге — это престижный актив. Но сдача ее в
+  аренду часто превращается из источника пассивного дохода в полноценную работу
+  с нено
+pubDate: '2025-07-21T16:16:07.244Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Управляющая компания недвижимостью в СПб: Полное руководство от ButlerSPB'
+  description: >-
+    Владение квартирой в Санкт-Петербурге — это престижный актив. Но сдача ее в
+    аренду часто превращается из источника пассивного дохода в полноценную
+    работу с нено
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.9'
+    reviewCount: 430
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/upravlyayuschaya-kompaniya-nedvizhimostyu-v-spb/
 ---
 
 # Управляющая компания недвижимостью в СПБ: Как получать стабильный доход от квартиры без лишних хлопот. Полное руководство от ButlerSPB

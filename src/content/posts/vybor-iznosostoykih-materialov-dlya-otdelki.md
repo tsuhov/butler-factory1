@@ -1,10 +1,41 @@
 ---
-title: "Выбор износостойких материалов для отделки"
-description: ">-"
-pubDate: "2025-07-20T00:44:24.528Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Выбор износостойких материалов для отделки","description":">-","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.7","reviewCount":353,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/vybor-iznosostoykih-materialov-dlya-otdelki/"}}
+title: Выбор износостойких материалов для отделки
+description: >-
+  Ремонт закончен, квартира сияет новизной, но проходит всего год-два, и вот они
+  — первые разочарования. Царапины от стула на полу, потертости на стенах в
+  коридор
+pubDate: '2025-07-20T00:44:24.528Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: Выбор износостойких материалов для отделки
+  description: >-
+    Ремонт закончен, квартира сияет новизной, но проходит всего год-два, и вот
+    они — первые разочарования. Царапины от стула на полу, потертости на стенах
+    в коридор
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.9'
+    reviewCount: 607
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/vybor-iznosostoykih-materialov-dlya-otdelki/
 ---
 
 # Гид по выбору износостойких материалов для отделки: Инвестиция в долговечность вашего ремонта

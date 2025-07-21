@@ -1,10 +1,45 @@
 ---
-title: ">-"
-description: ">-"
-pubDate: "2025-07-18T16:22:11.804Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":">-","description":">-","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.8","reviewCount":354,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/upravlenie-kvartiroy-v-novostroyke-posutochno-v-devyatkino/"}}
+title: >-
+  Управление квартирой в Девяткино посуточно: Полное руководство для инвестора
+  2024
+description: >-
+  Вы купили квартиру в новостройке в Девяткино и хотите, чтобы она приносила
+  стабильный доход, а не требовала постоянного внимания и превращалась во вторую
+  работу
+pubDate: '2025-07-18T16:22:11.804Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: >-
+    Управление квартирой в Девяткино посуточно: Полное руководство для инвестора
+    2024
+  description: >-
+    Вы купили квартиру в новостройке в Девяткино и хотите, чтобы она приносила
+    стабильный доход, а не требовала постоянного внимания и превращалась во
+    вторую работу
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.8'
+    reviewCount: 523
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/upravlenie-kvartiroy-v-novostroyke-posutochno-v-devyatkino/
 ---
 
 # Управление квартирой в Девяткино посуточно: Полное руководство для инвестора 2024

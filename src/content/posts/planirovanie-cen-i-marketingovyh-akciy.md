@@ -1,10 +1,45 @@
 ---
-title: ">-"
-description: ">-"
-pubDate: "2025-07-20T18:55:19.171Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":">-","description":">-","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":480,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/planirovanie-cen-i-marketingovyh-akciy/"}}
+title: >-
+  **Как планировать цены и акции в посуточной аренде: Полное руководство для
+  собственников в СПб по увеличению дохода**
+description: >-
+  Ваша квартира в центре Петербурга пустует в будние дни, а на праздники вы
+  боитесь продешевить? Оставлять цену на апартаменты статичной в течение года —
+  все равн
+pubDate: '2025-07-20T18:55:19.171Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: >-
+    **Как планировать цены и акции в посуточной аренде: Полное руководство для
+    собственников в СПб по увеличению дохода**
+  description: >-
+    Ваша квартира в центре Петербурга пустует в будние дни, а на праздники вы
+    боитесь продешевить? Оставлять цену на апартаменты статичной в течение года
+    — все равн
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.8'
+    reviewCount: 389
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/planirovanie-cen-i-marketingovyh-akciy/
 ---
 
 # **Как планировать цены и акции в посуточной аренде: Полное руководство для собственников в СПб по увеличению дохода**

@@ -1,10 +1,41 @@
 ---
-title: "Оптимизация расходов на посуточную аренду в Санкт-Петербурге"
-description: ">-"
-pubDate: "2025-07-19T10:59:46.050Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Оптимизация расходов на посуточную аренду в Санкт-Петербурге","description":">-","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.8","reviewCount":474,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/optimizaciya-rashodov-na-posutochnuyu-arendu-v-sankt-peterburge/"}}
+title: Оптимизация расходов на посуточную аренду в Санкт-Петербурге
+description: >-
+  Санкт-Петербург — настоящий магнит для туристов, путешественников и деловых
+  людей. Однако цены на жилье, особенно в высокий сезон, могут серьезно
+  «кусаться». Не
+pubDate: '2025-07-19T10:59:46.050Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: Оптимизация расходов на посуточную аренду в Санкт-Петербурге
+  description: >-
+    Санкт-Петербург — настоящий магнит для туристов, путешественников и деловых
+    людей. Однако цены на жилье, особенно в высокий сезон, могут серьезно
+    «кусаться». Не
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.7'
+    reviewCount: 740
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/optimizaciya-rashodov-na-posutochnuyu-arendu-v-sankt-peterburge/
 ---
 
 # Как снять квартиру в Санкт-Петербурге посуточно и не разориться: полное руководство по экономии

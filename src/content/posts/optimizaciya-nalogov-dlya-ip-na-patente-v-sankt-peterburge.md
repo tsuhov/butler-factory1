@@ -1,10 +1,41 @@
 ---
-title: "Оптимизация налогов для ИП на патенте в Санкт-Петербурге: полное руководство"
-description: ">-"
-pubDate: "2025-07-20T00:16:14.433Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Оптимизация налогов для ИП на патенте в Санкт-Петербурге: полное руководство","description":">-","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"5.0","reviewCount":379,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/optimizaciya-nalogov-dlya-ip-na-patente-v-sankt-peterburge/"}}
+title: 'Оптимизация налогов для ИП на патенте в Санкт-Петербурге: полное руководство'
+description: >-
+  Патентная система налогообложения (ПСН) в Санкт-Петербурге — один из самых
+  выгодных режимов для малого бизнеса. Но его можно сделать еще выгоднее.
+  Главный инстр
+pubDate: '2025-07-20T00:16:14.433Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Оптимизация налогов для ИП на патенте в Санкт-Петербурге: полное руководство'
+  description: >-
+    Патентная система налогообложения (ПСН) в Санкт-Петербурге — один из самых
+    выгодных режимов для малого бизнеса. Но его можно сделать еще выгоднее.
+    Главный инстр
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.8'
+    reviewCount: 827
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/optimizaciya-nalogov-dlya-ip-na-patente-v-sankt-peterburge/
 ---
 
 # Оптимизация налогов для ИП на патенте в Санкт-Петербурге в 2024 году: полное руководство по уменьшению платежей

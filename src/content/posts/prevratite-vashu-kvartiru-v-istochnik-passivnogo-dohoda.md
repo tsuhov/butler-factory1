@@ -1,10 +1,41 @@
 ---
-title: "Превратите вашу квартиру в источник пассивного дохода"
-description: ">-"
-pubDate: "2025-07-20T22:29:30.082Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Превратите вашу квартиру в источник пассивного дохода","description":">-","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":844,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/prevratite-vashu-kvartiru-v-istochnik-passivnogo-dohoda/"}}
+title: Превратите вашу квартиру в источник пассивного дохода
+description: >-
+  Ваша квартира в Петербурге — это не просто квадратные метры, а ценный актив,
+  способный работать на вас 24/7. Пока вы пьете кофе, путешествуете или
+  занимаетесь л
+pubDate: '2025-07-20T22:29:30.082Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: Превратите вашу квартиру в источник пассивного дохода
+  description: >-
+    Ваша квартира в Петербурге — это не просто квадратные метры, а ценный актив,
+    способный работать на вас 24/7. Пока вы пьете кофе, путешествуете или
+    занимаетесь л
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.8'
+    reviewCount: 700
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/prevratite-vashu-kvartiru-v-istochnik-passivnogo-dohoda/
 ---
 
 # Превратите вашу квартиру в Санкт-Петербурге в источник пассивного дохода: Полное руководство для собственников

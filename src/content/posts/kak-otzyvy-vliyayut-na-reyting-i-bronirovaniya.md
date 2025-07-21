@@ -1,10 +1,41 @@
 ---
-title: "Как отзывы влияют на рейтинг и бронирования"
-description: ">-"
-pubDate: "2025-07-19T13:49:36.055Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Как отзывы влияют на рейтинг и бронирования","description":">-","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.7","reviewCount":832,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/kak-otzyvy-vliyayut-na-reyting-i-bronirovaniya/"}}
+title: Как отзывы влияют на рейтинг и бронирования
+description: >-
+  В мире гостеприимства, где конкуренция за каждого гостя достигает пика,
+  отельеры и владельцы апартаментов ищут эффективные способы выделиться. Многие
+  вкладывают
+pubDate: '2025-07-19T13:49:36.055Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: Как отзывы влияют на рейтинг и бронирования
+  description: >-
+    В мире гостеприимства, где конкуренция за каждого гостя достигает пика,
+    отельеры и владельцы апартаментов ищут эффективные способы выделиться.
+    Многие вкладывают
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.9'
+    reviewCount: 712
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/kak-otzyvy-vliyayut-na-reyting-i-bronirovaniya/
 ---
 
 # Как отзывы влияют на рейтинг и бронирования: Полное руководство для отельеров и владельцев арендного жилья

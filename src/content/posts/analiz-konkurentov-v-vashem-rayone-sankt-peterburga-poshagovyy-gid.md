@@ -1,10 +1,41 @@
 ---
-title: "Анализ конкурентов в вашем районе Санкт-Петербурга: пошаговый гид"
-description: ">-"
-pubDate: "2025-07-18T22:17:06.707Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Анализ конкурентов в вашем районе Санкт-Петербурга: пошаговый гид","description":">-","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":394,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/analiz-konkurentov-v-vashem-rayone-sankt-peterburga-poshagovyy-gid/"}}
+title: 'Анализ конкурентов в вашем районе Санкт-Петербурга: пошаговый гид'
+description: >-
+  В Санкт-Петербурге, от густонаселенного Приморского до делового
+  Адмиралтейского района, конкуренция за клиента высока как никогда. Просто
+  "быть хорошим" уже нед
+pubDate: '2025-07-18T22:17:06.707Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Анализ конкурентов в вашем районе Санкт-Петербурга: пошаговый гид'
+  description: >-
+    В Санкт-Петербурге, от густонаселенного Приморского до делового
+    Адмиралтейского района, конкуренция за клиента высока как никогда. Просто
+    "быть хорошим" уже нед
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.7'
+    reviewCount: 686
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/analiz-konkurentov-v-vashem-rayone-sankt-peterburga-poshagovyy-gid/
 ---
 
 # Анализ конкурентов в вашем районе Санкт-Петербурга: пошаговый гид для локального бизнеса

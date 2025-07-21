@@ -1,10 +1,49 @@
 ---
-title: "Риэлтор по коммерческой недвижимости в Санкт-Петербурге: как найти эксперта для своего бизнеса"
-description: "Ищете офис, склад или торговое помещение в Питере? В новой статье блога ButlerSPB разбираемся, почему для поиска коммерческой недвижимости нужен специализированный риэлтор. Рассказываем, чем он отличается от агента по жилью, какие задачи решает и как помогает бизнесу экономить время и деньги, заключая выгодные сделки в Санкт-Петербурге."
-pubDate: "2025-07-21T19:23:19.643Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1556742518-b827e3c9a4a7?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Риэлтор по коммерческой недвижимости в Санкт-Петербурге: как найти эксперта для своего бизнеса","description":"Ищете офис, склад или торговое помещение в Питере? В новой статье блога ButlerSPB разбираемся, почему для поиска коммерческой недвижимости нужен специализированный риэлтор. Рассказываем, чем он отличается от агента по жилью, какие задачи решает и как помогает бизнесу экономить время и деньги, заключая выгодные сделки в Санкт-Петербурге.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1556742518-b827e3c9a4a7?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.8","reviewCount":791,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/rieltor-po-kommercheskoy-nedvizhimosti-v-pitere/"}}
+title: >-
+  Риэлтор по коммерческой недвижимости в Санкт-Петербурге: как найти эксперта
+  для своего бизнеса
+description: >-
+  Ищете офис, склад или торговое помещение в Питере? В новой статье блога
+  ButlerSPB разбираемся, почему для поиска коммерческой недвижимости нужен
+  специализированный риэлтор. Рассказываем, чем он отличается от агента по
+  жилью, какие задачи решает и как помогает бизнесу экономить время и деньги,
+  заключая выгодные сделки в Санкт-Петербурге.
+pubDate: '2025-07-21T19:23:19.643Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1556742518-b827e3c9a4a7?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: >-
+    Риэлтор по коммерческой недвижимости в Санкт-Петербурге: как найти эксперта
+    для своего бизнеса
+  description: >-
+    Ищете офис, склад или торговое помещение в Питере? В новой статье блога
+    ButlerSPB разбираемся, почему для поиска коммерческой недвижимости нужен
+    специализированный риэлтор. Рассказываем, чем он отличается от агента по
+    жилью, какие задачи решает и как помогает бизнесу экономить время и деньги,
+    заключая выгодные сделки в Санкт-Петербурге.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1556742518-b827e3c9a4a7?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '5.0'
+    reviewCount: 526
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/rieltor-po-kommercheskoy-nedvizhimosti-v-pitere/
 ---
 
 # Ошибка стоит миллионов: Полное руководство по выбору риэлтора по коммерческой недвижимости в Санкт-Петербурге

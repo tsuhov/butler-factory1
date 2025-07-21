@@ -1,10 +1,45 @@
 ---
-title: ">-"
-description: ">-"
-pubDate: "2025-07-18T14:51:17.393Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":">-","description":">-","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":568,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/kak-pravilno-fotografirovat-kvartiru-dlya-sdachi-v-peterburge/"}}
+title: >-
+  Как правильно фотографировать квартиру для сдачи в аренду в Санкт-Петербурге:
+  полное руководство для собственника
+description: >-
+  Качественные фотографии — это визитная карточка вашей квартиры на
+  переполненном рынке аренды Санкт-Петербурга. В городе, где конкуренция за
+  хорошего арендатора 
+pubDate: '2025-07-18T14:51:17.393Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: >-
+    Как правильно фотографировать квартиру для сдачи в аренду в
+    Санкт-Петербурге: полное руководство для собственника
+  description: >-
+    Качественные фотографии — это визитная карточка вашей квартиры на
+    переполненном рынке аренды Санкт-Петербурга. В городе, где конкуренция за
+    хорошего арендатора 
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.9'
+    reviewCount: 356
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/kak-pravilno-fotografirovat-kvartiru-dlya-sdachi-v-peterburge/
 ---
 
 # Как правильно фотографировать квартиру для сдачи в аренду в Санкт-Петербурге: полное руководство для собственника

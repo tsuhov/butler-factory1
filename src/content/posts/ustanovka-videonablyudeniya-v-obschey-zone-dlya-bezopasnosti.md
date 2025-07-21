@@ -1,10 +1,45 @@
 ---
-title: ">-"
-description: ">-"
-pubDate: "2025-07-19T13:26:03.129Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":">-","description":">-","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.7","reviewCount":401,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/ustanovka-videonablyudeniya-v-obschey-zone-dlya-bezopasnosti/"}}
+title: >-
+  Как законно установить видеонаблюдение в подъезде и на общей территории:
+  Полное руководство 2024
+description: >-
+  Кражи велосипедов и колясок из тамбура, вандализм в лифте, подозрительные
+  компании на лестничной клетке и горы мусора у подъезда — знакомые проблемы для
+  жителей
+pubDate: '2025-07-19T13:26:03.129Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: >-
+    Как законно установить видеонаблюдение в подъезде и на общей территории:
+    Полное руководство 2024
+  description: >-
+    Кражи велосипедов и колясок из тамбура, вандализм в лифте, подозрительные
+    компании на лестничной клетке и горы мусора у подъезда — знакомые проблемы
+    для жителей
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.9'
+    reviewCount: 361
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/ustanovka-videonablyudeniya-v-obschey-zone-dlya-bezopasnosti/
 ---
 
 # Как законно установить видеонаблюдение в подъезде и на общей территории: Полное руководство 2024

@@ -1,10 +1,41 @@
 ---
-title: "Как установить правильную цену на посуточную аренду в Питере"
-description: ">-"
-pubDate: "2025-07-18T15:36:37.907Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Как установить правильную цену на посуточную аренду в Питере","description":">-","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.8","reviewCount":739,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/kak-ustanovit-pravilnuyu-cenu-na-posutochnuyu-arendu-v-pitere/"}}
+title: Как установить правильную цену на посуточную аренду в Питере
+description: >-
+  Установить слишком низкую цену — значит потерять прибыль. Слишком высокую —
+  остаться без гостей. Ценообразование в посуточной аренде в Санкт-Петербурге —
+  это то
+pubDate: '2025-07-18T15:36:37.907Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: Как установить правильную цену на посуточную аренду в Питере
+  description: >-
+    Установить слишком низкую цену — значит потерять прибыль. Слишком высокую —
+    остаться без гостей. Ценообразование в посуточной аренде в Санкт-Петербурге
+    — это то
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.9'
+    reviewCount: 665
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/kak-ustanovit-pravilnuyu-cenu-na-posutochnuyu-arendu-v-pitere/
 ---
 
 # **Как установить правильную цену на посуточную аренду в Питере: Полное руководство для рантье в 2024 году**

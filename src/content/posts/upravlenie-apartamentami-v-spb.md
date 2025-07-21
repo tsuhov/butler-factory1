@@ -1,10 +1,44 @@
 ---
-title: ">-"
-description: ">-"
-pubDate: "2025-07-21T15:59:26.504Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":">-","description":">-","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":632,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/upravlenie-apartamentami-v-spb/"}}
+title: >-
+  Как получать стабильный доход от апартаментов в СПб, не тратя на это время:
+  Все об услуге доверительного управления
+description: >-
+  Владение апартаментами в Санкт-Петербурге – это престижная инвестиция. Но за
+  красивой картинкой пассивного дохода скрывается рутина: бесконечный поиск
+  жильцов, 
+pubDate: '2025-07-21T15:59:26.504Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: >-
+    Как получать стабильный доход от апартаментов в СПб, не тратя на это время:
+    Все об услуге доверительного управления
+  description: >-
+    Владение апартаментами в Санкт-Петербурге – это престижная инвестиция. Но за
+    красивой картинкой пассивного дохода скрывается рутина: бесконечный поиск
+    жильцов, 
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.9'
+    reviewCount: 473
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': 'https://butlerspb-blog.netlify.app/blog/upravlenie-apartamentami-v-spb/'
 ---
 
 # Как получать стабильный доход от апартаментов в СПб, не тратя на это время: Все об услуге доверительного управления

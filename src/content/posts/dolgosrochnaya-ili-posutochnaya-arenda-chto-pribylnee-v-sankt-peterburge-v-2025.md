@@ -1,10 +1,41 @@
 ---
-title: "Долгосрочная или посуточная аренда: что прибыльнее в Санкт-Петербурге в 2025"
-description: ">-"
-pubDate: "2025-07-18T17:12:33.731Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Долгосрочная или посуточная аренда: что прибыльнее в Санкт-Петербурге в 2025","description":">-","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":814,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/dolgosrochnaya-ili-posutochnaya-arenda-chto-pribylnee-v-sankt-peterburge-v-2025/"}}
+title: 'Долгосрочная или посуточная аренда: что прибыльнее в Санкт-Петербурге в 2025'
+description: >-
+  Рынок недвижимости Санкт-Петербурга — это уникальный организм, живущий по
+  своим законам. С одной стороны, это мегаполис с миллионами жителей,
+  обеспечивающий ста
+pubDate: '2025-07-18T17:12:33.731Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Долгосрочная или посуточная аренда: что прибыльнее в Санкт-Петербурге в 2025'
+  description: >-
+    Рынок недвижимости Санкт-Петербурга — это уникальный организм, живущий по
+    своим законам. С одной стороны, это мегаполис с миллионами жителей,
+    обеспечивающий ста
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '5.0'
+    reviewCount: 492
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/dolgosrochnaya-ili-posutochnaya-arenda-chto-pribylnee-v-sankt-peterburge-v-2025/
 ---
 
 # Долгосрочная или посуточная аренда: что прибыльнее в Санкт-Петербурге в 2025 году? Полный разбор для инвестора.

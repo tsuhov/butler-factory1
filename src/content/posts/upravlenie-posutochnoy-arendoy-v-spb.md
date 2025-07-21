@@ -1,10 +1,39 @@
 ---
-title: "Управление посуточной арендой в СПБ: Полное руководство"
-description: "Как эффективно управлять посуточной арендой квартир в Санкт-Петербурге. Советы по поиску гостей, ценообразованию, уборке и автоматизации бизнеса."
-pubDate: "2025-07-17T00:13:08.469Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Управление посуточной арендой в СПБ: Полное руководство","description":"Как эффективно управлять посуточной арендой квартир в Санкт-Петербурге. Советы по поиску гостей, ценообразованию, уборке и автоматизации бизнеса.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"5.0","reviewCount":856,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/upravlenie-posutochnoy-arendoy-v-spb/"}}
+title: 'Управление посуточной арендой в СПБ: Полное руководство'
+description: >-
+  Как эффективно управлять посуточной арендой квартир в Санкт-Петербурге. Советы
+  по поиску гостей, ценообразованию, уборке и автоматизации бизнеса.
+pubDate: '2025-07-17T00:13:08.469Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Управление посуточной арендой в СПБ: Полное руководство'
+  description: >-
+    Как эффективно управлять посуточной арендой квартир в Санкт-Петербурге.
+    Советы по поиску гостей, ценообразованию, уборке и автоматизации бизнеса.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.9'
+    reviewCount: 464
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/upravlenie-posutochnoy-arendoy-v-spb/
 ---
 
 ### **(H1) Управление посуточной арендой в Санкт-Петербурге: от хоумстейджинга до автоматизации. Экспертное руководство для рантье.**

@@ -1,10 +1,43 @@
 ---
-title: "Долгосрочные отношения с клиентами: как ButlerSPB строит доверие и лояльность"
-description: ">-"
-pubDate: "2025-07-20T22:23:31.651Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Долгосрочные отношения с клиентами: как ButlerSPB строит доверие и лояльность","description":">-","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"5.0","reviewCount":758,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/dolgosrochnye-otnosheniya-s-klientami/"}}
+title: 'Долгосрочные отношения с клиентами: как ButlerSPB строит доверие и лояльность'
+description: >-
+  Передать квартиру в управление — это как доверить ключи от самого ценного
+  актива. На рынке посуточной аренды в Санкт-Петербурге много предложений, но
+  как выбрат
+pubDate: '2025-07-20T22:23:31.651Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: >-
+    Долгосрочные отношения с клиентами: как ButlerSPB строит доверие и
+    лояльность
+  description: >-
+    Передать квартиру в управление — это как доверить ключи от самого ценного
+    актива. На рынке посуточной аренды в Санкт-Петербурге много предложений, но
+    как выбрат
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.8'
+    reviewCount: 597
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/dolgosrochnye-otnosheniya-s-klientami/
 ---
 
 # Больше чем просто управление: Почему мы в ButlerSPB строим отношения с собственниками на годы

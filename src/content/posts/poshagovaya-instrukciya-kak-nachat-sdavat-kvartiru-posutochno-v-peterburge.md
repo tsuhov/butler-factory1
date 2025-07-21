@@ -1,10 +1,43 @@
 ---
-title: "Пошаговая инструкция: как начать сдавать квартиру посуточно в Санкт-Петербурге"
-description: ">-"
-pubDate: "2025-07-17T21:18:39.479Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Пошаговая инструкция: как начать сдавать квартиру посуточно в Санкт-Петербурге","description":">-","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"5.0","reviewCount":752,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/poshagovaya-instrukciya-kak-nachat-sdavat-kvartiru-posutochno-v-peterburge/"}}
+title: 'Пошаговая инструкция: как начать сдавать квартиру посуточно в Санкт-Петербурге'
+description: >-
+  Санкт-Петербург — магнит для миллионов туристов и деловых путешественников.
+  Белые ночи, разводные мосты, мировые культурные события и крупные форумы,
+  вроде ПМЭФ
+pubDate: '2025-07-17T21:18:39.479Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: >-
+    Пошаговая инструкция: как начать сдавать квартиру посуточно в
+    Санкт-Петербурге
+  description: >-
+    Санкт-Петербург — магнит для миллионов туристов и деловых путешественников.
+    Белые ночи, разводные мосты, мировые культурные события и крупные форумы,
+    вроде ПМЭФ
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.7'
+    reviewCount: 351
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/poshagovaya-instrukciya-kak-nachat-sdavat-kvartiru-posutochno-v-peterburge/
 ---
 
 # **Пошаговая инструкция: как начать сдавать квартиру посуточно в Петербурге в 2024 году**

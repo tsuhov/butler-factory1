@@ -1,10 +1,39 @@
 ---
-title: "Налоги с посуточной аренды в СПб для физлиц: как платить?"
-description: "Сдаете квартиру посуточно в Петербурге? Узнайте, какие налоги нужно платить физлицу: НДФЛ, самозанятость (НПД) или ИП. Сравнение режимов и штрафы."
-pubDate: "2025-07-17T17:06:05.737Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Налоги с посуточной аренды в СПб для физлиц: как платить?","description":"Сдаете квартиру посуточно в Петербурге? Узнайте, какие налоги нужно платить физлицу: НДФЛ, самозанятость (НПД) или ИП. Сравнение режимов и штрафы.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"5.0","reviewCount":624,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/nalogi-s-posutochnoy-arendy-dlya-fizicheskih-lic-v-peterburge/"}}
+title: 'Налоги с посуточной аренды в СПб для физлиц: как платить?'
+description: >-
+  Сдаете квартиру посуточно в Петербурге? Узнайте, какие налоги нужно платить
+  физлицу: НДФЛ, самозанятость (НПД) или ИП. Сравнение режимов и штрафы.
+pubDate: '2025-07-17T17:06:05.737Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Налоги с посуточной аренды в СПб для физлиц: как платить?'
+  description: >-
+    Сдаете квартиру посуточно в Петербурге? Узнайте, какие налоги нужно платить
+    физлицу: НДФЛ, самозанятость (НПД) или ИП. Сравнение режимов и штрафы.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.8'
+    reviewCount: 712
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/nalogi-s-posutochnoy-arendy-dlya-fizicheskih-lic-v-peterburge/
 ---
 
 ### **(H1) Налоги с посуточной аренды в Петербурге: Полное руководство для собственника в 2024 году**

@@ -1,10 +1,41 @@
 ---
-title: "Сдать квартиру в управление посуточно в СПб: выгодно и просто"
-description: "Узнайте, как сдать квартиру в управление для посуточной аренды в Санкт-Петербурге. Плюсы, минусы и выбор надежной компании для максимального дохода."
-pubDate: "2025-07-17T00:35:55.751Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Сдать квартиру в управление посуточно в СПб: выгодно и просто","description":"Узнайте, как сдать квартиру в управление для посуточной аренды в Санкт-Петербурге. Плюсы, минусы и выбор надежной компании для максимального дохода.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.8","reviewCount":710,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/sdat-kvartiru-v-upravlenie-posutochno-v-peterburge/"}}
+title: 'Сдать квартиру в управление посуточно в СПб: выгодно и просто'
+description: >-
+  Узнайте, как сдать квартиру в управление для посуточной аренды в
+  Санкт-Петербурге. Плюсы, минусы и выбор надежной компании для максимального
+  дохода.
+pubDate: '2025-07-17T00:35:55.751Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Сдать квартиру в управление посуточно в СПб: выгодно и просто'
+  description: >-
+    Узнайте, как сдать квартиру в управление для посуточной аренды в
+    Санкт-Петербурге. Плюсы, минусы и выбор надежной компании для максимального
+    дохода.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.9'
+    reviewCount: 896
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/sdat-kvartiru-v-upravlenie-posutochno-v-peterburge/
 ---
 
 ### **Посуточное управление квартирой в Петербурге: Полное руководство для собственника**

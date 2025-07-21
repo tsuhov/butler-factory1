@@ -1,10 +1,45 @@
 ---
-title: ">-"
-description: ">-"
-pubDate: "2025-07-20T14:46:20.094Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":">-","description":">-","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.8","reviewCount":612,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/organizaciya-prozhivaniya-dlya-uchastnikov-konferenciy-i-meropriyatiy/"}}
+title: >-
+  Как организовать проживание для участников конференции в СПб: Полное
+  руководство от экспертов ButlerSPB
+description: >-
+  Успех конференции на 90% зависит от подготовки, и одна из самых сложных задач
+  — комфортное размещение десятков, а то и сотен участников. Разные бюджеты,
+  требова
+pubDate: '2025-07-20T14:46:20.094Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: >-
+    Как организовать проживание для участников конференции в СПб: Полное
+    руководство от экспертов ButlerSPB
+  description: >-
+    Успех конференции на 90% зависит от подготовки, и одна из самых сложных
+    задач — комфортное размещение десятков, а то и сотен участников. Разные
+    бюджеты, требова
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.9'
+    reviewCount: 795
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/organizaciya-prozhivaniya-dlya-uchastnikov-konferenciy-i-meropriyatiy/
 ---
 
 # Как организовать проживание для участников конференции в СПб: Полное руководство от экспертов ButlerSPB

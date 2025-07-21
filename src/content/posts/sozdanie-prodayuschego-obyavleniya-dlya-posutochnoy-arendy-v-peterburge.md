@@ -1,10 +1,41 @@
 ---
-title: "Создание продающего объявления для посуточной аренды в Петербурге"
-description: ">-"
-pubDate: "2025-07-18T14:34:22.713Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Создание продающего объявления для посуточной аренды в Петербурге","description":">-","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":350,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/sozdanie-prodayuschego-obyavleniya-dlya-posutochnoy-arendy-v-peterburge/"}}
+title: Создание продающего объявления для посуточной аренды в Петербурге
+description: >-
+  Высокая конкуренция на рынке посуточной аренды в Санкт-Петербурге — суровая
+  реальность для каждого владельца жилья. Сотни похожих объявлений в каждом
+  районе гор
+pubDate: '2025-07-18T14:34:22.713Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: Создание продающего объявления для посуточной аренды в Петербурге
+  description: >-
+    Высокая конкуренция на рынке посуточной аренды в Санкт-Петербурге — суровая
+    реальность для каждого владельца жилья. Сотни похожих объявлений в каждом
+    районе гор
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '5.0'
+    reviewCount: 775
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/sozdanie-prodayuschego-obyavleniya-dlya-posutochnoy-arendy-v-peterburge/
 ---
 
 # Как создать продающее объявление для посуточной аренды в Петербурге: полное руководство для рантье

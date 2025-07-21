@@ -1,10 +1,41 @@
 ---
-title: "Оснащение квартиры для посуточной аренды: полный список необходимого"
-description: ">-"
-pubDate: "2025-07-18T15:42:25.351Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Оснащение квартиры для посуточной аренды: полный список необходимого","description":">-","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"5.0","reviewCount":541,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/osnaschenie-kvartiry-dlya-posutochnoy-arendy-polnyy-spisok-neobhodimogo/"}}
+title: 'Оснащение квартиры для посуточной аренды: полный список необходимого'
+description: >-
+  Сдача квартиры в посуточную аренду превратилась из простого способа подработки
+  в высококонкурентный бизнес. Сегодня гости выбирают не просто «крышу над
+  головой»
+pubDate: '2025-07-18T15:42:25.351Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Оснащение квартиры для посуточной аренды: полный список необходимого'
+  description: >-
+    Сдача квартиры в посуточную аренду превратилась из простого способа
+    подработки в высококонкурентный бизнес. Сегодня гости выбирают не просто
+    «крышу над головой»
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.9'
+    reviewCount: 670
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/osnaschenie-kvartiry-dlya-posutochnoy-arendy-polnyy-spisok-neobhodimogo/
 ---
 
 # Оснащение квартиры для посуточной аренды: полный чек-лист для максимального дохода и 5-звездочных отзывов

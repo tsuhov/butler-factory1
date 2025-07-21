@@ -1,10 +1,41 @@
 ---
-title: "Юридическая поддержка собственников на всех этапах: от покупки до управления"
-description: ">-"
-pubDate: "2025-07-20T13:47:27.588Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Юридическая поддержка собственников на всех этапах: от покупки до управления","description":">-","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.8","reviewCount":418,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/yuridicheskaya-podderzhka-sobstvennikov-na-vseh-etapah/"}}
+title: 'Юридическая поддержка собственников на всех этапах: от покупки до управления'
+description: >-
+  Посуточная аренда в Санкт-Петербурге — это золотая жила для собственника. Но
+  за высоким доходом скрываются юридические риски: от претензий налоговой до
+  разборок
+pubDate: '2025-07-20T13:47:27.588Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Юридическая поддержка собственников на всех этапах: от покупки до управления'
+  description: >-
+    Посуточная аренда в Санкт-Петербурге — это золотая жила для собственника. Но
+    за высоким доходом скрываются юридические риски: от претензий налоговой до
+    разборок
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.8'
+    reviewCount: 563
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/yuridicheskaya-podderzhka-sobstvennikov-na-vseh-etapah/
 ---
 
 # Посуточная аренда без головной боли: Полное юридическое сопровождение собственника на всех этапах

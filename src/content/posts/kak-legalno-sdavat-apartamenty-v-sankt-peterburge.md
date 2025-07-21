@@ -1,10 +1,41 @@
 ---
-title: "Как легально сдавать апартаменты в Санкт-Петербурге"
-description: ">-"
-pubDate: "2025-07-19T13:59:47.668Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Как легально сдавать апартаменты в Санкт-Петербурге","description":">-","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.7","reviewCount":703,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/kak-legalno-sdavat-apartamenty-v-sankt-peterburge/"}}
+title: Как легально сдавать апартаменты в Санкт-Петербурге
+description: >-
+  Апартаменты в Санкт-Петербурге — популярный и востребованный инвестиционный
+  актив. Однако их сдача в аренду, в отличие от квартир, имеет свои юридические
+  тонкос
+pubDate: '2025-07-19T13:59:47.668Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: Как легально сдавать апартаменты в Санкт-Петербурге
+  description: >-
+    Апартаменты в Санкт-Петербурге — популярный и востребованный инвестиционный
+    актив. Однако их сдача в аренду, в отличие от квартир, имеет свои
+    юридические тонкос
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.8'
+    reviewCount: 764
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/kak-legalno-sdavat-apartamenty-v-sankt-peterburge/
 ---
 
 # Как легально сдавать апартаменты в Санкт-Петербурге: Полное руководство для собственника в 2024 году

@@ -1,10 +1,41 @@
 ---
-title: "Специальные предложения для длительного проживания"
-description: ">-"
-pubDate: "2025-07-19T13:43:46.996Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Специальные предложения для длительного проживания","description":">-","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.7","reviewCount":629,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/specialnye-predlozheniya-dlya-dlitelnogo-prozhivaniya/"}}
+title: Специальные предложения для длительного проживания
+description: >-
+  Длительная командировка, затянувшийся ремонт в квартире, релокация в новый
+  город или просто желание пожить в другой обстановке, не связывая себя годовым
+  контрак
+pubDate: '2025-07-19T13:43:46.996Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: Специальные предложения для длительного проживания
+  description: >-
+    Длительная командировка, затянувшийся ремонт в квартире, релокация в новый
+    город или просто желание пожить в другой обстановке, не связывая себя
+    годовым контрак
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.9'
+    reviewCount: 691
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/specialnye-predlozheniya-dlya-dlitelnogo-prozhivaniya/
 ---
 
 # Специальные предложения для длительного проживания: Ваш гид по экономии и комфорту

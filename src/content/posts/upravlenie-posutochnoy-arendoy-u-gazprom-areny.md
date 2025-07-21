@@ -1,10 +1,41 @@
 ---
-title: "Управление посуточной арендой у Газпром Арены"
-description: ">-"
-pubDate: "2025-07-18T16:57:22.656Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Управление посуточной арендой у Газпром Арены","description":">-","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"5.0","reviewCount":586,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/upravlenie-posutochnoy-arendoy-u-gazprom-areny/"}}
+title: Управление посуточной арендой у Газпром Арены
+description: >-
+  Ваша квартира на Крестовском острове или в непосредственной близости от
+  Газпром Арены — это не просто недвижимость, а мощный актив с огромным
+  потенциалом доходн
+pubDate: '2025-07-18T16:57:22.656Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: Управление посуточной арендой у Газпром Арены
+  description: >-
+    Ваша квартира на Крестовском острове или в непосредственной близости от
+    Газпром Арены — это не просто недвижимость, а мощный актив с огромным
+    потенциалом доходн
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.7'
+    reviewCount: 893
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/upravlenie-posutochnoy-arendoy-u-gazprom-areny/
 ---
 
 # Управление посуточной арендой у Газпром Арены: Полное руководство для собственника

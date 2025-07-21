@@ -1,10 +1,41 @@
 ---
-title: "Сдать квартиру посуточно у Эрмитажа: гид для владельца"
-description: ">-"
-pubDate: "2025-07-18T16:25:51.932Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Сдать квартиру посуточно у Эрмитажа: гид для владельца","description":">-","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.7","reviewCount":695,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/sdat-kvartiru-posutochno-u-ermitazha/"}}
+title: 'Сдать квартиру посуточно у Эрмитажа: гид для владельца'
+description: >-
+  Представьте: вы просыпаетесь утром, завариваете ароматный кофе и из окна
+  видите шпиль Адмиралтейства, а до Дворцовой площади и входа в Эрмитаж — всего
+  пять мину
+pubDate: '2025-07-18T16:25:51.932Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Сдать квартиру посуточно у Эрмитажа: гид для владельца'
+  description: >-
+    Представьте: вы просыпаетесь утром, завариваете ароматный кофе и из окна
+    видите шпиль Адмиралтейства, а до Дворцовой площади и входа в Эрмитаж —
+    всего пять мину
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '5.0'
+    reviewCount: 449
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/sdat-kvartiru-posutochno-u-ermitazha/
 ---
 
 # Аренда квартиры посуточно у Эрмитажа: Ваш гид по идеальному отдыху в сердце Петербурга

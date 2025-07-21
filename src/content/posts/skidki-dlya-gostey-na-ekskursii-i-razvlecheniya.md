@@ -1,10 +1,41 @@
 ---
-title: "Скидки для гостей на экскурсии и развлечения"
-description: ">-"
-pubDate: "2025-07-20T00:38:42.814Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Скидки для гостей на экскурсии и развлечения","description":">-","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.8","reviewCount":772,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/skidki-dlya-gostey-na-ekskursii-i-razvlecheniya/"}}
+title: Скидки для гостей на экскурсии и развлечения
+description: >-
+  Путешествия – это незабываемые впечатления, но расходы на экскурсии и
+  развлечения могут серьезно ударить по бюджету. Но что, если мы скажем, что на
+  этом можно и
+pubDate: '2025-07-20T00:38:42.814Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: Скидки для гостей на экскурсии и развлечения
+  description: >-
+    Путешествия – это незабываемые впечатления, но расходы на экскурсии и
+    развлечения могут серьезно ударить по бюджету. Но что, если мы скажем, что
+    на этом можно и
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.8'
+    reviewCount: 836
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/skidki-dlya-gostey-na-ekskursii-i-razvlecheniya/
 ---
 
 # Как получать скидки на экскурсии и развлечения: Полное руководство для туриста

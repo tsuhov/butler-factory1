@@ -1,10 +1,41 @@
 ---
-title: "Автоматическая корректировка цен для максимальной загрузки"
-description: ">-"
-pubDate: "2025-07-20T15:14:50.765Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Автоматическая корректировка цен для максимальной загрузки","description":">-","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":370,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/avtomaticheskaya-korrektirovka-cen-dlya-maksimalnoy-zagruzki/"}}
+title: Автоматическая корректировка цен для максимальной загрузки
+description: >-
+  Устали каждый день вручную менять цены на Avito, Суточно.ру и Островке,
+  пытаясь угадать спрос? Один день простоя в высокий сезон — это потерянные 5
+  000 - 10 000
+pubDate: '2025-07-20T15:14:50.765Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: Автоматическая корректировка цен для максимальной загрузки
+  description: >-
+    Устали каждый день вручную менять цены на Avito, Суточно.ру и Островке,
+    пытаясь угадать спрос? Один день простоя в высокий сезон — это потерянные 5
+    000 - 10 000
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.8'
+    reviewCount: 624
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/avtomaticheskaya-korrektirovka-cen-dlya-maksimalnoy-zagruzki/
 ---
 
 # Автоматическая корректировка цен: Ваш ключ к максимальной загрузке и прибыли от посуточной аренды в Санкт-Петербурге

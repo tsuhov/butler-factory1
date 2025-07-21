@@ -1,10 +1,41 @@
 ---
-title: "Консьерж-сервис для апартаментов в Санкт-Петербурге: новый уровень комфорта"
-description: ">-"
-pubDate: "2025-07-18T17:59:29.604Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Консьерж-сервис для апартаментов в Санкт-Петербурге: новый уровень комфорта","description":">-","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.8","reviewCount":655,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/konserzh-servis-dlya-apartamentov-v-sankt-peterburge/"}}
+title: 'Консьерж-сервис для апартаментов в Санкт-Петербурге: новый уровень комфорта'
+description: >-
+  В высоком темпе жизни Санкт-Петербурга, где каждая минута на счету, требования
+  к комфорту жилья выходят на новый уровень. Покупатели и арендаторы
+  недвижимости б
+pubDate: '2025-07-18T17:59:29.604Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Консьерж-сервис для апартаментов в Санкт-Петербурге: новый уровень комфорта'
+  description: >-
+    В высоком темпе жизни Санкт-Петербурга, где каждая минута на счету,
+    требования к комфорту жилья выходят на новый уровень. Покупатели и
+    арендаторы недвижимости б
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.7'
+    reviewCount: 589
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/konserzh-servis-dlya-apartamentov-v-sankt-peterburge/
 ---
 
 # Консьерж-сервис для апартаментов в Санкт-Петербурге: Ваш ключ к комфорту и премиальному статусу

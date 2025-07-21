@@ -1,10 +1,41 @@
 ---
-title: "Искусство гостеприимства: Как удивить гостей приветственным комплиментом"
-description: ">-"
-pubDate: "2025-07-20T23:59:12.053Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Искусство гостеприимства: Как удивить гостей приветственным комплиментом","description":">-","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":873,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/privetstvennye-komplimenty-dlya-gostey/"}}
+title: 'Искусство гостеприимства: Как удивить гостей приветственным комплиментом'
+description: >-
+  Представьте: ваш гость после долгой дороги с чемоданами входит в квартиру. Что
+  он почувствует? Усталость или восторг? Именно этот первый момент решает, каким
+  бу
+pubDate: '2025-07-20T23:59:12.053Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Искусство гостеприимства: Как удивить гостей приветственным комплиментом'
+  description: >-
+    Представьте: ваш гость после долгой дороги с чемоданами входит в квартиру.
+    Что он почувствует? Усталость или восторг? Именно этот первый момент решает,
+    каким бу
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.8'
+    reviewCount: 455
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/privetstvennye-komplimenty-dlya-gostey/
 ---
 
 # Приветственные комплименты для гостей: Полный гайд от ButlerSPB, как получать восторженные отзывы и 5 звезд

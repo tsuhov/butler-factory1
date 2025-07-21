@@ -1,10 +1,44 @@
 ---
-title: ">-"
-description: ">-"
-pubDate: "2025-07-20T18:44:45.964Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":">-","description":">-","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":368,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/bystroe-reagirovanie-na-zhaloby/"}}
+title: >-
+  Как превратить жалобу гостя в 5-звездочный отзыв: Стратегия быстрого
+  реагирования от ButlerSPB
+description: >-
+  Звонок в 11 вечера от гостя: «У нас не работает Wi-Fi, а у мужа завтра важная
+  онлайн-встреча!» Знакомая ситуация? В конкурентном мире посуточной аренды
+  Санкт-Пе
+pubDate: '2025-07-20T18:44:45.964Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: >-
+    Как превратить жалобу гостя в 5-звездочный отзыв: Стратегия быстрого
+    реагирования от ButlerSPB
+  description: >-
+    Звонок в 11 вечера от гостя: «У нас не работает Wi-Fi, а у мужа завтра
+    важная онлайн-встреча!» Знакомая ситуация? В конкурентном мире посуточной
+    аренды Санкт-Пе
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.8'
+    reviewCount: 413
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': 'https://butlerspb-blog.netlify.app/blog/bystroe-reagirovanie-na-zhaloby/'
 ---
 
 # Как превратить жалобу гостя в 5-звездочный отзыв: Стратегия быстрого реагирования от ButlerSPB

@@ -1,10 +1,41 @@
 ---
-title: "Сезонность в посуточной аренде в СПБ: как заработать в несезон"
-description: ">-"
-pubDate: "2025-07-18T18:19:15.399Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Сезонность в посуточной аренде в СПБ: как заработать в несезон","description":">-","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.8","reviewCount":491,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/sezonnost-v-posutochnoy-arende-v-spb-kak-zarabotat-v-nesezon/"}}
+title: 'Сезонность в посуточной аренде в СПБ: как заработать в несезон'
+description: >-
+  Белые ночи и летние фестивали сменяются промозглым ноябрем, и телефон, еще
+  вчера разрывавшийся от запросов на бронирование, предательски молчит. Знакомо?
+  Для ка
+pubDate: '2025-07-18T18:19:15.399Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Сезонность в посуточной аренде в СПБ: как заработать в несезон'
+  description: >-
+    Белые ночи и летние фестивали сменяются промозглым ноябрем, и телефон, еще
+    вчера разрывавшийся от запросов на бронирование, предательски молчит.
+    Знакомо? Для ка
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '5.0'
+    reviewCount: 836
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/sezonnost-v-posutochnoy-arende-v-spb-kak-zarabotat-v-nesezon/
 ---
 
 # Сезонность в посуточной аренде в СПб: как заполнить календарь и заработать в низкий сезон

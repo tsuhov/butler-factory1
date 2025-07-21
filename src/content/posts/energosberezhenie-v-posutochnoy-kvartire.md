@@ -1,10 +1,45 @@
 ---
-title: ">-"
-description: ">-"
-pubDate: "2025-07-19T13:33:54.196Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":">-","description":">-","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":780,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/energosberezhenie-v-posutochnoy-kvartire/"}}
+title: >-
+  Энергосбережение в посуточной квартире: как снизить расходы на 30% и повысить
+  привлекательность жилья
+description: >-
+  Рост коммунальных тарифов — головная боль для любого владельца недвижимости,
+  но в посуточном бизнесе он бьет по карману особенно сильно. Каждый месяц вы
+  видите,
+pubDate: '2025-07-19T13:33:54.196Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: >-
+    Энергосбережение в посуточной квартире: как снизить расходы на 30% и
+    повысить привлекательность жилья
+  description: >-
+    Рост коммунальных тарифов — головная боль для любого владельца недвижимости,
+    но в посуточном бизнесе он бьет по карману особенно сильно. Каждый месяц вы
+    видите,
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.9'
+    reviewCount: 691
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/energosberezhenie-v-posutochnoy-kvartire/
 ---
 
 # Энергосбережение в посуточной квартире: как снизить расходы на 30% и повысить привлекательность жилья

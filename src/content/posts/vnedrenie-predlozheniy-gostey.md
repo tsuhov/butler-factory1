@@ -1,10 +1,40 @@
 ---
-title: "Ваши идеи — наши улучшения: как ButlerSPB внедряет предложения гостей"
-description: ">-"
-pubDate: "2025-07-21T00:23:45.485Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Ваши идеи — наши улучшения: как ButlerSPB внедряет предложения гостей","description":">-","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"5.0","reviewCount":887,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/vnedrenie-predlozheniy-gostey/"}}
+title: 'Ваши идеи — наши улучшения: как ButlerSPB внедряет предложения гостей'
+description: >-
+  Ваш гость уехал, оставив отзыв 8/10. Все хорошо, но до заветной «десятки»
+  чего-то не хватило. В комментарии он вскользь упомянул, что `не хватало
+  штопора` или `
+pubDate: '2025-07-21T00:23:45.485Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Ваши идеи — наши улучшения: как ButlerSPB внедряет предложения гостей'
+  description: >-
+    Ваш гость уехал, оставив отзыв 8/10. Все хорошо, но до заветной «десятки»
+    чего-то не хватило. В комментарии он вскользь упомянул, что `не хватало
+    штопора` или `
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.8'
+    reviewCount: 820
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': 'https://butlerspb-blog.netlify.app/blog/vnedrenie-predlozheniy-gostey/'
 ---
 
 # Как предложения гостей увеличивают доход от посуточной аренды: пошаговое руководство для собственников в СПб

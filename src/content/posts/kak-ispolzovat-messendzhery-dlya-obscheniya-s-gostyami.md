@@ -1,10 +1,41 @@
 ---
-title: "Как использовать мессенджеры для общения с гостями: полное руководство"
-description: ">-"
-pubDate: "2025-07-20T00:33:17.987Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Как использовать мессенджеры для общения с гостями: полное руководство","description":">-","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":803,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/kak-ispolzovat-messendzhery-dlya-obscheniya-s-gostyami/"}}
+title: 'Как использовать мессенджеры для общения с гостями: полное руководство'
+description: >-
+  Гости все реже звонят по телефону и все чаще предпочитают привычное текстовое
+  общение. Для современного отеля или апартаментов игнорировать этот тренд —
+  значит 
+pubDate: '2025-07-20T00:33:17.987Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Как использовать мессенджеры для общения с гостями: полное руководство'
+  description: >-
+    Гости все реже звонят по телефону и все чаще предпочитают привычное
+    текстовое общение. Для современного отеля или апартаментов игнорировать этот
+    тренд — значит 
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '5.0'
+    reviewCount: 775
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/kak-ispolzovat-messendzhery-dlya-obscheniya-s-gostyami/
 ---
 
 # Как использовать мессенджеры для общения с гостями: Полное руководство по повышению сервиса и лояльности

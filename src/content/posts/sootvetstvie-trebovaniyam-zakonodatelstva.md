@@ -1,10 +1,45 @@
 ---
-title: ">-"
-description: ">-"
-pubDate: "2025-07-20T23:08:44.885Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":">-","description":">-","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.7","reviewCount":551,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/sootvetstvie-trebovaniyam-zakonodatelstva/"}}
+title: >-
+  Новый закон о посуточной аренде: как сдавать квартиру в Петербурге легально и
+  без головной боли
+description: >-
+  Недавние изменения в Жилищном кодексе, широко известные как «закон Хованской»,
+  вызвали серьезное беспокойство и неразбериху среди собственников, сдающих
+  жилье п
+pubDate: '2025-07-20T23:08:44.885Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: >-
+    Новый закон о посуточной аренде: как сдавать квартиру в Петербурге легально
+    и без головной боли
+  description: >-
+    Недавние изменения в Жилищном кодексе, широко известные как «закон
+    Хованской», вызвали серьезное беспокойство и неразбериху среди
+    собственников, сдающих жилье п
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.7'
+    reviewCount: 780
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/sootvetstvie-trebovaniyam-zakonodatelstva/
 ---
 
 # Новый закон о посуточной аренде: как сдавать квартиру в Петербурге легально и без головной боли

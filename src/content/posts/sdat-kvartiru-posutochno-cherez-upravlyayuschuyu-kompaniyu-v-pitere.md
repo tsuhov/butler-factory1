@@ -1,10 +1,45 @@
 ---
-title: ">-"
-description: ">-"
-pubDate: "2025-07-21T16:42:53.252Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":">-","description":">-","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"5.0","reviewCount":754,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/sdat-kvartiru-posutochno-cherez-upravlyayuschuyu-kompaniyu-v-pitere/"}}
+title: >-
+  Сдать квартиру посуточно через управляющую компанию в СПб: полный гид по
+  доходности и процессу от ButlerSPB
+description: >-
+  Владение квартирой в Санкт-Петербурге — это ценный актив. Но как превратить
+  его в стабильный источник дохода без головной боли, круглосуточных звонков и
+  риска н
+pubDate: '2025-07-21T16:42:53.252Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: >-
+    Сдать квартиру посуточно через управляющую компанию в СПб: полный гид по
+    доходности и процессу от ButlerSPB
+  description: >-
+    Владение квартирой в Санкт-Петербурге — это ценный актив. Но как превратить
+    его в стабильный источник дохода без головной боли, круглосуточных звонков и
+    риска н
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '5.0'
+    reviewCount: 740
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/sdat-kvartiru-posutochno-cherez-upravlyayuschuyu-kompaniyu-v-pitere/
 ---
 
 # Сдать квартиру посуточно через управляющую компанию в СПб: полный гид по доходности и процессу от ButlerSPB

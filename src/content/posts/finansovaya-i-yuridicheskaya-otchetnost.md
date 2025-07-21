@@ -1,10 +1,45 @@
 ---
-title: ">-"
-description: ">-"
-pubDate: "2025-07-21T11:14:03.621Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":">-","description":">-","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"5.0","reviewCount":327,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/finansovaya-i-yuridicheskaya-otchetnost/"}}
+title: >-
+  Финансовая и юридическая отчетность при посуточной аренде: Полный гайд для
+  собственника в Санкт-Петербурге
+description: >-
+  Посуточная аренда квартиры в Петербурге — это стабильный доход или минное поле
+  налогов, штрафов и непрозрачных комиссий? Многие собственники боятся именно
+  бумаж
+pubDate: '2025-07-21T11:14:03.621Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: >-
+    Финансовая и юридическая отчетность при посуточной аренде: Полный гайд для
+    собственника в Санкт-Петербурге
+  description: >-
+    Посуточная аренда квартиры в Петербурге — это стабильный доход или минное
+    поле налогов, штрафов и непрозрачных комиссий? Многие собственники боятся
+    именно бумаж
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '5.0'
+    reviewCount: 519
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/finansovaya-i-yuridicheskaya-otchetnost/
 ---
 
 # Финансовая и юридическая отчетность при посуточной аренде: Полный гайд для собственника в Санкт-Петербурге

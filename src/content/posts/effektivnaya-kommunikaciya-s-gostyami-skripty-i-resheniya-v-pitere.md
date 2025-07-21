@@ -1,10 +1,41 @@
 ---
-title: "Эффективная коммуникация с гостями: скрипты и решения в Питере"
-description: ">-"
-pubDate: "2025-07-18T18:12:55.851Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Эффективная коммуникация с гостями: скрипты и решения в Питере","description":">-","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":525,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/effektivnaya-kommunikaciya-s-gostyami-skripty-i-resheniya-v-pitere/"}}
+title: 'Эффективная коммуникация с гостями: скрипты и решения в Питере'
+description: >-
+  Высокая конкуренция на гостиничном рынке Петербурга требует не просто
+  комфортных номеров, а безупречного сервиса. Ключ к нему — выстроенная
+  коммуникация с госте
+pubDate: '2025-07-18T18:12:55.851Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Эффективная коммуникация с гостями: скрипты и решения в Питере'
+  description: >-
+    Высокая конкуренция на гостиничном рынке Петербурга требует не просто
+    комфортных номеров, а безупречного сервиса. Ключ к нему — выстроенная
+    коммуникация с госте
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.8'
+    reviewCount: 412
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/effektivnaya-kommunikaciya-s-gostyami-skripty-i-resheniya-v-pitere/
 ---
 
 # Эффективная коммуникация с гостями: скрипты и решения для отелей Санкт-Петербурга

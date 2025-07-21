@@ -1,10 +1,41 @@
 ---
-title: "Как выгодно сдать квартиру посуточно у Московского вокзала"
-description: ">-"
-pubDate: "2025-07-18T16:24:04.666Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Как выгодно сдать квартиру посуточно у Московского вокзала","description":">-","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.8","reviewCount":895,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/sdat-kvartiru-posutochno-u-moskovskogo-vokzala/"}}
+title: Как выгодно сдать квартиру посуточно у Московского вокзала
+description: >-
+  Расположение у Московского вокзала — это не просто удобная геолокация, а
+  эпицентр туристического и делового потока Санкт-Петербурга. Ежедневно сюда
+  прибывают ты
+pubDate: '2025-07-18T16:24:04.666Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: Как выгодно сдать квартиру посуточно у Московского вокзала
+  description: >-
+    Расположение у Московского вокзала — это не просто удобная геолокация, а
+    эпицентр туристического и делового потока Санкт-Петербурга. Ежедневно сюда
+    прибывают ты
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.7'
+    reviewCount: 681
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/sdat-kvartiru-posutochno-u-moskovskogo-vokzala/
 ---
 
 # **Как выгодно сдать квартиру посуточно у Московского вокзала: Полное руководство для собственника в 2024 году**

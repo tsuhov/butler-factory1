@@ -1,10 +1,41 @@
 ---
-title: "Как мы работаем с отзывами и повышаем рейтинг объектов"
-description: ">-"
-pubDate: "2025-07-20T12:13:54.063Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Как мы работаем с отзывами и повышаем рейтинг объектов","description":">-","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"5.0","reviewCount":553,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/kak-my-rabotaem-s-otzyvami-i-povyshaem-reyting-obektov/"}}
+title: Как мы работаем с отзывами и повышаем рейтинг объектов
+description: >-
+  Высокий рейтинг на картах — это не просто «приятный бонус». Это прямой канал
+  продаж. Исследования показывают, что компания с рейтингом 4.8 на Яндекс Картах
+  полу
+pubDate: '2025-07-20T12:13:54.063Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: Как мы работаем с отзывами и повышаем рейтинг объектов
+  description: >-
+    Высокий рейтинг на картах — это не просто «приятный бонус». Это прямой канал
+    продаж. Исследования показывают, что компания с рейтингом 4.8 на Яндекс
+    Картах полу
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '5.0'
+    reviewCount: 659
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/kak-my-rabotaem-s-otzyvami-i-povyshaem-reyting-obektov/
 ---
 
 # **Как мы работаем с отзывами и повышаем рейтинг компании на картах: полная методология**

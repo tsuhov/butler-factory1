@@ -1,10 +1,43 @@
 ---
-title: "Как правильно фотографировать квартиру для сдачи в Питере: полное руководство"
-description: ">-"
-pubDate: "2025-07-18T15:11:05.449Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Как правильно фотографировать квартиру для сдачи в Питере: полное руководство","description":">-","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.8","reviewCount":382,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/kak-pravilno-fotografirovat-kvartiru-dlya-sdachi-v-pitere/"}}
+title: 'Как правильно фотографировать квартиру для сдачи в Питере: полное руководство'
+description: >-
+  Плохие, темные и неряшливые фотографии — главная причина, почему ваше
+  объявление о сдаче квартиры теряется среди сотен других. Потенциальный
+  арендатор тратит на
+pubDate: '2025-07-18T15:11:05.449Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: >-
+    Как правильно фотографировать квартиру для сдачи в Питере: полное
+    руководство
+  description: >-
+    Плохие, темные и неряшливые фотографии — главная причина, почему ваше
+    объявление о сдаче квартиры теряется среди сотен других. Потенциальный
+    арендатор тратит на
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '5.0'
+    reviewCount: 356
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/kak-pravilno-fotografirovat-kvartiru-dlya-sdachi-v-pitere/
 ---
 
 # **Как правильно сфотографировать квартиру для сдачи в Питере: полное руководство для собственника**

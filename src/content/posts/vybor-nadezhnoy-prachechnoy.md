@@ -1,10 +1,40 @@
 ---
-title: "Как выбрать надежную прачечную: советы от экспертов ButlerSPB"
-description: ">-"
-pubDate: "2025-07-20T18:34:22.253Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Как выбрать надежную прачечную: советы от экспертов ButlerSPB","description":">-","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"5.0","reviewCount":330,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/vybor-nadezhnoy-prachechnoy/"}}
+title: 'Как выбрать надежную прачечную: советы от экспертов ButlerSPB'
+description: >-
+  Вы наслаждаетесь прогулками по Невскому проспекту, посещаете Эрмитаж, но в
+  середине поездки замечаете, что чистая одежда подходит к концу. Знакомая
+  ситуация? По
+pubDate: '2025-07-20T18:34:22.253Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Как выбрать надежную прачечную: советы от экспертов ButlerSPB'
+  description: >-
+    Вы наслаждаетесь прогулками по Невскому проспекту, посещаете Эрмитаж, но в
+    середине поездки замечаете, что чистая одежда подходит к концу. Знакомая
+    ситуация? По
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.9'
+    reviewCount: 862
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': 'https://butlerspb-blog.netlify.app/blog/vybor-nadezhnoy-prachechnoy/'
 ---
 
 # Стирка без забот: Ваш экспертный гид по выбору прачечной в Петербурге от ButlerSPB

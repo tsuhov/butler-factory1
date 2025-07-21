@@ -1,10 +1,41 @@
 ---
-title: "Автоматизация заселения: электронные замки и инструкции в Питере"
-description: ">-"
-pubDate: "2025-07-18T14:46:24.475Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Автоматизация заселения: электронные замки и инструкции в Питере","description":">-","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.7","reviewCount":718,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/avtomatizaciya-zaseleniya-elektronnye-zamki-i-instrukcii-v-pitere/"}}
+title: 'Автоматизация заселения: электронные замки и инструкции в Питере'
+description: >-
+  Постоянные звонки от гостей, застрявших в пробках на пути из Пулково, ночные
+  заселения после развода мостов и необходимость лично передавать ключи от
+  квартиры н
+pubDate: '2025-07-18T14:46:24.475Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Автоматизация заселения: электронные замки и инструкции в Питере'
+  description: >-
+    Постоянные звонки от гостей, застрявших в пробках на пути из Пулково, ночные
+    заселения после развода мостов и необходимость лично передавать ключи от
+    квартиры н
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.9'
+    reviewCount: 765
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/avtomatizaciya-zaseleniya-elektronnye-zamki-i-instrukcii-v-pitere/
 ---
 
 # Автоматизация заселения в Питере: Полное руководство по электронным замкам и инструкциям для гостей

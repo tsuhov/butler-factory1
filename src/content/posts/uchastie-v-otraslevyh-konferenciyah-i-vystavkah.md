@@ -1,10 +1,45 @@
 ---
-title: ">-"
-description: ">-"
-pubDate: "2025-07-20T22:44:20.981Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":">-","description":">-","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":390,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/uchastie-v-otraslevyh-konferenciyah-i-vystavkah/"}}
+title: >-
+  Не просто управляем, а развиваем: Зачем команда ButlerSPB посещает главные
+  отраслевые конференции и выставки
+description: >-
+  Как понять, что ваша управляющая компания использует самые современные методы
+  для получения максимального дохода, а не работает по старинке? Ответ прост: по
+  ее 
+pubDate: '2025-07-20T22:44:20.981Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: >-
+    Не просто управляем, а развиваем: Зачем команда ButlerSPB посещает главные
+    отраслевые конференции и выставки
+  description: >-
+    Как понять, что ваша управляющая компания использует самые современные
+    методы для получения максимального дохода, а не работает по старинке? Ответ
+    прост: по ее 
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.8'
+    reviewCount: 571
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/uchastie-v-otraslevyh-konferenciyah-i-vystavkah/
 ---
 
 # Не просто управляем, а развиваем: Зачем команда ButlerSPB посещает главные отраслевые конференции и выставки

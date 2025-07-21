@@ -1,10 +1,45 @@
 ---
-title: ">-"
-description: ">-"
-pubDate: "2025-07-19T09:38:08.966Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":">-","description":">-","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.7","reviewCount":405,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/snizhenie-kommunalnyh-rashodov-pri-posutochnoy-arende-v-pitere/"}}
+title: >-
+  Как снизить коммунальные платежи в посуточной квартире: экспертное руководство
+  для арендодателей в Санкт-Петербурге
+description: >-
+  Посуточная аренда в Санкт-Петербурге — прибыльный бизнес, но неконтролируемые
+  коммунальные расходы могут "съедать" значительную часть дохода. Особенно остро
+  эта
+pubDate: '2025-07-19T09:38:08.966Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: >-
+    Как снизить коммунальные платежи в посуточной квартире: экспертное
+    руководство для арендодателей в Санкт-Петербурге
+  description: >-
+    Посуточная аренда в Санкт-Петербурге — прибыльный бизнес, но
+    неконтролируемые коммунальные расходы могут "съедать" значительную часть
+    дохода. Особенно остро эта
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.9'
+    reviewCount: 477
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/snizhenie-kommunalnyh-rashodov-pri-posutochnoy-arende-v-pitere/
 ---
 
 # Как снизить коммунальные платежи в посуточной квартире: экспертное руководство для арендодателей в Санкт-Петербурге

@@ -1,10 +1,40 @@
 ---
-title: "Регулярные созвоны и консультации: ключ к успешному проекту"
-description: ">-"
-pubDate: "2025-07-21T10:30:44.159Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Регулярные созвоны и консультации: ключ к успешному проекту","description":">-","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":813,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/regulyarnye-sozvony-i-konsultacii/"}}
+title: 'Регулярные созвоны и консультации: ключ к успешному проекту'
+description: >-
+  Хотите быть в курсе доходности, состояния и стратегии вашей квартиры в
+  посуточной аренде? Узнайте, как регулярные созвоны и прозрачная отчетность от
+  ButlerSPB в
+pubDate: '2025-07-21T10:30:44.159Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Регулярные созвоны и консультации: ключ к успешному проекту'
+  description: >-
+    Хотите быть в курсе доходности, состояния и стратегии вашей квартиры в
+    посуточной аренде? Узнайте, как регулярные созвоны и прозрачная отчетность
+    от ButlerSPB в
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.7'
+    reviewCount: 300
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': 'https://butlerspb-blog.netlify.app/blog/regulyarnye-sozvony-i-konsultacii/'
 ---
 
 # Контроль и доходность: Почему регулярные созвоны с управляющей компанией — ваш ключ к успеху в посуточной аренде

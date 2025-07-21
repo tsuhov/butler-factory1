@@ -1,10 +1,45 @@
 ---
-title: ">-"
-description: ">-"
-pubDate: "2025-07-18T18:03:08.383Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":">-","description":">-","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"5.0","reviewCount":866,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/konserzh-servis-dlya-apartamentov-v-spb/"}}
+title: >-
+  Профессиональный консьерж-сервис для апартаментов в Санкт-Петербурге: полный
+  гид
+description: >-
+  Жизнь в Санкт-Петербурге — это динамичный ритм культурной столицы, где каждая
+  минута на счету. Современные жилые комплексы и апартаменты премиум-класса
+  предлага
+pubDate: '2025-07-18T18:03:08.383Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: >-
+    Профессиональный консьерж-сервис для апартаментов в Санкт-Петербурге: полный
+    гид
+  description: >-
+    Жизнь в Санкт-Петербурге — это динамичный ритм культурной столицы, где
+    каждая минута на счету. Современные жилые комплексы и апартаменты
+    премиум-класса предлага
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.7'
+    reviewCount: 881
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/konserzh-servis-dlya-apartamentov-v-spb/
 ---
 
 # Профессиональный консьерж-сервис для апартаментов в Санкт-Петербурге: полный гид

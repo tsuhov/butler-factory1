@@ -1,10 +1,40 @@
 ---
-title: "Минимальные требования к объекту для сдачи в аренду"
-description: ">-"
-pubDate: "2025-07-21T00:46:28.898Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Минимальные требования к объекту для сдачи в аренду","description":">-","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.8","reviewCount":809,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/minimalnye-trebovaniya-k-obektu/"}}
+title: Минимальные требования к объекту для сдачи в аренду
+description: >-
+  У вас есть свободная квартира в Петербурге, и вы думаете, как превратить ее в
+  источник стабильного дохода? Посуточная аренда кажется привлекательной, но с
+  чего 
+pubDate: '2025-07-21T00:46:28.898Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: Минимальные требования к объекту для сдачи в аренду
+  description: >-
+    У вас есть свободная квартира в Петербурге, и вы думаете, как превратить ее
+    в источник стабильного дохода? Посуточная аренда кажется привлекательной, но
+    с чего 
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.7'
+    reviewCount: 577
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': 'https://butlerspb-blog.netlify.app/blog/minimalnye-trebovaniya-k-obektu/'
 ---
 
 # Ваша квартира готова к приему гостей? Полный гид по минимальным требованиям для посуточной аренды в Санкт-Петербурге

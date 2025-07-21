@@ -1,10 +1,41 @@
 ---
-title: "Динамическое ценообразование в посуточной аренде: инструкция для Петербурга"
-description: ">-"
-pubDate: "2025-07-18T15:15:08.426Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Динамическое ценообразование в посуточной аренде: инструкция для Петербурга","description":">-","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.7","reviewCount":375,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/dinamicheskoe-cenoobrazovanie-v-posutochnoy-arende-instrukciya-dlya-peterburga/"}}
+title: 'Динамическое ценообразование в посуточной аренде: инструкция для Петербурга'
+description: >-
+  Ваша квартира в центре пустует в дождливый ноябрьский вторник, а на Белые ночи
+  разрывается от запросов? Проблема не в квартире, а в застывшей цене. В городе,
+  гд
+pubDate: '2025-07-18T15:15:08.426Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Динамическое ценообразование в посуточной аренде: инструкция для Петербурга'
+  description: >-
+    Ваша квартира в центре пустует в дождливый ноябрьский вторник, а на Белые
+    ночи разрывается от запросов? Проблема не в квартире, а в застывшей цене. В
+    городе, гд
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '5.0'
+    reviewCount: 612
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/dinamicheskoe-cenoobrazovanie-v-posutochnoy-arende-instrukciya-dlya-peterburga/
 ---
 
 # Динамическое ценообразование в посуточной аренде: Полная инструкция для владельцев квартир в Санкт-Петербурге

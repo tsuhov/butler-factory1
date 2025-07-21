@@ -1,10 +1,41 @@
 ---
-title: "Как правильно составить опись имущества для договора аренды"
-description: ">-"
-pubDate: "2025-07-19T13:45:43.452Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Как правильно составить опись имущества для договора аренды","description":">-","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":541,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/kak-pravilno-sostavit-opis-imuschestva-dlya-dogovora-arendy/"}}
+title: Как правильно составить опись имущества для договора аренды
+description: >-
+  Сдача или съем квартиры — это всегда ответственный шаг, связанный с
+  финансовыми рисками для обеих сторон. Один из самых эффективных инструментов
+  для минимизации
+pubDate: '2025-07-19T13:45:43.452Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: Как правильно составить опись имущества для договора аренды
+  description: >-
+    Сдача или съем квартиры — это всегда ответственный шаг, связанный с
+    финансовыми рисками для обеих сторон. Один из самых эффективных инструментов
+    для минимизации
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '5.0'
+    reviewCount: 697
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/kak-pravilno-sostavit-opis-imuschestva-dlya-dogovora-arendy/
 ---
 
 # Как правильно составить опись имущества для договора аренды: полное руководство для арендатора и арендодателя

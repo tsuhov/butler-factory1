@@ -1,10 +1,45 @@
 ---
-title: ">-"
-description: ">-"
-pubDate: "2025-07-20T19:03:49.423Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":">-","description":">-","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.8","reviewCount":726,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/partnerstvo-s-organizatorami-meropriyatiy/"}}
+title: >-
+  Партнерство для организаторов мероприятий в СПб: Разместите гостей с комфортом
+  и заработайте вместе с ButlerSPB
+description: >-
+  Организация мероприятия в Санкт-Петербурге – это сотни задач. Одна из самых
+  сложных и ответственных — комфортное размещение участников. Ограниченный
+  номерной фо
+pubDate: '2025-07-20T19:03:49.423Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: >-
+    Партнерство для организаторов мероприятий в СПб: Разместите гостей с
+    комфортом и заработайте вместе с ButlerSPB
+  description: >-
+    Организация мероприятия в Санкт-Петербурге – это сотни задач. Одна из самых
+    сложных и ответственных — комфортное размещение участников. Ограниченный
+    номерной фо
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.8'
+    reviewCount: 462
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/partnerstvo-s-organizatorami-meropriyatiy/
 ---
 
 # Партнерство для организаторов мероприятий в СПб: Разместите гостей с комфортом и заработайте вместе с ButlerSPB

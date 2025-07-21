@@ -1,10 +1,41 @@
 ---
-title: "Работа с иностранными гостями в Санкт-Петербурге: особенности и правила"
-description: ">-"
-pubDate: "2025-07-18T18:23:14.259Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Работа с иностранными гостями в Санкт-Петербурге: особенности и правила","description":">-","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":430,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/rabota-s-inostrannymi-gostyami-v-sankt-peterburge-osobennosti-i-pravila/"}}
+title: 'Работа с иностранными гостями в Санкт-Петербурге: особенности и правила'
+description: >-
+  Санкт-Петербург по праву носит звание культурной столицы России и мировой
+  туристической жемчужины. Ежегодно сюда стремятся сотни тысяч путешественников
+  со всего
+pubDate: '2025-07-18T18:23:14.259Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Работа с иностранными гостями в Санкт-Петербурге: особенности и правила'
+  description: >-
+    Санкт-Петербург по праву носит звание культурной столицы России и мировой
+    туристической жемчужины. Ежегодно сюда стремятся сотни тысяч
+    путешественников со всего
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.9'
+    reviewCount: 824
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/rabota-s-inostrannymi-gostyami-v-sankt-peterburge-osobennosti-i-pravila/
 ---
 
 # Работа с иностранными гостями в Санкт-Петербурге: полное руководство для отелей, ресторанов и гидов

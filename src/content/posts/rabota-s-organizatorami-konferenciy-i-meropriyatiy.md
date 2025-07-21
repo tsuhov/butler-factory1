@@ -1,10 +1,41 @@
 ---
-title: "Как эффективно работать с организаторами конференций и мероприятий"
-description: ">-"
-pubDate: "2025-07-20T11:00:31.015Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Как эффективно работать с организаторами конференций и мероприятий","description":">-","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.8","reviewCount":788,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/rabota-s-organizatorami-konferenciy-i-meropriyatiy/"}}
+title: Как эффективно работать с организаторами конференций и мероприятий
+description: >-
+  Участие в профильных конференциях и мероприятиях — мощный инструмент для роста
+  бизнеса. Это прямые контакты с целевой аудиторией, новые лиды, укрепление
+  бренда 
+pubDate: '2025-07-20T11:00:31.015Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: Как эффективно работать с организаторами конференций и мероприятий
+  description: >-
+    Участие в профильных конференциях и мероприятиях — мощный инструмент для
+    роста бизнеса. Это прямые контакты с целевой аудиторией, новые лиды,
+    укрепление бренда 
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '5.0'
+    reviewCount: 872
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/rabota-s-organizatorami-konferenciy-i-meropriyatiy/
 ---
 
 # Работа с организаторами конференций: полное руководство по сотрудничеству от А до Я
