@@ -82,7 +82,10 @@ jobs:
           echo "--- ЭСКАДРОН #${{ matrix.thread }}: Начинаю генерацию ---"
           
           git pull --rebase
-          npm run fix
+          
+          # --- ВОТ КЛЮЧЕВОЕ ИСПРАВЛЕНИЕ ---
+          # Возвращаем в штатный режим производства
+          npm run factory
           
           if [[ -z $(git status --porcelain) ]]; then
             echo "✅ ЭСКАДРОН #${{ matrix.thread }}: Новых статей для этого потока не найдено. Миссия завершена."
@@ -101,13 +104,11 @@ jobs:
           
           NEW_FILES=$(git diff --name-only $commit_before $commit_after -- 'src/content/posts/*.md')
           
-          # --- НОВАЯ, ЖЕЛЕЗОБЕТОННАЯ ЛОГИКА INDEXNOW ---
           if [[ -n "$NEW_FILES" ]]; then
             echo "📢 ЭСКАДРОН #${{ matrix.thread }}: Подготовка уведомления для IndexNow..."
             API_KEY="d1b055ab1eb146d892169bbb2c96550e"
             HOST="butlerspb-blog.netlify.app"
 
-            # Создаем JSON-массив URL напрямую
             URL_JSON_ARRAY=$(for file in $NEW_FILES; do slug=$(basename "$file" .md); echo "https://butlerspb-blog.netlify.app/blog/${slug}/"; done | jq -R . | jq -s .)
 
             JSON_PAYLOAD=$(jq -n \
@@ -116,7 +117,6 @@ jobs:
                             --argjson urls "$URL_JSON_ARRAY" \
                             '{host: $host, key: $key, urlList: $urls}')
             
-            # --- ДИАГНОСТИКА ---
             echo "--- Диагностика пакета для IndexNow (Эскадрон №${{ matrix.thread }}) ---"
             echo "$JSON_PAYLOAD"
             echo "--- Конец диагностики ---"
