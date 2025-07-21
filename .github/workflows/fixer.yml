@@ -24,10 +24,9 @@ jobs:
         run: npm install
 
       - name: 🔧 Run the Fixer Script
-        # Важно: запускаем команду fix, которая вызывает fixer.js
         run: npm run fix
 
-      - name: 🚀 Commit and Push Fixes
+      - name: 🚀 Commit and Push Repaired Files
         run: |
           git config --global user.name 'GitHub Actions Bot'
           git config --global user.email 'actions-bot@github.com'
@@ -40,5 +39,4 @@ jobs:
           echo "🔥 Обнаружены и отремонтированы файлы. Публикую исправления..."
           git add .
           git commit -m "🩺 Автоматический хирургический ремонт существующих статей"
-          git pull --rebase
-          git push```
+          git push
