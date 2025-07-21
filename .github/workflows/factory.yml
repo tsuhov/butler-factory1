@@ -1,4 +1,4 @@
-name: 🚀 Content Factory (Final Diagnostics)
+name: 🚀 Content Factory (Surgical Precision v2.0)
 
 on:
   workflow_dispatch:
@@ -62,7 +62,6 @@ jobs:
         id: set_key
         run: |
           API_KEYS="${{ secrets.GEMINI_API_KEYS_POOL }}"
-          # Улучшенная, более надежная команда извлечения ключа
           CURRENT_KEY=$(echo "$API_KEYS" | sed -n '${{ matrix.thread }}p' | tr -d '\r')
           if [[ -z "$CURRENT_KEY" ]]; then
             echo "::error::Не удалось извлечь API-ключ для потока #${{ matrix.thread }}. Проверьте секрет GEMINI_API_KEYS_POOL."
@@ -102,30 +101,26 @@ jobs:
           
           NEW_FILES=$(git diff --name-only $commit_before $commit_after -- 'src/content/posts/*.md')
           
-          URL_LIST=""
-          for file in $NEW_FILES; do
-            slug=$(basename $file .md)
-            url="https://butlerspb-blog.netlify.app/blog/${slug}/"
-            URL_LIST="${URL_LIST}${url}\n"
-          done
-
-          if [[ -n "$URL_LIST" ]]; then
+          # --- НОВАЯ, ЖЕЛЕЗОБЕТОННАЯ ЛОГИКА INDEXNOW ---
+          if [[ -n "$NEW_FILES" ]]; then
             echo "📢 ЭСКАДРОН #${{ matrix.thread }}: Подготовка уведомления для IndexNow..."
             API_KEY="d1b055ab1eb146d892169bbb2c96550e"
             HOST="butlerspb-blog.netlify.app"
-            
+
+            # Создаем JSON-массив URL напрямую
+            URL_JSON_ARRAY=$(for file in $NEW_FILES; do slug=$(basename "$file" .md); echo "https://butlerspb-blog.netlify.app/blog/${slug}/"; done | jq -R . | jq -s .)
+
             JSON_PAYLOAD=$(jq -n \
                             --arg host "$HOST" \
                             --arg key "$API_KEY" \
-                            --arg urls_string "$URL_LIST" \
-                            '{host: $host, key: $key, urlList: ($urls_string | split("\n") | map(select(length > 0)))}'
-                            )
-
-            # --- ВОЗВРАЩАЕМ ДИАГНОСТИЧЕСКИЙ БЛОК ---
+                            --argjson urls "$URL_JSON_ARRAY" \
+                            '{host: $host, key: $key, urlList: $urls}')
+            
+            # --- ДИАГНОСТИКА ---
             echo "--- Диагностика пакета для IndexNow (Эскадрон №${{ matrix.thread }}) ---"
             echo "$JSON_PAYLOAD"
             echo "--- Конец диагностики ---"
-
+            
             curl -X POST "https://yandex.com/indexnow" -H "Content-Type: application/json; charset=utf-8" -d "$JSON_PAYLOAD"
             curl -X POST "https://www.bing.com/indexnow" -H "Content-Type: application/json; charset=utf-8" -d "$JSON_PAYLOAD"
           fi
