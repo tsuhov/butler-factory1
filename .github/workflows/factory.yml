@@ -82,7 +82,7 @@ jobs:
           echo "--- ЭСКАДРОН #${{ matrix.thread }}: Начинаю генерацию ---"
           
           git pull --rebase
-          npm run factory
+          npm run fix
           
           if [[ -z $(git status --porcelain) ]]; then
             echo "✅ ЭСКАДРОН #${{ matrix.thread }}: Новых статей для этого потока не найдено. Миссия завершена."
