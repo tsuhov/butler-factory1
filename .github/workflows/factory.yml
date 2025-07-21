@@ -1,4 +1,4 @@
-name: 🚀 Content Factory (Unified Arsenal)
+name: 🚀 Content Factory (Iron Matrix)
 
 on:
   workflow_dispatch:
@@ -8,12 +8,37 @@ on:
         required: true
         default: '10'
       threads:
-        description: 'Сколько потоков запустить ОДНОВРЕМЕННО?'
+        description: 'Сколько потоков запустить ОДНОВРЕМЕННО (1-20)?'
         required: true
         default: '5'
 
 jobs:
+  # --- ЗАДАЧА №1: Определяем, сколько потоков нужно запустить ---
+  prepare:
+    runs-on: ubuntu-latest
+    outputs:
+      matrix: ${{ steps.set_matrix.outputs.matrix }}
+    steps:
+      - name: Create thread matrix
+        id: set_matrix
+        run: |
+          MAX_THREADS=20 # Максимальное количество ключей, которые мы можем использовать
+          REQUESTED_THREADS=${{ github.event.inputs.threads }}
+          
+          if (( REQUESTED_THREADS > MAX_THREADS )); then
+            echo "::warning::Запрошено больше потоков (${REQUESTED_THREADS}), чем доступно ключей (${MAX_THREADS}). Будет использовано ${MAX_THREADS}."
+            REQUESTED_THREADS=$MAX_THREADS
+          fi
+
+          # Создаем JSON-массив от 1 до N
+          MATRIX=$(jq -cn --argjson n "$REQUESTED_THREADS" '[range(1; $n + 1)]')
+          echo "matrix=$MATRIX" >> $GITHUB_OUTPUT
+
+  # --- ЗАДАЧА №2: Запускаем параллельные генераторы на основе созданной матрицы ---
   generate_and_publish:
+    # Эта задача зависит от успешного завершения предыдущей
+    needs: prepare
+    
     permissions:
       contents: write
       
@@ -21,8 +46,9 @@ jobs:
     
     strategy:
       fail-fast: false
+      # Используем матрицу, созданную на предыдущем шаге
       matrix:
-        thread: ${{ fromJson(format('[{0}]', range(1, github.event.inputs.threads + 1))) }}
+        thread: ${{ fromJson(needs.prepare.outputs.matrix) }}
 
     steps:
       - name: ⬇️ Checkout repo (Thread ${{ matrix.thread }})
@@ -42,8 +68,6 @@ jobs:
         id: set_key
         run: |
           API_KEYS="${{ secrets.GEMINI_API_KEYS_POOL }}"
-          KEY_INDEX=$((${{ matrix.thread }} - 1))
-          # Используем sed для извлечения нужной строки. awk - более надежный вариант
           CURRENT_KEY=$(echo "$API_KEYS" | awk "NR==${{ matrix.thread }}")
           if [[ -z "$CURRENT_KEY" ]]; then
             echo "::error::Не удалось извлечь API-ключ для потока #${{ matrix.thread }}. Проверьте секрет GEMINI_API_KEYS_POOL."
@@ -64,9 +88,6 @@ jobs:
           echo "--- ЭСКАДРОН #${{ matrix.thread }}: Начинаю генерацию ---"
           
           git pull --rebase
-
-          commit_before=$(git rev-parse HEAD)
-          
           npm run factory
           
           if [[ -z $(git status --porcelain) ]]; then
@@ -82,7 +103,11 @@ jobs:
           git push
           
           commit_after=$(git rev-parse HEAD)
-
+          
+          # Нам нужен commit_before, который был до первого pull
+          # Для простоты и надежности, мы возьмем просто предыдущий коммит
+          commit_before=$(git rev-parse HEAD~1)
+          
           NEW_FILES=$(git diff --name-only $commit_before $commit_after -- 'src/content/posts/*.md')
           
           URL_LIST=""
