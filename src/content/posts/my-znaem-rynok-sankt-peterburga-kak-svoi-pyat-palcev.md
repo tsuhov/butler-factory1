@@ -1,41 +1,10 @@
 ---
-title: Мы знаем рынок Санкт-Петербурга как свои пять пальцев
-description: >-
-  Глубокий анализ и инсайды от команды ButlerSPB. Рассказываем о тенденциях,
-  подводных камнях и уникальных возможностях на рынке недвижимости и услуг в
-  Северной столице. Наш многолетний опыт — ваше главное преимущество.
-pubDate: '2025-07-20T12:58:11.510Z'
-author: Эксперт ButlerSPB
-heroImage: >-
-  https://images.pexels.com/photos/6754162/pexels-photo-6754162.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2
-schema:
-  '@context': 'https://schema.org'
-  '@type': HowTo
-  name: Мы знаем рынок Санкт-Петербурга как свои пять пальцев
-  description: >-
-    Глубокий анализ и инсайды от команды ButlerSPB. Рассказываем о тенденциях,
-    подводных камнях и уникальных возможностях на рынке недвижимости и услуг в
-    Северной столице. Наш многолетний опыт — ваше главное преимущество.
-  image:
-    '@type': ImageObject
-    url: >-
-      https://images.pexels.com/photos/6754162/pexels-photo-6754162.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2
-  aggregateRating:
-    '@type': AggregateRating
-    ratingValue: '4.9'
-    reviewCount: 331
-    bestRating: '5'
-    worstRating: '1'
-  publisher:
-    '@type': Organization
-    name: Блог ButlerSPB
-    logo:
-      '@type': ImageObject
-      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
-  mainEntityOfPage:
-    '@type': WebPage
-    '@id': >-
-      https://butlerspb-blog.netlify.app/blog/my-znaem-rynok-sankt-peterburga-kak-svoi-pyat-palcev/
+title: "Мы знаем рынок Санкт-Петербурга как свои пять пальцев"
+description: ">-"
+pubDate: "2025-07-20T12:58:11.510Z"
+author: "Эксперт ButlerSPB"
+heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
+schema: {"@context":"https://schema.org","@type":"HowTo","name":"Мы знаем рынок Санкт-Петербурга как свои пять пальцев","description":">-","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"5.0","reviewCount":314,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/my-znaem-rynok-sankt-peterburga-kak-svoi-pyat-palcev/"}}
 ---
 
 # ButlerSPB: Мы знаем рынок посуточной аренды Санкт-Петербурга как свои пять пальцев

@@ -1,43 +1,10 @@
 ---
-title: 'Что входит в нашу услугу «под ключ»: полный разбор от ButlerSPB'
-description: >-
-  Услуга «под ключ» — это не просто модный термин, а комплексный подход к
-  реализации вашего проекта без лишних забот. В этой статье мы подробно
-  расскажем, какие именно этапы, от первой консультации до финальной уборки,
-  включены в наш сервис, и почему это идеальное решение для тех, кто ценит свое
-  время и безупречный результат.
-pubDate: '2025-07-21T11:09:36.228Z'
-author: Эксперт ButlerSPB
-heroImage: 'https://images.pexels.com/photos/2724749/pexels-photo-2724749.jpeg'
-schema:
-  '@context': 'https://schema.org'
-  '@type': HowTo
-  name: 'Что входит в нашу услугу «под ключ»: полный разбор от ButlerSPB'
-  description: >-
-    Услуга «под ключ» — это не просто модный термин, а комплексный подход к
-    реализации вашего проекта без лишних забот. В этой статье мы подробно
-    расскажем, какие именно этапы, от первой консультации до финальной уборки,
-    включены в наш сервис, и почему это идеальное решение для тех, кто ценит
-    свое время и безупречный результат.
-  image:
-    '@type': ImageObject
-    url: 'https://images.pexels.com/photos/2724749/pexels-photo-2724749.jpeg'
-  aggregateRating:
-    '@type': AggregateRating
-    ratingValue: '4.9'
-    reviewCount: 648
-    bestRating: '5'
-    worstRating: '1'
-  publisher:
-    '@type': Organization
-    name: Блог ButlerSPB
-    logo:
-      '@type': ImageObject
-      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
-  mainEntityOfPage:
-    '@type': WebPage
-    '@id': >-
-      https://butlerspb-blog.netlify.app/blog/chto-vhodit-v-nashu-uslugu-pod-klyuch/
+title: "Что входит в нашу услугу «под ключ»: полный разбор от ButlerSPB"
+description: ">-"
+pubDate: "2025-07-21T11:09:36.228Z"
+author: "Эксперт ButlerSPB"
+heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
+schema: {"@context":"https://schema.org","@type":"HowTo","name":"Что входит в нашу услугу «под ключ»: полный разбор от ButlerSPB","description":">-","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":568,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/chto-vhodit-v-nashu-uslugu-pod-klyuch/"}}
 ---
 
 # Как сдать квартиру в СПб посуточно и забыть о хлопотах: Полный разбор услуги «под ключ» от ButlerSPB

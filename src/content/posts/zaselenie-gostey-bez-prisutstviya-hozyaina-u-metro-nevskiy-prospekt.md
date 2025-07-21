@@ -1,49 +1,10 @@
 ---
-title: >-
-  Бесконтактное заселение у метро Невский проспект: удобство и безопасность для
-  гостей и хозяев
-description: >-
-  В самом сердце Санкт-Петербурга, у метро Невский проспект, аренда квартир
-  посуточно выходит на новый уровень комфорта. Узнайте, как современные
-  технологии, такие как умные замки и кейбоксы, позволяют организовать полностью
-  удаленное заселение гостей. Это решение не только экономит время хозяев и
-  гостей, но и повышает безопасность и гибкость прибытия, делая пребывание в
-  культурной столице еще более приятным.
-pubDate: '2025-07-19T09:50:00.252Z'
-author: Эксперт ButlerSPB
-heroImage: 'https://images.pexels.com/photos/7972412/pexels-photo-7972412.jpeg'
-schema:
-  '@context': 'https://schema.org'
-  '@type': HowTo
-  name: >-
-    Бесконтактное заселение у метро Невский проспект: удобство и безопасность
-    для гостей и хозяев
-  description: >-
-    В самом сердце Санкт-Петербурга, у метро Невский проспект, аренда квартир
-    посуточно выходит на новый уровень комфорта. Узнайте, как современные
-    технологии, такие как умные замки и кейбоксы, позволяют организовать
-    полностью удаленное заселение гостей. Это решение не только экономит время
-    хозяев и гостей, но и повышает безопасность и гибкость прибытия, делая
-    пребывание в культурной столице еще более приятным.
-  image:
-    '@type': ImageObject
-    url: 'https://images.pexels.com/photos/7972412/pexels-photo-7972412.jpeg'
-  aggregateRating:
-    '@type': AggregateRating
-    ratingValue: '4.8'
-    reviewCount: 534
-    bestRating: '5'
-    worstRating: '1'
-  publisher:
-    '@type': Organization
-    name: Блог ButlerSPB
-    logo:
-      '@type': ImageObject
-      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
-  mainEntityOfPage:
-    '@type': WebPage
-    '@id': >-
-      https://butlerspb-blog.netlify.app/blog/zaselenie-gostey-bez-prisutstviya-hozyaina-u-metro-nevskiy-prospekt/
+title: ">-"
+description: ">-"
+pubDate: "2025-07-19T09:50:00.252Z"
+author: "Эксперт ButlerSPB"
+heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
+schema: {"@context":"https://schema.org","@type":"HowTo","name":">-","description":">-","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":337,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/zaselenie-gostey-bez-prisutstviya-hozyaina-u-metro-nevskiy-prospekt/"}}
 ---
 
 # Бесконтактное заселение у метро Невский проспект: Свобода и комфорт в сердце Петербурга

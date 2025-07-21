@@ -1,45 +1,10 @@
 ---
-title: Максимизируем ваш доход от аренды
-description: >-
-  Откройте для себя проверенные стратегии и практические советы от экспертов
-  ButlerSPB, которые помогут вам увеличить прибыль от сдачи недвижимости в
-  аренду. Узнайте, как оптимизировать ценообразование, улучшить
-  привлекательность вашего объекта и минимизировать простои, чтобы каждый
-  квадратный метр работал на вас.
-pubDate: '2025-07-20T13:09:08.645Z'
-author: Эксперт ButlerSPB
-heroImage: >-
-  https://images.pexels.com/photos/276724/pexels-photo-276724.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2
-schema:
-  '@context': 'https://schema.org'
-  '@type': HowTo
-  name: Максимизируем ваш доход от аренды
-  description: >-
-    Откройте для себя проверенные стратегии и практические советы от экспертов
-    ButlerSPB, которые помогут вам увеличить прибыль от сдачи недвижимости в
-    аренду. Узнайте, как оптимизировать ценообразование, улучшить
-    привлекательность вашего объекта и минимизировать простои, чтобы каждый
-    квадратный метр работал на вас.
-  image:
-    '@type': ImageObject
-    url: >-
-      https://images.pexels.com/photos/276724/pexels-photo-276724.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2
-  aggregateRating:
-    '@type': AggregateRating
-    ratingValue: '4.9'
-    reviewCount: 354
-    bestRating: '5'
-    worstRating: '1'
-  publisher:
-    '@type': Organization
-    name: Блог ButlerSPB
-    logo:
-      '@type': ImageObject
-      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
-  mainEntityOfPage:
-    '@type': WebPage
-    '@id': >-
-      https://butlerspb-blog.netlify.app/blog/maksimiziruem-vash-dohod-ot-arendy/
+title: "Максимизируем ваш доход от аренды"
+description: ">-"
+pubDate: "2025-07-20T13:09:08.645Z"
+author: "Эксперт ButlerSPB"
+heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
+schema: {"@context":"https://schema.org","@type":"HowTo","name":"Максимизируем ваш доход от аренды","description":">-","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.7","reviewCount":820,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/maksimiziruem-vash-dohod-ot-arendy/"}}
 ---
 
 # Ваша квартира в Петербурге может приносить больше: Полный гайд по максимизации дохода от аренды

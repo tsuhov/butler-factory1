@@ -1,45 +1,10 @@
 ---
-title: >-
-  Динамическое ценообразование в посуточной аренде: инструкция для
-  Санкт-Петербурга
-description: >-
-  Как максимизировать доход от посуточной аренды в Санкт-Петербурге с помощью
-  динамического ценообразования. В этой инструкции мы разберем ключевые факторы,
-  влияющие на цену, популярные инструменты и дадим практические советы для
-  владельцев жилья.
-pubDate: '2025-07-18T15:13:06.118Z'
-author: Эксперт ButlerSPB
-heroImage: 'https://images.pexels.com/photos/5430858/pexels-photo-5430858.jpeg'
-schema:
-  '@context': 'https://schema.org'
-  '@type': HowTo
-  name: >-
-    Динамическое ценообразование в посуточной аренде: инструкция для
-    Санкт-Петербурга
-  description: >-
-    Как максимизировать доход от посуточной аренды в Санкт-Петербурге с помощью
-    динамического ценообразования. В этой инструкции мы разберем ключевые
-    факторы, влияющие на цену, популярные инструменты и дадим практические
-    советы для владельцев жилья.
-  image:
-    '@type': ImageObject
-    url: 'https://images.pexels.com/photos/5430858/pexels-photo-5430858.jpeg'
-  aggregateRating:
-    '@type': AggregateRating
-    ratingValue: '4.8'
-    reviewCount: 823
-    bestRating: '5'
-    worstRating: '1'
-  publisher:
-    '@type': Organization
-    name: Блог ButlerSPB
-    logo:
-      '@type': ImageObject
-      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
-  mainEntityOfPage:
-    '@type': WebPage
-    '@id': >-
-      https://butlerspb-blog.netlify.app/blog/dinamicheskoe-cenoobrazovanie-v-posutochnoy-arende-instrukciya-dlya-sankt-peterburga/
+title: ">-"
+description: ">-"
+pubDate: "2025-07-18T15:13:06.118Z"
+author: "Эксперт ButlerSPB"
+heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
+schema: {"@context":"https://schema.org","@type":"HowTo","name":">-","description":">-","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":645,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/dinamicheskoe-cenoobrazovanie-v-posutochnoy-arende-instrukciya-dlya-sankt-peterburga/"}}
 ---
 
 # Динамическое ценообразование в посуточной аренде: пошаговая инструкция для Санкт-Петербурга

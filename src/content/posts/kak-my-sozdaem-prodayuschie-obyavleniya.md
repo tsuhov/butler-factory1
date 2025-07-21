@@ -1,45 +1,10 @@
 ---
-title: Как мы создаем продающие объявления
-description: >-
-  В этой статье команда ButlerSPB раскрывает свой подход к созданию рекламных
-  объявлений, которые не просто информируют, а действительно продают. Пошагово
-  разбираем процесс: от анализа целевой аудитории и формулирования уникального
-  торгового предложения до написания цепляющих текстов и выбора идеальных
-  визуалов.
-pubDate: '2025-07-20T15:26:18.350Z'
-author: Эксперт ButlerSPB
-heroImage: >-
-  https://images.pexels.com/photos/3184418/pexels-photo-3184418.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1
-schema:
-  '@context': 'https://schema.org'
-  '@type': HowTo
-  name: Как мы создаем продающие объявления
-  description: >-
-    В этой статье команда ButlerSPB раскрывает свой подход к созданию рекламных
-    объявлений, которые не просто информируют, а действительно продают. Пошагово
-    разбираем процесс: от анализа целевой аудитории и формулирования уникального
-    торгового предложения до написания цепляющих текстов и выбора идеальных
-    визуалов.
-  image:
-    '@type': ImageObject
-    url: >-
-      https://images.pexels.com/photos/3184418/pexels-photo-3184418.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1
-  aggregateRating:
-    '@type': AggregateRating
-    ratingValue: '4.7'
-    reviewCount: 302
-    bestRating: '5'
-    worstRating: '1'
-  publisher:
-    '@type': Organization
-    name: Блог ButlerSPB
-    logo:
-      '@type': ImageObject
-      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
-  mainEntityOfPage:
-    '@type': WebPage
-    '@id': >-
-      https://butlerspb-blog.netlify.app/blog/kak-my-sozdaem-prodayuschie-obyavleniya/
+title: "Как мы создаем продающие объявления"
+description: ">-"
+pubDate: "2025-07-20T15:26:18.350Z"
+author: "Эксперт ButlerSPB"
+heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
+schema: {"@context":"https://schema.org","@type":"HowTo","name":"Как мы создаем продающие объявления","description":">-","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.7","reviewCount":505,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/kak-my-sozdaem-prodayuschie-obyavleniya/"}}
 ---
 
 # Наш метод создания продающих объявлений: Как ButlerSPB превращает вашу квартиру в магнит для гостей

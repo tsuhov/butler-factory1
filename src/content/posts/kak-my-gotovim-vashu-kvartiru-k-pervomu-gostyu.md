@@ -1,42 +1,10 @@
 ---
-title: Как мы готовим вашу квартиру к первому гостю
-description: >-
-  Первое впечатление — самое важное. В новой статье блога ButlerSPB мы подробно
-  рассказываем о всех этапах подготовки квартиры к приезду первого гостя: от
-  профессионального клининга и проверки техники до финальных штрихов, создающих
-  уют. Узнайте, как мы гарантируем безупречный старт для вашей аренды.
-pubDate: '2025-07-20T13:39:52.334Z'
-author: Эксперт ButlerSPB
-heroImage: 'https://images.unsplash.com/photo-1618221195710-dd6b41faaea6'
-schema:
-  '@context': 'https://schema.org'
-  '@type': HowTo
-  name: Как мы готовим вашу квартиру к первому гостю
-  description: >-
-    Первое впечатление — самое важное. В новой статье блога ButlerSPB мы
-    подробно рассказываем о всех этапах подготовки квартиры к приезду первого
-    гостя: от профессионального клининга и проверки техники до финальных
-    штрихов, создающих уют. Узнайте, как мы гарантируем безупречный старт для
-    вашей аренды.
-  image:
-    '@type': ImageObject
-    url: 'https://images.unsplash.com/photo-1618221195710-dd6b41faaea6'
-  aggregateRating:
-    '@type': AggregateRating
-    ratingValue: '4.9'
-    reviewCount: 694
-    bestRating: '5'
-    worstRating: '1'
-  publisher:
-    '@type': Organization
-    name: Блог ButlerSPB
-    logo:
-      '@type': ImageObject
-      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
-  mainEntityOfPage:
-    '@type': WebPage
-    '@id': >-
-      https://butlerspb-blog.netlify.app/blog/kak-my-gotovim-vashu-kvartiru-k-pervomu-gostyu/
+title: "Как мы готовим вашу квартиру к первому гостю"
+description: ">-"
+pubDate: "2025-07-20T13:39:52.334Z"
+author: "Эксперт ButlerSPB"
+heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
+schema: {"@context":"https://schema.org","@type":"HowTo","name":"Как мы готовим вашу квартиру к первому гостю","description":">-","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.8","reviewCount":658,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/kak-my-gotovim-vashu-kvartiru-k-pervomu-gostyu/"}}
 ---
 
 # Как мы готовим вашу квартиру к первому гостю: пошаговый гид от ButlerSPB

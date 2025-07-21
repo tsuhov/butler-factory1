@@ -1,45 +1,10 @@
 ---
-title: 'Искусство апселлинга: 5 эффективных способов предложить гостям платные услуги'
-description: >-
-  Узнайте, как тактично и эффективно предлагать гостям дополнительные услуги,
-  чтобы увеличить доход вашего отеля или апартаментов и повысить лояльность
-  клиентов. Рассматриваем лучшие моменты для предложения, работающие скрипты и
-  популярные идеи для апселла.
-pubDate: '2025-07-19T14:16:42.387Z'
-author: Эксперт ButlerSPB
-heroImage: >-
-  https://images.unsplash.com/photo-1563911302283-d2bc129e7570?q=80&w=1935&auto=format&fit=crop
-schema:
-  '@context': 'https://schema.org'
-  '@type': HowTo
-  name: >-
-    Искусство апселлинга: 5 эффективных способов предложить гостям платные
-    услуги
-  description: >-
-    Узнайте, как тактично и эффективно предлагать гостям дополнительные услуги,
-    чтобы увеличить доход вашего отеля или апартаментов и повысить лояльность
-    клиентов. Рассматриваем лучшие моменты для предложения, работающие скрипты и
-    популярные идеи для апселла.
-  image:
-    '@type': ImageObject
-    url: >-
-      https://images.unsplash.com/photo-1563911302283-d2bc129e7570?q=80&w=1935&auto=format&fit=crop
-  aggregateRating:
-    '@type': AggregateRating
-    ratingValue: '4.9'
-    reviewCount: 510
-    bestRating: '5'
-    worstRating: '1'
-  publisher:
-    '@type': Organization
-    name: Блог ButlerSPB
-    logo:
-      '@type': ImageObject
-      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
-  mainEntityOfPage:
-    '@type': WebPage
-    '@id': >-
-      https://butlerspb-blog.netlify.app/blog/kak-predlozhit-gostyam-dopolnitelnye-platnye-uslugi/
+title: "Искусство апселлинга: 5 эффективных способов предложить гостям платные услуги"
+description: ">-"
+pubDate: "2025-07-19T14:16:42.387Z"
+author: "Эксперт ButlerSPB"
+heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
+schema: {"@context":"https://schema.org","@type":"HowTo","name":"Искусство апселлинга: 5 эффективных способов предложить гостям платные услуги","description":">-","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"5.0","reviewCount":761,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/kak-predlozhit-gostyam-dopolnitelnye-platnye-uslugi/"}}
 ---
 
 # **Как предложить гостям дополнительные платные услуги: Полное руководство по увеличению дохода отеля**

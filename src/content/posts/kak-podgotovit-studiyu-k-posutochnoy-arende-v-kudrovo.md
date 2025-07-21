@@ -1,39 +1,10 @@
 ---
-title: Как подготовить студию к посуточной аренде в Кудрово
-description: >-
-  Подробное руководство для владельцев недвижимости в Кудрово. Узнайте, как
-  правильно укомплектовать, убрать и оформить студию, чтобы максимизировать
-  доход от посуточной аренды и получать восторженные отзывы гостей.
-pubDate: '2025-07-19T10:46:47.841Z'
-author: Эксперт ButlerSPB
-heroImage: 'https://images.pexels.com/photos/6434622/pexels-photo-6434622.jpeg'
-schema:
-  '@context': 'https://schema.org'
-  '@type': HowTo
-  name: Как подготовить студию к посуточной аренде в Кудрово
-  description: >-
-    Подробное руководство для владельцев недвижимости в Кудрово. Узнайте, как
-    правильно укомплектовать, убрать и оформить студию, чтобы максимизировать
-    доход от посуточной аренды и получать восторженные отзывы гостей.
-  image:
-    '@type': ImageObject
-    url: 'https://images.pexels.com/photos/6434622/pexels-photo-6434622.jpeg'
-  aggregateRating:
-    '@type': AggregateRating
-    ratingValue: '4.8'
-    reviewCount: 671
-    bestRating: '5'
-    worstRating: '1'
-  publisher:
-    '@type': Organization
-    name: Блог ButlerSPB
-    logo:
-      '@type': ImageObject
-      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
-  mainEntityOfPage:
-    '@type': WebPage
-    '@id': >-
-      https://butlerspb-blog.netlify.app/blog/kak-podgotovit-studiyu-k-posutochnoy-arende-v-kudrovo/
+title: "Как подготовить студию к посуточной аренде в Кудрово"
+description: ">-"
+pubDate: "2025-07-19T10:46:47.841Z"
+author: "Эксперт ButlerSPB"
+heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
+schema: {"@context":"https://schema.org","@type":"HowTo","name":"Как подготовить студию к посуточной аренде в Кудрово","description":">-","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":314,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/kak-podgotovit-studiyu-k-posutochnoy-arende-v-kudrovo/"}}
 ---
 
 # Как подготовить студию к посуточной аренде в Кудрово: полное руководство для инвестора

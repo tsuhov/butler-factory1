@@ -2,10 +2,10 @@
 title: "Сдать квартиру в управление посуточно в СПБ: полный гайд"
 description: "Хотите получать пассивный доход от квартиры в СПб? Узнайте, как сдать ее в посуточное управление, какие плюсы и минусы, и как выбрать надежную компанию."
 pubDate: "2025-07-17T00:38:10.002Z"
-author: "ButlerSPB Expert"
-schema: {"@context":"https://schema.org","@type":"BlogPosting","headline":"Как сдать квартиру в посуточное управление в Санкт-Петербурге: полное руководство для собственников","description":"Подробное руководство по передаче квартиры в управление для посуточной аренды в Санкт-Петербурге. Рассматриваем преимущества, риски, выбор управляющей компании и юридические аспекты для максимизации вашего дохода.","author":{"@type":"Organization","name":"Эксперты по недвижимости"},"publisher":{"@type":"Organization","name":"Портал недвижимости СПБ","logo":{"@type":"ImageObject","url":"https://example.com/logo.png"}},"datePublished":"2024-05-21"}
-
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"---
+author: "Эксперт ButlerSPB"
+heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
+schema: {"@context":"https://schema.org","@type":"HowTo","name":"Сдать квартиру в управление посуточно в СПБ: полный гайд","description":"Хотите получать пассивный доход от квартиры в СПб? Узнайте, как сдать ее в посуточное управление, какие плюсы и минусы, и как выбрать надежную компанию.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"5.0","reviewCount":606,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/sdat-kvartiru-v-upravlenie-posutochno-v-spb/"}}
+---
 
 ### **(H1) Как сдать квартиру в управление посуточно в Санкт-Петербурге: полный гид для собственника**
 

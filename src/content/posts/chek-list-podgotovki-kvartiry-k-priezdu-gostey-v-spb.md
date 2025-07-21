@@ -1,39 +1,10 @@
 ---
-title: 'Чек-лист: как подготовить квартиру к приезду гостей в Санкт-Петербурге'
-description: >-
-  Подробный чек-лист для подготовки вашей квартиры в СПб к приему гостей. От
-  генеральной уборки до создания уютной атмосферы — все, чтобы ваши гости
-  чувствовали себя как дома.
-pubDate: '2025-07-17T21:29:59.230Z'
-author: Эксперт ButlerSPB
-heroImage: 'https://images.unsplash.com/photo-1618221195710-dd6b41faaea6'
-schema:
-  '@context': 'https://schema.org'
-  '@type': HowTo
-  name: 'Чек-лист: как подготовить квартиру к приезду гостей в Санкт-Петербурге'
-  description: >-
-    Подробный чек-лист для подготовки вашей квартиры в СПб к приему гостей. От
-    генеральной уборки до создания уютной атмосферы — все, чтобы ваши гости
-    чувствовали себя как дома.
-  image:
-    '@type': ImageObject
-    url: 'https://images.unsplash.com/photo-1618221195710-dd6b41faaea6'
-  aggregateRating:
-    '@type': AggregateRating
-    ratingValue: '5.0'
-    reviewCount: 522
-    bestRating: '5'
-    worstRating: '1'
-  publisher:
-    '@type': Organization
-    name: Блог ButlerSPB
-    logo:
-      '@type': ImageObject
-      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
-  mainEntityOfPage:
-    '@type': WebPage
-    '@id': >-
-      https://butlerspb-blog.netlify.app/blog/chek-list-podgotovki-kvartiry-k-priezdu-gostey-v-spb/
+title: "Чек-лист: как подготовить квартиру к приезду гостей в Санкт-Петербурге"
+description: ">-"
+pubDate: "2025-07-17T21:29:59.230Z"
+author: "Эксперт ButlerSPB"
+heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
+schema: {"@context":"https://schema.org","@type":"HowTo","name":"Чек-лист: как подготовить квартиру к приезду гостей в Санкт-Петербурге","description":">-","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":663,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/chek-list-podgotovki-kvartiry-k-priezdu-gostey-v-spb/"}}
 ---
 
 # **Идеальный хозяин: Полный чек-лист подготовки квартиры к приезду гостей в СПБ**

@@ -1,41 +1,10 @@
 ---
-title: Как получить статус "суперхозяин" на площадках бронирования в СПБ
-description: >-
-  Пошаговое руководство для владельцев апартаментов в Санкт-Петербурге. Узнайте,
-  как повысить рейтинг, получать восторженные отзывы и заслужить заветный значок
-  "суперхозяина" на ключевых платформах бронирования.
-pubDate: '2025-07-18T15:44:39.676Z'
-author: Эксперт ButlerSPB
-heroImage: >-
-  https://images.pexels.com/photos/1643383/pexels-photo-1643383.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2
-schema:
-  '@context': 'https://schema.org'
-  '@type': HowTo
-  name: Как получить статус "суперхозяин" на площадках бронирования в СПБ
-  description: >-
-    Пошаговое руководство для владельцев апартаментов в Санкт-Петербурге.
-    Узнайте, как повысить рейтинг, получать восторженные отзывы и заслужить
-    заветный значок "суперхозяина" на ключевых платформах бронирования.
-  image:
-    '@type': ImageObject
-    url: >-
-      https://images.pexels.com/photos/1643383/pexels-photo-1643383.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2
-  aggregateRating:
-    '@type': AggregateRating
-    ratingValue: '5.0'
-    reviewCount: 325
-    bestRating: '5'
-    worstRating: '1'
-  publisher:
-    '@type': Organization
-    name: Блог ButlerSPB
-    logo:
-      '@type': ImageObject
-      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
-  mainEntityOfPage:
-    '@type': WebPage
-    '@id': >-
-      https://butlerspb-blog.netlify.app/blog/kak-poluchit-status-superhozyain-na-ploschadkah-bronirovaniya-v-spb/
+title: "Как получить статус \"суперхозяин\" на площадках бронирования в СПБ"
+description: ">-"
+pubDate: "2025-07-18T15:44:39.676Z"
+author: "Эксперт ButlerSPB"
+heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
+schema: {"@context":"https://schema.org","@type":"HowTo","name":"Как получить статус \"суперхозяин\" на площадках бронирования в СПБ","description":">-","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":699,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/kak-poluchit-status-superhozyain-na-ploschadkah-bronirovaniya-v-spb/"}}
 ---
 
 # Как стать Суперхозяином в Санкт-Петербурге: Полное руководство по завоеванию доверия гостей и увеличению дохода

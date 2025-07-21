@@ -1,43 +1,10 @@
 ---
-title: Наш чек-лист идеальной квартиры для посуточной аренды
-description: >-
-  Планируете сдавать квартиру посуточно? Успех зависит от деталей. Команда
-  ButlerSPB делится полным чек-листом, который поможет превратить вашу
-  недвижимость в объект мечты для любого гостя и обеспечить максимальную
-  заполняемость.
-pubDate: '2025-07-20T13:42:15.935Z'
-author: Эксперт ButlerSPB
-heroImage: >-
-  https://images.pexels.com/photos/6492403/pexels-photo-6492403.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2
-schema:
-  '@context': 'https://schema.org'
-  '@type': HowTo
-  name: Наш чек-лист идеальной квартиры для посуточной аренды
-  description: >-
-    Планируете сдавать квартиру посуточно? Успех зависит от деталей. Команда
-    ButlerSPB делится полным чек-листом, который поможет превратить вашу
-    недвижимость в объект мечты для любого гостя и обеспечить максимальную
-    заполняемость.
-  image:
-    '@type': ImageObject
-    url: >-
-      https://images.pexels.com/photos/6492403/pexels-photo-6492403.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2
-  aggregateRating:
-    '@type': AggregateRating
-    ratingValue: '4.8'
-    reviewCount: 595
-    bestRating: '5'
-    worstRating: '1'
-  publisher:
-    '@type': Organization
-    name: Блог ButlerSPB
-    logo:
-      '@type': ImageObject
-      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
-  mainEntityOfPage:
-    '@type': WebPage
-    '@id': >-
-      https://butlerspb-blog.netlify.app/blog/nash-chek-list-idealnoy-kvartiry-dlya-posutochnoy-arendy/
+title: "Наш чек-лист идеальной квартиры для посуточной аренды"
+description: ">-"
+pubDate: "2025-07-20T13:42:15.935Z"
+author: "Эксперт ButlerSPB"
+heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
+schema: {"@context":"https://schema.org","@type":"HowTo","name":"Наш чек-лист идеальной квартиры для посуточной аренды","description":">-","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":608,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/nash-chek-list-idealnoy-kvartiry-dlya-posutochnoy-arendy/"}}
 ---
 
 # Наш чек-лист идеальной квартиры для посуточной аренды: 50+ пунктов, которые гарантируют вам 5 звезд и полную загрузку в Петербурге

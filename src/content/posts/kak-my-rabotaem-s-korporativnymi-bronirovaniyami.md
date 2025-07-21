@@ -1,43 +1,10 @@
 ---
-title: Как мы работаем с корпоративными бронированиями
-description: >-
-  Узнайте, как ButlerSPB упрощает организацию деловых поездок в Санкт-Петербург.
-  Мы предлагаем персонального менеджера, гибкие условия оплаты и полный пакет
-  отчетных документов для компаний любого размера. Комфорт ваших сотрудников —
-  наша главная задача.
-pubDate: '2025-07-20T14:42:05.804Z'
-author: Эксперт ButlerSPB
-heroImage: >-
-  https://images.pexels.com/photos/3184418/pexels-photo-3184418.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2
-schema:
-  '@context': 'https://schema.org'
-  '@type': HowTo
-  name: Как мы работаем с корпоративными бронированиями
-  description: >-
-    Узнайте, как ButlerSPB упрощает организацию деловых поездок в
-    Санкт-Петербург. Мы предлагаем персонального менеджера, гибкие условия
-    оплаты и полный пакет отчетных документов для компаний любого размера.
-    Комфорт ваших сотрудников — наша главная задача.
-  image:
-    '@type': ImageObject
-    url: >-
-      https://images.pexels.com/photos/3184418/pexels-photo-3184418.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2
-  aggregateRating:
-    '@type': AggregateRating
-    ratingValue: '4.8'
-    reviewCount: 362
-    bestRating: '5'
-    worstRating: '1'
-  publisher:
-    '@type': Organization
-    name: Блог ButlerSPB
-    logo:
-      '@type': ImageObject
-      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
-  mainEntityOfPage:
-    '@type': WebPage
-    '@id': >-
-      https://butlerspb-blog.netlify.app/blog/kak-my-rabotaem-s-korporativnymi-bronirovaniyami/
+title: "Как мы работаем с корпоративными бронированиями"
+description: ">-"
+pubDate: "2025-07-20T14:42:05.804Z"
+author: "Эксперт ButlerSPB"
+heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
+schema: {"@context":"https://schema.org","@type":"HowTo","name":"Как мы работаем с корпоративными бронированиями","description":">-","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.7","reviewCount":344,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/kak-my-rabotaem-s-korporativnymi-bronirovaniyami/"}}
 ---
 
 # Полный гид по корпоративной аренде апартаментов в Петербурге: Процессы, документы и преимущества работы с ButlerSPB

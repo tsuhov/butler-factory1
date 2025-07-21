@@ -1,41 +1,10 @@
 ---
-title: Управление двухкомнатной квартирой на Васильевском острове в СПБ
-description: >-
-  Ключевые аспекты и рекомендации по эффективному управлению арендой
-  двухкомнатной квартиры в историческом районе Санкт-Петербурга. От поиска
-  арендаторов до максимизации доходности на Васильевском острове.
-pubDate: '2025-07-18T16:12:25.481Z'
-author: Эксперт ButlerSPB
-heroImage: >-
-  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
-schema:
-  '@context': 'https://schema.org'
-  '@type': HowTo
-  name: Управление двухкомнатной квартирой на Васильевском острове в СПБ
-  description: >-
-    Ключевые аспекты и рекомендации по эффективному управлению арендой
-    двухкомнатной квартиры в историческом районе Санкт-Петербурга. От поиска
-    арендаторов до максимизации доходности на Васильевском острове.
-  image:
-    '@type': ImageObject
-    url: >-
-      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
-  aggregateRating:
-    '@type': AggregateRating
-    ratingValue: '4.9'
-    reviewCount: 656
-    bestRating: '5'
-    worstRating: '1'
-  publisher:
-    '@type': Organization
-    name: Блог ButlerSPB
-    logo:
-      '@type': ImageObject
-      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
-  mainEntityOfPage:
-    '@type': WebPage
-    '@id': >-
-      https://butlerspb-blog.netlify.app/blog/upravlenie-dvuhkomnatnoy-kvartiroy-na-vasilevskom-ostrove-v-spb/
+title: "Управление двухкомнатной квартирой на Васильевском острове в СПБ"
+description: ">-"
+pubDate: "2025-07-18T16:12:25.481Z"
+author: "Эксперт ButlerSPB"
+heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
+schema: {"@context":"https://schema.org","@type":"HowTo","name":"Управление двухкомнатной квартирой на Васильевском острове в СПБ","description":">-","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.8","reviewCount":729,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/upravlenie-dvuhkomnatnoy-kvartiroy-na-vasilevskom-ostrove-v-spb/"}}
 ---
 
 # Управление двухкомнатной квартирой на Васильевском острове: как получать стабильный доход и избежать проблем

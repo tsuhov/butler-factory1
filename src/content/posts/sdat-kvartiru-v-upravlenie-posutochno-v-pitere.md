@@ -2,10 +2,10 @@
 title: "Сдать квартиру в управление посуточно в Питере: выгодно и просто"
 description: "Хотите сдать квартиру в Санкт-Петербурге посуточно, но нет времени? Узнайте, как передать жилье в управление и получать пассивный доход без лишних хлопот."
 pubDate: "2025-07-17T00:40:05.048Z"
-author: "ButlerSPB Expert"
-schema: {"@context":"https://schema.org","@type":"BlogPosting","headline":"Сдать квартиру в управление посуточно в Питере: выгодно и просто","description":"Хотите сдать квартиру в Санкт-Петербурге посуточно, но нет времени? Узнайте, как передать жилье в управление и получать пассивный доход без лишних хлопот.","author":{"@type":"Organization","name":"Агентство недвижимости 'Питер-Рент'"},"publisher":{"@type":"Organization","name":"Агентство недвижимости 'Питер-Рент'","logo":{"@type":"ImageObject","url":"https://example.com/logo.png"}},"datePublished":"2024-05-21T09:00:00+03:00"}
-
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"---
+author: "Эксперт ButlerSPB"
+heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
+schema: {"@context":"https://schema.org","@type":"HowTo","name":"Сдать квартиру в управление посуточно в Питере: выгодно и просто","description":"Хотите сдать квартиру в Санкт-Петербурге посуточно, но нет времени? Узнайте, как передать жилье в управление и получать пассивный доход без лишних хлопот.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.8","reviewCount":529,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/sdat-kvartiru-v-upravlenie-posutochno-v-pitere/"}}
+---
 
 ### **Как сдать квартиру в управление для посуточной аренды в Санкт-Петербурге: полный гид для собственника**
 

@@ -1,43 +1,10 @@
 ---
-title: Как мы готовим квартиру к фотосессии
-description: >-
-  Профессиональная фотосессия — ключ к быстрой и выгодной продаже или аренде
-  недвижимости. В этой статье команда ButlerSPB делится секретами предпродажной
-  подготовки и пошаговым чек-листом, который поможет сделать ваши фотографии
-  неотразимыми и привлечь максимум внимания.
-pubDate: '2025-07-20T18:11:31.513Z'
-author: Эксперт ButlerSPB
-heroImage: >-
-  https://images.pexels.com/photos/6492397/pexels-photo-6492397.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2
-schema:
-  '@context': 'https://schema.org'
-  '@type': HowTo
-  name: Как мы готовим квартиру к фотосессии
-  description: >-
-    Профессиональная фотосессия — ключ к быстрой и выгодной продаже или аренде
-    недвижимости. В этой статье команда ButlerSPB делится секретами
-    предпродажной подготовки и пошаговым чек-листом, который поможет сделать
-    ваши фотографии неотразимыми и привлечь максимум внимания.
-  image:
-    '@type': ImageObject
-    url: >-
-      https://images.pexels.com/photos/6492397/pexels-photo-6492397.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2
-  aggregateRating:
-    '@type': AggregateRating
-    ratingValue: '4.7'
-    reviewCount: 624
-    bestRating: '5'
-    worstRating: '1'
-  publisher:
-    '@type': Organization
-    name: Блог ButlerSPB
-    logo:
-      '@type': ImageObject
-      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
-  mainEntityOfPage:
-    '@type': WebPage
-    '@id': >-
-      https://butlerspb-blog.netlify.app/blog/kak-my-gotovim-kvartiru-k-fotosessii/
+title: "Как мы готовим квартиру к фотосессии"
+description: ">-"
+pubDate: "2025-07-20T18:11:31.513Z"
+author: "Эксперт ButlerSPB"
+heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
+schema: {"@context":"https://schema.org","@type":"HowTo","name":"Как мы готовим квартиру к фотосессии","description":">-","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.8","reviewCount":703,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/kak-my-gotovim-kvartiru-k-fotosessii/"}}
 ---
 
 # Больше бронирований на 30%: Как мы в ButlerSPB готовим вашу квартиру к фотосессии

@@ -1,43 +1,10 @@
 ---
-title: 'Обновите свой дом: гид по быстрой замене изношенных вещей'
-description: >-
-  Со временем многие предметы в доме теряют свой вид и функциональность. В этой
-  статье от ButlerSPB мы расскажем, как быстро и без лишних хлопот заменить
-  изношенные вещи, от кухонной утвари до текстиля, и почему это так важно для
-  комфорта и уюта.
-pubDate: '2025-07-21T00:07:24.120Z'
-author: Эксперт ButlerSPB
-heroImage: >-
-  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
-schema:
-  '@context': 'https://schema.org'
-  '@type': HowTo
-  name: 'Обновите свой дом: гид по быстрой замене изношенных вещей'
-  description: >-
-    Со временем многие предметы в доме теряют свой вид и функциональность. В
-    этой статье от ButlerSPB мы расскажем, как быстро и без лишних хлопот
-    заменить изношенные вещи, от кухонной утвари до текстиля, и почему это так
-    важно для комфорта и уюта.
-  image:
-    '@type': ImageObject
-    url: >-
-      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
-  aggregateRating:
-    '@type': AggregateRating
-    ratingValue: '4.9'
-    reviewCount: 683
-    bestRating: '5'
-    worstRating: '1'
-  publisher:
-    '@type': Organization
-    name: Блог ButlerSPB
-    logo:
-      '@type': ImageObject
-      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
-  mainEntityOfPage:
-    '@type': WebPage
-    '@id': >-
-      https://butlerspb-blog.netlify.app/blog/bystraya-zamena-iznoshennyh-predmetov/
+title: "Обновите свой дом: гид по быстрой замене изношенных вещей"
+description: ">-"
+pubDate: "2025-07-21T00:07:24.120Z"
+author: "Эксперт ButlerSPB"
+heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
+schema: {"@context":"https://schema.org","@type":"HowTo","name":"Обновите свой дом: гид по быстрой замене изношенных вещей","description":">-","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.8","reviewCount":720,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/bystraya-zamena-iznoshennyh-predmetov/"}}
 ---
 
 # Потеря дохода из-за сколотой чашки: Ваш полный гид по быстрой замене изношенных предметов в посуточной аренде

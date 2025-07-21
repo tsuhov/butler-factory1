@@ -1,41 +1,10 @@
 ---
-title: 'Форс-мажор: как ButlerSPB обеспечивает надежность в непредвиденных ситуациях'
-description: >-
-  В жизни и бизнесе случаются непредвиденные события. Рассказываем, какие шаги
-  мы предпринимаем, чтобы минимизировать их влияние на наших клиентов и
-  гарантировать стабильность сервиса, даже когда все идет не по плану.
-pubDate: '2025-07-20T23:44:31.272Z'
-author: Эксперт ButlerSPB
-heroImage: >-
-  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
-schema:
-  '@context': 'https://schema.org'
-  '@type': HowTo
-  name: 'Форс-мажор: как ButlerSPB обеспечивает надежность в непредвиденных ситуациях'
-  description: >-
-    В жизни и бизнесе случаются непредвиденные события. Рассказываем, какие шаги
-    мы предпринимаем, чтобы минимизировать их влияние на наших клиентов и
-    гарантировать стабильность сервиса, даже когда все идет не по плану.
-  image:
-    '@type': ImageObject
-    url: >-
-      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
-  aggregateRating:
-    '@type': AggregateRating
-    ratingValue: '4.8'
-    reviewCount: 819
-    bestRating: '5'
-    worstRating: '1'
-  publisher:
-    '@type': Organization
-    name: Блог ButlerSPB
-    logo:
-      '@type': ImageObject
-      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
-  mainEntityOfPage:
-    '@type': WebPage
-    '@id': >-
-      https://butlerspb-blog.netlify.app/blog/kak-my-rabotaem-s-fors-mazhornymi-situaciyami/
+title: "Форс-мажор: как ButlerSPB обеспечивает надежность в непредвиденных ситуациях"
+description: ">-"
+pubDate: "2025-07-20T23:44:31.272Z"
+author: "Эксперт ButlerSPB"
+heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
+schema: {"@context":"https://schema.org","@type":"HowTo","name":"Форс-мажор: как ButlerSPB обеспечивает надежность в непредвиденных ситуациях","description":">-","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.7","reviewCount":580,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/kak-my-rabotaem-s-fors-mazhornymi-situaciyami/"}}
 ---
 
 # **Спокойствие владельца и комфорт гостя: Как ButlerSPB работает с форс-мажорными ситуациями**

@@ -1,41 +1,10 @@
 ---
-title: 'Управление репутацией отеля или апартаментов онлайн: полное руководство'
-description: >-
-  Узнайте, как эффективно управлять отзывами, повышать рейтинг и привлекать
-  больше гостей через онлайн-платформы. Практические советы и стратегии для
-  отельеров и владельцев апартаментов.
-pubDate: '2025-07-19T14:03:56.045Z'
-author: Эксперт ButlerSPB
-heroImage: >-
-  https://images.pexels.com/photos/271624/pexels-photo-271624.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2
-schema:
-  '@context': 'https://schema.org'
-  '@type': HowTo
-  name: 'Управление репутацией отеля или апартаментов онлайн: полное руководство'
-  description: >-
-    Узнайте, как эффективно управлять отзывами, повышать рейтинг и привлекать
-    больше гостей через онлайн-платформы. Практические советы и стратегии для
-    отельеров и владельцев апартаментов.
-  image:
-    '@type': ImageObject
-    url: >-
-      https://images.pexels.com/photos/271624/pexels-photo-271624.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2
-  aggregateRating:
-    '@type': AggregateRating
-    ratingValue: '4.7'
-    reviewCount: 471
-    bestRating: '5'
-    worstRating: '1'
-  publisher:
-    '@type': Organization
-    name: Блог ButlerSPB
-    logo:
-      '@type': ImageObject
-      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
-  mainEntityOfPage:
-    '@type': WebPage
-    '@id': >-
-      https://butlerspb-blog.netlify.app/blog/upravlenie-reputaciey-otelya-ili-apartamentov-onlayn/
+title: "Управление репутацией отеля или апартаментов онлайн: полное руководство"
+description: ">-"
+pubDate: "2025-07-19T14:03:56.045Z"
+author: "Эксперт ButlerSPB"
+heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
+schema: {"@context":"https://schema.org","@type":"HowTo","name":"Управление репутацией отеля или апартаментов онлайн: полное руководство","description":">-","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"5.0","reviewCount":876,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/upravlenie-reputaciey-otelya-ili-apartamentov-onlayn/"}}
 ---
 
 # **Как управлять репутацией отеля онлайн: полное руководство по работе с отзывами и повышению рейтинга**

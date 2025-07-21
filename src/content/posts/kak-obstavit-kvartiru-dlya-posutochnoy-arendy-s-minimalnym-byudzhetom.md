@@ -1,42 +1,10 @@
 ---
-title: Как обставить квартиру для посуточной аренды с минимальным бюджетом
-description: >-
-  Практические советы и лайфхаки по меблировке и декорированию квартиры для
-  посуточной аренды. Узнайте, на чем можно сэкономить, а что обязательно должно
-  быть в квартире, чтобы получать высокие оценки и постоянный поток гостей.
-pubDate: '2025-07-20T00:40:43.256Z'
-author: Эксперт ButlerSPB
-heroImage: >-
-  https://images.unsplash.com/photo-1554995207-c18c203602cb?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D
-schema:
-  '@context': 'https://schema.org'
-  '@type': HowTo
-  name: Как обставить квартиру для посуточной аренды с минимальным бюджетом
-  description: >-
-    Практические советы и лайфхаки по меблировке и декорированию квартиры для
-    посуточной аренды. Узнайте, на чем можно сэкономить, а что обязательно
-    должно быть в квартире, чтобы получать высокие оценки и постоянный поток
-    гостей.
-  image:
-    '@type': ImageObject
-    url: >-
-      https://images.unsplash.com/photo-1554995207-c18c203602cb?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D
-  aggregateRating:
-    '@type': AggregateRating
-    ratingValue: '4.8'
-    reviewCount: 525
-    bestRating: '5'
-    worstRating: '1'
-  publisher:
-    '@type': Organization
-    name: Блог ButlerSPB
-    logo:
-      '@type': ImageObject
-      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
-  mainEntityOfPage:
-    '@type': WebPage
-    '@id': >-
-      https://butlerspb-blog.netlify.app/blog/kak-obstavit-kvartiru-dlya-posutochnoy-arendy-s-minimalnym-byudzhetom/
+title: "Как обставить квартиру для посуточной аренды с минимальным бюджетом"
+description: ">-"
+pubDate: "2025-07-20T00:40:43.256Z"
+author: "Эксперт ButlerSPB"
+heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
+schema: {"@context":"https://schema.org","@type":"HowTo","name":"Как обставить квартиру для посуточной аренды с минимальным бюджетом","description":">-","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.8","reviewCount":852,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/kak-obstavit-kvartiru-dlya-posutochnoy-arendy-s-minimalnym-byudzhetom/"}}
 ---
 
 # Как обставить квартиру для посуточной аренды с минимальным бюджетом: Полное руководство для рантье

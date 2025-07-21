@@ -1,41 +1,10 @@
 ---
-title: Работа с корпоративными клиентами в посуточной аренде в СПБ
-description: >-
-  Откройте для себя нюансы сотрудничества с юридическими лицами на рынке
-  посуточной аренды Санкт-Петербурга. В статье рассматриваются ключевые
-  преимущества, эффективные стратегии привлечения и важность качественного
-  сервиса для построения долгосрочных партнерских отношений.
-pubDate: '2025-07-19T09:34:19.331Z'
-author: Эксперт ButlerSPB
-heroImage: 'https://images.pexels.com/photos/3184418/pexels-photo-3184418.jpeg'
-schema:
-  '@context': 'https://schema.org'
-  '@type': HowTo
-  name: Работа с корпоративными клиентами в посуточной аренде в СПБ
-  description: >-
-    Откройте для себя нюансы сотрудничества с юридическими лицами на рынке
-    посуточной аренды Санкт-Петербурга. В статье рассматриваются ключевые
-    преимущества, эффективные стратегии привлечения и важность качественного
-    сервиса для построения долгосрочных партнерских отношений.
-  image:
-    '@type': ImageObject
-    url: 'https://images.pexels.com/photos/3184418/pexels-photo-3184418.jpeg'
-  aggregateRating:
-    '@type': AggregateRating
-    ratingValue: '4.9'
-    reviewCount: 519
-    bestRating: '5'
-    worstRating: '1'
-  publisher:
-    '@type': Organization
-    name: Блог ButlerSPB
-    logo:
-      '@type': ImageObject
-      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
-  mainEntityOfPage:
-    '@type': WebPage
-    '@id': >-
-      https://butlerspb-blog.netlify.app/blog/rabota-s-korporativnymi-klientami-v-posutochnoy-arende-v-spb/
+title: "Работа с корпоративными клиентами в посуточной аренде в СПБ"
+description: ">-"
+pubDate: "2025-07-19T09:34:19.331Z"
+author: "Эксперт ButlerSPB"
+heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
+schema: {"@context":"https://schema.org","@type":"HowTo","name":"Работа с корпоративными клиентами в посуточной аренде в СПБ","description":">-","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":330,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/rabota-s-korporativnymi-klientami-v-posutochnoy-arende-v-spb/"}}
 ---
 
 # Работа с корпоративными клиентами в посуточной аренде СПБ: Полное руководство по привлечению и удержанию B2B-сегмента

@@ -1,43 +1,10 @@
 ---
-title: 'Эффективная коммуникация с гостями: скрипты и решения в Петербурге'
-description: >-
-  Статья раскрывает ключевые аспекты построения эффективной коммуникации с
-  гостями в отелях и апартаментах Санкт-Петербурга. Мы предлагаем готовые
-  скрипты и практические решения для улучшения сервиса, повышения лояльности и
-  получения положительных отзывов.
-pubDate: '2025-07-18T18:08:53.380Z'
-author: Эксперт ButlerSPB
-heroImage: >-
-  https://images.pexels.com/photos/5940841/pexels-photo-5940841.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2
-schema:
-  '@context': 'https://schema.org'
-  '@type': HowTo
-  name: 'Эффективная коммуникация с гостями: скрипты и решения в Петербурге'
-  description: >-
-    Статья раскрывает ключевые аспекты построения эффективной коммуникации с
-    гостями в отелях и апартаментах Санкт-Петербурга. Мы предлагаем готовые
-    скрипты и практические решения для улучшения сервиса, повышения лояльности и
-    получения положительных отзывов.
-  image:
-    '@type': ImageObject
-    url: >-
-      https://images.pexels.com/photos/5940841/pexels-photo-5940841.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2
-  aggregateRating:
-    '@type': AggregateRating
-    ratingValue: '4.9'
-    reviewCount: 392
-    bestRating: '5'
-    worstRating: '1'
-  publisher:
-    '@type': Organization
-    name: Блог ButlerSPB
-    logo:
-      '@type': ImageObject
-      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
-  mainEntityOfPage:
-    '@type': WebPage
-    '@id': >-
-      https://butlerspb-blog.netlify.app/blog/effektivnaya-kommunikaciya-s-gostyami-skripty-i-resheniya-v-peterburge/
+title: "Эффективная коммуникация с гостями: скрипты и решения в Петербурге"
+description: ">-"
+pubDate: "2025-07-18T18:08:53.380Z"
+author: "Эксперт ButlerSPB"
+heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
+schema: {"@context":"https://schema.org","@type":"HowTo","name":"Эффективная коммуникация с гостями: скрипты и решения в Петербурге","description":">-","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.7","reviewCount":735,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/effektivnaya-kommunikaciya-s-gostyami-skripty-i-resheniya-v-peterburge/"}}
 ---
 
 # Эффективная коммуникация с гостями: Готовые скрипты и решения для отелей и апартаментов в Петербурге

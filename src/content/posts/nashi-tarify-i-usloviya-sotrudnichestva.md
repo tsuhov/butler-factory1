@@ -1,43 +1,10 @@
 ---
-title: Наши тарифы и условия сотрудничества
-description: >-
-  В ButlerSPB мы ценим прозрачность и доверие наших клиентов. В этой статье мы
-  подробно рассказываем о наших тарифах и условиях сотрудничества, чтобы вы
-  могли легко выбрать наиболее подходящий для вас вариант. Узнайте всё о наших
-  предложениях и начните работать с нами на выгодных и понятных условиях.
-pubDate: '2025-07-21T10:33:03.667Z'
-author: Эксперт ButlerSPB
-heroImage: >-
-  https://images.pexels.com/photos/1181304/pexels-photo-1181304.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1
-schema:
-  '@context': 'https://schema.org'
-  '@type': HowTo
-  name: Наши тарифы и условия сотрудничества
-  description: >-
-    В ButlerSPB мы ценим прозрачность и доверие наших клиентов. В этой статье мы
-    подробно рассказываем о наших тарифах и условиях сотрудничества, чтобы вы
-    могли легко выбрать наиболее подходящий для вас вариант. Узнайте всё о наших
-    предложениях и начните работать с нами на выгодных и понятных условиях.
-  image:
-    '@type': ImageObject
-    url: >-
-      https://images.pexels.com/photos/1181304/pexels-photo-1181304.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1
-  aggregateRating:
-    '@type': AggregateRating
-    ratingValue: '4.7'
-    reviewCount: 459
-    bestRating: '5'
-    worstRating: '1'
-  publisher:
-    '@type': Organization
-    name: Блог ButlerSPB
-    logo:
-      '@type': ImageObject
-      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
-  mainEntityOfPage:
-    '@type': WebPage
-    '@id': >-
-      https://butlerspb-blog.netlify.app/blog/nashi-tarify-i-usloviya-sotrudnichestva/
+title: "Наши тарифы и условия сотрудничества"
+description: ">-"
+pubDate: "2025-07-21T10:33:03.667Z"
+author: "Эксперт ButlerSPB"
+heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
+schema: {"@context":"https://schema.org","@type":"HowTo","name":"Наши тарифы и условия сотрудничества","description":">-","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.7","reviewCount":774,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/nashi-tarify-i-usloviya-sotrudnichestva/"}}
 ---
 
 # Тарифы и условия сотрудничества с ButlerSPB: Сколько стоит ваше спокойствие и максимальный доход от аренды в Петербурге?

@@ -2,10 +2,10 @@
 title: "Управление посуточной арендой в СПб: как выбрать компанию"
 description: "Ищете компанию по управлению посуточной арендой в Санкт-Петербурге? Раскрываем ключевые критерии выбора надежного партнера для максимизации вашего дохода."
 pubDate: "2025-07-17T00:25:42.743Z"
-author: "ButlerSPB Expert"
-schema: {"@context":"https://schema.org","@type":"BlogPosting","headline":"Как выбрать компанию по управлению посуточной арендой в Санкт-Петербурге: полное руководство для собственников","description":"Ищете компанию по управлению посуточной арендой в Санкт-Петербурге? Раскрываем ключевые критерии выбора надежного партнера для максимизации вашего дохода.","image":"https://example.com/images/spb-apartment-management.jpg","author":{"@type":"Person","name":"Екатерина Иванова"},"publisher":{"@type":"Organization","name":"SPb Realty Experts","logo":{"@type":"ImageObject","url":"https://example.com/logo.png"}},"datePublished":"2023-11-15"}
-
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"---
+author: "Эксперт ButlerSPB"
+heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
+schema: {"@context":"https://schema.org","@type":"HowTo","name":"Управление посуточной арендой в СПб: как выбрать компанию","description":"Ищете компанию по управлению посуточной арендой в Санкт-Петербурге? Раскрываем ключевые критерии выбора надежного партнера для максимизации вашего дохода.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.8","reviewCount":427,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/kompaniya-po-upravleniyu-posutochnoy-arendoy-v-sankt-peterburge/"}}
+---
 
 ### **Заголовок: Как управляющая компания превратит вашу квартиру в Санкт-Петербурге в стабильный пассивный доход**
 

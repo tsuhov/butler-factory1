@@ -1,39 +1,10 @@
 ---
-title: 'Автоматизация заселения: электронные замки и инструкции в Санкт-Петербурге'
-description: >-
-  Современные технологии в сфере гостеприимства: как электронные замки и системы
-  удаленного заселения меняют опыт аренды квартир в Санкт-Петербурге,
-  обеспечивая гостям комфорт, безопасность и гибкость.
-pubDate: '2025-07-18T14:40:29.421Z'
-author: Эксперт ButlerSPB
-heroImage: 'https://images.pexels.com/photos/7734563/pexels-photo-7734563.jpeg'
-schema:
-  '@context': 'https://schema.org'
-  '@type': HowTo
-  name: 'Автоматизация заселения: электронные замки и инструкции в Санкт-Петербурге'
-  description: >-
-    Современные технологии в сфере гостеприимства: как электронные замки и
-    системы удаленного заселения меняют опыт аренды квартир в Санкт-Петербурге,
-    обеспечивая гостям комфорт, безопасность и гибкость.
-  image:
-    '@type': ImageObject
-    url: 'https://images.pexels.com/photos/7734563/pexels-photo-7734563.jpeg'
-  aggregateRating:
-    '@type': AggregateRating
-    ratingValue: '4.8'
-    reviewCount: 818
-    bestRating: '5'
-    worstRating: '1'
-  publisher:
-    '@type': Organization
-    name: Блог ButlerSPB
-    logo:
-      '@type': ImageObject
-      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
-  mainEntityOfPage:
-    '@type': WebPage
-    '@id': >-
-      https://butlerspb-blog.netlify.app/blog/avtomatizaciya-zaseleniya-elektronnye-zamki-i-instrukcii-v-sankt-peterburge/
+title: "Автоматизация заселения: электронные замки и инструкции в Санкт-Петербурге"
+description: ">-"
+pubDate: "2025-07-18T14:40:29.421Z"
+author: "Эксперт ButlerSPB"
+heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
+schema: {"@context":"https://schema.org","@type":"HowTo","name":"Автоматизация заселения: электронные замки и инструкции в Санкт-Петербурге","description":">-","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":436,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/avtomatizaciya-zaseleniya-elektronnye-zamki-i-instrukcii-v-sankt-peterburge/"}}
 ---
 
 # **Автоматизация заселения в Санкт-Петербурге: Как электронные замки и четкие инструкции повышают доходность вашей квартиры**

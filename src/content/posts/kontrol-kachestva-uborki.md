@@ -1,40 +1,10 @@
 ---
-title: 'Контроль качества уборки: Как ButlerSPB гарантирует безупречную чистоту'
-description: >-
-  Раскрываем секреты нашей многоуровневой системы контроля качества. Узнайте,
-  как мы проверяем каждый уголок вашего дома или офиса, чтобы гарантировать
-  безупречный результат и ваше полное удовлетворение после каждой уборки.
-pubDate: '2025-07-20T15:05:54.273Z'
-author: Эксперт ButlerSPB
-heroImage: >-
-  https://images.pexels.com/photos/4239031/pexels-photo-4239031.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2
-schema:
-  '@context': 'https://schema.org'
-  '@type': HowTo
-  name: 'Контроль качества уборки: Как ButlerSPB гарантирует безупречную чистоту'
-  description: >-
-    Раскрываем секреты нашей многоуровневой системы контроля качества. Узнайте,
-    как мы проверяем каждый уголок вашего дома или офиса, чтобы гарантировать
-    безупречный результат и ваше полное удовлетворение после каждой уборки.
-  image:
-    '@type': ImageObject
-    url: >-
-      https://images.pexels.com/photos/4239031/pexels-photo-4239031.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2
-  aggregateRating:
-    '@type': AggregateRating
-    ratingValue: '4.8'
-    reviewCount: 689
-    bestRating: '5'
-    worstRating: '1'
-  publisher:
-    '@type': Organization
-    name: Блог ButlerSPB
-    logo:
-      '@type': ImageObject
-      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
-  mainEntityOfPage:
-    '@type': WebPage
-    '@id': 'https://butlerspb-blog.netlify.app/blog/kontrol-kachestva-uborki/'
+title: "Контроль качества уборки: Как ButlerSPB гарантирует безупречную чистоту"
+description: ">-"
+pubDate: "2025-07-20T15:05:54.273Z"
+author: "Эксперт ButlerSPB"
+heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
+schema: {"@context":"https://schema.org","@type":"HowTo","name":"Контроль качества уборки: Как ButlerSPB гарантирует безупречную чистоту","description":">-","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":615,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/kontrol-kachestva-uborki/"}}
 ---
 
 # Секрет 5 звезд: Как система контроля качества уборки приносит максимальный доход от посуточной аренды

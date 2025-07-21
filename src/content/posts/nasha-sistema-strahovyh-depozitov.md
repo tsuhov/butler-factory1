@@ -1,46 +1,10 @@
 ---
-title: Наша система страховых депозитов
-description: >-
-  Страховой депозит — это гарантия сохранности имущества и соблюдения условий
-  договора аренды. Он защищает интересы как владельца апартаментов, так и гостя,
-  обеспечивая спокойствие и прозрачность на всех этапах проживания. В ButlerSPB
-  мы разработали простую и понятную систему работы с депозитами, которая делает
-  процесс максимально комфортным для наших клиентов. Узнайте, как работает наша
-  система и как мы обеспечиваем быстрый и справедливый возврат средств после
-  вашего выезда.
-pubDate: '2025-07-20T14:54:56.746Z'
-author: Эксперт ButlerSPB
-heroImage: 'https://images.pexels.com/photos/1559821/pexels-photo-1559821.jpeg'
-schema:
-  '@context': 'https://schema.org'
-  '@type': HowTo
-  name: Наша система страховых депозитов
-  description: >-
-    Страховой депозит — это гарантия сохранности имущества и соблюдения условий
-    договора аренды. Он защищает интересы как владельца апартаментов, так и
-    гостя, обеспечивая спокойствие и прозрачность на всех этапах проживания. В
-    ButlerSPB мы разработали простую и понятную систему работы с депозитами,
-    которая делает процесс максимально комфортным для наших клиентов. Узнайте,
-    как работает наша система и как мы обеспечиваем быстрый и справедливый
-    возврат средств после вашего выезда.
-  image:
-    '@type': ImageObject
-    url: 'https://images.pexels.com/photos/1559821/pexels-photo-1559821.jpeg'
-  aggregateRating:
-    '@type': AggregateRating
-    ratingValue: '4.7'
-    reviewCount: 350
-    bestRating: '5'
-    worstRating: '1'
-  publisher:
-    '@type': Organization
-    name: Блог ButlerSPB
-    logo:
-      '@type': ImageObject
-      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
-  mainEntityOfPage:
-    '@type': WebPage
-    '@id': 'https://butlerspb-blog.netlify.app/blog/nasha-sistema-strahovyh-depozitov/'
+title: "Наша система страховых депозитов"
+description: ">-"
+pubDate: "2025-07-20T14:54:56.746Z"
+author: "Эксперт ButlerSPB"
+heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
+schema: {"@context":"https://schema.org","@type":"HowTo","name":"Наша система страховых депозитов","description":">-","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":728,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/nasha-sistema-strahovyh-depozitov/"}}
 ---
 
 # Страховой депозит в ButlerSPB: Всё, что нужно знать гостю. Прозрачно, честно и безопасно

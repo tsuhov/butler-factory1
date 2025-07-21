@@ -1,41 +1,10 @@
 ---
-title: 'Генеральная уборка и мелкий ремонт: полное руководство от ButlerSPB'
-description: >-
-  Весна — идеальное время не только для наведения чистоты, но и для устранения
-  мелких неисправностей. В этой статье мы расскажем, как эффективно совместить
-  генеральную уборку с мелким ремонтом, чтобы ваш дом засиял по-новому. Полезные
-  советы и пошаговые инструкции от экспертов ButlerSPB.
-pubDate: '2025-07-20T18:53:06.490Z'
-author: Эксперт ButlerSPB
-heroImage: 'https://images.pexels.com/photos/4239031/pexels-photo-4239031.jpeg'
-schema:
-  '@context': 'https://schema.org'
-  '@type': HowTo
-  name: 'Генеральная уборка и мелкий ремонт: полное руководство от ButlerSPB'
-  description: >-
-    Весна — идеальное время не только для наведения чистоты, но и для устранения
-    мелких неисправностей. В этой статье мы расскажем, как эффективно совместить
-    генеральную уборку с мелким ремонтом, чтобы ваш дом засиял по-новому.
-    Полезные советы и пошаговые инструкции от экспертов ButlerSPB.
-  image:
-    '@type': ImageObject
-    url: 'https://images.pexels.com/photos/4239031/pexels-photo-4239031.jpeg'
-  aggregateRating:
-    '@type': AggregateRating
-    ratingValue: '4.8'
-    reviewCount: 438
-    bestRating: '5'
-    worstRating: '1'
-  publisher:
-    '@type': Organization
-    name: Блог ButlerSPB
-    logo:
-      '@type': ImageObject
-      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
-  mainEntityOfPage:
-    '@type': WebPage
-    '@id': >-
-      https://butlerspb-blog.netlify.app/blog/generalnaya-uborka-i-melkiy-remont/
+title: "Генеральная уборка и мелкий ремонт: полное руководство от ButlerSPB"
+description: ">-"
+pubDate: "2025-07-20T18:53:06.490Z"
+author: "Эксперт ButlerSPB"
+heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
+schema: {"@context":"https://schema.org","@type":"HowTo","name":"Генеральная уборка и мелкий ремонт: полное руководство от ButlerSPB","description":">-","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"5.0","reviewCount":616,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/generalnaya-uborka-i-melkiy-remont/"}}
 ---
 
 # Генеральная уборка и мелкий ремонт: инвестиция в максимальный доход от вашей квартиры в Петербурге

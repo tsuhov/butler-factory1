@@ -1,47 +1,10 @@
 ---
-title: 'Долгосрочное партнерство: фундамент для стабильного роста и успеха'
-description: >-
-  В современном бизнесе разовые сделки уступают место глубоким, доверительным
-  отношениям. В этой статье блога ButlerSPB мы рассмотрим, почему мы верим в
-  силу долгосрочного партнерства и как оно помогает нашим клиентам достигать
-  выдающихся результатов. Узнайте о ключевых преимуществах такого подхода: от
-  глубокого понимания ваших задач до проактивного решения проблем и совместного
-  стратегического планирования.
-pubDate: '2025-07-20T14:48:34.971Z'
-author: Эксперт ButlerSPB
-heroImage: >-
-  https://images.pexels.com/photos/3184465/pexels-photo-3184465.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2
-schema:
-  '@context': 'https://schema.org'
-  '@type': HowTo
-  name: 'Долгосрочное партнерство: фундамент для стабильного роста и успеха'
-  description: >-
-    В современном бизнесе разовые сделки уступают место глубоким, доверительным
-    отношениям. В этой статье блога ButlerSPB мы рассмотрим, почему мы верим в
-    силу долгосрочного партнерства и как оно помогает нашим клиентам достигать
-    выдающихся результатов. Узнайте о ключевых преимуществах такого подхода: от
-    глубокого понимания ваших задач до проактивного решения проблем и
-    совместного стратегического планирования.
-  image:
-    '@type': ImageObject
-    url: >-
-      https://images.pexels.com/photos/3184465/pexels-photo-3184465.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2
-  aggregateRating:
-    '@type': AggregateRating
-    ratingValue: '4.8'
-    reviewCount: 789
-    bestRating: '5'
-    worstRating: '1'
-  publisher:
-    '@type': Organization
-    name: Блог ButlerSPB
-    logo:
-      '@type': ImageObject
-      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
-  mainEntityOfPage:
-    '@type': WebPage
-    '@id': >-
-      https://butlerspb-blog.netlify.app/blog/dolgosrochnoe-partnerstvo-s-kompaniyami/
+title: "Долгосрочное партнерство: фундамент для стабильного роста и успеха"
+description: ">-"
+pubDate: "2025-07-20T14:48:34.971Z"
+author: "Эксперт ButlerSPB"
+heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
+schema: {"@context":"https://schema.org","@type":"HowTo","name":"Долгосрочное партнерство: фундамент для стабильного роста и успеха","description":">-","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":732,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/dolgosrochnoe-partnerstvo-s-kompaniyami/"}}
 ---
 
 # ButlerSPB: Как долгосрочное партнерство по аренде жилья решает ключевые задачи вашего бизнеса в Санкт-Петербурге

@@ -1,38 +1,10 @@
 ---
-title: 'Гибкие тарифные планы: как платить только за то, что вам действительно нужно'
-description: >-
-  В современном мире универсальные решения подходят не всем. Узнайте, как наши
-  новые гибкие тарифные планы от ButlerSPB помогут вам оптимизировать расходы и
-  получить максимум пользы, не переплачивая за лишние опции.
-pubDate: '2025-07-21T10:37:23.787Z'
-author: Эксперт ButlerSPB
-heroImage: 'https://images.pexels.com/photos/3201460/pexels-photo-3201460.jpeg'
-schema:
-  '@context': 'https://schema.org'
-  '@type': HowTo
-  name: 'Гибкие тарифные планы: как платить только за то, что вам действительно нужно'
-  description: >-
-    В современном мире универсальные решения подходят не всем. Узнайте, как наши
-    новые гибкие тарифные планы от ButlerSPB помогут вам оптимизировать расходы
-    и получить максимум пользы, не переплачивая за лишние опции.
-  image:
-    '@type': ImageObject
-    url: 'https://images.pexels.com/photos/3201460/pexels-photo-3201460.jpeg'
-  aggregateRating:
-    '@type': AggregateRating
-    ratingValue: '4.9'
-    reviewCount: 470
-    bestRating: '5'
-    worstRating: '1'
-  publisher:
-    '@type': Organization
-    name: Блог ButlerSPB
-    logo:
-      '@type': ImageObject
-      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
-  mainEntityOfPage:
-    '@type': WebPage
-    '@id': 'https://butlerspb-blog.netlify.app/blog/gibkie-tarifnye-plany/'
+title: "Гибкие тарифные планы: как платить только за то, что вам действительно нужно"
+description: ">-"
+pubDate: "2025-07-21T10:37:23.787Z"
+author: "Эксперт ButlerSPB"
+heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
+schema: {"@context":"https://schema.org","@type":"HowTo","name":"Гибкие тарифные планы: как платить только за то, что вам действительно нужно","description":">-","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":716,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/gibkie-tarifnye-plany/"}}
 ---
 
 # Гибкие тарифные планы: Прекратите терять деньги на посуточной аренде в Санкт-Петербурге

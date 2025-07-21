@@ -1,42 +1,10 @@
 ---
-title: Как выбрать компанию по управлению посуточной арендой в Санкт-Петербурге
-description: >-
-  Ключевые критерии и практические советы для собственников недвижимости в
-  Санкт-Петербурге, которые ищут надежного партнера для управления краткосрочной
-  арендой. От анализа комиссий и услуг до проверки отзывов и технологий.
-pubDate: '2025-07-18T17:51:55.304Z'
-author: Эксперт ButlerSPB
-heroImage: >-
-  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
-schema:
-  '@context': 'https://schema.org'
-  '@type': HowTo
-  name: Как выбрать компанию по управлению посуточной арендой в Санкт-Петербурге
-  description: >-
-    Ключевые критерии и практические советы для собственников недвижимости в
-    Санкт-Петербурге, которые ищут надежного партнера для управления
-    краткосрочной арендой. От анализа комиссий и услуг до проверки отзывов и
-    технологий.
-  image:
-    '@type': ImageObject
-    url: >-
-      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
-  aggregateRating:
-    '@type': AggregateRating
-    ratingValue: '4.9'
-    reviewCount: 502
-    bestRating: '5'
-    worstRating: '1'
-  publisher:
-    '@type': Organization
-    name: Блог ButlerSPB
-    logo:
-      '@type': ImageObject
-      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
-  mainEntityOfPage:
-    '@type': WebPage
-    '@id': >-
-      https://butlerspb-blog.netlify.app/blog/kak-vybrat-kompaniyu-po-upravleniyu-posutochnoy-arendoy-v-sankt-peterburge/
+title: "Как выбрать компанию по управлению посуточной арендой в Санкт-Петербурге"
+description: ">-"
+pubDate: "2025-07-18T17:51:55.304Z"
+author: "Эксперт ButlerSPB"
+heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
+schema: {"@context":"https://schema.org","@type":"HowTo","name":"Как выбрать компанию по управлению посуточной арендой в Санкт-Петербурге","description":">-","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.7","reviewCount":423,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/kak-vybrat-kompaniyu-po-upravleniyu-posutochnoy-arendoy-v-sankt-peterburge/"}}
 ---
 
 # Как выбрать управляющую компанию для посуточной аренды в Санкт-Петербурге: полное руководство для собственника в 2024 году

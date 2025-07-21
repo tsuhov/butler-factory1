@@ -1,39 +1,10 @@
 ---
-title: 'Автоматизация заселения: электронные замки и инструкции в Питере'
-description: >-
-  Как современные технологии упрощают процесс заселения в апартаменты
-  Санкт-Петербурга. Обзор преимуществ электронных замков и подробных
-  онлайн-инструкций для гостей и владельцев жилья.
-pubDate: '2025-07-18T14:46:24.475Z'
-author: Эксперт ButlerSPB
-heroImage: 'https://images.pexels.com/photos/7031706/pexels-photo-7031706.jpeg'
-schema:
-  '@context': 'https://schema.org'
-  '@type': HowTo
-  name: 'Автоматизация заселения: электронные замки и инструкции в Питере'
-  description: >-
-    Как современные технологии упрощают процесс заселения в апартаменты
-    Санкт-Петербурга. Обзор преимуществ электронных замков и подробных
-    онлайн-инструкций для гостей и владельцев жилья.
-  image:
-    '@type': ImageObject
-    url: 'https://images.pexels.com/photos/7031706/pexels-photo-7031706.jpeg'
-  aggregateRating:
-    '@type': AggregateRating
-    ratingValue: '4.8'
-    reviewCount: 576
-    bestRating: '5'
-    worstRating: '1'
-  publisher:
-    '@type': Organization
-    name: Блог ButlerSPB
-    logo:
-      '@type': ImageObject
-      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
-  mainEntityOfPage:
-    '@type': WebPage
-    '@id': >-
-      https://butlerspb-blog.netlify.app/blog/avtomatizaciya-zaseleniya-elektronnye-zamki-i-instrukcii-v-pitere/
+title: "Автоматизация заселения: электронные замки и инструкции в Питере"
+description: ">-"
+pubDate: "2025-07-18T14:46:24.475Z"
+author: "Эксперт ButlerSPB"
+heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
+schema: {"@context":"https://schema.org","@type":"HowTo","name":"Автоматизация заселения: электронные замки и инструкции в Питере","description":">-","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.7","reviewCount":718,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/avtomatizaciya-zaseleniya-elektronnye-zamki-i-instrukcii-v-pitere/"}}
 ---
 
 # Автоматизация заселения в Питере: Полное руководство по электронным замкам и инструкциям для гостей

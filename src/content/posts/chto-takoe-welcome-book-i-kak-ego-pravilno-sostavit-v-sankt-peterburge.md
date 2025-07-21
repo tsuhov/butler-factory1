@@ -1,43 +1,10 @@
 ---
-title: Что такое welcome-book и как его правильно составить в Санкт-Петербурге
-description: >-
-  Welcome-book – это ваш персональный гид и помощник для гостей, приезжающих в
-  Санкт-Петербург. Узнайте, как создать идеальную приветственную книгу, которая
-  сделает пребывание ваших гостей комфортным, незабываемым и поможет получить
-  восторженные отзывы.
-pubDate: '2025-07-18T15:40:30.638Z'
-author: Эксперт ButlerSPB
-heroImage: >-
-  https://images.pexels.com/photos/8136336/pexels-photo-8136336.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1
-schema:
-  '@context': 'https://schema.org'
-  '@type': HowTo
-  name: Что такое welcome-book и как его правильно составить в Санкт-Петербурге
-  description: >-
-    Welcome-book – это ваш персональный гид и помощник для гостей, приезжающих в
-    Санкт-Петербург. Узнайте, как создать идеальную приветственную книгу,
-    которая сделает пребывание ваших гостей комфортным, незабываемым и поможет
-    получить восторженные отзывы.
-  image:
-    '@type': ImageObject
-    url: >-
-      https://images.pexels.com/photos/8136336/pexels-photo-8136336.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1
-  aggregateRating:
-    '@type': AggregateRating
-    ratingValue: '4.8'
-    reviewCount: 590
-    bestRating: '5'
-    worstRating: '1'
-  publisher:
-    '@type': Organization
-    name: Блог ButlerSPB
-    logo:
-      '@type': ImageObject
-      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
-  mainEntityOfPage:
-    '@type': WebPage
-    '@id': >-
-      https://butlerspb-blog.netlify.app/blog/chto-takoe-welcome-book-i-kak-ego-pravilno-sostavit-v-sankt-peterburge/
+title: "Что такое welcome-book и как его правильно составить в Санкт-Петербурге"
+description: ">-"
+pubDate: "2025-07-18T15:40:30.638Z"
+author: "Эксперт ButlerSPB"
+heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
+schema: {"@context":"https://schema.org","@type":"HowTo","name":"Что такое welcome-book и как его правильно составить в Санкт-Петербурге","description":">-","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":874,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/chto-takoe-welcome-book-i-kak-ego-pravilno-sostavit-v-sankt-peterburge/"}}
 ---
 
 # Welcome Book в Санкт-Петербурге: Как создать идеальный гид для гостей и повысить свой рейтинг

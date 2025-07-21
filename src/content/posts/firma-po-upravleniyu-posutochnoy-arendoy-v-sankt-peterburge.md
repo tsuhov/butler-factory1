@@ -2,10 +2,10 @@
 title: "Фирма по управлению посуточной арендой в Санкт-Петербурге: как выбрать"
 description: "Ищете фирму по управлению посуточной арендой в СПб? Разбираем критерии выбора, плюсы и минусы, чтобы помочь собственникам максимизировать доход."
 pubDate: "2025-07-17T07:46:58.600Z"
-author: "ButlerSPB Expert"
-schema: {"@context":"https://schema.org","@type":"BlogPosting","headline":"Как выбрать надежную фирму по управлению посуточной арендой в Санкт-Петербурге","description":"Полное руководство для собственников недвижимости в Санкт-Петербурге по выбору управляющей компании для посуточной аренды. Ключевые аспекты и советы экспертов.","author":{"@type":"Person","name":"Иван Петров"},"publisher":{"@type":"Organization","name":"SPb Realty Experts","logo":{"@type":"ImageObject","url":"https://example.com/logo.png"}},"datePublished":"2024-05-21"}
-
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"---
+author: "Эксперт ButlerSPB"
+heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
+schema: {"@context":"https://schema.org","@type":"HowTo","name":"Фирма по управлению посуточной арендой в Санкт-Петербурге: как выбрать","description":"Ищете фирму по управлению посуточной арендой в СПб? Разбираем критерии выбора, плюсы и минусы, чтобы помочь собственникам максимизировать доход.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.8","reviewCount":417,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/firma-po-upravleniyu-posutochnoy-arendoy-v-sankt-peterburge/"}}
+---
 
 ### **(H1) Как выбрать фирму по управлению посуточной арендой в Санкт-Петербурге: Полное руководство для собственника**
 

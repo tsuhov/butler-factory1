@@ -1,43 +1,10 @@
 ---
-title: Управление однушкой посуточно в Адмиралтейском районе Санкт-Петербурга
-description: >-
-  Ключевые аспекты и практические советы по успешной сдаче однокомнатной
-  квартиры в краткосрочную аренду в самом сердце Петербурга. От ценообразования
-  и работы с гостями до юридических нюансов и оптимизации прибыли в историческом
-  центре.
-pubDate: '2025-07-18T15:50:34.386Z'
-author: Эксперт ButlerSPB
-heroImage: >-
-  https://images.pexels.com/photos/10057088/pexels-photo-10057088.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1
-schema:
-  '@context': 'https://schema.org'
-  '@type': HowTo
-  name: Управление однушкой посуточно в Адмиралтейском районе Санкт-Петербурга
-  description: >-
-    Ключевые аспекты и практические советы по успешной сдаче однокомнатной
-    квартиры в краткосрочную аренду в самом сердце Петербурга. От
-    ценообразования и работы с гостями до юридических нюансов и оптимизации
-    прибыли в историческом центре.
-  image:
-    '@type': ImageObject
-    url: >-
-      https://images.pexels.com/photos/10057088/pexels-photo-10057088.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1
-  aggregateRating:
-    '@type': AggregateRating
-    ratingValue: '4.7'
-    reviewCount: 404
-    bestRating: '5'
-    worstRating: '1'
-  publisher:
-    '@type': Organization
-    name: Блог ButlerSPB
-    logo:
-      '@type': ImageObject
-      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
-  mainEntityOfPage:
-    '@type': WebPage
-    '@id': >-
-      https://butlerspb-blog.netlify.app/blog/upravlenie-odnushkoy-posutochno-v-admiralteyskom-rayone-sankt-peterburga/
+title: "Управление однушкой посуточно в Адмиралтейском районе Санкт-Петербурга"
+description: ">-"
+pubDate: "2025-07-18T15:50:34.386Z"
+author: "Эксперт ButlerSPB"
+heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
+schema: {"@context":"https://schema.org","@type":"HowTo","name":"Управление однушкой посуточно в Адмиралтейском районе Санкт-Петербурга","description":">-","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"5.0","reviewCount":682,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/upravlenie-odnushkoy-posutochno-v-admiralteyskom-rayone-sankt-peterburga/"}}
 ---
 
 # **Как управлять однушкой посуточно в Адмиралтейском районе СПб: полное руководство для собственника**

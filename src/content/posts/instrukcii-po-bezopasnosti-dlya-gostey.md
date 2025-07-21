@@ -1,41 +1,10 @@
 ---
-title: Инструкции по безопасности для гостей
-description: >-
-  Ваш комфорт и безопасность — наш главный приоритет. В этой статье мы собрали
-  важные инструкции и рекомендации, которые помогут сделать ваше пребывание в
-  апартаментах ButlerSPB максимально безопасным и приятным. Пожалуйста,
-  ознакомьтесь с ними внимательно.
-pubDate: '2025-07-20T18:30:12.526Z'
-author: Эксперт ButlerSPB
-heroImage: 'https://images.pexels.com/photos/164522/pexels-photo-164522.jpeg'
-schema:
-  '@context': 'https://schema.org'
-  '@type': HowTo
-  name: Инструкции по безопасности для гостей
-  description: >-
-    Ваш комфорт и безопасность — наш главный приоритет. В этой статье мы собрали
-    важные инструкции и рекомендации, которые помогут сделать ваше пребывание в
-    апартаментах ButlerSPB максимально безопасным и приятным. Пожалуйста,
-    ознакомьтесь с ними внимательно.
-  image:
-    '@type': ImageObject
-    url: 'https://images.pexels.com/photos/164522/pexels-photo-164522.jpeg'
-  aggregateRating:
-    '@type': AggregateRating
-    ratingValue: '4.8'
-    reviewCount: 867
-    bestRating: '5'
-    worstRating: '1'
-  publisher:
-    '@type': Organization
-    name: Блог ButlerSPB
-    logo:
-      '@type': ImageObject
-      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
-  mainEntityOfPage:
-    '@type': WebPage
-    '@id': >-
-      https://butlerspb-blog.netlify.app/blog/instrukcii-po-bezopasnosti-dlya-gostey/
+title: "Инструкции по безопасности для гостей"
+description: ">-"
+pubDate: "2025-07-20T18:30:12.526Z"
+author: "Эксперт ButlerSPB"
+heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
+schema: {"@context":"https://schema.org","@type":"HowTo","name":"Инструкции по безопасности для гостей","description":">-","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":540,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/instrukcii-po-bezopasnosti-dlya-gostey/"}}
 ---
 
 # Инструкции по безопасности для гостей: Как сделать ваше пребывание в Петербурге комфортным и спокойным

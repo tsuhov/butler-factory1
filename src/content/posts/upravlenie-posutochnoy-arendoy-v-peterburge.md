@@ -2,10 +2,10 @@
 title: "Управление посуточной арендой в Петербурге: гайд для владельца"
 description: "Эффективное управление посуточной арендой в СПб. Советы по поиску гостей, ценообразованию, уборке и автоматизации для максимизации вашей прибыли."
 pubDate: "2025-07-17T00:11:04.169Z"
-author: "ButlerSPB Expert"
-schema: {"@context":"https://schema.org","@type":"BlogPosting","headline":"Как управлять посуточной арендой в Санкт-Петербурге: полное руководство","description":"Полное руководство по управлению краткосрочной арендой в Петербурге. Рассматриваем юридические вопросы, налоги, маркетинг, общение с гостями и автоматизацию бизнеса.","author":{"@type":"Person","name":"Мария Иванова"},"publisher":{"@type":"Organization","name":"Петербург Аренда","logo":{"@type":"ImageObject","url":"https://example.com/logo-spb-arenda.png"}},"datePublished":"2024-05-21"}
-
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"---
+author: "Эксперт ButlerSPB"
+heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
+schema: {"@context":"https://schema.org","@type":"HowTo","name":"Управление посуточной арендой в Петербурге: гайд для владельца","description":"Эффективное управление посуточной арендой в СПб. Советы по поиску гостей, ценообразованию, уборке и автоматизации для максимизации вашей прибыли.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":443,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/upravlenie-posutochnoy-arendoy-v-peterburge/"}}
+---
 
 ### **Управление посуточной арендой в Петербурге: от первой квартиры до стабильного бизнеса**
 

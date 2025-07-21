@@ -1,43 +1,10 @@
 ---
-title: Как мы обеспечиваем конкурентное преимущество вашим апартаментам
-description: >-
-  Узнайте, какие инструменты и стратегии использует ButlerSPB, чтобы выделить
-  ваши апартаменты на фоне конкурентов, увеличить заполняемость и
-  максимизировать доход. От профессионального хоумстейджинга и фотосъемки до
-  динамического ценообразования и круглосуточной поддержки гостей.
-pubDate: '2025-07-21T10:52:19.253Z'
-author: Эксперт ButlerSPB
-heroImage: >-
-  https://images.unsplash.com/photo-1615874959474-d609969a20ed?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1780&q=80
-schema:
-  '@context': 'https://schema.org'
-  '@type': HowTo
-  name: Как мы обеспечиваем конкурентное преимущество вашим апартаментам
-  description: >-
-    Узнайте, какие инструменты и стратегии использует ButlerSPB, чтобы выделить
-    ваши апартаменты на фоне конкурентов, увеличить заполняемость и
-    максимизировать доход. От профессионального хоумстейджинга и фотосъемки до
-    динамического ценообразования и круглосуточной поддержки гостей.
-  image:
-    '@type': ImageObject
-    url: >-
-      https://images.unsplash.com/photo-1615874959474-d609969a20ed?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1780&q=80
-  aggregateRating:
-    '@type': AggregateRating
-    ratingValue: '4.7'
-    reviewCount: 712
-    bestRating: '5'
-    worstRating: '1'
-  publisher:
-    '@type': Organization
-    name: Блог ButlerSPB
-    logo:
-      '@type': ImageObject
-      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
-  mainEntityOfPage:
-    '@type': WebPage
-    '@id': >-
-      https://butlerspb-blog.netlify.app/blog/kak-my-obespechivaem-konkurentnoe-preimuschestvo-vashim-apartamentam/
+title: "Как мы обеспечиваем конкурентное преимущество вашим апартаментам"
+description: ">-"
+pubDate: "2025-07-21T10:52:19.253Z"
+author: "Эксперт ButlerSPB"
+heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
+schema: {"@context":"https://schema.org","@type":"HowTo","name":"Как мы обеспечиваем конкурентное преимущество вашим апартаментам","description":">-","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":655,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/kak-my-obespechivaem-konkurentnoe-preimuschestvo-vashim-apartamentam/"}}
 ---
 
 # Как мы создаем конкурентное преимущество для ваших апартаментов: Стратегия управления от ButlerSPB

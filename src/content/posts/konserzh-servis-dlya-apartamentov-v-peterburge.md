@@ -1,41 +1,10 @@
 ---
-title: 'Консьерж-сервис для апартаментов в Петербурге: новый уровень комфорта'
-description: >-
-  Узнайте, как консьерж-сервис трансформирует проживание в апартаментах
-  Санкт-Петербурга. От решения бытовых задач до организации досуга — все, что
-  нужно знать о преимуществах и возможностях современных сервисных компаний.
-pubDate: '2025-07-18T18:01:21.529Z'
-author: Эксперт ButlerSPB
-heroImage: >-
-  https://images.pexels.com/photos/1743165/pexels-photo-1743165.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2
-schema:
-  '@context': 'https://schema.org'
-  '@type': HowTo
-  name: 'Консьерж-сервис для апартаментов в Петербурге: новый уровень комфорта'
-  description: >-
-    Узнайте, как консьерж-сервис трансформирует проживание в апартаментах
-    Санкт-Петербурга. От решения бытовых задач до организации досуга — все, что
-    нужно знать о преимуществах и возможностях современных сервисных компаний.
-  image:
-    '@type': ImageObject
-    url: >-
-      https://images.pexels.com/photos/1743165/pexels-photo-1743165.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2
-  aggregateRating:
-    '@type': AggregateRating
-    ratingValue: '4.9'
-    reviewCount: 453
-    bestRating: '5'
-    worstRating: '1'
-  publisher:
-    '@type': Organization
-    name: Блог ButlerSPB
-    logo:
-      '@type': ImageObject
-      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
-  mainEntityOfPage:
-    '@type': WebPage
-    '@id': >-
-      https://butlerspb-blog.netlify.app/blog/konserzh-servis-dlya-apartamentov-v-peterburge/
+title: "Консьерж-сервис для апартаментов в Петербурге: новый уровень комфорта"
+description: ">-"
+pubDate: "2025-07-18T18:01:21.529Z"
+author: "Эксперт ButlerSPB"
+heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
+schema: {"@context":"https://schema.org","@type":"HowTo","name":"Консьерж-сервис для апартаментов в Петербурге: новый уровень комфорта","description":">-","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.7","reviewCount":592,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/konserzh-servis-dlya-apartamentov-v-peterburge/"}}
 ---
 
 # Консьерж-сервис для апартаментов в Петербурге: больше, чем просто ключи. Как повысить доходность и статус вашей недвижимости

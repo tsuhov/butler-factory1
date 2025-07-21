@@ -1,41 +1,10 @@
 ---
-title: Как мы обеспечиваем сохранность вашего имущества
-description: >-
-  В ButlerSPB мы понимаем, что доверие — это основа нашего сервиса. Узнайте о
-  наших многоуровневых мерах безопасности: от современных систем видеонаблюдения
-  и контроля доступа до строгого отбора персонала и полного страхового покрытия.
-  Ваша собственность в надежных руках.
-pubDate: '2025-07-20T14:50:55.335Z'
-author: Эксперт ButlerSPB
-heroImage: 'https://images.pexels.com/photos/164501/pexels-photo-164501.jpeg'
-schema:
-  '@context': 'https://schema.org'
-  '@type': HowTo
-  name: Как мы обеспечиваем сохранность вашего имущества
-  description: >-
-    В ButlerSPB мы понимаем, что доверие — это основа нашего сервиса. Узнайте о
-    наших многоуровневых мерах безопасности: от современных систем
-    видеонаблюдения и контроля доступа до строгого отбора персонала и полного
-    страхового покрытия. Ваша собственность в надежных руках.
-  image:
-    '@type': ImageObject
-    url: 'https://images.pexels.com/photos/164501/pexels-photo-164501.jpeg'
-  aggregateRating:
-    '@type': AggregateRating
-    ratingValue: '5.0'
-    reviewCount: 840
-    bestRating: '5'
-    worstRating: '1'
-  publisher:
-    '@type': Organization
-    name: Блог ButlerSPB
-    logo:
-      '@type': ImageObject
-      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
-  mainEntityOfPage:
-    '@type': WebPage
-    '@id': >-
-      https://butlerspb-blog.netlify.app/blog/kak-my-obespechivaem-sohrannost-vashego-imuschestva/
+title: "Как мы обеспечиваем сохранность вашего имущества"
+description: ">-"
+pubDate: "2025-07-20T14:50:55.335Z"
+author: "Эксперт ButlerSPB"
+heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
+schema: {"@context":"https://schema.org","@type":"HowTo","name":"Как мы обеспечиваем сохранность вашего имущества","description":">-","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":682,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/kak-my-obespechivaem-sohrannost-vashego-imuschestva/"}}
 ---
 
 # Ваша квартира в безопасности: 5 уровней защиты имущества от ButlerSPB при посуточной аренде

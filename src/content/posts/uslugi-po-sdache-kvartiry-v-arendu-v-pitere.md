@@ -1,46 +1,10 @@
 ---
-title: >-
-  Услуги по сдаче квартиры в аренду в Питере: Как ButlerSPB берет все хлопоты на
-  себя
-description: >-
-  Сдача квартиры в аренду в Санкт-Петербурге может быть сложным процессом: поиск
-  надежных жильцов, оформление документов, решение бытовых вопросов. Узнайте,
-  как профессиональные услуги по управлению недвижимостью от ButlerSPB помогают
-  собственникам получать стабильный доход, экономя время и нервы.
-pubDate: '2025-07-21T16:07:46.874Z'
-author: Эксперт ButlerSPB
-heroImage: 'https://images.pexels.com/photos/6585756/pexels-photo-6585756.jpeg'
-schema:
-  '@context': 'https://schema.org'
-  '@type': HowTo
-  name: >-
-    Услуги по сдаче квартиры в аренду в Питере: Как ButlerSPB берет все хлопоты
-    на себя
-  description: >-
-    Сдача квартиры в аренду в Санкт-Петербурге может быть сложным процессом:
-    поиск надежных жильцов, оформление документов, решение бытовых вопросов.
-    Узнайте, как профессиональные услуги по управлению недвижимостью от
-    ButlerSPB помогают собственникам получать стабильный доход, экономя время и
-    нервы.
-  image:
-    '@type': ImageObject
-    url: 'https://images.pexels.com/photos/6585756/pexels-photo-6585756.jpeg'
-  aggregateRating:
-    '@type': AggregateRating
-    ratingValue: '4.9'
-    reviewCount: 823
-    bestRating: '5'
-    worstRating: '1'
-  publisher:
-    '@type': Organization
-    name: Блог ButlerSPB
-    logo:
-      '@type': ImageObject
-      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
-  mainEntityOfPage:
-    '@type': WebPage
-    '@id': >-
-      https://butlerspb-blog.netlify.app/blog/uslugi-po-sdache-kvartiry-v-arendu-v-pitere/
+title: ">-"
+description: ">-"
+pubDate: "2025-07-21T16:07:46.874Z"
+author: "Эксперт ButlerSPB"
+heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
+schema: {"@context":"https://schema.org","@type":"HowTo","name":">-","description":">-","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.8","reviewCount":402,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/uslugi-po-sdache-kvartiry-v-arendu-v-pitere/"}}
 ---
 
 # Как сдать квартиру в Питере выгодно и безопасно: Когда стоит обратиться к профессионалам из ButlerSPB?

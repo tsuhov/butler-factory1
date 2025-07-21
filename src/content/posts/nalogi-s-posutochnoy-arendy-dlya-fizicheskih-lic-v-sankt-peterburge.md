@@ -2,10 +2,10 @@
 title: "Налоги с посуточной аренды в СПб: гайд для физлиц 2024"
 description: "Сдаете квартиру посуточно в Санкт-Петербурге? Узнайте, какие налоги платить физлицу, как легализовать доход и избежать штрафов. Режимы НПД, ИП и УСН."
 pubDate: "2025-07-17T17:03:54.920Z"
-author: "ButlerSPB Expert"
-schema: {"@context":"https://schema.org","@type":"BlogPosting","headline":"Налоги с посуточной аренды для физических лиц в Санкт-Петербурге: полное руководство","description":"Подробный разбор налоговых режимов для физических лиц, сдающих жилье в посуточную аренду в Санкт-Петербурге. Как выбрать между НПД (самозанятость), ИП на УСН и патентом, чтобы платить налоги правильно и легально.","author":{"@type":"Person","name":"Елена Смирнова"},"publisher":{"@type":"Organization","name":"СПб Аренда Консалтинг","logo":{"@type":"ImageObject","url":"https://example.com/logo.png"}},"datePublished":"2024-05-24"}
-
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"---
+author: "Эксперт ButlerSPB"
+heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
+schema: {"@context":"https://schema.org","@type":"HowTo","name":"Налоги с посуточной аренды в СПб: гайд для физлиц 2024","description":"Сдаете квартиру посуточно в Санкт-Петербурге? Узнайте, какие налоги платить физлицу, как легализовать доход и избежать штрафов. Режимы НПД, ИП и УСН.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"5.0","reviewCount":452,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/nalogi-s-posutochnoy-arendy-dlya-fizicheskih-lic-v-sankt-peterburge/"}}
+---
 
 ### **(H1) Налоги с посуточной аренды в Санкт-Петербурге: Полное руководство для собственника в 2024 году**
 

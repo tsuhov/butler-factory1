@@ -1,40 +1,10 @@
 ---
-title: 'Ваши идеи — наши улучшения: как ButlerSPB внедряет предложения гостей'
-description: >-
-  Мы верим, что лучший сервис создается в диалоге. В этой статье мы расскажем,
-  как прислушиваемся к вашим отзывам, какие идеи уже воплотили в жизнь и почему
-  ваше мнение — самый ценный ресурс для развития ButlerSPB.
-pubDate: '2025-07-21T00:23:45.485Z'
-author: Эксперт ButlerSPB
-heroImage: >-
-  https://images.pexels.com/photos/4145190/pexels-photo-4145190.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1
-schema:
-  '@context': 'https://schema.org'
-  '@type': HowTo
-  name: 'Ваши идеи — наши улучшения: как ButlerSPB внедряет предложения гостей'
-  description: >-
-    Мы верим, что лучший сервис создается в диалоге. В этой статье мы расскажем,
-    как прислушиваемся к вашим отзывам, какие идеи уже воплотили в жизнь и
-    почему ваше мнение — самый ценный ресурс для развития ButlerSPB.
-  image:
-    '@type': ImageObject
-    url: >-
-      https://images.pexels.com/photos/4145190/pexels-photo-4145190.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1
-  aggregateRating:
-    '@type': AggregateRating
-    ratingValue: '4.9'
-    reviewCount: 363
-    bestRating: '5'
-    worstRating: '1'
-  publisher:
-    '@type': Organization
-    name: Блог ButlerSPB
-    logo:
-      '@type': ImageObject
-      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
-  mainEntityOfPage:
-    '@type': WebPage
-    '@id': 'https://butlerspb-blog.netlify.app/blog/vnedrenie-predlozheniy-gostey/'
+title: "Ваши идеи — наши улучшения: как ButlerSPB внедряет предложения гостей"
+description: ">-"
+pubDate: "2025-07-21T00:23:45.485Z"
+author: "Эксперт ButlerSPB"
+heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
+schema: {"@context":"https://schema.org","@type":"HowTo","name":"Ваши идеи — наши улучшения: как ButlerSPB внедряет предложения гостей","description":">-","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"5.0","reviewCount":887,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/vnedrenie-predlozheniy-gostey/"}}
 ---
 
 # Как предложения гостей увеличивают доход от посуточной аренды: пошаговое руководство для собственников в СПб

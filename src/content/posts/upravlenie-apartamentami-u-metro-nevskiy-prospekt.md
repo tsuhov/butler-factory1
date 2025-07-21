@@ -1,46 +1,10 @@
 ---
-title: >-
-  Управление апартаментами у метро Невский проспект: полное руководство для
-  собственника
-description: >-
-  Ключевые аспекты успешного управления недвижимостью в самом сердце
-  Санкт-Петербурга. Советы по ценообразованию, поиску арендаторов, обслуживанию
-  и максимизации прибыли от апартаментов у метро Невский проспект.
-pubDate: '2025-07-18T16:14:05.501Z'
-author: Эксперт ButlerSPB
-heroImage: >-
-  https://images.pexels.com/photos/1070850/pexels-photo-1070850.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2
-schema:
-  '@context': 'https://schema.org'
-  '@type': HowTo
-  name: >-
-    Управление апартаментами у метро Невский проспект: полное руководство для
-    собственника
-  description: >-
-    Ключевые аспекты успешного управления недвижимостью в самом сердце
-    Санкт-Петербурга. Советы по ценообразованию, поиску арендаторов,
-    обслуживанию и максимизации прибыли от апартаментов у метро Невский
-    проспект.
-  image:
-    '@type': ImageObject
-    url: >-
-      https://images.pexels.com/photos/1070850/pexels-photo-1070850.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2
-  aggregateRating:
-    '@type': AggregateRating
-    ratingValue: '4.8'
-    reviewCount: 828
-    bestRating: '5'
-    worstRating: '1'
-  publisher:
-    '@type': Organization
-    name: Блог ButlerSPB
-    logo:
-      '@type': ImageObject
-      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
-  mainEntityOfPage:
-    '@type': WebPage
-    '@id': >-
-      https://butlerspb-blog.netlify.app/blog/upravlenie-apartamentami-u-metro-nevskiy-prospekt/
+title: ">-"
+description: ">-"
+pubDate: "2025-07-18T16:14:05.501Z"
+author: "Эксперт ButlerSPB"
+heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
+schema: {"@context":"https://schema.org","@type":"HowTo","name":">-","description":">-","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":493,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/upravlenie-apartamentami-u-metro-nevskiy-prospekt/"}}
 ---
 
 # Управление апартаментами у метро "Невский проспект": Максимизируем ваш доход в 2024 году

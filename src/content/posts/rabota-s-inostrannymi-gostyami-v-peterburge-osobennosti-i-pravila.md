@@ -1,41 +1,10 @@
 ---
-title: 'Работа с иностранными гостями в Петербурге: особенности и правила'
-description: >-
-  Полное руководство по приему и обслуживанию иностранных туристов в
-  Санкт-Петербурге. Рассматриваем культурные нюансы, юридические аспекты
-  регистрации, языковые барьеры и лучшие практики для создания незабываемого
-  опыта для гостей со всего мира.
-pubDate: '2025-07-18T18:25:04.411Z'
-author: Эксперт ButlerSPB
-heroImage: 'https://images.pexels.com/photos/2087387/pexels-photo-2087387.jpeg'
-schema:
-  '@context': 'https://schema.org'
-  '@type': HowTo
-  name: 'Работа с иностранными гостями в Петербурге: особенности и правила'
-  description: >-
-    Полное руководство по приему и обслуживанию иностранных туристов в
-    Санкт-Петербурге. Рассматриваем культурные нюансы, юридические аспекты
-    регистрации, языковые барьеры и лучшие практики для создания незабываемого
-    опыта для гостей со всего мира.
-  image:
-    '@type': ImageObject
-    url: 'https://images.pexels.com/photos/2087387/pexels-photo-2087387.jpeg'
-  aggregateRating:
-    '@type': AggregateRating
-    ratingValue: '4.8'
-    reviewCount: 541
-    bestRating: '5'
-    worstRating: '1'
-  publisher:
-    '@type': Organization
-    name: Блог ButlerSPB
-    logo:
-      '@type': ImageObject
-      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
-  mainEntityOfPage:
-    '@type': WebPage
-    '@id': >-
-      https://butlerspb-blog.netlify.app/blog/rabota-s-inostrannymi-gostyami-v-peterburge-osobennosti-i-pravila/
+title: "Работа с иностранными гостями в Петербурге: особенности и правила"
+description: ">-"
+pubDate: "2025-07-18T18:25:04.411Z"
+author: "Эксперт ButlerSPB"
+heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
+schema: {"@context":"https://schema.org","@type":"HowTo","name":"Работа с иностранными гостями в Петербурге: особенности и правила","description":">-","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.8","reviewCount":553,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/rabota-s-inostrannymi-gostyami-v-peterburge-osobennosti-i-pravila/"}}
 ---
 
 # Работа с иностранными гостями в Петербурге: от миграционного учета до безупречного сервиса

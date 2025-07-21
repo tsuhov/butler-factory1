@@ -1,43 +1,10 @@
 ---
-title: Выбор износостойких материалов для отделки
-description: >-
-  Правильный выбор материалов для отделки — залог долговечности и эстетики
-  вашего интерьера. В этой статье мы рассмотрим самые прочные и практичные
-  решения для полов, стен и других поверхностей, которые сохранят свой
-  первозданный вид на долгие годы.
-pubDate: '2025-07-20T00:44:24.528Z'
-author: Эксперт ButlerSPB
-heroImage: >-
-  https://images.pexels.com/photos/7218637/pexels-photo-7218637.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2
-schema:
-  '@context': 'https://schema.org'
-  '@type': HowTo
-  name: Выбор износостойких материалов для отделки
-  description: >-
-    Правильный выбор материалов для отделки — залог долговечности и эстетики
-    вашего интерьера. В этой статье мы рассмотрим самые прочные и практичные
-    решения для полов, стен и других поверхностей, которые сохранят свой
-    первозданный вид на долгие годы.
-  image:
-    '@type': ImageObject
-    url: >-
-      https://images.pexels.com/photos/7218637/pexels-photo-7218637.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2
-  aggregateRating:
-    '@type': AggregateRating
-    ratingValue: '4.9'
-    reviewCount: 891
-    bestRating: '5'
-    worstRating: '1'
-  publisher:
-    '@type': Organization
-    name: Блог ButlerSPB
-    logo:
-      '@type': ImageObject
-      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
-  mainEntityOfPage:
-    '@type': WebPage
-    '@id': >-
-      https://butlerspb-blog.netlify.app/blog/vybor-iznosostoykih-materialov-dlya-otdelki/
+title: "Выбор износостойких материалов для отделки"
+description: ">-"
+pubDate: "2025-07-20T00:44:24.528Z"
+author: "Эксперт ButlerSPB"
+heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
+schema: {"@context":"https://schema.org","@type":"HowTo","name":"Выбор износостойких материалов для отделки","description":">-","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.7","reviewCount":353,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/vybor-iznosostoykih-materialov-dlya-otdelki/"}}
 ---
 
 # Гид по выбору износостойких материалов для отделки: Инвестиция в долговечность вашего ремонта

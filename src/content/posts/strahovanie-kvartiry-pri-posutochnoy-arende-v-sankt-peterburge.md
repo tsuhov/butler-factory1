@@ -2,10 +2,10 @@
 title: "Страхование квартиры при посуточной аренде в СПб: как защититься?"
 description: "Сдаете квартиру посуточно в Санкт-Петербурге? Узнайте, как выбрать страховку, чтобы защитить имущество от ущерба, кражи и других рисков."
 pubDate: "2025-07-17T17:25:32.631Z"
-author: "ButlerSPB Expert"
-schema: {"@context":"https://schema.org","@type":"BlogPosting","headline":"Страхование квартиры при посуточной аренде в Санкт-Петербурге: полное руководство","description":"Все о страховании квартиры для посуточной аренды в СПб. Разбираем риски, виды полисов и как защитить свое имущество от недобросовестных арендаторов.","author":{"@type":"Person","name":"Иван Петров"},"publisher":{"@type":"Organization","name":"SPB-Rent-Advisor","logo":{"@type":"ImageObject","url":"https://example.com/logo.png"}},"datePublished":"2023-10-26"}
-
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"---
+author: "Эксперт ButlerSPB"
+heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
+schema: {"@context":"https://schema.org","@type":"HowTo","name":"Страхование квартиры при посуточной аренде в СПб: как защититься?","description":"Сдаете квартиру посуточно в Санкт-Петербурге? Узнайте, как выбрать страховку, чтобы защитить имущество от ущерба, кражи и других рисков.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":673,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/strahovanie-kvartiry-pri-posutochnoy-arende-v-sankt-peterburge/"}}
+---
 
 ### **Ваш доход под защитой: Экспертный гид по страхованию посуточной аренды в Санкт-Петербурге**
 

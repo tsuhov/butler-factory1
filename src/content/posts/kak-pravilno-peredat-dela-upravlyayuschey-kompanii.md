@@ -1,40 +1,10 @@
 ---
-title: 'Как правильно передать дела управляющей компании: пошаговое руководство'
-description: >-
-  Полное руководство по передаче дел от застройщика или предыдущей УК новой
-  управляющей компании. Описываем ключевые этапы, список необходимых документов
-  и частые ошибки, чтобы процесс прошел гладко и без юридических рисков.
-pubDate: '2025-07-20T11:02:15.924Z'
-author: Эксперт ButlerSPB
-heroImage: 'https://images.pexels.com/photos/7533347/pexels-photo-7533347.jpeg'
-schema:
-  '@context': 'https://schema.org'
-  '@type': HowTo
-  name: 'Как правильно передать дела управляющей компании: пошаговое руководство'
-  description: >-
-    Полное руководство по передаче дел от застройщика или предыдущей УК новой
-    управляющей компании. Описываем ключевые этапы, список необходимых
-    документов и частые ошибки, чтобы процесс прошел гладко и без юридических
-    рисков.
-  image:
-    '@type': ImageObject
-    url: 'https://images.pexels.com/photos/7533347/pexels-photo-7533347.jpeg'
-  aggregateRating:
-    '@type': AggregateRating
-    ratingValue: '4.8'
-    reviewCount: 507
-    bestRating: '5'
-    worstRating: '1'
-  publisher:
-    '@type': Organization
-    name: Блог ButlerSPB
-    logo:
-      '@type': ImageObject
-      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
-  mainEntityOfPage:
-    '@type': WebPage
-    '@id': >-
-      https://butlerspb-blog.netlify.app/blog/kak-pravilno-peredat-dela-upravlyayuschey-kompanii/
+title: "Как правильно передать дела управляющей компании: пошаговое руководство"
+description: ">-"
+pubDate: "2025-07-20T11:02:15.924Z"
+author: "Эксперт ButlerSPB"
+heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
+schema: {"@context":"https://schema.org","@type":"HowTo","name":"Как правильно передать дела управляющей компании: пошаговое руководство","description":">-","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":676,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/kak-pravilno-peredat-dela-upravlyayuschey-kompanii/"}}
 ---
 
 # Как правильно передать дела управляющей компании: пошаговая инструкция и чек-лист документов

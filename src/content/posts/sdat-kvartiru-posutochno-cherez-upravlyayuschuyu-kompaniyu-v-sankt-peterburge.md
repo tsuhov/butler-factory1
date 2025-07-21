@@ -1,47 +1,10 @@
 ---
-title: >-
-  Сдать квартиру посуточно через управляющую компанию в Санкт-Петербурге: полное
-  руководство
-description: >-
-  Хотите получать пассивный доход от своей квартиры в Петербурге без лишних
-  хлопот? Узнайте все о посуточной аренде через управляющую компанию ButlerSPB:
-  от преимуществ и выбора партнера до юридических аспектов и увеличения прибыли.
-  Пошаговая инструкция для собственников.
-pubDate: '2025-07-21T16:07:18.939Z'
-author: Эксперт ButlerSPB
-heroImage: >-
-  https://images.pexels.com/photos/7031406/pexels-photo-7031406.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2
-schema:
-  '@context': 'https://schema.org'
-  '@type': HowTo
-  name: >-
-    Сдать квартиру посуточно через управляющую компанию в Санкт-Петербурге:
-    полное руководство
-  description: >-
-    Хотите получать пассивный доход от своей квартиры в Петербурге без лишних
-    хлопот? Узнайте все о посуточной аренде через управляющую компанию
-    ButlerSPB: от преимуществ и выбора партнера до юридических аспектов и
-    увеличения прибыли. Пошаговая инструкция для собственников.
-  image:
-    '@type': ImageObject
-    url: >-
-      https://images.pexels.com/photos/7031406/pexels-photo-7031406.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2
-  aggregateRating:
-    '@type': AggregateRating
-    ratingValue: '4.7'
-    reviewCount: 545
-    bestRating: '5'
-    worstRating: '1'
-  publisher:
-    '@type': Organization
-    name: Блог ButlerSPB
-    logo:
-      '@type': ImageObject
-      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
-  mainEntityOfPage:
-    '@type': WebPage
-    '@id': >-
-      https://butlerspb-blog.netlify.app/blog/sdat-kvartiru-posutochno-cherez-upravlyayuschuyu-kompaniyu-v-sankt-peterburge/
+title: ">-"
+description: ">-"
+pubDate: "2025-07-21T16:07:18.939Z"
+author: "Эксперт ButlerSPB"
+heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
+schema: {"@context":"https://schema.org","@type":"HowTo","name":">-","description":">-","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":613,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/sdat-kvartiru-posutochno-cherez-upravlyayuschuyu-kompaniyu-v-sankt-peterburge/"}}
 ---
 
 # Сдать квартиру посуточно через управляющую компанию в Санкт-Петербурге: от мечты о пассивном доходе до реальной прибыли

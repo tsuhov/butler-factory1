@@ -1,45 +1,10 @@
 ---
-title: >-
-  Сотрудничество с гидами и турфирмами в Санкт-Петербурге: Как найти надежных
-  партнеров
-description: >-
-  Подробное руководство по налаживанию эффективного сотрудничества с гидами и
-  туристическими компаниями в Санкт-Петербурге. Советы по поиску, проверке и
-  выстраиванию долгосрочных партнерских отношений для отелей, ресторанов и
-  других бизнесов в сфере гостеприимства.
-pubDate: '2025-07-19T13:17:54.070Z'
-author: Эксперт ButlerSPB
-heroImage: 'https://images.pexels.com/photos/1763499/pexels-photo-1763499.jpeg'
-schema:
-  '@context': 'https://schema.org'
-  '@type': HowTo
-  name: >-
-    Сотрудничество с гидами и турфирмами в Санкт-Петербурге: Как найти надежных
-    партнеров
-  description: >-
-    Подробное руководство по налаживанию эффективного сотрудничества с гидами и
-    туристическими компаниями в Санкт-Петербурге. Советы по поиску, проверке и
-    выстраиванию долгосрочных партнерских отношений для отелей, ресторанов и
-    других бизнесов в сфере гостеприимства.
-  image:
-    '@type': ImageObject
-    url: 'https://images.pexels.com/photos/1763499/pexels-photo-1763499.jpeg'
-  aggregateRating:
-    '@type': AggregateRating
-    ratingValue: '4.8'
-    reviewCount: 589
-    bestRating: '5'
-    worstRating: '1'
-  publisher:
-    '@type': Organization
-    name: Блог ButlerSPB
-    logo:
-      '@type': ImageObject
-      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
-  mainEntityOfPage:
-    '@type': WebPage
-    '@id': >-
-      https://butlerspb-blog.netlify.app/blog/sotrudnichestvo-s-gidami-i-turfirmami-v-sankt-peterburge/
+title: ">-"
+description: ">-"
+pubDate: "2025-07-19T13:17:54.070Z"
+author: "Эксперт ButlerSPB"
+heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
+schema: {"@context":"https://schema.org","@type":"HowTo","name":">-","description":">-","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.8","reviewCount":335,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/sotrudnichestvo-s-gidami-i-turfirmami-v-sankt-peterburge/"}}
 ---
 
 # Сотрудничество с гидами и турфирмами в Санкт-Петербурге: Полное руководство по B2B-партнерству

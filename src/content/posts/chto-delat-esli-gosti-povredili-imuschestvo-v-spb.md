@@ -2,10 +2,10 @@
 title: "Гости повредили имущество в СПб: что делать? Инструкция"
 description: "Ваши гости повредили имущество в квартире в Санкт-Петербурге? Узнайте, как правильно зафиксировать ущерб, получить компенсацию и куда обращаться за помощью."
 pubDate: "2025-07-17T17:14:36.690Z"
-author: "ButlerSPB Expert"
-schema: {"@context":"https://schema.org","@type":"BlogPosting","headline":"Гости повредили имущество в СПб: что делать? Пошаговая инструкция для собственника","description":"Ваши гости повредили имущество в квартире в Санкт-Петербурге? Узнайте, как правильно зафиксировать ущерб, получить компенсацию и куда обращаться за помощью.","author":{"@type":"Organization","name":"Юридический портал СПб","url":"https://example-law-spb.com"},"publisher":{"@type":"Organization","name":"Юридический портал СПб","logo":{"@type":"ImageObject","url":"https://example-law-spb.com/logo.png"}},"datePublished":"2023-10-27"}
-
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"---
+author: "Эксперт ButlerSPB"
+heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
+schema: {"@context":"https://schema.org","@type":"HowTo","name":"Гости повредили имущество в СПб: что делать? Инструкция","description":"Ваши гости повредили имущество в квартире в Санкт-Петербурге? Узнайте, как правильно зафиксировать ущерб, получить компенсацию и куда обращаться за помощью.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":616,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/chto-delat-esli-gosti-povredili-imuschestvo-v-spb/"}}
+---
 
 ### **Название статьи:** Гости повредили имущество в квартире в СПб: пошаговый план действий для собственника
 

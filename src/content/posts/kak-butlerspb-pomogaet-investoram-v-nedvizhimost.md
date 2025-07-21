@@ -1,41 +1,10 @@
 ---
-title: 'Инвестиции в недвижимость с ButlerSPB: ваш путь к пассивному доходу'
-description: >-
-  Узнайте, как наша команда экспертов помогает инвесторам на всех этапах: от
-  подбора ликвидных объектов и юридического сопровождения до эффективного
-  управления недвижимостью и максимизации вашей прибыли в Санкт-Петербурге.
-pubDate: '2025-07-20T22:33:29.485Z'
-author: Эксперт ButlerSPB
-heroImage: >-
-  https://images.pexels.com/photos/4246203/pexels-photo-4246203.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2
-schema:
-  '@context': 'https://schema.org'
-  '@type': HowTo
-  name: 'Инвестиции в недвижимость с ButlerSPB: ваш путь к пассивному доходу'
-  description: >-
-    Узнайте, как наша команда экспертов помогает инвесторам на всех этапах: от
-    подбора ликвидных объектов и юридического сопровождения до эффективного
-    управления недвижимостью и максимизации вашей прибыли в Санкт-Петербурге.
-  image:
-    '@type': ImageObject
-    url: >-
-      https://images.pexels.com/photos/4246203/pexels-photo-4246203.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2
-  aggregateRating:
-    '@type': AggregateRating
-    ratingValue: '4.9'
-    reviewCount: 792
-    bestRating: '5'
-    worstRating: '1'
-  publisher:
-    '@type': Organization
-    name: Блог ButlerSPB
-    logo:
-      '@type': ImageObject
-      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
-  mainEntityOfPage:
-    '@type': WebPage
-    '@id': >-
-      https://butlerspb-blog.netlify.app/blog/kak-butlerspb-pomogaet-investoram-v-nedvizhimost/
+title: "Инвестиции в недвижимость с ButlerSPB: ваш путь к пассивному доходу"
+description: ">-"
+pubDate: "2025-07-20T22:33:29.485Z"
+author: "Эксперт ButlerSPB"
+heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
+schema: {"@context":"https://schema.org","@type":"HowTo","name":"Инвестиции в недвижимость с ButlerSPB: ваш путь к пассивному доходу","description":">-","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"5.0","reviewCount":397,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/kak-butlerspb-pomogaet-investoram-v-nedvizhimost/"}}
 ---
 
 # Как ButlerSPB превращает вашу квартиру в Санкт-Петербурге в стабильный источник пассивного дохода

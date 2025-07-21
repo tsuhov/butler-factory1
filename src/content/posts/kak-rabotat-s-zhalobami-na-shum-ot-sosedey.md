@@ -1,41 +1,10 @@
 ---
-title: Как работать с жалобами на шум от соседей
-description: >-
-  Пошаговое руководство для тех, кто столкнулся с претензиями соседей из-за
-  шума. Узнайте, как правильно реагировать, какие законы вас защищают и как
-  найти мирное решение конфликта.
-pubDate: '2025-07-19T13:30:06.077Z'
-author: Эксперт ButlerSPB
-heroImage: >-
-  https://images.pexels.com/photos/3770313/pexels-photo-3770313.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2
-schema:
-  '@context': 'https://schema.org'
-  '@type': HowTo
-  name: Как работать с жалобами на шум от соседей
-  description: >-
-    Пошаговое руководство для тех, кто столкнулся с претензиями соседей из-за
-    шума. Узнайте, как правильно реагировать, какие законы вас защищают и как
-    найти мирное решение конфликта.
-  image:
-    '@type': ImageObject
-    url: >-
-      https://images.pexels.com/photos/3770313/pexels-photo-3770313.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2
-  aggregateRating:
-    '@type': AggregateRating
-    ratingValue: '4.8'
-    reviewCount: 548
-    bestRating: '5'
-    worstRating: '1'
-  publisher:
-    '@type': Organization
-    name: Блог ButlerSPB
-    logo:
-      '@type': ImageObject
-      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
-  mainEntityOfPage:
-    '@type': WebPage
-    '@id': >-
-      https://butlerspb-blog.netlify.app/blog/kak-rabotat-s-zhalobami-na-shum-ot-sosedey/
+title: "Как работать с жалобами на шум от соседей"
+description: ">-"
+pubDate: "2025-07-19T13:30:06.077Z"
+author: "Эксперт ButlerSPB"
+heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
+schema: {"@context":"https://schema.org","@type":"HowTo","name":"Как работать с жалобами на шум от соседей","description":">-","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.8","reviewCount":393,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/kak-rabotat-s-zhalobami-na-shum-ot-sosedey/"}}
 ---
 
 # Соседи жалуются на шум: пошаговый план действий

@@ -1,41 +1,10 @@
 ---
-title: 'Наши стандарты чистоты: как ButlerSPB поддерживает идеальный порядок'
-description: >-
-  В этой статье мы раскрываем секреты нашего подхода к уборке. Узнайте о наших
-  стандартах, профессиональном оборудовании и любви к деталям, которые делают
-  каждое помещение безупречным.
-pubDate: '2025-07-20T14:59:18.921Z'
-author: Эксперт ButlerSPB
-heroImage: >-
-  https://images.pexels.com/photos/4239147/pexels-photo-4239147.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2
-schema:
-  '@context': 'https://schema.org'
-  '@type': HowTo
-  name: 'Наши стандарты чистоты: как ButlerSPB поддерживает идеальный порядок'
-  description: >-
-    В этой статье мы раскрываем секреты нашего подхода к уборке. Узнайте о наших
-    стандартах, профессиональном оборудовании и любви к деталям, которые делают
-    каждое помещение безупречным.
-  image:
-    '@type': ImageObject
-    url: >-
-      https://images.pexels.com/photos/4239147/pexels-photo-4239147.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2
-  aggregateRating:
-    '@type': AggregateRating
-    ratingValue: '4.8'
-    reviewCount: 581
-    bestRating: '5'
-    worstRating: '1'
-  publisher:
-    '@type': Organization
-    name: Блог ButlerSPB
-    logo:
-      '@type': ImageObject
-      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
-  mainEntityOfPage:
-    '@type': WebPage
-    '@id': >-
-      https://butlerspb-blog.netlify.app/blog/kak-my-sledim-za-chistotoy-i-poryadkom/
+title: "Наши стандарты чистоты: как ButlerSPB поддерживает идеальный порядок"
+description: ">-"
+pubDate: "2025-07-20T14:59:18.921Z"
+author: "Эксперт ButlerSPB"
+heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
+schema: {"@context":"https://schema.org","@type":"HowTo","name":"Наши стандарты чистоты: как ButlerSPB поддерживает идеальный порядок","description":">-","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":773,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/kak-my-sledim-za-chistotoy-i-poryadkom/"}}
 ---
 
 # Чистота, которая приносит доход: За кулисами системы уборки ButlerSPB в Санкт-Петербурге

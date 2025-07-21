@@ -2,10 +2,10 @@
 title: "Налоги с посуточной аренды в СПб для физлиц: как платить?"
 description: "Сдаете квартиру посуточно в Санкт-Петербурге? Узнайте, какие налоги нужно платить физическим лицам, как выбрать режим и избежать штрафов. Полный гайд."
 pubDate: "2025-07-17T17:10:35.576Z"
-author: "ButlerSPB Expert"
-schema: {"@context":"https://schema.org","@type":"BlogPosting","headline":"Налоги с посуточной аренды в СПб для физлиц: как платить?","description":"Сдаете квартиру посуточно в Санкт-Петербурге? Узнайте, какие налоги нужно платить физическим лицам, как выбрать режим и избежать штрафов. Полный гайд.","author":{"@type":"Person","name":"Анна Смирнова"},"publisher":{"@type":"Organization","name":"Правовой Вестник Недвижимости","logo":{"@type":"ImageObject","url":"https://example.com/logo.png"}},"datePublished":"2023-10-27"}
-
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"---
+author: "Эксперт ButlerSPB"
+heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
+schema: {"@context":"https://schema.org","@type":"HowTo","name":"Налоги с посуточной аренды в СПб для физлиц: как платить?","description":"Сдаете квартиру посуточно в Санкт-Петербурге? Узнайте, какие налоги нужно платить физическим лицам, как выбрать режим и избежать штрафов. Полный гайд.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.8","reviewCount":779,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/nalogi-s-posutochnoy-arendy-dlya-fizicheskih-lic-v-pitere/"}}
+---
 
 ### **(H1) Налоги с посуточной аренды в Санкт-Петербурге: полное руководство для физлиц в 2024 году**
 

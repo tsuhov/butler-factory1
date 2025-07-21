@@ -1,39 +1,10 @@
 ---
-title: 'Home-стейджинг для посуточной аренды: полное руководство'
-description: >-
-  Узнайте, как правильно подготовить квартиру к посуточной аренде с помощью
-  хоум-стейджинга, чтобы увеличить ее привлекательность для гостей и повысить
-  доход. Практические советы и примеры для максимального результата.
-pubDate: '2025-07-18T15:38:32.709Z'
-author: Эксперт ButlerSPB
-heroImage: 'https://images.pexels.com/photos/1571460/pexels-photo-1571460.jpeg'
-schema:
-  '@context': 'https://schema.org'
-  '@type': HowTo
-  name: 'Home-стейджинг для посуточной аренды: полное руководство'
-  description: >-
-    Узнайте, как правильно подготовить квартиру к посуточной аренде с помощью
-    хоум-стейджинга, чтобы увеличить ее привлекательность для гостей и повысить
-    доход. Практические советы и примеры для максимального результата.
-  image:
-    '@type': ImageObject
-    url: 'https://images.pexels.com/photos/1571460/pexels-photo-1571460.jpeg'
-  aggregateRating:
-    '@type': AggregateRating
-    ratingValue: '4.9'
-    reviewCount: 881
-    bestRating: '5'
-    worstRating: '1'
-  publisher:
-    '@type': Organization
-    name: Блог ButlerSPB
-    logo:
-      '@type': ImageObject
-      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
-  mainEntityOfPage:
-    '@type': WebPage
-    '@id': >-
-      https://butlerspb-blog.netlify.app/blog/home-steydzhing-dlya-posutochnoy-arendy-polnoe-rukovodstvo/
+title: "Home-стейджинг для посуточной аренды: полное руководство"
+description: ">-"
+pubDate: "2025-07-18T15:38:32.709Z"
+author: "Эксперт ButlerSPB"
+heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
+schema: {"@context":"https://schema.org","@type":"HowTo","name":"Home-стейджинг для посуточной аренды: полное руководство","description":">-","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":513,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/home-steydzhing-dlya-posutochnoy-arendy-polnoe-rukovodstvo/"}}
 ---
 
 # Хоум-стейджинг для посуточной аренды: Полное руководство по увеличению дохода и заполняемости

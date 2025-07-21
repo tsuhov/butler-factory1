@@ -1,41 +1,10 @@
 ---
-title: 'Начните сегодня: бесплатная оценка вашей квартиры'
-description: >-
-  Планируете продажу или просто хотите узнать актуальную рыночную стоимость
-  вашей недвижимости? Компания ButlerSPB предлагает быструю, профессиональную и
-  абсолютно бесплатную оценку. Узнайте реальную цену вашей квартиры уже сегодня
-  и принимайте взвешенные решения о своем будущем.
-pubDate: '2025-07-20T22:31:35.076Z'
-author: Эксперт ButlerSPB
-heroImage: 'https://images.pexels.com/photos/1571460/pexels-photo-1571460.jpeg'
-schema:
-  '@context': 'https://schema.org'
-  '@type': HowTo
-  name: 'Начните сегодня: бесплатная оценка вашей квартиры'
-  description: >-
-    Планируете продажу или просто хотите узнать актуальную рыночную стоимость
-    вашей недвижимости? Компания ButlerSPB предлагает быструю, профессиональную
-    и абсолютно бесплатную оценку. Узнайте реальную цену вашей квартиры уже
-    сегодня и принимайте взвешенные решения о своем будущем.
-  image:
-    '@type': ImageObject
-    url: 'https://images.pexels.com/photos/1571460/pexels-photo-1571460.jpeg'
-  aggregateRating:
-    '@type': AggregateRating
-    ratingValue: '4.8'
-    reviewCount: 854
-    bestRating: '5'
-    worstRating: '1'
-  publisher:
-    '@type': Organization
-    name: Блог ButlerSPB
-    logo:
-      '@type': ImageObject
-      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
-  mainEntityOfPage:
-    '@type': WebPage
-    '@id': >-
-      https://butlerspb-blog.netlify.app/blog/nachnite-segodnya-besplatnaya-ocenka-vashey-kvartiry/
+title: "Начните сегодня: бесплатная оценка вашей квартиры"
+description: ">-"
+pubDate: "2025-07-20T22:31:35.076Z"
+author: "Эксперт ButlerSPB"
+heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
+schema: {"@context":"https://schema.org","@type":"HowTo","name":"Начните сегодня: бесплатная оценка вашей квартиры","description":">-","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.8","reviewCount":764,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/nachnite-segodnya-besplatnaya-ocenka-vashey-kvartiry/"}}
 ---
 
 # Начните сегодня: бесплатная оценка вашей квартиры

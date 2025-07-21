@@ -2,10 +2,10 @@
 title: "Управление посуточной арендой под ключ в Санкт-Петербурге"
 description: "Профессиональное управление посуточной арендой квартир в СПб. Доверьте свою недвижимость экспертам и получайте пассивный доход без хлопот."
 pubDate: "2025-07-17T07:52:48.131Z"
-author: "ButlerSPB Expert"
-schema: {"@context":"https://schema.org","@type":"BlogPosting","headline":"Управление посуточной арендой под ключ в Санкт-Петербурге","description":"Профессиональное управление посуточной арендой квартир в СПб. Доверьте свою недвижимость экспертам и получайте пассивный доход без хлопот.","author":{"@type":"Person","name":"Эксперт по недвижимости"},"publisher":{"@type":"Organization","name":"Агентство недвижимости СПб","logo":{"@type":"ImageObject","url":"https://example.com/logo.png"}},"datePublished":"2024-05-21"}
-
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"---
+author: "Эксперт ButlerSPB"
+heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
+schema: {"@context":"https://schema.org","@type":"HowTo","name":"Управление посуточной арендой под ключ в Санкт-Петербурге","description":"Профессиональное управление посуточной арендой квартир в СПб. Доверьте свою недвижимость экспертам и получайте пассивный доход без хлопот.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.8","reviewCount":508,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/upravlenie-posutochnoy-arendoy-pod-klyuch-v-sankt-peterburge/"}}
+---
 
 ### **<h1>Управление посуточной арендой в Санкт-Петербурге «под ключ»: от подготовки квартиры до пассивного дохода</h1>**
 

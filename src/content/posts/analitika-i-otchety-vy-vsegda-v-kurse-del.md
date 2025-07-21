@@ -1,41 +1,10 @@
 ---
-title: 'Аналитика и отчеты: вы всегда в курсе дел'
-description: >-
-  Узнайте, как наши инструменты аналитики и детализированные отчеты помогают
-  принимать взвешенные решения, контролировать ключевые показатели и держать
-  руку на пульсе вашего бизнеса. С ButlerSPB вы всегда на шаг впереди.
-pubDate: '2025-07-20T13:33:36.785Z'
-author: Эксперт ButlerSPB
-heroImage: >-
-  https://images.unsplash.com/photo-1551288049-bebda4e38f71?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D
-schema:
-  '@context': 'https://schema.org'
-  '@type': HowTo
-  name: 'Аналитика и отчеты: вы всегда в курсе дел'
-  description: >-
-    Узнайте, как наши инструменты аналитики и детализированные отчеты помогают
-    принимать взвешенные решения, контролировать ключевые показатели и держать
-    руку на пульсе вашего бизнеса. С ButlerSPB вы всегда на шаг впереди.
-  image:
-    '@type': ImageObject
-    url: >-
-      https://images.unsplash.com/photo-1551288049-bebda4e38f71?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D
-  aggregateRating:
-    '@type': AggregateRating
-    ratingValue: '4.8'
-    reviewCount: 866
-    bestRating: '5'
-    worstRating: '1'
-  publisher:
-    '@type': Organization
-    name: Блог ButlerSPB
-    logo:
-      '@type': ImageObject
-      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
-  mainEntityOfPage:
-    '@type': WebPage
-    '@id': >-
-      https://butlerspb-blog.netlify.app/blog/analitika-i-otchety-vy-vsegda-v-kurse-del/
+title: "Аналитика и отчеты: вы всегда в курсе дел"
+description: ">-"
+pubDate: "2025-07-20T13:33:36.785Z"
+author: "Эксперт ButlerSPB"
+heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
+schema: {"@context":"https://schema.org","@type":"HowTo","name":"Аналитика и отчеты: вы всегда в курсе дел","description":">-","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.7","reviewCount":319,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/analitika-i-otchety-vy-vsegda-v-kurse-del/"}}
 ---
 
 # Аналитика и отчеты ButlerSPB: Как мы держим вас в курсе дел и увеличиваем доход вашей квартиры

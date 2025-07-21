@@ -1,41 +1,10 @@
 ---
-title: 'Как подготовиться к низкому сезону: полное руководство'
-description: >-
-  Низкий сезон — не повод для простоя, а возможность для роста. Узнайте, как
-  эффективно использовать это время для оптимизации бизнеса, обучения команды,
-  обновления маркетинговой стратегии и подготовки к будущему наплыву клиентов.
-pubDate: '2025-07-20T10:54:30.333Z'
-author: Эксперт ButlerSPB
-heroImage: >-
-  https://images.pexels.com/photos/262047/pexels-photo-262047.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2
-schema:
-  '@context': 'https://schema.org'
-  '@type': HowTo
-  name: 'Как подготовиться к низкому сезону: полное руководство'
-  description: >-
-    Низкий сезон — не повод для простоя, а возможность для роста. Узнайте, как
-    эффективно использовать это время для оптимизации бизнеса, обучения команды,
-    обновления маркетинговой стратегии и подготовки к будущему наплыву клиентов.
-  image:
-    '@type': ImageObject
-    url: >-
-      https://images.pexels.com/photos/262047/pexels-photo-262047.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2
-  aggregateRating:
-    '@type': AggregateRating
-    ratingValue: '4.7'
-    reviewCount: 365
-    bestRating: '5'
-    worstRating: '1'
-  publisher:
-    '@type': Organization
-    name: Блог ButlerSPB
-    logo:
-      '@type': ImageObject
-      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
-  mainEntityOfPage:
-    '@type': WebPage
-    '@id': >-
-      https://butlerspb-blog.netlify.app/blog/kak-podgotovitsya-k-nizkomu-sezonu/
+title: "Как подготовиться к низкому сезону: полное руководство"
+description: ">-"
+pubDate: "2025-07-20T10:54:30.333Z"
+author: "Эксперт ButlerSPB"
+heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
+schema: {"@context":"https://schema.org","@type":"HowTo","name":"Как подготовиться к низкому сезону: полное руководство","description":">-","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.8","reviewCount":894,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/kak-podgotovitsya-k-nizkomu-sezonu/"}}
 ---
 
 # Низкий сезон — не приговор: Полное руководство по подготовке вашего бизнеса

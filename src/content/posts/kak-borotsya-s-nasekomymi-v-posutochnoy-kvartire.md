@@ -1,41 +1,10 @@
 ---
-title: Как бороться с насекомыми в посуточной квартире
-description: >-
-  Обнаружили неприятных 'соседей' в съемной квартире? Наш гид поможет быстро и
-  эффективно избавиться от тараканов, клопов и других насекомых, а также
-  расскажет о мерах профилактики.
-pubDate: '2025-07-19T23:55:21.089Z'
-author: Эксперт ButlerSPB
-heroImage: >-
-  https://images.pexels.com/photos/4098778/pexels-photo-4098778.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2
-schema:
-  '@context': 'https://schema.org'
-  '@type': HowTo
-  name: Как бороться с насекомыми в посуточной квартире
-  description: >-
-    Обнаружили неприятных 'соседей' в съемной квартире? Наш гид поможет быстро и
-    эффективно избавиться от тараканов, клопов и других насекомых, а также
-    расскажет о мерах профилактики.
-  image:
-    '@type': ImageObject
-    url: >-
-      https://images.pexels.com/photos/4098778/pexels-photo-4098778.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2
-  aggregateRating:
-    '@type': AggregateRating
-    ratingValue: '4.8'
-    reviewCount: 720
-    bestRating: '5'
-    worstRating: '1'
-  publisher:
-    '@type': Organization
-    name: Блог ButlerSPB
-    logo:
-      '@type': ImageObject
-      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
-  mainEntityOfPage:
-    '@type': WebPage
-    '@id': >-
-      https://butlerspb-blog.netlify.app/blog/kak-borotsya-s-nasekomymi-v-posutochnoy-kvartire/
+title: "Как бороться с насекомыми в посуточной квартире"
+description: ">-"
+pubDate: "2025-07-19T23:55:21.089Z"
+author: "Эксперт ButlerSPB"
+heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
+schema: {"@context":"https://schema.org","@type":"HowTo","name":"Как бороться с насекомыми в посуточной квартире","description":">-","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"5.0","reviewCount":710,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/kak-borotsya-s-nasekomymi-v-posutochnoy-kvartire/"}}
 ---
 
 # Как бороться с насекомыми в посуточной квартире: полное руководство для гостя и хозяина

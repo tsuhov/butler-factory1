@@ -1,43 +1,10 @@
 ---
-title: Как мы привлекаем лучших гостей для вашей квартиры
-description: >-
-  В ButlerSPB мы знаем, что найти идеального гостя — это ключ к успешной аренде.
-  В этой статье мы раскроем наши секреты: от профессиональной фотосъемки и
-  продающих описаний до тщательной проверки гостей и работы с отзывами, чтобы
-  ваша недвижимость привлекала только самых надежных и ответственных
-  постояльцев.
-pubDate: '2025-07-20T13:26:52.166Z'
-author: Эксперт ButlerSPB
-heroImage: 'https://images.pexels.com/photos/4353813/pexels-photo-4353813.jpeg'
-schema:
-  '@context': 'https://schema.org'
-  '@type': HowTo
-  name: Как мы привлекаем лучших гостей для вашей квартиры
-  description: >-
-    В ButlerSPB мы знаем, что найти идеального гостя — это ключ к успешной
-    аренде. В этой статье мы раскроем наши секреты: от профессиональной
-    фотосъемки и продающих описаний до тщательной проверки гостей и работы с
-    отзывами, чтобы ваша недвижимость привлекала только самых надежных и
-    ответственных постояльцев.
-  image:
-    '@type': ImageObject
-    url: 'https://images.pexels.com/photos/4353813/pexels-photo-4353813.jpeg'
-  aggregateRating:
-    '@type': AggregateRating
-    ratingValue: '4.9'
-    reviewCount: 582
-    bestRating: '5'
-    worstRating: '1'
-  publisher:
-    '@type': Organization
-    name: Блог ButlerSPB
-    logo:
-      '@type': ImageObject
-      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
-  mainEntityOfPage:
-    '@type': WebPage
-    '@id': >-
-      https://butlerspb-blog.netlify.app/blog/kak-my-privlekaem-luchshih-gostey-dlya-vashey-kvartiry/
+title: "Как мы привлекаем лучших гостей для вашей квартиры"
+description: ">-"
+pubDate: "2025-07-20T13:26:52.166Z"
+author: "Эксперт ButlerSPB"
+heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
+schema: {"@context":"https://schema.org","@type":"HowTo","name":"Как мы привлекаем лучших гостей для вашей квартиры","description":">-","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"5.0","reviewCount":716,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/kak-my-privlekaem-luchshih-gostey-dlya-vashey-kvartiry/"}}
 ---
 
 # Лучшие гости для вашей квартиры: секреты ButlerSPB по привлечению, проверке и увеличению дохода

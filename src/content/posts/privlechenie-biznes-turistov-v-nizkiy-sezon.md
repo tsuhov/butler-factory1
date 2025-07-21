@@ -1,43 +1,10 @@
 ---
-title: Стратегии привлечения бизнес-туристов в низкий сезон
-description: >-
-  Низкий сезон — это возможность, а не проблема. Узнайте, как эффективно
-  привлекать корпоративных клиентов, MICE-мероприятия и деловых
-  путешественников, чтобы обеспечить стабильную загрузку вашего отеля или
-  апартаментов круглый год.
-pubDate: '2025-07-20T10:58:29.180Z'
-author: Эксперт ButlerSPB
-heroImage: >-
-  https://images.pexels.com/photos/3184398/pexels-photo-3184398.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1
-schema:
-  '@context': 'https://schema.org'
-  '@type': HowTo
-  name: Стратегии привлечения бизнес-туристов в низкий сезон
-  description: >-
-    Низкий сезон — это возможность, а не проблема. Узнайте, как эффективно
-    привлекать корпоративных клиентов, MICE-мероприятия и деловых
-    путешественников, чтобы обеспечить стабильную загрузку вашего отеля или
-    апартаментов круглый год.
-  image:
-    '@type': ImageObject
-    url: >-
-      https://images.pexels.com/photos/3184398/pexels-photo-3184398.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1
-  aggregateRating:
-    '@type': AggregateRating
-    ratingValue: '4.9'
-    reviewCount: 893
-    bestRating: '5'
-    worstRating: '1'
-  publisher:
-    '@type': Organization
-    name: Блог ButlerSPB
-    logo:
-      '@type': ImageObject
-      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
-  mainEntityOfPage:
-    '@type': WebPage
-    '@id': >-
-      https://butlerspb-blog.netlify.app/blog/privlechenie-biznes-turistov-v-nizkiy-sezon/
+title: "Стратегии привлечения бизнес-туристов в низкий сезон"
+description: ">-"
+pubDate: "2025-07-20T10:58:29.180Z"
+author: "Эксперт ButlerSPB"
+heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
+schema: {"@context":"https://schema.org","@type":"HowTo","name":"Стратегии привлечения бизнес-туристов в низкий сезон","description":">-","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.8","reviewCount":460,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/privlechenie-biznes-turistov-v-nizkiy-sezon/"}}
 ---
 
 # Как превратить низкий сезон в пик прибыли: полное руководство по привлечению бизнес-туристов

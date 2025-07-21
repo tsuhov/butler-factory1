@@ -1,45 +1,10 @@
 ---
-title: >-
-  Управление посуточной арендой в ЖК «Царская столица»: Полное руководство для
-  инвестора
-description: >-
-  Откройте для себя секреты успешной сдачи квартир в посуточную аренду в
-  престижном жилом комплексе «Царская столица». В этой статье мы рассмотрим все
-  аспекты: от подготовки апартаментов и ценообразования до работы с гостями и
-  максимизации прибыли.
-pubDate: '2025-07-18T16:46:07.981Z'
-author: Эксперт ButlerSPB
-heroImage: 'https://images.pexels.com/photos/6492403/pexels-photo-6492403.jpeg'
-schema:
-  '@context': 'https://schema.org'
-  '@type': HowTo
-  name: >-
-    Управление посуточной арендой в ЖК «Царская столица»: Полное руководство для
-    инвестора
-  description: >-
-    Откройте для себя секреты успешной сдачи квартир в посуточную аренду в
-    престижном жилом комплексе «Царская столица». В этой статье мы рассмотрим
-    все аспекты: от подготовки апартаментов и ценообразования до работы с
-    гостями и максимизации прибыли.
-  image:
-    '@type': ImageObject
-    url: 'https://images.pexels.com/photos/6492403/pexels-photo-6492403.jpeg'
-  aggregateRating:
-    '@type': AggregateRating
-    ratingValue: '5.0'
-    reviewCount: 853
-    bestRating: '5'
-    worstRating: '1'
-  publisher:
-    '@type': Organization
-    name: Блог ButlerSPB
-    logo:
-      '@type': ImageObject
-      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
-  mainEntityOfPage:
-    '@type': WebPage
-    '@id': >-
-      https://butlerspb-blog.netlify.app/blog/upravlenie-posutochnoy-arendoy-v-zhk-carskaya-stolica/
+title: ">-"
+description: ">-"
+pubDate: "2025-07-18T16:46:07.981Z"
+author: "Эксперт ButlerSPB"
+heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
+schema: {"@context":"https://schema.org","@type":"HowTo","name":">-","description":">-","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":593,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/upravlenie-posutochnoy-arendoy-v-zhk-carskaya-stolica/"}}
 ---
 
 # Управление посуточной арендой в ЖК "Царская столица": Как получать пассивный доход от 150 000 ₽ в месяц без лишних хлопот

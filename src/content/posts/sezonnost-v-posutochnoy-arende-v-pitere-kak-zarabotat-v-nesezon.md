@@ -1,38 +1,10 @@
 ---
-title: 'Сезонность в посуточной аренде в Питере: как заработать в несезон'
-description: >-
-  Узнайте, как преодолеть спад спроса в низкий сезон и максимизировать доход от
-  вашей квартиры в Санкт-Петербурге. Практические советы и стратегии для рантье.
-pubDate: '2025-07-18T18:21:15.487Z'
-author: Эксперт ButlerSPB
-heroImage: 'https://images.pexels.com/photos/2104152/pexels-photo-2104152.jpeg'
-schema:
-  '@context': 'https://schema.org'
-  '@type': HowTo
-  name: 'Сезонность в посуточной аренде в Питере: как заработать в несезон'
-  description: >-
-    Узнайте, как преодолеть спад спроса в низкий сезон и максимизировать доход
-    от вашей квартиры в Санкт-Петербурге. Практические советы и стратегии для
-    рантье.
-  image:
-    '@type': ImageObject
-    url: 'https://images.pexels.com/photos/2104152/pexels-photo-2104152.jpeg'
-  aggregateRating:
-    '@type': AggregateRating
-    ratingValue: '4.9'
-    reviewCount: 470
-    bestRating: '5'
-    worstRating: '1'
-  publisher:
-    '@type': Organization
-    name: Блог ButlerSPB
-    logo:
-      '@type': ImageObject
-      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
-  mainEntityOfPage:
-    '@type': WebPage
-    '@id': >-
-      https://butlerspb-blog.netlify.app/blog/sezonnost-v-posutochnoy-arende-v-pitere-kak-zarabotat-v-nesezon/
+title: "Сезонность в посуточной аренде в Питере: как заработать в несезон"
+description: ">-"
+pubDate: "2025-07-18T18:21:15.487Z"
+author: "Эксперт ButlerSPB"
+heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
+schema: {"@context":"https://schema.org","@type":"HowTo","name":"Сезонность в посуточной аренде в Питере: как заработать в несезон","description":">-","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.8","reviewCount":792,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/sezonnost-v-posutochnoy-arende-v-pitere-kak-zarabotat-v-nesezon/"}}
 ---
 
 # Сезонность в посуточной аренде в Питере: Как заполнить квартиру и заработать максимум в несезон

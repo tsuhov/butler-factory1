@@ -1,45 +1,10 @@
 ---
-title: >-
-  Инвестиции в недвижимость под посуточную аренду в СПБ: полное руководство для
-  инвестора
-description: >-
-  Анализ рынка посуточной аренды в Санкт-Петербурге, расчет доходности, выбор
-  оптимальной локации и стратегии управления. Все, что нужно знать для выгодного
-  вложения средств в арендный бизнес.
-pubDate: '2025-07-19T14:02:00.858Z'
-author: Эксперт ButlerSPB
-heroImage: >-
-  https://images.pexels.com/photos/7031406/pexels-photo-7031406.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1
-schema:
-  '@context': 'https://schema.org'
-  '@type': HowTo
-  name: >-
-    Инвестиции в недвижимость под посуточную аренду в СПБ: полное руководство
-    для инвестора
-  description: >-
-    Анализ рынка посуточной аренды в Санкт-Петербурге, расчет доходности, выбор
-    оптимальной локации и стратегии управления. Все, что нужно знать для
-    выгодного вложения средств в арендный бизнес.
-  image:
-    '@type': ImageObject
-    url: >-
-      https://images.pexels.com/photos/7031406/pexels-photo-7031406.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1
-  aggregateRating:
-    '@type': AggregateRating
-    ratingValue: '4.7'
-    reviewCount: 881
-    bestRating: '5'
-    worstRating: '1'
-  publisher:
-    '@type': Organization
-    name: Блог ButlerSPB
-    logo:
-      '@type': ImageObject
-      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
-  mainEntityOfPage:
-    '@type': WebPage
-    '@id': >-
-      https://butlerspb-blog.netlify.app/blog/investicii-v-nedvizhimost-pod-posutochnuyu-arendu-v-spb/
+title: ">-"
+description: ">-"
+pubDate: "2025-07-19T14:02:00.858Z"
+author: "Эксперт ButlerSPB"
+heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
+schema: {"@context":"https://schema.org","@type":"HowTo","name":">-","description":">-","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.8","reviewCount":354,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/investicii-v-nedvizhimost-pod-posutochnuyu-arendu-v-spb/"}}
 ---
 
 # Инвестиции в посуточную аренду в СПб: Полное руководство для инвестора 2024

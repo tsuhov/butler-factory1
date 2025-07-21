@@ -1,45 +1,10 @@
 ---
-title: >-
-  Эффективное управление апартаментами в Санкт-Петербурге: секреты успеха от
-  ButlerSPB
-description: >-
-  Санкт-Петербург — магнит для туристов и инвесторов. Узнайте, как
-  профессиональное управление апартаментами помогает максимизировать доходность,
-  минимизировать риски и обеспечить безупречный сервис для гостей. Делимся
-  опытом и лайфхаками от команды ButlerSPB.
-pubDate: '2025-07-21T15:59:28.567Z'
-author: Эксперт ButlerSPB
-heroImage: 'https://images.pexels.com/photos/6492403/pexels-photo-6492403.jpeg'
-schema:
-  '@context': 'https://schema.org'
-  '@type': HowTo
-  name: >-
-    Эффективное управление апартаментами в Санкт-Петербурге: секреты успеха от
-    ButlerSPB
-  description: >-
-    Санкт-Петербург — магнит для туристов и инвесторов. Узнайте, как
-    профессиональное управление апартаментами помогает максимизировать
-    доходность, минимизировать риски и обеспечить безупречный сервис для гостей.
-    Делимся опытом и лайфхаками от команды ButlerSPB.
-  image:
-    '@type': ImageObject
-    url: 'https://images.pexels.com/photos/6492403/pexels-photo-6492403.jpeg'
-  aggregateRating:
-    '@type': AggregateRating
-    ratingValue: '4.9'
-    reviewCount: 646
-    bestRating: '5'
-    worstRating: '1'
-  publisher:
-    '@type': Organization
-    name: Блог ButlerSPB
-    logo:
-      '@type': ImageObject
-      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
-  mainEntityOfPage:
-    '@type': WebPage
-    '@id': >-
-      https://butlerspb-blog.netlify.app/blog/upravlenie-apartamentami-v-sankt-peterburge/
+title: ">-"
+description: ">-"
+pubDate: "2025-07-21T15:59:28.567Z"
+author: "Эксперт ButlerSPB"
+heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
+schema: {"@context":"https://schema.org","@type":"HowTo","name":">-","description":">-","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.7","reviewCount":622,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/upravlenie-apartamentami-v-sankt-peterburge/"}}
 ---
 
 # Как превратить ваши апартаменты в СПб в источник пассивного дохода: Полное руководство по управлению

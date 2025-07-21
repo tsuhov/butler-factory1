@@ -1,49 +1,10 @@
 ---
-title: >-
-  Как выбрать управляющую компанию в Санкт-Петербурге: гид для собственника от
-  ButlerSPB
-description: >-
-  Владеете недвижимостью в Санкт-Петербурге и хотите получать стабильный доход
-  без лишних хлопот? Команда ButlerSPB рассказывает, на что обратить внимание
-  при выборе управляющей компании, какие услуги она должна предоставлять и как
-  профессиональное управление помогает максимизировать прибыль от аренды вашей
-  квартиры.
-pubDate: '2025-07-21T16:42:51.247Z'
-author: Эксперт ButlerSPB
-heroImage: >-
-  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
-schema:
-  '@context': 'https://schema.org'
-  '@type': HowTo
-  name: >-
-    Как выбрать управляющую компанию в Санкт-Петербурге: гид для собственника от
-    ButlerSPB
-  description: >-
-    Владеете недвижимостью в Санкт-Петербурге и хотите получать стабильный доход
-    без лишних хлопот? Команда ButlerSPB рассказывает, на что обратить внимание
-    при выборе управляющей компании, какие услуги она должна предоставлять и как
-    профессиональное управление помогает максимизировать прибыль от аренды вашей
-    квартиры.
-  image:
-    '@type': ImageObject
-    url: >-
-      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
-  aggregateRating:
-    '@type': AggregateRating
-    ratingValue: '4.7'
-    reviewCount: 595
-    bestRating: '5'
-    worstRating: '1'
-  publisher:
-    '@type': Organization
-    name: Блог ButlerSPB
-    logo:
-      '@type': ImageObject
-      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
-  mainEntityOfPage:
-    '@type': WebPage
-    '@id': >-
-      https://butlerspb-blog.netlify.app/blog/upravlyayuschaya-kompaniya-nedvizhimostyu-v-pitere/
+title: ">-"
+description: ">-"
+pubDate: "2025-07-21T16:42:51.247Z"
+author: "Эксперт ButlerSPB"
+heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
+schema: {"@context":"https://schema.org","@type":"HowTo","name":">-","description":">-","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.7","reviewCount":583,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/upravlyayuschaya-kompaniya-nedvizhimostyu-v-pitere/"}}
 ---
 
 # Управляющая компания недвижимостью в Питере: Ваш гид по беззаботной аренде и максимальному доходу

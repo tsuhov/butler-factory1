@@ -1,42 +1,10 @@
 ---
-title: 'Ежемесячные отчеты для собственников: ключ к прозрачности и контролю'
-description: >-
-  Узнайте, почему регулярные отчеты от управляющей компании — это не просто
-  формальность, а важный инструмент для понимания доходности вашей недвижимости.
-  В этой статье от ButlerSPB мы разбираем, какие данные должен содержать
-  идеальный отчет и как он помогает принимать верные инвестиционные решения.
-pubDate: '2025-07-20T19:07:46.560Z'
-author: Эксперт ButlerSPB
-heroImage: 'https://images.pexels.com/photos/7567434/pexels-photo-7567434.jpeg'
-schema:
-  '@context': 'https://schema.org'
-  '@type': HowTo
-  name: 'Ежемесячные отчеты для собственников: ключ к прозрачности и контролю'
-  description: >-
-    Узнайте, почему регулярные отчеты от управляющей компании — это не просто
-    формальность, а важный инструмент для понимания доходности вашей
-    недвижимости. В этой статье от ButlerSPB мы разбираем, какие данные должен
-    содержать идеальный отчет и как он помогает принимать верные инвестиционные
-    решения.
-  image:
-    '@type': ImageObject
-    url: 'https://images.pexels.com/photos/7567434/pexels-photo-7567434.jpeg'
-  aggregateRating:
-    '@type': AggregateRating
-    ratingValue: '4.8'
-    reviewCount: 562
-    bestRating: '5'
-    worstRating: '1'
-  publisher:
-    '@type': Organization
-    name: Блог ButlerSPB
-    logo:
-      '@type': ImageObject
-      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
-  mainEntityOfPage:
-    '@type': WebPage
-    '@id': >-
-      https://butlerspb-blog.netlify.app/blog/ezhemesyachnye-otchety-dlya-sobstvennikov/
+title: "Ежемесячные отчеты для собственников: ключ к прозрачности и контролю"
+description: ">-"
+pubDate: "2025-07-20T19:07:46.560Z"
+author: "Эксперт ButlerSPB"
+heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
+schema: {"@context":"https://schema.org","@type":"HowTo","name":"Ежемесячные отчеты для собственников: ключ к прозрачности и контролю","description":">-","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"5.0","reviewCount":433,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/ezhemesyachnye-otchety-dlya-sobstvennikov/"}}
 ---
 
 # Ежемесячный отчет для собственника: Полный гайд по цифрам, которые действительно имеют значение

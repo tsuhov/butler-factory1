@@ -1,48 +1,10 @@
 ---
-title: >-
-  Доход от посуточной аренды в Адмиралтейском районе Петербурга: анализ и
-  перспективы
-description: >-
-  Адмиралтейский район — одна из самых привлекательных локаций для посуточной
-  аренды в Санкт-Петербурге. В статье рассматриваются ключевые факторы, влияющие
-  на доходность: сезонность, близость к достопримечательностям, состояние
-  квартиры, а также приводятся средние показатели доходности для инвесторов.
-pubDate: '2025-07-19T09:44:08.830Z'
-author: Эксперт ButlerSPB
-heroImage: >-
-  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
-schema:
-  '@context': 'https://schema.org'
-  '@type': HowTo
-  name: >-
-    Доход от посуточной аренды в Адмиралтейском районе Петербурга: анализ и
-    перспективы
-  description: >-
-    Адмиралтейский район — одна из самых привлекательных локаций для посуточной
-    аренды в Санкт-Петербурге. В статье рассматриваются ключевые факторы,
-    влияющие на доходность: сезонность, близость к достопримечательностям,
-    состояние квартиры, а также приводятся средние показатели доходности для
-    инвесторов.
-  image:
-    '@type': ImageObject
-    url: >-
-      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
-  aggregateRating:
-    '@type': AggregateRating
-    ratingValue: '4.7'
-    reviewCount: 886
-    bestRating: '5'
-    worstRating: '1'
-  publisher:
-    '@type': Organization
-    name: Блог ButlerSPB
-    logo:
-      '@type': ImageObject
-      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
-  mainEntityOfPage:
-    '@type': WebPage
-    '@id': >-
-      https://butlerspb-blog.netlify.app/blog/dohod-ot-posutochnoy-arendy-v-admiralteyskom-rayone-peterburga/
+title: ">-"
+description: ">-"
+pubDate: "2025-07-19T09:44:08.830Z"
+author: "Эксперт ButlerSPB"
+heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
+schema: {"@context":"https://schema.org","@type":"HowTo","name":">-","description":">-","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.8","reviewCount":846,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/dohod-ot-posutochnoy-arendy-v-admiralteyskom-rayone-peterburga/"}}
 ---
 
 # Доход от посуточной аренды в Адмиралтейском районе СПб: полный расчет и стратегии для инвестора

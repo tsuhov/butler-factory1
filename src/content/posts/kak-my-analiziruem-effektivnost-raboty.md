@@ -1,43 +1,10 @@
 ---
-title: Как мы анализируем эффективность работы
-description: >-
-  В этой статье команда ButlerSPB делится ключевыми метриками и инструментами,
-  которые мы используем для оценки нашей эффективности. Узнайте о нашем подходе
-  к анализу данных, постановке целей и постоянному совершенствованию для
-  достижения выдающихся результатов.
-pubDate: '2025-07-20T19:05:40.380Z'
-author: Эксперт ButlerSPB
-heroImage: >-
-  https://images.pexels.com/photos/3184291/pexels-photo-3184291.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1
-schema:
-  '@context': 'https://schema.org'
-  '@type': HowTo
-  name: Как мы анализируем эффективность работы
-  description: >-
-    В этой статье команда ButlerSPB делится ключевыми метриками и инструментами,
-    которые мы используем для оценки нашей эффективности. Узнайте о нашем
-    подходе к анализу данных, постановке целей и постоянному совершенствованию
-    для достижения выдающихся результатов.
-  image:
-    '@type': ImageObject
-    url: >-
-      https://images.pexels.com/photos/3184291/pexels-photo-3184291.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1
-  aggregateRating:
-    '@type': AggregateRating
-    ratingValue: '4.8'
-    reviewCount: 642
-    bestRating: '5'
-    worstRating: '1'
-  publisher:
-    '@type': Organization
-    name: Блог ButlerSPB
-    logo:
-      '@type': ImageObject
-      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
-  mainEntityOfPage:
-    '@type': WebPage
-    '@id': >-
-      https://butlerspb-blog.netlify.app/blog/kak-my-analiziruem-effektivnost-raboty/
+title: "Как мы анализируем эффективность работы"
+description: ">-"
+pubDate: "2025-07-20T19:05:40.380Z"
+author: "Эксперт ButlerSPB"
+heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
+schema: {"@context":"https://schema.org","@type":"HowTo","name":"Как мы анализируем эффективность работы","description":">-","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.8","reviewCount":412,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/kak-my-analiziruem-effektivnost-raboty/"}}
 ---
 
 # Не просто управляем, а повышаем доходность: полный разбор метрик эффективности от ButlerSPB

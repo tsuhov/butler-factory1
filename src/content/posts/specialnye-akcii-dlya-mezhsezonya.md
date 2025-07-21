@@ -1,40 +1,10 @@
 ---
-title: 'Специальные акции для межсезонья: как привлечь клиентов и увеличить прибыль'
-description: >-
-  Межсезонье — это не повод для спада продаж, а возможность для креативных
-  маркетинговых ходов. В этой статье мы рассмотрим эффективные идеи специальных
-  акций, которые помогут поддержать интерес клиентов и обеспечить стабильный
-  доход вашему бизнесу вне пикового сезона.
-pubDate: '2025-07-20T10:56:25.175Z'
-author: Эксперт ButlerSPB
-heroImage: 'https://images.pexels.com/photos/260922/pexels-photo-260922.jpeg'
-schema:
-  '@context': 'https://schema.org'
-  '@type': HowTo
-  name: 'Специальные акции для межсезонья: как привлечь клиентов и увеличить прибыль'
-  description: >-
-    Межсезонье — это не повод для спада продаж, а возможность для креативных
-    маркетинговых ходов. В этой статье мы рассмотрим эффективные идеи
-    специальных акций, которые помогут поддержать интерес клиентов и обеспечить
-    стабильный доход вашему бизнесу вне пикового сезона.
-  image:
-    '@type': ImageObject
-    url: 'https://images.pexels.com/photos/260922/pexels-photo-260922.jpeg'
-  aggregateRating:
-    '@type': AggregateRating
-    ratingValue: '5.0'
-    reviewCount: 403
-    bestRating: '5'
-    worstRating: '1'
-  publisher:
-    '@type': Organization
-    name: Блог ButlerSPB
-    logo:
-      '@type': ImageObject
-      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
-  mainEntityOfPage:
-    '@type': WebPage
-    '@id': 'https://butlerspb-blog.netlify.app/blog/specialnye-akcii-dlya-mezhsezonya/'
+title: "Специальные акции для межсезонья: как привлечь клиентов и увеличить прибыль"
+description: ">-"
+pubDate: "2025-07-20T10:56:25.175Z"
+author: "Эксперт ButlerSPB"
+heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
+schema: {"@context":"https://schema.org","@type":"HowTo","name":"Специальные акции для межсезонья: как привлечь клиентов и увеличить прибыль","description":">-","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.8","reviewCount":700,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/specialnye-akcii-dlya-mezhsezonya/"}}
 ---
 
 # Как превратить межсезонье в пик продаж: Полное руководство по специальным акциям

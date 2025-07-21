@@ -1,41 +1,10 @@
 ---
-title: 'ButlerSPB и ваши отзывы: как мы строим диалог на всех площадках'
-description: >-
-  Отзывы клиентов — это ключ к развитию ButlerSPB. Узнайте, как наша команда
-  оперативно реагирует на ваши мнения на Яндекс.Картах, 2ГИС и в социальных
-  сетях, превращая критику в точки роста, а благодарности — в мотивацию для всей
-  команды.
-pubDate: '2025-07-20T15:17:02.470Z'
-author: Эксперт ButlerSPB
-heroImage: 'https://images.pexels.com/photos/3861969/pexels-photo-3861969.jpeg'
-schema:
-  '@context': 'https://schema.org'
-  '@type': HowTo
-  name: 'ButlerSPB и ваши отзывы: как мы строим диалог на всех площадках'
-  description: >-
-    Отзывы клиентов — это ключ к развитию ButlerSPB. Узнайте, как наша команда
-    оперативно реагирует на ваши мнения на Яндекс.Картах, 2ГИС и в социальных
-    сетях, превращая критику в точки роста, а благодарности — в мотивацию для
-    всей команды.
-  image:
-    '@type': ImageObject
-    url: 'https://images.pexels.com/photos/3861969/pexels-photo-3861969.jpeg'
-  aggregateRating:
-    '@type': AggregateRating
-    ratingValue: '4.9'
-    reviewCount: 542
-    bestRating: '5'
-    worstRating: '1'
-  publisher:
-    '@type': Organization
-    name: Блог ButlerSPB
-    logo:
-      '@type': ImageObject
-      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
-  mainEntityOfPage:
-    '@type': WebPage
-    '@id': >-
-      https://butlerspb-blog.netlify.app/blog/kak-my-rabotaem-s-otzyvami-na-vseh-ploschadkah/
+title: "ButlerSPB и ваши отзывы: как мы строим диалог на всех площадках"
+description: ">-"
+pubDate: "2025-07-20T15:17:02.470Z"
+author: "Эксперт ButlerSPB"
+heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
+schema: {"@context":"https://schema.org","@type":"HowTo","name":"ButlerSPB и ваши отзывы: как мы строим диалог на всех площадках","description":">-","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":484,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/kak-my-rabotaem-s-otzyvami-na-vseh-ploschadkah/"}}
 ---
 
 # Один негативный отзыв может стоить вам 10 бронирований. Рассказываем, как мы защищаем репутацию вашей квартиры.

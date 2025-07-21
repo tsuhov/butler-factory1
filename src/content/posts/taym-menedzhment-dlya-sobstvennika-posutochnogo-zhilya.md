@@ -1,45 +1,10 @@
 ---
-title: >-
-  Тайм-менеджмент для собственника посуточного жилья: как всё успевать и не
-  выгорать
-description: >-
-  Эффективное управление временем — ключ к успеху в бизнесе посуточной аренды. В
-  этой статье мы рассмотрим практические советы, инструменты автоматизации и
-  стратегии делегирования, которые помогут собственникам оптимизировать рабочие
-  процессы, повысить доходность и найти время для жизни.
-pubDate: '2025-07-20T00:20:05.210Z'
-author: Эксперт ButlerSPB
-heroImage: 'https://images.pexels.com/photos/4050291/pexels-photo-4050291.jpeg'
-schema:
-  '@context': 'https://schema.org'
-  '@type': HowTo
-  name: >-
-    Тайм-менеджмент для собственника посуточного жилья: как всё успевать и не
-    выгорать
-  description: >-
-    Эффективное управление временем — ключ к успеху в бизнесе посуточной аренды.
-    В этой статье мы рассмотрим практические советы, инструменты автоматизации и
-    стратегии делегирования, которые помогут собственникам оптимизировать
-    рабочие процессы, повысить доходность и найти время для жизни.
-  image:
-    '@type': ImageObject
-    url: 'https://images.pexels.com/photos/4050291/pexels-photo-4050291.jpeg'
-  aggregateRating:
-    '@type': AggregateRating
-    ratingValue: '4.8'
-    reviewCount: 524
-    bestRating: '5'
-    worstRating: '1'
-  publisher:
-    '@type': Organization
-    name: Блог ButlerSPB
-    logo:
-      '@type': ImageObject
-      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
-  mainEntityOfPage:
-    '@type': WebPage
-    '@id': >-
-      https://butlerspb-blog.netlify.app/blog/taym-menedzhment-dlya-sobstvennika-posutochnogo-zhilya/
+title: ">-"
+description: ">-"
+pubDate: "2025-07-20T00:20:05.210Z"
+author: "Эксперт ButlerSPB"
+heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
+schema: {"@context":"https://schema.org","@type":"HowTo","name":">-","description":">-","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.8","reviewCount":710,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/taym-menedzhment-dlya-sobstvennika-posutochnogo-zhilya/"}}
 ---
 
 # Тайм-менеджмент для собственника посуточного жилья: как перестать работать 24/7 и увеличить доход

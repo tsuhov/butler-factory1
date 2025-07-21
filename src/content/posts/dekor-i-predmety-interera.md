@@ -1,44 +1,10 @@
 ---
-title: 'Искусство уюта: как декор и предметы интерьера преображают ваш дом'
-description: >-
-  Правильно подобранные предметы интерьера способны полностью изменить атмосферу
-  любого пространства, добавив ему индивидуальности и тепла. В этой статье от
-  ButlerSPB мы рассмотрим, как с помощью ваз, текстиля, картин и других
-  декоративных элементов создать гармоничный и стильный интерьер, который будет
-  радовать вас каждый день.
-pubDate: '2025-07-20T23:56:59.824Z'
-author: Эксперт ButlerSPB
-heroImage: >-
-  https://images.unsplash.com/photo-1618220179428-22790b461013?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1925&q=80
-schema:
-  '@context': 'https://schema.org'
-  '@type': HowTo
-  name: 'Искусство уюта: как декор и предметы интерьера преображают ваш дом'
-  description: >-
-    Правильно подобранные предметы интерьера способны полностью изменить
-    атмосферу любого пространства, добавив ему индивидуальности и тепла. В этой
-    статье от ButlerSPB мы рассмотрим, как с помощью ваз, текстиля, картин и
-    других декоративных элементов создать гармоничный и стильный интерьер,
-    который будет радовать вас каждый день.
-  image:
-    '@type': ImageObject
-    url: >-
-      https://images.unsplash.com/photo-1618220179428-22790b461013?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1925&q=80
-  aggregateRating:
-    '@type': AggregateRating
-    ratingValue: '4.9'
-    reviewCount: 821
-    bestRating: '5'
-    worstRating: '1'
-  publisher:
-    '@type': Organization
-    name: Блог ButlerSPB
-    logo:
-      '@type': ImageObject
-      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
-  mainEntityOfPage:
-    '@type': WebPage
-    '@id': 'https://butlerspb-blog.netlify.app/blog/dekor-i-predmety-interera/'
+title: "Искусство уюта: как декор и предметы интерьера преображают ваш дом"
+description: ">-"
+pubDate: "2025-07-20T23:56:59.824Z"
+author: "Эксперт ButlerSPB"
+heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
+schema: {"@context":"https://schema.org","@type":"HowTo","name":"Искусство уюта: как декор и предметы интерьера преображают ваш дом","description":">-","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":500,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/dekor-i-predmety-interera/"}}
 ---
 
 # Декор, который зарабатывает: Как превратить вашу квартиру в Санкт-Петербурге в магнит для гостей

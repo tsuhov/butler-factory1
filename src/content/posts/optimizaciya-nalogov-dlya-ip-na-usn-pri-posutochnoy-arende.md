@@ -1,42 +1,10 @@
 ---
-title: Оптимизация налогов для ИП на УСН при посуточной аренде
-description: >-
-  Как индивидуальному предпринимателю, сдающему жилье посуточно, легально
-  снизить налоговую нагрузку? Разбираем, что выгоднее: УСН 'Доходы' или 'Доходы
-  минус расходы', можно ли применять патент и какие расходы можно учесть для
-  уменьшения налога. Практические советы и примеры расчетов для вашего бизнеса.
-pubDate: '2025-07-20T00:14:29.525Z'
-author: Эксперт ButlerSPB
-heroImage: 'https://images.pexels.com/photos/5998139/pexels-photo-5998139.jpeg'
-schema:
-  '@context': 'https://schema.org'
-  '@type': HowTo
-  name: Оптимизация налогов для ИП на УСН при посуточной аренде
-  description: >-
-    Как индивидуальному предпринимателю, сдающему жилье посуточно, легально
-    снизить налоговую нагрузку? Разбираем, что выгоднее: УСН 'Доходы' или
-    'Доходы минус расходы', можно ли применять патент и какие расходы можно
-    учесть для уменьшения налога. Практические советы и примеры расчетов для
-    вашего бизнеса.
-  image:
-    '@type': ImageObject
-    url: 'https://images.pexels.com/photos/5998139/pexels-photo-5998139.jpeg'
-  aggregateRating:
-    '@type': AggregateRating
-    ratingValue: '4.8'
-    reviewCount: 849
-    bestRating: '5'
-    worstRating: '1'
-  publisher:
-    '@type': Organization
-    name: Блог ButlerSPB
-    logo:
-      '@type': ImageObject
-      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
-  mainEntityOfPage:
-    '@type': WebPage
-    '@id': >-
-      https://butlerspb-blog.netlify.app/blog/optimizaciya-nalogov-dlya-ip-na-usn-pri-posutochnoy-arende/
+title: "Оптимизация налогов для ИП на УСН при посуточной аренде"
+description: ">-"
+pubDate: "2025-07-20T00:14:29.525Z"
+author: "Эксперт ButlerSPB"
+heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
+schema: {"@context":"https://schema.org","@type":"HowTo","name":"Оптимизация налогов для ИП на УСН при посуточной аренде","description":">-","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":512,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/optimizaciya-nalogov-dlya-ip-na-usn-pri-posutochnoy-arende/"}}
 ---
 
 # Оптимизация налогов для ИП на УСН при посуточной аренде: полное руководство 2024

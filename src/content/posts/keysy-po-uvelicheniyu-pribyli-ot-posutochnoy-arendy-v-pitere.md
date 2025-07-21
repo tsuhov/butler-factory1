@@ -1,43 +1,10 @@
 ---
-title: Кейсы по увеличению прибыли от посуточной аренды в Питере
-description: >-
-  Анализ реальных примеров и практических стратегий, которые помогли
-  собственникам жилья в Санкт-Петербурге значительно увеличить доход от
-  краткосрочной аренды. Откройте для себя методы оптимизации цен, улучшения
-  гостевого опыта и эффективного маркетинга.
-pubDate: '2025-07-19T10:57:57.853Z'
-author: Эксперт ButlerSPB
-heroImage: >-
-  https://images.pexels.com/photos/6492397/pexels-photo-6492397.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2
-schema:
-  '@context': 'https://schema.org'
-  '@type': HowTo
-  name: Кейсы по увеличению прибыли от посуточной аренды в Питере
-  description: >-
-    Анализ реальных примеров и практических стратегий, которые помогли
-    собственникам жилья в Санкт-Петербурге значительно увеличить доход от
-    краткосрочной аренды. Откройте для себя методы оптимизации цен, улучшения
-    гостевого опыта и эффективного маркетинга.
-  image:
-    '@type': ImageObject
-    url: >-
-      https://images.pexels.com/photos/6492397/pexels-photo-6492397.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2
-  aggregateRating:
-    '@type': AggregateRating
-    ratingValue: '4.9'
-    reviewCount: 744
-    bestRating: '5'
-    worstRating: '1'
-  publisher:
-    '@type': Organization
-    name: Блог ButlerSPB
-    logo:
-      '@type': ImageObject
-      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
-  mainEntityOfPage:
-    '@type': WebPage
-    '@id': >-
-      https://butlerspb-blog.netlify.app/blog/keysy-po-uvelicheniyu-pribyli-ot-posutochnoy-arendy-v-pitere/
+title: "Кейсы по увеличению прибыли от посуточной аренды в Питере"
+description: ">-"
+pubDate: "2025-07-19T10:57:57.853Z"
+author: "Эксперт ButlerSPB"
+heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
+schema: {"@context":"https://schema.org","@type":"HowTo","name":"Кейсы по увеличению прибыли от посуточной аренды в Питере","description":">-","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.8","reviewCount":421,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/keysy-po-uvelicheniyu-pribyli-ot-posutochnoy-arendy-v-pitere/"}}
 ---
 
 # Кейсы: Как увеличить прибыль от посуточной аренды в Санкт-Петербурге на 30-50%? Разбор реальных стратегий.

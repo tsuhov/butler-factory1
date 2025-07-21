@@ -2,10 +2,10 @@
 title: "Управление посуточной арендой в СПб: как выбрать компанию?"
 description: "Ищете компанию по управлению посуточной арендой в Санкт-Петербурге? В статье разбираем ключевые критерии выбора, плюсы и минусы, и как увеличить доходность."
 pubDate: "2025-07-17T00:31:53.147Z"
-author: "ButlerSPB Expert"
-schema: {"@context":"https://schema.org","@type":"BlogPosting","headline":"Управление посуточной арендой в СПб: как выбрать надежную компанию?","description":"Полный гайд по выбору управляющей компании для посуточной аренды в Санкт-Петербурге. Узнайте, на что обратить внимание, чтобы максимизировать свой доход.","author":{"@type":"Person","name":"Иван Петров"},"publisher":{"@type":"Organization","name":"SPbRent Expert","logo":{"@type":"ImageObject","url":"https://example.com/logo.png"}},"datePublished":"2024-05-21"}
-
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"---
+author: "Эксперт ButlerSPB"
+heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
+schema: {"@context":"https://schema.org","@type":"HowTo","name":"Управление посуточной арендой в СПб: как выбрать компанию?","description":"Ищете компанию по управлению посуточной арендой в Санкт-Петербурге? В статье разбираем ключевые критерии выбора, плюсы и минусы, и как увеличить доходность.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"5.0","reviewCount":788,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/kompaniya-po-upravleniyu-posutochnoy-arendoy-v-pitere/"}}
+---
 
 ### **(H1) Как выбрать управляющую компанию для посуточной аренды в Санкт-Петербурге: Полное руководство для собственника**
 

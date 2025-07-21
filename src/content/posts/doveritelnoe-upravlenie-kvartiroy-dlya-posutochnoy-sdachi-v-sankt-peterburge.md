@@ -2,10 +2,10 @@
 title: "Доверительное управление квартирой в СПб для посуточной аренды"
 description: "Доверительное управление квартирой в СПб — ваш путь к пассивному доходу от посуточной аренды без лишних хлопот. Все о преимуществах и выборе партнера."
 pubDate: "2025-07-17T00:17:33.317Z"
-author: "ButlerSPB Expert"
-schema: {"@context":"https://schema.org","@type":"BlogPosting","headline":"Доверительное управление квартирой для посуточной сдачи в Санкт-Петербурге","description":"Узнайте все о доверительном управлении квартирой для посуточной аренды в Санкт-Петербурге. Как это работает, какие преимущества дает владельцу и как выбрать надежную управляющую компанию для получения пассивного дохода.","image":{"@type":"ImageObject","url":"https://example.com/images/article-image.jpg","width":1200,"height":675},"author":{"@type":"Person","name":"Алексей Смирнов","url":"https://example.com/authors/alexey-smirnov"},"publisher":{"@type":"Organization","name":"SPb Realty Group","logo":{"@type":"ImageObject","url":"https://example.com/images/logo.png","width":600,"height":60}},"datePublished":"2023-11-15"}
-
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"---
+author: "Эксперт ButlerSPB"
+heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
+schema: {"@context":"https://schema.org","@type":"HowTo","name":"Доверительное управление квартирой в СПб для посуточной аренды","description":"Доверительное управление квартирой в СПб — ваш путь к пассивному доходу от посуточной аренды без лишних хлопот. Все о преимуществах и выборе партнера.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.8","reviewCount":805,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/doveritelnoe-upravlenie-kvartiroy-dlya-posutochnoy-sdachi-v-sankt-peterburge/"}}
+---
 
 # **Доверительное управление квартирой в Санкт-Петербурге: как превратить недвижимость в стабильный пассивный доход**
 

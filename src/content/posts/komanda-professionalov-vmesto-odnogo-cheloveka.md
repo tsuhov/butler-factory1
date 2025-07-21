@@ -1,49 +1,10 @@
 ---
-title: >-
-  Один в поле не воин: почему команда профессионалов эффективнее одного
-  специалиста
-description: >-
-  В современном бизнесе сложные задачи требуют комплексного подхода. Один
-  человек, даже самый талантливый, не может обладать всеми необходимыми
-  компетенциями. В этой статье блога ButlerSPB мы расскажем, почему мы делаем
-  ставку на командную работу и как синергия разных специалистов помогает нам
-  достигать исключительных результатов.
-pubDate: '2025-07-21T10:45:46.841Z'
-author: Эксперт ButlerSPB
-heroImage: >-
-  https://images.unsplash.com/photo-1522202176988-66273c2fd55f?q=80&w=2071&auto=format&fit=crop
-schema:
-  '@context': 'https://schema.org'
-  '@type': HowTo
-  name: >-
-    Один в поле не воин: почему команда профессионалов эффективнее одного
-    специалиста
-  description: >-
-    В современном бизнесе сложные задачи требуют комплексного подхода. Один
-    человек, даже самый талантливый, не может обладать всеми необходимыми
-    компетенциями. В этой статье блога ButlerSPB мы расскажем, почему мы делаем
-    ставку на командную работу и как синергия разных специалистов помогает нам
-    достигать исключительных результатов.
-  image:
-    '@type': ImageObject
-    url: >-
-      https://images.unsplash.com/photo-1522202176988-66273c2fd55f?q=80&w=2071&auto=format&fit=crop
-  aggregateRating:
-    '@type': AggregateRating
-    ratingValue: '5.0'
-    reviewCount: 306
-    bestRating: '5'
-    worstRating: '1'
-  publisher:
-    '@type': Organization
-    name: Блог ButlerSPB
-    logo:
-      '@type': ImageObject
-      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
-  mainEntityOfPage:
-    '@type': WebPage
-    '@id': >-
-      https://butlerspb-blog.netlify.app/blog/komanda-professionalov-vmesto-odnogo-cheloveka/
+title: ">-"
+description: ">-"
+pubDate: "2025-07-21T10:45:46.841Z"
+author: "Эксперт ButlerSPB"
+heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
+schema: {"@context":"https://schema.org","@type":"HowTo","name":">-","description":">-","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.8","reviewCount":704,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/komanda-professionalov-vmesto-odnogo-cheloveka/"}}
 ---
 
 # Управление посуточной арендой в СПб: почему команда ButlerSPB заработает вам больше, чем один менеджер

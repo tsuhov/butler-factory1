@@ -1,45 +1,10 @@
 ---
-title: >-
-  Как организовать трансфер и дополнительные услуги для гостей в
-  Санкт-Петербурге
-description: >-
-  Подробное руководство по организации безупречного приема гостей в
-  Санкт-Петербурге. Узнайте, как выбрать надежный трансфер, какие дополнительные
-  услуги предложить для максимального комфорта и как сделать пребывание ваших
-  гостей незабываемым.
-pubDate: '2025-07-18T20:58:16.417Z'
-author: Эксперт ButlerSPB
-heroImage: 'https://images.pexels.com/photos/10049489/pexels-photo-10049489.jpeg'
-schema:
-  '@context': 'https://schema.org'
-  '@type': HowTo
-  name: >-
-    Как организовать трансфер и дополнительные услуги для гостей в
-    Санкт-Петербурге
-  description: >-
-    Подробное руководство по организации безупречного приема гостей в
-    Санкт-Петербурге. Узнайте, как выбрать надежный трансфер, какие
-    дополнительные услуги предложить для максимального комфорта и как сделать
-    пребывание ваших гостей незабываемым.
-  image:
-    '@type': ImageObject
-    url: 'https://images.pexels.com/photos/10049489/pexels-photo-10049489.jpeg'
-  aggregateRating:
-    '@type': AggregateRating
-    ratingValue: '4.7'
-    reviewCount: 859
-    bestRating: '5'
-    worstRating: '1'
-  publisher:
-    '@type': Organization
-    name: Блог ButlerSPB
-    logo:
-      '@type': ImageObject
-      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
-  mainEntityOfPage:
-    '@type': WebPage
-    '@id': >-
-      https://butlerspb-blog.netlify.app/blog/kak-organizovat-transfer-i-dopolnitelnye-uslugi-dlya-gostey-v-sankt-peterburge/
+title: ">-"
+description: ">-"
+pubDate: "2025-07-18T20:58:16.417Z"
+author: "Эксперт ButlerSPB"
+heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
+schema: {"@context":"https://schema.org","@type":"HowTo","name":">-","description":">-","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.8","reviewCount":796,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/kak-organizovat-transfer-i-dopolnitelnye-uslugi-dlya-gostey-v-sankt-peterburge/"}}
 ---
 
 # Как организовать идеальный трансфер и дополнительные услуги для гостей в Санкт-Петербурге: полное руководство для отелей и апартаментов

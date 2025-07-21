@@ -1,47 +1,10 @@
 ---
-title: >-
-  Юридическая консультация для владельцев посуточного жилья: Как сдавать
-  квартиру законно и безопасно
-description: >-
-  Владение посуточным жильем — это прибыльный бизнес, но он сопряжен с
-  юридическими рисками. В этой статье мы разбираем ключевые правовые аспекты: от
-  правильного оформления договора и уплаты налогов до соблюдения нового
-  законодательства и правил взаимодействия с гостями. Узнайте, как защитить свои
-  права и избежать штрафов.
-pubDate: '2025-07-20T00:10:26.211Z'
-author: Эксперт ButlerSPB
-heroImage: 'https://images.pexels.com/photos/5668858/pexels-photo-5668858.jpeg'
-schema:
-  '@context': 'https://schema.org'
-  '@type': HowTo
-  name: >-
-    Юридическая консультация для владельцев посуточного жилья: Как сдавать
-    квартиру законно и безопасно
-  description: >-
-    Владение посуточным жильем — это прибыльный бизнес, но он сопряжен с
-    юридическими рисками. В этой статье мы разбираем ключевые правовые аспекты:
-    от правильного оформления договора и уплаты налогов до соблюдения нового
-    законодательства и правил взаимодействия с гостями. Узнайте, как защитить
-    свои права и избежать штрафов.
-  image:
-    '@type': ImageObject
-    url: 'https://images.pexels.com/photos/5668858/pexels-photo-5668858.jpeg'
-  aggregateRating:
-    '@type': AggregateRating
-    ratingValue: '4.9'
-    reviewCount: 335
-    bestRating: '5'
-    worstRating: '1'
-  publisher:
-    '@type': Organization
-    name: Блог ButlerSPB
-    logo:
-      '@type': ImageObject
-      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
-  mainEntityOfPage:
-    '@type': WebPage
-    '@id': >-
-      https://butlerspb-blog.netlify.app/blog/yuridicheskaya-konsultaciya-dlya-vladelcev-posutochnogo-zhilya/
+title: ">-"
+description: ">-"
+pubDate: "2025-07-20T00:10:26.211Z"
+author: "Эксперт ButlerSPB"
+heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
+schema: {"@context":"https://schema.org","@type":"HowTo","name":">-","description":">-","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.7","reviewCount":714,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/yuridicheskaya-konsultaciya-dlya-vladelcev-posutochnogo-zhilya/"}}
 ---
 
 # Юридическая консультация для владельцев посуточного жилья: полный гид по законам, налогам и договорам в 2024 году

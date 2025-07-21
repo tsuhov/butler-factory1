@@ -1,43 +1,10 @@
 ---
-title: 'Бесплатный онлайн-калькулятор на сайте ButlerSPB: считайте легко и быстро'
-description: >-
-  Представляем новый удобный инструмент на нашем сайте — бесплатный
-  онлайн-калькулятор. Узнайте, как он может упростить ваши расчеты, сэкономить
-  время и помочь в планировании. Больше не нужно искать сторонние приложения —
-  все необходимое уже здесь, на ButlerSPB.
-pubDate: '2025-07-21T00:40:09.266Z'
-author: Эксперт ButlerSPB
-heroImage: >-
-  https://images.pexels.com/photos/53621/calculator-calculation-insurance-finance-53621.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2
-schema:
-  '@context': 'https://schema.org'
-  '@type': HowTo
-  name: 'Бесплатный онлайн-калькулятор на сайте ButlerSPB: считайте легко и быстро'
-  description: >-
-    Представляем новый удобный инструмент на нашем сайте — бесплатный
-    онлайн-калькулятор. Узнайте, как он может упростить ваши расчеты, сэкономить
-    время и помочь в планировании. Больше не нужно искать сторонние приложения —
-    все необходимое уже здесь, на ButlerSPB.
-  image:
-    '@type': ImageObject
-    url: >-
-      https://images.pexels.com/photos/53621/calculator-calculation-insurance-finance-53621.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2
-  aggregateRating:
-    '@type': AggregateRating
-    ratingValue: '4.9'
-    reviewCount: 539
-    bestRating: '5'
-    worstRating: '1'
-  publisher:
-    '@type': Organization
-    name: Блог ButlerSPB
-    logo:
-      '@type': ImageObject
-      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
-  mainEntityOfPage:
-    '@type': WebPage
-    '@id': >-
-      https://butlerspb-blog.netlify.app/blog/besplatnyy-onlayn-kalkulyator-na-nashem-sayte/
+title: "Бесплатный онлайн-калькулятор на сайте ButlerSPB: считайте легко и быстро"
+description: ">-"
+pubDate: "2025-07-21T00:40:09.266Z"
+author: "Эксперт ButlerSPB"
+heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
+schema: {"@context":"https://schema.org","@type":"HowTo","name":"Бесплатный онлайн-калькулятор на сайте ButlerSPB: считайте легко и быстро","description":">-","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.7","reviewCount":388,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/besplatnyy-onlayn-kalkulyator-na-nashem-sayte/"}}
 ---
 
 # Рассчитайте потенциальный доход от вашей квартиры в Санкт-Петербурге: Бесплатный онлайн-калькулятор посуточной аренды

@@ -1,47 +1,10 @@
 ---
-title: >-
-  Управление посуточной арендой в праздники: ценообразование для максимальной
-  прибыли
-description: >-
-  Праздничные дни — золотое время для владельцев посуточной аренды. В этой
-  статье мы разберем, как грамотно управлять ценообразованием в высокий сезон:
-  от анализа спроса и конкурентов до внедрения динамических цен и специальных
-  предложений, чтобы увеличить доходность ваших объектов.
-pubDate: '2025-07-19T23:57:14.084Z'
-author: Эксперт ButlerSPB
-heroImage: >-
-  https://images.pexels.com/photos/9992997/pexels-photo-9992997.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2
-schema:
-  '@context': 'https://schema.org'
-  '@type': HowTo
-  name: >-
-    Управление посуточной арендой в праздники: ценообразование для максимальной
-    прибыли
-  description: >-
-    Праздничные дни — золотое время для владельцев посуточной аренды. В этой
-    статье мы разберем, как грамотно управлять ценообразованием в высокий сезон:
-    от анализа спроса и конкурентов до внедрения динамических цен и специальных
-    предложений, чтобы увеличить доходность ваших объектов.
-  image:
-    '@type': ImageObject
-    url: >-
-      https://images.pexels.com/photos/9992997/pexels-photo-9992997.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2
-  aggregateRating:
-    '@type': AggregateRating
-    ratingValue: '4.8'
-    reviewCount: 762
-    bestRating: '5'
-    worstRating: '1'
-  publisher:
-    '@type': Organization
-    name: Блог ButlerSPB
-    logo:
-      '@type': ImageObject
-      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
-  mainEntityOfPage:
-    '@type': WebPage
-    '@id': >-
-      https://butlerspb-blog.netlify.app/blog/upravlenie-posutochnoy-arendoy-v-prazdniki-cenoobrazovanie/
+title: ">-"
+description: ">-"
+pubDate: "2025-07-19T23:57:14.084Z"
+author: "Эксперт ButlerSPB"
+heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
+schema: {"@context":"https://schema.org","@type":"HowTo","name":">-","description":">-","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.8","reviewCount":839,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/upravlenie-posutochnoy-arendoy-v-prazdniki-cenoobrazovanie/"}}
 ---
 
 # **Управление посуточной арендой в праздники: полное руководство по ценообразованию для максимальной прибыли**

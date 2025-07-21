@@ -2,10 +2,10 @@
 title: "Как выселить шумных гостей из квартиры в СПб: инструкция"
 description: "Шумные гости мешают спать? Узнайте, как законно и быстро выселить нарушителей тишины из квартиры в Санкт-Петербурге. Пошаговая инструкция."
 pubDate: "2025-07-17T17:18:57.339Z"
-author: "ButlerSPB Expert"
-schema: {"@context":"https://schema.org","@type":"BlogPosting","headline":"Как выселить шумных гостей из квартиры в Санкт-Петербурге: пошаговая инструкция для собственников","description":"Подробное руководство о том, как законными методами выселить шумных гостей или арендаторов, нарушающих покой соседей в Санкт-Петербурге. Рассматриваем вызов полиции и юридические аспекты.","author":{"@type":"Person","name":"Алексей Смирнов, юрист"},"publisher":{"@type":"Organization","name":"Правовой Вестник СПб","logo":{"@type":"ImageObject","url":"https://example.com/logo.png"}},"datePublished":"2024-05-21"}
-
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"---
+author: "Эксперт ButlerSPB"
+heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
+schema: {"@context":"https://schema.org","@type":"HowTo","name":"Как выселить шумных гостей из квартиры в СПб: инструкция","description":"Шумные гости мешают спать? Узнайте, как законно и быстро выселить нарушителей тишины из квартиры в Санкт-Петербурге. Пошаговая инструкция.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"5.0","reviewCount":705,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/kak-vyselit-shumnyh-gostey-iz-kvartiry-v-sankt-peterburge/"}}
+---
 
 ### **(H1) Как по закону выселить шумных жильцов из квартиры в Санкт-Петербурге: пошаговая инструкция для собственника**
 

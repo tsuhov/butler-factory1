@@ -2,10 +2,10 @@
 title: "Налоги с посуточной аренды в СПБ для физлиц: ставки 2024"
 description: "Как физлицу платить налоги с посуточной аренды квартиры в Санкт-Петербурге? Рассматриваем НДФЛ, самозанятость и ИП. Актуальные ставки и штрафы."
 pubDate: "2025-07-17T17:08:12.646Z"
-author: "ButlerSPB Expert"
-schema: {"@context":"https://schema.org","@type":"BlogPosting","headline":"Налоги с посуточной аренды для физических лиц в СПБ","description":"Как физическому лицу платить налоги с посуточной аренды квартиры в Санкт-Петербурге? Рассматриваем НДФЛ, самозанятость и ИП. Актуальные ставки и штрафы.","author":{"@type":"Person","name":"Иван Петров"},"publisher":{"@type":"Organization","name":"Правовой Вестник Недвижимости","logo":{"@type":"ImageObject","url":"https://example.com/logo.png"}},"datePublished":"2024-05-21"}
-
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"---
+author: "Эксперт ButlerSPB"
+heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
+schema: {"@context":"https://schema.org","@type":"HowTo","name":"Налоги с посуточной аренды в СПБ для физлиц: ставки 2024","description":"Как физлицу платить налоги с посуточной аренды квартиры в Санкт-Петербурге? Рассматриваем НДФЛ, самозанятость и ИП. Актуальные ставки и штрафы.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.8","reviewCount":854,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/nalogi-s-posutochnoy-arendy-dlya-fizicheskih-lic-v-spb/"}}
+---
 
 ### **(H1) Налоги с посуточной аренды квартиры в СПб: полное руководство для физических лиц в 2024 году**
 

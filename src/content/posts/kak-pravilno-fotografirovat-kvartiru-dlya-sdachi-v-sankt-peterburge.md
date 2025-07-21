@@ -1,41 +1,10 @@
 ---
-title: Как правильно фотографировать квартиру для сдачи в Санкт-Петербурге
-description: >-
-  Пошаговое руководство по подготовке и фотосъемке квартиры в Санкт-Петербурге
-  для быстрой и выгодной сдачи в аренду. Советы по свету, ракурсам, композиции и
-  обязательным кадрам, которые привлекут идеальных арендаторов.
-pubDate: '2025-07-18T14:49:18.460Z'
-author: Эксперт ButlerSPB
-heroImage: >-
-  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
-schema:
-  '@context': 'https://schema.org'
-  '@type': HowTo
-  name: Как правильно фотографировать квартиру для сдачи в Санкт-Петербурге
-  description: >-
-    Пошаговое руководство по подготовке и фотосъемке квартиры в Санкт-Петербурге
-    для быстрой и выгодной сдачи в аренду. Советы по свету, ракурсам, композиции
-    и обязательным кадрам, которые привлекут идеальных арендаторов.
-  image:
-    '@type': ImageObject
-    url: >-
-      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
-  aggregateRating:
-    '@type': AggregateRating
-    ratingValue: '4.8'
-    reviewCount: 581
-    bestRating: '5'
-    worstRating: '1'
-  publisher:
-    '@type': Organization
-    name: Блог ButlerSPB
-    logo:
-      '@type': ImageObject
-      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
-  mainEntityOfPage:
-    '@type': WebPage
-    '@id': >-
-      https://butlerspb-blog.netlify.app/blog/kak-pravilno-fotografirovat-kvartiru-dlya-sdachi-v-sankt-peterburge/
+title: "Как правильно фотографировать квартиру для сдачи в Санкт-Петербурге"
+description: ">-"
+pubDate: "2025-07-18T14:49:18.460Z"
+author: "Эксперт ButlerSPB"
+heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
+schema: {"@context":"https://schema.org","@type":"HowTo","name":"Как правильно фотографировать квартиру для сдачи в Санкт-Петербурге","description":">-","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"5.0","reviewCount":723,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/kak-pravilno-fotografirovat-kvartiru-dlya-sdachi-v-sankt-peterburge/"}}
 ---
 
 # Как фотографировать квартиру для сдачи в аренду в СПб: пошаговое руководство, которое привлечет лучших арендаторов

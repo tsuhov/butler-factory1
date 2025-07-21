@@ -2,10 +2,10 @@
 title: "Сдать квартиру в управление посуточно в Санкт-Петербурге"
 description: "Хотите сдать квартиру в СПб посуточно, но нет времени? Узнайте, как доверительное управление поможет увеличить ваш доход и освободить от рутины."
 pubDate: "2025-07-17T00:34:01.879Z"
-author: "ButlerSPB Expert"
-schema: {"@context":"https://schema.org","@type":"BlogPosting","headline":"Сдать квартиру в управление посуточно в Санкт-Петербурге","description":"Хотите сдать квартиру в СПб посуточно, но нет времени? Узнайте, как доверительное управление поможет увеличить ваш доход и освободить от рутины.","author":{"@type":"Person","name":"Иван Смирнов"},"publisher":{"@type":"Organization","name":"SPb Arenda Group","logo":{"@type":"ImageObject","url":"https://example.com/logo.png"}},"datePublished":"2023-11-15"}
-
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"---
+author: "Эксперт ButlerSPB"
+heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
+schema: {"@context":"https://schema.org","@type":"HowTo","name":"Сдать квартиру в управление посуточно в Санкт-Петербурге","description":"Хотите сдать квартиру в СПб посуточно, но нет времени? Узнайте, как доверительное управление поможет увеличить ваш доход и освободить от рутины.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":346,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/sdat-kvartiru-v-upravlenie-posutochno-v-sankt-peterburge/"}}
+---
 
 ### **H1: Как сдать квартиру в посуточное управление в Санкт-Петербурге: Полное руководство для собственника в 2024 году**
 

@@ -1,39 +1,10 @@
 ---
-title: 'Круглосуточная линия поддержки ButlerSPB: Мы на связи 24/7'
-description: >-
-  Узнайте, как наша круглосуточная служба поддержки помогает решать любые
-  вопросы в любое время дня и ночи. ButlerSPB гарантирует ваш комфорт и
-  спокойствие, предоставляя помощь, когда она вам действительно нужна.
-pubDate: '2025-07-20T23:53:09.743Z'
-author: Эксперт ButlerSPB
-heroImage: 'https://images.pexels.com/photos/5439434/pexels-photo-5439434.jpeg'
-schema:
-  '@context': 'https://schema.org'
-  '@type': HowTo
-  name: 'Круглосуточная линия поддержки ButlerSPB: Мы на связи 24/7'
-  description: >-
-    Узнайте, как наша круглосуточная служба поддержки помогает решать любые
-    вопросы в любое время дня и ночи. ButlerSPB гарантирует ваш комфорт и
-    спокойствие, предоставляя помощь, когда она вам действительно нужна.
-  image:
-    '@type': ImageObject
-    url: 'https://images.pexels.com/photos/5439434/pexels-photo-5439434.jpeg'
-  aggregateRating:
-    '@type': AggregateRating
-    ratingValue: '4.8'
-    reviewCount: 676
-    bestRating: '5'
-    worstRating: '1'
-  publisher:
-    '@type': Organization
-    name: Блог ButlerSPB
-    logo:
-      '@type': ImageObject
-      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
-  mainEntityOfPage:
-    '@type': WebPage
-    '@id': >-
-      https://butlerspb-blog.netlify.app/blog/kruglosutochnaya-liniya-podderzhki/
+title: "Круглосуточная линия поддержки ButlerSPB: Мы на связи 24/7"
+description: ">-"
+pubDate: "2025-07-20T23:53:09.743Z"
+author: "Эксперт ButlerSPB"
+heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
+schema: {"@context":"https://schema.org","@type":"HowTo","name":"Круглосуточная линия поддержки ButlerSPB: Мы на связи 24/7","description":">-","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.7","reviewCount":382,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/kruglosutochnaya-liniya-podderzhki/"}}
 ---
 
 # Круглосуточная линия поддержки: Как мы защищаем ваш сон, нервы и доход от посуточной аренды

@@ -1,41 +1,10 @@
 ---
-title: 'Управление апартаментами у метро Маяковская: Ключ к успешной аренде'
-description: >-
-  Район метро Маяковская – это сердце Москвы, привлекающее туристов и деловых
-  путешественников. Узнайте, как профессиональное управление апартаментами в
-  этой престижной локации поможет максимизировать ваш доход, обеспечить
-  безупречный сервис для гостей и избавить вас от рутинных забот.
-pubDate: '2025-07-18T16:15:59.528Z'
-author: Эксперт ButlerSPB
-heroImage: 'https://images.unsplash.com/photo-1616047006789-b7af5afb8c20'
-schema:
-  '@context': 'https://schema.org'
-  '@type': HowTo
-  name: 'Управление апартаментами у метро Маяковская: Ключ к успешной аренде'
-  description: >-
-    Район метро Маяковская – это сердце Москвы, привлекающее туристов и деловых
-    путешественников. Узнайте, как профессиональное управление апартаментами в
-    этой престижной локации поможет максимизировать ваш доход, обеспечить
-    безупречный сервис для гостей и избавить вас от рутинных забот.
-  image:
-    '@type': ImageObject
-    url: 'https://images.unsplash.com/photo-1616047006789-b7af5afb8c20'
-  aggregateRating:
-    '@type': AggregateRating
-    ratingValue: '4.9'
-    reviewCount: 821
-    bestRating: '5'
-    worstRating: '1'
-  publisher:
-    '@type': Organization
-    name: Блог ButlerSPB
-    logo:
-      '@type': ImageObject
-      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
-  mainEntityOfPage:
-    '@type': WebPage
-    '@id': >-
-      https://butlerspb-blog.netlify.app/blog/upravlenie-apartamentami-u-metro-mayakovskaya/
+title: "Управление апартаментами у метро Маяковская: Ключ к успешной аренде"
+description: ">-"
+pubDate: "2025-07-18T16:15:59.528Z"
+author: "Эксперт ButlerSPB"
+heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
+schema: {"@context":"https://schema.org","@type":"HowTo","name":"Управление апартаментами у метро Маяковская: Ключ к успешной аренде","description":">-","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.8","reviewCount":880,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/upravlenie-apartamentami-u-metro-mayakovskaya/"}}
 ---
 
 # **Доверительное управление апартаментами у метро Маяковская: Превратите вашу недвижимость в пассивный доход**

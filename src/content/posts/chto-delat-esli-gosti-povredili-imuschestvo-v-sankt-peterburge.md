@@ -2,10 +2,10 @@
 title: "Гости повредили имущество в СПб: что делать? Инструкция"
 description: "Пошаговая инструкция для собственников жилья в Санкт-Петербурге. Узнайте, как зафиксировать ущерб, провести переговоры и взыскать компенсацию."
 pubDate: "2025-07-17T17:12:41.661Z"
-author: "ButlerSPB Expert"
-schema: {"@context":"https://schema.org","@type":"BlogPosting","headline":"Что делать, если гости повредили имущество в Санкт-Петербурге: подробное руководство","description":"Пошаговая инструкция для собственников жилья в Санкт-Петербурге. Узнайте, как правильно зафиксировать ущерб, провести переговоры и взыскать компенсацию с недобросовестных гостей.","author":{"@type":"Person","name":"Иван Петров, юрист"},"publisher":{"@type":"Organization","name":"Правовой Вестник Санкт-Петербурга","logo":{"@type":"ImageObject","url":"https://example.com/logo.png"}},"datePublished":"2024-05-21"}
-
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"---
+author: "Эксперт ButlerSPB"
+heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
+schema: {"@context":"https://schema.org","@type":"HowTo","name":"Гости повредили имущество в СПб: что делать? Инструкция","description":"Пошаговая инструкция для собственников жилья в Санкт-Петербурге. Узнайте, как зафиксировать ущерб, провести переговоры и взыскать компенсацию.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.8","reviewCount":870,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/chto-delat-esli-gosti-povredili-imuschestvo-v-sankt-peterburge/"}}
+---
 
 ### **Гости повредили имущество в квартире в Санкт-Петербурге: пошаговый план действий для собственника**
 

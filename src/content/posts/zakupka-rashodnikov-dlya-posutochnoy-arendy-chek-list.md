@@ -1,39 +1,10 @@
 ---
-title: 'Закупка расходников для посуточной аренды: чек-лист'
-description: >-
-  Полный чек-лист необходимых расходных материалов для квартиры в посуточную
-  аренду. Узнайте, что нужно купить для кухни, ванной и спальни, чтобы ваши
-  гости остались довольны, а вы получили высокие оценки.
-pubDate: '2025-07-19T13:15:55.553Z'
-author: Эксперт ButlerSPB
-heroImage: 'https://images.pexels.com/photos/6434622/pexels-photo-6434622.jpeg'
-schema:
-  '@context': 'https://schema.org'
-  '@type': HowTo
-  name: 'Закупка расходников для посуточной аренды: чек-лист'
-  description: >-
-    Полный чек-лист необходимых расходных материалов для квартиры в посуточную
-    аренду. Узнайте, что нужно купить для кухни, ванной и спальни, чтобы ваши
-    гости остались довольны, а вы получили высокие оценки.
-  image:
-    '@type': ImageObject
-    url: 'https://images.pexels.com/photos/6434622/pexels-photo-6434622.jpeg'
-  aggregateRating:
-    '@type': AggregateRating
-    ratingValue: '4.8'
-    reviewCount: 383
-    bestRating: '5'
-    worstRating: '1'
-  publisher:
-    '@type': Organization
-    name: Блог ButlerSPB
-    logo:
-      '@type': ImageObject
-      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
-  mainEntityOfPage:
-    '@type': WebPage
-    '@id': >-
-      https://butlerspb-blog.netlify.app/blog/zakupka-rashodnikov-dlya-posutochnoy-arendy-chek-list/
+title: "Закупка расходников для посуточной аренды: чек-лист"
+description: ">-"
+pubDate: "2025-07-19T13:15:55.553Z"
+author: "Эксперт ButlerSPB"
+heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
+schema: {"@context":"https://schema.org","@type":"HowTo","name":"Закупка расходников для посуточной аренды: чек-лист","description":">-","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":468,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/zakupka-rashodnikov-dlya-posutochnoy-arendy-chek-list/"}}
 ---
 
 # Закупка расходников для посуточной аренды: полный чек-лист для идеального гостеприимства в 2024

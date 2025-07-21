@@ -1,39 +1,10 @@
 ---
-title: 'CRM для работы с гостями и партнерами: ключ к успеху в гостиничном бизнесе'
-description: >-
-  Узнайте, как внедрение CRM-системы помогает автоматизировать коммуникацию,
-  персонализировать сервис для гостей и выстраивать эффективные, долгосрочные
-  отношения с партнерами. Практические советы и инструменты от ButlerSPB.
-pubDate: '2025-07-20T22:11:56.104Z'
-author: Эксперт ButlerSPB
-heroImage: 'https://images.pexels.com/photos/3184418/pexels-photo-3184418.jpeg'
-schema:
-  '@context': 'https://schema.org'
-  '@type': HowTo
-  name: 'CRM для работы с гостями и партнерами: ключ к успеху в гостиничном бизнесе'
-  description: >-
-    Узнайте, как внедрение CRM-системы помогает автоматизировать коммуникацию,
-    персонализировать сервис для гостей и выстраивать эффективные, долгосрочные
-    отношения с партнерами. Практические советы и инструменты от ButlerSPB.
-  image:
-    '@type': ImageObject
-    url: 'https://images.pexels.com/photos/3184418/pexels-photo-3184418.jpeg'
-  aggregateRating:
-    '@type': AggregateRating
-    ratingValue: '4.9'
-    reviewCount: 650
-    bestRating: '5'
-    worstRating: '1'
-  publisher:
-    '@type': Organization
-    name: Блог ButlerSPB
-    logo:
-      '@type': ImageObject
-      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
-  mainEntityOfPage:
-    '@type': WebPage
-    '@id': >-
-      https://butlerspb-blog.netlify.app/blog/crm-dlya-raboty-s-gostyami-i-partnerami/
+title: "CRM для работы с гостями и партнерами: ключ к успеху в гостиничном бизнесе"
+description: ">-"
+pubDate: "2025-07-20T22:11:56.104Z"
+author: "Эксперт ButlerSPB"
+heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
+schema: {"@context":"https://schema.org","@type":"HowTo","name":"CRM для работы с гостями и партнерами: ключ к успеху в гостиничном бизнесе","description":">-","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":829,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/crm-dlya-raboty-s-gostyami-i-partnerami/"}}
 ---
 
 # CRM для посуточной аренды: как мы в ButlerSPB управляем гостями и партнерами, чтобы вы зарабатывали больше

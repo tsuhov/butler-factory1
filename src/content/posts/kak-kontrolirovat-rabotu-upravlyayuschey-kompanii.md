@@ -1,43 +1,10 @@
 ---
-title: Как контролировать работу управляющей компании
-description: >-
-  Пошаговая инструкция для собственников жилья: как проверять отчетность,
-  инициировать проверки, составлять претензии и куда обращаться, если
-  управляющая компания не выполняет свои обязанности. Узнайте свои права и
-  эффективные методы воздействия.
-pubDate: '2025-07-20T11:35:46.005Z'
-author: Эксперт ButlerSPB
-heroImage: >-
-  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
-schema:
-  '@context': 'https://schema.org'
-  '@type': HowTo
-  name: Как контролировать работу управляющей компании
-  description: >-
-    Пошаговая инструкция для собственников жилья: как проверять отчетность,
-    инициировать проверки, составлять претензии и куда обращаться, если
-    управляющая компания не выполняет свои обязанности. Узнайте свои права и
-    эффективные методы воздействия.
-  image:
-    '@type': ImageObject
-    url: >-
-      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
-  aggregateRating:
-    '@type': AggregateRating
-    ratingValue: '4.9'
-    reviewCount: 380
-    bestRating: '5'
-    worstRating: '1'
-  publisher:
-    '@type': Organization
-    name: Блог ButlerSPB
-    logo:
-      '@type': ImageObject
-      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
-  mainEntityOfPage:
-    '@type': WebPage
-    '@id': >-
-      https://butlerspb-blog.netlify.app/blog/kak-kontrolirovat-rabotu-upravlyayuschey-kompanii/
+title: "Как контролировать работу управляющей компании"
+description: ">-"
+pubDate: "2025-07-20T11:35:46.005Z"
+author: "Эксперт ButlerSPB"
+heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
+schema: {"@context":"https://schema.org","@type":"HowTo","name":"Как контролировать работу управляющей компании","description":">-","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.8","reviewCount":351,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/kak-kontrolirovat-rabotu-upravlyayuschey-kompanii/"}}
 ---
 
 # **Как контролировать работу управляющей компании**

@@ -1,45 +1,10 @@
 ---
-title: 'Самостоятельное управление или доверительное: что выгоднее в Санкт-Петербурге'
-description: >-
-  Сравнение двух подходов к управлению недвижимостью в Санкт-Петербурге.
-  Анализируем плюсы и минусы самостоятельной сдачи квартиры в аренду и передачи
-  этих задач управляющей компании, чтобы помочь собственникам выбрать
-  оптимальный вариант.
-pubDate: '2025-07-18T16:59:31.707Z'
-author: Эксперт ButlerSPB
-heroImage: >-
-  https://images.pexels.com/photos/1577943/pexels-photo-1577943.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2
-schema:
-  '@context': 'https://schema.org'
-  '@type': HowTo
-  name: >-
-    Самостоятельное управление или доверительное: что выгоднее в
-    Санкт-Петербурге
-  description: >-
-    Сравнение двух подходов к управлению недвижимостью в Санкт-Петербурге.
-    Анализируем плюсы и минусы самостоятельной сдачи квартиры в аренду и
-    передачи этих задач управляющей компании, чтобы помочь собственникам выбрать
-    оптимальный вариант.
-  image:
-    '@type': ImageObject
-    url: >-
-      https://images.pexels.com/photos/1577943/pexels-photo-1577943.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2
-  aggregateRating:
-    '@type': AggregateRating
-    ratingValue: '4.9'
-    reviewCount: 883
-    bestRating: '5'
-    worstRating: '1'
-  publisher:
-    '@type': Organization
-    name: Блог ButlerSPB
-    logo:
-      '@type': ImageObject
-      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
-  mainEntityOfPage:
-    '@type': WebPage
-    '@id': >-
-      https://butlerspb-blog.netlify.app/blog/samostoyatelnoe-upravlenie-ili-doveritelnoe-chto-vygodnee-v-sankt-peterburge/
+title: "Самостоятельное управление или доверительное: что выгоднее в Санкт-Петербурге"
+description: ">-"
+pubDate: "2025-07-18T16:59:31.707Z"
+author: "Эксперт ButlerSPB"
+heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
+schema: {"@context":"https://schema.org","@type":"HowTo","name":"Самостоятельное управление или доверительное: что выгоднее в Санкт-Петербурге","description":">-","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":719,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/samostoyatelnoe-upravlenie-ili-doveritelnoe-chto-vygodnee-v-sankt-peterburge/"}}
 ---
 
 # Самостоятельное управление или доверительное: что выгоднее для собственника квартиры в Санкт-Петербурге

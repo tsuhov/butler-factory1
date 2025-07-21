@@ -1,42 +1,10 @@
 ---
-title: 'Разрешено ли проживание с животными: плюсы и минусы'
-description: >-
-  В этой статье мы подробно разбираем все 'за' и 'против' совместного проживания
-  с домашними питомцами. Анализируем юридические тонкости, пользу для здоровья и
-  возможные трудности, с которыми могут столкнуться владельцы животных.
-pubDate: '2025-07-19T23:46:59.594Z'
-author: Эксперт ButlerSPB
-heroImage: >-
-  https://images.pexels.com/photos/45170/kittens-cat-cat-puppy-rush-45170.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2
-schema:
-  '@context': 'https://schema.org'
-  '@type': HowTo
-  name: 'Разрешено ли проживание с животными: плюсы и минусы'
-  description: >-
-    В этой статье мы подробно разбираем все 'за' и 'против' совместного
-    проживания с домашними питомцами. Анализируем юридические тонкости, пользу
-    для здоровья и возможные трудности, с которыми могут столкнуться владельцы
-    животных.
-  image:
-    '@type': ImageObject
-    url: >-
-      https://images.pexels.com/photos/45170/kittens-cat-cat-puppy-rush-45170.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2
-  aggregateRating:
-    '@type': AggregateRating
-    ratingValue: '5.0'
-    reviewCount: 641
-    bestRating: '5'
-    worstRating: '1'
-  publisher:
-    '@type': Organization
-    name: Блог ButlerSPB
-    logo:
-      '@type': ImageObject
-      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
-  mainEntityOfPage:
-    '@type': WebPage
-    '@id': >-
-      https://butlerspb-blog.netlify.app/blog/razresheno-li-prozhivanie-s-zhivotnymi-plyusy-i-minusy/
+title: "Разрешено ли проживание с животными: плюсы и минусы"
+description: ">-"
+pubDate: "2025-07-19T23:46:59.594Z"
+author: "Эксперт ButlerSPB"
+heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
+schema: {"@context":"https://schema.org","@type":"HowTo","name":"Разрешено ли проживание с животными: плюсы и минусы","description":">-","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.8","reviewCount":758,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/razresheno-li-prozhivanie-s-zhivotnymi-plyusy-i-minusy/"}}
 ---
 
 # Проживание с животными в арендованной квартире: Полное руководство для арендаторов и собственников

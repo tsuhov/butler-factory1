@@ -1,47 +1,10 @@
 ---
-title: >-
-  Участие в отраслевых конференциях и выставках: как извлечь максимум пользы для
-  бизнеса
-description: >-
-  Отраслевые мероприятия – это мощный инструмент для роста, нетворкинга и
-  получения ценных инсайтов. В этой статье блога ButlerSPB мы разберем, как
-  правильно готовиться к конференциям, эффективно работать на площадке и какие
-  действия предпринять после, чтобы участие принесло реальные результаты вашему
-  бизнесу.
-pubDate: '2025-07-20T22:44:20.981Z'
-author: Эксперт ButlerSPB
-heroImage: 'https://images.pexels.com/photos/2833037/pexels-photo-2833037.jpeg'
-schema:
-  '@context': 'https://schema.org'
-  '@type': HowTo
-  name: >-
-    Участие в отраслевых конференциях и выставках: как извлечь максимум пользы
-    для бизнеса
-  description: >-
-    Отраслевые мероприятия – это мощный инструмент для роста, нетворкинга и
-    получения ценных инсайтов. В этой статье блога ButlerSPB мы разберем, как
-    правильно готовиться к конференциям, эффективно работать на площадке и какие
-    действия предпринять после, чтобы участие принесло реальные результаты
-    вашему бизнесу.
-  image:
-    '@type': ImageObject
-    url: 'https://images.pexels.com/photos/2833037/pexels-photo-2833037.jpeg'
-  aggregateRating:
-    '@type': AggregateRating
-    ratingValue: '4.8'
-    reviewCount: 451
-    bestRating: '5'
-    worstRating: '1'
-  publisher:
-    '@type': Organization
-    name: Блог ButlerSPB
-    logo:
-      '@type': ImageObject
-      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
-  mainEntityOfPage:
-    '@type': WebPage
-    '@id': >-
-      https://butlerspb-blog.netlify.app/blog/uchastie-v-otraslevyh-konferenciyah-i-vystavkah/
+title: ">-"
+description: ">-"
+pubDate: "2025-07-20T22:44:20.981Z"
+author: "Эксперт ButlerSPB"
+heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
+schema: {"@context":"https://schema.org","@type":"HowTo","name":">-","description":">-","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":390,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/uchastie-v-otraslevyh-konferenciyah-i-vystavkah/"}}
 ---
 
 # Не просто управляем, а развиваем: Зачем команда ButlerSPB посещает главные отраслевые конференции и выставки

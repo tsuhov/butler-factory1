@@ -1,47 +1,10 @@
 ---
-title: Наша стратегия работы в высокий и низкий сезон
-description: >-
-  В ButlerSPB мы понимаем, что каждый сезон в Санкт-Петербурге уникален. В нашей
-  новой статье мы делимся секретами нашей стратегии: как мы поддерживаем
-  высочайший уровень сервиса в пиковые месяцы туристического бума и как создаем
-  особую ценность для наших клиентов в спокойное межсезонье. Узнайте, как
-  гибкость и фокус на качестве помогают нам быть вашим надежным партнером
-  круглый год.
-pubDate: '2025-07-20T13:29:05.209Z'
-author: Эксперт ButlerSPB
-heroImage: >-
-  https://images.pexels.com/photos/1550913/pexels-photo-1550913.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2
-schema:
-  '@context': 'https://schema.org'
-  '@type': HowTo
-  name: Наша стратегия работы в высокий и низкий сезон
-  description: >-
-    В ButlerSPB мы понимаем, что каждый сезон в Санкт-Петербурге уникален. В
-    нашей новой статье мы делимся секретами нашей стратегии: как мы поддерживаем
-    высочайший уровень сервиса в пиковые месяцы туристического бума и как
-    создаем особую ценность для наших клиентов в спокойное межсезонье. Узнайте,
-    как гибкость и фокус на качестве помогают нам быть вашим надежным партнером
-    круглый год.
-  image:
-    '@type': ImageObject
-    url: >-
-      https://images.pexels.com/photos/1550913/pexels-photo-1550913.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2
-  aggregateRating:
-    '@type': AggregateRating
-    ratingValue: '4.9'
-    reviewCount: 869
-    bestRating: '5'
-    worstRating: '1'
-  publisher:
-    '@type': Organization
-    name: Блог ButlerSPB
-    logo:
-      '@type': ImageObject
-      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
-  mainEntityOfPage:
-    '@type': WebPage
-    '@id': >-
-      https://butlerspb-blog.netlify.app/blog/nasha-strategiya-raboty-v-vysokiy-i-nizkiy-sezon/
+title: "Наша стратегия работы в высокий и низкий сезон"
+description: ">-"
+pubDate: "2025-07-20T13:29:05.209Z"
+author: "Эксперт ButlerSPB"
+heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
+schema: {"@context":"https://schema.org","@type":"HowTo","name":"Наша стратегия работы в высокий и низкий сезон","description":">-","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":538,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/nasha-strategiya-raboty-v-vysokiy-i-nizkiy-sezon/"}}
 ---
 
 # Как мы удваиваем доход в высокий сезон и избегаем простоев в низкий: Полная стратегия управления от ButlerSPB

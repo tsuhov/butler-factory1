@@ -1,41 +1,10 @@
 ---
-title: Создание резервного фонда на ремонт и амортизацию
-description: >-
-  Подробное руководство о том, как правильно сформировать и управлять резервным
-  фондом для покрытия расходов на ремонт, обслуживание и амортизацию активов.
-  Ключевые шаги, расчеты и советы экспертов.
-pubDate: '2025-07-20T10:45:11.555Z'
-author: Эксперт ButlerSPB
-heroImage: >-
-  https://images.pexels.com/photos/4386467/pexels-photo-4386467.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2
-schema:
-  '@context': 'https://schema.org'
-  '@type': HowTo
-  name: Создание резервного фонда на ремонт и амортизацию
-  description: >-
-    Подробное руководство о том, как правильно сформировать и управлять
-    резервным фондом для покрытия расходов на ремонт, обслуживание и амортизацию
-    активов. Ключевые шаги, расчеты и советы экспертов.
-  image:
-    '@type': ImageObject
-    url: >-
-      https://images.pexels.com/photos/4386467/pexels-photo-4386467.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2
-  aggregateRating:
-    '@type': AggregateRating
-    ratingValue: '5.0'
-    reviewCount: 331
-    bestRating: '5'
-    worstRating: '1'
-  publisher:
-    '@type': Organization
-    name: Блог ButlerSPB
-    logo:
-      '@type': ImageObject
-      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
-  mainEntityOfPage:
-    '@type': WebPage
-    '@id': >-
-      https://butlerspb-blog.netlify.app/blog/sozdanie-rezervnogo-fonda-na-remont-i-amortizaciyu/
+title: "Создание резервного фонда на ремонт и амортизацию"
+description: ">-"
+pubDate: "2025-07-20T10:45:11.555Z"
+author: "Эксперт ButlerSPB"
+heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
+schema: {"@context":"https://schema.org","@type":"HowTo","name":"Создание резервного фонда на ремонт и амортизацию","description":">-","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.8","reviewCount":562,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/sozdanie-rezervnogo-fonda-na-remont-i-amortizaciyu/"}}
 ---
 
 # Создание резервного фонда на ремонт и амортизацию: полное руководство по защите вашего имущества

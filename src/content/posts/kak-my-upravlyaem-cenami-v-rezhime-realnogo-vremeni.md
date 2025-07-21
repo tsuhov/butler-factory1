@@ -1,41 +1,10 @@
 ---
-title: Как мы управляем ценами в режиме реального времени
-description: >-
-  В блоге ButlerSPB мы раскрываем секреты нашего подхода к динамическому
-  ценообразованию. Узнайте, как современные алгоритмы и анализ данных позволяют
-  нам предлагать вам лучшие цены на услуги в любой момент.
-pubDate: '2025-07-20T15:08:01.581Z'
-author: Эксперт ButlerSPB
-heroImage: >-
-  https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D
-schema:
-  '@context': 'https://schema.org'
-  '@type': HowTo
-  name: Как мы управляем ценами в режиме реального времени
-  description: >-
-    В блоге ButlerSPB мы раскрываем секреты нашего подхода к динамическому
-    ценообразованию. Узнайте, как современные алгоритмы и анализ данных
-    позволяют нам предлагать вам лучшие цены на услуги в любой момент.
-  image:
-    '@type': ImageObject
-    url: >-
-      https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D
-  aggregateRating:
-    '@type': AggregateRating
-    ratingValue: '5.0'
-    reviewCount: 792
-    bestRating: '5'
-    worstRating: '1'
-  publisher:
-    '@type': Organization
-    name: Блог ButlerSPB
-    logo:
-      '@type': ImageObject
-      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
-  mainEntityOfPage:
-    '@type': WebPage
-    '@id': >-
-      https://butlerspb-blog.netlify.app/blog/kak-my-upravlyaem-cenami-v-rezhime-realnogo-vremeni/
+title: "Как мы управляем ценами в режиме реального времени"
+description: ">-"
+pubDate: "2025-07-20T15:08:01.581Z"
+author: "Эксперт ButlerSPB"
+heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
+schema: {"@context":"https://schema.org","@type":"HowTo","name":"Как мы управляем ценами в режиме реального времени","description":">-","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"5.0","reviewCount":352,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/kak-my-upravlyaem-cenami-v-rezhime-realnogo-vremeni/"}}
 ---
 
 # Динамическое ценообразование ButlerSPB: Как мы управляем ценами в реальном времени и увеличиваем ваш доход

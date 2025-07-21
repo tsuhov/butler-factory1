@@ -2,10 +2,10 @@
 title: "Доверительное управление квартирой в СПб для посуточной сдачи"
 description: "Что такое доверительное управление квартирой для посуточной аренды в Санкт-Петербурге? Как собственнику получать пассивный доход, передав все заботы УК."
 pubDate: "2025-07-17T00:19:26.094Z"
-author: "ButlerSPB Expert"
-schema: {"@context":"https://schema.org","@type":"BlogPosting","headline":"Доверительное управление квартирой для посуточной сдачи в Петербурге","description":"Узнайте все о доверительном управлении квартирой для посуточной сдачи в Санкт-Петербурге: плюсы и минусы, как выбрать управляющую компанию и начать получать пассивный доход.","author":{"@type":"Organization","name":"Эксперты по недвижимости СПб"},"publisher":{"@type":"Organization","name":"Портал аренды 'Питер-Рент'","logo":{"@type":"ImageObject","url":"https://example.com/logo.png","width":600,"height":60}},"datePublished":"2024-05-21"}
-
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"---
+author: "Эксперт ButlerSPB"
+heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
+schema: {"@context":"https://schema.org","@type":"HowTo","name":"Доверительное управление квартирой в СПб для посуточной сдачи","description":"Что такое доверительное управление квартирой для посуточной аренды в Санкт-Петербурге? Как собственнику получать пассивный доход, передав все заботы УК.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"5.0","reviewCount":758,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/doveritelnoe-upravlenie-kvartiroy-dlya-posutochnoy-sdachi-v-peterburge/"}}
+---
 
 ### **(H1) Доверительное управление квартирой для посуточной сдачи в Петербурге: как превратить недвижимость в пассивный доход**
 

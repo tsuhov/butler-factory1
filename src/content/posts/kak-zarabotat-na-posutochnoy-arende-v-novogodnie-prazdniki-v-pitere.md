@@ -1,43 +1,10 @@
 ---
-title: Как заработать на посуточной аренде в новогодние праздники в Питере
-description: >-
-  Новогодние праздники — золотое время для владельцев квартир в
-  Санкт-Петербурге. Узнайте, как максимизировать прибыль от посуточной аренды,
-  подготовить жилье к приезду гостей и избежать типичных ошибок. Полное
-  руководство для успешного старта.
-pubDate: '2025-07-19T12:37:45.900Z'
-author: Эксперт ButlerSPB
-heroImage: >-
-  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
-schema:
-  '@context': 'https://schema.org'
-  '@type': HowTo
-  name: Как заработать на посуточной аренде в новогодние праздники в Питере
-  description: >-
-    Новогодние праздники — золотое время для владельцев квартир в
-    Санкт-Петербурге. Узнайте, как максимизировать прибыль от посуточной аренды,
-    подготовить жилье к приезду гостей и избежать типичных ошибок. Полное
-    руководство для успешного старта.
-  image:
-    '@type': ImageObject
-    url: >-
-      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
-  aggregateRating:
-    '@type': AggregateRating
-    ratingValue: '4.8'
-    reviewCount: 795
-    bestRating: '5'
-    worstRating: '1'
-  publisher:
-    '@type': Organization
-    name: Блог ButlerSPB
-    logo:
-      '@type': ImageObject
-      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
-  mainEntityOfPage:
-    '@type': WebPage
-    '@id': >-
-      https://butlerspb-blog.netlify.app/blog/kak-zarabotat-na-posutochnoy-arende-v-novogodnie-prazdniki-v-pitere/
+title: "Как заработать на посуточной аренде в новогодние праздники в Питере"
+description: ">-"
+pubDate: "2025-07-19T12:37:45.900Z"
+author: "Эксперт ButlerSPB"
+heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
+schema: {"@context":"https://schema.org","@type":"HowTo","name":"Как заработать на посуточной аренде в новогодние праздники в Питере","description":">-","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"5.0","reviewCount":392,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/kak-zarabotat-na-posutochnoy-arende-v-novogodnie-prazdniki-v-pitere/"}}
 ---
 
 # Как заработать на посуточной аренде в Питере на Новый год 2025: Полное руководство для собственника

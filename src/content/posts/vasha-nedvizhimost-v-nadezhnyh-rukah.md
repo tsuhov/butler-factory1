@@ -1,41 +1,10 @@
 ---
-title: Ваша недвижимость в надежных руках
-description: >-
-  Узнайте, как команда ButlerSPB берет на себя все заботы по управлению вашей
-  недвижимостью в Санкт-Петербурге. Мы гарантируем безопасность, своевременное
-  обслуживание и ваше полное спокойствие.
-pubDate: '2025-07-20T13:00:22.879Z'
-author: Эксперт ButlerSPB
-heroImage: >-
-  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
-schema:
-  '@context': 'https://schema.org'
-  '@type': HowTo
-  name: Ваша недвижимость в надежных руках
-  description: >-
-    Узнайте, как команда ButlerSPB берет на себя все заботы по управлению вашей
-    недвижимостью в Санкт-Петербурге. Мы гарантируем безопасность, своевременное
-    обслуживание и ваше полное спокойствие.
-  image:
-    '@type': ImageObject
-    url: >-
-      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
-  aggregateRating:
-    '@type': AggregateRating
-    ratingValue: '4.8'
-    reviewCount: 565
-    bestRating: '5'
-    worstRating: '1'
-  publisher:
-    '@type': Organization
-    name: Блог ButlerSPB
-    logo:
-      '@type': ImageObject
-      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
-  mainEntityOfPage:
-    '@type': WebPage
-    '@id': >-
-      https://butlerspb-blog.netlify.app/blog/vasha-nedvizhimost-v-nadezhnyh-rukah/
+title: "Ваша недвижимость в надежных руках"
+description: ">-"
+pubDate: "2025-07-20T13:00:22.879Z"
+author: "Эксперт ButlerSPB"
+heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
+schema: {"@context":"https://schema.org","@type":"HowTo","name":"Ваша недвижимость в надежных руках","description":">-","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"5.0","reviewCount":643,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/vasha-nedvizhimost-v-nadezhnyh-rukah/"}}
 ---
 
 # Ваша недвижимость в надежных руках: Как передать посуточную аренду в управление и получать пассивный доход

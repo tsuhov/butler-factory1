@@ -1,43 +1,10 @@
 ---
-title: Как мы готовимся к пиковому сезону
-description: >-
-  Пиковый сезон — это серьезная проверка для любого сервисного бизнеса. В блоге
-  ButlerSPB рассказываем, как мы выстраиваем процессы, готовим команду и
-  используем технологии, чтобы гарантировать безупречное качество услуг в самый
-  напряженный период.
-pubDate: '2025-07-20T18:48:42.866Z'
-author: Эксперт ButlerSPB
-heroImage: >-
-  https://images.pexels.com/photos/3184418/pexels-photo-3184418.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2
-schema:
-  '@context': 'https://schema.org'
-  '@type': HowTo
-  name: Как мы готовимся к пиковому сезону
-  description: >-
-    Пиковый сезон — это серьезная проверка для любого сервисного бизнеса. В
-    блоге ButlerSPB рассказываем, как мы выстраиваем процессы, готовим команду и
-    используем технологии, чтобы гарантировать безупречное качество услуг в
-    самый напряженный период.
-  image:
-    '@type': ImageObject
-    url: >-
-      https://images.pexels.com/photos/3184418/pexels-photo-3184418.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2
-  aggregateRating:
-    '@type': AggregateRating
-    ratingValue: '4.8'
-    reviewCount: 549
-    bestRating: '5'
-    worstRating: '1'
-  publisher:
-    '@type': Organization
-    name: Блог ButlerSPB
-    logo:
-      '@type': ImageObject
-      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
-  mainEntityOfPage:
-    '@type': WebPage
-    '@id': >-
-      https://butlerspb-blog.netlify.app/blog/kak-my-gotovimsya-k-pikovomu-sezonu/
+title: "Как мы готовимся к пиковому сезону"
+description: ">-"
+pubDate: "2025-07-20T18:48:42.866Z"
+author: "Эксперт ButlerSPB"
+heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
+schema: {"@context":"https://schema.org","@type":"HowTo","name":"Как мы готовимся к пиковому сезону","description":">-","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":303,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/kak-my-gotovimsya-k-pikovomu-sezonu/"}}
 ---
 
 # Пиковый сезон в Петербурге: наш пошаговый план подготовки, который увеличивает доход вашей квартиры

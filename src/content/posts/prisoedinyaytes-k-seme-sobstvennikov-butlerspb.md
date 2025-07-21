@@ -1,43 +1,10 @@
 ---
-title: Присоединяйтесь к семье собственников ButlerSPB
-description: >-
-  Откройте для себя новый уровень управления недвижимостью. Став частью семьи
-  ButlerSPB, вы доверяете свою собственность профессионалам, которые обеспечат
-  стабильный доход, безупречное состояние вашего объекта и полное спокойствие.
-  Мы заботимся о вашей недвижимости, как о своей собственной.
-pubDate: '2025-07-20T22:25:32.338Z'
-author: Эксперт ButlerSPB
-heroImage: >-
-  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
-schema:
-  '@context': 'https://schema.org'
-  '@type': HowTo
-  name: Присоединяйтесь к семье собственников ButlerSPB
-  description: >-
-    Откройте для себя новый уровень управления недвижимостью. Став частью семьи
-    ButlerSPB, вы доверяете свою собственность профессионалам, которые обеспечат
-    стабильный доход, безупречное состояние вашего объекта и полное спокойствие.
-    Мы заботимся о вашей недвижимости, как о своей собственной.
-  image:
-    '@type': ImageObject
-    url: >-
-      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
-  aggregateRating:
-    '@type': AggregateRating
-    ratingValue: '4.8'
-    reviewCount: 651
-    bestRating: '5'
-    worstRating: '1'
-  publisher:
-    '@type': Organization
-    name: Блог ButlerSPB
-    logo:
-      '@type': ImageObject
-      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
-  mainEntityOfPage:
-    '@type': WebPage
-    '@id': >-
-      https://butlerspb-blog.netlify.app/blog/prisoedinyaytes-k-seme-sobstvennikov-butlerspb/
+title: "Присоединяйтесь к семье собственников ButlerSPB"
+description: ">-"
+pubDate: "2025-07-20T22:25:32.338Z"
+author: "Эксперт ButlerSPB"
+heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
+schema: {"@context":"https://schema.org","@type":"HowTo","name":"Присоединяйтесь к семье собственников ButlerSPB","description":">-","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.8","reviewCount":415,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/prisoedinyaytes-k-seme-sobstvennikov-butlerspb/"}}
 ---
 
 # Ваша квартира в Петербурге может приносить больше. Присоединяйтесь к семье собственников ButlerSPB.

@@ -1,43 +1,10 @@
 ---
-title: Как установить правильную цену на посуточную аренду в Петербурге
-description: >-
-  Подробное руководство по ценообразованию для посуточной аренды в
-  Санкт-Петербурге. Узнайте, какие факторы влияют на стоимость, как
-  анализировать конкурентов и устанавливать динамические цены в зависимости от
-  сезона, праздников и событий.
-pubDate: '2025-07-18T15:25:57.234Z'
-author: Эксперт ButlerSPB
-heroImage: >-
-  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
-schema:
-  '@context': 'https://schema.org'
-  '@type': HowTo
-  name: Как установить правильную цену на посуточную аренду в Петербурге
-  description: >-
-    Подробное руководство по ценообразованию для посуточной аренды в
-    Санкт-Петербурге. Узнайте, какие факторы влияют на стоимость, как
-    анализировать конкурентов и устанавливать динамические цены в зависимости от
-    сезона, праздников и событий.
-  image:
-    '@type': ImageObject
-    url: >-
-      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
-  aggregateRating:
-    '@type': AggregateRating
-    ratingValue: '4.8'
-    reviewCount: 368
-    bestRating: '5'
-    worstRating: '1'
-  publisher:
-    '@type': Organization
-    name: Блог ButlerSPB
-    logo:
-      '@type': ImageObject
-      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
-  mainEntityOfPage:
-    '@type': WebPage
-    '@id': >-
-      https://butlerspb-blog.netlify.app/blog/kak-ustanovit-pravilnuyu-cenu-na-posutochnuyu-arendu-v-peterburge/
+title: "Как установить правильную цену на посуточную аренду в Петербурге"
+description: ">-"
+pubDate: "2025-07-18T15:25:57.234Z"
+author: "Эксперт ButlerSPB"
+heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
+schema: {"@context":"https://schema.org","@type":"HowTo","name":"Как установить правильную цену на посуточную аренду в Петербурге","description":">-","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":496,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/kak-ustanovit-pravilnuyu-cenu-na-posutochnuyu-arendu-v-peterburge/"}}
 ---
 
 # Как установить правильную цену на посуточную аренду в Петербурге: Полное руководство для рантье в 2024 году

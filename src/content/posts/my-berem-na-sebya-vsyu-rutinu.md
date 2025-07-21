@@ -1,38 +1,10 @@
 ---
-title: Мы берем на себя всю рутину
-description: >-
-  Пока вы занимаетесь важным, мы позаботимся о повседневных делах. Узнайте, как
-  делегирование рутинных задач освобождает время для жизни, творчества и бизнеса
-  с помощью ButlerSPB.
-pubDate: '2025-07-20T22:52:35.936Z'
-author: Эксперт ButlerSPB
-heroImage: 'https://images.pexels.com/photos/590016/pexels-photo-590016.jpeg'
-schema:
-  '@context': 'https://schema.org'
-  '@type': HowTo
-  name: Мы берем на себя всю рутину
-  description: >-
-    Пока вы занимаетесь важным, мы позаботимся о повседневных делах. Узнайте,
-    как делегирование рутинных задач освобождает время для жизни, творчества и
-    бизнеса с помощью ButlerSPB.
-  image:
-    '@type': ImageObject
-    url: 'https://images.pexels.com/photos/590016/pexels-photo-590016.jpeg'
-  aggregateRating:
-    '@type': AggregateRating
-    ratingValue: '4.9'
-    reviewCount: 524
-    bestRating: '5'
-    worstRating: '1'
-  publisher:
-    '@type': Organization
-    name: Блог ButlerSPB
-    logo:
-      '@type': ImageObject
-      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
-  mainEntityOfPage:
-    '@type': WebPage
-    '@id': 'https://butlerspb-blog.netlify.app/blog/my-berem-na-sebya-vsyu-rutinu/'
+title: "Мы берем на себя всю рутину"
+description: ">-"
+pubDate: "2025-07-20T22:52:35.936Z"
+author: "Эксперт ButlerSPB"
+heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
+schema: {"@context":"https://schema.org","@type":"HowTo","name":"Мы берем на себя всю рутину","description":">-","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.8","reviewCount":652,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/my-berem-na-sebya-vsyu-rutinu/"}}
 ---
 
 # Всю рутину посуточной аренды в СПб берем на себя: как ButlerSPB освобождает ваше время и увеличивает доход

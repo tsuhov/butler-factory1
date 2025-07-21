@@ -1,43 +1,10 @@
 ---
-title: Как подготовить квартиру к передаче в управление
-description: >-
-  Передача квартиры в доверительное управление – ответственный шаг. В этой
-  статье от ButlerSPB мы собрали полный чек-лист для собственников: от
-  технической проверки и генеральной уборки до юридических нюансов и сбора
-  необходимых документов. Узнайте, как сделать процесс передачи быстрым, гладким
-  и безопасным.
-pubDate: '2025-07-21T00:44:25.358Z'
-author: Эксперт ButlerSPB
-heroImage: 'https://images.pexels.com/photos/439227/pexels-photo-439227.jpeg'
-schema:
-  '@context': 'https://schema.org'
-  '@type': HowTo
-  name: Как подготовить квартиру к передаче в управление
-  description: >-
-    Передача квартиры в доверительное управление – ответственный шаг. В этой
-    статье от ButlerSPB мы собрали полный чек-лист для собственников: от
-    технической проверки и генеральной уборки до юридических нюансов и сбора
-    необходимых документов. Узнайте, как сделать процесс передачи быстрым,
-    гладким и безопасным.
-  image:
-    '@type': ImageObject
-    url: 'https://images.pexels.com/photos/439227/pexels-photo-439227.jpeg'
-  aggregateRating:
-    '@type': AggregateRating
-    ratingValue: '4.9'
-    reviewCount: 752
-    bestRating: '5'
-    worstRating: '1'
-  publisher:
-    '@type': Organization
-    name: Блог ButlerSPB
-    logo:
-      '@type': ImageObject
-      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
-  mainEntityOfPage:
-    '@type': WebPage
-    '@id': >-
-      https://butlerspb-blog.netlify.app/blog/kak-podgotovit-kvartiru-k-peredache-v-upravlenie/
+title: "Как подготовить квартиру к передаче в управление"
+description: ">-"
+pubDate: "2025-07-21T00:44:25.358Z"
+author: "Эксперт ButlerSPB"
+heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
+schema: {"@context":"https://schema.org","@type":"HowTo","name":"Как подготовить квартиру к передаче в управление","description":">-","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.8","reviewCount":377,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/kak-podgotovit-kvartiru-k-peredache-v-upravlenie/"}}
 ---
 
 # Как подготовить квартиру к передаче в управление: Полное руководство для собственника в Санкт-Петербурге

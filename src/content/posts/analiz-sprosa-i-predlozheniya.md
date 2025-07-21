@@ -1,46 +1,10 @@
 ---
-title: 'Анализ спроса и предложения: ключ к успешной бизнес-стратегии от ButlerSPB'
-description: >-
-  Понимание законов спроса и предложения — фундаментальный навык для любого
-  бизнеса. В новой статье блога ButlerSPB мы разбираем, как эти две силы
-  формируют рыночные цены, влияют на объемы производства и помогают принимать
-  верные стратегические решения. Узнайте, как использовать этот анализ для
-  оптимизации ассортимента, ценообразования и прогнозирования будущего вашего
-  бизнеса.
-pubDate: '2025-07-20T15:10:19.850Z'
-author: Эксперт ButlerSPB
-heroImage: >-
-  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
-schema:
-  '@context': 'https://schema.org'
-  '@type': HowTo
-  name: 'Анализ спроса и предложения: ключ к успешной бизнес-стратегии от ButlerSPB'
-  description: >-
-    Понимание законов спроса и предложения — фундаментальный навык для любого
-    бизнеса. В новой статье блога ButlerSPB мы разбираем, как эти две силы
-    формируют рыночные цены, влияют на объемы производства и помогают принимать
-    верные стратегические решения. Узнайте, как использовать этот анализ для
-    оптимизации ассортимента, ценообразования и прогнозирования будущего вашего
-    бизнеса.
-  image:
-    '@type': ImageObject
-    url: >-
-      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
-  aggregateRating:
-    '@type': AggregateRating
-    ratingValue: '4.8'
-    reviewCount: 851
-    bestRating: '5'
-    worstRating: '1'
-  publisher:
-    '@type': Organization
-    name: Блог ButlerSPB
-    logo:
-      '@type': ImageObject
-      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
-  mainEntityOfPage:
-    '@type': WebPage
-    '@id': 'https://butlerspb-blog.netlify.app/blog/analiz-sprosa-i-predlozheniya/'
+title: "Анализ спроса и предложения: ключ к успешной бизнес-стратегии от ButlerSPB"
+description: ">-"
+pubDate: "2025-07-20T15:10:19.850Z"
+author: "Эксперт ButlerSPB"
+heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
+schema: {"@context":"https://schema.org","@type":"HowTo","name":"Анализ спроса и предложения: ключ к успешной бизнес-стратегии от ButlerSPB","description":">-","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.7","reviewCount":419,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/analiz-sprosa-i-predlozheniya/"}}
 ---
 
 # Анализ спроса и предложения в посуточной аренде СПб: Превращаем рыночные данные в вашу прибыль

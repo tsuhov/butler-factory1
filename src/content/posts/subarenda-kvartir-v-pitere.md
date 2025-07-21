@@ -1,42 +1,10 @@
 ---
-title: 'Субаренда квартир в Санкт-Петербурге: полное руководство от ButlerSPB'
-description: >-
-  Планируете сдать или снять квартиру в субаренду в Санкт-Петербурге? В нашей
-  новой статье мы подробно разбираем все юридические аспекты, потенциальные
-  риски и выгоды субаренды. Узнайте, как правильно составить договор и защитить
-  свои интересы с советами от экспертов ButlerSPB.
-pubDate: '2025-07-21T16:42:47.362Z'
-author: Эксперт ButlerSPB
-heroImage: >-
-  https://images.unsplash.com/photo-1600585154340-be6161a56a0c?q=80&w=2070&auto=format&fit=crop
-schema:
-  '@context': 'https://schema.org'
-  '@type': HowTo
-  name: 'Субаренда квартир в Санкт-Петербурге: полное руководство от ButlerSPB'
-  description: >-
-    Планируете сдать или снять квартиру в субаренду в Санкт-Петербурге? В нашей
-    новой статье мы подробно разбираем все юридические аспекты, потенциальные
-    риски и выгоды субаренды. Узнайте, как правильно составить договор и
-    защитить свои интересы с советами от экспертов ButlerSPB.
-  image:
-    '@type': ImageObject
-    url: >-
-      https://images.unsplash.com/photo-1600585154340-be6161a56a0c?q=80&w=2070&auto=format&fit=crop
-  aggregateRating:
-    '@type': AggregateRating
-    ratingValue: '4.8'
-    reviewCount: 499
-    bestRating: '5'
-    worstRating: '1'
-  publisher:
-    '@type': Organization
-    name: Блог ButlerSPB
-    logo:
-      '@type': ImageObject
-      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
-  mainEntityOfPage:
-    '@type': WebPage
-    '@id': 'https://butlerspb-blog.netlify.app/blog/subarenda-kvartir-v-pitere/'
+title: "Субаренда квартир в Санкт-Петербурге: полное руководство от ButlerSPB"
+description: ">-"
+pubDate: "2025-07-21T16:42:47.362Z"
+author: "Эксперт ButlerSPB"
+heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
+schema: {"@context":"https://schema.org","@type":"HowTo","name":"Субаренда квартир в Санкт-Петербурге: полное руководство от ButlerSPB","description":">-","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.8","reviewCount":679,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/subarenda-kvartir-v-pitere/"}}
 ---
 
 # Субаренда квартир в Питере: Ваш полный гид от А до Я от экспертов ButlerSPB

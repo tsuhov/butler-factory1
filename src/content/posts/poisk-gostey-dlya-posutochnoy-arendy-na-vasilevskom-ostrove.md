@@ -1,45 +1,10 @@
 ---
-title: 'Поиск гостей для посуточной аренды на Васильевском острове: полное руководство'
-description: >-
-  Откройте секреты успешной сдачи квартиры на Васильевском острове. В нашей
-  статье вы найдете лучшие площадки для размещения, советы по привлечению
-  туристов и студентов, а также стратегии для максимизации вашего дохода и
-  заполняемости.
-pubDate: '2025-07-19T09:46:19.798Z'
-author: Эксперт ButlerSPB
-heroImage: >-
-  https://images.pexels.com/photos/2363359/pexels-photo-2363359.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2
-schema:
-  '@context': 'https://schema.org'
-  '@type': HowTo
-  name: >-
-    Поиск гостей для посуточной аренды на Васильевском острове: полное
-    руководство
-  description: >-
-    Откройте секреты успешной сдачи квартиры на Васильевском острове. В нашей
-    статье вы найдете лучшие площадки для размещения, советы по привлечению
-    туристов и студентов, а также стратегии для максимизации вашего дохода и
-    заполняемости.
-  image:
-    '@type': ImageObject
-    url: >-
-      https://images.pexels.com/photos/2363359/pexels-photo-2363359.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2
-  aggregateRating:
-    '@type': AggregateRating
-    ratingValue: '4.8'
-    reviewCount: 362
-    bestRating: '5'
-    worstRating: '1'
-  publisher:
-    '@type': Organization
-    name: Блог ButlerSPB
-    logo:
-      '@type': ImageObject
-      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
-  mainEntityOfPage:
-    '@type': WebPage
-    '@id': >-
-      https://butlerspb-blog.netlify.app/blog/poisk-gostey-dlya-posutochnoy-arendy-na-vasilevskom-ostrove/
+title: "Поиск гостей для посуточной аренды на Васильевском острове: полное руководство"
+description: ">-"
+pubDate: "2025-07-19T09:46:19.798Z"
+author: "Эксперт ButlerSPB"
+heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
+schema: {"@context":"https://schema.org","@type":"HowTo","name":"Поиск гостей для посуточной аренды на Васильевском острове: полное руководство","description":">-","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.7","reviewCount":422,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/poisk-gostey-dlya-posutochnoy-arendy-na-vasilevskom-ostrove/"}}
 ---
 
 # Поиск гостей для посуточной аренды на Васильевском острове: Полное руководство для собственника в 2024 году

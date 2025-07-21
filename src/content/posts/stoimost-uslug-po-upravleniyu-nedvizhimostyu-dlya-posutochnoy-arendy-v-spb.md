@@ -1,41 +1,10 @@
 ---
-title: Стоимость услуг по управлению недвижимостью для посуточной аренды в СПБ
-description: >-
-  Детальный разбор факторов, влияющих на стоимость услуг по управлению
-  квартирами для посуточной аренды в Санкт-Петербурге. Анализ моделей
-  ценообразования, средних тарифов на рынке и того, что входит в стандартный
-  пакет услуг.
-pubDate: '2025-07-18T17:24:05.034Z'
-author: Эксперт ButlerSPB
-heroImage: 'https://images.pexels.com/photos/1571460/pexels-photo-1571460.jpeg'
-schema:
-  '@context': 'https://schema.org'
-  '@type': HowTo
-  name: Стоимость услуг по управлению недвижимостью для посуточной аренды в СПБ
-  description: >-
-    Детальный разбор факторов, влияющих на стоимость услуг по управлению
-    квартирами для посуточной аренды в Санкт-Петербурге. Анализ моделей
-    ценообразования, средних тарифов на рынке и того, что входит в стандартный
-    пакет услуг.
-  image:
-    '@type': ImageObject
-    url: 'https://images.pexels.com/photos/1571460/pexels-photo-1571460.jpeg'
-  aggregateRating:
-    '@type': AggregateRating
-    ratingValue: '4.9'
-    reviewCount: 633
-    bestRating: '5'
-    worstRating: '1'
-  publisher:
-    '@type': Organization
-    name: Блог ButlerSPB
-    logo:
-      '@type': ImageObject
-      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
-  mainEntityOfPage:
-    '@type': WebPage
-    '@id': >-
-      https://butlerspb-blog.netlify.app/blog/stoimost-uslug-po-upravleniyu-nedvizhimostyu-dlya-posutochnoy-arendy-v-spb/
+title: "Стоимость услуг по управлению недвижимостью для посуточной аренды в СПБ"
+description: ">-"
+pubDate: "2025-07-18T17:24:05.034Z"
+author: "Эксперт ButlerSPB"
+heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
+schema: {"@context":"https://schema.org","@type":"HowTo","name":"Стоимость услуг по управлению недвижимостью для посуточной аренды в СПБ","description":">-","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":375,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/stoimost-uslug-po-upravleniyu-nedvizhimostyu-dlya-posutochnoy-arendy-v-spb/"}}
 ---
 
 # Стоимость управления посуточной арендой в СПб: полный гайд для собственника в 2024 году

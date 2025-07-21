@@ -1,41 +1,10 @@
 ---
-title: Все от создания объявления до выселения гостя и уборки
-description: >-
-  Полное руководство для владельцев апартаментов по управлению краткосрочной
-  арендой. Разбираем каждый этап: от привлекательного объявления и общения с
-  гостями до решения сложных ситуаций и подготовки квартиры к следующему заезду.
-  Советы от экспертов ButlerSPB.
-pubDate: '2025-07-21T11:11:49.068Z'
-author: Эксперт ButlerSPB
-heroImage: 'https://images.pexels.com/photos/1571460/pexels-photo-1571460.jpeg'
-schema:
-  '@context': 'https://schema.org'
-  '@type': HowTo
-  name: Все от создания объявления до выселения гостя и уборки
-  description: >-
-    Полное руководство для владельцев апартаментов по управлению краткосрочной
-    арендой. Разбираем каждый этап: от привлекательного объявления и общения с
-    гостями до решения сложных ситуаций и подготовки квартиры к следующему
-    заезду. Советы от экспертов ButlerSPB.
-  image:
-    '@type': ImageObject
-    url: 'https://images.pexels.com/photos/1571460/pexels-photo-1571460.jpeg'
-  aggregateRating:
-    '@type': AggregateRating
-    ratingValue: '4.9'
-    reviewCount: 571
-    bestRating: '5'
-    worstRating: '1'
-  publisher:
-    '@type': Organization
-    name: Блог ButlerSPB
-    logo:
-      '@type': ImageObject
-      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
-  mainEntityOfPage:
-    '@type': WebPage
-    '@id': >-
-      https://butlerspb-blog.netlify.app/blog/vse-ot-sozdaniya-obyavleniya-do-vyseleniya-gostya-i-uborki/
+title: "Все от создания объявления до выселения гостя и уборки"
+description: ">-"
+pubDate: "2025-07-21T11:11:49.068Z"
+author: "Эксперт ButlerSPB"
+heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
+schema: {"@context":"https://schema.org","@type":"HowTo","name":"Все от создания объявления до выселения гостя и уборки","description":">-","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.8","reviewCount":723,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/vse-ot-sozdaniya-obyavleniya-do-vyseleniya-gostya-i-uborki/"}}
 ---
 
 # Сдать квартиру посуточно в Петербурге: Пошаговый гид от создания объявления до идеальной чистоты

@@ -1,45 +1,10 @@
 ---
-title: 'Оптимизация для агрегаторов: как попасть в топ выдачи и обойти конкурентов'
-description: >-
-  Присутствие на агрегаторах — ключ к успеху для многих сервисных компаний. Но
-  просто разместить объявление недостаточно. У каждой платформы, будь то
-  Booking.com, Avito или ЦИАН, есть свои внутренние поисковые алгоритмы. В этой
-  статье от ButlerSPB мы разберем ключевые факторы ранжирования и поделимся
-  практическими советами, как оптимизировать ваши карточки, чтобы получать
-  максимум целевых клиентов.
-pubDate: '2025-07-20T18:00:47.472Z'
-author: Эксперт ButlerSPB
-heroImage: 'https://images.pexels.com/photos/3861969/pexels-photo-3861969.jpeg'
-schema:
-  '@context': 'https://schema.org'
-  '@type': HowTo
-  name: 'Оптимизация для агрегаторов: как попасть в топ выдачи и обойти конкурентов'
-  description: >-
-    Присутствие на агрегаторах — ключ к успеху для многих сервисных компаний. Но
-    просто разместить объявление недостаточно. У каждой платформы, будь то
-    Booking.com, Avito или ЦИАН, есть свои внутренние поисковые алгоритмы. В
-    этой статье от ButlerSPB мы разберем ключевые факторы ранжирования и
-    поделимся практическими советами, как оптимизировать ваши карточки, чтобы
-    получать максимум целевых клиентов.
-  image:
-    '@type': ImageObject
-    url: 'https://images.pexels.com/photos/3861969/pexels-photo-3861969.jpeg'
-  aggregateRating:
-    '@type': AggregateRating
-    ratingValue: '4.9'
-    reviewCount: 335
-    bestRating: '5'
-    worstRating: '1'
-  publisher:
-    '@type': Organization
-    name: Блог ButlerSPB
-    logo:
-      '@type': ImageObject
-      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
-  mainEntityOfPage:
-    '@type': WebPage
-    '@id': >-
-      https://butlerspb-blog.netlify.app/blog/optimizaciya-pod-algoritmy-poiskovyh-sistem-agregatorov/
+title: "Оптимизация для агрегаторов: как попасть в топ выдачи и обойти конкурентов"
+description: ">-"
+pubDate: "2025-07-20T18:00:47.472Z"
+author: "Эксперт ButlerSPB"
+heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
+schema: {"@context":"https://schema.org","@type":"HowTo","name":"Оптимизация для агрегаторов: как попасть в топ выдачи и обойти конкурентов","description":">-","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"5.0","reviewCount":561,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/optimizaciya-pod-algoritmy-poiskovyh-sistem-agregatorov/"}}
 ---
 
 # Как работают алгоритмы Авито, Циан и Суточно.ру: Полный гайд по оптимизации объявлений для максимального дохода в СПб

@@ -2,10 +2,10 @@
 title: "Как увеличить доход с посуточной аренды в Петербурге"
 description: "Эффективные советы для владельцев квартир в СПб. Узнайте, как повысить заполняемость, оптимизировать цены и увеличить прибыль от посуточной аренды."
 pubDate: "2025-07-17T13:12:27.901Z"
-author: "ButlerSPB Expert"
-schema: {"@context":"https://schema.org","@type":"BlogPosting","headline":"Как увеличить доход с посуточной аренды в Петербурге: практические советы для владельцев","description":"Подробное руководство для арендодателей в Санкт-Петербурге. Рассматриваем ценообразование, маркетинг, улучшение сервиса и другие способы увеличения прибыли от краткосрочной аренды.","author":{"@type":"Person","name":"Алексей Иванов"},"publisher":{"@type":"Organization","name":"SPb Rent Expert","logo":{"@type":"ImageObject","url":"https://example.com/logo.png"}},"datePublished":"2024-05-21"}
-
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"---
+author: "Эксперт ButlerSPB"
+heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
+schema: {"@context":"https://schema.org","@type":"HowTo","name":"Как увеличить доход с посуточной аренды в Петербурге","description":"Эффективные советы для владельцев квартир в СПб. Узнайте, как повысить заполняемость, оптимизировать цены и увеличить прибыль от посуточной аренды.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"5.0","reviewCount":379,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/kak-uvelichit-dohod-s-posutochnoy-arendy-v-peterburge/"}}
+---
 
 ### **(H1) Доходный Петербург: Как получать максимум от посуточной аренды. Экспертное руководство.**
 

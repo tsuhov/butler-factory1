@@ -1,45 +1,10 @@
 ---
-title: >-
-  Мебель-трансформер для небольших студий: Максимум функциональности на минимуме
-  пространства
-description: >-
-  Узнайте, как с помощью умной мебели-трансформера превратить маленькую студию в
-  комфортное и многофункциональное жилье. Обзор лучших решений: от
-  кроватей-шкафов до столов-консолей.
-pubDate: '2025-07-20T00:42:22.054Z'
-author: Эксперт ButlerSPB
-heroImage: >-
-  https://images.unsplash.com/photo-1615873968403-89e068629265?q=80&w=1932&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D
-schema:
-  '@context': 'https://schema.org'
-  '@type': HowTo
-  name: >-
-    Мебель-трансформер для небольших студий: Максимум функциональности на
-    минимуме пространства
-  description: >-
-    Узнайте, как с помощью умной мебели-трансформера превратить маленькую студию
-    в комфортное и многофункциональное жилье. Обзор лучших решений: от
-    кроватей-шкафов до столов-консолей.
-  image:
-    '@type': ImageObject
-    url: >-
-      https://images.unsplash.com/photo-1615873968403-89e068629265?q=80&w=1932&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D
-  aggregateRating:
-    '@type': AggregateRating
-    ratingValue: '5.0'
-    reviewCount: 394
-    bestRating: '5'
-    worstRating: '1'
-  publisher:
-    '@type': Organization
-    name: Блог ButlerSPB
-    logo:
-      '@type': ImageObject
-      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
-  mainEntityOfPage:
-    '@type': WebPage
-    '@id': >-
-      https://butlerspb-blog.netlify.app/blog/mebel-transformer-dlya-nebolshih-studiy/
+title: ">-"
+description: ">-"
+pubDate: "2025-07-20T00:42:22.054Z"
+author: "Эксперт ButlerSPB"
+heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
+schema: {"@context":"https://schema.org","@type":"HowTo","name":">-","description":">-","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":527,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/mebel-transformer-dlya-nebolshih-studiy/"}}
 ---
 
 # **Мебель-трансформер для небольшой студии: Полное руководство по экономии пространства без ущерба для стиля**

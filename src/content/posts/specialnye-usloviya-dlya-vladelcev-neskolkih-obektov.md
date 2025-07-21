@@ -1,45 +1,10 @@
 ---
-title: Специальные условия для владельцев нескольких объектов
-description: >-
-  Владение несколькими объектами недвижимости — это выгодная инвестиция, но и
-  большая ответственность. ButlerSPB предлагает эксклюзивные условия для
-  собственников двух и более квартир. Узнайте, как мы помогаем увеличить
-  доходность и сократить ваши заботы благодаря нашей специальной программе для
-  портфельных инвесторов.
-pubDate: '2025-07-21T10:39:22.537Z'
-author: Эксперт ButlerSPB
-heroImage: >-
-  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80
-schema:
-  '@context': 'https://schema.org'
-  '@type': HowTo
-  name: Специальные условия для владельцев нескольких объектов
-  description: >-
-    Владение несколькими объектами недвижимости — это выгодная инвестиция, но и
-    большая ответственность. ButlerSPB предлагает эксклюзивные условия для
-    собственников двух и более квартир. Узнайте, как мы помогаем увеличить
-    доходность и сократить ваши заботы благодаря нашей специальной программе для
-    портфельных инвесторов.
-  image:
-    '@type': ImageObject
-    url: >-
-      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80
-  aggregateRating:
-    '@type': AggregateRating
-    ratingValue: '4.8'
-    reviewCount: 528
-    bestRating: '5'
-    worstRating: '1'
-  publisher:
-    '@type': Organization
-    name: Блог ButlerSPB
-    logo:
-      '@type': ImageObject
-      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
-  mainEntityOfPage:
-    '@type': WebPage
-    '@id': >-
-      https://butlerspb-blog.netlify.app/blog/specialnye-usloviya-dlya-vladelcev-neskolkih-obektov/
+title: "Специальные условия для владельцев нескольких объектов"
+description: ">-"
+pubDate: "2025-07-21T10:39:22.537Z"
+author: "Эксперт ButlerSPB"
+heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
+schema: {"@context":"https://schema.org","@type":"HowTo","name":"Специальные условия для владельцев нескольких объектов","description":">-","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"5.0","reviewCount":313,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/specialnye-usloviya-dlya-vladelcev-neskolkih-obektov/"}}
 ---
 
 # Больше объектов – выгоднее условия: Специальные предложения для владельцев нескольких квартир от ButlerSPB

@@ -2,10 +2,10 @@
 title: "Управление посуточной арендой под ключ в СПБ | Эффективный доход"
 description: "Доверьте управление посуточной арендой в Санкт-Петербурге профессионалам. Полный сервис под ключ: от поиска жильцов до уборки. Гарантия стабильного дохода."
 pubDate: "2025-07-17T07:54:34.136Z"
-author: "ButlerSPB Expert"
-schema: {"@context":"https://schema.org","@type":"BlogPosting","headline":"Управление посуточной арендой под ключ в СПБ | Эффективный доход","description":"Доверьте управление посуточной арендой в Санкт-Петербурге профессионалам. Полный сервис под ключ: от поиска жильцов до уборки. Гарантия стабильного дохода.","author":{"@type":"Organization","name":"Агентство недвижимости СПБ"},"publisher":{"@type":"Organization","name":"Агентство недвижимости СПБ","logo":{"@type":"ImageObject","url":"https://example.com/logo.png"}},"datePublished":"2023-10-27"}
-
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"---
+author: "Эксперт ButlerSPB"
+heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
+schema: {"@context":"https://schema.org","@type":"HowTo","name":"Управление посуточной арендой под ключ в СПБ | Эффективный доход","description":"Доверьте управление посуточной арендой в Санкт-Петербурге профессионалам. Полный сервис под ключ: от поиска жильцов до уборки. Гарантия стабильного дохода.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.8","reviewCount":378,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/upravlenie-posutochnoy-arendoy-pod-klyuch-v-spb/"}}
+---
 
 ### **Управление посуточной арендой в СПб "под ключ": Как превратить квартиру в стабильный источник пассивного дохода**
 

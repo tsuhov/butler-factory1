@@ -1,45 +1,10 @@
 ---
-title: Истории успеха наших клиентов
-description: >-
-  В ButlerSPB мы верим, что лучший показатель нашей работы — это достижения
-  наших клиентов. В этой статье мы собрали вдохновляющие истории компаний,
-  которые смогли трансформировать свой бизнес, оптимизировать процессы и достичь
-  новых высот благодаря сотрудничеству с нами. Узнайте из первых уст, как наше
-  партнерство помогает решать сложные задачи и открывать новые горизонты.
-pubDate: '2025-07-20T12:34:26.551Z'
-author: Эксперт ButlerSPB
-heroImage: >-
-  https://images.pexels.com/photos/3184418/pexels-photo-3184418.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1
-schema:
-  '@context': 'https://schema.org'
-  '@type': HowTo
-  name: Истории успеха наших клиентов
-  description: >-
-    В ButlerSPB мы верим, что лучший показатель нашей работы — это достижения
-    наших клиентов. В этой статье мы собрали вдохновляющие истории компаний,
-    которые смогли трансформировать свой бизнес, оптимизировать процессы и
-    достичь новых высот благодаря сотрудничеству с нами. Узнайте из первых уст,
-    как наше партнерство помогает решать сложные задачи и открывать новые
-    горизонты.
-  image:
-    '@type': ImageObject
-    url: >-
-      https://images.pexels.com/photos/3184418/pexels-photo-3184418.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1
-  aggregateRating:
-    '@type': AggregateRating
-    ratingValue: '4.9'
-    reviewCount: 434
-    bestRating: '5'
-    worstRating: '1'
-  publisher:
-    '@type': Organization
-    name: Блог ButlerSPB
-    logo:
-      '@type': ImageObject
-      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
-  mainEntityOfPage:
-    '@type': WebPage
-    '@id': 'https://butlerspb-blog.netlify.app/blog/istorii-uspeha-nashih-klientov/'
+title: "Истории успеха наших клиентов"
+description: ">-"
+pubDate: "2025-07-20T12:34:26.551Z"
+author: "Эксперт ButlerSPB"
+heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
+schema: {"@context":"https://schema.org","@type":"HowTo","name":"Истории успеха наших клиентов","description":">-","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.8","reviewCount":642,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/istorii-uspeha-nashih-klientov/"}}
 ---
 
 # Как мы увеличиваем доход от посуточной аренды в Петербурге на 30-50%: 3 реальные истории наших клиентов

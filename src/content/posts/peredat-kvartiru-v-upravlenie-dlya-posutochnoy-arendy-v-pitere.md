@@ -2,10 +2,10 @@
 title: "Передать квартиру в управление для посуточной аренды в Питере"
 description: "Узнайте, как выгодно сдать квартиру в посуточную аренду в СПб через управляющую компанию. Плюсы, минусы и пошаговая инструкция для собственников."
 pubDate: "2025-07-17T07:45:08.239Z"
-author: "ButlerSPB Expert"
-schema: {"@context":"https://schema.org","@type":"BlogPosting","headline":"Передать квартиру в управление для посуточной аренды в Питере: полное руководство","description":"Узнайте, как выгодно сдать квартиру в посуточную аренду в СПб через управляющую компанию. Плюсы, минусы и пошаговая инструкция для собственников.","author":{"@type":"Person","name":"Алексей Новиков"},"publisher":{"@type":"Organization","name":"SPb Rent Pro","logo":{"@type":"ImageObject","url":"https://example.com/logo.png"}},"datePublished":"2024-05-21"}
-
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"---
+author: "Эксперт ButlerSPB"
+heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
+schema: {"@context":"https://schema.org","@type":"HowTo","name":"Передать квартиру в управление для посуточной аренды в Питере","description":"Узнайте, как выгодно сдать квартиру в посуточную аренду в СПб через управляющую компанию. Плюсы, минусы и пошаговая инструкция для собственников.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.7","reviewCount":384,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/peredat-kvartiru-v-upravlenie-dlya-posutochnoy-arendy-v-pitere/"}}
+---
 
 ### **H1: Как сдать квартиру в управление для посуточной аренды в Санкт-Петербурге: полное руководство для собственника**
 

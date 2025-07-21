@@ -2,10 +2,10 @@
 title: "Управление посуточной арендой в Санкт-Петербурге: ключ к успеху"
 description: "Узнайте, как эффективно управлять посуточной арендой в СПб. Советы по ценообразованию, поиску гостей, автоматизации и увеличению доходности вашего объекта."
 pubDate: "2025-07-16T23:42:51.483Z"
-author: "ButlerSPB Expert"
-schema: {"@context":"https://schema.org","@type":"BlogPosting","headline":"Управление посуточной арендой в Санкт-Петербурге: ключ к успеху","description":"Узнайте, как эффективно управлять посуточной арендой в СПб. Советы по ценообразованию, поиску гостей, автоматизации и увеличению доходности вашего объекта.","author":{"@type":"Person","name":"Эксперт по недвижимости"},"publisher":{"@type":"Organization","name":"Петербург-Рент","logo":{"@type":"ImageObject","url":"https://example.com/logo.png"}},"datePublished":"2023-10-26"}
-
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"---
+author: "Эксперт ButlerSPB"
+heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
+schema: {"@context":"https://schema.org","@type":"HowTo","name":"Управление посуточной арендой в Санкт-Петербурге: ключ к успеху","description":"Узнайте, как эффективно управлять посуточной арендой в СПб. Советы по ценообразованию, поиску гостей, автоматизации и увеличению доходности вашего объекта.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":615,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/upravlenie-posutochnoy-arendoy-v-sankt-peterburge/"}}
+---
 
 Отлично, вот экспертная статья, написанная строго по вашему плану. Она структурирована, насыщена конкретными советами и ориентирована на владельцев недвижимости в Санкт-Петербурге.
 

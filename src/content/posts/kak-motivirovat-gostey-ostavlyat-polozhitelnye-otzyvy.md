@@ -1,41 +1,10 @@
 ---
-title: Как мотивировать гостей оставлять положительные отзывы
-description: >-
-  Узнайте проверенные стратегии и практические советы, которые помогут вам
-  получать больше положительных отзывов от ваших гостей. От улучшения сервиса до
-  правильной коммуникации — мы рассмотрим все ключевые аспекты для роста вашей
-  репутации.
-pubDate: '2025-07-19T14:09:50.616Z'
-author: Эксперт ButlerSPB
-heroImage: 'https://images.pexels.com/photos/7821532/pexels-photo-7821532.jpeg'
-schema:
-  '@context': 'https://schema.org'
-  '@type': HowTo
-  name: Как мотивировать гостей оставлять положительные отзывы
-  description: >-
-    Узнайте проверенные стратегии и практические советы, которые помогут вам
-    получать больше положительных отзывов от ваших гостей. От улучшения сервиса
-    до правильной коммуникации — мы рассмотрим все ключевые аспекты для роста
-    вашей репутации.
-  image:
-    '@type': ImageObject
-    url: 'https://images.pexels.com/photos/7821532/pexels-photo-7821532.jpeg'
-  aggregateRating:
-    '@type': AggregateRating
-    ratingValue: '4.9'
-    reviewCount: 472
-    bestRating: '5'
-    worstRating: '1'
-  publisher:
-    '@type': Organization
-    name: Блог ButlerSPB
-    logo:
-      '@type': ImageObject
-      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
-  mainEntityOfPage:
-    '@type': WebPage
-    '@id': >-
-      https://butlerspb-blog.netlify.app/blog/kak-motivirovat-gostey-ostavlyat-polozhitelnye-otzyvy/
+title: "Как мотивировать гостей оставлять положительные отзывы"
+description: ">-"
+pubDate: "2025-07-19T14:09:50.616Z"
+author: "Эксперт ButlerSPB"
+heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
+schema: {"@context":"https://schema.org","@type":"HowTo","name":"Как мотивировать гостей оставлять положительные отзывы","description":">-","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.7","reviewCount":339,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/kak-motivirovat-gostey-ostavlyat-polozhitelnye-otzyvy/"}}
 ---
 
 # Как мотивировать гостей оставлять положительные отзывы: полное руководство для отелей и ресторанов

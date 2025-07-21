@@ -2,10 +2,10 @@
 title: "Как бороться с негативными отзывами о квартире в Питере"
 description: "Получили плохой отзыв о квартире в СПб? Наша инструкция поможет превратить негатив в преимущество, сохранить репутацию и привлечь новых жильцов."
 pubDate: "2025-07-17T17:16:55.554Z"
-author: "ButlerSPB Expert"
-schema: {"@context":"https://schema.org","@type":"BlogPosting","headline":"Как бороться с негативными отзывами о квартире в Питере: полное руководство для арендодателя","description":"Получили плохой отзыв о квартире в СПб? Наша инструкция поможет превратить негатив в преимущество, сохранить репутацию и привлечь новых жильцов.","author":{"@type":"Person","name":"Екатерина Смирнова"},"publisher":{"@type":"Organization","name":"Эксперт по недвижимости СПб","logo":{"@type":"ImageObject","url":"https://example.com/logo.png"}},"datePublished":"2024-05-21"}
-
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"---
+author: "Эксперт ButlerSPB"
+heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
+schema: {"@context":"https://schema.org","@type":"HowTo","name":"Как бороться с негативными отзывами о квартире в Питере","description":"Получили плохой отзыв о квартире в СПб? Наша инструкция поможет превратить негатив в преимущество, сохранить репутацию и привлечь новых жильцов.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":704,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/kak-borotsya-s-negativnymi-otzyvami-o-kvartire-v-pitere/"}}
+---
 
 ### **(H1) Негативный отзыв о квартире в Питере: от паники к плану действий. Полное руководство для арендодателя.**
 

@@ -1,42 +1,10 @@
 ---
-title: Как мы работаем в низкий сезон
-description: >-
-  Низкий сезон — это не время для отдыха, а возможность для роста. Рассказываем,
-  как команда ButlerSPB использует это время для улучшения сервиса, обучения
-  сотрудников и подготовки к новым вызовам, чтобы превосходить ваши ожидания в
-  будущем.
-pubDate: '2025-07-20T18:57:28.124Z'
-author: Эксперт ButlerSPB
-heroImage: >-
-  https://images.pexels.com/photos/3184339/pexels-photo-3184339.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2
-schema:
-  '@context': 'https://schema.org'
-  '@type': HowTo
-  name: Как мы работаем в низкий сезон
-  description: >-
-    Низкий сезон — это не время для отдыха, а возможность для роста.
-    Рассказываем, как команда ButlerSPB использует это время для улучшения
-    сервиса, обучения сотрудников и подготовки к новым вызовам, чтобы
-    превосходить ваши ожидания в будущем.
-  image:
-    '@type': ImageObject
-    url: >-
-      https://images.pexels.com/photos/3184339/pexels-photo-3184339.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2
-  aggregateRating:
-    '@type': AggregateRating
-    ratingValue: '4.8'
-    reviewCount: 881
-    bestRating: '5'
-    worstRating: '1'
-  publisher:
-    '@type': Organization
-    name: Блог ButlerSPB
-    logo:
-      '@type': ImageObject
-      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
-  mainEntityOfPage:
-    '@type': WebPage
-    '@id': 'https://butlerspb-blog.netlify.app/blog/kak-my-rabotaem-v-nizkiy-sezon/'
+title: "Как мы работаем в низкий сезон"
+description: ">-"
+pubDate: "2025-07-20T18:57:28.124Z"
+author: "Эксперт ButlerSPB"
+heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
+schema: {"@context":"https://schema.org","@type":"HowTo","name":"Как мы работаем в низкий сезон","description":">-","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.8","reviewCount":636,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/kak-my-rabotaem-v-nizkiy-sezon/"}}
 ---
 
 # Низкий сезон — не приговор: Как ButlerSPB сохраняет доходность вашей квартиры в Санкт-Петербурге

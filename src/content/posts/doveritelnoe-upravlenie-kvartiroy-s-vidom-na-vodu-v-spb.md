@@ -1,45 +1,10 @@
 ---
-title: >-
-  Доверительное управление квартирой с видом на воду в СПБ: Преимущества и
-  подводные камни
-description: >-
-  Квартира с панорамным видом на Неву или Финский залив — это ценный актив. В
-  статье рассматривается, как профессиональное доверительное управление помогает
-  максимизировать доход от аренды такой недвижимости, обеспечивая при этом
-  сохранность имущества и юридическую чистоту сделок.
-pubDate: '2025-07-18T16:42:09.659Z'
-author: Эксперт ButlerSPB
-heroImage: 'https://images.pexels.com/photos/1842323/pexels-photo-1842323.jpeg'
-schema:
-  '@context': 'https://schema.org'
-  '@type': HowTo
-  name: >-
-    Доверительное управление квартирой с видом на воду в СПБ: Преимущества и
-    подводные камни
-  description: >-
-    Квартира с панорамным видом на Неву или Финский залив — это ценный актив. В
-    статье рассматривается, как профессиональное доверительное управление
-    помогает максимизировать доход от аренды такой недвижимости, обеспечивая при
-    этом сохранность имущества и юридическую чистоту сделок.
-  image:
-    '@type': ImageObject
-    url: 'https://images.pexels.com/photos/1842323/pexels-photo-1842323.jpeg'
-  aggregateRating:
-    '@type': AggregateRating
-    ratingValue: '4.9'
-    reviewCount: 844
-    bestRating: '5'
-    worstRating: '1'
-  publisher:
-    '@type': Organization
-    name: Блог ButlerSPB
-    logo:
-      '@type': ImageObject
-      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
-  mainEntityOfPage:
-    '@type': WebPage
-    '@id': >-
-      https://butlerspb-blog.netlify.app/blog/doveritelnoe-upravlenie-kvartiroy-s-vidom-na-vodu-v-spb/
+title: ">-"
+description: ">-"
+pubDate: "2025-07-18T16:42:09.659Z"
+author: "Эксперт ButlerSPB"
+heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
+schema: {"@context":"https://schema.org","@type":"HowTo","name":">-","description":">-","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.7","reviewCount":658,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/doveritelnoe-upravlenie-kvartiroy-s-vidom-na-vodu-v-spb/"}}
 ---
 
 # Доверительное управление квартирой с видом на воду в СПб: как получать пассивный доход, не тратя время

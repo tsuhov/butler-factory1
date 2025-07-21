@@ -1,39 +1,10 @@
 ---
-title: Бухгалтерский учет для бизнеса на посуточной аренде
-description: >-
-  Ключевые аспекты ведения бухгалтерии для владельцев апартаментов: выбор
-  системы налогообложения, учет доходов и расходов, работа с самозанятыми и ИП,
-  а также автоматизация процессов.
-pubDate: '2025-07-20T00:12:32.144Z'
-author: Эксперт ButlerSPB
-heroImage: 'https://images.pexels.com/photos/590022/pexels-photo-590022.jpeg'
-schema:
-  '@context': 'https://schema.org'
-  '@type': HowTo
-  name: Бухгалтерский учет для бизнеса на посуточной аренде
-  description: >-
-    Ключевые аспекты ведения бухгалтерии для владельцев апартаментов: выбор
-    системы налогообложения, учет доходов и расходов, работа с самозанятыми и
-    ИП, а также автоматизация процессов.
-  image:
-    '@type': ImageObject
-    url: 'https://images.pexels.com/photos/590022/pexels-photo-590022.jpeg'
-  aggregateRating:
-    '@type': AggregateRating
-    ratingValue: '4.9'
-    reviewCount: 490
-    bestRating: '5'
-    worstRating: '1'
-  publisher:
-    '@type': Organization
-    name: Блог ButlerSPB
-    logo:
-      '@type': ImageObject
-      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
-  mainEntityOfPage:
-    '@type': WebPage
-    '@id': >-
-      https://butlerspb-blog.netlify.app/blog/buhgalterskiy-uchet-dlya-biznesa-na-posutochnoy-arende/
+title: "Бухгалтерский учет для бизнеса на посуточной аренде"
+description: ">-"
+pubDate: "2025-07-20T00:12:32.144Z"
+author: "Эксперт ButlerSPB"
+heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
+schema: {"@context":"https://schema.org","@type":"HowTo","name":"Бухгалтерский учет для бизнеса на посуточной аренде","description":">-","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":338,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/buhgalterskiy-uchet-dlya-biznesa-na-posutochnoy-arende/"}}
 ---
 
 # Бухгалтерский учет для посуточной аренды в 2024: от самозанятости до ИП (полное руководство)

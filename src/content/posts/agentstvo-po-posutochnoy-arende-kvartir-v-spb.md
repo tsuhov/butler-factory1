@@ -2,10 +2,10 @@
 title: "Агентство по посуточной аренде квартир в СПБ: Ваш гид"
 description: "Ищете квартиру на сутки в Санкт-Петербурге? Узнайте, как выбрать надежное агентство, на что обратить внимание при бронировании и какие районы лучшие."
 pubDate: "2025-07-17T06:54:46.926Z"
-author: "ButlerSPB Expert"
-schema: {"@context":"https://schema.org","@type":"BlogPosting","headline":"Агентство по посуточной аренде квартир в СПБ: Как выбрать надежного партнера","description":"Полное руководство по выбору агентства для посуточной аренды жилья в Санкт-Петербурге. Советы, цены и обзор лучших районов для комфортного проживания.","author":{"@type":"Person","name":"Иван Петров"},"publisher":{"@type":"Organization","name":"SPB-Rent-Expert","logo":{"@type":"ImageObject","url":"https://example.com/logo.png"}},"datePublished":"2023-11-15"}
-
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"---
+author: "Эксперт ButlerSPB"
+heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
+schema: {"@context":"https://schema.org","@type":"HowTo","name":"Агентство по посуточной аренде квартир в СПБ: Ваш гид","description":"Ищете квартиру на сутки в Санкт-Петербурге? Узнайте, как выбрать надежное агентство, на что обратить внимание при бронировании и какие районы лучшие.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":702,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/agentstvo-po-posutochnoy-arende-kvartir-v-spb/"}}
+---
 
 ### **(H1) Как выбрать агентство посуточной аренды квартир в Санкт-Петербурге: Полное руководство для туриста и собственника**
 

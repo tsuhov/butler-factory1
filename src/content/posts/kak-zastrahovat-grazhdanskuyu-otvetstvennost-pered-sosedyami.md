@@ -1,45 +1,10 @@
 ---
-title: >-
-  Как застраховать гражданскую ответственность перед соседями: полное
-  руководство
-description: >-
-  Защитите себя от непредвиденных расходов в случае залива, пожара или другого
-  ущерба, причиненного соседям. Узнайте, что такое страхование гражданской
-  ответственности, как оно работает, что покрывает и как выбрать подходящий
-  полис.
-pubDate: '2025-07-19T14:05:56.212Z'
-author: Эксперт ButlerSPB
-heroImage: 'https://images.pexels.com/photos/8089253/pexels-photo-8089253.jpeg'
-schema:
-  '@context': 'https://schema.org'
-  '@type': HowTo
-  name: >-
-    Как застраховать гражданскую ответственность перед соседями: полное
-    руководство
-  description: >-
-    Защитите себя от непредвиденных расходов в случае залива, пожара или другого
-    ущерба, причиненного соседям. Узнайте, что такое страхование гражданской
-    ответственности, как оно работает, что покрывает и как выбрать подходящий
-    полис.
-  image:
-    '@type': ImageObject
-    url: 'https://images.pexels.com/photos/8089253/pexels-photo-8089253.jpeg'
-  aggregateRating:
-    '@type': AggregateRating
-    ratingValue: '5.0'
-    reviewCount: 741
-    bestRating: '5'
-    worstRating: '1'
-  publisher:
-    '@type': Organization
-    name: Блог ButlerSPB
-    logo:
-      '@type': ImageObject
-      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
-  mainEntityOfPage:
-    '@type': WebPage
-    '@id': >-
-      https://butlerspb-blog.netlify.app/blog/kak-zastrahovat-grazhdanskuyu-otvetstvennost-pered-sosedyami/
+title: ">-"
+description: ">-"
+pubDate: "2025-07-19T14:05:56.212Z"
+author: "Эксперт ButlerSPB"
+heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
+schema: {"@context":"https://schema.org","@type":"HowTo","name":">-","description":">-","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.7","reviewCount":768,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/kak-zastrahovat-grazhdanskuyu-otvetstvennost-pered-sosedyami/"}}
 ---
 
 # Как застраховать гражданскую ответственность перед соседями: полное руководство по защите от непредвиденных расходов

@@ -1,41 +1,10 @@
 ---
-title: 'Конфиденциальность данных в ButlerSPB: как мы защищаем вашу информацию'
-description: >-
-  В ButlerSPB мы ценим ваше доверие. В этой статье мы подробно рассказываем о
-  мерах, которые мы предпринимаем для обеспечения безопасности и
-  конфиденциальности ваших персональных данных, от шифрования до строгих политик
-  доступа.
-pubDate: '2025-07-20T23:04:23.073Z'
-author: Эксперт ButlerSPB
-heroImage: 'https://images.unsplash.com/photo-1550751827-4bd374c3f58b'
-schema:
-  '@context': 'https://schema.org'
-  '@type': HowTo
-  name: 'Конфиденциальность данных в ButlerSPB: как мы защищаем вашу информацию'
-  description: >-
-    В ButlerSPB мы ценим ваше доверие. В этой статье мы подробно рассказываем о
-    мерах, которые мы предпринимаем для обеспечения безопасности и
-    конфиденциальности ваших персональных данных, от шифрования до строгих
-    политик доступа.
-  image:
-    '@type': ImageObject
-    url: 'https://images.unsplash.com/photo-1550751827-4bd374c3f58b'
-  aggregateRating:
-    '@type': AggregateRating
-    ratingValue: '4.7'
-    reviewCount: 341
-    bestRating: '5'
-    worstRating: '1'
-  publisher:
-    '@type': Organization
-    name: Блог ButlerSPB
-    logo:
-      '@type': ImageObject
-      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
-  mainEntityOfPage:
-    '@type': WebPage
-    '@id': >-
-      https://butlerspb-blog.netlify.app/blog/kak-my-obespechivaem-konfidencialnost-dannyh/
+title: "Конфиденциальность данных в ButlerSPB: как мы защищаем вашу информацию"
+description: ">-"
+pubDate: "2025-07-20T23:04:23.073Z"
+author: "Эксперт ButlerSPB"
+heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
+schema: {"@context":"https://schema.org","@type":"HowTo","name":"Конфиденциальность данных в ButlerSPB: как мы защищаем вашу информацию","description":">-","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.8","reviewCount":558,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/kak-my-obespechivaem-konfidencialnost-dannyh/"}}
 ---
 
 # Конфиденциальность данных в ButlerSPB: Как мы защищаем информацию владельцев и гостей

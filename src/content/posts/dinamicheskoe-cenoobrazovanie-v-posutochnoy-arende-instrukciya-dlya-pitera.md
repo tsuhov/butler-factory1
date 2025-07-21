@@ -1,43 +1,10 @@
 ---
-title: 'Динамическое ценообразование в посуточной аренде: инструкция для Питера'
-description: >-
-  Увеличьте доходность вашей квартиры в Санкт-Петербурге! Наша пошаговая
-  инструкция по динамическому ценообразованию поможет вам анализировать спрос,
-  учитывать сезонность, праздники и события, а также использовать правильные
-  инструменты для установки оптимальной цены на посуточную аренду.
-pubDate: '2025-07-18T15:19:12.771Z'
-author: Эксперт ButlerSPB
-heroImage: >-
-  https://images.pexels.com/photos/10188481/pexels-photo-10188481.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2
-schema:
-  '@context': 'https://schema.org'
-  '@type': HowTo
-  name: 'Динамическое ценообразование в посуточной аренде: инструкция для Питера'
-  description: >-
-    Увеличьте доходность вашей квартиры в Санкт-Петербурге! Наша пошаговая
-    инструкция по динамическому ценообразованию поможет вам анализировать спрос,
-    учитывать сезонность, праздники и события, а также использовать правильные
-    инструменты для установки оптимальной цены на посуточную аренду.
-  image:
-    '@type': ImageObject
-    url: >-
-      https://images.pexels.com/photos/10188481/pexels-photo-10188481.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2
-  aggregateRating:
-    '@type': AggregateRating
-    ratingValue: '5.0'
-    reviewCount: 807
-    bestRating: '5'
-    worstRating: '1'
-  publisher:
-    '@type': Organization
-    name: Блог ButlerSPB
-    logo:
-      '@type': ImageObject
-      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
-  mainEntityOfPage:
-    '@type': WebPage
-    '@id': >-
-      https://butlerspb-blog.netlify.app/blog/dinamicheskoe-cenoobrazovanie-v-posutochnoy-arende-instrukciya-dlya-pitera/
+title: "Динамическое ценообразование в посуточной аренде: инструкция для Питера"
+description: ">-"
+pubDate: "2025-07-18T15:19:12.771Z"
+author: "Эксперт ButlerSPB"
+heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
+schema: {"@context":"https://schema.org","@type":"HowTo","name":"Динамическое ценообразование в посуточной аренде: инструкция для Питера","description":">-","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.8","reviewCount":847,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/dinamicheskoe-cenoobrazovanie-v-posutochnoy-arende-instrukciya-dlya-pitera/"}}
 ---
 
 # Динамическое ценообразование в посуточной аренде: Полная инструкция для владельцев квартир в Санкт-Петербурге

@@ -1,41 +1,10 @@
 ---
-title: Как правильно составить опись имущества для договора аренды
-description: >-
-  Пошаговая инструкция, которая поможет арендодателям и арендаторам правильно
-  оформить акт приема-передачи и опись имущества. Узнайте, как зафиксировать
-  состояние квартиры, мебели и техники, чтобы избежать споров и финансовых
-  потерь.
-pubDate: '2025-07-19T13:45:43.452Z'
-author: Эксперт ButlerSPB
-heroImage: 'https://images.pexels.com/photos/7579831/pexels-photo-7579831.jpeg'
-schema:
-  '@context': 'https://schema.org'
-  '@type': HowTo
-  name: Как правильно составить опись имущества для договора аренды
-  description: >-
-    Пошаговая инструкция, которая поможет арендодателям и арендаторам правильно
-    оформить акт приема-передачи и опись имущества. Узнайте, как зафиксировать
-    состояние квартиры, мебели и техники, чтобы избежать споров и финансовых
-    потерь.
-  image:
-    '@type': ImageObject
-    url: 'https://images.pexels.com/photos/7579831/pexels-photo-7579831.jpeg'
-  aggregateRating:
-    '@type': AggregateRating
-    ratingValue: '4.9'
-    reviewCount: 734
-    bestRating: '5'
-    worstRating: '1'
-  publisher:
-    '@type': Organization
-    name: Блог ButlerSPB
-    logo:
-      '@type': ImageObject
-      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
-  mainEntityOfPage:
-    '@type': WebPage
-    '@id': >-
-      https://butlerspb-blog.netlify.app/blog/kak-pravilno-sostavit-opis-imuschestva-dlya-dogovora-arendy/
+title: "Как правильно составить опись имущества для договора аренды"
+description: ">-"
+pubDate: "2025-07-19T13:45:43.452Z"
+author: "Эксперт ButlerSPB"
+heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
+schema: {"@context":"https://schema.org","@type":"HowTo","name":"Как правильно составить опись имущества для договора аренды","description":">-","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":541,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/kak-pravilno-sostavit-opis-imuschestva-dlya-dogovora-arendy/"}}
 ---
 
 # Как правильно составить опись имущества для договора аренды: полное руководство для арендатора и арендодателя

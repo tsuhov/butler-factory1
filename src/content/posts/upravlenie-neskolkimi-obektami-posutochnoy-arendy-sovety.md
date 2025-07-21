@@ -1,43 +1,10 @@
 ---
-title: 'Управление несколькими объектами посуточной аренды: советы для масштабирования'
-description: >-
-  Откройте для себя проверенные стратегии и инструменты для автоматизации
-  рутины, синхронизации календарей, организации уборки и общения с гостями,
-  чтобы эффективно масштабировать ваш арендный бизнес без лишнего стресса.
-pubDate: '2025-07-19T11:16:17.869Z'
-author: Эксперт ButlerSPB
-heroImage: >-
-  https://images.pexels.com/photos/1643384/pexels-photo-1643384.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2
-schema:
-  '@context': 'https://schema.org'
-  '@type': HowTo
-  name: >-
-    Управление несколькими объектами посуточной аренды: советы для
-    масштабирования
-  description: >-
-    Откройте для себя проверенные стратегии и инструменты для автоматизации
-    рутины, синхронизации календарей, организации уборки и общения с гостями,
-    чтобы эффективно масштабировать ваш арендный бизнес без лишнего стресса.
-  image:
-    '@type': ImageObject
-    url: >-
-      https://images.pexels.com/photos/1643384/pexels-photo-1643384.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2
-  aggregateRating:
-    '@type': AggregateRating
-    ratingValue: '4.9'
-    reviewCount: 851
-    bestRating: '5'
-    worstRating: '1'
-  publisher:
-    '@type': Organization
-    name: Блог ButlerSPB
-    logo:
-      '@type': ImageObject
-      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
-  mainEntityOfPage:
-    '@type': WebPage
-    '@id': >-
-      https://butlerspb-blog.netlify.app/blog/upravlenie-neskolkimi-obektami-posutochnoy-arendy-sovety/
+title: "Управление несколькими объектами посуточной аренды: советы для масштабирования"
+description: ">-"
+pubDate: "2025-07-19T11:16:17.869Z"
+author: "Эксперт ButlerSPB"
+heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
+schema: {"@context":"https://schema.org","@type":"HowTo","name":"Управление несколькими объектами посуточной аренды: советы для масштабирования","description":">-","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":538,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/upravlenie-neskolkimi-obektami-posutochnoy-arendy-sovety/"}}
 ---
 
 # Управление несколькими объектами посуточной аренды: Полное руководство по автоматизации и масштабированию

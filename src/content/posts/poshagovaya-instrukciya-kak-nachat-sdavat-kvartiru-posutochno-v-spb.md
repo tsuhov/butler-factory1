@@ -1,41 +1,10 @@
 ---
-title: 'Как начать сдавать квартиру посуточно в СПб: пошаговая инструкция 2024'
-description: >-
-  Полное руководство для начинающих: от подготовки квартиры и юридического
-  оформления до поиска гостей и максимизации прибыли. Узнайте все о посуточной
-  аренде в Санкт-Петербурге.
-pubDate: '2025-07-17T21:21:10.069Z'
-author: Эксперт ButlerSPB
-heroImage: >-
-  https://images.pexels.com/photos/3707955/pexels-photo-3707955.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2
-schema:
-  '@context': 'https://schema.org'
-  '@type': HowTo
-  name: 'Как начать сдавать квартиру посуточно в СПб: пошаговая инструкция 2024'
-  description: >-
-    Полное руководство для начинающих: от подготовки квартиры и юридического
-    оформления до поиска гостей и максимизации прибыли. Узнайте все о посуточной
-    аренде в Санкт-Петербурге.
-  image:
-    '@type': ImageObject
-    url: >-
-      https://images.pexels.com/photos/3707955/pexels-photo-3707955.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2
-  aggregateRating:
-    '@type': AggregateRating
-    ratingValue: '4.8'
-    reviewCount: 800
-    bestRating: '5'
-    worstRating: '1'
-  publisher:
-    '@type': Organization
-    name: Блог ButlerSPB
-    logo:
-      '@type': ImageObject
-      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
-  mainEntityOfPage:
-    '@type': WebPage
-    '@id': >-
-      https://butlerspb-blog.netlify.app/blog/poshagovaya-instrukciya-kak-nachat-sdavat-kvartiru-posutochno-v-spb/
+title: "Как начать сдавать квартиру посуточно в СПб: пошаговая инструкция 2024"
+description: ">-"
+pubDate: "2025-07-17T21:21:10.069Z"
+author: "Эксперт ButlerSPB"
+heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
+schema: {"@context":"https://schema.org","@type":"HowTo","name":"Как начать сдавать квартиру посуточно в СПб: пошаговая инструкция 2024","description":">-","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":712,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/poshagovaya-instrukciya-kak-nachat-sdavat-kvartiru-posutochno-v-spb/"}}
 ---
 
 # Пошаговая инструкция: как начать сдавать квартиру посуточно в СПб в 2024 году

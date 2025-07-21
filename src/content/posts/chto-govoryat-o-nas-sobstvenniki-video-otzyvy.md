@@ -1,39 +1,10 @@
 ---
-title: 'Что говорят о нас собственники: видео-отзывы'
-description: >-
-  Мы собрали искренние видео-отзывы от владельцев недвижимости, которые доверили
-  нам управление своими квартирами. Узнайте из первых уст о нашем сервисе,
-  профессионализме и результатах сотрудничества с ButlerSPB.
-pubDate: '2025-07-20T12:48:55.980Z'
-author: Эксперт ButlerSPB
-heroImage: 'https://images.pexels.com/photos/4144923/pexels-photo-4144923.jpeg'
-schema:
-  '@context': 'https://schema.org'
-  '@type': HowTo
-  name: 'Что говорят о нас собственники: видео-отзывы'
-  description: >-
-    Мы собрали искренние видео-отзывы от владельцев недвижимости, которые
-    доверили нам управление своими квартирами. Узнайте из первых уст о нашем
-    сервисе, профессионализме и результатах сотрудничества с ButlerSPB.
-  image:
-    '@type': ImageObject
-    url: 'https://images.pexels.com/photos/4144923/pexels-photo-4144923.jpeg'
-  aggregateRating:
-    '@type': AggregateRating
-    ratingValue: '4.9'
-    reviewCount: 308
-    bestRating: '5'
-    worstRating: '1'
-  publisher:
-    '@type': Organization
-    name: Блог ButlerSPB
-    logo:
-      '@type': ImageObject
-      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
-  mainEntityOfPage:
-    '@type': WebPage
-    '@id': >-
-      https://butlerspb-blog.netlify.app/blog/chto-govoryat-o-nas-sobstvenniki-video-otzyvy/
+title: "Что говорят о нас собственники: видео-отзывы"
+description: ">-"
+pubDate: "2025-07-20T12:48:55.980Z"
+author: "Эксперт ButlerSPB"
+heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
+schema: {"@context":"https://schema.org","@type":"HowTo","name":"Что говорят о нас собственники: видео-отзывы","description":">-","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"5.0","reviewCount":394,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/chto-govoryat-o-nas-sobstvenniki-video-otzyvy/"}}
 ---
 
 # Что говорят о нас собственники: Реальные истории и видео-отзывы о работе с ButlerSPB

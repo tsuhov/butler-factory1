@@ -1,45 +1,10 @@
 ---
-title: >-
-  Эффективное взаимодействие с собственником: ключевые этапы и советы от
-  ButlerSPB
-description: >-
-  В этой статье мы подробно разбираем все этапы коммуникации с владельцем
-  недвижимости: от первой встречи и заключения договора до регулярных отчетов и
-  решения сложных ситуаций. Узнайте, как построить доверительные и продуктивные
-  отношения с собственником.
-pubDate: '2025-07-21T00:53:22.820Z'
-author: Эксперт ButlerSPB
-heroImage: 'https://images.pexels.com/photos/3184465/pexels-photo-3184465.jpeg'
-schema:
-  '@context': 'https://schema.org'
-  '@type': HowTo
-  name: >-
-    Эффективное взаимодействие с собственником: ключевые этапы и советы от
-    ButlerSPB
-  description: >-
-    В этой статье мы подробно разбираем все этапы коммуникации с владельцем
-    недвижимости: от первой встречи и заключения договора до регулярных отчетов
-    и решения сложных ситуаций. Узнайте, как построить доверительные и
-    продуктивные отношения с собственником.
-  image:
-    '@type': ImageObject
-    url: 'https://images.pexels.com/photos/3184465/pexels-photo-3184465.jpeg'
-  aggregateRating:
-    '@type': AggregateRating
-    ratingValue: '4.9'
-    reviewCount: 660
-    bestRating: '5'
-    worstRating: '1'
-  publisher:
-    '@type': Organization
-    name: Блог ButlerSPB
-    logo:
-      '@type': ImageObject
-      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
-  mainEntityOfPage:
-    '@type': WebPage
-    '@id': >-
-      https://butlerspb-blog.netlify.app/blog/kak-proishodit-vzaimodeystvie-s-sobstvennikom/
+title: ">-"
+description: ">-"
+pubDate: "2025-07-21T00:53:22.820Z"
+author: "Эксперт ButlerSPB"
+heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
+schema: {"@context":"https://schema.org","@type":"HowTo","name":">-","description":">-","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"5.0","reviewCount":869,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/kak-proishodit-vzaimodeystvie-s-sobstvennikom/"}}
 ---
 
 # Как происходит взаимодействие с собственником в посуточной аренде: полный гид от ButlerSPB

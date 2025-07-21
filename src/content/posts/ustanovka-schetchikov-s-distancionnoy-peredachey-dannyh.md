@@ -1,39 +1,10 @@
 ---
-title: Установка счетчиков с дистанционной передачей данных
-description: >-
-  Узнайте все о преимуществах и процессе установки современных счетчиков с
-  автоматической передачей показаний. Экономьте время и деньги, контролируйте
-  потребление ресурсов и забудьте о ручной отправке данных.
-pubDate: '2025-07-20T00:48:33.315Z'
-author: Эксперт ButlerSPB
-heroImage: 'https://images.pexels.com/photos/7533816/pexels-photo-7533816.jpeg'
-schema:
-  '@context': 'https://schema.org'
-  '@type': HowTo
-  name: Установка счетчиков с дистанционной передачей данных
-  description: >-
-    Узнайте все о преимуществах и процессе установки современных счетчиков с
-    автоматической передачей показаний. Экономьте время и деньги, контролируйте
-    потребление ресурсов и забудьте о ручной отправке данных.
-  image:
-    '@type': ImageObject
-    url: 'https://images.pexels.com/photos/7533816/pexels-photo-7533816.jpeg'
-  aggregateRating:
-    '@type': AggregateRating
-    ratingValue: '4.9'
-    reviewCount: 778
-    bestRating: '5'
-    worstRating: '1'
-  publisher:
-    '@type': Organization
-    name: Блог ButlerSPB
-    logo:
-      '@type': ImageObject
-      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
-  mainEntityOfPage:
-    '@type': WebPage
-    '@id': >-
-      https://butlerspb-blog.netlify.app/blog/ustanovka-schetchikov-s-distancionnoy-peredachey-dannyh/
+title: "Установка счетчиков с дистанционной передачей данных"
+description: ">-"
+pubDate: "2025-07-20T00:48:33.315Z"
+author: "Эксперт ButlerSPB"
+heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
+schema: {"@context":"https://schema.org","@type":"HowTo","name":"Установка счетчиков с дистанционной передачей данных","description":">-","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.8","reviewCount":890,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/ustanovka-schetchikov-s-distancionnoy-peredachey-dannyh/"}}
 ---
 
 # Установка умных счетчиков с дистанционной передачей данных: полный гайд 2024
