@@ -9,7 +9,7 @@
     "preview": "astro preview",
     "astro": "astro",
     "factory": "node factory.js",
-    "fix": "node fixer.js"
+    "surgeon": "node surgeon.js"
   },
   "dependencies": {
     "astro": "^4.11.0",
@@ -17,6 +17,7 @@
     "@google/generative-ai": "^0.7.1",
     "node-fetch": "^3.3.2",
     "marked": "^12.0.2",
-    "@astrojs/rss": "^4.0.7"
+    "@astrojs/rss": "^4.0.7",
+    "gray-matter": "^4.0.3"
   }
 }
