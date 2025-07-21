@@ -1,0 +1,44 @@
+name: 🛠️ One-Time Post Fixer (Surgical Mode)
+
+on:
+  workflow_dispatch:
+
+jobs:
+  fix-posts:
+    permissions:
+      contents: write
+      
+    runs-on: ubuntu-latest
+    steps:
+      - name: ⬇️ Checkout repo
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: ⚙️ Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: 📦 Install dependencies
+        run: npm install
+
+      - name: 🔧 Run the Fixer Script
+        # Важно: запускаем команду fix, которая вызывает fixer.js
+        run: npm run fix
+
+      - name: 🚀 Commit and Push Fixes
+        run: |
+          git config --global user.name 'GitHub Actions Bot'
+          git config --global user.email 'actions-bot@github.com'
+          
+          if [[ -z $(git status --porcelain) ]]; then
+            echo "✅ Проверка завершена. Все файлы уже были в порядке."
+            exit 0
+          fi
+
+          echo "🔥 Обнаружены и отремонтированы файлы. Публикую исправления..."
+          git add .
+          git commit -m "🩺 Автоматический хирургический ремонт существующих статей"
+          git pull --rebase
+          git push```
