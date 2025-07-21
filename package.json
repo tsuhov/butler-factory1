@@ -8,7 +8,9 @@
     "build": "astro build",
     "preview": "astro preview",
     "astro": "astro",
-    "factory": "node factory.js"
+    "factory": "node factory.js",
+    "fix": "node fixer.js",
+    "surgeon": "node surgeon.js"
   },
   "dependencies": {
     "astro": "^4.11.0",
