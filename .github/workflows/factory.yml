@@ -1,4 +1,4 @@
-name: 🚀 Content Factory (Surgical Precision v2.0)
+name: 🚀 Content Factory (Atomic Report)
 
 on:
   workflow_dispatch:
@@ -69,7 +69,7 @@ jobs:
           fi
           echo "key=$CURRENT_KEY" >> $GITHUB_OUTPUT
 
-      - name: 🏭 Run Factory & 📢 Publish & Notify (Thread ${{ matrix.thread }})
+      - name: 🏭 Run Factory & Publish (Thread ${{ matrix.thread }})
         env:
           GEMINI_API_KEY_CURRENT: ${{ steps.set_key.outputs.key }}
           BATCH_SIZE: ${{ github.event.inputs.batch_size_per_thread }}
@@ -79,12 +79,9 @@ jobs:
           git config --global user.name 'GitHub Actions Bot'
           git config --global user.email 'actions-bot@github.com'
           
-          echo "--- ЭСКАДРОН #${{ matrix.thread }}: Начинаю генерацию ---"
+          echo "--- ЭСКАДРОН #${{ matrix.thread }}: Начинаю генерацию и публикацию ---"
           
           git pull --rebase
-          
-          # --- ВОТ КЛЮЧЕВОЕ ИСПРАВЛЕНИЕ ---
-          # Возвращаем в штатный режим производства
           npm run factory
           
           if [[ -z $(git status --porcelain) ]]; then
@@ -98,31 +95,5 @@ jobs:
           
           git pull --rebase
           git push
-          
-          commit_after=$(git rev-parse HEAD)
-          commit_before=$(git rev-parse HEAD~1)
-          
-          NEW_FILES=$(git diff --name-only $commit_before $commit_after -- 'src/content/posts/*.md')
-          
-          if [[ -n "$NEW_FILES" ]]; then
-            echo "📢 ЭСКАДРОН #${{ matrix.thread }}: Подготовка уведомления для IndexNow..."
-            API_KEY="d1b055ab1eb146d892169bbb2c96550e"
-            HOST="butlerspb-blog.netlify.app"
-
-            URL_JSON_ARRAY=$(for file in $NEW_FILES; do slug=$(basename "$file" .md); echo "https://butlerspb-blog.netlify.app/blog/${slug}/"; done | jq -R . | jq -s .)
-
-            JSON_PAYLOAD=$(jq -n \
-                            --arg host "$HOST" \
-                            --arg key "$API_KEY" \
-                            --argjson urls "$URL_JSON_ARRAY" \
-                            '{host: $host, key: $key, urlList: $urls}')
-            
-            echo "--- Диагностика пакета для IndexNow (Эскадрон №${{ matrix.thread }}) ---"
-            echo "$JSON_PAYLOAD"
-            echo "--- Конец диагностики ---"
-            
-            curl -X POST "https://yandex.com/indexnow" -H "Content-Type: application/json; charset=utf-8" -d "$JSON_PAYLOAD"
-            curl -X POST "https://www.bing.com/indexnow" -H "Content-Type: application/json; charset=utf-8" -d "$JSON_PAYLOAD"
-          fi
           
           echo -e "\n✅ ЭСКАДРОН #${{ matrix.thread }}: Миссия успешно завершена."
