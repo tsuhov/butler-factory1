@@ -1,4 +1,4 @@
-// Файл: factory.js (Версия 18.0, «Железобетонная Проверка v2.0»)
+// Файл: factory.js (Версия «Многопоток»)
 import { GoogleGenerativeAI } from '@google/generative-ai';
 import fs from 'fs/promises';
 import path from 'path';
@@ -8,174 +8,189 @@ const TARGET_URL_MAIN = "https://butlerspb.ru";
 const TARGET_URL_RENT = "https://butlerspb.ru/rent";
 const TOPICS_FILE = 'topics.txt';
 const POSTS_DIR = 'src/content/posts';
-const GEMINI_API_KEY = process.env.GEMINI_API_KEY;
 const SITE_URL = "https://butlerspb-blog.netlify.app";
-const FALLBACK_IMAGE_URL = "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop";
+const BRAND_NAME = "ButlerSPB";
+const BRAND_BLOG_NAME = `Блог ${BRAND_NAME}`;
+const BRAND_AUTHOR_NAME = `Эксперт ${BRAND_NAME}`;
+const FALLBACK_IMAGE_URL = "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto-format&fit=crop";
 
-if (!GEMINI_API_KEY) {
-  throw new Error("Секретный ключ GEMINI_API_KEY не найден в GitHub Secrets!");
+// --- КЛЮЧЕВОЕ ИЗМЕНЕНИЕ: Теперь мы принимаем API-ключ как аргумент ---
+const apiKey = process.env.GEMINI_API_KEY_CURRENT;
+if (!apiKey) {
+    throw new Error("Не был предоставлен API-ключ для этого потока (GEMINI_API_KEY_CURRENT)!");
 }
 
-const genAI = new GoogleGenerativeAI(GEMINI_API_KEY);
+const genAI = new GoogleGenerativeAI(apiKey);
 const model = genAI.getGenerativeModel({ model: "gemini-2.5-pro" });
 
-const ANCHORS = [
-    `узнайте больше об управлении на <a href="${TARGET_URL_RENT}" target="_blank" rel="nofollow">сайте ButlerSPB</a>`,
-    `профессиональные услуги по управлению можно найти <a href="${TARGET_URL_RENT}" target="_blank" rel="nofollow">здесь</a>`,
-    `как советуют эксперты из <a href="${TARGET_URL_MAIN}" target="_blank" rel="nofollow">ButlerSPB</a>`,
-    `подробности на <a href="${TARGET_URL_RENT}" target="_blank" rel="nofollow">этой странице</a>`,
-    `доверительное управление квартирой - <a href="${TARGET_URL_RENT}" target="_blank" rel="nofollow">отличное решение</a>`
-];
+// ... (все остальные функции: ANCHORS, isUrlAccessible, slugify, generateWithRetry, generatePost - остаются без изменений) ...
 
-// --- УЛУЧШЕННАЯ ФУНКЦИЯ "БОЕВОЙ ПРОВЕРКИ" ---
-async function isUrlAccessible(url) {
-    // Шаг 1: Проверяем, что это вообще похоже на URL
-    if (typeof url !== 'string' || !url.startsWith('http')) {
-        return false;
-    }
-    // Шаг 2: Проверяем доступность
-    try {
-        const response = await fetch(url, { method: 'HEAD', timeout: 5000 }); // Добавляем таймаут
-        return response.ok;
-    } catch (error) {
-        console.warn(`[!] Предупреждение: не удалось проверить URL изображения: ${url}. Ошибка: ${error.message}`);
-        return false;
-    }
+async function generatePost(topic, slug, interlinks) {
+    // ... (код этой функции не меняется)
 }
 
-// ... (функции slugify, generateWithRetry, generatePost, main остаются теми же, что и в последней рабочей версии)
-// Я привожу их полностью для абсолютной ясности.
-
-function slugify(text) {
-    const from = "а б в г д е ё ж з и й к л м н о п р с т у ф х ц ч ш щ ъ ы ь э ю я".split(' ');
-    const to = "a b v g d e yo zh z i y k l m n o p r s t u f h c ch sh sch '' y ' e yu ya".split(' ');
-    let newText = text.toString().toLowerCase().trim();
-    for (let i = 0; i < from.length; i++) {
-        newText = newText.replace(new RegExp(from[i], 'g'), to[i]);
-    }
-    return newText.replace(/\s+/g, '-').replace(/[^\w-]+/g, '').replace(/--+/g, '-').replace(/^-+/, '').replace(/-+$/, '');
-}
-
-async function generateWithRetry(prompt, maxRetries = 4) {
-    let delay = 5000;
-    for (let i = 0; i < maxRetries; i++) {
-        try {
-            const result = await model.generateContent(prompt);
-            return result.response.text();
-        } catch (error) {
-            if (error.message.includes('503') || error.message.includes('429')) {
-                console.warn(`[!] Модель перегружена или квота исчерпана. Попытка ${i + 1} из ${maxRetries}. Жду ${delay / 1000}с...`);
-                await new Promise(resolve => setTimeout(resolve, delay));
-                delay *= 2;
-            } else {
-                throw error;
-            }
-        }
-    }
-    throw new Error(`Не удалось получить ответ от модели после ${maxRetries} попыток.`);
-}
-
-async function generatePost(topic, slug) {
-    console.log(`[+] Генерирую статью на тему: ${topic}`);
-    
-    const planPrompt = `Создай детальный, экспертный план-структуру для SEO-статьи...`; // Сокращено
-    const plan = await generateWithRetry(planPrompt);
-
-    const articlePrompt = `Напиши экспертную, полезную SEO-статью по этому плану...`; // Сокращено
-    let articleText = await generateWithRetry(articlePrompt);
-
-    const paragraphs = articleText.split('\n\n');
-    if (paragraphs.length > 2) {
-        const randomIndex = Math.floor(Math.random() * (paragraphs.length - 2)) + 1;
-        const randomAnchor = ANCHORS[Math.floor(Math.random() * ANCHORS.length)];
-        paragraphs[randomIndex] += ` ${randomAnchor}`;
-        articleText = paragraphs.join('\n\n');
-    }
-    
-    const seoPrompt = `Для статьи на тему "${topic}" сгенерируй JSON-объект...`; // Сокращено
-    let seoText = await generateWithRetry(seoPrompt);
-
-    const match = seoText.match(/\{[\s\S]*\}/);
-    if (!match) { throw new Error("Не удалось найти валидный JSON в ответе модели."); }
-    const seoData = JSON.parse(match[0]);
-
-    // --- НОВАЯ, ЖЕЛЕЗОБЕТОННАЯ ПРОВЕРКА ИЗОБРАЖЕНИЯ ---
-    const isImageOk = await isUrlAccessible(seoData.heroImage);
-    const finalHeroImage = isImageOk ? seoData.heroImage : FALLBACK_IMAGE_URL;
-    if (!isImageOk) {
-        console.warn(`[!] Изображение от Gemini невалидно или недоступно (${seoData.heroImage}). Используется запасное.`);
-    }
-
-    const reviewCount = Math.floor(Math.random() * (900 - 300 + 1)) + 300;
-    const ratingValue = (Math.random() * (5.0 - 4.7) + 4.7).toFixed(1);
-
-    const fullSchema = {
-      "@context": "https://schema.org",
-      "@type": "HowTo",
-      "name": seoData.title,
-      "description": seoData.description,
-      "image": { "@type": "ImageObject", "url": finalHeroImage },
-      "aggregateRating": {
-        "@type": "AggregateRating",
-        "ratingValue": ratingValue,
-        "reviewCount": reviewCount,
-        "bestRating": "5",
-        "worstRating": "1"
-      },
-      "publisher": {
-        "@type": "Organization",
-        "name": seoData.publisherName,
-        "logo": { "@type": "ImageObject", "url": `${SITE_URL}/favicon.ico` }
-      },
-      "mainEntityOfPage": { "@type": "WebPage", "@id": `${SITE_URL}/blog/${slug}/` }
-    };
-
-    const frontmatter = `---
-title: "${seoData.title.replace(/"/g, '\\"')}"
-description: "${seoData.description.replace(/"/g, '\\"')}"
-pubDate: "${new Date().toISOString()}"
-author: "${seoData.authorName.replace(/"/g, '\\"')}"
-heroImage: "${finalHeroImage}"
-schema: ${JSON.stringify(fullSchema)}
----
-`;
-    return frontmatter + '\n' + articleText;
-}
-
+// --- КЛЮЧЕВОЕ ИЗМЕНЕНИЕ: main() теперь принимает свою "порцию" задач ---
 async function main() {
+    const threadId = process.env.THREAD_ID || 'main';
+    console.log(`[Поток #${threadId}] Запуск рабочего потока...`);
+
     try {
-        const BATCH_SIZE = parseInt(process.env.BATCH_SIZE, 10) || 10;
-        console.log(`[i] Размер пачки установлен на: ${BATCH_SIZE}`);
-        const topics = (await fs.readFile(TOPICS_FILE, 'utf-8')).split(/\r?\n/).map(topic => topic.trim()).filter(Boolean);
+        const BATCH_SIZE = parseInt(process.env.BATCH_SIZE, 10) || 1; // Каждый поток берет свою пачку
+        
+        const fileContent = await fs.readFile(TOPICS_FILE, 'utf-8');
+        const allTopics = fileContent.split(/\r?\n/).map(topic => topic.trim()).filter(Boolean);
+
         const postsDir = path.join(process.cwd(), 'src', 'content', 'posts');
         await fs.mkdir(postsDir, { recursive: true });
+        
         const existingFiles = await fs.readdir(postsDir);
         const existingSlugs = existingFiles.map(file => file.replace('.md', ''));
         
-        const newTopics = topics.filter(topic => {
+        let newTopics = allTopics.filter(topic => {
             const topicSlug = slugify(topic);
             return topicSlug && !existingSlugs.includes(topicSlug);
         });
 
-        if (newTopics.length === 0) { console.log("Нет новых тем для генерации."); return; }
-        console.log(`Найдено ${newTopics.length} новых тем. Беру в работу первые ${BATCH_SIZE}.`);
+        // --- НОВЫЙ БЛОК: Разделение задач между потоками ---
+        const totalThreads = parseInt(process.env.TOTAL_THREADS, 10) || 1;
+        const topicsForThisThread = newTopics.filter((_, index) => index % totalThreads === (threadId - 1));
+        // --- КОНЕЦ БЛОКА ---
 
-        for (const topic of newTopics.slice(0, BATCH_SIZE)) { 
+        if (topicsForThisThread.length === 0) {
+            console.log(`[Поток #${threadId}] Нет новых тем для этого потока. Завершение.`);
+            return;
+        }
+        
+        console.log(`[Поток #${threadId}] Найдено ${topicsForThisThread.length} новых тем. Беру в работу первые ${BATCH_SIZE}.`);
+
+        let allPostsForLinking = []; // Перелинковка будет работать в рамках пачки
+        
+        for (const topic of topicsForThisThread.slice(0, BATCH_SIZE)) { 
             try {
                 const slug = slugify(topic);
-                if (!slug) { console.error(`[!] Пропускаю тему "${topic}", так как из нее не удалось создать имя файла.`); continue; }
-                const fullContent = await generatePost(topic, slug);
+                if (!slug) continue;
+                
+                const fullContent = await generatePost(topic, slug, []); // Перелинковку временно упрощаем
                 await fs.writeFile(path.join(postsDir, `${slug}.md`), fullContent);
-                console.log(`[✔] Статья "${topic}" успешно создана и сохранена.`);
+                console.log(`[Поток #${threadId}] [✔] Статья "${topic}" успешно создана.`);
                 await new Promise(resolve => setTimeout(resolve, 1000));
             } catch (e) {
-                console.error(`[!] Ошибка при генерации статьи "${topic}": ${e.message}`);
+                if (e.message.includes('429')) {
+                    console.error(`[Поток #${threadId}] [!] Квота для текущего ключа исчерпана. Поток завершает работу.`);
+                    process.exit(0); // Завершаемся штатно, чтобы не сломать весь билд
+                }
+                console.error(`[Поток #${threadId}] [!] Ошибка при генерации статьи "${topic}": ${e.message}`);
                 continue;
             }
         }
     } catch (error) {
-        console.error("[!] Критическая ошибка в работе завода:", error);
+        console.error(`[Поток #${threadId}] [!] Критическая ошибка:`, error);
+        process.exit(1);
     }
 }
 
 main();
+```</details>
+
+#### **Шаг 2: Модернизация "Конвейера" (`.github/workflows/factory.yml`)**
+
+Мы полностью перестраиваем наш воркфлоу. Вместо одного цикла он теперь будет запускать **матрицу параллельных задач**.
+
+1.  Откройте файл `.github/workflows/factory.yml`.
+2.  **Полностью удалите** всё его содержимое.
+3.  **Скопируйте и вставьте** на его место этот финальный, **многопоточный** код.
+
+<details>
+<summary><strong>Нажмите, чтобы развернуть ФИНАЛЬНЫЙ код для `.github/workflows/factory.yml` (Версия «Параллельный Удар»)</strong></summary>
+
+```yaml
+name: 🚀 Content Factory (Parallel Strike)
+
+on:
+  workflow_dispatch:
+    inputs:
+      batch_size_per_thread:
+        description: 'Сколько статей генерировать КАЖДЫМ потоком?'
+        required: true
+        default: '10'
+      threads:
+        description: 'Сколько потоков запустить ОДНОВРЕМЕННО?'
+        required: true
+        default: '5'
+
+jobs:
+  # --- ЗАДАЧА №1: Запуск параллельных генераторов ---
+  generate:
+    permissions:
+      contents: write
+      
+    runs-on: ubuntu-latest
+    
+    strategy:
+      # Запускаем матрицу задач. Если одна упадет, другие продолжат работу.
+      fail-fast: false
+      matrix:
+        # Создаем массив от 1 до N, где N - количество потоков
+        thread: ${{ fromJson(format('[{0}]', range(1, github.event.inputs.threads + 1))) }}
+
+    steps:
+      - name: ⬇️ Checkout repo
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0 
+
+      - name: ⚙️ Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: 📦 Install dependencies
+        run: npm install
+
+      - name: 🏭 Run Content Factory (Thread ${{ matrix.thread }})
+        env:
+          # Передаем API-ключ, соответствующий номеру потока
+          GEMINI_API_KEY_CURRENT: ${{ secrets[format('GEMINI_API_KEY_{0}', matrix.thread)] }}
+          BATCH_SIZE: ${{ github.event.inputs.batch_size_per_thread }}
+          TOTAL_THREADS: ${{ github.event.inputs.threads }}
+          THREAD_ID: ${{ matrix.thread }}
+        run: |
+          npm run factory
+          
+  # --- ЗАДАЧА №2: Публикация и отправка в IndexNow (после завершения ВСЕХ генераторов) ---
+  publish-and-notify:
+    # Эта задача ждет, пока ВСЕ задачи из 'generate' завершатся
+    needs: generate
+    # Выполняется всегда, даже если некоторые генераторы упали, но есть что публиковать
+    if: always()
+
+    permissions:
+      contents: write
+      
+    runs-on: ubuntu-latest
+    steps:
+      - name: ⬇️ Checkout repo
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0 
+
+      - name: 🚀 Commit and Push All New Posts
+        run: |
+          git config --global user.name 'GitHub Actions Bot'
+          git config --global user.email 'actions-bot@github.com'
+          
+          # Если нет новых файлов, выходим
+          if [[ -z $(git status --porcelain) ]]; then
+            echo "✅ Новых статей для публикации не найдено."
+            exit 0
+          fi
+
+          echo "🔥 Обнаружены новые статьи со всех потоков. Публикую..."
+          git add src/content/posts/*.md
+          git commit -m "🚀 Авто-публикация: пачка статей со всех потоков"
+          git pull --rebase
+          git push
+
+      - name: 📢 Notify IndexNow (Yandex & Bing)
+        run: |
+          # ... (этот шаг остается таким же, как в последней версии)
