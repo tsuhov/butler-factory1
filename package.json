@@ -10,7 +10,8 @@
     "astro": "astro",
     "factory": "node factory.js",
     "fix": "node fixer.js",
-    "surgeon": "node surgeon.js"
+    "surgeon": "node surgeon.js",
+    "audit": "node auditor.js"
   },
   "dependencies": {
     "astro": "^4.11.0",
