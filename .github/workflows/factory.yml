@@ -1,34 +1,39 @@
-name: 🚀 Content Factory (Central Dispatch)
+name: 🚀 Content Factory (Final Version)
 
 on:
   workflow_dispatch:
+    inputs:
+      batch_size_per_thread:
+        description: 'Сколько статей генерировать КАЖДЫМ потоком?'
+        required: true
+        default: '10'
+      threads:
+        description: 'Сколько потоков запустить ОДНОВРЕМЕННО (1-20)?'
+        required: true
+        default: '5'
 
 jobs:
   prepare:
     runs-on: ubuntu-latest
     outputs:
-      matrix: ${{ steps.set-matrix.outputs.matrix }}
+      matrix: ${{ steps.set_matrix.outputs.matrix }}
     steps:
-      - name: ⬇️ Checkout repo
-        uses: actions/checkout@v4
-      
-      - name: 📝 Generate job list
-        id: set-matrix
+      - name: Create thread matrix
+        id: set_matrix
         run: |
-          ALL_TOPICS=$(cat topics.txt | jq -R . | jq -s .)
-          EXISTING_FILES=$(ls src/content/posts | jq -R . | jq -s .)
+          MAX_THREADS=20
+          REQUESTED_THREADS=${{ github.event.inputs.threads }}
           
-          NEW_TOPICS=$(jq -n --argjson all_topics "$ALL_TOPICS" --argjson existing_files "$EXISTING_FILES" \
-            '($existing_files | map( sub(".md$"; "") )) as $slugs |
-             $all_topics | map(select(. != "" and . != null)) |
-             map(select(IN($slugs; (. | ascii_downcase | gsub(" "; "-") | gsub("[^a-z0-9-]"; ""))) | not))')
+          if (( REQUESTED_THREADS > MAX_THREADS )); then
+            echo "::warning::Запрошено больше потоков (${REQUESTED_THREADS}), чем доступно ключей (${MAX_THREADS}). Будет использовано ${MAX_THREADS}."
+            REQUESTED_THREADS=$MAX_THREADS
+          fi
 
-          echo "Найдено $(echo $NEW_TOPICS | jq 'length') новых тем для генерации."
-          echo "matrix=$(echo $NEW_TOPICS | jq -c .)" >> $GITHUB_OUTPUT
+          MATRIX=$(jq -cn --argjson n "$REQUESTED_THREADS" '[range(1; $n + 1)]')
+          echo "matrix=$MATRIX" >> $GITHUB_OUTPUT
 
-  generate:
+  generate_and_publish:
     needs: prepare
-    if: needs.prepare.outputs.matrix != '[]'
     permissions:
       contents: write
       
@@ -37,80 +42,85 @@ jobs:
     strategy:
       fail-fast: false
       matrix:
-        topic: ${{ fromJson(needs.prepare.outputs.matrix) }}
-        key_index: ${{ fromJson(format('[0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19]')) }}
+        thread: ${{ fromJson(needs.prepare.outputs.matrix) }}
 
     steps:
-      - name: ⬇️ Checkout repo
+      - name: ⬇️ Checkout repo (Thread ${{ matrix.thread }})
         uses: actions/checkout@v4
-      
-      - name: ⚙️ Setup Node.js
+        with:
+          fetch-depth: 0 
+
+      - name: ⚙️ Setup Node.js (Thread ${{ matrix.thread }})
         uses: actions/setup-node@v4
         with:
           node-version: '20'
 
-      - name: 📦 Install dependencies
+      - name: 📦 Install dependencies (Thread ${{ matrix.thread }})
         run: npm install
 
-      - name: 🔑 Set API Key
+      - name: 🔑 Set API Key for Thread ${{ matrix.thread }}
         id: set_key
         run: |
           API_KEYS="${{ secrets.GEMINI_API_KEYS_POOL }}"
-          KEY_COUNT=$(echo "$API_KEYS" | wc -l)
-          CURRENT_KEY_INDEX=$(( (${{ matrix.key_index }} % $KEY_COUNT) + 1 ))
-          CURRENT_KEY=$(echo "$API_KEYS" | sed -n "${CURRENT_KEY_INDEX}p" | tr -d '\r')
+          CURRENT_KEY=$(echo "$API_KEYS" | sed -n '${{ matrix.thread }}p' | tr -d '\r')
+          if [[ -z "$CURRENT_KEY" ]]; then
+            echo "::error::Не удалось извлечь API-ключ для потока #${{ matrix.thread }}. Проверьте секрет GEMINI_API_KEYS_POOL."
+            exit 1
+          fi
           echo "key=$CURRENT_KEY" >> $GITHUB_OUTPUT
 
-      - name: 🏭 Run Factory for "${{ matrix.topic }}"
+      - name: 🏭 Run Factory & 📢 Publish & Notify (Thread ${{ matrix.thread }})
         env:
-          GEMINI_API_KEY: ${{ steps.set_key.outputs.key }}
-          TOPIC: ${{ matrix.topic }}
-        run: npm run factory
-        
-  publish:
-    needs: [prepare, generate]
-    if: always()
-    permissions:
-      contents: write
-    runs-on: ubuntu-latest
-    steps:
-      - name: ⬇️ Checkout repo
-        uses: actions/checkout@v4
-        with:
-          fetch-depth: 0
-
-      - name: 🚀 Commit and Push All New Posts
+          GEMINI_API_KEY_CURRENT: ${{ steps.set_key.outputs.key }}
+          BATCH_SIZE: ${{ github.event.inputs.batch_size_per_thread }}
+          TOTAL_THREADS: ${{ github.event.inputs.threads }}
+          THREAD_ID: ${{ matrix.thread }}
         run: |
           git config --global user.name 'GitHub Actions Bot'
           git config --global user.email 'actions-bot@github.com'
-
-          if [[ -z $(git status --porcelain "src/content/posts/") ]]; then
-            echo "✅ Новых статей для публикации не найдено."
+          
+          echo "--- ЭСКАДРОН #${{ matrix.thread }}: Начинаю генерацию ---"
+          
+          git pull --rebase
+          
+          npm run factory
+          
+          if [[ -z $(git status --porcelain) ]]; then
+            echo "✅ ЭСКАДРОН #${{ matrix.thread }}: Новых статей для этого потока не найдено. Миссия завершена."
             exit 0
           fi
+
+          echo "🔥 ЭСКАДРОН #${{ matrix.thread }}: Обнаружены новые файлы. Публикую пачку..."
           
-          git add src/content/posts/*.md
-          git commit -m "🚀 Авто-публикация: новая пачка статей"
+          git add .
+          git commit -m "🚀 Авто-публикация: пачка от Эскадрона №${{ matrix.thread }}"
           git pull --rebase
           git push
+          
+          commit_after=$(git rev-parse HEAD)
+          commit_before=$(git rev-parse HEAD~1)
+          
+          NEW_FILES=$(git diff --name-only $commit_before $commit_after -- 'src/content/posts/*.md')
+          
+          if [[ -n "$NEW_FILES" ]]; then
+            echo "📢 ЭСКАДРОН #${{ matrix.thread }}: Подготовка уведомления для IndexNow..."
+            API_KEY="d1b055ab1eb146d892169bbb2c96550e"
+            HOST="butlerspb-blog.netlify.app"
 
-      - name: 📢 Notify IndexNow
-        if: success()
-        run: |
-          NEW_FILES=$(git diff --name-only HEAD~1 HEAD -- 'src/content/posts/*.md')
-          if [[ -z "$NEW_FILES" ]]; then exit 0; fi
-          
-          URL_JSON_ARRAY=$(for file in $NEW_FILES; do slug=$(basename "$file" .md); echo "https://butlerspb-blog.netlify.app/blog/${slug}/"; done | jq -R . | jq -s .)
-          
-          API_KEY="d1b055ab1eb146d892169bbb2c96550e"
-          HOST="butlerspb-blog.netlify.app"
+            URL_JSON_ARRAY=$(for file in $NEW_FILES; do slug=$(basename "$file" .md); echo "https://butlerspb-blog.netlify.app/blog/${slug}/"; done | jq -R . | jq -s .)
 
-          JSON_PAYLOAD=$(jq -n \
-                          --arg host "$HOST" \
-                          --arg key "$API_KEY" \
-                          --argjson urls "$URL_JSON_ARRAY" \
-                          '{host: $host, key: $key, urlList: $urls}')
+            JSON_PAYLOAD=$(jq -n \
+                            --arg host "$HOST" \
+                            --arg key "$API_KEY" \
+                            --argjson urls "$URL_JSON_ARRAY" \
+                            '{host: $host, key: $key, urlList: $urls}')
+            
+            echo "--- Диагностика пакета для IndexNow (Эскадрон №${{ matrix.thread }}) ---"
+            echo "$JSON_PAYLOAD"
+            echo "--- Конец диагностики ---"
+            
+            curl -X POST "https://yandex.com/indexnow" -H "Content-Type: application/json; charset=utf-8" -d "$JSON_PAYLOAD"
+            curl -X POST "https://www.bing.com/indexnow" -H "Content-Type: application/json; charset=utf-8" -d "$JSON_PAYLOAD"
+          fi
           
-          echo "--- Отправка в Яндекс и Bing ---"
-          curl -X POST "https://yandex.com/indexnow" -H "Content-Type: application/json; charset=utf-8" -d "$JSON_PAYLOAD"
-          curl -X POST "https://www.bing.com/indexnow" -H "Content-Type: application/json; charset=utf-8" -d "$JSON_PAYLOAD"
+          echo -e "\n✅ ЭСКАДРОН #${{ matrix.thread }}: Миссия успешно завершена."
