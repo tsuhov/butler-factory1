@@ -1,9 +1,11 @@
-// Файл: factory.js (Версия «Абсолютное Превосходство v2.0»)
+// Файл: factory.js (Версия «Атомарный Доклад»)
 import { GoogleGenerativeAI } from '@google/generative-ai';
 import fs from 'fs/promises';
 import path from 'path';
 import fetch from 'node-fetch';
+import { execa } from 'execa';
 
+// --- НАСТРОЙКИ ОПЕРАЦИИ ---
 const TARGET_URL_MAIN = "https://butlerspb.ru";
 const TARGET_URL_RENT = "https://butlerspb.ru/rent";
 const TOPICS_FILE = 'topics.txt';
@@ -71,6 +73,28 @@ async function generateWithRetry(prompt, maxRetries = 4) {
     throw new Error(`Не удалось получить ответ от модели после ${maxRetries} попыток.`);
 }
 
+async function notifyIndexNow(url) {
+    console.log(`📢 Отправляю уведомление для ${url} в IndexNow...`);
+    const API_KEY = "d1b055ab1eb146d892169bbb2c96550e";
+    const HOST = "butlerspb-blog.netlify.app";
+    
+    const payload = JSON.stringify({
+        host: HOST,
+        key: API_KEY,
+        urlList: [url]
+    });
+
+    try {
+        console.log("--- Отправка в Яндекс ---");
+        await execa('curl', ['-X', 'POST', 'https://yandex.com/indexnow', '-H', 'Content-Type: application/json; charset=utf-8', '-d', payload]);
+        console.log("--- Отправка в Bing ---");
+        await execa('curl', ['-X', 'POST', 'https://www.bing.com/indexnow', '-H', 'Content-Type: application/json; charset=utf-8', '-d', payload]);
+        console.log(`[✔] Уведомление для ${url} успешно отправлено.`);
+    } catch (error) {
+        console.error(`[!] Ошибка при отправке в IndexNow для ${url}:`, error.stderr);
+    }
+}
+
 async function generatePost(topic, slug, interlinks) {
     console.log(`[+] Генерирую статью на тему: ${topic}`);
     
@@ -98,7 +122,7 @@ async function generatePost(topic, slug, interlinks) {
         articleText = paragraphs.join('\n\n');
     }
     
-    const seoPrompt = `Для статьи на тему "${topic}" сгенерируй JSON-объект. ВАЖНО: твой ответ должен быть ТОЛЬКО валидным JSON-объектом. JSON должен содержать: "title", "description", "heroImage" (URL с Unsplash или Pexels), "publisherName" (название издателя, например "Блог ButlerSPB").`;
+    const seoPrompt = `Для статьи на тему "${topic}" сгенерируй JSON-объект. ВАЖНО: твой ответ должен быть ТОЛЬКО валидным JSON-объектом. JSON должен содержать: "title", "description". Контекст: это блог компании ButlerSPB.`;
     let seoText = await generateWithRetry(seoPrompt);
 
     const match = seoText.match(/\{[\s\S]*\}/);
@@ -122,12 +146,11 @@ async function generatePost(topic, slug, interlinks) {
         "ratingValue": ratingValue,
         "reviewCount": reviewCount,
         "bestRating": "5",
-        "worstRating": "1",
-        "itemReviewed": { "@type": "Thing", "name": seoData.title }
+        "worstRating": "1"
       },
       "publisher": {
         "@type": "Organization",
-        "name": seoData.publisherName,
+        "name": BRAND_BLOG_NAME,
         "logo": { "@type": "ImageObject", "url": `${SITE_URL}/favicon.ico` }
       },
       "mainEntityOfPage": { "@type": "WebPage", "@id": `${SITE_URL}/blog/${slug}/` }
@@ -198,11 +221,15 @@ async function main() {
                 const fullContent = await generatePost(topic, slug, randomInterlinks);
                 await fs.writeFile(path.join(postsDir, `${slug}.md`), fullContent);
                 console.log(`[Поток #${threadId}] [✔] Статья "${topic}" успешно создана.`);
+                
+                const newUrl = `${SITE_URL}/blog/${slug}/`;
+                await notifyIndexNow(newUrl);
+
                 await new Promise(resolve => setTimeout(resolve, 1000));
             } catch (e) {
                 if (e.message.includes('429')) {
                     console.error(`[Поток #${threadId}] [!] Квота для текущего ключа исчерпана. Поток завершает работу.`);
-                    process.exit(1);
+                    process.exit(0);
                 }
                 console.error(`[Поток #${threadId}] [!] Ошибка при генерации статьи "${topic}": ${e.message}`);
                 continue;
