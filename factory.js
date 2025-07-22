@@ -1,14 +1,11 @@
-// Файл: factory.js (Версия «Атомарный Доклад»)
+// Файл: factory.js (Версия «Центральный Диспетчер» - Исполнитель)
 import { GoogleGenerativeAI } from '@google/generative-ai';
 import fs from 'fs/promises';
 import path from 'path';
 import fetch from 'node-fetch';
-import { execa } from 'execa';
 
-// --- НАСТРОЙКИ ОПЕРАЦИИ ---
 const TARGET_URL_MAIN = "https://butlerspb.ru";
 const TARGET_URL_RENT = "https://butlerspb.ru/rent";
-const TOPICS_FILE = 'topics.txt';
 const POSTS_DIR = 'src/content/posts';
 const SITE_URL = "https://butlerspb-blog.netlify.app";
 const BRAND_NAME = "ButlerSPB";
@@ -16,9 +13,9 @@ const BRAND_BLOG_NAME = `Блог ${BRAND_NAME}`;
 const BRAND_AUTHOR_NAME = `Эксперт ${BRAND_NAME}`;
 const FALLBACK_IMAGE_URL = "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop";
 
-const apiKey = process.env.GEMINI_API_KEY_CURRENT;
+const apiKey = process.env.GEMINI_API_KEY;
 if (!apiKey) {
-    throw new Error("Не был предоставлен API-ключ для этого потока (GEMINI_API_KEY_CURRENT)!");
+    throw new Error("Не был предоставлен API-ключ для этого потока (GEMINI_API_KEY)!");
 }
 
 const genAI = new GoogleGenerativeAI(apiKey);
@@ -27,9 +24,7 @@ const model = genAI.getGenerativeModel({ model: "gemini-2.5-pro" });
 const ANCHORS = [
     `узнайте больше об управлении на <a href="${TARGET_URL_RENT}" target="_blank" rel="nofollow">сайте ${BRAND_NAME}</a>`,
     `профессиональные услуги по управлению можно найти <a href="${TARGET_URL_RENT}" target="_blank" rel="nofollow">здесь</a>`,
-    `как советуют эксперты из <a href="${TARGET_URL_MAIN}" target="_blank" rel="nofollow">${BRAND_NAME}</a>`,
-    `подробности на <a href="${TARGET_URL_RENT}" target="_blank" rel="nofollow">этой странице</a>`,
-    `доверительное управление квартирой - <a href="${TARGET_URL_RENT}" target="_blank" rel="nofollow">отличное решение</a>`
+    `как советуют эксперты из <a href="${TARGET_URL_MAIN}" target="_blank" rel="nofollow">${BRAND_NAME}</a>`
 ];
 
 async function isUrlAccessible(url) {
@@ -54,65 +49,35 @@ function slugify(text) {
     return newText.replace(/\s+/g, '-').replace(/[^\w-]+/g, '').replace(/--+/g, '-').replace(/^-+/, '').replace(/-+$/, '');
 }
 
-async function generateWithRetry(prompt, maxRetries = 4) {
-    let delay = 5000;
-    for (let i = 0; i < maxRetries; i++) {
+async function generateWithRetry(prompt) {
+    let retries = 3;
+    let delay = 3000;
+    while (retries > 0) {
         try {
             const result = await model.generateContent(prompt);
             return result.response.text();
         } catch (error) {
             if (error.message.includes('503') || error.message.includes('429')) {
-                console.warn(`[!] Модель перегружена или квота исчерпана. Попытка ${i + 1} из ${maxRetries}. Жду ${delay / 1000}с...`);
+                console.warn(`[!] Модель перегружена или квота исчерпана. Попытка ${4 - retries}. Жду ${delay / 1000}с...`);
                 await new Promise(resolve => setTimeout(resolve, delay));
                 delay *= 2;
+                retries--;
             } else {
                 throw error;
             }
         }
     }
-    throw new Error(`Не удалось получить ответ от модели после ${maxRetries} попыток.`);
+    throw new Error(`Не удалось получить ответ от модели после нескольких попыток.`);
 }
 
-async function notifyIndexNow(url) {
-    console.log(`📢 Отправляю уведомление для ${url} в IndexNow...`);
-    const API_KEY = "d1b055ab1eb146d892169bbb2c96550e";
-    const HOST = "butlerspb-blog.netlify.app";
-    
-    const payload = JSON.stringify({
-        host: HOST,
-        key: API_KEY,
-        urlList: [url]
-    });
-
-    try {
-        console.log("--- Отправка в Яндекс ---");
-        await execa('curl', ['-X', 'POST', 'https://yandex.com/indexnow', '-H', 'Content-Type: application/json; charset=utf-8', '-d', payload]);
-        console.log("--- Отправка в Bing ---");
-        await execa('curl', ['-X', 'POST', 'https://www.bing.com/indexnow', '-H', 'Content-Type: application/json; charset=utf-8', '-d', payload]);
-        console.log(`[✔] Уведомление для ${url} успешно отправлено.`);
-    } catch (error) {
-        console.error(`[!] Ошибка при отправке в IndexNow для ${url}:`, error.stderr);
-    }
-}
-
-async function generatePost(topic, slug, interlinks) {
-    console.log(`[+] Генерирую статью на тему: ${topic}`);
-    
-    const planPrompt = `Создай детальный, экспертный план-структуру для SEO-статьи на тему "${topic}". Контекст: статья пишется для блога компании ButlerSPB.`;
+async function generatePost(topic, slug) {
+    const planPrompt = `Создай детальный, экспертный план-структуру для SEO-статьи на тему "${topic}". Контекст: блог компании ButlerSPB.`;
     const plan = await generateWithRetry(planPrompt);
 
-    const articlePrompt = `Напиши экспертную, полезную SEO-статью по этому плану:\n\n${plan}\n\nТема: "${topic}". ВАЖНО: строго следуй плану и используй синтаксис Markdown для всех заголовков (# для H1, ## для H2, ### для H3). Текст должен быть написан от лица компании ButlerSPB. Не добавляй никакого сопроводительного текста перед первым заголовком.`;
+    const articlePrompt = `Напиши экспертную SEO-статью по этому плану:\n\n${plan}\n\nТема: "${topic}". ВАЖНО: используй синтаксис Markdown для всех заголовков. Текст от лица компании ButlerSPB.`;
     let articleText = await generateWithRetry(articlePrompt);
 
     articleText = articleText.replace(/!\[.*?\]\((?!http).*?\)/g, '');
-
-    if (interlinks.length > 0) {
-        let interlinkingBlock = '\n\n---\n\n## Читайте также\n\n';
-        interlinks.forEach(link => {
-            interlinkingBlock += `*   [${link.title}](${link.url})\n`;
-        });
-        articleText += interlinkingBlock;
-    }
 
     const paragraphs = articleText.split('\n\n');
     if (paragraphs.length > 2) {
@@ -122,7 +87,7 @@ async function generatePost(topic, slug, interlinks) {
         articleText = paragraphs.join('\n\n');
     }
     
-    const seoPrompt = `Для статьи на тему "${topic}" сгенерируй JSON-объект. ВАЖНО: твой ответ должен быть ТОЛЬКО валидным JSON-объектом. JSON должен содержать: "title", "description". Контекст: это блог компании ButlerSPB.`;
+    const seoPrompt = `Для статьи на тему "${topic}" сгенерируй JSON-объект. ВАЖНО: только валидный JSON. JSON должен содержать: "title", "description", "heroImage" (URL с Unsplash или Pexels), "publisherName" (название издателя, например "Блог ButlerSPB").`;
     let seoText = await generateWithRetry(seoPrompt);
 
     const match = seoText.match(/\{[\s\S]*\}/);
@@ -131,7 +96,7 @@ async function generatePost(topic, slug, interlinks) {
 
     const reviewCount = Math.floor(Math.random() * (900 - 300 + 1)) + 300;
     const ratingValue = (Math.random() * (5.0 - 4.7) + 4.7).toFixed(1);
-
+    
     const isImageOk = await isUrlAccessible(seoData.heroImage);
     const finalHeroImage = isImageOk ? seoData.heroImage : FALLBACK_IMAGE_URL;
 
@@ -142,15 +107,12 @@ async function generatePost(topic, slug, interlinks) {
       "description": seoData.description,
       "image": { "@type": "ImageObject", "url": finalHeroImage },
       "aggregateRating": {
-        "@type": "AggregateRating",
-        "ratingValue": ratingValue,
-        "reviewCount": reviewCount,
-        "bestRating": "5",
-        "worstRating": "1"
+        "@type": "AggregateRating", "ratingValue": ratingValue, "reviewCount": reviewCount,
+        "bestRating": "5", "worstRating": "1",
+        "itemReviewed": { "@type": "Thing", "name": seoData.title }
       },
       "publisher": {
-        "@type": "Organization",
-        "name": BRAND_BLOG_NAME,
+        "@type": "Organization", "name": seoData.publisherName,
         "logo": { "@type": "ImageObject", "url": `${SITE_URL}/favicon.ico` }
       },
       "mainEntityOfPage": { "@type": "WebPage", "@id": `${SITE_URL}/blog/${slug}/` }
@@ -169,74 +131,27 @@ schema: ${JSON.stringify(fullSchema)}
 }
 
 async function main() {
-    const threadId = parseInt(process.env.THREAD_ID, 10) || 1;
-    console.log(`[Поток #${threadId}] Запуск рабочего потока...`);
-
+    const topic = process.env.TOPIC;
+    if (!topic) {
+        console.log("Не получена тема для генерации. Завершение.");
+        return;
+    }
+    
+    console.log(`[+] Начинаю генерацию статьи на тему: ${topic}`);
     try {
-        const BATCH_SIZE = parseInt(process.env.BATCH_SIZE, 10) || 1;
+        const slug = slugify(topic);
+        if (!slug) {
+            throw new Error(`Не удалось создать slug из темы: "${topic}"`);
+        }
         
-        const fileContent = await fs.readFile(TOPICS_FILE, 'utf-8');
-        const allTopics = fileContent.split(/\r?\n/).map(topic => topic.trim()).filter(Boolean);
-
+        const fullContent = await generatePost(topic, slug);
         const postsDir = path.join(process.cwd(), 'src', 'content', 'posts');
         await fs.mkdir(postsDir, { recursive: true });
         
-        const existingFiles = await fs.readdir(postsDir);
-        const existingSlugs = existingFiles.map(file => file.replace('.md', ''));
-        
-        let newTopics = allTopics.filter(topic => {
-            const topicSlug = slugify(topic);
-            return topicSlug && !existingSlugs.includes(topicSlug);
-        });
-
-        const totalThreads = parseInt(process.env.TOTAL_THREADS, 10) || 1;
-        const topicsForThisThread = newTopics.filter((_, index) => index % totalThreads === (threadId - 1));
-
-        if (topicsForThisThread.length === 0) {
-            console.log(`[Поток #${threadId}] Нет новых тем для этого потока. Завершение.`);
-            return;
-        }
-        
-        console.log(`[Поток #${threadId}] Найдено ${topicsForThisThread.length} новых тем. Беру в работу первые ${BATCH_SIZE}.`);
-
-        let allPostsForLinking = [];
-        for (const slug of existingSlugs) {
-            const content = await fs.readFile(path.join(postsDir, `${slug}.md`), 'utf-8');
-            const titleMatch = content.match(/title:\s*["']?(.*?)["']?$/m);
-            if (titleMatch) {
-                allPostsForLinking.push({ title: titleMatch[1], url: `/blog/${slug}/` });
-            }
-        }
-        
-        for (const topic of topicsForThisThread.slice(0, BATCH_SIZE)) { 
-            try {
-                const slug = slugify(topic);
-                if (!slug) continue;
-                
-                let randomInterlinks = [];
-                if (allPostsForLinking.length > 0) {
-                    randomInterlinks = [...allPostsForLinking].sort(() => 0.5 - Math.random()).slice(0, 3);
-                }
-                
-                const fullContent = await generatePost(topic, slug, randomInterlinks);
-                await fs.writeFile(path.join(postsDir, `${slug}.md`), fullContent);
-                console.log(`[Поток #${threadId}] [✔] Статья "${topic}" успешно создана.`);
-                
-                const newUrl = `${SITE_URL}/blog/${slug}/`;
-                await notifyIndexNow(newUrl);
-
-                await new Promise(resolve => setTimeout(resolve, 1000));
-            } catch (e) {
-                if (e.message.includes('429')) {
-                    console.error(`[Поток #${threadId}] [!] Квота для текущего ключа исчерпана. Поток завершает работу.`);
-                    process.exit(0);
-                }
-                console.error(`[Поток #${threadId}] [!] Ошибка при генерации статьи "${topic}": ${e.message}`);
-                continue;
-            }
-        }
-    } catch (error) {
-        console.error(`[Поток #${threadId}] [!] Критическая ошибка:`, error);
+        await fs.writeFile(path.join(postsDir, `${slug}.md`), fullContent);
+        console.log(`[✔] Статья "${topic}" успешно создана как ${slug}.md`);
+    } catch (e) {
+        console.error(`[!] Ошибка при генерации статьи "${topic}": ${e.message}`);
         process.exit(1);
     }
 }
