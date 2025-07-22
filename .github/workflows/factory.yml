@@ -1,4 +1,4 @@
-name: 🚀 Content Factory (Ironclad Order)
+name: 🚀 Content Factory (Atomic Lock)
 
 on:
   workflow_dispatch:
@@ -78,6 +78,7 @@ jobs:
         run: |
           git config --global user.name 'GitHub Actions Bot'
           git config --global user.email 'actions-bot@github.com'
+          git config --global pull.rebase true
           
           echo "--- ЭСКАДРОН #${{ matrix.thread }}: Начинаю генерацию ---"
           
@@ -88,13 +89,30 @@ jobs:
             exit 0
           fi
 
-          echo "🔥 ЭСКАДРОН #${{ matrix.thread }}: Обнаружены новые файлы. Публикую пачку..."
+          echo "🔥 ЭСКАДРОН #${{ matrix.thread }}: Обнаружены новые файлы. Начинаю процедуру публикации..."
           
-          # --- ПРАВИЛЬНЫЙ ПОРЯДОК ---
-          git add .
-          git commit -m "🚀 Авто-публикация: пачка от Эскадрона №${{ matrix.thread }}"
-          git pull --rebase
-          git push
+          MAX_RETRIES=5
+          RETRY_DELAY=5
+          for ((i=1; i<=MAX_RETRIES; i++)); do
+            git pull
+            git add src/content/posts/*.md
+            # Используем --allow-empty чтобы коммит создавался, даже если файлы идентичны после pull
+            git commit --allow-empty -m "🚀 Авто-публикация: пачка от Эскадрона №${{ matrix.thread }}"
+            
+            if git push; then
+              echo "✅ Публикация прошла успешно с попытки №$i."
+              break
+            else
+              if [ "$i" -eq "$MAX_RETRIES" ]; then
+                echo "::error::Не удалось опубликовать изменения после $MAX_RETRIES попыток."
+                exit 1
+              fi
+              echo "[!] Конфликт! Попытка №$i не удалась. Жду ${RETRY_DELAY}с и пробую снова..."
+              # Перед следующей попыткой отменяем неудачный коммит
+              git reset --hard HEAD~1
+              sleep $RETRY_DELAY
+            fi
+          done
           
           commit_after=$(git rev-parse HEAD)
           commit_before=$(git rev-parse HEAD~1)
