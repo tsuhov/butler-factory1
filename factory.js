@@ -1,4 +1,4 @@
-// Файл: factory.js (Версия «Гибридный Двигатель»)
+// Файл: factory.js (Версия «Гибридный Двигатель 3.0 - Отказоустойчивый»)
 import { GoogleGenerativeAI } from '@google/generative-ai';
 import fs from 'fs/promises';
 import path from 'path';
@@ -18,27 +18,25 @@ const FALLBACK_IMAGE_URL = "https://images.unsplash.com/photo-1560448204-e02f11c
 
 // --- НАСТРОЙКИ МОДЕЛЕЙ ---
 const OPENROUTER_API_URL = "https://openrouter.ai/api/v1/chat/completions";
-const DEEPSEEK_MODEL_NAME = "deepseek/deepseek-r1-0528:free"; // Модель по умолчанию для OpenRouter
-const GEMINI_MODEL_NAME = "gemini-2.5-pro"; // Убедитесь, что эта модель доступна для вашего ключа
+const DEEPSEEK_MODEL_NAME = "deepseek/deepseek-r1-0528:free";
+const GEMINI_MODEL_NAME = "gemini-2.5-pro";
 
-// Читаем переменные окружения
-const modelChoice = process.env.MODEL_CHOICE || 'gemini'; // По умолчанию Gemini
-const geminiApiKey = process.env.GEMINI_API_KEY_CURRENT;
-const openRouterApiKey = process.env.OPENROUTER_API_KEY_CURRENT;
+// --- ГЛОБАЛЬНЫЙ ПУЛ КЛЮЧЕЙ И ВЫБОР МОДЕЛИ ---
+const modelChoice = process.env.MODEL_CHOICE || 'gemini';
+let availableApiKeys = []; // Этот массив будет хранить рабочие ключи
 
-// Инициализация API в зависимости от выбора
-let genAI;
-if (modelChoice === 'gemini') {
-    if (!geminiApiKey) {
-        throw new Error("Не был предоставлен API-ключ Gemini для этого потока (GEMINI_API_KEY_CURRENT)!");
-    }
-    genAI = new GoogleGenerativeAI(geminiApiKey);
-    console.log("✨ Использую модель Gemini...");
-} else if (modelChoice === 'deepseek') {
-    if (!openRouterApiKey) {
-        throw new Error("Не был предоставлен API-ключ OpenRouter для этого потока (OPENROUTER_API_KEY_CURRENT)!");
-    }
-    console.log("🚀 Использую модель DeepSeek через OpenRouter...");
+if (modelChoice === 'deepseek') {
+    const keysPool = process.env.OPENROUTER_API_KEYS_POOL || '';
+    availableApiKeys = keysPool.split(/\r?\n/).filter(Boolean);
+    console.log(`🚀 Использую модель DeepSeek через OpenRouter. Загружено ключей: ${availableApiKeys.length}`);
+} else {
+    const keysPool = process.env.GEMINI_API_KEYS_POOL || '';
+    availableApiKeys = keysPool.split(/\r?\n/).filter(Boolean);
+    console.log(`✨ Использую модель Gemini. Загружено ключей: ${availableApiKeys.length}`);
+}
+
+if (availableApiKeys.length === 0) {
+    throw new Error(`Не найдено ни одного API-ключа для модели "${modelChoice}"!`);
 }
 
 const ANCHORS = [
@@ -72,48 +70,67 @@ function slugify(text) {
 }
 
 async function generateWithRetry(prompt, maxRetries = 4) {
-    let delay = 5000;
-    for (let i = 0; i < maxRetries; i++) {
-        try {
-            if (modelChoice === 'deepseek') {
-                const response = await fetch(OPENROUTER_API_URL, {
-                    method: 'POST',
-                    headers: {
-                        'Content-Type': 'application/json',
-                        'Authorization': `Bearer ${openRouterApiKey}`,
-                        'HTTP-Referer': TARGET_URL_MAIN,
-                        'X-Title': BRAND_BLOG_NAME
-                    },
-                    body: JSON.stringify({
-                        model: DEEPSEEK_MODEL_NAME,
-                        messages: [{ role: "user", content: prompt }]
-                    })
-                });
+    let currentKeyIndex = 0;
 
-                if (!response.ok) {
-                    if (response.status === 429) throw new Error(`429 Too Many Requests`);
-                    throw new Error(`Ошибка HTTP от OpenRouter: ${response.status}`);
+    while (currentKeyIndex < availableApiKeys.length) {
+        const apiKey = availableApiKeys[currentKeyIndex];
+        let delay = 5000;
+
+        for (let i = 0; i < maxRetries; i++) {
+            try {
+                if (modelChoice === 'deepseek') {
+                    const response = await fetch(OPENROUTER_API_URL, {
+                        method: 'POST',
+                        headers: {
+                            'Content-Type': 'application/json',
+                            'Authorization': `Bearer ${apiKey}`,
+                            'HTTP-Referer': TARGET_URL_MAIN,
+                            'X-Title': slugify(BRAND_BLOG_NAME)
+                        },
+                        body: JSON.stringify({
+                            model: DEEPSEEK_MODEL_NAME,
+                            messages: [{ role: "user", content: prompt }]
+                        })
+                    });
+                    if (response.status === 401 || response.status === 403) { // Ошибка аутентификации
+                        throw new Error('PERMANENT_ERROR_BAD_KEY');
+                    }
+                    if (!response.ok) {
+                         if (response.status === 429) throw new Error(`429 Too Many Requests`);
+                         throw new Error(`Ошибка HTTP от OpenRouter: ${response.status}`);
+                    }
+                    const data = await response.json();
+                    if (!data.choices || data.choices.length === 0) throw new Error("Ответ от API OpenRouter не содержит поля 'choices'.");
+                    return data.choices[0].message.content;
+                } else { // Логика для Gemini
+                    const genAI = new GoogleGenerativeAI(apiKey);
+                    const model = genAI.getGenerativeModel({ model: GEMINI_MODEL_NAME });
+                    const result = await model.generateContent(prompt);
+                    return result.response.text();
                 }
-                const data = await response.json();
-                if (!data.choices || data.choices.length === 0) throw new Error("Ответ от API OpenRouter не содержит поля 'choices'.");
-                return data.choices[0].message.content;
+            } catch (error) {
+                if (error.message.includes('UNAUTHENTICATED') || error.message.includes('PERMANENT_ERROR_BAD_KEY')) {
+                    console.error(`[!] Ключ API "...${apiKey.slice(-4)}" недействителен или заблокирован. Удаляю из пула.`);
+                    availableApiKeys.splice(currentKeyIndex, 1);
+                    // Не увеличиваем currentKeyIndex, чтобы следующая итерация while проверила новый ключ на этом же месте
+                    i = maxRetries; // Прерываем внутренний цикл ретраев
+                    continue; // Переходим к следующей итерации while
+                }
 
-            } else { // Логика для Gemini
-                const model = genAI.getGenerativeModel({ model: GEMINI_MODEL_NAME });
-                const result = await model.generateContent(prompt);
-                return result.response.text();
-            }
-        } catch (error) {
-            if (error.message.includes('503') || error.message.includes('429')) {
-                console.warn(`[!] Модель перегружена или квота исчерпана. Попытка ${i + 1} из ${maxRetries}. Жду ${delay / 1000}с...`);
-                await new Promise(resolve => setTimeout(resolve, delay));
-                delay *= 2;
-            } else {
-                throw error;
+                if (error.message.includes('503') || error.message.includes('429')) {
+                    console.warn(`[!] Модель перегружена или квота исчерпана (ключ ...${apiKey.slice(-4)}). Попытка ${i + 1} из ${maxRetries}. Жду ${delay / 1000}с...`);
+                    await new Promise(resolve => setTimeout(resolve, delay));
+                    delay *= 2;
+                } else {
+                    throw error; // Другая, неизвестная ошибка
+                }
             }
         }
+        // Если внутренний цикл ретраев закончился, а ключ не был удален, значит, он рабочий, но временно недоступен
+        // Просто переходим к следующему ключу в пуле
+        currentKeyIndex++;
     }
-    throw new Error(`Не удалось получить ответ от модели ${modelChoice} после ${maxRetries} попыток.`);
+    throw new Error(`Не удалось получить ответ от модели ${modelChoice}. Все доступные API-ключи исчерпаны или временно недоступны.`);
 }
 
 async function notifyIndexNow(url) {
@@ -270,10 +287,7 @@ async function main() {
 
                 await new Promise(resolve => setTimeout(resolve, 1000));
             } catch (e) {
-                if (e.message.includes('429')) {
-                    console.error(`[Поток #${threadId}] [!] Квота для текущего ключа исчерпана. Поток завершает работу.`);
-                    process.exit(0);
-                }
+                // Теперь эта ошибка не должна останавливать поток, если есть другие ключи
                 console.error(`[Поток #${threadId}] [!] Ошибка при генерации статьи "${topic}": ${e.message}`);
                 continue;
             }
