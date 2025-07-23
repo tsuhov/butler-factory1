@@ -19,8 +19,6 @@ on:
         description: 'Сколько потоков запустить ОДНОВРЕМЕННО (1-20)?'
         required: true
         default: '5'
-  schedule:
-    - cron: '*/30 * * * *'
 
 jobs:
   prepare:
@@ -91,8 +89,8 @@ jobs:
       - name: 🏭 Run Factory & 📢 Publish & Notify (Thread ${{ matrix.thread }})
         env:
           MODEL_CHOICE: ${{ github.event.inputs.model_choice || 'gemini' }}
-          GEMINI_API_KEY_CURRENT: ${{ steps.gemini_key.outputs.key }}
-          OPENROUTER_API_KEY_CURRENT: ${{ steps.openrouter_key.outputs.key }}
+          GEMINI_API_KEYS_POOL: ${{ secrets.GEMINI_API_KEYS_POOL }}
+          OPENROUTER_API_KEYS_POOL: ${{ secrets.OPENROUTER_API_KEYS_POOL }}
           BATCH_SIZE: ${{ github.event.inputs.batch_size_per_thread || 10 }}
           TOTAL_THREADS: ${{ github.event.inputs.threads || 5 }}
           THREAD_ID: ${{ matrix.thread }}
