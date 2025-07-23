@@ -1,4 +1,4 @@
-// Файл: factory.js (Версия «Прямое Наведение 2.2 - Исправленная»)
+// Файл: factory.js (Версия 5.0 «Контекстное Целеуказание»)
 import { GoogleGenerativeAI } from '@google/generative-ai';
 import fs from 'fs/promises';
 import path from 'path';
@@ -7,7 +7,6 @@ import { execa } from 'execa';
 
 // --- НАСТРОЙКИ ОПЕРАЦИИ ---
 const TARGET_URL_MAIN = "https://butlerspb.ru";
-const TARGET_URL_RENT = "https://butlerspb.ru/rent";
 const TOPICS_FILE = 'topics.txt';
 const POSTS_DIR = 'src/content/posts';
 const SITE_URL = "https://butlerspb-blog.netlify.app";
@@ -18,7 +17,7 @@ const FALLBACK_IMAGE_URL = "https://images.unsplash.com/photo-1560448204-e02f11c
 
 // --- НАСТРОЙКИ МОДЕЛЕЙ ---
 const OPENROUTER_API_URL = "https://openrouter.ai/api/v1/chat/completions";
-const DEEPSEEK_MODEL_NAME = "deepseek/deepseek-chat-v3-0324:free";
+const DEEPSEEK_MODEL_NAME = "deepseek/deepseek-r1-0528:free";
 const GEMINI_MODEL_NAME = "gemini-2.5-pro";
 
 // --- ИНИЦИАЛИЗАЦИЯ ПОТОКА ---
@@ -36,13 +35,38 @@ if (modelChoice === 'deepseek') {
     console.log(`✨ [Поток #${threadId}] Использую модель Gemini с ключом ...${apiKey.slice(-4)}`);
 }
 
-const ANCHORS = [
-    `узнайте больше об управлении на <a href="${TARGET_URL_RENT}" target="_blank" rel="nofollow">сайте ${BRAND_NAME}</a>`,
-    `профессиональные услуги по управлению можно найти <a href="${TARGET_URL_RENT}" target="_blank" rel="nofollow">здесь</a>`,
-    `как советуют эксперты из <a href="${TARGET_URL_MAIN}" target="_blank" rel="nofollow">${BRAND_NAME}</a>`,
-    `подробности на <a href="${TARGET_URL_RENT}" target="_blank" rel="nofollow">этой странице</a>`,
-    `доверительное управление квартирой - <a href="${TARGET_URL_RENT}" target="_blank" rel="nofollow">отличное решение</a>`
-];
+// --- БАЗА ЗНАНИЙ О ЦЕЛЕВОМ САЙТЕ ---
+const REAL_LINKS_MAP = {
+    'general': [
+        { url: "https://butlerspb.ru", text: `главном сайте ${BRAND_NAME}` },
+        { url: "https://butlerspb.ru/o-nas", text: `компании ${BRAND_NAME}` },
+        { url: "https://butlerspb.ru/contacts", text: `странице контактов` },
+        { url: "https://butlerspb.ru/svyazatsya-s-konserzh-servisom", text: `консьерж-сервисе` },
+    ],
+    'услуги': { url: "https://butlerspb.ru/uslugi", text: "полном перечне услуг" },
+    'аренда': { url: "https://butlerspb.ru/rent", text: "услугах по управлению арендой" },
+    'тарифы': { url: "https://butlerspb.ru/tarify-lichnogo-assistenta", text: "тарифах личного ассистента" },
+    'цены': { url: "https://butlerspb.ru/ceny-na-konserzh-servis", text: "ценах на консьерж-сервис" },
+    'помощник': { url: "https://butlerspb.ru/uslugi-lichnogo-pomoshchnika", text: "услугах личного помощника" },
+    'путешеств': { url: "https://butlerspb.ru/puteshestvie-i-otdyh", text: "организации путешествий и отдыха" }, // 'путешеств' для охвата "путешествие", "путешествий"
+    'бизнес': { url: "https://butlerspb.ru/biznes-i-finansy", text: "решении бизнес-задач" },
+    'перелет': { url: "https://butlerspb.ru/biznes-perelet", text: "организации бизнес-перелетов" },
+    'приложение': { url: "https://butlerspb.ru/prilozhenie", text: `мобильном приложении ${BRAND_NAME}` },
+    'оплата': { url: "https://butlerspb.ru/forma-oplaty", text: `способах оплаты услуг` },
+    'новости': { url: "https://butlerspb.ru/news", text: `новостях компании` }
+};
+
+// Функция для получения контекстной ссылки
+function getContextualLink(topic) {
+    const lowerTopic = topic.toLowerCase();
+    for (const keyword in REAL_LINKS_MAP) {
+        if (keyword !== 'general' && lowerTopic.includes(keyword)) {
+            return REAL_LINKS_MAP[keyword];
+        }
+    }
+    // Если контекст не найден, возвращаем случайную общую ссылку
+    return REAL_LINKS_MAP.general[Math.floor(Math.random() * REAL_LINKS_MAP.general.length)];
+}
 
 async function isUrlAccessible(url) {
     if (typeof url !== 'string' || !url.startsWith('http')) return false;
@@ -132,7 +156,7 @@ async function generatePost(topic, slug, interlinks) {
     const planPrompt = `Создай детальный, экспертный план-структуру для SEO-статьи на тему "${topic}". Контекст: статья пишется для блога компании ButlerSPB.`;
     const plan = await generateWithRetry(planPrompt);
 
-    const articlePrompt = `Напиши экспертную, полезную SEO-статью по этому плану:\n\n${plan}\n\nТема: "${topic}". ВАЖНО: строго следуй плану и используй синтаксис Markdown для всех заголовков (# для H1, ## для H2, ### для H3). Текст должен быть написан от лица компании ButlerSPB. Не добавляй никакого сопроводительного текста перед первым заголовком.`;
+    const articlePrompt = `Напиши экспертную, полезную SEO-статью по этому плану:\n\n${plan}\n\nТема: "${topic}". ВАЖНО: строго следуй плану и используй синтаксис Markdown для всех заголовков (# для H1, ## для H2, ### для H3). Текст должен быть написан от лица компании ButlerSPB. ЗАПРЕЩЕНО: не выдумывай и не вставляй в текст никакие ссылки или URL-адреса.`;
     let articleText = await generateWithRetry(articlePrompt);
 
     articleText = articleText.replace(/!\[.*?\]\((?!http).*?\)/g, '');
@@ -147,13 +171,15 @@ async function generatePost(topic, slug, interlinks) {
 
     const paragraphs = articleText.split('\n\n');
     if (paragraphs.length > 2) {
+        const contextualLink = getContextualLink(topic);
+        const randomAnchorText = `узнайте больше о ${contextualLink.text} на <a href="${contextualLink.url}" target="_blank" rel="nofollow">официальном сайте ${BRAND_NAME}</a>`;
+        
         const randomIndex = Math.floor(Math.random() * (paragraphs.length - 2)) + 1;
-        const randomAnchor = ANCHORS[Math.floor(Math.random() * ANCHORS.length)];
-        paragraphs[randomIndex] += ` ${randomAnchor}`;
+        paragraphs[randomIndex] += ` ${randomAnchorText}`;
         articleText = paragraphs.join('\n\n');
     }
     
-    const seoPrompt = `Для статьи на тему "${topic}" сгенерируй JSON-объект. ВАЖНО: твой ответ должен быть ТОЛЬКО валидным JSON-объектом. JSON должен содержать: "title", "description". Контекст: это блог компании ButlerSPB.`;
+    const seoPrompt = `Для статьи на тему "${topic}" сгенерируй JSON-объект. ВАЖНО: твой ответ должен быть ТОЛЬКО валидным JSON-объектом. JSON должен содержать: "title" (длиной 60-70 символов), "description" (длиной 150-160 символов). Контекст: это блог компании ButlerSPB.`;
     let seoText = await generateWithRetry(seoPrompt);
 
     const match = seoText.match(/\{[\s\S]*\}/);
@@ -182,8 +208,12 @@ author: "${BRAND_AUTHOR_NAME}"
 heroImage: "${finalHeroImage}"
 schema: ${JSON.stringify(fullSchema)}
 ---
+
+# ${seoData.title}
+
+${articleText}
 `;
-    return frontmatter + '\n' + articleText;
+    return frontmatter;
 }
 
 async function main() {
@@ -191,7 +221,7 @@ async function main() {
 
     try {
         const BATCH_SIZE = parseInt(process.env.BATCH_SIZE, 10) || 1;
-        const totalThreads = parseInt(process.env.TOTAL_THREADS, 10) || 1; // <-- ИСПРАВЛЕНИЕ ЗДЕСЬ
+        const totalThreads = parseInt(process.env.TOTAL_THREADS, 10) || 1;
         
         const fileContent = await fs.readFile(TOPICS_FILE, 'utf-8');
         const allTopics = fileContent.split(/\r?\n/).map(topic => topic.trim()).filter(Boolean);
