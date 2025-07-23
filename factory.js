@@ -1,4 +1,4 @@
-// Файл: factory.js (Версия «Прямое Наведение 2.0»)
+// Файл: factory.js (Версия «Прямое Наведение 2.1»)
 import { GoogleGenerativeAI } from '@google/generative-ai';
 import fs from 'fs/promises';
 import path from 'path';
@@ -31,9 +31,9 @@ if (!apiKey) {
 }
 
 if (modelChoice === 'deepseek') {
-    console.log(`🚀 [Поток #${threadId}] Использую модель DeepSeek через OpenRouter.`);
+    console.log(`🚀 [Поток #${threadId}] Использую модель DeepSeek через OpenRouter с ключом ...${apiKey.slice(-4)}`);
 } else {
-    console.log(`✨ [Поток #${threadId}] Использую модель Gemini.`);
+    console.log(`✨ [Поток #${threadId}] Использую модель Gemini с ключом ...${apiKey.slice(-4)}`);
 }
 
 const ANCHORS = [
@@ -103,8 +103,6 @@ async function generateWithRetry(prompt, maxRetries = 4) {
                 await new Promise(resolve => setTimeout(resolve, delay));
                 delay *= 2;
             } else {
-                // Если ключ невалиден, просто выбрасываем ошибку, и поток завершится сбоем.
-                // GitHub Actions покажет, какой именно поток и с каким ключом упал.
                 throw error;
             }
         }
@@ -208,7 +206,6 @@ async function main() {
             return topicSlug && !existingSlugs.includes(topicSlug);
         });
 
-        const totalThreads = parseInt(process.env.TOTAL_THREADS, 10) || 1;
         const topicsForThisThread = newTopics.filter((_, index) => index % totalThreads === (threadId - 1));
 
         if (topicsForThisThread.length === 0) {
@@ -247,9 +244,8 @@ async function main() {
                 await new Promise(resolve => setTimeout(resolve, 1000));
             } catch (e) {
                 console.error(`[!] [Поток #${threadId}] Ошибка при генерации статьи "${topic}": ${e.message}`);
-                // Если ключ исчерпан или невалиден, поток просто завершит работу по этой пачке тем
                 if (e.message.includes('429') || e.message.includes('API key')) {
-                    console.error(`[!] [Поток #${threadId}] Ключ API исчерпан или невалиден. Завершаю работу.`);
+                    console.error(`[!] [Поток #${threadId}] Ключ API исчерпан или невалиден. Завершаю работу этого потока.`);
                     break; 
                 }
                 continue;
