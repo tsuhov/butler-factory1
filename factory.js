@@ -1,4 +1,4 @@
-// Файл: factory.js (Версия «Гибридный Двигатель 3.0 - Отказоустойчивый»)
+// Файл: factory.js (Версия «Прямое Наведение 2.0»)
 import { GoogleGenerativeAI } from '@google/generative-ai';
 import fs from 'fs/promises';
 import path from 'path';
@@ -21,22 +21,19 @@ const OPENROUTER_API_URL = "https://openrouter.ai/api/v1/chat/completions";
 const DEEPSEEK_MODEL_NAME = "deepseek/deepseek-r1-0528:free";
 const GEMINI_MODEL_NAME = "gemini-2.5-pro";
 
-// --- ГЛОБАЛЬНЫЙ ПУЛ КЛЮЧЕЙ И ВЫБОР МОДЕЛИ ---
+// --- ИНИЦИАЛИЗАЦИЯ ПОТОКА ---
 const modelChoice = process.env.MODEL_CHOICE || 'gemini';
-let availableApiKeys = []; // Этот массив будет хранить рабочие ключи
+const threadId = parseInt(process.env.THREAD_ID, 10) || 1;
+const apiKey = process.env.API_KEY_CURRENT;
 
-if (modelChoice === 'deepseek') {
-    const keysPool = process.env.OPENROUTER_API_KEYS_POOL || '';
-    availableApiKeys = keysPool.split(/\r?\n/).filter(Boolean);
-    console.log(`🚀 Использую модель DeepSeek через OpenRouter. Загружено ключей: ${availableApiKeys.length}`);
-} else {
-    const keysPool = process.env.GEMINI_API_KEYS_POOL || '';
-    availableApiKeys = keysPool.split(/\r?\n/).filter(Boolean);
-    console.log(`✨ Использую модель Gemini. Загружено ключей: ${availableApiKeys.length}`);
+if (!apiKey) {
+    throw new Error(`[Поток #${threadId}] Не был предоставлен API-ключ!`);
 }
 
-if (availableApiKeys.length === 0) {
-    throw new Error(`Не найдено ни одного API-ключа для модели "${modelChoice}"!`);
+if (modelChoice === 'deepseek') {
+    console.log(`🚀 [Поток #${threadId}] Использую модель DeepSeek через OpenRouter.`);
+} else {
+    console.log(`✨ [Поток #${threadId}] Использую модель Gemini.`);
 }
 
 const ANCHORS = [
@@ -70,93 +67,69 @@ function slugify(text) {
 }
 
 async function generateWithRetry(prompt, maxRetries = 4) {
-    let currentKeyIndex = 0;
-
-    while (currentKeyIndex < availableApiKeys.length) {
-        const apiKey = availableApiKeys[currentKeyIndex];
-        let delay = 5000;
-
-        for (let i = 0; i < maxRetries; i++) {
-            try {
-                if (modelChoice === 'deepseek') {
-                    const response = await fetch(OPENROUTER_API_URL, {
-                        method: 'POST',
-                        headers: {
-                            'Content-Type': 'application/json',
-                            'Authorization': `Bearer ${apiKey}`,
-                            'HTTP-Referer': TARGET_URL_MAIN,
-                            'X-Title': slugify(BRAND_BLOG_NAME)
-                        },
-                        body: JSON.stringify({
-                            model: DEEPSEEK_MODEL_NAME,
-                            messages: [{ role: "user", content: prompt }]
-                        })
-                    });
-                    if (response.status === 401 || response.status === 403) { // Ошибка аутентификации
-                        throw new Error('PERMANENT_ERROR_BAD_KEY');
-                    }
-                    if (!response.ok) {
-                         if (response.status === 429) throw new Error(`429 Too Many Requests`);
-                         throw new Error(`Ошибка HTTP от OpenRouter: ${response.status}`);
-                    }
-                    const data = await response.json();
-                    if (!data.choices || data.choices.length === 0) throw new Error("Ответ от API OpenRouter не содержит поля 'choices'.");
-                    return data.choices[0].message.content;
-                } else { // Логика для Gemini
-                    const genAI = new GoogleGenerativeAI(apiKey);
-                    const model = genAI.getGenerativeModel({ model: GEMINI_MODEL_NAME });
-                    const result = await model.generateContent(prompt);
-                    return result.response.text();
+    let delay = 5000;
+    for (let i = 0; i < maxRetries; i++) {
+        try {
+            if (modelChoice === 'deepseek') {
+                const response = await fetch(OPENROUTER_API_URL, {
+                    method: 'POST',
+                    headers: {
+                        'Content-Type': 'application/json',
+                        'Authorization': `Bearer ${apiKey}`,
+                        'HTTP-Referer': TARGET_URL_MAIN,
+                        'X-Title': slugify(BRAND_BLOG_NAME)
+                    },
+                    body: JSON.stringify({
+                        model: DEEPSEEK_MODEL_NAME,
+                        messages: [{ role: "user", content: prompt }]
+                    })
+                });
+                if (!response.ok) {
+                    if (response.status === 429) throw new Error(`429 Too Many Requests`);
+                    throw new Error(`Ошибка HTTP от OpenRouter: ${response.status}`);
                 }
-            } catch (error) {
-                if (error.message.includes('UNAUTHENTICATED') || error.message.includes('PERMANENT_ERROR_BAD_KEY')) {
-                    console.error(`[!] Ключ API "...${apiKey.slice(-4)}" недействителен или заблокирован. Удаляю из пула.`);
-                    availableApiKeys.splice(currentKeyIndex, 1);
-                    // Не увеличиваем currentKeyIndex, чтобы следующая итерация while проверила новый ключ на этом же месте
-                    i = maxRetries; // Прерываем внутренний цикл ретраев
-                    continue; // Переходим к следующей итерации while
-                }
-
-                if (error.message.includes('503') || error.message.includes('429')) {
-                    console.warn(`[!] Модель перегружена или квота исчерпана (ключ ...${apiKey.slice(-4)}). Попытка ${i + 1} из ${maxRetries}. Жду ${delay / 1000}с...`);
-                    await new Promise(resolve => setTimeout(resolve, delay));
-                    delay *= 2;
-                } else {
-                    throw error; // Другая, неизвестная ошибка
-                }
+                const data = await response.json();
+                if (!data.choices || data.choices.length === 0) throw new Error("Ответ от API OpenRouter не содержит поля 'choices'.");
+                return data.choices[0].message.content;
+            } else { // Логика для Gemini
+                const genAI = new GoogleGenerativeAI(apiKey);
+                const model = genAI.getGenerativeModel({ model: GEMINI_MODEL_NAME });
+                const result = await model.generateContent(prompt);
+                return result.response.text();
+            }
+        } catch (error) {
+            if (error.message.includes('503') || error.message.includes('429')) {
+                console.warn(`[!] [Поток #${threadId}] Модель перегружена или квота исчерпана. Попытка ${i + 1}/${maxRetries}. Жду ${delay / 1000}с...`);
+                await new Promise(resolve => setTimeout(resolve, delay));
+                delay *= 2;
+            } else {
+                // Если ключ невалиден, просто выбрасываем ошибку, и поток завершится сбоем.
+                // GitHub Actions покажет, какой именно поток и с каким ключом упал.
+                throw error;
             }
         }
-        // Если внутренний цикл ретраев закончился, а ключ не был удален, значит, он рабочий, но временно недоступен
-        // Просто переходим к следующему ключу в пуле
-        currentKeyIndex++;
     }
-    throw new Error(`Не удалось получить ответ от модели ${modelChoice}. Все доступные API-ключи исчерпаны или временно недоступны.`);
+    throw new Error(`[Поток #${threadId}] Не удалось получить ответ от модели ${modelChoice} после ${maxRetries} попыток.`);
 }
 
 async function notifyIndexNow(url) {
-    console.log(`📢 Отправляю уведомление для ${url} в IndexNow...`);
+    console.log(`📢 [Поток #${threadId}] Отправляю уведомление для ${url} в IndexNow...`);
     const API_KEY = "d1b055ab1eb146d892169bbb2c96550e";
     const HOST = "butlerspb-blog.netlify.app";
     
-    const payload = JSON.stringify({
-        host: HOST,
-        key: API_KEY,
-        urlList: [url]
-    });
+    const payload = JSON.stringify({ host: HOST, key: API_KEY, urlList: [url] });
 
     try {
-        console.log("--- Отправка в Яндекс ---");
         await execa('curl', ['-X', 'POST', 'https://yandex.com/indexnow', '-H', 'Content-Type: application/json; charset=utf-8', '-d', payload]);
-        console.log("--- Отправка в Bing ---");
         await execa('curl', ['-X', 'POST', 'https://www.bing.com/indexnow', '-H', 'Content-Type: application/json; charset=utf-8', '-d', payload]);
-        console.log(`[✔] Уведомление для ${url} успешно отправлено.`);
+        console.log(`[✔] [Поток #${threadId}] Уведомление для ${url} успешно отправлено.`);
     } catch (error) {
-        console.error(`[!] Ошибка при отправке в IndexNow для ${url}:`, error.stderr);
+        console.error(`[!] [Поток #${threadId}] Ошибка при отправке в IndexNow для ${url}:`, error.stderr);
     }
 }
 
 async function generatePost(topic, slug, interlinks) {
-    console.log(`[+] Генерирую статью на тему: ${topic}`);
+    console.log(`[+] [Поток #${threadId}] Генерирую статью на тему: ${topic}`);
     
     const planPrompt = `Создай детальный, экспертный план-структуру для SEO-статьи на тему "${topic}". Контекст: статья пишется для блога компании ButlerSPB.`;
     const plan = await generateWithRetry(planPrompt);
@@ -196,23 +169,10 @@ async function generatePost(topic, slug, interlinks) {
     const finalHeroImage = isImageOk ? seoData.heroImage : FALLBACK_IMAGE_URL;
 
     const fullSchema = {
-      "@context": "https://schema.org",
-      "@type": "HowTo",
-      "name": seoData.title,
-      "description": seoData.description,
-      "image": { "@type": "ImageObject", "url": finalHeroImage },
-      "aggregateRating": {
-        "@type": "AggregateRating",
-        "ratingValue": ratingValue,
-        "reviewCount": reviewCount,
-        "bestRating": "5",
-        "worstRating": "1"
-      },
-      "publisher": {
-        "@type": "Organization",
-        "name": BRAND_BLOG_NAME,
-        "logo": { "@type": "ImageObject", "url": `${SITE_URL}/favicon.ico` }
-      },
+      "@context": "https://schema.org", "@type": "HowTo", "name": seoData.title,
+      "description": seoData.description, "image": { "@type": "ImageObject", "url": finalHeroImage },
+      "aggregateRating": { "@type": "AggregateRating", "ratingValue": ratingValue, "reviewCount": reviewCount, "bestRating": "5", "worstRating": "1" },
+      "publisher": { "@type": "Organization", "name": BRAND_BLOG_NAME, "logo": { "@type": "ImageObject", "url": `${SITE_URL}/favicon.ico` } },
       "mainEntityOfPage": { "@type": "WebPage", "@id": `${SITE_URL}/blog/${slug}/` }
     };
 
@@ -229,7 +189,6 @@ schema: ${JSON.stringify(fullSchema)}
 }
 
 async function main() {
-    const threadId = parseInt(process.env.THREAD_ID, 10) || 1;
     console.log(`[Поток #${threadId}] Запуск рабочего потока...`);
 
     try {
@@ -287,8 +246,12 @@ async function main() {
 
                 await new Promise(resolve => setTimeout(resolve, 1000));
             } catch (e) {
-                // Теперь эта ошибка не должна останавливать поток, если есть другие ключи
-                console.error(`[Поток #${threadId}] [!] Ошибка при генерации статьи "${topic}": ${e.message}`);
+                console.error(`[!] [Поток #${threadId}] Ошибка при генерации статьи "${topic}": ${e.message}`);
+                // Если ключ исчерпан или невалиден, поток просто завершит работу по этой пачке тем
+                if (e.message.includes('429') || e.message.includes('API key')) {
+                    console.error(`[!] [Поток #${threadId}] Ключ API исчерпан или невалиден. Завершаю работу.`);
+                    break; 
+                }
                 continue;
             }
         }
