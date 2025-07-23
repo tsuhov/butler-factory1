@@ -1,4 +1,4 @@
-// Файл: factory.js (Версия 5.0 «Контекстное Целеуказание»)
+// Файл: factory.js (Версия 5.1 «Точность и Контроль 2.0»)
 import { GoogleGenerativeAI } from '@google/generative-ai';
 import fs from 'fs/promises';
 import path from 'path';
@@ -8,7 +8,7 @@ import { execa } from 'execa';
 // --- НАСТРОЙКИ ОПЕРАЦИИ ---
 const TARGET_URL_MAIN = "https://butlerspb.ru";
 const TOPICS_FILE = 'topics.txt';
-const POSTS_DIR = 'src/content/posts';
+const POSTS_DIR = 'src/content/posts'; 
 const SITE_URL = "https://butlerspb-blog.netlify.app";
 const BRAND_NAME = "ButlerSPB";
 const BRAND_BLOG_NAME = `Блог ${BRAND_NAME}`;
@@ -17,7 +17,7 @@ const FALLBACK_IMAGE_URL = "https://images.unsplash.com/photo-1560448204-e02f11c
 
 // --- НАСТРОЙКИ МОДЕЛЕЙ ---
 const OPENROUTER_API_URL = "https://openrouter.ai/api/v1/chat/completions";
-const DEEPSEEK_MODEL_NAME = "deepseek/deepseek-r1-0528:free";
+const DEEPSEEK_MODEL_NAME = "deepseek/deepseek-chat-v3-0324:free";
 const GEMINI_MODEL_NAME = "gemini-2.5-pro";
 
 // --- ИНИЦИАЛИЗАЦИЯ ПОТОКА ---
@@ -43,20 +43,19 @@ const REAL_LINKS_MAP = {
         { url: "https://butlerspb.ru/contacts", text: `странице контактов` },
         { url: "https://butlerspb.ru/svyazatsya-s-konserzh-servisom", text: `консьерж-сервисе` },
     ],
-    'услуги': { url: "https://butlerspb.ru/uslugi", text: "полном перечне услуг" },
-    'аренда': { url: "https://butlerspb.ru/rent", text: "услугах по управлению арендой" },
-    'тарифы': { url: "https://butlerspb.ru/tarify-lichnogo-assistenta", text: "тарифах личного ассистента" },
-    'цены': { url: "https://butlerspb.ru/ceny-na-konserzh-servis", text: "ценах на консьерж-сервис" },
+    'услуг': { url: "https://butlerspb.ru/uslugi", text: "полном перечне услуг" },
+    'аренд': { url: "https://butlerspb.ru/rent", text: "услугах по управлению арендой" },
+    'тариф': { url: "https://butlerspb.ru/tarify-lichnogo-assistenta", text: "тарифах личного ассистента" },
+    'цен': { url: "https://butlerspb.ru/ceny-na-konserzh-servis", text: "ценах на консьерж-сервис" },
     'помощник': { url: "https://butlerspb.ru/uslugi-lichnogo-pomoshchnika", text: "услугах личного помощника" },
-    'путешеств': { url: "https://butlerspb.ru/puteshestvie-i-otdyh", text: "организации путешествий и отдыха" }, // 'путешеств' для охвата "путешествие", "путешествий"
+    'путешеств': { url: "https://butlerspb.ru/puteshestvie-i-otdyh", text: "организации путешествий и отдыха" },
     'бизнес': { url: "https://butlerspb.ru/biznes-i-finansy", text: "решении бизнес-задач" },
     'перелет': { url: "https://butlerspb.ru/biznes-perelet", text: "организации бизнес-перелетов" },
     'приложение': { url: "https://butlerspb.ru/prilozhenie", text: `мобильном приложении ${BRAND_NAME}` },
-    'оплата': { url: "https://butlerspb.ru/forma-oplaty", text: `способах оплаты услуг` },
-    'новости': { url: "https://butlerspb.ru/news", text: `новостях компании` }
+    'оплат': { url: "https://butlerspb.ru/forma-oplaty", text: `способах оплаты услуг` },
+    'новост': { url: "https://butlerspb.ru/news", text: `новостях компании` }
 };
 
-// Функция для получения контекстной ссылки
 function getContextualLink(topic) {
     const lowerTopic = topic.toLowerCase();
     for (const keyword in REAL_LINKS_MAP) {
@@ -64,7 +63,6 @@ function getContextualLink(topic) {
             return REAL_LINKS_MAP[keyword];
         }
     }
-    // Если контекст не найден, возвращаем случайную общую ссылку
     return REAL_LINKS_MAP.general[Math.floor(Math.random() * REAL_LINKS_MAP.general.length)];
 }
 
@@ -156,7 +154,7 @@ async function generatePost(topic, slug, interlinks) {
     const planPrompt = `Создай детальный, экспертный план-структуру для SEO-статьи на тему "${topic}". Контекст: статья пишется для блога компании ButlerSPB.`;
     const plan = await generateWithRetry(planPrompt);
 
-    const articlePrompt = `Напиши экспертную, полезную SEO-статью по этому плану:\n\n${plan}\n\nТема: "${topic}". ВАЖНО: строго следуй плану и используй синтаксис Markdown для всех заголовков (# для H1, ## для H2, ### для H3). Текст должен быть написан от лица компании ButlerSPB. ЗАПРЕЩЕНО: не выдумывай и не вставляй в текст никакие ссылки или URL-адреса.`;
+    const articlePrompt = `Напиши экспертную, полезную SEO-статью по этому плану:\n\n${plan}\n\nТема: "${topic}". ВАЖНО: строго следуй плану и используй синтаксис Markdown для всех заголовков (# для H1, ## для H2, ### для H3). Текст должен быть написан от лица компании ButlerSPB. ЗАПРЕЩЕНО: не выдумывай и не вставляй в текст никакие ссылки или URL-адреса. Не пиши никакого сопроводительного текста перед первым заголовком, такого как "Конечно, вот статья". Сразу начинай с заголовка H1.`;
     let articleText = await generateWithRetry(articlePrompt);
 
     articleText = articleText.replace(/!\[.*?\]\((?!http).*?\)/g, '');
@@ -179,7 +177,7 @@ async function generatePost(topic, slug, interlinks) {
         articleText = paragraphs.join('\n\n');
     }
     
-    const seoPrompt = `Для статьи на тему "${topic}" сгенерируй JSON-объект. ВАЖНО: твой ответ должен быть ТОЛЬКО валидным JSON-объектом. JSON должен содержать: "title" (длиной 60-70 символов), "description" (длиной 150-160 символов). Контекст: это блог компании ButlerSPB.`;
+    const seoPrompt = `Для статьи на тему "${topic}" сгенерируй JSON-объект. ВАЖНО: твой ответ должен быть ТОЛЬКО валидным JSON-объектом. JSON должен содержать: "title" (длиной ровно 40-45 символов), "description" (длиной ровно 150-160 символов), "keywords" (строка с 5-7 релевантными ключевыми словами через запятую). Контекст: это блог компании ButlerSPB.`;
     let seoText = await generateWithRetry(seoPrompt);
 
     const match = seoText.match(/\{[\s\S]*\}/);
@@ -203,14 +201,12 @@ async function generatePost(topic, slug, interlinks) {
     const frontmatter = `---
 title: "${seoData.title.replace(/"/g, '\\"')}"
 description: "${seoData.description.replace(/"/g, '\\"')}"
+keywords: "${seoData.keywords ? seoData.keywords.replace(/"/g, '\\"') : topic}"
 pubDate: "${new Date().toISOString()}"
 author: "${BRAND_AUTHOR_NAME}"
 heroImage: "${finalHeroImage}"
 schema: ${JSON.stringify(fullSchema)}
 ---
-
-# ${seoData.title}
-
 ${articleText}
 `;
     return frontmatter;
@@ -288,4 +284,4 @@ async function main() {
     }
 }
 
-main();
+main();```
