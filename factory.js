@@ -1,4 +1,4 @@
-// Файл: factory.js (Версия «Атомарный Доклад»)
+// Файл: factory.js (Версия «Гибридный Двигатель»)
 import { GoogleGenerativeAI } from '@google/generative-ai';
 import fs from 'fs/promises';
 import path from 'path';
@@ -16,13 +16,30 @@ const BRAND_BLOG_NAME = `Блог ${BRAND_NAME}`;
 const BRAND_AUTHOR_NAME = `Эксперт ${BRAND_NAME}`;
 const FALLBACK_IMAGE_URL = "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop";
 
-const apiKey = process.env.GEMINI_API_KEY_CURRENT;
-if (!apiKey) {
-    throw new Error("Не был предоставлен API-ключ для этого потока (GEMINI_API_KEY_CURRENT)!");
-}
+// --- НАСТРОЙКИ МОДЕЛЕЙ ---
+const OPENROUTER_API_URL = "https://openrouter.ai/api/v1/chat/completions";
+const DEEPSEEK_MODEL_NAME = "deepseek/deepseek-r1-0528:free"; // Модель по умолчанию для OpenRouter
+const GEMINI_MODEL_NAME = "gemini-1.5-pro"; // Убедитесь, что эта модель доступна для вашего ключа
 
-const genAI = new GoogleGenerativeAI(apiKey);
-const model = genAI.getGenerativeModel({ model: "gemini-2.5-pro" });
+// Читаем переменные окружения
+const modelChoice = process.env.MODEL_CHOICE || 'gemini'; // По умолчанию Gemini
+const geminiApiKey = process.env.GEMINI_API_KEY_CURRENT;
+const openRouterApiKey = process.env.OPENROUTER_API_KEY_CURRENT;
+
+// Инициализация API в зависимости от выбора
+let genAI;
+if (modelChoice === 'gemini') {
+    if (!geminiApiKey) {
+        throw new Error("Не был предоставлен API-ключ Gemini для этого потока (GEMINI_API_KEY_CURRENT)!");
+    }
+    genAI = new GoogleGenerativeAI(geminiApiKey);
+    console.log("✨ Использую модель Gemini...");
+} else if (modelChoice === 'deepseek') {
+    if (!openRouterApiKey) {
+        throw new Error("Не был предоставлен API-ключ OpenRouter для этого потока (OPENROUTER_API_KEY_CURRENT)!");
+    }
+    console.log("🚀 Использую модель DeepSeek через OpenRouter...");
+}
 
 const ANCHORS = [
     `узнайте больше об управлении на <a href="${TARGET_URL_RENT}" target="_blank" rel="nofollow">сайте ${BRAND_NAME}</a>`,
@@ -58,8 +75,34 @@ async function generateWithRetry(prompt, maxRetries = 4) {
     let delay = 5000;
     for (let i = 0; i < maxRetries; i++) {
         try {
-            const result = await model.generateContent(prompt);
-            return result.response.text();
+            if (modelChoice === 'deepseek') {
+                const response = await fetch(OPENROUTER_API_URL, {
+                    method: 'POST',
+                    headers: {
+                        'Content-Type': 'application/json',
+                        'Authorization': `Bearer ${openRouterApiKey}`,
+                        'HTTP-Referer': TARGET_URL_MAIN,
+                        'X-Title': BRAND_BLOG_NAME
+                    },
+                    body: JSON.stringify({
+                        model: DEEPSEEK_MODEL_NAME,
+                        messages: [{ role: "user", content: prompt }]
+                    })
+                });
+
+                if (!response.ok) {
+                    if (response.status === 429) throw new Error(`429 Too Many Requests`);
+                    throw new Error(`Ошибка HTTP от OpenRouter: ${response.status}`);
+                }
+                const data = await response.json();
+                if (!data.choices || data.choices.length === 0) throw new Error("Ответ от API OpenRouter не содержит поля 'choices'.");
+                return data.choices[0].message.content;
+
+            } else { // Логика для Gemini
+                const model = genAI.getGenerativeModel({ model: GEMINI_MODEL_NAME });
+                const result = await model.generateContent(prompt);
+                return result.response.text();
+            }
         } catch (error) {
             if (error.message.includes('503') || error.message.includes('429')) {
                 console.warn(`[!] Модель перегружена или квота исчерпана. Попытка ${i + 1} из ${maxRetries}. Жду ${delay / 1000}с...`);
@@ -70,7 +113,7 @@ async function generateWithRetry(prompt, maxRetries = 4) {
             }
         }
     }
-    throw new Error(`Не удалось получить ответ от модели после ${maxRetries} попыток.`);
+    throw new Error(`Не удалось получить ответ от модели ${modelChoice} после ${maxRetries} попыток.`);
 }
 
 async function notifyIndexNow(url) {
