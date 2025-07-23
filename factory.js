@@ -1,4 +1,4 @@
-// Файл: factory.js (Версия «Прямое Наведение 2.1»)
+// Файл: factory.js (Версия «Прямое Наведение 2.2 - Исправленная»)
 import { GoogleGenerativeAI } from '@google/generative-ai';
 import fs from 'fs/promises';
 import path from 'path';
@@ -191,6 +191,7 @@ async function main() {
 
     try {
         const BATCH_SIZE = parseInt(process.env.BATCH_SIZE, 10) || 1;
+        const totalThreads = parseInt(process.env.TOTAL_THREADS, 10) || 1; // <-- ИСПРАВЛЕНИЕ ЗДЕСЬ
         
         const fileContent = await fs.readFile(TOPICS_FILE, 'utf-8');
         const allTopics = fileContent.split(/\r?\n/).map(topic => topic.trim()).filter(Boolean);
