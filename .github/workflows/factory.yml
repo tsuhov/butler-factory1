@@ -3,6 +3,14 @@ name: 🚀 Content Factory (Atomic Lock)
 on:
   workflow_dispatch:
     inputs:
+      model_choice:
+        description: 'Какую модель использовать для генерации?'
+        required: true
+        default: 'gemini'
+        type: choice
+        options:
+        - gemini
+        - deepseek
       batch_size_per_thread:
         description: 'Сколько статей генерировать КАЖДЫМ потоком?'
         required: true
@@ -11,6 +19,8 @@ on:
         description: 'Сколько потоков запустить ОДНОВРЕМЕННО (1-20)?'
         required: true
         default: '5'
+  schedule:
+    - cron: '*/30 * * * *'
 
 jobs:
   prepare:
@@ -22,7 +32,7 @@ jobs:
         id: set_matrix
         run: |
           MAX_THREADS=20
-          REQUESTED_THREADS=${{ github.event.inputs.threads }}
+          REQUESTED_THREADS=${{ github.event.inputs.threads || 5 }}
           
           if (( REQUESTED_THREADS > MAX_THREADS )); then
             echo "::warning::Запрошено больше потоков (${REQUESTED_THREADS}), чем доступно ключей (${MAX_THREADS}). Будет использовано ${MAX_THREADS}."
@@ -58,22 +68,33 @@ jobs:
       - name: 📦 Install dependencies (Thread ${{ matrix.thread }})
         run: npm install
 
-      - name: 🔑 Set API Key for Thread ${{ matrix.thread }}
-        id: set_key
+      - name: 🔑 Set Gemini API Key for Thread ${{ matrix.thread }}
+        id: gemini_key
         run: |
           API_KEYS="${{ secrets.GEMINI_API_KEYS_POOL }}"
           CURRENT_KEY=$(echo "$API_KEYS" | sed -n '${{ matrix.thread }}p' | tr -d '\r')
           if [[ -z "$CURRENT_KEY" ]]; then
-            echo "::error::Не удалось извлечь API-ключ для потока #${{ matrix.thread }}. Проверьте секрет GEMINI_API_KEYS_POOL."
-            exit 1
+            echo "::warning::Не удалось извлечь API-ключ Gemini для потока #${{ matrix.thread }}."
+          fi
+          echo "key=$CURRENT_KEY" >> $GITHUB_OUTPUT
+
+      - name: 🔑 Set OpenRouter API Key for Thread ${{ matrix.thread }}
+        id: openrouter_key
+        run: |
+          API_KEYS="${{ secrets.OPENROUTER_API_KEYS_POOL }}"
+          CURRENT_KEY=$(echo "$API_KEYS" | sed -n '${{ matrix.thread }}p' | tr -d '\r')
+          if [[ -z "$CURRENT_KEY" ]]; then
+            echo "::warning::Не удалось извлечь API-ключ OpenRouter для потока #${{ matrix.thread }}."
           fi
           echo "key=$CURRENT_KEY" >> $GITHUB_OUTPUT
 
       - name: 🏭 Run Factory & 📢 Publish & Notify (Thread ${{ matrix.thread }})
         env:
-          GEMINI_API_KEY_CURRENT: ${{ steps.set_key.outputs.key }}
-          BATCH_SIZE: ${{ github.event.inputs.batch_size_per_thread }}
-          TOTAL_THREADS: ${{ github.event.inputs.threads }}
+          MODEL_CHOICE: ${{ github.event.inputs.model_choice || 'gemini' }}
+          GEMINI_API_KEY_CURRENT: ${{ steps.gemini_key.outputs.key }}
+          OPENROUTER_API_KEY_CURRENT: ${{ steps.openrouter_key.outputs.key }}
+          BATCH_SIZE: ${{ github.event.inputs.batch_size_per_thread || 10 }}
+          TOTAL_THREADS: ${{ github.event.inputs.threads || 5 }}
           THREAD_ID: ${{ matrix.thread }}
         run: |
           git config --global user.name 'GitHub Actions Bot'
@@ -96,7 +117,6 @@ jobs:
           for ((i=1; i<=MAX_RETRIES; i++)); do
             git pull
             git add src/content/posts/*.md
-            # Используем --allow-empty чтобы коммит создавался, даже если файлы идентичны после pull
             git commit --allow-empty -m "🚀 Авто-публикация: пачка от Эскадрона №${{ matrix.thread }}"
             
             if git push; then
@@ -108,7 +128,6 @@ jobs:
                 exit 1
               fi
               echo "[!] Конфликт! Попытка №$i не удалась. Жду ${RETRY_DELAY}с и пробую снова..."
-              # Перед следующей попыткой отменяем неудачный коммит
               git reset --hard HEAD~1
               sleep $RETRY_DELAY
             fi
