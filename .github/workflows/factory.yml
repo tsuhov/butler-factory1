@@ -66,31 +66,27 @@ jobs:
       - name: 📦 Install dependencies (Thread ${{ matrix.thread }})
         run: npm install
 
-      - name: 🔑 Set Gemini API Key for Thread ${{ matrix.thread }}
-        id: gemini_key
+      - name: 🔑 Set API Key for Thread ${{ matrix.thread }}
+        id: set_key
         run: |
-          API_KEYS="${{ secrets.GEMINI_API_KEYS_POOL }}"
-          CURRENT_KEY=$(echo "$API_KEYS" | sed -n '${{ matrix.thread }}p' | tr -d '\r')
-          if [[ -z "$CURRENT_KEY" ]]; then
-            echo "::warning::Не удалось извлечь API-ключ Gemini для потока #${{ matrix.thread }}."
+          if [ "${{ github.event.inputs.model_choice || 'gemini' }}" == "deepseek" ]; then
+            API_KEYS="${{ secrets.OPENROUTER_API_KEYS_POOL }}"
+          else
+            API_KEYS="${{ secrets.GEMINI_API_KEYS_POOL }}"
           fi
-          echo "key=$CURRENT_KEY" >> $GITHUB_OUTPUT
-
-      - name: 🔑 Set OpenRouter API Key for Thread ${{ matrix.thread }}
-        id: openrouter_key
-        run: |
-          API_KEYS="${{ secrets.OPENROUTER_API_KEYS_POOL }}"
+          
           CURRENT_KEY=$(echo "$API_KEYS" | sed -n '${{ matrix.thread }}p' | tr -d '\r')
+
           if [[ -z "$CURRENT_KEY" ]]; then
-            echo "::warning::Не удалось извлечь API-ключ OpenRouter для потока #${{ matrix.thread }}."
+            echo "::error::Не удалось извлечь API-ключ для потока #${{ matrix.thread }}. Проверьте соответствующий секрет."
+            exit 1
           fi
           echo "key=$CURRENT_KEY" >> $GITHUB_OUTPUT
 
       - name: 🏭 Run Factory & 📢 Publish & Notify (Thread ${{ matrix.thread }})
         env:
           MODEL_CHOICE: ${{ github.event.inputs.model_choice || 'gemini' }}
-          GEMINI_API_KEYS_POOL: ${{ secrets.GEMINI_API_KEYS_POOL }}
-          OPENROUTER_API_KEYS_POOL: ${{ secrets.OPENROUTER_API_KEYS_POOL }}
+          API_KEY_CURRENT: ${{ steps.set_key.outputs.key }}
           BATCH_SIZE: ${{ github.event.inputs.batch_size_per_thread || 10 }}
           TOTAL_THREADS: ${{ github.event.inputs.threads || 5 }}
           THREAD_ID: ${{ matrix.thread }}
