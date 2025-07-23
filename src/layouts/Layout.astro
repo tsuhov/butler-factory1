@@ -1,21 +1,52 @@
 ---
+import { SITE_TITLE, SITE_DESCRIPTION } from '../consts';
+
 interface Props {
-	title: string;
-	description: string;
+	title?: string;
+	description?: string;
+    heroImage?: string;
+    schema?: object;
 }
-const { title, description } = Astro.props;
+
+const { title = SITE_TITLE, description = SITE_DESCRIPTION, heroImage = '/placeholder-social.jpg', schema } = Astro.props;
+
+const canonicalURL = new URL(Astro.url.pathname, Astro.site);
 ---
+
 <!doctype html>
 <html lang="ru">
 	<head>
 		<meta charset="UTF-8" />
-		<meta name="description" content={description} />
 		<meta name="viewport" content="width=device-width" />
-		<title>{title}</title>
+		<link rel="icon" href="/favicon.ico" type="image/x-icon" />
+		<meta name="generator" content={Astro.generator} />
         
+        {/* --- SEO-БЛОК --- */}
+		<title>{title}</title>
+		<meta name="description" content={description} />
+        <link rel="canonical" href={canonicalURL} />
+
+        {/* --- Open Graph / Facebook --- */}
+        <meta property="og:type" content="website" />
+        <meta property="og:url" content={Astro.url} />
+        <meta property="og:title" content={title} />
+        <meta property="og:description" content={description} />
+        <meta property="og:image" content={new URL(heroImage, Astro.url)} />
+        <meta property="og:site_name" content={SITE_TITLE} />
+
+        {/* --- Twitter Card --- */}
+        <meta property="twitter:card" content="summary_large_image" />
+        <meta property="twitter:url" content={Astro.url} />
+        <meta property="twitter:title" content={title} />
+        <meta property="twitter:description" content={description} />
+        <meta property="twitter:image" content={new URL(heroImage, Astro.url)} />
+
+        {/* --- Верификация для поисковых систем --- */}
         <meta name="google-site-verification" content="QmTdEF5xHLHXsL1FEcotg-xZTPfD14z9BxH6D64b0ds" />
         <meta name="yandex-verification" content="92b03968d7c06925" />
-        <link rel="icon" href="/favicon.ico" type="image/x-icon">
+
+        {/* --- Микроразметка Schema.org --- */}
+        {schema && <script type="application/ld+json" set:html={JSON.stringify(schema)} />}
 
         <!-- Yandex.Metrika counter -->
         <script type="text/javascript" >
@@ -32,7 +63,6 @@ const { title, description } = Astro.props;
                 webvisor:true
            });
         </script>
-        <!-- /Yandex.Metrika counter -->
 	</head>
 	<body>
         <noscript><div><img src="https://mc.yandex.ru/watch/103370647" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
