@@ -19,7 +19,7 @@ const FALLBACK_IMAGE_URL = "https://images.unsplash.com/photo-1560448204-e02f11c
 // --- НАСТРОЙКИ МОДЕЛЕЙ ---
 const OPENROUTER_API_URL = "https://openrouter.ai/api/v1/chat/completions";
 const DEEPSEEK_MODEL_NAME = "deepseek/deepseek-r1-0528:free"; // Модель по умолчанию для OpenRouter
-const GEMINI_MODEL_NAME = "gemini-1.5-pro"; // Убедитесь, что эта модель доступна для вашего ключа
+const GEMINI_MODEL_NAME = "gemini-2.5-pro"; // Убедитесь, что эта модель доступна для вашего ключа
 
 // Читаем переменные окружения
 const modelChoice = process.env.MODEL_CHOICE || 'gemini'; // По умолчанию Gemini
