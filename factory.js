@@ -1,4 +1,4 @@
-// Файл: factory.js (Версия 5.1 «Точность и Контроль 2.0»)
+// Файл: factory.js (Версия 5.2 «Синтаксический Ремонт»)
 import { GoogleGenerativeAI } from '@google/generative-ai';
 import fs from 'fs/promises';
 import path from 'path';
@@ -8,7 +8,7 @@ import { execa } from 'execa';
 // --- НАСТРОЙКИ ОПЕРАЦИИ ---
 const TARGET_URL_MAIN = "https://butlerspb.ru";
 const TOPICS_FILE = 'topics.txt';
-const POSTS_DIR = 'src/content/posts'; 
+const POSTS_DIR = 'src/content/posts';
 const SITE_URL = "https://butlerspb-blog.netlify.app";
 const BRAND_NAME = "ButlerSPB";
 const BRAND_BLOG_NAME = `Блог ${BRAND_NAME}`;
@@ -127,7 +127,7 @@ async function generateWithRetry(prompt, maxRetries = 4) {
             } else {
                 throw error;
             }
-        }
+        } // <-- Вот здесь не хватало закрывающей скобки
     }
     throw new Error(`[Поток #${threadId}] Не удалось получить ответ от модели ${modelChoice} после ${maxRetries} попыток.`);
 }
@@ -284,4 +284,4 @@ async function main() {
     }
 }
 
-main();```
+main();
