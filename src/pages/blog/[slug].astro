@@ -1,7 +1,7 @@
 ---
-// Файл: src/pages/blog/[slug].astro (Версия 3.0, с aspect-ratio)
-import Layout from '../../layouts/Layout.astro';
 import { type CollectionEntry, getCollection } from 'astro:content';
+import Layout from '../../layouts/Layout.astro';
+import Breadcrumbs from '../../components/Breadcrumbs.astro'; // <-- ДОБАВЛЕНО
 
 export async function getStaticPaths() {
 	const posts = await getCollection('posts');
@@ -16,28 +16,35 @@ const post = Astro.props;
 const { Content } = await post.render();
 ---
 
-<Layout title={post.data.title} description={post.data.description}>
-	<article>
-        <!-- ВОТ ИСПРАВЛЕННЫЙ БЛОК: Используем aspect-ratio вместо max-height -->
-        {post.data.heroImage && (
-            <img 
-                src={post.data.heroImage} 
-                alt={post.data.title} 
-                style="
-                    width: 100%; 
-                    aspect-ratio: 16 / 9; 
-                    object-fit: cover; 
-                    border-radius: 8px; 
-                    margin-bottom: 2rem;
-                "
-            />
-        )}
-
-		<h1>{post.data.title}</h1>
-		<p>Опубликовано: {new Date(post.data.pubDate).toLocaleDateString('ru-RU')}</p>
-		<hr>
-		<Content />
-	</article>
+<Layout 
+    title={post.data.title} 
+    description={post.data.description} 
+    heroImage={post.data.heroImage}
+    schema={post.data.schema}
+>
+	<main class="container mx-auto px-4">
+		<article>
+			<Breadcrumbs title={post.data.title} slug={post.slug} /> <!-- <-- ДОБАВЛЕНО -->
+			<div class="hero-image mb-6">
+				{post.data.heroImage && (
+                    <img 
+                        width={1020} 
+                        height={510} 
+                        src={post.data.heroImage} 
+                        alt={post.data.title} 
+                        class="rounded-lg w-full"
+                        style="aspect-ratio: 16 / 9; object-fit: cover;"
+                    />
+                )}
+			</div>
+			<div class="prose max-w-none">
+				<h1>{post.data.title}</h1>
+                <p class="text-sm text-gray-500">
+                    Опубликовано: {new Date(post.data.pubDate).toLocaleDateString('ru-RU')}
+                </p>
+                <hr class="my-4">
+				<Content />
+			</div>
+		</article>
+	</main>
 </Layout>
-
-<script type="application/ld+json" set:html={JSON.stringify(post.data.schema)} />
