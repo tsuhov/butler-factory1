@@ -1,0 +1,58 @@
+---
+// Файл: src/components/Breadcrumbs.astro
+interface Props {
+	title: string;
+	slug: string;
+}
+const { title, slug } = Astro.props;
+
+const breadcrumbSchema = {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [{
+        "@type": "ListItem",
+        "position": 1,
+        "name": "Блог",
+        "item": new URL('/blog', Astro.site)
+    }, {
+        "@type": "ListItem",
+        "position": 2,
+        "name": title,
+        "item": new URL(`/blog/${slug}/`, Astro.site)
+    }]
+};
+---
+
+<nav aria-label="breadcrumb">
+  <ol>
+    <li><a href="/blog">Блог</a></li>
+    <li aria-current="page">{title}</li>
+  </ol>
+</nav>
+
+<script type="application/ld+json" set:html={JSON.stringify(breadcrumbSchema)} />
+
+<style>
+  nav[aria-label="breadcrumb"] ol {
+    display: flex;
+    flex-wrap: wrap;
+    padding: 0;
+    margin: 0 0 1rem 0;
+    list-style: none;
+  }
+  nav[aria-label="breadcrumb"] li:not(:last-child)::after {
+    content: '/';
+    margin: 0 0.5rem;
+    color: #666;
+  }
+  nav[aria-label="breadcrumb"] a {
+    text-decoration: none;
+    color: #333;
+  }
+  nav[aria-label="breadcrumb"] a:hover {
+    text-decoration: underline;
+  }
+  nav[aria-label="breadcrumb"] li[aria-current="page"] {
+    color: #666;
+  }
+</style>
