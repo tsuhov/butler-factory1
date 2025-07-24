@@ -1,24 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <yml_catalog date="2025-07-24T12:00:00+03:00">
-    <shop>
-        <name>ButlerSPB</name>
-        <company>ИП РАФАЕНКО О.А.</company>
-        <url>https://butlerspb.ru/</url>
-        <services>
-            <service id="1">
-                <name>Доверительное управление посуточной арендой в Санкт-Петербурге</name>
-                <url>https://butlerspb.ru/rent</url>
-                <price from="true">15</price>
-                <currencyId>RUB</currencyId>
-                <unit>процент</unit>
-                <description>
-                    <![CDATA[
-                    Возьмем на себя все заботы по управлению вашей квартирой или апартаментами в Санкт-Петербурге для посуточной аренды. Профессиональная фотосъемка, размещение на всех площадках, динамическое ценообразование, общение с гостями, заселение, клининг и полная финансовая отчетность. Увеличим ваш доход и освободим ваше время.
-                    ]]>
-                </description>
-                <category>Управление недвижимостью</category>
-                <region>Санкт-Петербург</region>
-            </service>
-        </services>
-    </shop>
+  <shop>
+    <name>ButlerSPB</name>
+    <company>ИП РАФАЕНКО О.А.</company>
+    <url>https://butlerspb.ru/</url>
+    <categories>
+      <category id="1">Управление недвижимостью</category>
+    </categories>
+    <offers>
+      <offer id="1">
+        <name>Доверительное управление посуточной арендой в Санкт-Петербурге</name>
+        <url>https://butlerspb.ru/rent</url>
+        <price from="true">15</price>
+        <currencyId>RUB</currencyId>
+        <unit>процент</unit>
+        <categoryId>1</categoryId>
+        <description>
+          <![CDATA[
+          Возьмем на себя все заботы по управлению вашей квартирой или апартаментами в Санкт-Петербурге для посуточной аренды. Профессиональная фотосъемка, размещение на всех площадках, динамическое ценообразование, общение с гостями, заселение, клининг и полная финансовая отчетность. Увеличим ваш доход и освободим ваше время.
+          ]]>
+        </description>
+        <region>Санкт-Петербург</region>
+      </offer>
+    </offers>
+  </shop>
 </yml_catalog>
