@@ -1,4 +1,4 @@
-// Файл: factory.js (Версия 7.2 «Синтаксический Ремонт 2.0»)
+// Файл: factory.js (Версия 7.3 «Финальная Автономия»)
 import { GoogleGenerativeAI } from '@google/generative-ai';
 import fs from 'fs/promises';
 import path from 'path';
@@ -24,9 +24,14 @@ const GEMINI_MODEL_NAME = "gemini-2.5-pro";
 const modelChoice = process.env.MODEL_CHOICE || 'gemini';
 const threadId = parseInt(process.env.THREAD_ID, 10) || 1;
 const apiKey = process.env.API_KEY_CURRENT;
+const GITHUB_TOKEN = process.env.GITHUB_TOKEN;
+const REPO_URL = `https://x-access-token:${GITHUB_TOKEN}@github.com/${process.env.GITHUB_REPOSITORY}.git`;
 
 if (!apiKey) {
     throw new Error(`[Поток #${threadId}] Не был предоставлен API-ключ!`);
+}
+if (!GITHUB_TOKEN) {
+    throw new Error(`[Поток #${threadId}] Не был предоставлен GITHUB_TOKEN!`);
 }
 
 if (modelChoice === 'deepseek') {
@@ -214,6 +219,9 @@ ${articleText}
 
 async function commitAndPush(filePath, topic) {
     try {
+        await execa('git', ['config', '--global', 'user.name', 'github-actions[bot]']);
+        await execa('git', ['config', '--global', 'user.email', '41898282+github-actions[bot]@users.noreply.github.com']);
+
         await execa('git', ['add', filePath]);
         await execa('git', ['commit', '-m', `🚀 Авто-публикация: ${topic}`]);
         
@@ -223,9 +231,9 @@ async function commitAndPush(filePath, topic) {
         for (let i = 0; i < maxRetries; i++) {
             try {
                 await execa('git', ['pull', '--rebase']);
-                await execa('git', ['push']);
+                await execa('git', ['push', REPO_URL, 'HEAD:main']);
                 console.log(`[✔] [Поток #${threadId}] Статья "${topic}" успешно ОПУБЛИКОВАНА.`);
-                return true; // Возвращаем успех
+                return true;
             } catch (e) {
                 console.warn(`[!] [Поток #${threadId}] Конфликт при публикации! Попытка ${i + 1}/${maxRetries}. Откат и ожидание ${retryDelay}с...`);
                 await execa('git', ['rebase', '--abort']).catch(() => {});
@@ -237,7 +245,7 @@ async function commitAndPush(filePath, topic) {
         throw new Error('Не удалось опубликовать изменения после нескольких попыток.');
     } catch (error) {
         console.error(`[!] [Поток #${threadId}] Критическая ошибка при публикации статьи "${topic}":`, error.stderr || error.message);
-        return false; // Возвращаем неудачу
+        return false;
     }
 }
 
