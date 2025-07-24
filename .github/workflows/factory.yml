@@ -1,4 +1,4 @@
-name: 🚀 Content Factory (Atomic Lock v2)
+name: 🚀 Content Factory (Bulletproof)
 
 on:
   workflow_dispatch:
@@ -53,16 +53,11 @@ jobs:
         thread: ${{ fromJson(needs.prepare.outputs.matrix) }}
 
     steps:
-      - name: ⏱️ Tactical Delay (Thread ${{ matrix.thread }})
-        run: |
-          DELAY=$(( RANDOM % 60 ))
-          echo "Тактическая задержка для Эскадрона #${{ matrix.thread }}: ${DELAY} секунд..."
-          sleep $DELAY
-
       - name: ⬇️ Checkout repo (Thread ${{ matrix.thread }})
         uses: actions/checkout@v4
         with:
-          fetch-depth: 0 
+          # Важно: используем токен для возможности пушить обратно
+          token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: ⚙️ Setup Node.js (Thread ${{ matrix.thread }})
         uses: actions/setup-node@v4
@@ -90,7 +85,7 @@ jobs:
           fi
           echo "key=$CURRENT_KEY" >> $GITHUB_OUTPUT
 
-      - name: 🏭 Run Factory & 📢 Publish & Notify (Thread ${{ matrix.thread }})
+      - name: 🏭 Run Factory (Thread ${{ matrix.thread }})
         env:
           MODEL_CHOICE: ${{ github.event.inputs.model_choice || 'gemini' }}
           API_KEY_CURRENT: ${{ steps.set_key.outputs.key }}
@@ -98,63 +93,11 @@ jobs:
           TOTAL_THREADS: ${{ github.event.inputs.threads || 5 }}
           THREAD_ID: ${{ matrix.thread }}
         run: |
-          git config --global user.name 'GitHub Actions Bot'
-          git config --global user.email 'actions-bot@github.com'
-          git config --global pull.rebase true
+          git config --global user.name 'github-actions[bot]'
+          git config --global user.email '41898282+github-actions[bot]@users.noreply.github.com'
           
           echo "--- ЭСКАДРОН #${{ matrix.thread }}: Начинаю генерацию ---"
           
-          # Сначала синхронизируемся с сервером
-          git pull
-          
           npm run factory
           
-          if [[ -z $(git status --porcelain src/content/posts/) ]]; then
-            echo "✅ ЭСКАДРОН #${{ matrix.thread }}: Новых статей не было создано. Миссия завершена."
-            exit 0
-          fi
-
-          echo "🔥 ЭСКАДРОН #${{ matrix.thread }}: Обнаружены новые файлы. Начинаю процедуру публикации..."
-          
-          git add src/content/posts/*.md
-          git commit -m "🚀 Авто-публикация: пачка от Эскадрона №${{ matrix.thread }}"
-          
-          MAX_RETRIES=5
-          RETRY_DELAY=10
-          for ((i=1; i<=MAX_RETRIES; i++)); do
-            if git push; then
-              echo "✅ Публикация прошла успешно с попытки №$i."
-              break
-            else
-              if [ "$i" -eq "$MAX_RETRIES" ]; then
-                echo "::error::Не удалось опубликовать изменения после $MAX_RETRIES попыток."
-                exit 1
-              fi
-              echo "[!] Конфликт при публикации! Попытка №$i не удалась. Откат, синхронизация и ожидание ${RETRY_DELAY}с..."
-              git reset --hard HEAD~1 # Отменяем наш неудачный коммит
-              git pull # Скачиваем изменения от других потоков
-              # Теперь мы можем снова добавить наши файлы и повторить коммит + пуш
-              git add src/content/posts/*.md
-              git commit -m "🚀 Авто-публикация (повтор): пачка от Эскадрона №${{ matrix.thread }}"
-              sleep $RETRY_DELAY
-            fi
-          done
-          
-          # ... (остальной код для IndexNow остается без изменений) ...
-          commit_after=$(git rev-parse HEAD)
-          commit_before=$(git rev-parse HEAD~1)
-          NEW_FILES=$(git diff --name-only $commit_before $commit_after -- 'src/content/posts/*.md')
-          if [[ -n "$NEW_FILES" ]]; then
-            echo "📢 ЭСКАДРОН #${{ matrix.thread }}: Подготовка уведомления для IndexNow..."
-            API_KEY="d1b055ab1eb146d892169bbb2c96550e"
-            HOST="butlerspb-blog.netlify.app"
-            URL_JSON_ARRAY=$(for file in $NEW_FILES; do slug=$(basename "$file" .md); echo "https://butlerspb-blog.netlify.app/blog/${slug}/"; done | jq -R . | jq -s .)
-            JSON_PAYLOAD=$(jq -n --arg host "$HOST" --arg key "$API_KEY" --argjson urls "$URL_JSON_ARRAY" '{host: $host, key: $key, urlList: $urls}')
-            echo "--- Диагностика пакета для IndexNow (Эскадрон №${{ matrix.thread }}) ---"
-            echo "$JSON_PAYLOAD"
-            echo "--- Конец диагностики ---"
-            curl -X POST "https://yandex.com/indexnow" -H "Content-Type: application/json; charset=utf-8" -d "$JSON_PAYLOAD"
-            curl -X POST "https://www.bing.com/indexnow" -H "Content-Type: application/json; charset=utf-8" -d "$JSON_PAYLOAD"
-          fi
-          
-          echo -e "\n✅ ЭСКАДРОН #${{ matrix.thread }}: Миссия успешно завершена."
+          echo "✅ ЭСКАДРОН #${{ matrix.thread }}: Миссия успешно завершена."
