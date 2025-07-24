@@ -1,12 +1,14 @@
 ---
-import { SITE_TITLE, SITE_DESCRIPTION } from '../consts.ts'; // ИСПРАВЛЕНИЕ: Добавлено расширение файла .ts
-
 interface Props {
 	title?: string;
 	description?: string;
     heroImage?: string;
     schema?: object;
 }
+
+// ИСПРАВЛЕНИЕ: Мы не импортируем consts.ts, а задаем константы прямо здесь
+const SITE_TITLE = 'ButlerSPB';
+const SITE_DESCRIPTION = 'ButlerSPB';
 
 const { title = SITE_TITLE, description = SITE_DESCRIPTION, heroImage = '/placeholder-social.jpg', schema } = Astro.props;
 
