@@ -1,9 +1,12 @@
-// Файл: src/pages/rss.xml.js (Версия для Яндекс.Новостей)
+// Файл: src/pages/rss.xml.js (Версия 2.1 - Исправленная)
 import rss from '@astrojs/rss';
 import { getCollection } from 'astro:content';
-import { SITE_TITLE, SITE_DESCRIPTION } from '../consts';
 import { marked } from 'marked';
 import sanitizeHtml from 'sanitize-html';
+
+// ИСПРАВЛЕНИЕ: Мы не импортируем consts.ts, а задаем константы прямо здесь
+const SITE_TITLE = 'ButlerSPB';
+const SITE_DESCRIPTION = 'ButlerSPB';
 
 export async function GET(context) {
 	const posts = await getCollection('posts');
