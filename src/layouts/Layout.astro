@@ -1,12 +1,12 @@
 ---
+// Файл: src/layouts/Layout.astro (Версия с полной навигацией)
 interface Props {
-	title?: string;
-	description?: string;
+	title: string;
+	description: string;
     heroImage?: string;
     schema?: object;
 }
 
-// ИСПРАВЛЕНИЕ: Мы не импортируем consts.ts, а задаем константы прямо здесь
 const SITE_TITLE = 'ButlerSPB';
 const SITE_DESCRIPTION = 'ButlerSPB';
 
@@ -23,12 +23,10 @@ const canonicalURL = new URL(Astro.url.pathname, Astro.site);
 		<link rel="icon" href="/favicon.ico" type="image/x-icon" />
 		<meta name="generator" content={Astro.generator} />
         
-        {/* --- SEO-БЛОК --- */}
 		<title>{title}</title>
 		<meta name="description" content={description} />
         <link rel="canonical" href={canonicalURL} />
 
-        {/* --- Open Graph / Facebook --- */}
         <meta property="og:type" content="website" />
         <meta property="og:url" content={Astro.url} />
         <meta property="og:title" content={title} />
@@ -36,18 +34,15 @@ const canonicalURL = new URL(Astro.url.pathname, Astro.site);
         <meta property="og:image" content={new URL(heroImage, Astro.url)} />
         <meta property="og:site_name" content={SITE_TITLE} />
 
-        {/* --- Twitter Card --- */}
         <meta property="twitter:card" content="summary_large_image" />
         <meta property="twitter:url" content={Astro.url} />
         <meta property="twitter:title" content={title} />
         <meta property="twitter:description" content={description} />
         <meta property="twitter:image" content={new URL(heroImage, Astro.url)} />
 
-        {/* --- Верификация для поисковых систем --- */}
         <meta name="google-site-verification" content="QmTdEF5xHLHXsL1FEcotg-xZTPfD14z9BxH6D64b0ds" />
         <meta name="yandex-verification" content="92b03968d7c06925" />
 
-        {/* --- Микроразметка Schema.org --- */}
         {schema && <script type="application/ld+json" set:html={JSON.stringify(schema)} />}
 
         <!-- Yandex.Metrika counter -->
@@ -73,6 +68,8 @@ const canonicalURL = new URL(Astro.url.pathname, Astro.site);
 			<a href="/" style="text-decoration: none; font-weight: bold; font-size: 1.2rem;">Наш Блог-сателлит</a>
             <nav>
                 <a href="/blog" style="margin-left: 1rem;">Блог</a>
+                <a href="/uslugi" style="margin-left: 1rem;">Услуги</a>
+                <a href="/o-nas" style="margin-left: 1rem;">О нас</a>
                 <a href="/kontakty" style="margin-left: 1rem;">Контакты</a>
             </nav>
 		</header>
