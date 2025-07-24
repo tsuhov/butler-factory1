@@ -1,10 +1,11 @@
-// Файл: factory.js (Версия 5.2 «Синтаксический Ремонт»)
+// Файл: factory.js (Версия 7.0 «Пуленепробиваемый»)
 import { GoogleGenerativeAI } from '@google/generative-ai';
 import fs from 'fs/promises';
 import path from 'path';
 import fetch from 'node-fetch';
 import { execa } from 'execa';
 
+// ... (ВСЕ КОНСТАНТЫ И ВСПОМОГАТЕЛЬНЫЕ ФУНКЦИИ до generatePost остаются БЕЗ ИЗМЕНЕНИЙ) ...
 // --- НАСТРОЙКИ ОПЕРАЦИИ ---
 const TARGET_URL_MAIN = "https://butlerspb.ru";
 const TOPICS_FILE = 'topics.txt';
@@ -17,7 +18,7 @@ const FALLBACK_IMAGE_URL = "https://images.unsplash.com/photo-1560448204-e02f11c
 
 // --- НАСТРОЙКИ МОДЕЛЕЙ ---
 const OPENROUTER_API_URL = "https://openrouter.ai/api/v1/chat/completions";
-const DEEPSEEK_MODEL_NAME = "deepseek/deepseek-chat-v3-0324:free";
+const DEEPSEEK_MODEL_NAME = "deepseek/deepseek-r1-0528:free";
 const GEMINI_MODEL_NAME = "gemini-2.5-pro";
 
 // --- ИНИЦИАЛИЗАЦИЯ ПОТОКА ---
@@ -127,7 +128,7 @@ async function generateWithRetry(prompt, maxRetries = 4) {
             } else {
                 throw error;
             }
-        } // <-- Вот здесь не хватало закрывающей скобки
+        }
     }
     throw new Error(`[Поток #${threadId}] Не удалось получить ответ от модели ${modelChoice} после ${maxRetries} попыток.`);
 }
@@ -212,6 +213,38 @@ ${articleText}
     return frontmatter;
 }
 
+async function commitAndPush(filePath, topic) {
+    try {
+        await execa('git', ['add', filePath]);
+        await execa('git', ['commit', '-m', `🚀 Авто-публикация: ${topic}`]);
+        
+        let success = false;
+        const maxRetries = 5;
+        const retryDelay = 10;
+
+        for (let i = 0; i < maxRetries; i++) {
+            try {
+                await execa('git', ['pull', '--rebase']);
+                await execa('git', ['push']);
+                success = true;
+                console.log(`[✔] [Поток #${threadId}] Файл ${path.basename(filePath)} успешно опубликован.`);
+                break;
+            } catch (e) {
+                console.warn(`[!] [Поток #${threadId}] Конфликт при публикации! Попытка ${i + 1}/${maxRetries}. Откат и ожидание ${retryDelay}с...`);
+                await execa('git', ['rebase', '--abort']).catch(() => {}); // На случай если rebase не начался
+                await new Promise(resolve => setTimeout(resolve, retryDelay * 1000));
+            }
+        }
+        if (!success) {
+            throw new Error('Не удалось опубликовать изменения после нескольких попыток.');
+        }
+    } catch (error) {
+        console.error(`[!] [Поток #${threadId}] Критическая ошибка при публикации файла ${path.basename(filePath)}:`, error.stderr || error.message);
+        // Не прерываем поток, просто логируем ошибку
+    }
+}
+
+
 async function main() {
     console.log(`[Поток #${threadId}] Запуск рабочего потока...`);
 
@@ -233,44 +266,50 @@ async function main() {
             return topicSlug && !existingSlugs.includes(topicSlug);
         });
 
-        const topicsForThisThread = newTopics.filter((_, index) => index % totalThreads === (threadId - 1));
+        const topicsForThisThread = newTopics.filter((_, index) => index % totalThreads === (threadId - 1)).slice(0, BATCH_SIZE);
 
         if (topicsForThisThread.length === 0) {
             console.log(`[Поток #${threadId}] Нет новых тем для этого потока. Завершение.`);
             return;
         }
         
-        console.log(`[Поток #${threadId}] Найдено ${topicsForThisThread.length} новых тем. Беру в работу первые ${BATCH_SIZE}.`);
+        console.log(`[Поток #${threadId}] Найдено ${topicsForThisThread.length} новых тем. Беру в работу.`);
 
         let allPostsForLinking = [];
         for (const slug of existingSlugs) {
-            const content = await fs.readFile(path.join(postsDir, `${slug}.md`), 'utf-8');
-            const titleMatch = content.match(/title:\s*["']?(.*?)["']?$/m);
-            if (titleMatch) {
-                allPostsForLinking.push({ title: titleMatch[1], url: `/blog/${slug}/` });
-            }
+             try {
+                const content = await fs.readFile(path.join(postsDir, `${slug}.md`), 'utf-8');
+                const titleMatch = content.match(/title:\s*["']?(.*?)["']?$/m);
+                if (titleMatch) {
+                    allPostsForLinking.push({ title: titleMatch[1], url: `/blog/${slug}/` });
+                }
+            } catch (e) { /* Игнорируем ошибки чтения */ }
         }
         
-        for (const topic of topicsForThisThread.slice(0, BATCH_SIZE)) { 
+        for (const topic of topicsForThisThread) { 
             try {
                 const slug = slugify(topic);
                 if (!slug) continue;
                 
+                const filePath = path.join(postsDir, `${slug}.md`);
+
                 let randomInterlinks = [];
                 if (allPostsForLinking.length > 0) {
                     randomInterlinks = [...allPostsForLinking].sort(() => 0.5 - Math.random()).slice(0, 3);
                 }
                 
                 const fullContent = await generatePost(topic, slug, randomInterlinks);
-                await fs.writeFile(path.join(postsDir, `${slug}.md`), fullContent);
-                console.log(`[Поток #${threadId}] [✔] Статья "${topic}" успешно создана.`);
+                await fs.writeFile(filePath, fullContent);
+                console.log(`[Поток #${threadId}] [✔] Статья "${topic}" успешно сгенерирована.`);
                 
+                // --- ПУБЛИКАЦИЯ И ИНДЕКСАЦИЯ СРАЗУ ---
+                await commitAndPush(filePath, topic);
                 const newUrl = `${SITE_URL}/blog/${slug}/`;
                 await notifyIndexNow(newUrl);
 
-                await new Promise(resolve => setTimeout(resolve, 1000));
+                await new Promise(resolve => setTimeout(resolve, 1000)); // Небольшая пауза между статьями
             } catch (e) {
-                console.error(`[!] [Поток #${threadId}] Ошибка при генерации статьи "${topic}": ${e.message}`);
+                console.error(`[!] [Поток #${threadId}] Ошибка при обработке темы "${topic}": ${e.message}`);
                 if (e.message.includes('429') || e.message.includes('API key')) {
                     console.error(`[!] [Поток #${threadId}] Ключ API исчерпан или невалиден. Завершаю работу этого потока.`);
                     break; 
