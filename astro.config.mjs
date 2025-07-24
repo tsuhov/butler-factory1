@@ -1,13 +1,15 @@
+// Файл: astro.config.mjs (Правильная версия)
 import { defineConfig } from 'astro/config';
-import sitemap from "@astrojs/sitemap";
 
 // https://astro.build/config
 export default defineConfig({
   site: 'https://butlerspb-blog.netlify.app',
-  integrations: [sitemap()], // <-- Эта строка "включает" генератор карты сайта
+  // Убираем интеграцию sitemap, так как у нас есть свой postbuild.js
+  // integrations: [sitemap()], 
   vite: {
     ssr: {
-      external: ["sanitize-html"], // <-- Эта строка "чинит" ошибку со сборкой RSS
+      // Эта строка нужна для корректной работы rss.xml.js
+      external: ["sanitize-html"], 
     },
   },
 });
