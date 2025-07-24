@@ -1,4 +1,4 @@
-// Файл: factory.js (Версия 7.3 «Финальная Автономия»)
+// Файл: factory.js (Версия 7.1 - Чистый генератор)
 import { GoogleGenerativeAI } from '@google/generative-ai';
 import fs from 'fs/promises';
 import path from 'path';
@@ -24,14 +24,9 @@ const GEMINI_MODEL_NAME = "gemini-2.5-pro";
 const modelChoice = process.env.MODEL_CHOICE || 'gemini';
 const threadId = parseInt(process.env.THREAD_ID, 10) || 1;
 const apiKey = process.env.API_KEY_CURRENT;
-const GITHUB_TOKEN = process.env.GITHUB_TOKEN;
-const REPO_URL = `https://x-access-token:${GITHUB_TOKEN}@github.com/${process.env.GITHUB_REPOSITORY}.git`;
 
 if (!apiKey) {
     throw new Error(`[Поток #${threadId}] Не был предоставлен API-ключ!`);
-}
-if (!GITHUB_TOKEN) {
-    throw new Error(`[Поток #${threadId}] Не был предоставлен GITHUB_TOKEN!`);
 }
 
 if (modelChoice === 'deepseek') {
@@ -137,22 +132,6 @@ async function generateWithRetry(prompt, maxRetries = 4) {
     throw new Error(`[Поток #${threadId}] Не удалось получить ответ от модели ${modelChoice} после ${maxRetries} попыток.`);
 }
 
-async function notifyIndexNow(url) {
-    console.log(`📢 [Поток #${threadId}] Отправляю уведомление для ${url} в IndexNow...`);
-    const API_KEY = "d1b055ab1eb146d892169bbb2c96550e";
-    const HOST = "butlerspb-blog.netlify.app";
-    
-    const payload = JSON.stringify({ host: HOST, key: API_KEY, urlList: [url] });
-
-    try {
-        await execa('curl', ['-X', 'POST', 'https://yandex.com/indexnow', '-H', 'Content-Type: application/json; charset=utf-8', '-d', payload]);
-        await execa('curl', ['-X', 'POST', 'https://www.bing.com/indexnow', '-H', 'Content-Type: application/json; charset=utf-8', '-d', payload]);
-        console.log(`[✔] [Поток #${threadId}] Уведомление для ${url} успешно отправлено.`);
-    } catch (error) {
-        console.error(`[!] [Поток #${threadId}] Ошибка при отправке в IndexNow для ${url}:`, error.stderr);
-    }
-}
-
 async function generatePost(topic, slug, interlinks) {
     console.log(`[+] [Поток #${threadId}] Генерирую статью на тему: ${topic}`);
     
@@ -217,38 +196,6 @@ ${articleText}
     return frontmatter;
 }
 
-async function commitAndPush(filePath, topic) {
-    try {
-        await execa('git', ['config', '--global', 'user.name', 'github-actions[bot]']);
-        await execa('git', ['config', '--global', 'user.email', '41898282+github-actions[bot]@users.noreply.github.com']);
-
-        await execa('git', ['add', filePath]);
-        await execa('git', ['commit', '-m', `🚀 Авто-публикация: ${topic}`]);
-        
-        const maxRetries = 5;
-        const retryDelay = 10;
-
-        for (let i = 0; i < maxRetries; i++) {
-            try {
-                await execa('git', ['pull', '--rebase']);
-                await execa('git', ['push', REPO_URL, 'HEAD:main']);
-                console.log(`[✔] [Поток #${threadId}] Статья "${topic}" успешно ОПУБЛИКОВАНА.`);
-                return true;
-            } catch (e) {
-                console.warn(`[!] [Поток #${threadId}] Конфликт при публикации! Попытка ${i + 1}/${maxRetries}. Откат и ожидание ${retryDelay}с...`);
-                await execa('git', ['rebase', '--abort']).catch(() => {});
-                await execa('git', ['reset', '--hard', 'HEAD~1']);
-                await new Promise(resolve => setTimeout(resolve, retryDelay * 1000));
-            }
-        }
-        
-        throw new Error('Не удалось опубликовать изменения после нескольких попыток.');
-    } catch (error) {
-        console.error(`[!] [Поток #${threadId}] Критическая ошибка при публикации статьи "${topic}":`, error.stderr || error.message);
-        return false;
-    }
-}
-
 async function main() {
     console.log(`[Поток #${threadId}] Запуск рабочего потока...`);
 
@@ -305,12 +252,8 @@ async function main() {
                 await fs.writeFile(filePath, fullContent);
                 console.log(`[Поток #${threadId}] [✔] Статья "${topic}" успешно сгенерирована.`);
                 
-                const isPublished = await commitAndPush(filePath, topic);
-                
-                if (isPublished) {
-                    const newUrl = `${SITE_URL}/blog/${slug}/`;
-                    await notifyIndexNow(newUrl);
-                }
+                // В этой версии нет вызовов git или notifyIndexNow.
+                // Вся публикация происходит в workflow.
 
                 await new Promise(resolve => setTimeout(resolve, 1000));
             } catch (e) {
