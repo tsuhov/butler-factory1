@@ -1,7 +1,7 @@
 ---
-import { type CollectionEntry, getCollection } from 'astro:content';
+// Файл: src/pages/blog/[slug].astro (Версия с Breadcrumbs)
 import Layout from '../../layouts/Layout.astro';
-import Breadcrumbs from '../../components/Breadcrumbs.astro'; // <-- ДОБАВЛЕНО
+import { type CollectionEntry, getCollection } from 'astro:content';
 
 export async function getStaticPaths() {
 	const posts = await getCollection('posts');
@@ -14,6 +14,23 @@ type Props = CollectionEntry<'posts'>;
 
 const post = Astro.props;
 const { Content } = await post.render();
+
+// --- ЛОГИКА ДЛЯ ХЛЕБНЫХ КРОШЕК ---
+const breadcrumbSchema = {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [{
+        "@type": "ListItem",
+        "position": 1,
+        "name": "Блог",
+        "item": new URL('/blog', Astro.site).href
+    }, {
+        "@type": "ListItem",
+        "position": 2,
+        "name": post.data.title,
+        "item": new URL(`/blog/${post.slug}/`, Astro.site).href
+    }]
+};
 ---
 
 <Layout 
@@ -22,29 +39,40 @@ const { Content } = await post.render();
     heroImage={post.data.heroImage}
     schema={post.data.schema}
 >
-	<main class="container mx-auto px-4">
-		<article>
-			<Breadcrumbs title={post.data.title} slug={post.slug} /> <!-- <-- ДОБАВЛЕНО -->
-			<div class="hero-image mb-6">
-				{post.data.heroImage && (
-                    <img 
-                        width={1020} 
-                        height={510} 
-                        src={post.data.heroImage} 
-                        alt={post.data.title} 
-                        class="rounded-lg w-full"
-                        style="aspect-ratio: 16 / 9; object-fit: cover;"
-                    />
-                )}
-			</div>
-			<div class="prose max-w-none">
-				<h1>{post.data.title}</h1>
-                <p class="text-sm text-gray-500">
-                    Опубликовано: {new Date(post.data.pubDate).toLocaleDateString('ru-RU')}
-                </p>
-                <hr class="my-4">
-				<Content />
-			</div>
-		</article>
-	</main>
+    <!-- Добавляем скрипт для хлебных крошек в head через специальный слот Astro -->
+    <Fragment slot="head">
+        <script type="application/ld+json" set:html={JSON.stringify(breadcrumbSchema)} />
+    </Fragment>
+
+	<article>
+        <!-- Визуальное отображение хлебных крошек -->
+        <nav aria-label="breadcrumb" style="margin-bottom: 1rem;">
+            <ol style="display: flex; list-style: none; padding: 0; margin: 0;">
+                <li><a href="/blog" style="text-decoration: none;">Блог</a></li>
+                <li style="margin: 0 0.5rem;">/</li>
+                <li aria-current="page">{post.data.title}</li>
+            </ol>
+        </nav>
+
+        {post.data.heroImage && (
+            <img 
+                src={post.data.heroImage} 
+                alt={post.data.title} 
+                style="
+                    width: 100%; 
+                    aspect-ratio: 16 / 9; 
+                    object-fit: cover; 
+                    border-radius: 8px; 
+                    margin-bottom: 2rem;
+                "
+            />
+        )}
+
+		<h1>{post.data.title}</h1>
+		<p>Опубликовано: {new Date(post.data.pubDate).toLocaleDateString('ru-RU')}</p>
+		<hr style="margin: 1rem 0;">
+		<div class="prose max-w-none">
+		    <Content />
+        </div>
+	</article>
 </Layout>
