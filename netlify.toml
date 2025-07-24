@@ -1,0 +1,9 @@
+# Файл: netlify.toml
+# Настройки заголовков для Netlify
+
+[[headers]]
+  # Применяем эти правила ко всем файлам с расширением .yml
+  for = "/*.yml"
+  [headers.values]
+    # Устанавливаем правильный Content-Type, который ожидает Яндекс
+    Content-Type = "application/xml; charset=utf-8"
