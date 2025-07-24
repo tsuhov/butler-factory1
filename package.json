@@ -5,13 +5,11 @@
   "scripts": {
     "dev": "astro dev",
     "start": "astro dev",
-    "build": "astro build && node postbuild.js",
+    "build": "astro build",
     "preview": "astro preview",
     "astro": "astro",
     "factory": "node factory.js",
-    "fix": "node fixer.js",
-    "surgeon": "node surgeon.js",
-    "audit": "node auditor.js"
+    "fix": "node fixer.js"
   },
   "dependencies": {
     "astro": "^4.11.0",
@@ -21,6 +19,10 @@
     "marked": "^12.0.2",
     "@astrojs/rss": "^4.0.7",
     "gray-matter": "^4.0.3",
-    "execa": "^8.0.1"
+    "execa": "^8.0.1",
+    "sanitize-html": "^2.13.0"
+  },
+  "devDependencies": {
+    "@types/sanitize-html": "^2.11.0"
   }
 }
