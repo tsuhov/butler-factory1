@@ -1,4 +1,4 @@
-name: 🚀 Content Factory (Bulletproof Batch Push)
+name: 🚀 Content Factory (Bulletproof Batch Push v2)
 
 on:
   workflow_dispatch:
@@ -90,11 +90,9 @@ jobs:
         with:
           name: generated-posts-thread-${{ matrix.thread }}
           path: src/content/posts/*.md
-          # Сохраняем артефакты даже если шаг factory завершился с ошибкой
           if-no-files-found: ignore
 
   publish_and_notify:
-    # ИСПРАВЛЕНИЕ: Этот шаг запускается ВСЕГДА
     if: ${{ always() }} 
     needs: generate
     runs-on: ubuntu-latest
@@ -111,6 +109,8 @@ jobs:
           merge-multiple: true
 
       - name: 🚀 Commit, Push & Notify
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }} # <-- ИСПРАВЛЕНИЕ: Передаем токен
         run: |
           git config --global user.name 'github-actions[bot]'
           git config --global user.email '41898282+github-actions[bot]@users.noreply.github.com'
@@ -124,12 +124,13 @@ jobs:
           echo "🔥 Обнаружены новые файлы. Начинаю процедуру публикации..."
           git pull
           
-          # Получаем список новых файлов ДО коммита
           NEW_FILES=$(git status --porcelain src/content/posts/ | grep '^??' | awk '{print $2}')
           
           git add src/content/posts/*.md
           git commit -m "🚀 Авто-публикация: пакетная сборка"
-          git push
+          
+          # ИСПРАВЛЕНИЕ: Используем токен для push
+          git push https://x-access-token:${GITHUB_TOKEN}@github.com/${GITHUB_REPOSITORY}.git HEAD:main
 
           if [[ -n "$NEW_FILES" ]]; then
             echo "📢 Подготовка уведомления для IndexNow..."
