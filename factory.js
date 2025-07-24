@@ -1,11 +1,10 @@
-// Файл: factory.js (Версия 7.1 «Публикация перед Индексацией»)
+// Файл: factory.js (Версия 7.2 «Синтаксический Ремонт 2.0»)
 import { GoogleGenerativeAI } from '@google/generative-ai';
 import fs from 'fs/promises';
 import path from 'path';
 import fetch from 'node-fetch';
 import { execa } from 'execa';
 
-// ... (ВСЕ КОНСТАНТЫ И ВСПОМОГАТЕЛЬНЫЕ ФУНКЦИИ до commitAndPush остаются БЕЗ ИЗМЕНЕНИЙ) ...
 // --- НАСТРОЙКИ ОПЕРАЦИИ ---
 const TARGET_URL_MAIN = "https://butlerspb.ru";
 const TOPICS_FILE = 'topics.txt';
@@ -213,16 +212,11 @@ ${articleText}
     return frontmatter;
 }
 
-// ИСПРАВЛЕННАЯ ФУНКЦИЯ ПУБЛИКАЦИИ
-async function commitPushAndNotify(filePath, topic) {
-    const slug = path.basename(filePath, '.md');
-    const newUrl = `${SITE_URL}/blog/${slug}/`;
-
+async function commitAndPush(filePath, topic) {
     try {
         await execa('git', ['add', filePath]);
         await execa('git', ['commit', '-m', `🚀 Авто-публикация: ${topic}`]);
         
-        let success = false;
         const maxRetries = 5;
         const retryDelay = 10;
 
@@ -230,9 +224,8 @@ async function commitPushAndNotify(filePath, topic) {
             try {
                 await execa('git', ['pull', '--rebase']);
                 await execa('git', ['push']);
-                success = true;
                 console.log(`[✔] [Поток #${threadId}] Статья "${topic}" успешно ОПУБЛИКОВАНА.`);
-                break;
+                return true; // Возвращаем успех
             } catch (e) {
                 console.warn(`[!] [Поток #${threadId}] Конфликт при публикации! Попытка ${i + 1}/${maxRetries}. Откат и ожидание ${retryDelay}с...`);
                 await execa('git', ['rebase', '--abort']).catch(() => {});
@@ -240,16 +233,11 @@ async function commitPushAndNotify(filePath, topic) {
                 await new Promise(resolve => setTimeout(resolve, retryDelay * 1000));
             }
         }
-
-        if (success) {
-            // Отправляем в IndexNow ТОЛЬКО ПОСЛЕ УСПЕШНОГО PUSH
-            await notifyIndexNow(newUrl);
-        } else {
-            throw new Error('Не удалось опубликовать изменения после нескольких попыток.');
-        }
+        
+        throw new Error('Не удалось опубликовать изменения после нескольких попыток.');
     } catch (error) {
         console.error(`[!] [Поток #${threadId}] Критическая ошибка при публикации статьи "${topic}":`, error.stderr || error.message);
-        // Не прерываем весь поток, просто сообщаем об ошибке с конкретным файлом
+        return false; // Возвращаем неудачу
     }
 }
 
@@ -309,8 +297,12 @@ async function main() {
                 await fs.writeFile(filePath, fullContent);
                 console.log(`[Поток #${threadId}] [✔] Статья "${topic}" успешно сгенерирована.`);
                 
-                // ИСПРАВЛЕНИЕ: Вызываем новую объединенную функцию
-                await commitPushAndNotify(filePath, topic);
+                const isPublished = await commitAndPush(filePath, topic);
+                
+                if (isPublished) {
+                    const newUrl = `${SITE_URL}/blog/${slug}/`;
+                    await notifyIndexNow(newUrl);
+                }
 
                 await new Promise(resolve => setTimeout(resolve, 1000));
             } catch (e) {
@@ -328,4 +320,4 @@ async function main() {
     }
 }
 
-main();```
+main();
