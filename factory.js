@@ -1,10 +1,11 @@
-// Файл: factory.js (Версия 7.1 «Чистый генератор»)
+// Файл: factory.js (Версия 7.0 «Пуленепробиваемый»)
 import { GoogleGenerativeAI } from '@google/generative-ai';
 import fs from 'fs/promises';
 import path from 'path';
 import fetch from 'node-fetch';
 import { execa } from 'execa';
 
+// ... (ВСЕ КОНСТАНТЫ И ВСПОМОГАТЕЛЬНЫЕ ФУНКЦИИ до generatePost остаются БЕЗ ИЗМЕНЕНИЙ) ...
 // --- НАСТРОЙКИ ОПЕРАЦИИ ---
 const TARGET_URL_MAIN = "https://butlerspb.ru";
 const TOPICS_FILE = 'topics.txt';
@@ -132,6 +133,22 @@ async function generateWithRetry(prompt, maxRetries = 4) {
     throw new Error(`[Поток #${threadId}] Не удалось получить ответ от модели ${modelChoice} после ${maxRetries} попыток.`);
 }
 
+async function notifyIndexNow(url) {
+    console.log(`📢 [Поток #${threadId}] Отправляю уведомление для ${url} в IndexNow...`);
+    const API_KEY = "d1b055ab1eb146d892169bbb2c96550e";
+    const HOST = "butlerspb-blog.netlify.app";
+    
+    const payload = JSON.stringify({ host: HOST, key: API_KEY, urlList: [url] });
+
+    try {
+        await execa('curl', ['-X', 'POST', 'https://yandex.com/indexnow', '-H', 'Content-Type: application/json; charset=utf-8', '-d', payload]);
+        await execa('curl', ['-X', 'POST', 'https://www.bing.com/indexnow', '-H', 'Content-Type: application/json; charset=utf-8', '-d', payload]);
+        console.log(`[✔] [Поток #${threadId}] Уведомление для ${url} успешно отправлено.`);
+    } catch (error) {
+        console.error(`[!] [Поток #${threadId}] Ошибка при отправке в IndexNow для ${url}:`, error.stderr);
+    }
+}
+
 async function generatePost(topic, slug, interlinks) {
     console.log(`[+] [Поток #${threadId}] Генерирую статью на тему: ${topic}`);
     
@@ -196,6 +213,38 @@ ${articleText}
     return frontmatter;
 }
 
+async function commitAndPush(filePath, topic) {
+    try {
+        await execa('git', ['add', filePath]);
+        await execa('git', ['commit', '-m', `🚀 Авто-публикация: ${topic}`]);
+        
+        let success = false;
+        const maxRetries = 5;
+        const retryDelay = 10;
+
+        for (let i = 0; i < maxRetries; i++) {
+            try {
+                await execa('git', ['pull', '--rebase']);
+                await execa('git', ['push']);
+                success = true;
+                console.log(`[✔] [Поток #${threadId}] Файл ${path.basename(filePath)} успешно опубликован.`);
+                break;
+            } catch (e) {
+                console.warn(`[!] [Поток #${threadId}] Конфликт при публикации! Попытка ${i + 1}/${maxRetries}. Откат и ожидание ${retryDelay}с...`);
+                await execa('git', ['rebase', '--abort']).catch(() => {}); // На случай если rebase не начался
+                await new Promise(resolve => setTimeout(resolve, retryDelay * 1000));
+            }
+        }
+        if (!success) {
+            throw new Error('Не удалось опубликовать изменения после нескольких попыток.');
+        }
+    } catch (error) {
+        console.error(`[!] [Поток #${threadId}] Критическая ошибка при публикации файла ${path.basename(filePath)}:`, error.stderr || error.message);
+        // Не прерываем поток, просто логируем ошибку
+    }
+}
+
+
 async function main() {
     console.log(`[Поток #${threadId}] Запуск рабочего потока...`);
 
@@ -242,17 +291,23 @@ async function main() {
                 const slug = slugify(topic);
                 if (!slug) continue;
                 
+                const filePath = path.join(postsDir, `${slug}.md`);
+
                 let randomInterlinks = [];
                 if (allPostsForLinking.length > 0) {
                     randomInterlinks = [...allPostsForLinking].sort(() => 0.5 - Math.random()).slice(0, 3);
                 }
                 
                 const fullContent = await generatePost(topic, slug, randomInterlinks);
-                const filePath = path.join(postsDir, `${slug}.md`);
                 await fs.writeFile(filePath, fullContent);
                 console.log(`[Поток #${threadId}] [✔] Статья "${topic}" успешно сгенерирована.`);
                 
-                await new Promise(resolve => setTimeout(resolve, 1000));
+                // --- ПУБЛИКАЦИЯ И ИНДЕКСАЦИЯ СРАЗУ ---
+                await commitAndPush(filePath, topic);
+                const newUrl = `${SITE_URL}/blog/${slug}/`;
+                await notifyIndexNow(newUrl);
+
+                await new Promise(resolve => setTimeout(resolve, 1000)); // Небольшая пауза между статьями
             } catch (e) {
                 console.error(`[!] [Поток #${threadId}] Ошибка при обработке темы "${topic}": ${e.message}`);
                 if (e.message.includes('429') || e.message.includes('API key')) {
