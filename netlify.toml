@@ -3,10 +3,13 @@
 [build]
   publish = "dist"
   command = "NODE_OPTIONS='--max-old-space-size=4096' npm run build"
-  
+
+# Переменные окружения
 [build.environment]
   NODE_VERSION = "18"
   NPM_VERSION = "9"
+  ASTRO_TELEMETRY_DISABLED = "1"
+  NODE_ENV = "production"
   
 # Настройки деплоя
 [context.production]
@@ -110,8 +113,3 @@
 [functions]
   directory = "functions"
   node_bundler = "esbuild"
-
-# Переменные окружения (публичные)
-[build.environment]
-  ASTRO_TELEMETRY_DISABLED = "1"
-  NODE_ENV = "production"
