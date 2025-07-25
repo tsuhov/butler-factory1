@@ -1,0 +1,43 @@
+name: 🧹 Git Conflicts Cleanup
+
+on:
+  workflow_dispatch:
+
+jobs:
+  cleanup-conflicts:
+    permissions:
+      contents: write
+      
+    runs-on: ubuntu-latest
+    steps:
+      - name: ⬇️ Checkout repo
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: ⚙️ Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: 📦 Install dependencies
+        run: npm install
+
+      - name: 🧹 Clean Git Conflicts
+        run: node emergency-git-cleanup.js
+
+      - name: 🚀 Commit Cleanup
+        run: |
+          git config --global user.name 'GitHub Actions Bot'
+          git config --global user.email 'actions-bot@github.com'
+          
+          if [[ -z $(git status --porcelain) ]]; then
+            echo "✅ Конфликтов не найдено. Все файлы чистые."
+            exit 0
+          fi
+
+          echo "🔥 Найдены и удалены файлы с Git конфликтами. Публикую..."
+          git add .
+          git commit -m "🧹 Экстренная очистка Git конфликтов"
+          git pull --rebase
+          git push
