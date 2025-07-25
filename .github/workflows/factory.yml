@@ -14,7 +14,7 @@ on:
       batch_size_per_thread:
         description: 'Сколько статей генерировать КАЖДЫМ потоком?'
         required: true
-        default: '10'
+        default: '5'
       threads:
         description: 'Сколько потоков запустить ОДНОВРЕМЕННО (1-20)?'
         required: true
@@ -38,6 +38,7 @@ jobs:
           fi
           MATRIX=$(jq -cn --argjson n "$REQUESTED_THREADS" '[range(1; $n + 1)]')
           echo "matrix=$MATRIX" >> $GITHUB_OUTPUT
+
   generate_and_publish:
     needs: prepare
     permissions:
@@ -80,11 +81,12 @@ jobs:
             exit 1
           fi
           echo "key=$CURRENT_KEY" >> $GITHUB_OUTPUT
+
       - name: 🏭 Run Factory & 📢 Publish & Notify (Thread ${{ matrix.thread }})
         env:
           MODEL_CHOICE: ${{ github.event.inputs.model_choice || 'gemini' }}
           API_KEY_CURRENT: ${{ steps.set_key.outputs.key }}
-          BATCH_SIZE: ${{ github.event.inputs.batch_size_per_thread || 10 }}
+          BATCH_SIZE: ${{ github.event.inputs.batch_size_per_thread || 5 }}
           TOTAL_THREADS: ${{ github.event.inputs.threads || 5 }}
           THREAD_ID: ${{ matrix.thread }}
         run: |
@@ -100,12 +102,13 @@ jobs:
             echo "✅ ЭСКАДРОН #${{ matrix.thread }}: Новых статей для этого потока не найдено. Миссия завершена."
             exit 0
           fi
+
           echo "🔥 ЭСКАДРОН #${{ matrix.thread }}: Обнаружены новые файлы. Начинаю процедуру публикации..."
           
           MAX_RETRIES=5
           RETRY_DELAY=5
           for ((i=1; i<=MAX_RETRIES; i++)); do
-            git pull
+            git pull --rebase
             git add src/content/posts/*.md
             git commit --allow-empty -m "🚀 Авто-публикация: пачка от Эскадрона №${{ matrix.thread }}"
             
@@ -132,7 +135,9 @@ jobs:
             echo "📢 ЭСКАДРОН #${{ matrix.thread }}: Подготовка уведомления для IndexNow..."
             API_KEY="d1b055ab1eb146d892169bbb2c96550e"
             HOST="butlerspb-blog.netlify.app"
+
             URL_JSON_ARRAY=$(for file in $NEW_FILES; do slug=$(basename "$file" .md); echo "https://butlerspb-blog.netlify.app/blog/${slug}/"; done | jq -R . | jq -s .)
+
             JSON_PAYLOAD=$(jq -n \
                             --arg host "$HOST" \
                             --arg key "$API_KEY" \
