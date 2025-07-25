@@ -1,4 +1,4 @@
-// Файл: factory.js (Версия 7.3 «Финальная Автономия»)
+// Файл: factory.js (Версия 7.3 «Финальная Автономия - Откат»)
 import { GoogleGenerativeAI } from '@google/generative-ai';
 import fs from 'fs/promises';
 import path from 'path';
@@ -227,15 +227,15 @@ async function commitAndPush(filePath, topic) {
 
         for (let i = 0; i < maxRetries; i++) {
             try {
+                // Синхронизируемся перед отправкой
                 await execa('git', ['pull', '--rebase']);
                 await execa('git', ['push', REPO_URL, 'HEAD:main']);
                 console.log(`[✔] [Поток #${threadId}] Статья "${topic}" успешно ОПУБЛИКОВАНА.`);
                 return true;
             } catch (e) {
                 console.warn(`[!] [Поток #${threadId}] Конфликт при публикации! Попытка ${i + 1}/${maxRetries}. Откат и ожидание ${retryDelay}с...`);
-                await execa('git', ['rebase', '--abort']).catch(() => {});
-                // Важно: reset должен быть до pull'а в следующей итерации
-                await execa('git', ['reset', '--hard', `origin/main`]);
+                // Отменяем неудачный коммит
+                await execa('git', ['reset', '--hard', 'HEAD~1']);
                 await new Promise(resolve => setTimeout(resolve, retryDelay * 1000));
             }
         }
