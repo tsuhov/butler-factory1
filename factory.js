@@ -251,7 +251,7 @@ async function main() {
                 const filePath = path.join(postsDir, `${slug}.md`);
                 await fs.writeFile(filePath, fullContent);
                 console.log(`[Поток #${threadId}] [✔] Статья "${topic}" успешно сгенерирована.`);
-
+                
                 await new Promise(resolve => setTimeout(resolve, 1000));
             } catch (e) {
                 console.error(`[!] [Поток #${threadId}] Ошибка при обработке темы "${topic}": ${e.message}`);
