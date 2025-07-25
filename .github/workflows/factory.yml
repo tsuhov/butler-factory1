@@ -143,7 +143,7 @@ jobs:
           commit_after=$(git rev-parse HEAD)
           commit_before=$(git rev-parse HEAD~1)
           
-          NEW_FILES=$(git diff --name-only $commit_before $commit_before HEAD -- 'src/content/posts/*.md' 2>/dev/null || echo "")
+          NEW_FILES=$(git diff --name-only $commit_before $commit_after -- 'src/content/posts/*.md' 2>/dev/null || echo "")
           
           if [[ -n "$NEW_FILES" ]]; then
             echo "📢 ЭСКАДРОН #${{ matrix.thread }}: Подготовка уведомления для IndexNow..."
