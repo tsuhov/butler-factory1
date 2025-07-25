@@ -5,7 +5,6 @@ import path from 'path';
 import fetch from 'node-fetch';
 import { execa } from 'execa';
 
-// ... (ВСЕ КОНСТАНТЫ И ВСПОМОГАТЕЛЬНЫЕ ФУНКЦИИ до generatePost остаются БЕЗ ИЗМЕНЕНИЙ) ...
 // --- НАСТРОЙКИ ОПЕРАЦИИ ---
 const TARGET_URL_MAIN = "https://butlerspb.ru";
 const TOPICS_FILE = 'topics.txt';
@@ -213,38 +212,6 @@ ${articleText}
     return frontmatter;
 }
 
-async function commitAndPush(filePath, topic) {
-    try {
-        await execa('git', ['add', filePath]);
-        await execa('git', ['commit', '-m', `🚀 Авто-публикация: ${topic}`]);
-        
-        let success = false;
-        const maxRetries = 5;
-        const retryDelay = 10;
-
-        for (let i = 0; i < maxRetries; i++) {
-            try {
-                await execa('git', ['pull', '--rebase']);
-                await execa('git', ['push']);
-                success = true;
-                console.log(`[✔] [Поток #${threadId}] Файл ${path.basename(filePath)} успешно опубликован.`);
-                break;
-            } catch (e) {
-                console.warn(`[!] [Поток #${threadId}] Конфликт при публикации! Попытка ${i + 1}/${maxRetries}. Откат и ожидание ${retryDelay}с...`);
-                await execa('git', ['rebase', '--abort']).catch(() => {}); // На случай если rebase не начался
-                await new Promise(resolve => setTimeout(resolve, retryDelay * 1000));
-            }
-        }
-        if (!success) {
-            throw new Error('Не удалось опубликовать изменения после нескольких попыток.');
-        }
-    } catch (error) {
-        console.error(`[!] [Поток #${threadId}] Критическая ошибка при публикации файла ${path.basename(filePath)}:`, error.stderr || error.message);
-        // Не прерываем поток, просто логируем ошибку
-    }
-}
-
-
 async function main() {
     console.log(`[Поток #${threadId}] Запуск рабочего потока...`);
 
@@ -300,10 +267,9 @@ async function main() {
                 
                 const fullContent = await generatePost(topic, slug, randomInterlinks);
                 await fs.writeFile(filePath, fullContent);
-                console.log(`[Поток #${threadId}] [✔] Статья "${topic}" успешно сгенерирована.`);
+                console.log(`[Поток #${threadId}] [✔] Статья "${topic}" успешно создана.`);
                 
-                // --- ПУБЛИКАЦИЯ И ИНДЕКСАЦИЯ СРАЗУ ---
-                await commitAndPush(filePath, topic);
+                // ТОЛЬКО IndexNow уведомления - БЕЗ git операций!
                 const newUrl = `${SITE_URL}/blog/${slug}/`;
                 await notifyIndexNow(newUrl);
 
