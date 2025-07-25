@@ -1,10 +1,47 @@
 ---
-title: "Что такое коворкинг и как открыть свой: полный гайд от ButlerSPB"
-description: "Коворкинг — это не просто аренда рабочего места, а целая философия продуктивности и сообщества. В нашей новой статье мы подробно разбираем, что такое коворкинг, кому он подходит и какие преимущества дает. А для тех, кто мечтает о собственном бизнесе, команда ButlerSPB подготовила пошаговую инструкцию, как открыть успешный коворкинг с нуля: от бизнес-плана и выбора локации до создания уникальной атмосферы и привлечения первых резидентов."
-pubDate: "2025-07-23T22:09:46.519Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Что такое коворкинг и как открыть свой: полный гайд от ButlerSPB","description":"Коворкинг — это не просто аренда рабочего места, а целая философия продуктивности и сообщества. В нашей новой статье мы подробно разбираем, что такое коворкинг, кому он подходит и какие преимущества дает. А для тех, кто мечтает о собственном бизнесе, команда ButlerSPB подготовила пошаговую инструкцию, как открыть успешный коворкинг с нуля: от бизнес-плана и выбора локации до создания уникальной атмосферы и привлечения первых резидентов.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"5.0","reviewCount":543,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/chto-takoe-kovorking-i-kak-otkryt-svoy/"}}
+title: 'Что такое коворкинг и как открыть свой: полный гайд от ButlerSPB'
+description: >-
+  Коворкинг — это не просто аренда рабочего места, а целая философия
+  продуктивности и сообщества. В нашей новой статье мы подробно разбираем, что
+  такое коворкинг, кому он подходит и какие преимущества дает. А для тех, кто
+  мечтает о собственном бизнесе, команда ButlerSPB подготовила пошаговую
+  инструкцию, как открыть успешный коворкинг с нуля: от бизнес-плана и выбора
+  локации до создания уникальной атмосферы и привлечения первых резидентов.
+pubDate: '2025-07-23T22:09:46.519Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Что такое коворкинг и как открыть свой: полный гайд от ButlerSPB'
+  description: >-
+    Коворкинг — это не просто аренда рабочего места, а целая философия
+    продуктивности и сообщества. В нашей новой статье мы подробно разбираем, что
+    такое коворкинг, кому он подходит и какие преимущества дает. А для тех, кто
+    мечтает о собственном бизнесе, команда ButlerSPB подготовила пошаговую
+    инструкцию, как открыть успешный коворкинг с нуля: от бизнес-плана и выбора
+    локации до создания уникальной атмосферы и привлечения первых резидентов.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.9'
+    reviewCount: 603
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/chto-takoe-kovorking-i-kak-otkryt-svoy/
 ---
 
 # Как открыть свой коворкинг в Санкт-Петербурге: пошаговый гид от идеи до прибыли

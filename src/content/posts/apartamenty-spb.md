@@ -1,11 +1,39 @@
 ---
-title: "Апартаменты в СПб: ваш гид от ButlerSPB"
-description: "Планируете снять апартаменты в Санкт-Петербурге? Наш гид от ButlerSPB поможет найти идеальный вариант. Сравним районы, цены и преимущества такого жилья."
-keywords: "апартаменты спб, аренда апартаментов, снять жилье в спб, butler spb, недвижимость санкт-петербург, краткосрочная аренда"
-pubDate: "2025-07-25T14:17:07.302Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Апартаменты в СПб: ваш гид от ButlerSPB","description":"Планируете снять апартаменты в Санкт-Петербурге? Наш гид от ButlerSPB поможет найти идеальный вариант. Сравним районы, цены и преимущества такого жилья.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.8","reviewCount":757,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/apartamenty-spb/"}}
+title: 'Апартаменты в СПб: ваш гид от ButlerSPB'
+description: >-
+  Планируете снять апартаменты в Санкт-Петербурге? Наш гид от ButlerSPB поможет
+  найти идеальный вариант. Сравним районы, цены и преимущества такого жилья.
+pubDate: '2025-07-25T14:17:07.302Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Апартаменты в СПб: ваш гид от ButlerSPB'
+  description: >-
+    Планируете снять апартаменты в Санкт-Петербурге? Наш гид от ButlerSPB
+    поможет найти идеальный вариант. Сравним районы, цены и преимущества такого
+    жилья.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.7'
+    reviewCount: 665
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': 'https://butlerspb-blog.netlify.app/blog/apartamenty-spb/'
 ---
 # Апартаменты в Санкт-Петербурге: Ваш гид по выбору идеального дома вдали от дома
 

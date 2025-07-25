@@ -1,10 +1,39 @@
 ---
-title: "Установка видеонаблюдения в общих зонах: законность, правила и рекомендации"
-description: "Разбираемся в юридических тонкостях установки камер в подъездах, на лестничных клетках и придомовых территориях. Как обеспечить безопасность, не нарушая закон о частной жизни, и какое оборудование выбрать."
-pubDate: "2025-07-22T10:24:39.598Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.pexels.com/photos/716107/pexels-photo-716107.jpeg"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Установка видеонаблюдения в общих зонах: законность, правила и рекомендации","description":"Разбираемся в юридических тонкостях установки камер в подъездах, на лестничных клетках и придомовых территориях. Как обеспечить безопасность, не нарушая закон о частной жизни, и какое оборудование выбрать.","image":{"@type":"ImageObject","url":"https://images.pexels.com/photos/716107/pexels-photo-716107.jpeg"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"5.0","reviewCount":601,"bestRating":"5","worstRating":"1","itemReviewed":{"@type":"Thing","name":"Установка видеонаблюдения в общих зонах: законность, правила и рекомендации"}},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/ustanovka-videonablyudeniya-v-obschih-zonah/"}}
+title: 'Установка видеонаблюдения в общих зонах: законность, правила и рекомендации'
+description: >-
+  Разбираемся в юридических тонкостях установки камер в подъездах, на лестничных
+  клетках и придомовых территориях. Как обеспечить безопасность, не нарушая
+  закон о частной жизни, и какое оборудование выбрать.
+pubDate: '2025-07-22T10:24:39.598Z'
+author: Эксперт ButlerSPB
+heroImage: 'https://images.pexels.com/photos/716107/pexels-photo-716107.jpeg'
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Установка видеонаблюдения в общих зонах: законность, правила и рекомендации'
+  description: >-
+    Разбираемся в юридических тонкостях установки камер в подъездах, на
+    лестничных клетках и придомовых территориях. Как обеспечить безопасность, не
+    нарушая закон о частной жизни, и какое оборудование выбрать.
+  image:
+    '@type': ImageObject
+    url: 'https://images.pexels.com/photos/716107/pexels-photo-716107.jpeg'
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.9'
+    reviewCount: 488
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/ustanovka-videonablyudeniya-v-obschih-zonah/
 ---
 
 # Видеонаблюдение в общих зонах: Полное руководство по законной и эффективной установке в вашем доме

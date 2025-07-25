@@ -1,10 +1,45 @@
 ---
-title: "Создание «инстаграмной» квартиры: как дизайн увеличивает доходность"
-description: "В условиях высокой конкуренции на рынке аренды выигрывает тот, кто предлагает не просто квадратные метры, а впечатления. Команда ButlerSPB делится секретами создания фотогеничных интерьеров, которые привлекают гостей, получают восторженные отзывы и повышают стоимость аренды. Узнайте, как инвестиции в дизайн окупаются многократно."
-pubDate: "2025-07-23T11:08:07.950Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Создание «инстаграмной» квартиры: как дизайн увеличивает доходность","description":"В условиях высокой конкуренции на рынке аренды выигрывает тот, кто предлагает не просто квадратные метры, а впечатления. Команда ButlerSPB делится секретами создания фотогеничных интерьеров, которые привлекают гостей, получают восторженные отзывы и повышают стоимость аренды. Узнайте, как инвестиции в дизайн окупаются многократно.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":900,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/sozdanie-instagramnoy-kvartiry-kak-dizayn-uvelichivaet-dohodnost/"}}
+title: 'Создание «инстаграмной» квартиры: как дизайн увеличивает доходность'
+description: >-
+  В условиях высокой конкуренции на рынке аренды выигрывает тот, кто предлагает
+  не просто квадратные метры, а впечатления. Команда ButlerSPB делится секретами
+  создания фотогеничных интерьеров, которые привлекают гостей, получают
+  восторженные отзывы и повышают стоимость аренды. Узнайте, как инвестиции в
+  дизайн окупаются многократно.
+pubDate: '2025-07-23T11:08:07.950Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Создание «инстаграмной» квартиры: как дизайн увеличивает доходность'
+  description: >-
+    В условиях высокой конкуренции на рынке аренды выигрывает тот, кто
+    предлагает не просто квадратные метры, а впечатления. Команда ButlerSPB
+    делится секретами создания фотогеничных интерьеров, которые привлекают
+    гостей, получают восторженные отзывы и повышают стоимость аренды. Узнайте,
+    как инвестиции в дизайн окупаются многократно.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.8'
+    reviewCount: 736
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/sozdanie-instagramnoy-kvartiry-kak-dizayn-uvelichivaet-dohodnost/
 ---
 
 # Создание "инстаграмной" квартиры: Как продуманный дизайн увеличивает вашу доходность на 30% и более

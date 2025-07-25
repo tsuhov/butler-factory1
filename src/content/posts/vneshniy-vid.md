@@ -1,11 +1,38 @@
 ---
-title: "Внешний вид: первое впечатление и его роль"
-description: "Ваш внешний вид — это визитная карточка, создающая первое и самое стойкое впечатление. В ButlerSPB мы знаем, как важны детали для безупречного имиджа."
-keywords: "внешний вид, имидж, стиль, дресс-код, уход за собой, ButlerSPB, первое впечатление"
-pubDate: "2025-07-25T16:15:03.802Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Внешний вид: первое впечатление и его роль","description":"Ваш внешний вид — это визитная карточка, создающая первое и самое стойкое впечатление. В ButlerSPB мы знаем, как важны детали для безупречного имиджа.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.8","reviewCount":451,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/vneshniy-vid/"}}
+title: 'Внешний вид: первое впечатление и его роль'
+description: >-
+  Ваш внешний вид — это визитная карточка, создающая первое и самое стойкое
+  впечатление. В ButlerSPB мы знаем, как важны детали для безупречного имиджа.
+pubDate: '2025-07-25T16:15:03.802Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Внешний вид: первое впечатление и его роль'
+  description: >-
+    Ваш внешний вид — это визитная карточка, создающая первое и самое стойкое
+    впечатление. В ButlerSPB мы знаем, как важны детали для безупречного имиджа.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '5.0'
+    reviewCount: 615
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': 'https://butlerspb-blog.netlify.app/blog/vneshniy-vid/'
 ---
 # Внешний вид как актив: полное руководство по созданию имиджа успешного человека
 

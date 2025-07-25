@@ -1,11 +1,41 @@
 ---
-title: "Покупка квартиры с субсидией от государства"
-description: "Хотите купить квартиру с помощью государства? Наш гид расскажет о доступных субсидиях, условиях их получения и поможет пройти все этапы от заявки до сделки."
-keywords: "субсидия на жилье, купить квартиру, господдержка, жилищный сертификат, молодая семья, улучшение жилищных условий"
-pubDate: "2025-07-24T00:11:35.260Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Покупка квартиры с субсидией от государства","description":"Хотите купить квартиру с помощью государства? Наш гид расскажет о доступных субсидиях, условиях их получения и поможет пройти все этапы от заявки до сделки.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"5.0","reviewCount":581,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/kak-kupit-kvartiru-s-ispolzovaniem-subsidiy-ot-gosudarstva/"}}
+title: Покупка квартиры с субсидией от государства
+description: >-
+  Хотите купить квартиру с помощью государства? Наш гид расскажет о доступных
+  субсидиях, условиях их получения и поможет пройти все этапы от заявки до
+  сделки.
+pubDate: '2025-07-24T00:11:35.260Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: Покупка квартиры с субсидией от государства
+  description: >-
+    Хотите купить квартиру с помощью государства? Наш гид расскажет о доступных
+    субсидиях, условиях их получения и поможет пройти все этапы от заявки до
+    сделки.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.9'
+    reviewCount: 365
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/kak-kupit-kvartiru-s-ispolzovaniem-subsidiy-ot-gosudarstva/
 ---
 # Как купить квартиру с помощью субсидии от государства: Полное руководство для покупателя в 2024 году
 

@@ -1,10 +1,47 @@
 ---
-title: "Военная ипотека в Санкт-Петербурге: как военнослужащему купить квартиру. Полный гайд от ButlerSPB"
-description: "Пошаговая инструкция по покупке квартиры в СПб по военной ипотеке в 2024 году. Разбираем все этапы: от вступления в НИС и получения свидетельства до выбора банка, одобрения объекта и заключения сделки. Узнайте о подводных камнях и о том, как эксперты ButlerSPB помогут вам купить лучшую квартиру."
-pubDate: "2025-07-23T12:17:46.843Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Военная ипотека в Санкт-Петербурге: как военнослужащему купить квартиру. Полный гайд от ButlerSPB","description":"Пошаговая инструкция по покупке квартиры в СПб по военной ипотеке в 2024 году. Разбираем все этапы: от вступления в НИС и получения свидетельства до выбора банка, одобрения объекта и заключения сделки. Узнайте о подводных камнях и о том, как эксперты ButlerSPB помогут вам купить лучшую квартиру.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.8","reviewCount":360,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/kak-kupit-kvartiru-v-sankt-peterburge-po-voennoy-ipoteke/"}}
+title: >-
+  Военная ипотека в Санкт-Петербурге: как военнослужащему купить квартиру.
+  Полный гайд от ButlerSPB
+description: >-
+  Пошаговая инструкция по покупке квартиры в СПб по военной ипотеке в 2024 году.
+  Разбираем все этапы: от вступления в НИС и получения свидетельства до выбора
+  банка, одобрения объекта и заключения сделки. Узнайте о подводных камнях и о
+  том, как эксперты ButlerSPB помогут вам купить лучшую квартиру.
+pubDate: '2025-07-23T12:17:46.843Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: >-
+    Военная ипотека в Санкт-Петербурге: как военнослужащему купить квартиру.
+    Полный гайд от ButlerSPB
+  description: >-
+    Пошаговая инструкция по покупке квартиры в СПб по военной ипотеке в 2024
+    году. Разбираем все этапы: от вступления в НИС и получения свидетельства до
+    выбора банка, одобрения объекта и заключения сделки. Узнайте о подводных
+    камнях и о том, как эксперты ButlerSPB помогут вам купить лучшую квартиру.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.7'
+    reviewCount: 323
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/kak-kupit-kvartiru-v-sankt-peterburge-po-voennoy-ipoteke/
 ---
 
 # Как купить квартиру в Санкт-Петербурге по военной ипотеке в 2024 году: Полное пошаговое руководство

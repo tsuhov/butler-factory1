@@ -1,10 +1,52 @@
 ---
-title: "Делимобиль, Яндекс.Драйв или Ситидрайв: какой каршеринг выбрать? Сравнительный анализ от ButlerSPB"
-description: "Рынок каршеринга в России переполнен предложениями, но три гиганта выделяются особенно ярко. Команда ButlerSPB провела детальное сравнение Делимобиля, Яндекс.Драйва и Ситидрайва, чтобы помочь вам сделать осознанный выбор. В нашей статье мы разбираем все ключевые аспекты: от стоимости минуты и разнообразия автопарка до удобства приложения и скрытых условий. Узнайте, какой сервис лучше подходит для коротких поездок, а какой — для дальних путешествий."
-pubDate: "2025-07-22T11:48:42.610Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Делимобиль, Яндекс.Драйв или Ситидрайв: какой каршеринг выбрать? Сравнительный анализ от ButlerSPB","description":"Рынок каршеринга в России переполнен предложениями, но три гиганта выделяются особенно ярко. Команда ButlerSPB провела детальное сравнение Делимобиля, Яндекс.Драйва и Ситидрайва, чтобы помочь вам сделать осознанный выбор. В нашей статье мы разбираем все ключевые аспекты: от стоимости минуты и разнообразия автопарка до удобства приложения и скрытых условий. Узнайте, какой сервис лучше подходит для коротких поездок, а какой — для дальних путешествий.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":851,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/sravnenie-populyarnyh-servisov-delimobil-yandeksdrayv-sitidrayv/"}}
+title: >-
+  Делимобиль, Яндекс.Драйв или Ситидрайв: какой каршеринг выбрать? Сравнительный
+  анализ от ButlerSPB
+description: >-
+  Рынок каршеринга в России переполнен предложениями, но три гиганта выделяются
+  особенно ярко. Команда ButlerSPB провела детальное сравнение Делимобиля,
+  Яндекс.Драйва и Ситидрайва, чтобы помочь вам сделать осознанный выбор. В нашей
+  статье мы разбираем все ключевые аспекты: от стоимости минуты и разнообразия
+  автопарка до удобства приложения и скрытых условий. Узнайте, какой сервис
+  лучше подходит для коротких поездок, а какой — для дальних путешествий.
+pubDate: '2025-07-22T11:48:42.610Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: >-
+    Делимобиль, Яндекс.Драйв или Ситидрайв: какой каршеринг выбрать?
+    Сравнительный анализ от ButlerSPB
+  description: >-
+    Рынок каршеринга в России переполнен предложениями, но три гиганта
+    выделяются особенно ярко. Команда ButlerSPB провела детальное сравнение
+    Делимобиля, Яндекс.Драйва и Ситидрайва, чтобы помочь вам сделать осознанный
+    выбор. В нашей статье мы разбираем все ключевые аспекты: от стоимости минуты
+    и разнообразия автопарка до удобства приложения и скрытых условий. Узнайте,
+    какой сервис лучше подходит для коротких поездок, а какой — для дальних
+    путешествий.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.7'
+    reviewCount: 323
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/sravnenie-populyarnyh-servisov-delimobil-yandeksdrayv-sitidrayv/
 ---
 
 # Делимобиль, Яндекс.Драйв или Ситидрайв: Детальный разбор и сравнение для водителей в Санкт-Петербурге

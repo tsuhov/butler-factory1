@@ -1,10 +1,42 @@
 ---
-title: "Предотвращение мошенничества при бронировании: топ-5 схем"
-description: "Планируете поездку? Будьте начеку! В новой статье блога ButlerSPB мы разбираем 5 самых распространенных схем мошенничества при бронировании жилья. Узнайте, как распознать обман и защитить свои деньги и отпуск от неприятных сюрпризов."
-pubDate: "2025-07-22T10:59:31.904Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Предотвращение мошенничества при бронировании: топ-5 схем","description":"Планируете поездку? Будьте начеку! В новой статье блога ButlerSPB мы разбираем 5 самых распространенных схем мошенничества при бронировании жилья. Узнайте, как распознать обман и защитить свои деньги и отпуск от неприятных сюрпризов.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.7","reviewCount":739,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/predotvraschenie-moshennichestva-pri-bronirovanii-top-5-shem/"}}
+title: 'Предотвращение мошенничества при бронировании: топ-5 схем'
+description: >-
+  Планируете поездку? Будьте начеку! В новой статье блога ButlerSPB мы разбираем
+  5 самых распространенных схем мошенничества при бронировании жилья. Узнайте,
+  как распознать обман и защитить свои деньги и отпуск от неприятных сюрпризов.
+pubDate: '2025-07-22T10:59:31.904Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Предотвращение мошенничества при бронировании: топ-5 схем'
+  description: >-
+    Планируете поездку? Будьте начеку! В новой статье блога ButlerSPB мы
+    разбираем 5 самых распространенных схем мошенничества при бронировании
+    жилья. Узнайте, как распознать обман и защитить свои деньги и отпуск от
+    неприятных сюрпризов.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '5.0'
+    reviewCount: 739
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/predotvraschenie-moshennichestva-pri-bronirovanii-top-5-shem/
 ---
 
 # Полное руководство по безопасности: как распознать и избежать 5 популярных схем мошенников при аренде жилья

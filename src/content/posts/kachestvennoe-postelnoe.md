@@ -1,11 +1,40 @@
 ---
-title: "Гид по выбору качественного постельного белья"
-description: "Узнайте, как выбрать идеальное постельное белье, которое подарит комфорт и прослужит годы. В этой статье от ButlerSPB мы раскроем секреты материалов и ухода."
-keywords: "постельное белье, качественное белье, выбрать постельное белье, сатин, хлопок, уход за бельем, ButlerSPB"
-pubDate: "2025-07-25T16:09:37.124Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Гид по выбору качественного постельного белья","description":"Узнайте, как выбрать идеальное постельное белье, которое подарит комфорт и прослужит годы. В этой статье от ButlerSPB мы раскроем секреты материалов и ухода.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.8","reviewCount":693,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/kachestvennoe-postelnoe/"}}
+title: Гид по выбору качественного постельного белья
+description: >-
+  Узнайте, как выбрать идеальное постельное белье, которое подарит комфорт и
+  прослужит годы. В этой статье от ButlerSPB мы раскроем секреты материалов и
+  ухода.
+pubDate: '2025-07-25T16:09:37.124Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: Гид по выбору качественного постельного белья
+  description: >-
+    Узнайте, как выбрать идеальное постельное белье, которое подарит комфорт и
+    прослужит годы. В этой статье от ButlerSPB мы раскроем секреты материалов и
+    ухода.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.7'
+    reviewCount: 668
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': 'https://butlerspb-blog.netlify.app/blog/kachestvennoe-postelnoe/'
 ---
 # Качественное постельное белье — не роскошь, а инвестиция в ваш сон. Полный гид по выбору
 

@@ -1,10 +1,45 @@
 ---
-title: "Что такое квартира с мансардой: все плюсы и минусы жизни под крышей"
-description: "Мечтаете о квартире с мансардой? В новой статье блога ButlerSPB разбираемся, что скрывается за романтичным образом. Анализируем все преимущества (уникальная планировка, виды из окон, простор) и недостатки (скошенные потолки, сложности с ремонтом, температурный режим) такого жилья. Помогаем сделать взвешенный выбор."
-pubDate: "2025-07-23T11:51:59.467Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Что такое квартира с мансардой: все плюсы и минусы жизни под крышей","description":"Мечтаете о квартире с мансардой? В новой статье блога ButlerSPB разбираемся, что скрывается за романтичным образом. Анализируем все преимущества (уникальная планировка, виды из окон, простор) и недостатки (скошенные потолки, сложности с ремонтом, температурный режим) такого жилья. Помогаем сделать взвешенный выбор.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"5.0","reviewCount":897,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/chto-takoe-kvartira-s-mansardoy-plyusy-i-minusy/"}}
+title: 'Что такое квартира с мансардой: все плюсы и минусы жизни под крышей'
+description: >-
+  Мечтаете о квартире с мансардой? В новой статье блога ButlerSPB разбираемся,
+  что скрывается за романтичным образом. Анализируем все преимущества
+  (уникальная планировка, виды из окон, простор) и недостатки (скошенные
+  потолки, сложности с ремонтом, температурный режим) такого жилья. Помогаем
+  сделать взвешенный выбор.
+pubDate: '2025-07-23T11:51:59.467Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Что такое квартира с мансардой: все плюсы и минусы жизни под крышей'
+  description: >-
+    Мечтаете о квартире с мансардой? В новой статье блога ButlerSPB разбираемся,
+    что скрывается за романтичным образом. Анализируем все преимущества
+    (уникальная планировка, виды из окон, простор) и недостатки (скошенные
+    потолки, сложности с ремонтом, температурный режим) такого жилья. Помогаем
+    сделать взвешенный выбор.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '5.0'
+    reviewCount: 435
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/chto-takoe-kvartira-s-mansardoy-plyusy-i-minusy/
 ---
 
 # Квартира с мансардой: романтика под крышей или череда проблем? Полный гид по выбору от экспертов ButlerSPB

@@ -1,11 +1,39 @@
 ---
-title: "Искусство службы высшего класса от ButlerSPB"
-description: "В ButlerSPB мы верим, что настоящая служба — это искусство. Узнайте, как наши стандарты превосходят ожидания, создавая безупречный опыт для каждого клиента."
-keywords: "butlerspb, служба высшего класса, консьерж-сервис, премиум обслуживание, персональный ассистент, элитный сервис, СПб"
-pubDate: "2025-07-24T13:42:08.457Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Искусство службы высшего класса от ButlerSPB","description":"В ButlerSPB мы верим, что настоящая служба — это искусство. Узнайте, как наши стандарты превосходят ожидания, создавая безупречный опыт для каждого клиента.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.8","reviewCount":701,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/sluzhba-vysshego/"}}
+title: Искусство службы высшего класса от ButlerSPB
+description: >-
+  В ButlerSPB мы верим, что настоящая служба — это искусство. Узнайте, как наши
+  стандарты превосходят ожидания, создавая безупречный опыт для каждого клиента.
+pubDate: '2025-07-24T13:42:08.457Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: Искусство службы высшего класса от ButlerSPB
+  description: >-
+    В ButlerSPB мы верим, что настоящая служба — это искусство. Узнайте, как
+    наши стандарты превосходят ожидания, создавая безупречный опыт для каждого
+    клиента.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.9'
+    reviewCount: 445
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': 'https://butlerspb-blog.netlify.app/blog/sluzhba-vysshego/'
 ---
 # Искусство жить без забот: Что такое современная служба батлера и как она меняет всё
 

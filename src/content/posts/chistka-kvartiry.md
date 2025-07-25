@@ -1,11 +1,40 @@
 ---
-title: "Секреты идеальной чистки квартиры от ButlerSPB"
-description: "Узнайте, как превратить уборку в эффективный процесс. Эксперты ButlerSPB делятся лайфхаками для поддержания идеальной чистоты и уюта в вашем доме каждый день."
-keywords: "чистка квартиры, уборка дома, клининг спб, ButlerSPB, советы по уборке, профессиональная чистка"
-pubDate: "2025-07-25T16:36:23.688Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Секреты идеальной чистки квартиры от ButlerSPB","description":"Узнайте, как превратить уборку в эффективный процесс. Эксперты ButlerSPB делятся лайфхаками для поддержания идеальной чистоты и уюта в вашем доме каждый день.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.8","reviewCount":470,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/chistka-kvartiry/"}}
+title: Секреты идеальной чистки квартиры от ButlerSPB
+description: >-
+  Узнайте, как превратить уборку в эффективный процесс. Эксперты ButlerSPB
+  делятся лайфхаками для поддержания идеальной чистоты и уюта в вашем доме
+  каждый день.
+pubDate: '2025-07-25T16:36:23.688Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: Секреты идеальной чистки квартиры от ButlerSPB
+  description: >-
+    Узнайте, как превратить уборку в эффективный процесс. Эксперты ButlerSPB
+    делятся лайфхаками для поддержания идеальной чистоты и уюта в вашем доме
+    каждый день.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.8'
+    reviewCount: 531
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': 'https://butlerspb-blog.netlify.app/blog/chistka-kvartiry/'
 ---
 # Чистка квартиры: Полное руководство по созданию идеального порядка от экспертов ButlerSPB
 

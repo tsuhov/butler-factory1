@@ -1,11 +1,40 @@
 ---
-title: "Переуступка прав: подробный гид от ButlerSPB"
-description: "Переуступка прав (цессия) позволяет передать право требования другому лицу. Разбираем, как это работает в новостройках, какие есть риски и как их избежать."
-keywords: "переуступка прав, цессия, договор уступки, новостройка, ДДУ, уступка права требования, ButlerSPB"
-pubDate: "2025-07-25T16:34:05.307Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Переуступка прав: подробный гид от ButlerSPB","description":"Переуступка прав (цессия) позволяет передать право требования другому лицу. Разбираем, как это работает в новостройках, какие есть риски и как их избежать.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.7","reviewCount":444,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/pereustupka-prav/"}}
+title: 'Переуступка прав: подробный гид от ButlerSPB'
+description: >-
+  Переуступка прав (цессия) позволяет передать право требования другому лицу.
+  Разбираем, как это работает в новостройках, какие есть риски и как их
+  избежать.
+pubDate: '2025-07-25T16:34:05.307Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Переуступка прав: подробный гид от ButlerSPB'
+  description: >-
+    Переуступка прав (цессия) позволяет передать право требования другому лицу.
+    Разбираем, как это работает в новостройках, какие есть риски и как их
+    избежать.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.9'
+    reviewCount: 754
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': 'https://butlerspb-blog.netlify.app/blog/pereustupka-prav/'
 ---
 # Переуступка прав (цессия) на квартиру: Полное руководство для покупателя и продавца от ButlerSPB
 

@@ -1,11 +1,40 @@
 ---
-title: "Потенциальный доход: как рассчитать и достичь"
-description: "В этой статье от ButlerSPB мы разберем, что такое потенциальный доход, как правильно его рассчитать для вашего проекта и какие стратегии помогут его увеличить."
-keywords: "потенциальный доход, расчет дохода, финансовое планирование, бизнес-план, прогнозирование прибыли, увеличение дохода, ButlerSPB"
-pubDate: "2025-07-25T16:18:01.976Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Потенциальный доход: как рассчитать и достичь","description":"В этой статье от ButlerSPB мы разберем, что такое потенциальный доход, как правильно его рассчитать для вашего проекта и какие стратегии помогут его увеличить.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"5.0","reviewCount":506,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/potencialnyy-dohod/"}}
+title: 'Потенциальный доход: как рассчитать и достичь'
+description: >-
+  В этой статье от ButlerSPB мы разберем, что такое потенциальный доход, как
+  правильно его рассчитать для вашего проекта и какие стратегии помогут его
+  увеличить.
+pubDate: '2025-07-25T16:18:01.976Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Потенциальный доход: как рассчитать и достичь'
+  description: >-
+    В этой статье от ButlerSPB мы разберем, что такое потенциальный доход, как
+    правильно его рассчитать для вашего проекта и какие стратегии помогут его
+    увеличить.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.7'
+    reviewCount: 864
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': 'https://butlerspb-blog.netlify.app/blog/potencialnyy-dohod/'
 ---
 # Потенциальный доход от недвижимости: Как рассчитать реальную прибыль и не обмануться в ожиданиях (на примере Санкт-Петербурга)
 

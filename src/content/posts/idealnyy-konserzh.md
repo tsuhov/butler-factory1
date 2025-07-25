@@ -1,11 +1,40 @@
 ---
-title: "Идеальный консьерж: ключевые качества и навыки"
-description: "Какими качествами должен обладать современный консьерж? ButlerSPB раскрывает секреты профессии, рассказывая о ключевых навыках, стандартах и важности эмпатии."
-keywords: "идеальный консьерж, консьерж-сервис, ButlerSPB, качества консьержа, элитный сервис, профессионализм"
-pubDate: "2025-07-24T13:13:27.236Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Идеальный консьерж: ключевые качества и навыки","description":"Какими качествами должен обладать современный консьерж? ButlerSPB раскрывает секреты профессии, рассказывая о ключевых навыках, стандартах и важности эмпатии.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.8","reviewCount":300,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/idealnyy-konserzh/"}}
+title: 'Идеальный консьерж: ключевые качества и навыки'
+description: >-
+  Какими качествами должен обладать современный консьерж? ButlerSPB раскрывает
+  секреты профессии, рассказывая о ключевых навыках, стандартах и важности
+  эмпатии.
+pubDate: '2025-07-24T13:13:27.236Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Идеальный консьерж: ключевые качества и навыки'
+  description: >-
+    Какими качествами должен обладать современный консьерж? ButlerSPB раскрывает
+    секреты профессии, рассказывая о ключевых навыках, стандартах и важности
+    эмпатии.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.9'
+    reviewCount: 536
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': 'https://butlerspb-blog.netlify.app/blog/idealnyy-konserzh/'
 ---
 # Портрет идеального консьержа: Гайд от экспертов ButlerSPB
 

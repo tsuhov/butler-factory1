@@ -1,10 +1,41 @@
 ---
-title: "Что такое REIT-фонды и стоит ли в них инвестировать в России?"
-description: "Разбираемся, что такое REIT-фонды и как они позволяют зарабатывать на недвижимости, не покупая ее. Анализируем преимущества, риски и актуальность таких инвестиций для российского инвестора. Экспертное мнение от ButlerSPB."
-pubDate: "2025-07-23T11:32:19.059Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Что такое REIT-фонды и стоит ли в них инвестировать в России?","description":"Разбираемся, что такое REIT-фонды и как они позволяют зарабатывать на недвижимости, не покупая ее. Анализируем преимущества, риски и актуальность таких инвестиций для российского инвестора. Экспертное мнение от ButlerSPB.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":461,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/chto-takoe-reit-fondy-i-stoit-li-v-nih-investirovat-v-rossii/"}}
+title: Что такое REIT-фонды и стоит ли в них инвестировать в России?
+description: >-
+  Разбираемся, что такое REIT-фонды и как они позволяют зарабатывать на
+  недвижимости, не покупая ее. Анализируем преимущества, риски и актуальность
+  таких инвестиций для российского инвестора. Экспертное мнение от ButlerSPB.
+pubDate: '2025-07-23T11:32:19.059Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: Что такое REIT-фонды и стоит ли в них инвестировать в России?
+  description: >-
+    Разбираемся, что такое REIT-фонды и как они позволяют зарабатывать на
+    недвижимости, не покупая ее. Анализируем преимущества, риски и актуальность
+    таких инвестиций для российского инвестора. Экспертное мнение от ButlerSPB.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.8'
+    reviewCount: 736
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/chto-takoe-reit-fondy-i-stoit-li-v-nih-investirovat-v-rossii/
 ---
 
 # Что такое REIT-фонды и стоит ли в них инвестировать в России

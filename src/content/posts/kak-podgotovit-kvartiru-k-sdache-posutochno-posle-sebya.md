@@ -1,11 +1,41 @@
 ---
-title: "Как подготовить квартиру к посуточной аренде"
-description: "Как быстро и эффективно подготовить квартиру к приезду следующих гостей? Пошаговая инструкция от ButlerSPB по уборке, проверке и созданию идеального уюта."
-keywords: "посуточная аренда, подготовка квартиры, уборка после гостей, сдача квартиры, хоумстейджинг, ButlerSPB"
-pubDate: "2025-07-24T12:06:45.432Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Как подготовить квартиру к посуточной аренде","description":"Как быстро и эффективно подготовить квартиру к приезду следующих гостей? Пошаговая инструкция от ButlerSPB по уборке, проверке и созданию идеального уюта.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":470,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/kak-podgotovit-kvartiru-k-sdache-posutochno-posle-sebya/"}}
+title: Как подготовить квартиру к посуточной аренде
+description: >-
+  Как быстро и эффективно подготовить квартиру к приезду следующих гостей?
+  Пошаговая инструкция от ButlerSPB по уборке, проверке и созданию идеального
+  уюта.
+pubDate: '2025-07-24T12:06:45.432Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: Как подготовить квартиру к посуточной аренде
+  description: >-
+    Как быстро и эффективно подготовить квартиру к приезду следующих гостей?
+    Пошаговая инструкция от ButlerSPB по уборке, проверке и созданию идеального
+    уюта.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.9'
+    reviewCount: 328
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/kak-podgotovit-kvartiru-k-sdache-posutochno-posle-sebya/
 ---
 # Как подготовить свою квартиру к сдаче посуточно: Полный чек-лист от экспертов ButlerSPB
 

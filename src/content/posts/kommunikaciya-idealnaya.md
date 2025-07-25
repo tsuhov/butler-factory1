@@ -1,11 +1,40 @@
 ---
-title: "Принципы идеальной коммуникации от ButlerSPB"
-description: "В этой статье от ButlerSPB мы разбираем, что такое идеальная коммуникация. Узнайте ключевые принципы, которые помогут наладить диалог и достичь взаимопонимания."
-keywords: "идеальная коммуникация, эффективное общение, навыки общения, взаимопонимание, активное слушание, деловое общение, ButlerSPB"
-pubDate: "2025-07-24T13:44:43.450Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Принципы идеальной коммуникации от ButlerSPB","description":"В этой статье от ButlerSPB мы разбираем, что такое идеальная коммуникация. Узнайте ключевые принципы, которые помогут наладить диалог и достичь взаимопонимания.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.7","reviewCount":765,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/kommunikaciya-idealnaya/"}}
+title: Принципы идеальной коммуникации от ButlerSPB
+description: >-
+  В этой статье от ButlerSPB мы разбираем, что такое идеальная коммуникация.
+  Узнайте ключевые принципы, которые помогут наладить диалог и достичь
+  взаимопонимания.
+pubDate: '2025-07-24T13:44:43.450Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: Принципы идеальной коммуникации от ButlerSPB
+  description: >-
+    В этой статье от ButlerSPB мы разбираем, что такое идеальная коммуникация.
+    Узнайте ключевые принципы, которые помогут наладить диалог и достичь
+    взаимопонимания.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.9'
+    reviewCount: 677
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': 'https://butlerspb-blog.netlify.app/blog/kommunikaciya-idealnaya/'
 ---
 # Идеальная коммуникация: Как общаться с точностью и эмпатией дворецкого
 

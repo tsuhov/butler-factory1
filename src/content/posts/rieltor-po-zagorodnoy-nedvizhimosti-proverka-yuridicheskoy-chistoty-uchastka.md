@@ -1,10 +1,47 @@
 ---
-title: "Риэлтор по загородной недвижимости: проверка юридической чистоты участка"
-description: "Покупка загородного участка – мечта многих, но юридические риски могут омрачить сделку. В новой статье блога ButlerSPB мы раскрываем все этапы профессиональной проверки юридической чистоты земли. Узнайте, какие документы запросить у продавца, как читать выписку из ЕГРН, чтобы выявить обременения, аресты и споры о границах. Объясняем, почему участие опытного риэлтора — это залог безопасной покупки и вашего спокойствия."
-pubDate: "2025-07-23T11:37:15.949Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Риэлтор по загородной недвижимости: проверка юридической чистоты участка","description":"Покупка загородного участка – мечта многих, но юридические риски могут омрачить сделку. В новой статье блога ButlerSPB мы раскрываем все этапы профессиональной проверки юридической чистоты земли. Узнайте, какие документы запросить у продавца, как читать выписку из ЕГРН, чтобы выявить обременения, аресты и споры о границах. Объясняем, почему участие опытного риэлтора — это залог безопасной покупки и вашего спокойствия.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":794,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/rieltor-po-zagorodnoy-nedvizhimosti-proverka-yuridicheskoy-chistoty-uchastka/"}}
+title: 'Риэлтор по загородной недвижимости: проверка юридической чистоты участка'
+description: >-
+  Покупка загородного участка – мечта многих, но юридические риски могут
+  омрачить сделку. В новой статье блога ButlerSPB мы раскрываем все этапы
+  профессиональной проверки юридической чистоты земли. Узнайте, какие документы
+  запросить у продавца, как читать выписку из ЕГРН, чтобы выявить обременения,
+  аресты и споры о границах. Объясняем, почему участие опытного риэлтора — это
+  залог безопасной покупки и вашего спокойствия.
+pubDate: '2025-07-23T11:37:15.949Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Риэлтор по загородной недвижимости: проверка юридической чистоты участка'
+  description: >-
+    Покупка загородного участка – мечта многих, но юридические риски могут
+    омрачить сделку. В новой статье блога ButlerSPB мы раскрываем все этапы
+    профессиональной проверки юридической чистоты земли. Узнайте, какие
+    документы запросить у продавца, как читать выписку из ЕГРН, чтобы выявить
+    обременения, аресты и споры о границах. Объясняем, почему участие опытного
+    риэлтора — это залог безопасной покупки и вашего спокойствия.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '5.0'
+    reviewCount: 601
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/rieltor-po-zagorodnoy-nedvizhimosti-proverka-yuridicheskoy-chistoty-uchastka/
 ---
 
 # Как проверить юридическую чистоту земельного участка перед покупкой: пошаговый чек-лист от экспертов ButlerSPB

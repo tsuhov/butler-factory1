@@ -1,11 +1,39 @@
 ---
-title: "Ваш идеальный Новый год с сервисом ButlerSPB"
-description: "Предновогодняя суета может утомить. Доверьте подготовку ButlerSPB! Мы поможем с уборкой, украшением дома и организацией, чтобы вы наслаждались праздником."
-keywords: "Новый год, праздник, ButlerSPB, уборка перед новым годом, организация праздника, советы, СПб"
-pubDate: "2025-07-25T15:57:02.500Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Ваш идеальный Новый год с сервисом ButlerSPB","description":"Предновогодняя суета может утомить. Доверьте подготовку ButlerSPB! Мы поможем с уборкой, украшением дома и организацией, чтобы вы наслаждались праздником.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":413,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/novyy-god/"}}
+title: Ваш идеальный Новый год с сервисом ButlerSPB
+description: >-
+  Предновогодняя суета может утомить. Доверьте подготовку ButlerSPB! Мы поможем
+  с уборкой, украшением дома и организацией, чтобы вы наслаждались праздником.
+pubDate: '2025-07-25T15:57:02.500Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: Ваш идеальный Новый год с сервисом ButlerSPB
+  description: >-
+    Предновогодняя суета может утомить. Доверьте подготовку ButlerSPB! Мы
+    поможем с уборкой, украшением дома и организацией, чтобы вы наслаждались
+    праздником.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.9'
+    reviewCount: 676
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': 'https://butlerspb-blog.netlify.app/blog/novyy-god/'
 ---
 # Как встретить Новый год 2025 в Санкт-Петербурге: полный гид от экспертов ButlerSPB
 

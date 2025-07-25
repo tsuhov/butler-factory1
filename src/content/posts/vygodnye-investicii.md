@@ -1,11 +1,40 @@
 ---
-title: "Выгодные инвестиции: куда вложить деньги?"
-description: "Рассматриваем самые выгодные инвестиции для сохранения и приумножения капитала. Эксперты ButlerSPB делятся советами по выбору активов и формированию портфеля."
-keywords: "инвестиции, выгодные вложения, куда вложить деньги, пассивный доход, фондовый рынок, ButlerSPB"
-pubDate: "2025-07-25T16:25:24.825Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Выгодные инвестиции: куда вложить деньги?","description":"Рассматриваем самые выгодные инвестиции для сохранения и приумножения капитала. Эксперты ButlerSPB делятся советами по выбору активов и формированию портфеля.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":573,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/vygodnye-investicii/"}}
+title: 'Выгодные инвестиции: куда вложить деньги?'
+description: >-
+  Рассматриваем самые выгодные инвестиции для сохранения и приумножения
+  капитала. Эксперты ButlerSPB делятся советами по выбору активов и формированию
+  портфеля.
+pubDate: '2025-07-25T16:25:24.825Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Выгодные инвестиции: куда вложить деньги?'
+  description: >-
+    Рассматриваем самые выгодные инвестиции для сохранения и приумножения
+    капитала. Эксперты ButlerSPB делятся советами по выбору активов и
+    формированию портфеля.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.8'
+    reviewCount: 644
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': 'https://butlerspb-blog.netlify.app/blog/vygodnye-investicii/'
 ---
 # Выгодные инвестиции: Полное руководство для начинающих и опытных инвесторов
 

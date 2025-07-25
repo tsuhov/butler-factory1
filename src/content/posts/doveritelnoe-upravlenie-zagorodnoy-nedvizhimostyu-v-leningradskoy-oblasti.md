@@ -1,10 +1,47 @@
 ---
-title: "Доверительное управление загородной недвижимостью в Ленинградской области: Ваш пассивный доход с ButlerSPB"
-description: "Владеете домом или коттеджем в Ленобласти, но не хватает времени на управление? Узнайте, как услуга доверительного управления от ButlerSPB превратит вашу недвижимость в стабильный источник дохода без лишних хлопот. Мы берем на себя все: от поиска арендаторов до технического обслуживания."
-pubDate: "2025-07-22T00:58:02.198Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Доверительное управление загородной недвижимостью в Ленинградской области: Ваш пассивный доход с ButlerSPB","description":"Владеете домом или коттеджем в Ленобласти, но не хватает времени на управление? Узнайте, как услуга доверительного управления от ButlerSPB превратит вашу недвижимость в стабильный источник дохода без лишних хлопот. Мы берем на себя все: от поиска арендаторов до технического обслуживания.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.8","reviewCount":337,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/doveritelnoe-upravlenie-zagorodnoy-nedvizhimostyu-v-leningradskoy-oblasti/"}}
+title: >-
+  Доверительное управление загородной недвижимостью в Ленинградской области: Ваш
+  пассивный доход с ButlerSPB
+description: >-
+  Владеете домом или коттеджем в Ленобласти, но не хватает времени на
+  управление? Узнайте, как услуга доверительного управления от ButlerSPB
+  превратит вашу недвижимость в стабильный источник дохода без лишних хлопот. Мы
+  берем на себя все: от поиска арендаторов до технического обслуживания.
+pubDate: '2025-07-22T00:58:02.198Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: >-
+    Доверительное управление загородной недвижимостью в Ленинградской области:
+    Ваш пассивный доход с ButlerSPB
+  description: >-
+    Владеете домом или коттеджем в Ленобласти, но не хватает времени на
+    управление? Узнайте, как услуга доверительного управления от ButlerSPB
+    превратит вашу недвижимость в стабильный источник дохода без лишних хлопот.
+    Мы берем на себя все: от поиска арендаторов до технического обслуживания.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '5.0'
+    reviewCount: 822
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/doveritelnoe-upravlenie-zagorodnoy-nedvizhimostyu-v-leningradskoy-oblasti/
 ---
 
 # Доверительное управление загородным домом в Ленинградской области: Как превратить актив в источник дохода, а не головной боли

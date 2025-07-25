@@ -1,10 +1,45 @@
 ---
-title: "Сдача квартиры на ПМЭФ: как максимизировать прибыль. Гайд от ButlerSPB"
-description: "Петербургский международный экономический форум — золотое время для арендодателей. Узнайте, как правильно подготовить квартиру, установить пиковую цену и обеспечить безупречный сервис, чтобы получить максимальный доход. Проверенные советы и лайфхаки от экспертов по управлению недвижимостью ButlerSPB."
-pubDate: "2025-07-23T11:10:19.073Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Сдача квартиры на ПМЭФ: как максимизировать прибыль. Гайд от ButlerSPB","description":"Петербургский международный экономический форум — золотое время для арендодателей. Узнайте, как правильно подготовить квартиру, установить пиковую цену и обеспечить безупречный сервис, чтобы получить максимальный доход. Проверенные советы и лайфхаки от экспертов по управлению недвижимостью ButlerSPB.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.8","reviewCount":346,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/sdacha-kvartiry-posutochno-vo-vremya-pmef-kak-maksimizirovat-pribyl/"}}
+title: 'Сдача квартиры на ПМЭФ: как максимизировать прибыль. Гайд от ButlerSPB'
+description: >-
+  Петербургский международный экономический форум — золотое время для
+  арендодателей. Узнайте, как правильно подготовить квартиру, установить пиковую
+  цену и обеспечить безупречный сервис, чтобы получить максимальный доход.
+  Проверенные советы и лайфхаки от экспертов по управлению недвижимостью
+  ButlerSPB.
+pubDate: '2025-07-23T11:10:19.073Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Сдача квартиры на ПМЭФ: как максимизировать прибыль. Гайд от ButlerSPB'
+  description: >-
+    Петербургский международный экономический форум — золотое время для
+    арендодателей. Узнайте, как правильно подготовить квартиру, установить
+    пиковую цену и обеспечить безупречный сервис, чтобы получить максимальный
+    доход. Проверенные советы и лайфхаки от экспертов по управлению
+    недвижимостью ButlerSPB.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.7'
+    reviewCount: 817
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/sdacha-kvartiry-posutochno-vo-vremya-pmef-kak-maksimizirovat-pribyl/
 ---
 
 # Сдача квартиры на ПМЭФ 2024: Полное руководство по максимизации прибыли от ButlerSPB

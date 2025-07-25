@@ -1,11 +1,40 @@
 ---
-title: "Как выбрать идеальный жилой комплекс в городе?"
-description: "Выбор нового дома – ответственный шаг. В нашей статье мы подробно разбираем, на какие критерии стоит обратить внимание при покупке квартиры в жилом комплексе."
-keywords: "жилой комплекс, новостройка, выбор квартиры, покупка жилья, недвижимость, инфраструктура, застройщик"
-pubDate: "2025-07-25T15:41:48.760Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Как выбрать идеальный жилой комплекс в городе?","description":"Выбор нового дома – ответственный шаг. В нашей статье мы подробно разбираем, на какие критерии стоит обратить внимание при покупке квартиры в жилом комплексе.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.8","reviewCount":739,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/zhilye-kompleksy/"}}
+title: Как выбрать идеальный жилой комплекс в городе?
+description: >-
+  Выбор нового дома – ответственный шаг. В нашей статье мы подробно разбираем,
+  на какие критерии стоит обратить внимание при покупке квартиры в жилом
+  комплексе.
+pubDate: '2025-07-25T15:41:48.760Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: Как выбрать идеальный жилой комплекс в городе?
+  description: >-
+    Выбор нового дома – ответственный шаг. В нашей статье мы подробно разбираем,
+    на какие критерии стоит обратить внимание при покупке квартиры в жилом
+    комплексе.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.7'
+    reviewCount: 305
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': 'https://butlerspb-blog.netlify.app/blog/zhilye-kompleksy/'
 ---
 # Жилые комплексы Санкт-Петербурга: Полный гид по выбору идеального дома
 

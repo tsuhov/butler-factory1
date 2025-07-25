@@ -1,11 +1,39 @@
 ---
-title: "Профессиональная помощь в продаже от ButlerSPB"
-description: "ButlerSPB предлагает профессиональную помощь в продаже. Мы занимаемся оценкой, маркетингом и переговорами, чтобы вы получили лучшую цену в кратчайшие сроки."
-keywords: "помощь в продаже, ButlerSPB, продать недвижимость, сопровождение сделки, предпродажная подготовка, агент по недвижимости, быстро продать"
-pubDate: "2025-07-25T14:50:25.145Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Профессиональная помощь в продаже от ButlerSPB","description":"ButlerSPB предлагает профессиональную помощь в продаже. Мы занимаемся оценкой, маркетингом и переговорами, чтобы вы получили лучшую цену в кратчайшие сроки.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.7","reviewCount":804,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/pomosch-v-prodazhe/"}}
+title: Профессиональная помощь в продаже от ButlerSPB
+description: >-
+  ButlerSPB предлагает профессиональную помощь в продаже. Мы занимаемся оценкой,
+  маркетингом и переговорами, чтобы вы получили лучшую цену в кратчайшие сроки.
+pubDate: '2025-07-25T14:50:25.145Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: Профессиональная помощь в продаже от ButlerSPB
+  description: >-
+    ButlerSPB предлагает профессиональную помощь в продаже. Мы занимаемся
+    оценкой, маркетингом и переговорами, чтобы вы получили лучшую цену в
+    кратчайшие сроки.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.7'
+    reviewCount: 784
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': 'https://butlerspb-blog.netlify.app/blog/pomosch-v-prodazhe/'
 ---
 # Помощь в продаже недвижимости: Как ButlerSPB превращает сложную задачу в выгодный и спокойный процесс
 

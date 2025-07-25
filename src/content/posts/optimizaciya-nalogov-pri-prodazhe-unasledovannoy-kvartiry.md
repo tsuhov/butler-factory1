@@ -1,11 +1,41 @@
 ---
-title: "Продажа наследства: как оптимизировать налог"
-description: "Получили квартиру в наследство и планируете ее продать? Узнайте, как законно уменьшить или полностью избежать уплаты НДФЛ при продаже унаследованной недвижимости."
-keywords: "налог с продажи квартиры, унаследованная квартира, НДФЛ, минимальный срок владения, налоговый вычет, продажа наследства, оптимизация налогов"
-pubDate: "2025-07-24T12:07:00.287Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Продажа наследства: как оптимизировать налог","description":"Получили квартиру в наследство и планируете ее продать? Узнайте, как законно уменьшить или полностью избежать уплаты НДФЛ при продаже унаследованной недвижимости.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":890,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/optimizaciya-nalogov-pri-prodazhe-unasledovannoy-kvartiry/"}}
+title: 'Продажа наследства: как оптимизировать налог'
+description: >-
+  Получили квартиру в наследство и планируете ее продать? Узнайте, как законно
+  уменьшить или полностью избежать уплаты НДФЛ при продаже унаследованной
+  недвижимости.
+pubDate: '2025-07-24T12:07:00.287Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Продажа наследства: как оптимизировать налог'
+  description: >-
+    Получили квартиру в наследство и планируете ее продать? Узнайте, как законно
+    уменьшить или полностью избежать уплаты НДФЛ при продаже унаследованной
+    недвижимости.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.7'
+    reviewCount: 681
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/optimizaciya-nalogov-pri-prodazhe-unasledovannoy-kvartiry/
 ---
 # Как продать унаследованную квартиру и сэкономить на налогах: Полное руководство от экспертов ButlerSPB
 

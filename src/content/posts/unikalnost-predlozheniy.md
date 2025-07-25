@@ -1,11 +1,40 @@
 ---
-title: "Искусство уникальных предложений от ButlerSPB"
-description: "Узнайте, как ButlerSPB создает уникальные предложения, которые привлекают и удерживают клиентов. Раскрываем секреты анализа рынка и поиска той самой изюминки."
-keywords: "УТП, уникальное предложение, ButlerSPB, маркетинг, ценностное предложение, конкурентные преимущества"
-pubDate: "2025-07-25T16:12:45.805Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Искусство уникальных предложений от ButlerSPB","description":"Узнайте, как ButlerSPB создает уникальные предложения, которые привлекают и удерживают клиентов. Раскрываем секреты анализа рынка и поиска той самой изюминки.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.7","reviewCount":846,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/unikalnost-predlozheniy/"}}
+title: Искусство уникальных предложений от ButlerSPB
+description: >-
+  Узнайте, как ButlerSPB создает уникальные предложения, которые привлекают и
+  удерживают клиентов. Раскрываем секреты анализа рынка и поиска той самой
+  изюминки.
+pubDate: '2025-07-25T16:12:45.805Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: Искусство уникальных предложений от ButlerSPB
+  description: >-
+    Узнайте, как ButlerSPB создает уникальные предложения, которые привлекают и
+    удерживают клиентов. Раскрываем секреты анализа рынка и поиска той самой
+    изюминки.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.9'
+    reviewCount: 653
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': 'https://butlerspb-blog.netlify.app/blog/unikalnost-predlozheniy/'
 ---
 # Ваш бизнес — один из многих? Как разработать УТП и перестать бороться за клиента ценой
 

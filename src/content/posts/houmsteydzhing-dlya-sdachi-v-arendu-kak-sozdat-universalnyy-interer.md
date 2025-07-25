@@ -1,10 +1,49 @@
 ---
-title: "Хоумстейджинг для сдачи в аренду: как создать универсальный интерьер"
-description: "Узнайте, как с помощью хоумстейджинга подготовить квартиру к сдаче, чтобы привлечь больше потенциальных жильцов и сдать ее быстрее и выгоднее. В новой статье блога ButlerSPB мы делимся ключевыми принципами создания универсального, светлого и функционального интерьера. Рассказываем о правильном выборе цветовой палитры, расстановке мебели и использовании декора для создания уютной и обезличенной атмосферы, в которой каждый сможет представить свою будущую жизнь."
-pubDate: "2025-07-23T22:16:12.775Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Хоумстейджинг для сдачи в аренду: как создать универсальный интерьер","description":"Узнайте, как с помощью хоумстейджинга подготовить квартиру к сдаче, чтобы привлечь больше потенциальных жильцов и сдать ее быстрее и выгоднее. В новой статье блога ButlerSPB мы делимся ключевыми принципами создания универсального, светлого и функционального интерьера. Рассказываем о правильном выборе цветовой палитры, расстановке мебели и использовании декора для создания уютной и обезличенной атмосферы, в которой каждый сможет представить свою будущую жизнь.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":576,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/houmsteydzhing-dlya-sdachi-v-arendu-kak-sozdat-universalnyy-interer/"}}
+title: 'Хоумстейджинг для сдачи в аренду: как создать универсальный интерьер'
+description: >-
+  Узнайте, как с помощью хоумстейджинга подготовить квартиру к сдаче, чтобы
+  привлечь больше потенциальных жильцов и сдать ее быстрее и выгоднее. В новой
+  статье блога ButlerSPB мы делимся ключевыми принципами создания
+  универсального, светлого и функционального интерьера. Рассказываем о
+  правильном выборе цветовой палитры, расстановке мебели и использовании декора
+  для создания уютной и обезличенной атмосферы, в которой каждый сможет
+  представить свою будущую жизнь.
+pubDate: '2025-07-23T22:16:12.775Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Хоумстейджинг для сдачи в аренду: как создать универсальный интерьер'
+  description: >-
+    Узнайте, как с помощью хоумстейджинга подготовить квартиру к сдаче, чтобы
+    привлечь больше потенциальных жильцов и сдать ее быстрее и выгоднее. В новой
+    статье блога ButlerSPB мы делимся ключевыми принципами создания
+    универсального, светлого и функционального интерьера. Рассказываем о
+    правильном выборе цветовой палитры, расстановке мебели и использовании
+    декора для создания уютной и обезличенной атмосферы, в которой каждый сможет
+    представить свою будущую жизнь.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.9'
+    reviewCount: 315
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/houmsteydzhing-dlya-sdachi-v-arendu-kak-sozdat-universalnyy-interer/
 ---
 
 # Как сдать квартиру на 20% дороже: пошаговое руководство по хоумстейджингу для аренды

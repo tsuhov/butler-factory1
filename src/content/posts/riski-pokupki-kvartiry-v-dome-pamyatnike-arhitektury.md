@@ -1,10 +1,51 @@
 ---
-title: "Риски покупки квартиры в доме-памятнике архитектуры: о чем стоит знать перед сделкой"
-description: "Покупка квартиры в историческом здании Санкт-Петербурга — это не только престиж и уникальная атмосфера, но и ряд серьезных рисков. В новой статье блога ButlerSPB разбираем юридические, финансовые и технические подводные камни: от ограничений на ремонт и перепланировку до высоких эксплуатационных расходов и сложностей с согласованиями. Узнайте, как не превратить мечту в проблему."
-pubDate: "2025-07-23T12:13:30.920Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Риски покупки квартиры в доме-памятнике архитектуры: о чем стоит знать перед сделкой","description":"Покупка квартиры в историческом здании Санкт-Петербурга — это не только престиж и уникальная атмосфера, но и ряд серьезных рисков. В новой статье блога ButlerSPB разбираем юридические, финансовые и технические подводные камни: от ограничений на ремонт и перепланировку до высоких эксплуатационных расходов и сложностей с согласованиями. Узнайте, как не превратить мечту в проблему.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"5.0","reviewCount":450,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/riski-pokupki-kvartiry-v-dome-pamyatnike-arhitektury/"}}
+title: >-
+  Риски покупки квартиры в доме-памятнике архитектуры: о чем стоит знать перед
+  сделкой
+description: >-
+  Покупка квартиры в историческом здании Санкт-Петербурга — это не только
+  престиж и уникальная атмосфера, но и ряд серьезных рисков. В новой статье
+  блога ButlerSPB разбираем юридические, финансовые и технические подводные
+  камни: от ограничений на ремонт и перепланировку до высоких эксплуатационных
+  расходов и сложностей с согласованиями. Узнайте, как не превратить мечту в
+  проблему.
+pubDate: '2025-07-23T12:13:30.920Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: >-
+    Риски покупки квартиры в доме-памятнике архитектуры: о чем стоит знать перед
+    сделкой
+  description: >-
+    Покупка квартиры в историческом здании Санкт-Петербурга — это не только
+    престиж и уникальная атмосфера, но и ряд серьезных рисков. В новой статье
+    блога ButlerSPB разбираем юридические, финансовые и технические подводные
+    камни: от ограничений на ремонт и перепланировку до высоких эксплуатационных
+    расходов и сложностей с согласованиями. Узнайте, как не превратить мечту в
+    проблему.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.7'
+    reviewCount: 722
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/riski-pokupki-kvartiry-v-dome-pamyatnike-arhitektury/
 ---
 
 # Риски покупки квартиры в доме-памятнике: Полный гид для покупателя в Санкт-Петербурге

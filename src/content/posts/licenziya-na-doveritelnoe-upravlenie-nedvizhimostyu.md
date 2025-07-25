@@ -1,10 +1,47 @@
 ---
-title: "Лицензия на доверительное управление недвижимостью: мифы и реальность"
-description: "Многие собственники недвижимости, передавая свои объекты в управление, задаются вопросом о необходимости специальной лицензии. В новой статье блога ButlerSPB мы подробно разбираем законодательство РФ, объясняем, в каких случаях лицензирование обязательно, а когда можно обойтись без него. Узнайте, как защитить свои интересы и почему работа с профессиональной компанией — это гарантия вашей юридической и финансовой безопасности."
-pubDate: "2025-07-22T01:10:58.661Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Лицензия на доверительное управление недвижимостью: мифы и реальность","description":"Многие собственники недвижимости, передавая свои объекты в управление, задаются вопросом о необходимости специальной лицензии. В новой статье блога ButlerSPB мы подробно разбираем законодательство РФ, объясняем, в каких случаях лицензирование обязательно, а когда можно обойтись без него. Узнайте, как защитить свои интересы и почему работа с профессиональной компанией — это гарантия вашей юридической и финансовой безопасности.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":734,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/licenziya-na-doveritelnoe-upravlenie-nedvizhimostyu/"}}
+title: 'Лицензия на доверительное управление недвижимостью: мифы и реальность'
+description: >-
+  Многие собственники недвижимости, передавая свои объекты в управление,
+  задаются вопросом о необходимости специальной лицензии. В новой статье блога
+  ButlerSPB мы подробно разбираем законодательство РФ, объясняем, в каких
+  случаях лицензирование обязательно, а когда можно обойтись без него. Узнайте,
+  как защитить свои интересы и почему работа с профессиональной компанией — это
+  гарантия вашей юридической и финансовой безопасности.
+pubDate: '2025-07-22T01:10:58.661Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Лицензия на доверительное управление недвижимостью: мифы и реальность'
+  description: >-
+    Многие собственники недвижимости, передавая свои объекты в управление,
+    задаются вопросом о необходимости специальной лицензии. В новой статье блога
+    ButlerSPB мы подробно разбираем законодательство РФ, объясняем, в каких
+    случаях лицензирование обязательно, а когда можно обойтись без него.
+    Узнайте, как защитить свои интересы и почему работа с профессиональной
+    компанией — это гарантия вашей юридической и финансовой безопасности.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '5.0'
+    reviewCount: 548
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/licenziya-na-doveritelnoe-upravlenie-nedvizhimostyu/
 ---
 
 # Лицензия на доверительное управление недвижимостью: вся правда для собственника

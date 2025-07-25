@@ -1,10 +1,45 @@
 ---
-title: "Аренда комнаты в Санкт-Петербурге: как найти хороших соседей"
-description: "Поиск комнаты в аренду в Петербурге — это не только про квадратные метры и вид из окна, но и про людей, с которыми предстоит делить быт. В новой статье нашего блога ButlerSPB рассказываем, как найти адекватных и приятных соседей, на что обратить внимание при знакомстве и какие вопросы помогут избежать неприятных сюрпризов после переезда."
-pubDate: "2025-07-22T11:41:48.427Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Аренда комнаты в Санкт-Петербурге: как найти хороших соседей","description":"Поиск комнаты в аренду в Петербурге — это не только про квадратные метры и вид из окна, но и про людей, с которыми предстоит делить быт. В новой статье нашего блога ButlerSPB рассказываем, как найти адекватных и приятных соседей, на что обратить внимание при знакомстве и какие вопросы помогут избежать неприятных сюрпризов после переезда.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":587,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/arenda-komnaty-v-sankt-peterburge-kak-nayti-horoshih-sosedey/"}}
+title: 'Аренда комнаты в Санкт-Петербурге: как найти хороших соседей'
+description: >-
+  Поиск комнаты в аренду в Петербурге — это не только про квадратные метры и вид
+  из окна, но и про людей, с которыми предстоит делить быт. В новой статье
+  нашего блога ButlerSPB рассказываем, как найти адекватных и приятных соседей,
+  на что обратить внимание при знакомстве и какие вопросы помогут избежать
+  неприятных сюрпризов после переезда.
+pubDate: '2025-07-22T11:41:48.427Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Аренда комнаты в Санкт-Петербурге: как найти хороших соседей'
+  description: >-
+    Поиск комнаты в аренду в Петербурге — это не только про квадратные метры и
+    вид из окна, но и про людей, с которыми предстоит делить быт. В новой статье
+    нашего блога ButlerSPB рассказываем, как найти адекватных и приятных
+    соседей, на что обратить внимание при знакомстве и какие вопросы помогут
+    избежать неприятных сюрпризов после переезда.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.7'
+    reviewCount: 517
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/arenda-komnaty-v-sankt-peterburge-kak-nayti-horoshih-sosedey/
 ---
 
 # Аренда комнаты в Санкт-Петербурге: Ваш полный гид по поиску идеальных соседей

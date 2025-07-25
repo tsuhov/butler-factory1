@@ -1,11 +1,40 @@
 ---
-title: "3D-тур по квартире для продажи или аренды"
-description: "Подробное руководство по созданию виртуального 3D-тура для вашей недвижимости. Узнайте, какое оборудование нужно, как подготовить квартиру и выбрать сервис."
-keywords: "виртуальный тур, 3D-тур, продажа квартиры, аренда квартиры, недвижимость, хоумстейджинг, онлайн-показ"
-pubDate: "2025-07-24T12:02:42.125Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"3D-тур по квартире для продажи или аренды","description":"Подробное руководство по созданию виртуального 3D-тура для вашей недвижимости. Узнайте, какое оборудование нужно, как подготовить квартиру и выбрать сервис.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.7","reviewCount":893,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/kak-organizovat-virtualnyy-3d-tur-po-kvartire-dlya-prodazhi-ili-arendy/"}}
+title: 3D-тур по квартире для продажи или аренды
+description: >-
+  Подробное руководство по созданию виртуального 3D-тура для вашей недвижимости.
+  Узнайте, какое оборудование нужно, как подготовить квартиру и выбрать сервис.
+pubDate: '2025-07-24T12:02:42.125Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 3D-тур по квартире для продажи или аренды
+  description: >-
+    Подробное руководство по созданию виртуального 3D-тура для вашей
+    недвижимости. Узнайте, какое оборудование нужно, как подготовить квартиру и
+    выбрать сервис.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '5.0'
+    reviewCount: 814
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/kak-organizovat-virtualnyy-3d-tur-po-kvartire-dlya-prodazhi-ili-arendy/
 ---
 # Как создать виртуальный 3D-тур по квартире: Полное руководство от ButlerSPB для продажи или аренды
 

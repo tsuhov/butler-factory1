@@ -1,11 +1,40 @@
 ---
-title: "Доверительный договор: как это работает в РФ"
-description: "Доверительный договор — это передача имущества в управление на определенный срок. Разбираем основные положения, стороны и цели заключения такого соглашения."
-keywords: "доверительный договор, управление имуществом, учредитель управления, доверительный управляющий, выгодоприобретатель, ButlerSPB"
-pubDate: "2025-07-25T15:43:46.293Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Доверительный договор: как это работает в РФ","description":"Доверительный договор — это передача имущества в управление на определенный срок. Разбираем основные положения, стороны и цели заключения такого соглашения.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.8","reviewCount":343,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/doveritelnyy-dogovor/"}}
+title: 'Доверительный договор: как это работает в РФ'
+description: >-
+  Доверительный договор — это передача имущества в управление на определенный
+  срок. Разбираем основные положения, стороны и цели заключения такого
+  соглашения.
+pubDate: '2025-07-25T15:43:46.293Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Доверительный договор: как это работает в РФ'
+  description: >-
+    Доверительный договор — это передача имущества в управление на определенный
+    срок. Разбираем основные положения, стороны и цели заключения такого
+    соглашения.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '5.0'
+    reviewCount: 897
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': 'https://butlerspb-blog.netlify.app/blog/doveritelnyy-dogovor/'
 ---
 # Доверительный договор на управление квартирой: Полное руководство для собственника от экспертов ButlerSPB
 

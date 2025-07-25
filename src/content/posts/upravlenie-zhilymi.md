@@ -1,11 +1,40 @@
 ---
-title: "Управление жилой недвижимостью от ButlerSPB"
-description: "Как профессиональное управление жилой недвижимостью повышает доходность, снижает риски для собственника и гарантирует комфорт и безопасность для всех жильцов."
-keywords: "управление недвижимостью, жилая недвижимость, ButlerSPB, аренда квартир, доходная недвижимость, сервис для собственников"
-pubDate: "2025-07-25T15:41:32.560Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Управление жилой недвижимостью от ButlerSPB","description":"Как профессиональное управление жилой недвижимостью повышает доходность, снижает риски для собственника и гарантирует комфорт и безопасность для всех жильцов.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":684,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/upravlenie-zhilymi/"}}
+title: Управление жилой недвижимостью от ButlerSPB
+description: >-
+  Как профессиональное управление жилой недвижимостью повышает доходность,
+  снижает риски для собственника и гарантирует комфорт и безопасность для всех
+  жильцов.
+pubDate: '2025-07-25T15:41:32.560Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: Управление жилой недвижимостью от ButlerSPB
+  description: >-
+    Как профессиональное управление жилой недвижимостью повышает доходность,
+    снижает риски для собственника и гарантирует комфорт и безопасность для всех
+    жильцов.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.8'
+    reviewCount: 708
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': 'https://butlerspb-blog.netlify.app/blog/upravlenie-zhilymi/'
 ---
 # Управление жилыми комплексами: как превратить хаос в комфортную среду и повысить стоимость вашей недвижимости
 

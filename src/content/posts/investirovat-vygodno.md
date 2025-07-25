@@ -1,11 +1,40 @@
 ---
-title: "Инвестировать выгодно: руководство от ButlerSPB"
-description: "ButlerSPB объясняет, как заставить деньги работать на вас. Рассматриваем основы инвестирования, риски, популярные стратегии и как сделать первый шаг к богатству."
-keywords: "инвестиции, финансы, вложения, пассивный доход, акции, облигации, ButlerSPB"
-pubDate: "2025-07-25T16:38:23.846Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Инвестировать выгодно: руководство от ButlerSPB","description":"ButlerSPB объясняет, как заставить деньги работать на вас. Рассматриваем основы инвестирования, риски, популярные стратегии и как сделать первый шаг к богатству.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.8","reviewCount":454,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/investirovat-vygodno/"}}
+title: 'Инвестировать выгодно: руководство от ButlerSPB'
+description: >-
+  ButlerSPB объясняет, как заставить деньги работать на вас. Рассматриваем
+  основы инвестирования, риски, популярные стратегии и как сделать первый шаг к
+  богатству.
+pubDate: '2025-07-25T16:38:23.846Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Инвестировать выгодно: руководство от ButlerSPB'
+  description: >-
+    ButlerSPB объясняет, как заставить деньги работать на вас. Рассматриваем
+    основы инвестирования, риски, популярные стратегии и как сделать первый шаг
+    к богатству.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.8'
+    reviewCount: 341
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': 'https://butlerspb-blog.netlify.app/blog/investirovat-vygodno/'
 ---
 # Как инвестировать выгодно: Стратегии и инструменты для сохранения и приумножения капитала в 2024 году
 

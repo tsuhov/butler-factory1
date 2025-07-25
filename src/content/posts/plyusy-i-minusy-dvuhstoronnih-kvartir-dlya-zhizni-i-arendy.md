@@ -1,10 +1,51 @@
 ---
-title: "Квартира на две стороны: полный разбор плюсов и минусов для жизни и аренды от ButlerSPB"
-description: "Квартиры с окнами на две стороны, или 'распашонки', всегда привлекают внимание. Но так ли они хороши на самом деле? Команда ButlerSPB анализирует все преимущества (отличная инсоляция, естественное проветривание) и недостатки (возможные сквозняки, цена) как для комфортной жизни, так и для выгодной сдачи в аренду. Помогаем сделать правильный выбор и оценить инвестиционную привлекательность такой недвижимости в Санкт-Петербурге."
-pubDate: "2025-07-23T11:07:43.784Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Квартира на две стороны: полный разбор плюсов и минусов для жизни и аренды от ButlerSPB","description":"Квартиры с окнами на две стороны, или 'распашонки', всегда привлекают внимание. Но так ли они хороши на самом деле? Команда ButlerSPB анализирует все преимущества (отличная инсоляция, естественное проветривание) и недостатки (возможные сквозняки, цена) как для комфортной жизни, так и для выгодной сдачи в аренду. Помогаем сделать правильный выбор и оценить инвестиционную привлекательность такой недвижимости в Санкт-Петербурге.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":701,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/plyusy-i-minusy-dvuhstoronnih-kvartir-dlya-zhizni-i-arendy/"}}
+title: >-
+  Квартира на две стороны: полный разбор плюсов и минусов для жизни и аренды от
+  ButlerSPB
+description: >-
+  Квартиры с окнами на две стороны, или 'распашонки', всегда привлекают
+  внимание. Но так ли они хороши на самом деле? Команда ButlerSPB анализирует
+  все преимущества (отличная инсоляция, естественное проветривание) и недостатки
+  (возможные сквозняки, цена) как для комфортной жизни, так и для выгодной сдачи
+  в аренду. Помогаем сделать правильный выбор и оценить инвестиционную
+  привлекательность такой недвижимости в Санкт-Петербурге.
+pubDate: '2025-07-23T11:07:43.784Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: >-
+    Квартира на две стороны: полный разбор плюсов и минусов для жизни и аренды
+    от ButlerSPB
+  description: >-
+    Квартиры с окнами на две стороны, или 'распашонки', всегда привлекают
+    внимание. Но так ли они хороши на самом деле? Команда ButlerSPB анализирует
+    все преимущества (отличная инсоляция, естественное проветривание) и
+    недостатки (возможные сквозняки, цена) как для комфортной жизни, так и для
+    выгодной сдачи в аренду. Помогаем сделать правильный выбор и оценить
+    инвестиционную привлекательность такой недвижимости в Санкт-Петербурге.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '5.0'
+    reviewCount: 649
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/plyusy-i-minusy-dvuhstoronnih-kvartir-dlya-zhizni-i-arendy/
 ---
 
 # Двухсторонняя квартира: идеальная планировка для жизни и инвестиций или пережиток прошлого? Полный разбор от экспертов ButlerSPB

@@ -1,10 +1,47 @@
 ---
-title: "Квартира-памятник: особенности управления объектом культурного наследия"
-description: "Владение квартирой в историческом здании – это престиж, сопряженный с большой ответственностью. В статье блога ButlerSPB рассматриваем ключевые аспекты управления объектом культурного наследия: от юридических ограничений и согласования ремонта до тонкостей реставрации и сохранения аутентичных элементов. Узнайте, как эффективно управлять такой недвижимостью, избегая штрафов и приумножая ее ценность."
-pubDate: "2025-07-23T11:32:44.355Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Квартира-памятник: особенности управления объектом культурного наследия","description":"Владение квартирой в историческом здании – это престиж, сопряженный с большой ответственностью. В статье блога ButlerSPB рассматриваем ключевые аспекты управления объектом культурного наследия: от юридических ограничений и согласования ремонта до тонкостей реставрации и сохранения аутентичных элементов. Узнайте, как эффективно управлять такой недвижимостью, избегая штрафов и приумножая ее ценность.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.8","reviewCount":477,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/osobennosti-upravleniya-kvartiroy-yavlyayuscheysya-obektom-kulturnogo-naslediya/"}}
+title: 'Квартира-памятник: особенности управления объектом культурного наследия'
+description: >-
+  Владение квартирой в историческом здании – это престиж, сопряженный с большой
+  ответственностью. В статье блога ButlerSPB рассматриваем ключевые аспекты
+  управления объектом культурного наследия: от юридических ограничений и
+  согласования ремонта до тонкостей реставрации и сохранения аутентичных
+  элементов. Узнайте, как эффективно управлять такой недвижимостью, избегая
+  штрафов и приумножая ее ценность.
+pubDate: '2025-07-23T11:32:44.355Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Квартира-памятник: особенности управления объектом культурного наследия'
+  description: >-
+    Владение квартирой в историческом здании – это престиж, сопряженный с
+    большой ответственностью. В статье блога ButlerSPB рассматриваем ключевые
+    аспекты управления объектом культурного наследия: от юридических ограничений
+    и согласования ремонта до тонкостей реставрации и сохранения аутентичных
+    элементов. Узнайте, как эффективно управлять такой недвижимостью, избегая
+    штрафов и приумножая ее ценность.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.8'
+    reviewCount: 378
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/osobennosti-upravleniya-kvartiroy-yavlyayuscheysya-obektom-kulturnogo-naslediya/
 ---
 
 # Квартира — объект культурного наследия: Полное руководство по управлению для собственника

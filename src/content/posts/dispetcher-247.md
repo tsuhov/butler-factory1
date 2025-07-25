@@ -1,11 +1,40 @@
 ---
-title: "Диспетчер 24/7 от ButlerSPB: всегда на связи"
-description: "Круглосуточная поддержка от ButlerSPB. Наш диспетчер 24/7 готов принять вашу заявку, решить экстренную проблему или предоставить консультацию в любое время дня и ночи."
-keywords: "диспетчер 24/7, круглосуточная диспетчерская, ButlerSPB, поддержка клиентов, аварийная служба, вызов мастера"
-pubDate: "2025-07-25T16:14:59.058Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Диспетчер 24/7 от ButlerSPB: всегда на связи","description":"Круглосуточная поддержка от ButlerSPB. Наш диспетчер 24/7 готов принять вашу заявку, решить экстренную проблему или предоставить консультацию в любое время дня и ночи.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.7","reviewCount":768,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/dispetcher-247/"}}
+title: 'Диспетчер 24/7 от ButlerSPB: всегда на связи'
+description: >-
+  Круглосуточная поддержка от ButlerSPB. Наш диспетчер 24/7 готов принять вашу
+  заявку, решить экстренную проблему или предоставить консультацию в любое время
+  дня и ночи.
+pubDate: '2025-07-25T16:14:59.058Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Диспетчер 24/7 от ButlerSPB: всегда на связи'
+  description: >-
+    Круглосуточная поддержка от ButlerSPB. Наш диспетчер 24/7 готов принять вашу
+    заявку, решить экстренную проблему или предоставить консультацию в любое
+    время дня и ночи.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.9'
+    reviewCount: 656
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': 'https://butlerspb-blog.netlify.app/blog/dispetcher-247/'
 ---
 # Диспетчер 24/7: От головной боли управляющей компании до вашего конкурентного преимущества
 

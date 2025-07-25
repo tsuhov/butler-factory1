@@ -1,11 +1,40 @@
 ---
-title: "Дизайн интерьера квартиры: советы от ButlerSPB"
-description: "Создание уюта и функциональности в доме начинается с продуманного дизайна. В этой статье ButlerSPB делится секретами выбора стиля, цветовой палитры и мебели."
-keywords: "дизайн квартиры, дизайн интерьера, ремонт квартиры, идеи для интерьера, стили в интерьере, ButlerSPB"
-pubDate: "2025-07-25T14:54:58.260Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Дизайн интерьера квартиры: советы от ButlerSPB","description":"Создание уюта и функциональности в доме начинается с продуманного дизайна. В этой статье ButlerSPB делится секретами выбора стиля, цветовой палитры и мебели.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":758,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/dizayn-kvartiry/"}}
+title: 'Дизайн интерьера квартиры: советы от ButlerSPB'
+description: >-
+  Создание уюта и функциональности в доме начинается с продуманного дизайна. В
+  этой статье ButlerSPB делится секретами выбора стиля, цветовой палитры и
+  мебели.
+pubDate: '2025-07-25T14:54:58.260Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Дизайн интерьера квартиры: советы от ButlerSPB'
+  description: >-
+    Создание уюта и функциональности в доме начинается с продуманного дизайна. В
+    этой статье ButlerSPB делится секретами выбора стиля, цветовой палитры и
+    мебели.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.8'
+    reviewCount: 513
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': 'https://butlerspb-blog.netlify.app/blog/dizayn-kvartiry/'
 ---
 # Дизайн квартиры под ключ: Полное руководство от идеи до новоселья от экспертов ButlerSPB
 

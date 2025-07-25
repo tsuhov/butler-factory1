@@ -1,10 +1,49 @@
 ---
-title: "Как быстро заблокировать карту и куда обращаться за помощью: инструкция от ButlerSPB"
-description: "Потеряли карту или подозреваете мошенничество? Не паникуйте! В новой статье блога ButlerSPB мы подробно разбираем все способы моментальной блокировки банковской карты: через мобильное приложение, по телефону горячей линии и в онлайн-банке. Узнайте, что делать, если вы за границей, и куда обращаться за помощью в экстренной ситуации, чтобы защитить свои деньги."
-pubDate: "2025-07-22T11:43:49.733Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Как быстро заблокировать карту и куда обращаться за помощью: инструкция от ButlerSPB","description":"Потеряли карту или подозреваете мошенничество? Не паникуйте! В новой статье блога ButlerSPB мы подробно разбираем все способы моментальной блокировки банковской карты: через мобильное приложение, по телефону горячей линии и в онлайн-банке. Узнайте, что делать, если вы за границей, и куда обращаться за помощью в экстренной ситуации, чтобы защитить свои деньги.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.8","reviewCount":687,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/kak-bystro-zablokirovat-kartu-i-kuda-obraschatsya-za-pomoschyu/"}}
+title: >-
+  Как быстро заблокировать карту и куда обращаться за помощью: инструкция от
+  ButlerSPB
+description: >-
+  Потеряли карту или подозреваете мошенничество? Не паникуйте! В новой статье
+  блога ButlerSPB мы подробно разбираем все способы моментальной блокировки
+  банковской карты: через мобильное приложение, по телефону горячей линии и в
+  онлайн-банке. Узнайте, что делать, если вы за границей, и куда обращаться за
+  помощью в экстренной ситуации, чтобы защитить свои деньги.
+pubDate: '2025-07-22T11:43:49.733Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: >-
+    Как быстро заблокировать карту и куда обращаться за помощью: инструкция от
+    ButlerSPB
+  description: >-
+    Потеряли карту или подозреваете мошенничество? Не паникуйте! В новой статье
+    блога ButlerSPB мы подробно разбираем все способы моментальной блокировки
+    банковской карты: через мобильное приложение, по телефону горячей линии и в
+    онлайн-банке. Узнайте, что делать, если вы за границей, и куда обращаться за
+    помощью в экстренной ситуации, чтобы защитить свои деньги.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '5.0'
+    reviewCount: 757
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/kak-bystro-zablokirovat-kartu-i-kuda-obraschatsya-za-pomoschyu/
 ---
 
 # Потеряли банковскую карту? Пошаговый план: как заблокировать за минуту и что делать дальше

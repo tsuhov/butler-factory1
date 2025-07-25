@@ -1,10 +1,44 @@
 ---
-title: "Портрет современного российского туриста: что изменилось и чего ожидать"
-description: "Путешествия по России и за рубеж снова набирают популярность. Но кто он, сегодняшний турист из России? В новой статье блога ButlerSPB мы разбираем актуальные тренды: от спонтанных поездок на выходные до тщательно спланированных отпусков. Анализируем предпочтения в выборе жилья, экскурсий и сервиса, чтобы ваш бизнес всегда был на шаг впереди."
-pubDate: "2025-07-22T00:56:01.693Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Портрет современного российского туриста: что изменилось и чего ожидать","description":"Путешествия по России и за рубеж снова набирают популярность. Но кто он, сегодняшний турист из России? В новой статье блога ButlerSPB мы разбираем актуальные тренды: от спонтанных поездок на выходные до тщательно спланированных отпусков. Анализируем предпочтения в выборе жилья, экскурсий и сервиса, чтобы ваш бизнес всегда был на шаг впереди.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":431,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/turisty-iz-rossii/"}}
+title: 'Портрет современного российского туриста: что изменилось и чего ожидать'
+description: >-
+  Путешествия по России и за рубеж снова набирают популярность. Но кто он,
+  сегодняшний турист из России? В новой статье блога ButlerSPB мы разбираем
+  актуальные тренды: от спонтанных поездок на выходные до тщательно
+  спланированных отпусков. Анализируем предпочтения в выборе жилья, экскурсий и
+  сервиса, чтобы ваш бизнес всегда был на шаг впереди.
+pubDate: '2025-07-22T00:56:01.693Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Портрет современного российского туриста: что изменилось и чего ожидать'
+  description: >-
+    Путешествия по России и за рубеж снова набирают популярность. Но кто он,
+    сегодняшний турист из России? В новой статье блога ButlerSPB мы разбираем
+    актуальные тренды: от спонтанных поездок на выходные до тщательно
+    спланированных отпусков. Анализируем предпочтения в выборе жилья, экскурсий
+    и сервиса, чтобы ваш бизнес всегда был на шаг впереди.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.8'
+    reviewCount: 593
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': 'https://butlerspb-blog.netlify.app/blog/turisty-iz-rossii/'
 ---
 
 # Портрет современного российского туриста: Как организовать идеальный отдых в Санкт-Петербурге

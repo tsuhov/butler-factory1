@@ -1,10 +1,45 @@
 ---
-title: "Аренда квартиры под офис: согласие соседей и требования закона"
-description: "Планируете использовать квартиру как офис? В новой статье блога ButlerSPB разбираемся в юридических тонкостях: когда требуется согласие соседей, какие виды деятельности разрешены в жилых помещениях согласно Жилищному кодексу РФ, и как собственнику и арендатору избежать штрафов и конфликтов. Все, что нужно знать, прежде чем подписывать договор."
-pubDate: "2025-07-23T11:47:42.703Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Аренда квартиры под офис: согласие соседей и требования закона","description":"Планируете использовать квартиру как офис? В новой статье блога ButlerSPB разбираемся в юридических тонкостях: когда требуется согласие соседей, какие виды деятельности разрешены в жилых помещениях согласно Жилищному кодексу РФ, и как собственнику и арендатору избежать штрафов и конфликтов. Все, что нужно знать, прежде чем подписывать договор.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"5.0","reviewCount":788,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/arenda-kvartiry-pod-ofis-soglasie-sosedey-i-trebovaniya-zakona/"}}
+title: 'Аренда квартиры под офис: согласие соседей и требования закона'
+description: >-
+  Планируете использовать квартиру как офис? В новой статье блога ButlerSPB
+  разбираемся в юридических тонкостях: когда требуется согласие соседей, какие
+  виды деятельности разрешены в жилых помещениях согласно Жилищному кодексу РФ,
+  и как собственнику и арендатору избежать штрафов и конфликтов. Все, что нужно
+  знать, прежде чем подписывать договор.
+pubDate: '2025-07-23T11:47:42.703Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Аренда квартиры под офис: согласие соседей и требования закона'
+  description: >-
+    Планируете использовать квартиру как офис? В новой статье блога ButlerSPB
+    разбираемся в юридических тонкостях: когда требуется согласие соседей, какие
+    виды деятельности разрешены в жилых помещениях согласно Жилищному кодексу
+    РФ, и как собственнику и арендатору избежать штрафов и конфликтов. Все, что
+    нужно знать, прежде чем подписывать договор.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '5.0'
+    reviewCount: 720
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/arenda-kvartiry-pod-ofis-soglasie-sosedey-i-trebovaniya-zakona/
 ---
 
 # Аренда квартиры под офис: полное руководство по закону, согласию соседей и рискам

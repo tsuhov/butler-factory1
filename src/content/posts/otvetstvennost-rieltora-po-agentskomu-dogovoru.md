@@ -1,10 +1,47 @@
 ---
-title: "Ответственность риэлтора по агентскому договору: что нужно знать клиенту?"
-description: "Агентский договор — это не просто формальность, а ключевой документ, определяющий границы ответственности вашего риэлтора. В новой статье блога ButlerSPB мы подробно разбираем, за что именно отвечает агент: от проверки юридической чистоты объекта до финансовой безопасности сделки. Узнайте, какие пункты договора защищают ваши интересы и что делать, если риэлтор не выполнил свои обязательства."
-pubDate: "2025-07-23T15:40:45.049Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Ответственность риэлтора по агентскому договору: что нужно знать клиенту?","description":"Агентский договор — это не просто формальность, а ключевой документ, определяющий границы ответственности вашего риэлтора. В новой статье блога ButlerSPB мы подробно разбираем, за что именно отвечает агент: от проверки юридической чистоты объекта до финансовой безопасности сделки. Узнайте, какие пункты договора защищают ваши интересы и что делать, если риэлтор не выполнил свои обязательства.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":690,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/otvetstvennost-rieltora-po-agentskomu-dogovoru/"}}
+title: 'Ответственность риэлтора по агентскому договору: что нужно знать клиенту?'
+description: >-
+  Агентский договор — это не просто формальность, а ключевой документ,
+  определяющий границы ответственности вашего риэлтора. В новой статье блога
+  ButlerSPB мы подробно разбираем, за что именно отвечает агент: от проверки
+  юридической чистоты объекта до финансовой безопасности сделки. Узнайте, какие
+  пункты договора защищают ваши интересы и что делать, если риэлтор не выполнил
+  свои обязательства.
+pubDate: '2025-07-23T15:40:45.049Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Ответственность риэлтора по агентскому договору: что нужно знать клиенту?'
+  description: >-
+    Агентский договор — это не просто формальность, а ключевой документ,
+    определяющий границы ответственности вашего риэлтора. В новой статье блога
+    ButlerSPB мы подробно разбираем, за что именно отвечает агент: от проверки
+    юридической чистоты объекта до финансовой безопасности сделки. Узнайте,
+    какие пункты договора защищают ваши интересы и что делать, если риэлтор не
+    выполнил свои обязательства.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.7'
+    reviewCount: 303
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/otvetstvennost-rieltora-po-agentskomu-dogovoru/
 ---
 
 # Ответственность риэлтора по агентскому договору: полный гид по защите ваших интересов

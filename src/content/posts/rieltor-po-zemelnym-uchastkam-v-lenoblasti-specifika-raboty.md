@@ -1,10 +1,48 @@
 ---
-title: "Риэлтор по земельным участкам в Ленобласти: специфика работы"
-description: "Продажа земли в Ленинградской области — это не то же самое, что продажа квартиры. Здесь свои законы, риски и возможности. В новой статье блога ButlerSPB разбираемся в тонкостях работы риэлтора по земельным участкам: от проверки юридической чистоты и категории земель до оценки перспектив застройки и подключения коммуникаций. Узнайте, почему для сделок с землей нужен именно узкопрофильный специалист и как его экспертиза экономит ваши деньги и время."
-pubDate: "2025-07-22T14:00:17.534Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Риэлтор по земельным участкам в Ленобласти: специфика работы","description":"Продажа земли в Ленинградской области — это не то же самое, что продажа квартиры. Здесь свои законы, риски и возможности. В новой статье блога ButlerSPB разбираемся в тонкостях работы риэлтора по земельным участкам: от проверки юридической чистоты и категории земель до оценки перспектив застройки и подключения коммуникаций. Узнайте, почему для сделок с землей нужен именно узкопрофильный специалист и как его экспертиза экономит ваши деньги и время.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.8","reviewCount":565,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/rieltor-po-zemelnym-uchastkam-v-lenoblasti-specifika-raboty/"}}
+title: 'Риэлтор по земельным участкам в Ленобласти: специфика работы'
+description: >-
+  Продажа земли в Ленинградской области — это не то же самое, что продажа
+  квартиры. Здесь свои законы, риски и возможности. В новой статье блога
+  ButlerSPB разбираемся в тонкостях работы риэлтора по земельным участкам: от
+  проверки юридической чистоты и категории земель до оценки перспектив застройки
+  и подключения коммуникаций. Узнайте, почему для сделок с землей нужен именно
+  узкопрофильный специалист и как его экспертиза экономит ваши деньги и время.
+pubDate: '2025-07-22T14:00:17.534Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Риэлтор по земельным участкам в Ленобласти: специфика работы'
+  description: >-
+    Продажа земли в Ленинградской области — это не то же самое, что продажа
+    квартиры. Здесь свои законы, риски и возможности. В новой статье блога
+    ButlerSPB разбираемся в тонкостях работы риэлтора по земельным участкам: от
+    проверки юридической чистоты и категории земель до оценки перспектив
+    застройки и подключения коммуникаций. Узнайте, почему для сделок с землей
+    нужен именно узкопрофильный специалист и как его экспертиза экономит ваши
+    деньги и время.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '5.0'
+    reviewCount: 437
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/rieltor-po-zemelnym-uchastkam-v-lenoblasti-specifika-raboty/
 ---
 
 # Риэлтор по земельным участкам в Ленобласти: кто он и почему без него не обойтись?

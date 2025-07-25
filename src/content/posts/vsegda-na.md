@@ -1,11 +1,40 @@
 ---
-title: "ButlerSPB: Ваш надежный сервис всегда на связи"
-description: "В современном мире критически важно иметь партнера, который доступен в любой момент. ButlerSPB гарантирует постоянную поддержку и готовность решить ваши задачи 24/7."
-keywords: "ButlerSPB, поддержка 24/7, всегда на связи, надежный сервис, клиентский сервис, консьерж-сервис, обслуживание спб"
-pubDate: "2025-07-25T13:57:39.954Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"ButlerSPB: Ваш надежный сервис всегда на связи","description":"В современном мире критически важно иметь партнера, который доступен в любой момент. ButlerSPB гарантирует постоянную поддержку и готовность решить ваши задачи 24/7.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":646,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/vsegda-na/"}}
+title: 'ButlerSPB: Ваш надежный сервис всегда на связи'
+description: >-
+  В современном мире критически важно иметь партнера, который доступен в любой
+  момент. ButlerSPB гарантирует постоянную поддержку и готовность решить ваши
+  задачи 24/7.
+pubDate: '2025-07-25T13:57:39.954Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'ButlerSPB: Ваш надежный сервис всегда на связи'
+  description: >-
+    В современном мире критически важно иметь партнера, который доступен в любой
+    момент. ButlerSPB гарантирует постоянную поддержку и готовность решить ваши
+    задачи 24/7.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.8'
+    reviewCount: 628
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': 'https://butlerspb-blog.netlify.app/blog/vsegda-na/'
 ---
 # Всегда наготове: Что на самом деле означает круглосуточный консьерж-сервис в Санкт-Петербурге?
 

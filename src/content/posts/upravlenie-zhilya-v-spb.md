@@ -1,10 +1,48 @@
 ---
-title: "Эффективное управление жильем в Санкт-Петербурге: Руководство для собственников от ButlerSPB"
-description: "Владение квартирой в Санкт-Петербурге — это ценный актив, но его управление требует времени и знаний. В этой статье мы расскажем, как доверительное управление от ButlerSPB помогает получать стабильный доход от аренды, избегая типичных проблем: от поиска надежных жильцов до решения бытовых и юридических вопросов."
-pubDate: "2025-07-22T10:12:54.251Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Эффективное управление жильем в Санкт-Петербурге: Руководство для собственников от ButlerSPB","description":"Владение квартирой в Санкт-Петербурге — это ценный актив, но его управление требует времени и знаний. В этой статье мы расскажем, как доверительное управление от ButlerSPB помогает получать стабильный доход от аренды, избегая типичных проблем: от поиска надежных жильцов до решения бытовых и юридических вопросов.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"5.0","reviewCount":884,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/upravlenie-zhilya-v-spb/"}}
+title: >-
+  Эффективное управление жильем в Санкт-Петербурге: Руководство для
+  собственников от ButlerSPB
+description: >-
+  Владение квартирой в Санкт-Петербурге — это ценный актив, но его управление
+  требует времени и знаний. В этой статье мы расскажем, как доверительное
+  управление от ButlerSPB помогает получать стабильный доход от аренды, избегая
+  типичных проблем: от поиска надежных жильцов до решения бытовых и юридических
+  вопросов.
+pubDate: '2025-07-22T10:12:54.251Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: >-
+    Эффективное управление жильем в Санкт-Петербурге: Руководство для
+    собственников от ButlerSPB
+  description: >-
+    Владение квартирой в Санкт-Петербурге — это ценный актив, но его управление
+    требует времени и знаний. В этой статье мы расскажем, как доверительное
+    управление от ButlerSPB помогает получать стабильный доход от аренды,
+    избегая типичных проблем: от поиска надежных жильцов до решения бытовых и
+    юридических вопросов.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '5.0'
+    reviewCount: 441
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': 'https://butlerspb-blog.netlify.app/blog/upravlenie-zhilya-v-spb/'
 ---
 
 # Управление жильем в СПб: Превратите вашу квартиру из заботы в стабильный актив

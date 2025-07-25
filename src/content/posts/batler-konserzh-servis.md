@@ -1,11 +1,39 @@
 ---
-title: "Батлер Консьерж-сервис от ButlerSPB в СПб"
-description: "Узнайте все о батлер-консьерж сервисе от ButlerSPB. Мы предлагаем эксклюзивные услуги для решения любых ваших задач: от бронирования до личных поручений."
-keywords: "батлер, консьерж, ButlerSPB, персональный ассистент, лайфстайл менеджмент, услуги консьержа, элитный сервис"
-pubDate: "2025-07-24T13:04:31.882Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Батлер Консьерж-сервис от ButlerSPB в СПб","description":"Узнайте все о батлер-консьерж сервисе от ButlerSPB. Мы предлагаем эксклюзивные услуги для решения любых ваших задач: от бронирования до личных поручений.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"5.0","reviewCount":629,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/batler-konserzh-servis/"}}
+title: Батлер Консьерж-сервис от ButlerSPB в СПб
+description: >-
+  Узнайте все о батлер-консьерж сервисе от ButlerSPB. Мы предлагаем эксклюзивные
+  услуги для решения любых ваших задач: от бронирования до личных поручений.
+pubDate: '2025-07-24T13:04:31.882Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: Батлер Консьерж-сервис от ButlerSPB в СПб
+  description: >-
+    Узнайте все о батлер-консьерж сервисе от ButlerSPB. Мы предлагаем
+    эксклюзивные услуги для решения любых ваших задач: от бронирования до личных
+    поручений.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '5.0'
+    reviewCount: 769
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': 'https://butlerspb-blog.netlify.app/blog/batler-konserzh-servis/'
 ---
 # Батлер Консьерж-сервис: Ваш ключ к миру эксклюзивных возможностей и безупречному стилю жизни
 

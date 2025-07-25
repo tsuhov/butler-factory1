@@ -1,10 +1,49 @@
 ---
-title: "Продаем квартиру быстрее: как качественные фотографии влияют на скорость сделки"
-description: "Первое, что видит потенциальный покупатель в объявлении — это фотографии. Именно они формируют первое впечатление и мотивируют на просмотр. В блоге ButlerSPB разбираемся, как правильно подготовленные и профессиональные снимки могут сократить время продажи квартиры в несколько раз, привлечь больше целевых клиентов и даже повысить ее итоговую стоимость."
-pubDate: "2025-07-23T11:12:35.251Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Продаем квартиру быстрее: как качественные фотографии влияют на скорость сделки","description":"Первое, что видит потенциальный покупатель в объявлении — это фотографии. Именно они формируют первое впечатление и мотивируют на просмотр. В блоге ButlerSPB разбираемся, как правильно подготовленные и профессиональные снимки могут сократить время продажи квартиры в несколько раз, привлечь больше целевых клиентов и даже повысить ее итоговую стоимость.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.8","reviewCount":511,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/kak-fotografii-vliyayut-na-skorost-prodazhi-kvartiry/"}}
+title: >-
+  Продаем квартиру быстрее: как качественные фотографии влияют на скорость
+  сделки
+description: >-
+  Первое, что видит потенциальный покупатель в объявлении — это фотографии.
+  Именно они формируют первое впечатление и мотивируют на просмотр. В блоге
+  ButlerSPB разбираемся, как правильно подготовленные и профессиональные снимки
+  могут сократить время продажи квартиры в несколько раз, привлечь больше
+  целевых клиентов и даже повысить ее итоговую стоимость.
+pubDate: '2025-07-23T11:12:35.251Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: >-
+    Продаем квартиру быстрее: как качественные фотографии влияют на скорость
+    сделки
+  description: >-
+    Первое, что видит потенциальный покупатель в объявлении — это фотографии.
+    Именно они формируют первое впечатление и мотивируют на просмотр. В блоге
+    ButlerSPB разбираемся, как правильно подготовленные и профессиональные
+    снимки могут сократить время продажи квартиры в несколько раз, привлечь
+    больше целевых клиентов и даже повысить ее итоговую стоимость.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.8'
+    reviewCount: 889
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/kak-fotografii-vliyayut-na-skorost-prodazhi-kvartiry/
 ---
 
 # Как качественные фото ускоряют продажу квартиры на 45%? Полное руководство от ButlerSPB

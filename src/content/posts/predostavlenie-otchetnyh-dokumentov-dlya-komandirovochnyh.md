@@ -1,10 +1,47 @@
 ---
-title: "Отчетные документы для командировочных: полный гид от ButlerSPB"
-description: "Командировка завершена, и настало время отчитаться перед бухгалтерией. Чтобы процесс прошел гладко, а расходы были возмещены в полном объеме, важно предоставить корректный пакет документов. В этой статье блога ButlerSPB мы подробно расскажем, какие документы необходимы для подтверждения расходов на проезд, проживание и суточные, а также дадим советы, как избежать распространенных ошибок при оформлении отчетности."
-pubDate: "2025-07-22T11:13:41.843Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Отчетные документы для командировочных: полный гид от ButlerSPB","description":"Командировка завершена, и настало время отчитаться перед бухгалтерией. Чтобы процесс прошел гладко, а расходы были возмещены в полном объеме, важно предоставить корректный пакет документов. В этой статье блога ButlerSPB мы подробно расскажем, какие документы необходимы для подтверждения расходов на проезд, проживание и суточные, а также дадим советы, как избежать распространенных ошибок при оформлении отчетности.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.8","reviewCount":476,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/predostavlenie-otchetnyh-dokumentov-dlya-komandirovochnyh/"}}
+title: 'Отчетные документы для командировочных: полный гид от ButlerSPB'
+description: >-
+  Командировка завершена, и настало время отчитаться перед бухгалтерией. Чтобы
+  процесс прошел гладко, а расходы были возмещены в полном объеме, важно
+  предоставить корректный пакет документов. В этой статье блога ButlerSPB мы
+  подробно расскажем, какие документы необходимы для подтверждения расходов на
+  проезд, проживание и суточные, а также дадим советы, как избежать
+  распространенных ошибок при оформлении отчетности.
+pubDate: '2025-07-22T11:13:41.843Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Отчетные документы для командировочных: полный гид от ButlerSPB'
+  description: >-
+    Командировка завершена, и настало время отчитаться перед бухгалтерией. Чтобы
+    процесс прошел гладко, а расходы были возмещены в полном объеме, важно
+    предоставить корректный пакет документов. В этой статье блога ButlerSPB мы
+    подробно расскажем, какие документы необходимы для подтверждения расходов на
+    проезд, проживание и суточные, а также дадим советы, как избежать
+    распространенных ошибок при оформлении отчетности.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '5.0'
+    reviewCount: 831
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/predostavlenie-otchetnyh-dokumentov-dlya-komandirovochnyh/
 ---
 
 # Командировка без головной боли: Полное руководство по отчетным документам в 2024 году

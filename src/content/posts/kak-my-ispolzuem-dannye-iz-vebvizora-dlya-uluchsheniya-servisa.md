@@ -1,10 +1,43 @@
 ---
-title: "Как мы используем данные из Вебвизора для улучшения сервиса"
-description: "Загляните 'за кулисы' ButlerSPB! В новой статье мы на реальных примерах показываем, как анализ записей сессий в Вебвизоре помогает нам увидеть сайт глазами клиентов, найти неочевидные проблемы в интерфейсе и сделать наш сервис еще удобнее для вас."
-pubDate: "2025-07-22T11:22:43.480Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Как мы используем данные из Вебвизора для улучшения сервиса","description":"Загляните 'за кулисы' ButlerSPB! В новой статье мы на реальных примерах показываем, как анализ записей сессий в Вебвизоре помогает нам увидеть сайт глазами клиентов, найти неочевидные проблемы в интерфейсе и сделать наш сервис еще удобнее для вас.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.8","reviewCount":605,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/kak-my-ispolzuem-dannye-iz-vebvizora-dlya-uluchsheniya-servisa/"}}
+title: Как мы используем данные из Вебвизора для улучшения сервиса
+description: >-
+  Загляните 'за кулисы' ButlerSPB! В новой статье мы на реальных примерах
+  показываем, как анализ записей сессий в Вебвизоре помогает нам увидеть сайт
+  глазами клиентов, найти неочевидные проблемы в интерфейсе и сделать наш сервис
+  еще удобнее для вас.
+pubDate: '2025-07-22T11:22:43.480Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: Как мы используем данные из Вебвизора для улучшения сервиса
+  description: >-
+    Загляните 'за кулисы' ButlerSPB! В новой статье мы на реальных примерах
+    показываем, как анализ записей сессий в Вебвизоре помогает нам увидеть сайт
+    глазами клиентов, найти неочевидные проблемы в интерфейсе и сделать наш
+    сервис еще удобнее для вас.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '5.0'
+    reviewCount: 559
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/kak-my-ispolzuem-dannye-iz-vebvizora-dlya-uluchsheniya-servisa/
 ---
 
 # Кейс ButlerSPB: Как мы используем Вебвизор, чтобы сделать наш сервис безупречным

@@ -1,10 +1,49 @@
 ---
-title: "Всегда на шаг впереди: как мы в ButlerSPB анализируем конкурентов в реальном времени"
-description: "В новой статье нашего блога мы раскрываем внутренние процессы и инструменты, которые позволяют нам отслеживать действия конкурентов 24/7. Узнайте, какие метрики мы мониторим, как автоматизируем сбор данных и превращаем информацию в мгновенные тактические решения, чтобы всегда предлагать нашим клиентам лучшие условия."
-pubDate: "2025-07-22T11:29:20.991Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Всегда на шаг впереди: как мы в ButlerSPB анализируем конкурентов в реальном времени","description":"В новой статье нашего блога мы раскрываем внутренние процессы и инструменты, которые позволяют нам отслеживать действия конкурентов 24/7. Узнайте, какие метрики мы мониторим, как автоматизируем сбор данных и превращаем информацию в мгновенные тактические решения, чтобы всегда предлагать нашим клиентам лучшие условия.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":402,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/kak-my-analiziruem-konkurentov-v-realnom-vremeni/"}}
+title: >-
+  Всегда на шаг впереди: как мы в ButlerSPB анализируем конкурентов в реальном
+  времени
+description: >-
+  В новой статье нашего блога мы раскрываем внутренние процессы и инструменты,
+  которые позволяют нам отслеживать действия конкурентов 24/7. Узнайте, какие
+  метрики мы мониторим, как автоматизируем сбор данных и превращаем информацию в
+  мгновенные тактические решения, чтобы всегда предлагать нашим клиентам лучшие
+  условия.
+pubDate: '2025-07-22T11:29:20.991Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: >-
+    Всегда на шаг впереди: как мы в ButlerSPB анализируем конкурентов в реальном
+    времени
+  description: >-
+    В новой статье нашего блога мы раскрываем внутренние процессы и инструменты,
+    которые позволяют нам отслеживать действия конкурентов 24/7. Узнайте, какие
+    метрики мы мониторим, как автоматизируем сбор данных и превращаем информацию
+    в мгновенные тактические решения, чтобы всегда предлагать нашим клиентам
+    лучшие условия.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.9'
+    reviewCount: 741
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/kak-my-analiziruem-konkurentov-v-realnom-vremeni/
 ---
 
 # Как мы анализируем конкурентов в реальном времени: полный разбор методологии ButlerSPB

@@ -1,10 +1,43 @@
 ---
-title: "Покупка помещения под ресторан: требования СЭС и пожарной инспекции"
-description: "Планируете открыть ресторан, но боитесь проверок? Команда ButlerSPB подготовила подробный гайд по ключевым требованиям СЭС (Роспотребнадзора) и Пожарной инспекции к помещению для общепита. Читайте в нашей статье, как выбрать идеальное пространство и избежать штрафов."
-pubDate: "2025-07-23T12:26:38.627Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Покупка помещения под ресторан: требования СЭС и пожарной инспекции","description":"Планируете открыть ресторан, но боитесь проверок? Команда ButlerSPB подготовила подробный гайд по ключевым требованиям СЭС (Роспотребнадзора) и Пожарной инспекции к помещению для общепита. Читайте в нашей статье, как выбрать идеальное пространство и избежать штрафов.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.7","reviewCount":442,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/pokupka-pomescheniya-pod-restoran-trebovaniya-ses-i-pozharnyh/"}}
+title: 'Покупка помещения под ресторан: требования СЭС и пожарной инспекции'
+description: >-
+  Планируете открыть ресторан, но боитесь проверок? Команда ButlerSPB
+  подготовила подробный гайд по ключевым требованиям СЭС (Роспотребнадзора) и
+  Пожарной инспекции к помещению для общепита. Читайте в нашей статье, как
+  выбрать идеальное пространство и избежать штрафов.
+pubDate: '2025-07-23T12:26:38.627Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Покупка помещения под ресторан: требования СЭС и пожарной инспекции'
+  description: >-
+    Планируете открыть ресторан, но боитесь проверок? Команда ButlerSPB
+    подготовила подробный гайд по ключевым требованиям СЭС (Роспотребнадзора) и
+    Пожарной инспекции к помещению для общепита. Читайте в нашей статье, как
+    выбрать идеальное пространство и избежать штрафов.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.8'
+    reviewCount: 348
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/pokupka-pomescheniya-pod-restoran-trebovaniya-ses-i-pozharnyh/
 ---
 
 # Цена ошибки — миллионы: как не прогореть на требованиях СЭС и пожарных при покупке помещения под ресторан

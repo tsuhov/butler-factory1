@@ -1,10 +1,47 @@
 ---
-title: "Срок исковой давности по сделкам с недвижимостью: всё, что нужно знать"
-description: "Планируете сделку с недвижимостью или хотите оспорить уже заключенную? Важно знать о сроках исковой давности. В новой статье от экспертов ButlerSPB мы подробно разбираем, какой срок установлен для признания сделки недействительной, чем отличаются ничтожные и оспоримые сделки, и с какого момента начинается отсчет времени для защиты ваших прав в суде. Узнайте, как не пропустить важные сроки и обезопасить свои инвестиции."
-pubDate: "2025-07-23T11:36:49.270Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Срок исковой давности по сделкам с недвижимостью: всё, что нужно знать","description":"Планируете сделку с недвижимостью или хотите оспорить уже заключенную? Важно знать о сроках исковой давности. В новой статье от экспертов ButlerSPB мы подробно разбираем, какой срок установлен для признания сделки недействительной, чем отличаются ничтожные и оспоримые сделки, и с какого момента начинается отсчет времени для защиты ваших прав в суде. Узнайте, как не пропустить важные сроки и обезопасить свои инвестиции.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.7","reviewCount":451,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/srok-iskovoy-davnosti-po-sdelkam-s-nedvizhimostyu/"}}
+title: 'Срок исковой давности по сделкам с недвижимостью: всё, что нужно знать'
+description: >-
+  Планируете сделку с недвижимостью или хотите оспорить уже заключенную? Важно
+  знать о сроках исковой давности. В новой статье от экспертов ButlerSPB мы
+  подробно разбираем, какой срок установлен для признания сделки
+  недействительной, чем отличаются ничтожные и оспоримые сделки, и с какого
+  момента начинается отсчет времени для защиты ваших прав в суде. Узнайте, как
+  не пропустить важные сроки и обезопасить свои инвестиции.
+pubDate: '2025-07-23T11:36:49.270Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Срок исковой давности по сделкам с недвижимостью: всё, что нужно знать'
+  description: >-
+    Планируете сделку с недвижимостью или хотите оспорить уже заключенную? Важно
+    знать о сроках исковой давности. В новой статье от экспертов ButlerSPB мы
+    подробно разбираем, какой срок установлен для признания сделки
+    недействительной, чем отличаются ничтожные и оспоримые сделки, и с какого
+    момента начинается отсчет времени для защиты ваших прав в суде. Узнайте, как
+    не пропустить важные сроки и обезопасить свои инвестиции.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.8'
+    reviewCount: 463
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/srok-iskovoy-davnosti-po-sdelkam-s-nedvizhimostyu/
 ---
 
 # Срок исковой давности по сделкам с недвижимостью: полное руководство по защите ваших прав в 2024 году

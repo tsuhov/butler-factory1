@@ -1,11 +1,38 @@
 ---
-title: "Безупречный сервис от ButlerSPB: наши стандарты"
-description: "В этой статье мы раскрываем секреты безупречного сервиса ButlerSPB. Узнайте о наших принципах, внимании к деталям и о том, как мы превосходим ожидания."
-keywords: "безупречный сервис, клиентский сервис, ButlerSPB, стандарты качества, обслуживание клиентов, консьерж-сервис, премиум-сервис"
-pubDate: "2025-07-24T13:37:12.028Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Безупречный сервис от ButlerSPB: наши стандарты","description":"В этой статье мы раскрываем секреты безупречного сервиса ButlerSPB. Узнайте о наших принципах, внимании к деталям и о том, как мы превосходим ожидания.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":625,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/bezuprechnyy-servis/"}}
+title: 'Безупречный сервис от ButlerSPB: наши стандарты'
+description: >-
+  В этой статье мы раскрываем секреты безупречного сервиса ButlerSPB. Узнайте о
+  наших принципах, внимании к деталям и о том, как мы превосходим ожидания.
+pubDate: '2025-07-24T13:37:12.028Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Безупречный сервис от ButlerSPB: наши стандарты'
+  description: >-
+    В этой статье мы раскрываем секреты безупречного сервиса ButlerSPB. Узнайте
+    о наших принципах, внимании к деталям и о том, как мы превосходим ожидания.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.9'
+    reviewCount: 821
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': 'https://butlerspb-blog.netlify.app/blog/bezuprechnyy-servis/'
 ---
 # Безупречный сервис: Больше чем услуга, это — философия
 

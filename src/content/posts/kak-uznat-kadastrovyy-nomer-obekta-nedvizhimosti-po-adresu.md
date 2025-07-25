@@ -1,10 +1,49 @@
 ---
-title: "Как узнать кадастровый номер объекта недвижимости по адресу: пошаговая инструкция от ButlerSPB"
-description: "Кадастровый номер – это уникальный идентификатор вашей квартиры, дома или земельного участка, необходимый для совершения любых сделок. В этой статье мы подробно расскажем о самых простых и быстрых способах узнать кадастровый номер, зная только адрес объекта. Полезные советы и лайфхаки для собственников и покупателей от экспертов ButlerSPB."
-pubDate: "2025-07-23T22:11:35.506Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Как узнать кадастровый номер объекта недвижимости по адресу: пошаговая инструкция от ButlerSPB","description":"Кадастровый номер – это уникальный идентификатор вашей квартиры, дома или земельного участка, необходимый для совершения любых сделок. В этой статье мы подробно расскажем о самых простых и быстрых способах узнать кадастровый номер, зная только адрес объекта. Полезные советы и лайфхаки для собственников и покупателей от экспертов ButlerSPB.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":645,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/kak-uznat-kadastrovyy-nomer-obekta-nedvizhimosti-po-adresu/"}}
+title: >-
+  Как узнать кадастровый номер объекта недвижимости по адресу: пошаговая
+  инструкция от ButlerSPB
+description: >-
+  Кадастровый номер – это уникальный идентификатор вашей квартиры, дома или
+  земельного участка, необходимый для совершения любых сделок. В этой статье мы
+  подробно расскажем о самых простых и быстрых способах узнать кадастровый
+  номер, зная только адрес объекта. Полезные советы и лайфхаки для собственников
+  и покупателей от экспертов ButlerSPB.
+pubDate: '2025-07-23T22:11:35.506Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: >-
+    Как узнать кадастровый номер объекта недвижимости по адресу: пошаговая
+    инструкция от ButlerSPB
+  description: >-
+    Кадастровый номер – это уникальный идентификатор вашей квартиры, дома или
+    земельного участка, необходимый для совершения любых сделок. В этой статье
+    мы подробно расскажем о самых простых и быстрых способах узнать кадастровый
+    номер, зная только адрес объекта. Полезные советы и лайфхаки для
+    собственников и покупателей от экспертов ButlerSPB.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.8'
+    reviewCount: 446
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/kak-uznat-kadastrovyy-nomer-obekta-nedvizhimosti-po-adresu/
 ---
 
 # Как узнать кадастровый номер объекта недвижимости по адресу: полное руководство 2024

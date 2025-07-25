@@ -1,11 +1,39 @@
 ---
-title: "Удобство гостей: главный приоритет ButlerSPB"
-description: "ButlerSPB знает, что комфорт гостя — залог высоких оценок и повторных визитов. В этой статье мы расскажем, как создать идеальные условия для проживания."
-keywords: "удобство гостей, комфорт гостей, гостеприимство, сервис для гостей, управление недвижимостью, ButlerSPB"
-pubDate: "2025-07-25T15:46:39.348Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Удобство гостей: главный приоритет ButlerSPB","description":"ButlerSPB знает, что комфорт гостя — залог высоких оценок и повторных визитов. В этой статье мы расскажем, как создать идеальные условия для проживания.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.7","reviewCount":712,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/udobstvo-gostey/"}}
+title: 'Удобство гостей: главный приоритет ButlerSPB'
+description: >-
+  ButlerSPB знает, что комфорт гостя — залог высоких оценок и повторных визитов.
+  В этой статье мы расскажем, как создать идеальные условия для проживания.
+pubDate: '2025-07-25T15:46:39.348Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Удобство гостей: главный приоритет ButlerSPB'
+  description: >-
+    ButlerSPB знает, что комфорт гостя — залог высоких оценок и повторных
+    визитов. В этой статье мы расскажем, как создать идеальные условия для
+    проживания.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.9'
+    reviewCount: 827
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': 'https://butlerspb-blog.netlify.app/blog/udobstvo-gostey/'
 ---
 # Удобство гостей: от А до Я. Полный гайд от ButlerSPB по созданию идеального пространства для отдыха
 

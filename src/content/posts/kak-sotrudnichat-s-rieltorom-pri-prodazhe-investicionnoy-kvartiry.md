@@ -1,10 +1,45 @@
 ---
-title: "Продажа инвестиционной квартиры: как эффективно сотрудничать с риэлтором"
-description: "Инвестиционная квартира — это актив, который должен приносить прибыль. Узнайте из статьи в блоге ButlerSPB, как правильно выбрать риэлтора для продажи объекта, какие цели перед ним ставить, как контролировать процесс и наладить коммуникацию, чтобы сделка прошла максимально быстро и выгодно для вас. Делимся профессиональными секретами для инвесторов."
-pubDate: "2025-07-23T10:43:45.247Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Продажа инвестиционной квартиры: как эффективно сотрудничать с риэлтором","description":"Инвестиционная квартира — это актив, который должен приносить прибыль. Узнайте из статьи в блоге ButlerSPB, как правильно выбрать риэлтора для продажи объекта, какие цели перед ним ставить, как контролировать процесс и наладить коммуникацию, чтобы сделка прошла максимально быстро и выгодно для вас. Делимся профессиональными секретами для инвесторов.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":583,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/kak-sotrudnichat-s-rieltorom-pri-prodazhe-investicionnoy-kvartiry/"}}
+title: 'Продажа инвестиционной квартиры: как эффективно сотрудничать с риэлтором'
+description: >-
+  Инвестиционная квартира — это актив, который должен приносить прибыль. Узнайте
+  из статьи в блоге ButlerSPB, как правильно выбрать риэлтора для продажи
+  объекта, какие цели перед ним ставить, как контролировать процесс и наладить
+  коммуникацию, чтобы сделка прошла максимально быстро и выгодно для вас.
+  Делимся профессиональными секретами для инвесторов.
+pubDate: '2025-07-23T10:43:45.247Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Продажа инвестиционной квартиры: как эффективно сотрудничать с риэлтором'
+  description: >-
+    Инвестиционная квартира — это актив, который должен приносить прибыль.
+    Узнайте из статьи в блоге ButlerSPB, как правильно выбрать риэлтора для
+    продажи объекта, какие цели перед ним ставить, как контролировать процесс и
+    наладить коммуникацию, чтобы сделка прошла максимально быстро и выгодно для
+    вас. Делимся профессиональными секретами для инвесторов.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.7'
+    reviewCount: 843
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/kak-sotrudnichat-s-rieltorom-pri-prodazhe-investicionnoy-kvartiry/
 ---
 
 # Как сотрудничать с риэлтором при продаже инвестиционной квартиры: полное руководство по максимизации вашей прибыли

@@ -1,11 +1,40 @@
 ---
-title: "Искусство замечать приятные мелочи в жизни"
-description: "В суете большого города мы часто забываем о маленьких радостях. ButlerSPB напоминает, как важно находить моменты счастья в повседневных делах и создавать уют."
-keywords: "приятные мелочи, маленькие радости, радость в моменте, осознанность, уют, забота о себе, качество жизни"
-pubDate: "2025-07-24T13:50:29.291Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Искусство замечать приятные мелочи в жизни","description":"В суете большого города мы часто забываем о маленьких радостях. ButlerSPB напоминает, как важно находить моменты счастья в повседневных делах и создавать уют.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":816,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/priyatnye-melochi/"}}
+title: Искусство замечать приятные мелочи в жизни
+description: >-
+  В суете большого города мы часто забываем о маленьких радостях. ButlerSPB
+  напоминает, как важно находить моменты счастья в повседневных делах и
+  создавать уют.
+pubDate: '2025-07-24T13:50:29.291Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: Искусство замечать приятные мелочи в жизни
+  description: >-
+    В суете большого города мы часто забываем о маленьких радостях. ButlerSPB
+    напоминает, как важно находить моменты счастья в повседневных делах и
+    создавать уют.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.8'
+    reviewCount: 554
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': 'https://butlerspb-blog.netlify.app/blog/priyatnye-melochi/'
 ---
 # Философия приятных мелочей: Ваш персональный гид по маленьким радостям в Петербурге от ButlerSPB
 

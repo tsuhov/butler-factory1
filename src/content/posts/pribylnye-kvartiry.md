@@ -1,11 +1,40 @@
 ---
-title: "Прибыльные квартиры: гид для инвестора в СПб"
-description: "Как выбрать ликвидную квартиру для инвестиций в Санкт-Петербурге? Эксперты ButlerSPB делятся советами по анализу рынка, расчету доходности и поиску объектов."
-keywords: "прибыльные квартиры, инвестиции в недвижимость, доходная недвижимость, пассивный доход, купить квартиру в спб, аренда квартир, ButlerSPB"
-pubDate: "2025-07-25T14:00:12.398Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Прибыльные квартиры: гид для инвестора в СПб","description":"Как выбрать ликвидную квартиру для инвестиций в Санкт-Петербурге? Эксперты ButlerSPB делятся советами по анализу рынка, расчету доходности и поиску объектов.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":598,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/pribylnye-kvartiry/"}}
+title: 'Прибыльные квартиры: гид для инвестора в СПб'
+description: >-
+  Как выбрать ликвидную квартиру для инвестиций в Санкт-Петербурге? Эксперты
+  ButlerSPB делятся советами по анализу рынка, расчету доходности и поиску
+  объектов.
+pubDate: '2025-07-25T14:00:12.398Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Прибыльные квартиры: гид для инвестора в СПб'
+  description: >-
+    Как выбрать ликвидную квартиру для инвестиций в Санкт-Петербурге? Эксперты
+    ButlerSPB делятся советами по анализу рынка, расчету доходности и поиску
+    объектов.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '5.0'
+    reviewCount: 444
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': 'https://butlerspb-blog.netlify.app/blog/pribylnye-kvartiry/'
 ---
 # Прибыльные квартиры в Санкт-Петербурге: от выбора объекта до пассивного дохода
 

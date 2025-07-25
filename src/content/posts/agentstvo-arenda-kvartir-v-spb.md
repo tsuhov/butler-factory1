@@ -1,10 +1,46 @@
 ---
-title: "Как выбрать надежное агентство по аренде квартир в СПб: советы от ButlerSPB"
-description: "Планируете снять квартиру в Санкт-Петербурге, но не знаете, с чего начать? Рынок недвижимости полон предложений, и выбор надежного агентства — ключ к успешной и безопасной сделке. В новой статье нашего блога мы расскажем, на что обратить внимание при поиске посредника, какие услуги должно предоставлять хорошее агентство и почему работа с профессионалами, такими как ButlerSPB, сэкономит ваше время, нервы и деньги."
-pubDate: "2025-07-22T09:50:33.831Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Как выбрать надежное агентство по аренде квартир в СПб: советы от ButlerSPB","description":"Планируете снять квартиру в Санкт-Петербурге, но не знаете, с чего начать? Рынок недвижимости полон предложений, и выбор надежного агентства — ключ к успешной и безопасной сделке. В новой статье нашего блога мы расскажем, на что обратить внимание при поиске посредника, какие услуги должно предоставлять хорошее агентство и почему работа с профессионалами, такими как ButlerSPB, сэкономит ваше время, нервы и деньги.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":812,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/agentstvo-arenda-kvartir-v-spb/"}}
+title: 'Как выбрать надежное агентство по аренде квартир в СПб: советы от ButlerSPB'
+description: >-
+  Планируете снять квартиру в Санкт-Петербурге, но не знаете, с чего начать?
+  Рынок недвижимости полон предложений, и выбор надежного агентства — ключ к
+  успешной и безопасной сделке. В новой статье нашего блога мы расскажем, на что
+  обратить внимание при поиске посредника, какие услуги должно предоставлять
+  хорошее агентство и почему работа с профессионалами, такими как ButlerSPB,
+  сэкономит ваше время, нервы и деньги.
+pubDate: '2025-07-22T09:50:33.831Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Как выбрать надежное агентство по аренде квартир в СПб: советы от ButlerSPB'
+  description: >-
+    Планируете снять квартиру в Санкт-Петербурге, но не знаете, с чего начать?
+    Рынок недвижимости полон предложений, и выбор надежного агентства — ключ к
+    успешной и безопасной сделке. В новой статье нашего блога мы расскажем, на
+    что обратить внимание при поиске посредника, какие услуги должно
+    предоставлять хорошее агентство и почему работа с профессионалами, такими
+    как ButlerSPB, сэкономит ваше время, нервы и деньги.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.9'
+    reviewCount: 305
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': 'https://butlerspb-blog.netlify.app/blog/agentstvo-arenda-kvartir-v-spb/'
 ---
 
 # Почему аренда квартиры в СПб через агентство — ваш ключ к спокойствию и выгоде?

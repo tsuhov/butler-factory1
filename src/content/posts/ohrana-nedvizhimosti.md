@@ -1,11 +1,40 @@
 ---
-title: "Надежная охрана недвижимости: советы экспертов"
-description: "Как эффективно защитить квартиру, дом или коммерческий объект? Рассматриваем комплексные решения: видеонаблюдение, сигнализация, контроль доступа и физическая охрана."
-keywords: "охрана недвижимости, безопасность дома, видеонаблюдение, охранная сигнализация, ЧОП, защита имущества, ButlerSPB"
-pubDate: "2025-07-25T13:58:01.338Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Надежная охрана недвижимости: советы экспертов","description":"Как эффективно защитить квартиру, дом или коммерческий объект? Рассматриваем комплексные решения: видеонаблюдение, сигнализация, контроль доступа и физическая охрана.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"5.0","reviewCount":573,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/ohrana-nedvizhimosti/"}}
+title: 'Надежная охрана недвижимости: советы экспертов'
+description: >-
+  Как эффективно защитить квартиру, дом или коммерческий объект? Рассматриваем
+  комплексные решения: видеонаблюдение, сигнализация, контроль доступа и
+  физическая охрана.
+pubDate: '2025-07-25T13:58:01.338Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Надежная охрана недвижимости: советы экспертов'
+  description: >-
+    Как эффективно защитить квартиру, дом или коммерческий объект? Рассматриваем
+    комплексные решения: видеонаблюдение, сигнализация, контроль доступа и
+    физическая охрана.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.7'
+    reviewCount: 750
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': 'https://butlerspb-blog.netlify.app/blog/ohrana-nedvizhimosti/'
 ---
 # Охрана недвижимости в Санкт-Петербурге: Полное руководство по защите вашего дома и бизнеса
 

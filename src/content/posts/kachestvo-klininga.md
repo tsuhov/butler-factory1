@@ -1,11 +1,40 @@
 ---
-title: "Качество клининга: стандарты и секреты ButlerSPB"
-description: "Что отличает качественную уборку от обычной? В блоге ButlerSPB раскрываем стандарты чистоты, говорим о важности деталей и профессионального подхода к клинингу."
-keywords: "качество клининга, профессиональная уборка, стандарты чистоты, ButlerSPB, клининговая компания спб, критерии качества уборки"
-pubDate: "2025-07-25T15:34:58.765Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Качество клининга: стандарты и секреты ButlerSPB","description":"Что отличает качественную уборку от обычной? В блоге ButlerSPB раскрываем стандарты чистоты, говорим о важности деталей и профессионального подхода к клинингу.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":395,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/kachestvo-klininga/"}}
+title: 'Качество клининга: стандарты и секреты ButlerSPB'
+description: >-
+  Что отличает качественную уборку от обычной? В блоге ButlerSPB раскрываем
+  стандарты чистоты, говорим о важности деталей и профессионального подхода к
+  клинингу.
+pubDate: '2025-07-25T15:34:58.765Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Качество клининга: стандарты и секреты ButlerSPB'
+  description: >-
+    Что отличает качественную уборку от обычной? В блоге ButlerSPB раскрываем
+    стандарты чистоты, говорим о важности деталей и профессионального подхода к
+    клинингу.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.9'
+    reviewCount: 794
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': 'https://butlerspb-blog.netlify.app/blog/kachestvo-klininga/'
 ---
 # Качество клининга: как отличить работу «Батлера» от халтуры и на что смотреть при приемке
 

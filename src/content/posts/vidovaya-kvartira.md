@@ -1,11 +1,40 @@
 ---
-title: "Видовая квартира в СПб: мечта или реальность?"
-description: "Что делает квартиру видовой и какие преимущества она дает владельцу? Разбираемся в особенностях такого жилья в Санкт-Петербурге, его влиянии на стоимость и комфорт."
-keywords: "видовая квартира, купить квартиру в спб, панорамные окна, элитная недвижимость, квартира с видом, butlerspb"
-pubDate: "2025-07-25T16:17:58.324Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Видовая квартира в СПб: мечта или реальность?","description":"Что делает квартиру видовой и какие преимущества она дает владельцу? Разбираемся в особенностях такого жилья в Санкт-Петербурге, его влиянии на стоимость и комфорт.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.8","reviewCount":590,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/vidovaya-kvartira/"}}
+title: 'Видовая квартира в СПб: мечта или реальность?'
+description: >-
+  Что делает квартиру видовой и какие преимущества она дает владельцу?
+  Разбираемся в особенностях такого жилья в Санкт-Петербурге, его влиянии на
+  стоимость и комфорт.
+pubDate: '2025-07-25T16:17:58.324Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Видовая квартира в СПб: мечта или реальность?'
+  description: >-
+    Что делает квартиру видовой и какие преимущества она дает владельцу?
+    Разбираемся в особенностях такого жилья в Санкт-Петербурге, его влиянии на
+    стоимость и комфорт.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.9'
+    reviewCount: 460
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': 'https://butlerspb-blog.netlify.app/blog/vidovaya-kvartira/'
 ---
 # Видовая квартира в Санкт-Петербурге: как выбрать и не ошибиться? Советы экспертов ButlerSPB
 

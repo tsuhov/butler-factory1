@@ -1,10 +1,49 @@
 ---
-title: "Как проверить полномочия представителя собственника: пошаговая инструкция от ButlerSPB"
-description: "Планируете сделку с недвижимостью через представителя? Не рискуйте! В нашей новой статье мы подробно разбираем, как убедиться в законности его действий. Узнайте, какие документы нужно запросить, на что обратить внимание в доверенности и как избежать мошеннических схем. ButlerSPB делится экспертными советами для вашей безопасности."
-pubDate: "2025-07-22T11:35:36.339Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Как проверить полномочия представителя собственника: пошаговая инструкция от ButlerSPB","description":"Планируете сделку с недвижимостью через представителя? Не рискуйте! В нашей новой статье мы подробно разбираем, как убедиться в законности его действий. Узнайте, какие документы нужно запросить, на что обратить внимание в доверенности и как избежать мошеннических схем. ButlerSPB делится экспертными советами для вашей безопасности.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.8","reviewCount":449,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/kak-proverit-polnomochiya-predstavitelya-sobstvennika/"}}
+title: >-
+  Как проверить полномочия представителя собственника: пошаговая инструкция от
+  ButlerSPB
+description: >-
+  Планируете сделку с недвижимостью через представителя? Не рискуйте! В нашей
+  новой статье мы подробно разбираем, как убедиться в законности его действий.
+  Узнайте, какие документы нужно запросить, на что обратить внимание в
+  доверенности и как избежать мошеннических схем. ButlerSPB делится экспертными
+  советами для вашей безопасности.
+pubDate: '2025-07-22T11:35:36.339Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: >-
+    Как проверить полномочия представителя собственника: пошаговая инструкция от
+    ButlerSPB
+  description: >-
+    Планируете сделку с недвижимостью через представителя? Не рискуйте! В нашей
+    новой статье мы подробно разбираем, как убедиться в законности его действий.
+    Узнайте, какие документы нужно запросить, на что обратить внимание в
+    доверенности и как избежать мошеннических схем. ButlerSPB делится
+    экспертными советами для вашей безопасности.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.9'
+    reviewCount: 869
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/kak-proverit-polnomochiya-predstavitelya-sobstvennika/
 ---
 
 # Как проверить полномочия представителя собственника: Полное руководство по безопасной сделке

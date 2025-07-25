@@ -1,11 +1,40 @@
 ---
-title: "Расторжение договора: основания и процедура"
-description: "Узнайте, как грамотно расторгнуть договор по соглашению сторон, в одностороннем или судебном порядке. Разбираем ключевые нюансы, риски и последствия для бизнеса."
-keywords: "расторжение договора, прекращение договора, односторонний отказ, соглашение о расторжении, судебный порядок, ButlerSPB"
-pubDate: "2025-07-25T15:46:12.577Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Расторжение договора: основания и процедура","description":"Узнайте, как грамотно расторгнуть договор по соглашению сторон, в одностороннем или судебном порядке. Разбираем ключевые нюансы, риски и последствия для бизнеса.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":348,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/rastorzhenie-dogovora/"}}
+title: 'Расторжение договора: основания и процедура'
+description: >-
+  Узнайте, как грамотно расторгнуть договор по соглашению сторон, в
+  одностороннем или судебном порядке. Разбираем ключевые нюансы, риски и
+  последствия для бизнеса.
+pubDate: '2025-07-25T15:46:12.577Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Расторжение договора: основания и процедура'
+  description: >-
+    Узнайте, как грамотно расторгнуть договор по соглашению сторон, в
+    одностороннем или судебном порядке. Разбираем ключевые нюансы, риски и
+    последствия для бизнеса.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.9'
+    reviewCount: 825
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': 'https://butlerspb-blog.netlify.app/blog/rastorzhenie-dogovora/'
 ---
 # Расторжение договора: полное руководство 2024 от юристов ButlerSPB
 

@@ -1,10 +1,49 @@
 ---
-title: "Как снять квартиру с животными в Санкт-Петербурге: полное руководство от ButlerSPB"
-description: "Поиск жилья с домашними животными в СПб — настоящий квест. В нашей статье мы собрали проверенные советы, лайфхаки и юридические тонкости, которые помогут вам и вашему пушистому другу найти идеальную квартиру без стресса и отказов. Узнайте, как подготовить питомца, составить 'резюме' на него и убедить собственника в своей ответственности."
-pubDate: "2025-07-22T11:35:33.031Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Как снять квартиру с животными в Санкт-Петербурге: полное руководство от ButlerSPB","description":"Поиск жилья с домашними животными в СПб — настоящий квест. В нашей статье мы собрали проверенные советы, лайфхаки и юридические тонкости, которые помогут вам и вашему пушистому другу найти идеальную квартиру без стресса и отказов. Узнайте, как подготовить питомца, составить 'резюме' на него и убедить собственника в своей ответственности.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":382,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/kak-snyat-kvartiru-s-zhivotnymi-v-sankt-peterburge-sovety-i-layfhaki/"}}
+title: >-
+  Как снять квартиру с животными в Санкт-Петербурге: полное руководство от
+  ButlerSPB
+description: >-
+  Поиск жилья с домашними животными в СПб — настоящий квест. В нашей статье мы
+  собрали проверенные советы, лайфхаки и юридические тонкости, которые помогут
+  вам и вашему пушистому другу найти идеальную квартиру без стресса и отказов.
+  Узнайте, как подготовить питомца, составить 'резюме' на него и убедить
+  собственника в своей ответственности.
+pubDate: '2025-07-22T11:35:33.031Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: >-
+    Как снять квартиру с животными в Санкт-Петербурге: полное руководство от
+    ButlerSPB
+  description: >-
+    Поиск жилья с домашними животными в СПб — настоящий квест. В нашей статье мы
+    собрали проверенные советы, лайфхаки и юридические тонкости, которые помогут
+    вам и вашему пушистому другу найти идеальную квартиру без стресса и отказов.
+    Узнайте, как подготовить питомца, составить 'резюме' на него и убедить
+    собственника в своей ответственности.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.9'
+    reviewCount: 467
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/kak-snyat-kvartiru-s-zhivotnymi-v-sankt-peterburge-sovety-i-layfhaki/
 ---
 
 # Как снять квартиру с животными в Санкт-Петербурге: полное руководство от экспертов ButlerSPB

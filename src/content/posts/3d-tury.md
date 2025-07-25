@@ -1,11 +1,40 @@
 ---
-title: "3D туры: погружение в пространство от ButlerSPB"
-description: "Откройте мир недвижимости с 3D турами! В статье мы разбираем технологии, их преимущества для бизнеса и клиентов и показываем, как ButlerSPB создает эффект присутствия."
-keywords: "3D тур, виртуальный тур, панорамный тур, недвижимость, ButlerSPB, эффект присутствия, виртуальная реальность"
-pubDate: "2025-07-25T15:39:04.855Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"3D туры: погружение в пространство от ButlerSPB","description":"Откройте мир недвижимости с 3D турами! В статье мы разбираем технологии, их преимущества для бизнеса и клиентов и показываем, как ButlerSPB создает эффект присутствия.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.7","reviewCount":376,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/3d-tury/"}}
+title: '3D туры: погружение в пространство от ButlerSPB'
+description: >-
+  Откройте мир недвижимости с 3D турами! В статье мы разбираем технологии, их
+  преимущества для бизнеса и клиентов и показываем, как ButlerSPB создает эффект
+  присутствия.
+pubDate: '2025-07-25T15:39:04.855Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: '3D туры: погружение в пространство от ButlerSPB'
+  description: >-
+    Откройте мир недвижимости с 3D турами! В статье мы разбираем технологии, их
+    преимущества для бизнеса и клиентов и показываем, как ButlerSPB создает
+    эффект присутствия.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '5.0'
+    reviewCount: 355
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': 'https://butlerspb-blog.netlify.app/blog/3d-tury/'
 ---
 # Что такое 3D-тур и как он поможет вашему бизнесу продавать больше? Полное руководство от ButlerSPB
 

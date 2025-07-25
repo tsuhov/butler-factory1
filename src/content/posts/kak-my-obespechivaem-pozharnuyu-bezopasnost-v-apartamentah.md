@@ -1,10 +1,49 @@
 ---
-title: "Ваша безопасность — наш приоритет: как мы обеспечиваем пожарную безопасность в апартаментах ButlerSPB"
-description: "В новой статье блога ButlerSPB мы подробно рассказываем о комплексных мерах пожарной безопасности, реализованных в наших апартаментах. Узнайте о современных системах оповещения, наличии средств пожаротушения, регулярных проверках оборудования и инструктаже персонала, которые гарантируют ваше спокойствие и защиту во время пребывания в Санкт-Петербурге."
-pubDate: "2025-07-22T11:20:30.368Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Ваша безопасность — наш приоритет: как мы обеспечиваем пожарную безопасность в апартаментах ButlerSPB","description":"В новой статье блога ButlerSPB мы подробно рассказываем о комплексных мерах пожарной безопасности, реализованных в наших апартаментах. Узнайте о современных системах оповещения, наличии средств пожаротушения, регулярных проверках оборудования и инструктаже персонала, которые гарантируют ваше спокойствие и защиту во время пребывания в Санкт-Петербурге.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.8","reviewCount":732,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/kak-my-obespechivaem-pozharnuyu-bezopasnost-v-apartamentah/"}}
+title: >-
+  Ваша безопасность — наш приоритет: как мы обеспечиваем пожарную безопасность в
+  апартаментах ButlerSPB
+description: >-
+  В новой статье блога ButlerSPB мы подробно рассказываем о комплексных мерах
+  пожарной безопасности, реализованных в наших апартаментах. Узнайте о
+  современных системах оповещения, наличии средств пожаротушения, регулярных
+  проверках оборудования и инструктаже персонала, которые гарантируют ваше
+  спокойствие и защиту во время пребывания в Санкт-Петербурге.
+pubDate: '2025-07-22T11:20:30.368Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: >-
+    Ваша безопасность — наш приоритет: как мы обеспечиваем пожарную безопасность
+    в апартаментах ButlerSPB
+  description: >-
+    В новой статье блога ButlerSPB мы подробно рассказываем о комплексных мерах
+    пожарной безопасности, реализованных в наших апартаментах. Узнайте о
+    современных системах оповещения, наличии средств пожаротушения, регулярных
+    проверках оборудования и инструктаже персонала, которые гарантируют ваше
+    спокойствие и защиту во время пребывания в Санкт-Петербурге.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.8'
+    reviewCount: 869
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/kak-my-obespechivaem-pozharnuyu-bezopasnost-v-apartamentah/
 ---
 
 # Как мы гарантируем вашу пожарную безопасность: стандарты ButlerSPB

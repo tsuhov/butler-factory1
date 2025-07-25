@@ -1,10 +1,47 @@
 ---
-title: "Эксклюзивный договор с агентством недвижимости: всё, что нужно знать собственнику"
-description: "Планируете продать или сдать недвижимость в Санкт-Петербурге? Команда ButlerSPB разбирает, что такое эксклюзивный договор, почему он выгоден для собственника и какие подводные камни стоит учесть. Развеиваем мифы и помогаем принять верное решение для быстрой и безопасной сделки."
-pubDate: "2025-07-22T11:39:40.423Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Эксклюзивный договор с агентством недвижимости: всё, что нужно знать собственнику","description":"Планируете продать или сдать недвижимость в Санкт-Петербурге? Команда ButlerSPB разбирает, что такое эксклюзивный договор, почему он выгоден для собственника и какие подводные камни стоит учесть. Развеиваем мифы и помогаем принять верное решение для быстрой и безопасной сделки.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":537,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/chto-takoe-eksklyuzivnyy-dogovor-s-agentstvom-nedvizhimosti/"}}
+title: >-
+  Эксклюзивный договор с агентством недвижимости: всё, что нужно знать
+  собственнику
+description: >-
+  Планируете продать или сдать недвижимость в Санкт-Петербурге? Команда
+  ButlerSPB разбирает, что такое эксклюзивный договор, почему он выгоден для
+  собственника и какие подводные камни стоит учесть. Развеиваем мифы и помогаем
+  принять верное решение для быстрой и безопасной сделки.
+pubDate: '2025-07-22T11:39:40.423Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: >-
+    Эксклюзивный договор с агентством недвижимости: всё, что нужно знать
+    собственнику
+  description: >-
+    Планируете продать или сдать недвижимость в Санкт-Петербурге? Команда
+    ButlerSPB разбирает, что такое эксклюзивный договор, почему он выгоден для
+    собственника и какие подводные камни стоит учесть. Развеиваем мифы и
+    помогаем принять верное решение для быстрой и безопасной сделки.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.9'
+    reviewCount: 724
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/chto-takoe-eksklyuzivnyy-dogovor-s-agentstvom-nedvizhimosti/
 ---
 
 # Что такое эксклюзивный договор с агентством недвижимости: ваш гид по выгодной и безопасной сделке

@@ -1,10 +1,49 @@
 ---
-title: "Секреты закрытых продаж: как выгодно и конфиденциально продать элитную квартиру"
-description: "Публичная реклама — не всегда лучшее решение при продаже премиальной недвижимости. В новой статье блога ButlerSPB мы раскрываем преимущества 'off-market' сделок и делимся проверенными стратегиями, которые позволяют найти идеального покупателя в узком кругу состоятельных клиентов, обеспечив максимальную выгоду и полную анонимность."
-pubDate: "2025-07-23T11:34:51.189Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Секреты закрытых продаж: как выгодно и конфиденциально продать элитную квартиру","description":"Публичная реклама — не всегда лучшее решение при продаже премиальной недвижимости. В новой статье блога ButlerSPB мы раскрываем преимущества 'off-market' сделок и делимся проверенными стратегиями, которые позволяют найти идеального покупателя в узком кругу состоятельных клиентов, обеспечив максимальную выгоду и полную анонимность.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"5.0","reviewCount":683,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/kak-prodat-elitnuyu-kvartiru-bez-publichnoy-reklamy/"}}
+title: >-
+  Секреты закрытых продаж: как выгодно и конфиденциально продать элитную
+  квартиру
+description: >-
+  Публичная реклама — не всегда лучшее решение при продаже премиальной
+  недвижимости. В новой статье блога ButlerSPB мы раскрываем преимущества
+  'off-market' сделок и делимся проверенными стратегиями, которые позволяют
+  найти идеального покупателя в узком кругу состоятельных клиентов, обеспечив
+  максимальную выгоду и полную анонимность.
+pubDate: '2025-07-23T11:34:51.189Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: >-
+    Секреты закрытых продаж: как выгодно и конфиденциально продать элитную
+    квартиру
+  description: >-
+    Публичная реклама — не всегда лучшее решение при продаже премиальной
+    недвижимости. В новой статье блога ButlerSPB мы раскрываем преимущества
+    'off-market' сделок и делимся проверенными стратегиями, которые позволяют
+    найти идеального покупателя в узком кругу состоятельных клиентов, обеспечив
+    максимальную выгоду и полную анонимность.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.8'
+    reviewCount: 896
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/kak-prodat-elitnuyu-kvartiru-bez-publichnoy-reklamy/
 ---
 
 # Как продать элитную квартиру без публичной рекламы: Полное руководство по закрытым сделкам

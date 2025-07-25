@@ -1,10 +1,45 @@
 ---
-title: "Почему стандартные подходы не работают в элитном сегменте"
-description: "Элитный сегмент живет по своим законам. Здесь не работают шаблонные решения и универсальные предложения. Мы в ButlerSPB делимся инсайтами о том, что действительно ценит премиальный клиент: безупречный сервис, абсолютную конфиденциальность и глубокое понимание его уникальных потребностей. Статья о том, как перейти от 'продажи' к 'партнерству'."
-pubDate: "2025-07-22T13:48:26.014Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Почему стандартные подходы не работают в элитном сегменте","description":"Элитный сегмент живет по своим законам. Здесь не работают шаблонные решения и универсальные предложения. Мы в ButlerSPB делимся инсайтами о том, что действительно ценит премиальный клиент: безупречный сервис, абсолютную конфиденциальность и глубокое понимание его уникальных потребностей. Статья о том, как перейти от 'продажи' к 'партнерству'.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.7","reviewCount":724,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/pochemu-standartnye-podhody-ne-rabotayut-v-elitnom-segmente/"}}
+title: Почему стандартные подходы не работают в элитном сегменте
+description: >-
+  Элитный сегмент живет по своим законам. Здесь не работают шаблонные решения и
+  универсальные предложения. Мы в ButlerSPB делимся инсайтами о том, что
+  действительно ценит премиальный клиент: безупречный сервис, абсолютную
+  конфиденциальность и глубокое понимание его уникальных потребностей. Статья о
+  том, как перейти от 'продажи' к 'партнерству'.
+pubDate: '2025-07-22T13:48:26.014Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: Почему стандартные подходы не работают в элитном сегменте
+  description: >-
+    Элитный сегмент живет по своим законам. Здесь не работают шаблонные решения
+    и универсальные предложения. Мы в ButlerSPB делимся инсайтами о том, что
+    действительно ценит премиальный клиент: безупречный сервис, абсолютную
+    конфиденциальность и глубокое понимание его уникальных потребностей. Статья
+    о том, как перейти от 'продажи' к 'партнерству'.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.8'
+    reviewCount: 397
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/pochemu-standartnye-podhody-ne-rabotayut-v-elitnom-segmente/
 ---
 
 # Маркетинг в элитном сегменте: Почему стандартные подходы не работают и что делать вместо этого

@@ -1,10 +1,47 @@
 ---
-title: "Особенности аренды двухкомнатной квартиры в Санкт-Петербурге: гид от ButlerSPB"
-description: "Планируете снять двухкомнатную квартиру в Санкт-Петербурге? В нашей новой статье разбираем все ключевые моменты: актуальные цены в разных районах, популярные локации для семей и пар, юридические тонкости договора и советы, как избежать мошенников. ButlerSPB поможет найти идеальную 'двушку' в Северной столице."
-pubDate: "2025-07-23T10:39:35.773Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Особенности аренды двухкомнатной квартиры в Санкт-Петербурге: гид от ButlerSPB","description":"Планируете снять двухкомнатную квартиру в Санкт-Петербурге? В нашей новой статье разбираем все ключевые моменты: актуальные цены в разных районах, популярные локации для семей и пар, юридические тонкости договора и советы, как избежать мошенников. ButlerSPB поможет найти идеальную 'двушку' в Северной столице.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.8","reviewCount":552,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/osobennosti-arendy-dvuhkomnatnoy-kvartiry-v-sankt-peterburge/"}}
+title: 'Особенности аренды двухкомнатной квартиры в Санкт-Петербурге: гид от ButlerSPB'
+description: >-
+  Планируете снять двухкомнатную квартиру в Санкт-Петербурге? В нашей новой
+  статье разбираем все ключевые моменты: актуальные цены в разных районах,
+  популярные локации для семей и пар, юридические тонкости договора и советы,
+  как избежать мошенников. ButlerSPB поможет найти идеальную 'двушку' в Северной
+  столице.
+pubDate: '2025-07-23T10:39:35.773Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: >-
+    Особенности аренды двухкомнатной квартиры в Санкт-Петербурге: гид от
+    ButlerSPB
+  description: >-
+    Планируете снять двухкомнатную квартиру в Санкт-Петербурге? В нашей новой
+    статье разбираем все ключевые моменты: актуальные цены в разных районах,
+    популярные локации для семей и пар, юридические тонкости договора и советы,
+    как избежать мошенников. ButlerSPB поможет найти идеальную 'двушку' в
+    Северной столице.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.8'
+    reviewCount: 346
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/osobennosti-arendy-dvuhkomnatnoy-kvartiry-v-sankt-peterburge/
 ---
 
 # Как снять двухкомнатную квартиру в Санкт-Петербурге: Полный гид от экспертов ButlerSPB

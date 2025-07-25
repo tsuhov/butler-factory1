@@ -1,10 +1,47 @@
 ---
-title: "Лучшие смотровые площадки Санкт-Петербурга: Город на ладони"
-description: "Хотите увидеть Северную столицу во всем ее великолепии? Команда ButlerSPB подготовила для вас гид по самым захватывающим смотровым площадкам Санкт-Петербурга. Откройте для себя город с высоты птичьего полета — от колоннады Исаакиевского собора до современных панорамных ресторанов. Читайте в нашей статье, где сделать лучшие фотографии и насладиться незабываемыми видами Петербурга."
-pubDate: "2025-07-22T11:49:18.248Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Лучшие смотровые площадки Санкт-Петербурга: Город на ладони","description":"Хотите увидеть Северную столицу во всем ее великолепии? Команда ButlerSPB подготовила для вас гид по самым захватывающим смотровым площадкам Санкт-Петербурга. Откройте для себя город с высоты птичьего полета — от колоннады Исаакиевского собора до современных панорамных ресторанов. Читайте в нашей статье, где сделать лучшие фотографии и насладиться незабываемыми видами Петербурга.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.8","reviewCount":635,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/luchshie-smotrovye-ploschadki-sankt-peterburga/"}}
+title: 'Лучшие смотровые площадки Санкт-Петербурга: Город на ладони'
+description: >-
+  Хотите увидеть Северную столицу во всем ее великолепии? Команда ButlerSPB
+  подготовила для вас гид по самым захватывающим смотровым площадкам
+  Санкт-Петербурга. Откройте для себя город с высоты птичьего полета — от
+  колоннады Исаакиевского собора до современных панорамных ресторанов. Читайте в
+  нашей статье, где сделать лучшие фотографии и насладиться незабываемыми видами
+  Петербурга.
+pubDate: '2025-07-22T11:49:18.248Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Лучшие смотровые площадки Санкт-Петербурга: Город на ладони'
+  description: >-
+    Хотите увидеть Северную столицу во всем ее великолепии? Команда ButlerSPB
+    подготовила для вас гид по самым захватывающим смотровым площадкам
+    Санкт-Петербурга. Откройте для себя город с высоты птичьего полета — от
+    колоннады Исаакиевского собора до современных панорамных ресторанов. Читайте
+    в нашей статье, где сделать лучшие фотографии и насладиться незабываемыми
+    видами Петербурга.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.7'
+    reviewCount: 726
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/luchshie-smotrovye-ploschadki-sankt-peterburga/
 ---
 
 ### **Мета-теги (для SEO-специалиста)**

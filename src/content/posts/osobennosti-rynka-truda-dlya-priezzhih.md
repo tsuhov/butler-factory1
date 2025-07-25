@@ -1,10 +1,46 @@
 ---
-title: "Особенности рынка труда для приезжих в Санкт-Петербурге"
-description: "Переезд в новый город — это всегда вызов, особенно когда речь идет о поиске работы. В нашей новой статье для блога ButlerSPB мы разбираем ключевые аспекты рынка труда Санкт-Петербурга для тех, кто недавно переехал. Вы узнаете о самых востребованных отраслях, юридических нюансах трудоустройства, уровне зарплат и о том, как успешно пройти адаптацию и построить карьеру в Северной столице."
-pubDate: "2025-07-22T11:42:12.928Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Особенности рынка труда для приезжих в Санкт-Петербурге","description":"Переезд в новый город — это всегда вызов, особенно когда речь идет о поиске работы. В нашей новой статье для блога ButlerSPB мы разбираем ключевые аспекты рынка труда Санкт-Петербурга для тех, кто недавно переехал. Вы узнаете о самых востребованных отраслях, юридических нюансах трудоустройства, уровне зарплат и о том, как успешно пройти адаптацию и построить карьеру в Северной столице.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"5.0","reviewCount":717,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/osobennosti-rynka-truda-dlya-priezzhih/"}}
+title: Особенности рынка труда для приезжих в Санкт-Петербурге
+description: >-
+  Переезд в новый город — это всегда вызов, особенно когда речь идет о поиске
+  работы. В нашей новой статье для блога ButlerSPB мы разбираем ключевые аспекты
+  рынка труда Санкт-Петербурга для тех, кто недавно переехал. Вы узнаете о самых
+  востребованных отраслях, юридических нюансах трудоустройства, уровне зарплат и
+  о том, как успешно пройти адаптацию и построить карьеру в Северной столице.
+pubDate: '2025-07-22T11:42:12.928Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: Особенности рынка труда для приезжих в Санкт-Петербурге
+  description: >-
+    Переезд в новый город — это всегда вызов, особенно когда речь идет о поиске
+    работы. В нашей новой статье для блога ButlerSPB мы разбираем ключевые
+    аспекты рынка труда Санкт-Петербурга для тех, кто недавно переехал. Вы
+    узнаете о самых востребованных отраслях, юридических нюансах
+    трудоустройства, уровне зарплат и о том, как успешно пройти адаптацию и
+    построить карьеру в Северной столице.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.8'
+    reviewCount: 597
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/osobennosti-rynka-truda-dlya-priezzhih/
 ---
 
 # Рынок труда Санкт-Петербурга для приезжих: как найти работу и успешно устроиться в новом городе

@@ -1,11 +1,40 @@
 ---
-title: "Рейтинг доходности от ButlerSPB: куда вложить?"
-description: "Эксперты ButlerSPB составили свежий рейтинг доходности популярных инвестиционных инструментов. Анализируем акции, облигации, недвижимость и криптовалюты."
-keywords: "рейтинг доходности, инвестиции, куда вложить деньги, финансовые инструменты, аналитика, ButlerSPB, активы"
-pubDate: "2025-07-25T15:50:33.935Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Рейтинг доходности от ButlerSPB: куда вложить?","description":"Эксперты ButlerSPB составили свежий рейтинг доходности популярных инвестиционных инструментов. Анализируем акции, облигации, недвижимость и криптовалюты.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"5.0","reviewCount":685,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/reyting-dohodnosti/"}}
+title: 'Рейтинг доходности от ButlerSPB: куда вложить?'
+description: >-
+  Эксперты ButlerSPB составили свежий рейтинг доходности популярных
+  инвестиционных инструментов. Анализируем акции, облигации, недвижимость и
+  криптовалюты.
+pubDate: '2025-07-25T15:50:33.935Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Рейтинг доходности от ButlerSPB: куда вложить?'
+  description: >-
+    Эксперты ButlerSPB составили свежий рейтинг доходности популярных
+    инвестиционных инструментов. Анализируем акции, облигации, недвижимость и
+    криптовалюты.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '5.0'
+    reviewCount: 725
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': 'https://butlerspb-blog.netlify.app/blog/reyting-dohodnosti/'
 ---
 # Рейтинг доходности недвижимости: Полное руководство для инвестора от экспертов ButlerSPB
 

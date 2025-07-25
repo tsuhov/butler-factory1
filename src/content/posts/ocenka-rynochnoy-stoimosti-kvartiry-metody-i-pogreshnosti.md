@@ -1,10 +1,47 @@
 ---
-title: "Оценка рыночной стоимости квартиры: методы и погрешности"
-description: "Планируете продать или купить квартиру в Санкт-Петербурге? Ключ к выгодной сделке — точная оценка ее рыночной стоимости. В новой статье блога ButlerSPB мы подробно разбираем три основных метода оценки: сравнительный, затратный и доходный. Вы узнаете, какие факторы реально влияют на цену, почему даже у профессионалов бывают погрешности в расчетах и как самостоятельно провести экспресс-анализ, чтобы не ошибиться с ценой."
-pubDate: "2025-07-23T11:32:20.510Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Оценка рыночной стоимости квартиры: методы и погрешности","description":"Планируете продать или купить квартиру в Санкт-Петербурге? Ключ к выгодной сделке — точная оценка ее рыночной стоимости. В новой статье блога ButlerSPB мы подробно разбираем три основных метода оценки: сравнительный, затратный и доходный. Вы узнаете, какие факторы реально влияют на цену, почему даже у профессионалов бывают погрешности в расчетах и как самостоятельно провести экспресс-анализ, чтобы не ошибиться с ценой.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"5.0","reviewCount":670,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/ocenka-rynochnoy-stoimosti-kvartiry-metody-i-pogreshnosti/"}}
+title: 'Оценка рыночной стоимости квартиры: методы и погрешности'
+description: >-
+  Планируете продать или купить квартиру в Санкт-Петербурге? Ключ к выгодной
+  сделке — точная оценка ее рыночной стоимости. В новой статье блога ButlerSPB
+  мы подробно разбираем три основных метода оценки: сравнительный, затратный и
+  доходный. Вы узнаете, какие факторы реально влияют на цену, почему даже у
+  профессионалов бывают погрешности в расчетах и как самостоятельно провести
+  экспресс-анализ, чтобы не ошибиться с ценой.
+pubDate: '2025-07-23T11:32:20.510Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Оценка рыночной стоимости квартиры: методы и погрешности'
+  description: >-
+    Планируете продать или купить квартиру в Санкт-Петербурге? Ключ к выгодной
+    сделке — точная оценка ее рыночной стоимости. В новой статье блога ButlerSPB
+    мы подробно разбираем три основных метода оценки: сравнительный, затратный и
+    доходный. Вы узнаете, какие факторы реально влияют на цену, почему даже у
+    профессионалов бывают погрешности в расчетах и как самостоятельно провести
+    экспресс-анализ, чтобы не ошибиться с ценой.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.8'
+    reviewCount: 569
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/ocenka-rynochnoy-stoimosti-kvartiry-metody-i-pogreshnosti/
 ---
 
 # Оценка рыночной стоимости квартиры в СПб: Полный гид от экспертов ButlerSPB

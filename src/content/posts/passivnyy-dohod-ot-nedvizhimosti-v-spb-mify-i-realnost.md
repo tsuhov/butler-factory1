@@ -1,10 +1,47 @@
 ---
-title: "Пассивный доход от недвижимости в СПб: мифы и реальность"
-description: "Многие мечтают купить квартиру в Санкт-Петербурге и получать стабильный доход, ничего не делая. Но так ли проста эта схема? В новой статье блога ButlerSPB мы разбираем популярные мифы о пассивном доходе от аренды, рассказываем о реальных затратах времени и денег, с которыми сталкивается собственник, и делимся, как на самом деле превратить инвестиции в недвижимость в источник стабильной прибыли с минимальным участием."
-pubDate: "2025-07-22T17:19:31.515Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Пассивный доход от недвижимости в СПб: мифы и реальность","description":"Многие мечтают купить квартиру в Санкт-Петербурге и получать стабильный доход, ничего не делая. Но так ли проста эта схема? В новой статье блога ButlerSPB мы разбираем популярные мифы о пассивном доходе от аренды, рассказываем о реальных затратах времени и денег, с которыми сталкивается собственник, и делимся, как на самом деле превратить инвестиции в недвижимость в источник стабильной прибыли с минимальным участием.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.7","reviewCount":325,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/passivnyy-dohod-ot-nedvizhimosti-v-spb-mify-i-realnost/"}}
+title: 'Пассивный доход от недвижимости в СПб: мифы и реальность'
+description: >-
+  Многие мечтают купить квартиру в Санкт-Петербурге и получать стабильный доход,
+  ничего не делая. Но так ли проста эта схема? В новой статье блога ButlerSPB мы
+  разбираем популярные мифы о пассивном доходе от аренды, рассказываем о
+  реальных затратах времени и денег, с которыми сталкивается собственник, и
+  делимся, как на самом деле превратить инвестиции в недвижимость в источник
+  стабильной прибыли с минимальным участием.
+pubDate: '2025-07-22T17:19:31.515Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Пассивный доход от недвижимости в СПб: мифы и реальность'
+  description: >-
+    Многие мечтают купить квартиру в Санкт-Петербурге и получать стабильный
+    доход, ничего не делая. Но так ли проста эта схема? В новой статье блога
+    ButlerSPB мы разбираем популярные мифы о пассивном доходе от аренды,
+    рассказываем о реальных затратах времени и денег, с которыми сталкивается
+    собственник, и делимся, как на самом деле превратить инвестиции в
+    недвижимость в источник стабильной прибыли с минимальным участием.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '5.0'
+    reviewCount: 858
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/passivnyy-dohod-ot-nedvizhimosti-v-spb-mify-i-realnost/
 ---
 
 # Пассивный доход от недвижимости в СПб: вся правда за вычетом мифов

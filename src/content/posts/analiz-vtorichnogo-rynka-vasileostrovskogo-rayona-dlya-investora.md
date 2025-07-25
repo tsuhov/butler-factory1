@@ -1,10 +1,51 @@
 ---
-title: "Инвестиции во вторичную недвижимость Василеостровского района: полный разбор для инвестора"
-description: "Василеостровский район — одна из самых престижных и востребованных локаций Петербурга. Но так ли привлекателен его вторичный рынок для инвесторов? В нашей новой статье эксперты ButlerSPB детально разбирают структуру предложения, динамику цен, арендный потенциал и подводные камни покупки 'вторички' на Васильевском острове. Помогаем сделать правильный инвестиционный выбор."
-pubDate: "2025-07-23T10:39:47.227Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Инвестиции во вторичную недвижимость Василеостровского района: полный разбор для инвестора","description":"Василеостровский район — одна из самых престижных и востребованных локаций Петербурга. Но так ли привлекателен его вторичный рынок для инвесторов? В нашей новой статье эксперты ButlerSPB детально разбирают структуру предложения, динамику цен, арендный потенциал и подводные камни покупки 'вторички' на Васильевском острове. Помогаем сделать правильный инвестиционный выбор.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":367,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/analiz-vtorichnogo-rynka-vasileostrovskogo-rayona-dlya-investora/"}}
+title: >-
+  Инвестиции во вторичную недвижимость Василеостровского района: полный разбор
+  для инвестора
+description: >-
+  Василеостровский район — одна из самых престижных и востребованных локаций
+  Петербурга. Но так ли привлекателен его вторичный рынок для инвесторов? В
+  нашей новой статье эксперты ButlerSPB детально разбирают структуру
+  предложения, динамику цен, арендный потенциал и подводные камни покупки
+  'вторички' на Васильевском острове. Помогаем сделать правильный инвестиционный
+  выбор.
+pubDate: '2025-07-23T10:39:47.227Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: >-
+    Инвестиции во вторичную недвижимость Василеостровского района: полный разбор
+    для инвестора
+  description: >-
+    Василеостровский район — одна из самых престижных и востребованных локаций
+    Петербурга. Но так ли привлекателен его вторичный рынок для инвесторов? В
+    нашей новой статье эксперты ButlerSPB детально разбирают структуру
+    предложения, динамику цен, арендный потенциал и подводные камни покупки
+    'вторички' на Васильевском острове. Помогаем сделать правильный
+    инвестиционный выбор.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.8'
+    reviewCount: 632
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/analiz-vtorichnogo-rynka-vasileostrovskogo-rayona-dlya-investora/
 ---
 
 # Инвестиции во вторичный рынок Василеостровского района: полный гид для инвестора от экспертов ButlerSPB

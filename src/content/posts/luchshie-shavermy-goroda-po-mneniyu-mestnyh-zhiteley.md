@@ -1,10 +1,43 @@
 ---
-title: "Где лучшая шаверма в Петербурге? Рейтинг от ButlerSPB и местных жителей"
-description: "Команда ButlerSPB опросила коренных петербуржцев и собрала для вас честный гид по лучшим шавермам города. Откройте для себя места, которые любят и советуют сами жители Северной столицы — без туристической мишуры, только сочный вкус и проверенное качество."
-pubDate: "2025-07-22T13:08:27.771Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Где лучшая шаверма в Петербурге? Рейтинг от ButlerSPB и местных жителей","description":"Команда ButlerSPB опросила коренных петербуржцев и собрала для вас честный гид по лучшим шавермам города. Откройте для себя места, которые любят и советуют сами жители Северной столицы — без туристической мишуры, только сочный вкус и проверенное качество.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":569,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/luchshie-shavermy-goroda-po-mneniyu-mestnyh-zhiteley/"}}
+title: Где лучшая шаверма в Петербурге? Рейтинг от ButlerSPB и местных жителей
+description: >-
+  Команда ButlerSPB опросила коренных петербуржцев и собрала для вас честный гид
+  по лучшим шавермам города. Откройте для себя места, которые любят и советуют
+  сами жители Северной столицы — без туристической мишуры, только сочный вкус и
+  проверенное качество.
+pubDate: '2025-07-22T13:08:27.771Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: Где лучшая шаверма в Петербурге? Рейтинг от ButlerSPB и местных жителей
+  description: >-
+    Команда ButlerSPB опросила коренных петербуржцев и собрала для вас честный
+    гид по лучшим шавермам города. Откройте для себя места, которые любят и
+    советуют сами жители Северной столицы — без туристической мишуры, только
+    сочный вкус и проверенное качество.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.7'
+    reviewCount: 795
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/luchshie-shavermy-goroda-po-mneniyu-mestnyh-zhiteley/
 ---
 
 # Лучшие шавермы Санкт-Петербурга: гид от инсайдера по местам, которые любят местные

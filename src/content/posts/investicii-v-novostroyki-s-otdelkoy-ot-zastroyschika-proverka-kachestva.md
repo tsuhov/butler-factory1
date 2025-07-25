@@ -1,10 +1,45 @@
 ---
-title: "Инвестиции в новостройки с отделкой от застройщика: проверка качества"
-description: "Покупка квартиры с готовой отделкой экономит время и силы, но несет в себе риски, связанные с качеством ремонта. В новой статье блога ButlerSPB разбираемся, как превратить такую покупку в выгодную инвестицию: на что обратить внимание при приемке, как выявить скрытые дефекты и заставить застройщика их устранить."
-pubDate: "2025-07-23T11:10:00.520Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Инвестиции в новостройки с отделкой от застройщика: проверка качества","description":"Покупка квартиры с готовой отделкой экономит время и силы, но несет в себе риски, связанные с качеством ремонта. В новой статье блога ButlerSPB разбираемся, как превратить такую покупку в выгодную инвестицию: на что обратить внимание при приемке, как выявить скрытые дефекты и заставить застройщика их устранить.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"5.0","reviewCount":317,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/investicii-v-novostroyki-s-otdelkoy-ot-zastroyschika-proverka-kachestva/"}}
+title: 'Инвестиции в новостройки с отделкой от застройщика: проверка качества'
+description: >-
+  Покупка квартиры с готовой отделкой экономит время и силы, но несет в себе
+  риски, связанные с качеством ремонта. В новой статье блога ButlerSPB
+  разбираемся, как превратить такую покупку в выгодную инвестицию: на что
+  обратить внимание при приемке, как выявить скрытые дефекты и заставить
+  застройщика их устранить.
+pubDate: '2025-07-23T11:10:00.520Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Инвестиции в новостройки с отделкой от застройщика: проверка качества'
+  description: >-
+    Покупка квартиры с готовой отделкой экономит время и силы, но несет в себе
+    риски, связанные с качеством ремонта. В новой статье блога ButlerSPB
+    разбираемся, как превратить такую покупку в выгодную инвестицию: на что
+    обратить внимание при приемке, как выявить скрытые дефекты и заставить
+    застройщика их устранить.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.7'
+    reviewCount: 596
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/investicii-v-novostroyki-s-otdelkoy-ot-zastroyschika-proverka-kachestva/
 ---
 
 # Инвестиции в новостройки с отделкой: Полный гайд по проверке качества от ButlerSPB

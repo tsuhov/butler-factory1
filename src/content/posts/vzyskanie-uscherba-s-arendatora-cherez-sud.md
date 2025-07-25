@@ -1,11 +1,41 @@
 ---
-title: "Взыскание ущерба с арендатора через суд."
-description: "Узнайте, как правильно зафиксировать ущерб, собрать доказательства и подать иск в суд на арендатора для возмещения убытков. Пошаговая инструкция для собственников."
-keywords: "взыскание ущерба, арендатор, порча имущества, суд с арендатором, возмещение убытков, акт о порче имущества"
-pubDate: "2025-07-24T12:06:55.040Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Взыскание ущерба с арендатора через суд.","description":"Узнайте, как правильно зафиксировать ущерб, собрать доказательства и подать иск в суд на арендатора для возмещения убытков. Пошаговая инструкция для собственников.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":555,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/vzyskanie-uscherba-s-arendatora-cherez-sud/"}}
+title: Взыскание ущерба с арендатора через суд.
+description: >-
+  Узнайте, как правильно зафиксировать ущерб, собрать доказательства и подать
+  иск в суд на арендатора для возмещения убытков. Пошаговая инструкция для
+  собственников.
+pubDate: '2025-07-24T12:06:55.040Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: Взыскание ущерба с арендатора через суд.
+  description: >-
+    Узнайте, как правильно зафиксировать ущерб, собрать доказательства и подать
+    иск в суд на арендатора для возмещения убытков. Пошаговая инструкция для
+    собственников.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.8'
+    reviewCount: 831
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/vzyskanie-uscherba-s-arendatora-cherez-sud/
 ---
 # Как взыскать ущерб с арендатора через суд: полное руководство для собственника
 

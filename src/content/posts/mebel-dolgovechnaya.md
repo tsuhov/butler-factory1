@@ -1,11 +1,40 @@
 ---
-title: "Долговечная мебель: как выбрать и не ошибиться"
-description: "Инвестируйте в качество, которое прослужит десятилетия. В этой статье от ButlerSPB мы раскроем секреты выбора прочной мебели и ухода за ней для вашего дома."
-keywords: "долговечная мебель, качественная мебель, мебель из массива, как выбрать мебель, советы по уходу, ButlerSPB, прочная мебель"
-pubDate: "2025-07-25T16:17:25.611Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Долговечная мебель: как выбрать и не ошибиться","description":"Инвестируйте в качество, которое прослужит десятилетия. В этой статье от ButlerSPB мы раскроем секреты выбора прочной мебели и ухода за ней для вашего дома.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.8","reviewCount":401,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/mebel-dolgovechnaya/"}}
+title: 'Долговечная мебель: как выбрать и не ошибиться'
+description: >-
+  Инвестируйте в качество, которое прослужит десятилетия. В этой статье от
+  ButlerSPB мы раскроем секреты выбора прочной мебели и ухода за ней для вашего
+  дома.
+pubDate: '2025-07-25T16:17:25.611Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Долговечная мебель: как выбрать и не ошибиться'
+  description: >-
+    Инвестируйте в качество, которое прослужит десятилетия. В этой статье от
+    ButlerSPB мы раскроем секреты выбора прочной мебели и ухода за ней для
+    вашего дома.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.8'
+    reviewCount: 835
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': 'https://butlerspb-blog.netlify.app/blog/mebel-dolgovechnaya/'
 ---
 # Долговечная мебель: полное руководство по выбору от А до Я
 

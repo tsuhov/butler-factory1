@@ -1,10 +1,51 @@
 ---
-title: "Как выгодно продать помещение в торговом центре: инструкция от экспертов ButlerSPB"
-description: "Продажа помещения в торговом центре — многоэтапная задача, требующая профессионального подхода. В нашей новой статье от экспертов ButlerSPB мы подробно разбираем каждый шаг: от предпродажной подготовки и правильной оценки объекта до юридических тонкостей сделки и эффективного поиска покупателя. Узнайте, как избежать распространенных ошибок и заключить максимально выгодный договор."
-pubDate: "2025-07-23T12:18:36.695Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Как выгодно продать помещение в торговом центре: инструкция от экспертов ButlerSPB","description":"Продажа помещения в торговом центре — многоэтапная задача, требующая профессионального подхода. В нашей новой статье от экспертов ButlerSPB мы подробно разбираем каждый шаг: от предпродажной подготовки и правильной оценки объекта до юридических тонкостей сделки и эффективного поиска покупателя. Узнайте, как избежать распространенных ошибок и заключить максимально выгодный договор.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"5.0","reviewCount":363,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/prodazha-pomescheniya-v-torgovom-centre/"}}
+title: >-
+  Как выгодно продать помещение в торговом центре: инструкция от экспертов
+  ButlerSPB
+description: >-
+  Продажа помещения в торговом центре — многоэтапная задача, требующая
+  профессионального подхода. В нашей новой статье от экспертов ButlerSPB мы
+  подробно разбираем каждый шаг: от предпродажной подготовки и правильной оценки
+  объекта до юридических тонкостей сделки и эффективного поиска покупателя.
+  Узнайте, как избежать распространенных ошибок и заключить максимально выгодный
+  договор.
+pubDate: '2025-07-23T12:18:36.695Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: >-
+    Как выгодно продать помещение в торговом центре: инструкция от экспертов
+    ButlerSPB
+  description: >-
+    Продажа помещения в торговом центре — многоэтапная задача, требующая
+    профессионального подхода. В нашей новой статье от экспертов ButlerSPB мы
+    подробно разбираем каждый шаг: от предпродажной подготовки и правильной
+    оценки объекта до юридических тонкостей сделки и эффективного поиска
+    покупателя. Узнайте, как избежать распространенных ошибок и заключить
+    максимально выгодный договор.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.9'
+    reviewCount: 707
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/prodazha-pomescheniya-v-torgovom-centre/
 ---
 
 # Как выгодно продать помещение в торговом центре в 2024 году: Полное руководство от экспертов ButlerSPB

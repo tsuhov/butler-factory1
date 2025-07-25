@@ -1,10 +1,46 @@
 ---
-title: "Что выгоднее: сдать квартиру через агентство или самостоятельно?"
-description: "Каждый собственник недвижимости рано или поздно задается вопросом: как сдать квартиру с максимальной выгодой и минимальными рисками? Обратиться к риелтору или действовать своими силами? В новой статье блога ButlerSPB разбираем плюсы и минусы обоих подходов. Сравниваем затраты времени и денег, юридическую безопасность и подводные камни, чтобы вы могли принять взвешенное решение."
-pubDate: "2025-07-22T13:57:17.831Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Что выгоднее: сдать квартиру через агентство или самостоятельно?","description":"Каждый собственник недвижимости рано или поздно задается вопросом: как сдать квартиру с максимальной выгодой и минимальными рисками? Обратиться к риелтору или действовать своими силами? В новой статье блога ButlerSPB разбираем плюсы и минусы обоих подходов. Сравниваем затраты времени и денег, юридическую безопасность и подводные камни, чтобы вы могли принять взвешенное решение.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.8","reviewCount":470,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/chto-vygodnee-sdat-kvartiru-cherez-agentstvo-ili-samostoyatelno/"}}
+title: 'Что выгоднее: сдать квартиру через агентство или самостоятельно?'
+description: >-
+  Каждый собственник недвижимости рано или поздно задается вопросом: как сдать
+  квартиру с максимальной выгодой и минимальными рисками? Обратиться к риелтору
+  или действовать своими силами? В новой статье блога ButlerSPB разбираем плюсы
+  и минусы обоих подходов. Сравниваем затраты времени и денег, юридическую
+  безопасность и подводные камни, чтобы вы могли принять взвешенное решение.
+pubDate: '2025-07-22T13:57:17.831Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Что выгоднее: сдать квартиру через агентство или самостоятельно?'
+  description: >-
+    Каждый собственник недвижимости рано или поздно задается вопросом: как сдать
+    квартиру с максимальной выгодой и минимальными рисками? Обратиться к
+    риелтору или действовать своими силами? В новой статье блога ButlerSPB
+    разбираем плюсы и минусы обоих подходов. Сравниваем затраты времени и денег,
+    юридическую безопасность и подводные камни, чтобы вы могли принять
+    взвешенное решение.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.8'
+    reviewCount: 473
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/chto-vygodnee-sdat-kvartiru-cherez-agentstvo-ili-samostoyatelno/
 ---
 
 # Сдать квартиру в СПб: через агентство или самостоятельно? Полный разбор для собственника

@@ -1,11 +1,39 @@
 ---
-title: "Горячая линия ButlerSPB: поддержка всегда рядом"
-description: "Узнайте, как наша горячая линия помогает решать любые вопросы в режиме 24/7. Мы создали этот сервис для мгновенной поддержки и консультации наших клиентов."
-keywords: "горячая линия, ButlerSPB, поддержка клиентов, служба поддержки, помощь 24/7, колл-центр, консультация"
-pubDate: "2025-07-25T13:57:34.881Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Горячая линия ButlerSPB: поддержка всегда рядом","description":"Узнайте, как наша горячая линия помогает решать любые вопросы в режиме 24/7. Мы создали этот сервис для мгновенной поддержки и консультации наших клиентов.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.8","reviewCount":507,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/goryachaya-liniya/"}}
+title: 'Горячая линия ButlerSPB: поддержка всегда рядом'
+description: >-
+  Узнайте, как наша горячая линия помогает решать любые вопросы в режиме 24/7.
+  Мы создали этот сервис для мгновенной поддержки и консультации наших клиентов.
+pubDate: '2025-07-25T13:57:34.881Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Горячая линия ButlerSPB: поддержка всегда рядом'
+  description: >-
+    Узнайте, как наша горячая линия помогает решать любые вопросы в режиме 24/7.
+    Мы создали этот сервис для мгновенной поддержки и консультации наших
+    клиентов.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '5.0'
+    reviewCount: 538
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': 'https://butlerspb-blog.netlify.app/blog/goryachaya-liniya/'
 ---
 # Горячая линия для бизнеса: полное руководство по созданию эффективного канала коммуникации
 

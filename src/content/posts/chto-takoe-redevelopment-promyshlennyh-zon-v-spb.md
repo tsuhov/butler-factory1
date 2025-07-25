@@ -1,10 +1,51 @@
 ---
-title: "Редевелопмент промышленных зон в Санкт-Петербурге: новая жизнь старых территорий"
-description: "Промышленные зоны, известные как 'серый пояс', занимают значительную часть Санкт-Петербурга. Что такое редевелопмент и как он превращает заброшенные заводы в современные жилые кварталы, арт-пространства и бизнес-центры? В новой статье блога ButlerSPB разбираемся в понятии, рассматриваем самые яркие примеры проектов в СПб и обсуждаем перспективы трансформации городского ландшафта."
-pubDate: "2025-07-23T11:50:14.887Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Редевелопмент промышленных зон в Санкт-Петербурге: новая жизнь старых территорий","description":"Промышленные зоны, известные как 'серый пояс', занимают значительную часть Санкт-Петербурга. Что такое редевелопмент и как он превращает заброшенные заводы в современные жилые кварталы, арт-пространства и бизнес-центры? В новой статье блога ButlerSPB разбираемся в понятии, рассматриваем самые яркие примеры проектов в СПб и обсуждаем перспективы трансформации городского ландшафта.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":759,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/chto-takoe-redevelopment-promyshlennyh-zon-v-spb/"}}
+title: >-
+  Редевелопмент промышленных зон в Санкт-Петербурге: новая жизнь старых
+  территорий
+description: >-
+  Промышленные зоны, известные как 'серый пояс', занимают значительную часть
+  Санкт-Петербурга. Что такое редевелопмент и как он превращает заброшенные
+  заводы в современные жилые кварталы, арт-пространства и бизнес-центры? В новой
+  статье блога ButlerSPB разбираемся в понятии, рассматриваем самые яркие
+  примеры проектов в СПб и обсуждаем перспективы трансформации городского
+  ландшафта.
+pubDate: '2025-07-23T11:50:14.887Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: >-
+    Редевелопмент промышленных зон в Санкт-Петербурге: новая жизнь старых
+    территорий
+  description: >-
+    Промышленные зоны, известные как 'серый пояс', занимают значительную часть
+    Санкт-Петербурга. Что такое редевелопмент и как он превращает заброшенные
+    заводы в современные жилые кварталы, арт-пространства и бизнес-центры? В
+    новой статье блога ButlerSPB разбираемся в понятии, рассматриваем самые
+    яркие примеры проектов в СПб и обсуждаем перспективы трансформации
+    городского ландшафта.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.7'
+    reviewCount: 383
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/chto-takoe-redevelopment-promyshlennyh-zon-v-spb/
 ---
 
 # **Редевелопмент промышленных зон в СПб: как «серый пояс» превращается в золотой актив**

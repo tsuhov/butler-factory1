@@ -1,10 +1,49 @@
 ---
-title: "Как легально сдавать апартаменты в Питере: полное руководство для собственника"
-description: "Планируете сдавать апартаменты в Санкт-Петербурге и хотите делать это в соответствии с законом? Команда ButlerSPB подготовила подробную статью, в которой мы разбираем все ключевые шаги: от регистрации в качестве самозанятого или ИП до уплаты налогов и правильного оформления договора с гостями. Узнайте, как избежать штрафов и сделать ваш арендный бизнес полностью легальным и прибыльным."
-pubDate: "2025-07-22T01:11:18.157Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Как легально сдавать апартаменты в Питере: полное руководство для собственника","description":"Планируете сдавать апартаменты в Санкт-Петербурге и хотите делать это в соответствии с законом? Команда ButlerSPB подготовила подробную статью, в которой мы разбираем все ключевые шаги: от регистрации в качестве самозанятого или ИП до уплаты налогов и правильного оформления договора с гостями. Узнайте, как избежать штрафов и сделать ваш арендный бизнес полностью легальным и прибыльным.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"5.0","reviewCount":354,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/kak-legalno-sdavat-apartamenty-v-pitere/"}}
+title: 'Как легально сдавать апартаменты в Питере: полное руководство для собственника'
+description: >-
+  Планируете сдавать апартаменты в Санкт-Петербурге и хотите делать это в
+  соответствии с законом? Команда ButlerSPB подготовила подробную статью, в
+  которой мы разбираем все ключевые шаги: от регистрации в качестве самозанятого
+  или ИП до уплаты налогов и правильного оформления договора с гостями. Узнайте,
+  как избежать штрафов и сделать ваш арендный бизнес полностью легальным и
+  прибыльным.
+pubDate: '2025-07-22T01:11:18.157Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: >-
+    Как легально сдавать апартаменты в Питере: полное руководство для
+    собственника
+  description: >-
+    Планируете сдавать апартаменты в Санкт-Петербурге и хотите делать это в
+    соответствии с законом? Команда ButlerSPB подготовила подробную статью, в
+    которой мы разбираем все ключевые шаги: от регистрации в качестве
+    самозанятого или ИП до уплаты налогов и правильного оформления договора с
+    гостями. Узнайте, как избежать штрафов и сделать ваш арендный бизнес
+    полностью легальным и прибыльным.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.9'
+    reviewCount: 895
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/kak-legalno-sdavat-apartamenty-v-pitere/
 ---
 
 # Как легально сдавать апартаменты в Санкт-Петербурге в 2024 году: полный гид для собственника

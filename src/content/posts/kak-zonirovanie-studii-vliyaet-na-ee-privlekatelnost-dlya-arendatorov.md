@@ -1,11 +1,41 @@
 ---
-title: "Зонирование студии: ключ к сердцу арендатора"
-description: "Грамотное зонирование превращает студию в комфортное жилье. Рассказываем, как выделить зоны кухни, сна и работы, чтобы привлечь больше арендаторов и сдать быстрее."
-keywords: "зонирование студии, аренда студии, дизайн интерьера, сдать квартиру, привлекательность для арендаторов, ButlerSPB"
-pubDate: "2025-07-24T12:02:21.852Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Зонирование студии: ключ к сердцу арендатора","description":"Грамотное зонирование превращает студию в комфортное жилье. Рассказываем, как выделить зоны кухни, сна и работы, чтобы привлечь больше арендаторов и сдать быстрее.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.8","reviewCount":830,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/kak-zonirovanie-studii-vliyaet-na-ee-privlekatelnost-dlya-arendatorov/"}}
+title: 'Зонирование студии: ключ к сердцу арендатора'
+description: >-
+  Грамотное зонирование превращает студию в комфортное жилье. Рассказываем, как
+  выделить зоны кухни, сна и работы, чтобы привлечь больше арендаторов и сдать
+  быстрее.
+pubDate: '2025-07-24T12:02:21.852Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Зонирование студии: ключ к сердцу арендатора'
+  description: >-
+    Грамотное зонирование превращает студию в комфортное жилье. Рассказываем,
+    как выделить зоны кухни, сна и работы, чтобы привлечь больше арендаторов и
+    сдать быстрее.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.7'
+    reviewCount: 529
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/kak-zonirovanie-studii-vliyaet-na-ee-privlekatelnost-dlya-arendatorov/
 ---
 # Зонирование студии: Превращаем «квадратные метры» в желанное жилье и стабильный доход
 

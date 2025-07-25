@@ -1,10 +1,50 @@
 ---
-title: "Бюджет на поездку в Санкт-Петербург: подробный гид по планированию от ButlerSPB"
-description: "Собираетесь в Северную столицу, но не знаете, с чего начать планирование бюджета? В нашей новой статье мы подробно разбираем все основные статьи расходов: от билетов и проживания до питания и развлечений. Узнайте, сколько денег взять с собой в Петербург и как сэкономить, чтобы путешествие оставило только приятные впечатления. Полезные советы и лайфхаки от команды ButlerSPB!"
-pubDate: "2025-07-22T11:47:14.211Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Бюджет на поездку в Санкт-Петербург: подробный гид по планированию от ButlerSPB","description":"Собираетесь в Северную столицу, но не знаете, с чего начать планирование бюджета? В нашей новой статье мы подробно разбираем все основные статьи расходов: от билетов и проживания до питания и развлечений. Узнайте, сколько денег взять с собой в Петербург и как сэкономить, чтобы путешествие оставило только приятные впечатления. Полезные советы и лайфхаки от команды ButlerSPB!","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.7","reviewCount":795,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/kak-splanirovat-byudzhet-na-poezdku-v-sankt-peterburg/"}}
+title: >-
+  Бюджет на поездку в Санкт-Петербург: подробный гид по планированию от
+  ButlerSPB
+description: >-
+  Собираетесь в Северную столицу, но не знаете, с чего начать планирование
+  бюджета? В нашей новой статье мы подробно разбираем все основные статьи
+  расходов: от билетов и проживания до питания и развлечений. Узнайте, сколько
+  денег взять с собой в Петербург и как сэкономить, чтобы путешествие оставило
+  только приятные впечатления. Полезные советы и лайфхаки от команды ButlerSPB!
+pubDate: '2025-07-22T11:47:14.211Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: >-
+    Бюджет на поездку в Санкт-Петербург: подробный гид по планированию от
+    ButlerSPB
+  description: >-
+    Собираетесь в Северную столицу, но не знаете, с чего начать планирование
+    бюджета? В нашей новой статье мы подробно разбираем все основные статьи
+    расходов: от билетов и проживания до питания и развлечений. Узнайте, сколько
+    денег взять с собой в Петербург и как сэкономить, чтобы путешествие оставило
+    только приятные впечатления. Полезные советы и лайфхаки от команды
+    ButlerSPB!
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.7'
+    reviewCount: 417
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/kak-splanirovat-byudzhet-na-poezdku-v-sankt-peterburg/
 ---
 
 # Как спланировать бюджет на поездку в Санкт-Петербург: подробный гид с ценами 2024 года

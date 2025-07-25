@@ -1,10 +1,43 @@
 ---
-title: "Транспорт в Санкт-Петербурге: как передвигаться быстро и недорого"
-description: "Полный гид по всем видам транспорта в Санкт-Петербурге от компании ButlerSPB. Рассказываем, как сэкономить на проезде в метро, автобусах, такси и даже аквабусах, и выбрать оптимальный маршрут для ваших путешествий по Северной столице."
-pubDate: "2025-07-22T11:44:51.898Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Транспорт в Санкт-Петербурге: как передвигаться быстро и недорого","description":"Полный гид по всем видам транспорта в Санкт-Петербурге от компании ButlerSPB. Рассказываем, как сэкономить на проезде в метро, автобусах, такси и даже аквабусах, и выбрать оптимальный маршрут для ваших путешествий по Северной столице.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":692,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/transport-v-sankt-peterburge-kak-peredvigatsya-bystro-i-nedorogo/"}}
+title: 'Транспорт в Санкт-Петербурге: как передвигаться быстро и недорого'
+description: >-
+  Полный гид по всем видам транспорта в Санкт-Петербурге от компании ButlerSPB.
+  Рассказываем, как сэкономить на проезде в метро, автобусах, такси и даже
+  аквабусах, и выбрать оптимальный маршрут для ваших путешествий по Северной
+  столице.
+pubDate: '2025-07-22T11:44:51.898Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Транспорт в Санкт-Петербурге: как передвигаться быстро и недорого'
+  description: >-
+    Полный гид по всем видам транспорта в Санкт-Петербурге от компании
+    ButlerSPB. Рассказываем, как сэкономить на проезде в метро, автобусах, такси
+    и даже аквабусах, и выбрать оптимальный маршрут для ваших путешествий по
+    Северной столице.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.8'
+    reviewCount: 861
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/transport-v-sankt-peterburge-kak-peredvigatsya-bystro-i-nedorogo/
 ---
 
 # Транспорт в Санкт-Петербурге: Ваш экспертный гид по быстрому и недорогому передвижению

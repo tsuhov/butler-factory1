@@ -1,10 +1,49 @@
 ---
-title: "Доверительное управление посуточной арендой: отзывы реальных владельцев и кейсы от ButlerSPB"
-description: "Думаете передать квартиру в доверительное управление для посуточной сдачи? Собрали честные отзывы владельцев, разобрали плюсы и минусы такого решения. В статье делимся реальными кейсами нашей компании ButlerSPB, рассказываем о подводных камнях и о том, как выбрать надежную управляющую компанию в Санкт-Петербурге."
-pubDate: "2025-07-22T00:30:56.076Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Доверительное управление посуточной арендой: отзывы реальных владельцев и кейсы от ButlerSPB","description":"Думаете передать квартиру в доверительное управление для посуточной сдачи? Собрали честные отзывы владельцев, разобрали плюсы и минусы такого решения. В статье делимся реальными кейсами нашей компании ButlerSPB, рассказываем о подводных камнях и о том, как выбрать надежную управляющую компанию в Санкт-Петербурге.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":561,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/doveritelnoe-upravlenie-posutochnoy-arendoy-otzyvy/"}}
+title: >-
+  Доверительное управление посуточной арендой: отзывы реальных владельцев и
+  кейсы от ButlerSPB
+description: >-
+  Думаете передать квартиру в доверительное управление для посуточной сдачи?
+  Собрали честные отзывы владельцев, разобрали плюсы и минусы такого решения. В
+  статье делимся реальными кейсами нашей компании ButlerSPB, рассказываем о
+  подводных камнях и о том, как выбрать надежную управляющую компанию в
+  Санкт-Петербурге.
+pubDate: '2025-07-22T00:30:56.076Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: >-
+    Доверительное управление посуточной арендой: отзывы реальных владельцев и
+    кейсы от ButlerSPB
+  description: >-
+    Думаете передать квартиру в доверительное управление для посуточной сдачи?
+    Собрали честные отзывы владельцев, разобрали плюсы и минусы такого решения.
+    В статье делимся реальными кейсами нашей компании ButlerSPB, рассказываем о
+    подводных камнях и о том, как выбрать надежную управляющую компанию в
+    Санкт-Петербурге.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.9'
+    reviewCount: 453
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/doveritelnoe-upravlenie-posutochnoy-arendoy-otzyvy/
 ---
 
 # Доверительное управление посуточной арендой: Вся правда в отзывах, цифрах и советах экспертов

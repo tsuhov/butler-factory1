@@ -1,10 +1,43 @@
 ---
-title: "Выбор планировки для максимальной арендной доходности"
-description: "Планируете сдавать квартиру в аренду в Санкт-Петербурге? От правильного выбора планировки напрямую зависит ваш доход. В этой статье эксперты ButlerSPB разбирают, какие квартиры — студии, однокомнатные или евро-двушки — пользуются наибольшим спросом и приносят максимальную прибыль владельцу."
-pubDate: "2025-07-22T13:47:22.160Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Выбор планировки для максимальной арендной доходности","description":"Планируете сдавать квартиру в аренду в Санкт-Петербурге? От правильного выбора планировки напрямую зависит ваш доход. В этой статье эксперты ButlerSPB разбирают, какие квартиры — студии, однокомнатные или евро-двушки — пользуются наибольшим спросом и приносят максимальную прибыль владельцу.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.8","reviewCount":450,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/vybor-planirovki-dlya-maksimalnoy-arendnoy-dohodnosti/"}}
+title: Выбор планировки для максимальной арендной доходности
+description: >-
+  Планируете сдавать квартиру в аренду в Санкт-Петербурге? От правильного выбора
+  планировки напрямую зависит ваш доход. В этой статье эксперты ButlerSPB
+  разбирают, какие квартиры — студии, однокомнатные или евро-двушки — пользуются
+  наибольшим спросом и приносят максимальную прибыль владельцу.
+pubDate: '2025-07-22T13:47:22.160Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: Выбор планировки для максимальной арендной доходности
+  description: >-
+    Планируете сдавать квартиру в аренду в Санкт-Петербурге? От правильного
+    выбора планировки напрямую зависит ваш доход. В этой статье эксперты
+    ButlerSPB разбирают, какие квартиры — студии, однокомнатные или евро-двушки
+    — пользуются наибольшим спросом и приносят максимальную прибыль владельцу.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.7'
+    reviewCount: 367
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/vybor-planirovki-dlya-maksimalnoy-arendnoy-dohodnosti/
 ---
 
 # Как выбрать планировку квартиры для максимальной арендной доходности: Гайд для инвестора от ButlerSPB

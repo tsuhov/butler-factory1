@@ -1,10 +1,51 @@
 ---
-title: "Налоги при доверительном управлении элитной недвижимостью: гид для собственника от ButlerSPB"
-description: "Передача элитной недвижимости в доверительное управление — эффективный способ получения дохода. Но как быть с налогами? В нашей новой статье мы подробно разбираем ключевые налоговые аспекты для собственника: какой налог на доходы нужно платить, как рассчитывается налоговая база, какие расходы можно учесть для ее уменьшения и как ButlerSPB помогает с отчетностью, делая процесс максимально прозрачным и выгодным для вас."
-pubDate: "2025-07-21T23:59:48.993Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Налоги при доверительном управлении элитной недвижимостью: гид для собственника от ButlerSPB","description":"Передача элитной недвижимости в доверительное управление — эффективный способ получения дохода. Но как быть с налогами? В нашей новой статье мы подробно разбираем ключевые налоговые аспекты для собственника: какой налог на доходы нужно платить, как рассчитывается налоговая база, какие расходы можно учесть для ее уменьшения и как ButlerSPB помогает с отчетностью, делая процесс максимально прозрачным и выгодным для вас.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.7","reviewCount":618,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/nalogooblozhenie-pri-doveritelnom-upravlenii-elitnoy-nedvizhimostyu/"}}
+title: >-
+  Налоги при доверительном управлении элитной недвижимостью: гид для
+  собственника от ButlerSPB
+description: >-
+  Передача элитной недвижимости в доверительное управление — эффективный способ
+  получения дохода. Но как быть с налогами? В нашей новой статье мы подробно
+  разбираем ключевые налоговые аспекты для собственника: какой налог на доходы
+  нужно платить, как рассчитывается налоговая база, какие расходы можно учесть
+  для ее уменьшения и как ButlerSPB помогает с отчетностью, делая процесс
+  максимально прозрачным и выгодным для вас.
+pubDate: '2025-07-21T23:59:48.993Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: >-
+    Налоги при доверительном управлении элитной недвижимостью: гид для
+    собственника от ButlerSPB
+  description: >-
+    Передача элитной недвижимости в доверительное управление — эффективный
+    способ получения дохода. Но как быть с налогами? В нашей новой статье мы
+    подробно разбираем ключевые налоговые аспекты для собственника: какой налог
+    на доходы нужно платить, как рассчитывается налоговая база, какие расходы
+    можно учесть для ее уменьшения и как ButlerSPB помогает с отчетностью, делая
+    процесс максимально прозрачным и выгодным для вас.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.8'
+    reviewCount: 767
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/nalogooblozhenie-pri-doveritelnom-upravlenii-elitnoy-nedvizhimostyu/
 ---
 
 # Налогообложение при доверительном управлении элитной недвижимостью: Полный гид для собственника

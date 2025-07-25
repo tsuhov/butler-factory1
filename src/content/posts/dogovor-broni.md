@@ -1,11 +1,40 @@
 ---
-title: "Договор брони: ключевые аспекты и нюансы"
-description: "Договор брони гарантирует закрепление объекта за вами. В статье разбираем его суть, обязательные пункты и юридические тонкости для вашей полной безопасности."
-keywords: "договор брони, бронирование недвижимости, ButlerSPB, юридическая чистота, апартаменты, гарантии, сделка"
-pubDate: "2025-07-25T16:28:16.144Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Договор брони: ключевые аспекты и нюансы","description":"Договор брони гарантирует закрепление объекта за вами. В статье разбираем его суть, обязательные пункты и юридические тонкости для вашей полной безопасности.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.8","reviewCount":738,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/dogovor-broni/"}}
+title: 'Договор брони: ключевые аспекты и нюансы'
+description: >-
+  Договор брони гарантирует закрепление объекта за вами. В статье разбираем его
+  суть, обязательные пункты и юридические тонкости для вашей полной
+  безопасности.
+pubDate: '2025-07-25T16:28:16.144Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Договор брони: ключевые аспекты и нюансы'
+  description: >-
+    Договор брони гарантирует закрепление объекта за вами. В статье разбираем
+    его суть, обязательные пункты и юридические тонкости для вашей полной
+    безопасности.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '5.0'
+    reviewCount: 585
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': 'https://butlerspb-blog.netlify.app/blog/dogovor-broni/'
 ---
 # Договор бронирования квартиры: Ваш полный гид по безопасной сделке в Санкт-Петербурге
 

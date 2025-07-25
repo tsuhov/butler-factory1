@@ -1,11 +1,40 @@
 ---
-title: "Персонализация услуг: ключ к успеху ButlerSPB"
-description: "Персонализация – это не просто тренд, а философия ButlerSPB. Мы создаем уникальный клиентский опыт, глубоко изучая ваши потребности и предлагая то, что нужно вам."
-keywords: "персонализация, клиентский сервис, индивидуальный подход, ButlerSPB, консьерж-сервис, премиум-услуги, лояльность клиентов"
-pubDate: "2025-07-24T13:10:52.384Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Персонализация услуг: ключ к успеху ButlerSPB","description":"Персонализация – это не просто тренд, а философия ButlerSPB. Мы создаем уникальный клиентский опыт, глубоко изучая ваши потребности и предлагая то, что нужно вам.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":431,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/personalizaciya-uslug/"}}
+title: 'Персонализация услуг: ключ к успеху ButlerSPB'
+description: >-
+  Персонализация – это не просто тренд, а философия ButlerSPB. Мы создаем
+  уникальный клиентский опыт, глубоко изучая ваши потребности и предлагая то,
+  что нужно вам.
+pubDate: '2025-07-24T13:10:52.384Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Персонализация услуг: ключ к успеху ButlerSPB'
+  description: >-
+    Персонализация – это не просто тренд, а философия ButlerSPB. Мы создаем
+    уникальный клиентский опыт, глубоко изучая ваши потребности и предлагая то,
+    что нужно вам.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.7'
+    reviewCount: 711
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': 'https://butlerspb-blog.netlify.app/blog/personalizaciya-uslug/'
 ---
 # Больше чем сервис: что такое настоящая персонализация и как она экономит ваш главный ресурс — время
 

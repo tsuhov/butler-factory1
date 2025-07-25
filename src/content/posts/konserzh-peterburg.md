@@ -1,11 +1,39 @@
 ---
-title: "Профессиональный консьерж-сервис в Петербурге"
-description: "ButlerSPB – ваш надежный консьерж в Петербурге. Мы организуем ваш досуг, решим бытовые вопросы и выполним бизнес-поручения, экономя ваше драгоценное время."
-keywords: "консьерж спб, услуги консьержа, ButlerSPB, личный помощник, лайфстайл менеджмент, персональный ассистент, консьерж петербург"
-pubDate: "2025-07-24T13:09:21.141Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Профессиональный консьерж-сервис в Петербурге","description":"ButlerSPB – ваш надежный консьерж в Петербурге. Мы организуем ваш досуг, решим бытовые вопросы и выполним бизнес-поручения, экономя ваше драгоценное время.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"5.0","reviewCount":532,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/konserzh-peterburg/"}}
+title: Профессиональный консьерж-сервис в Петербурге
+description: >-
+  ButlerSPB – ваш надежный консьерж в Петербурге. Мы организуем ваш досуг, решим
+  бытовые вопросы и выполним бизнес-поручения, экономя ваше драгоценное время.
+pubDate: '2025-07-24T13:09:21.141Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: Профессиональный консьерж-сервис в Петербурге
+  description: >-
+    ButlerSPB – ваш надежный консьерж в Петербурге. Мы организуем ваш досуг,
+    решим бытовые вопросы и выполним бизнес-поручения, экономя ваше драгоценное
+    время.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '5.0'
+    reviewCount: 361
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': 'https://butlerspb-blog.netlify.app/blog/konserzh-peterburg/'
 ---
 # Консьерж в Петербурге: Как вернуть себе время и получить доступ к лучшему в городе
 

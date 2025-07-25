@@ -1,10 +1,47 @@
 ---
-title: "Виды и типы нежилых помещений: полный обзор от ButlerSPB"
-description: "Планируете купить, продать или арендовать нежилое помещение? Команда ButlerSPB подготовила исчерпывающий гид по видам и типам коммерческой недвижимости. В нашей статье вы найдете подробную классификацию: от офисных и торговых площадей до складов, производственных цехов и помещений свободного назначения. Разбираемся в юридических нюансах, особенностях каждого типа и помогаем сделать правильный выбор для вашего бизнеса."
-pubDate: "2025-07-22T16:22:08.022Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Виды и типы нежилых помещений: полный обзор от ButlerSPB","description":"Планируете купить, продать или арендовать нежилое помещение? Команда ButlerSPB подготовила исчерпывающий гид по видам и типам коммерческой недвижимости. В нашей статье вы найдете подробную классификацию: от офисных и торговых площадей до складов, производственных цехов и помещений свободного назначения. Разбираемся в юридических нюансах, особенностях каждого типа и помогаем сделать правильный выбор для вашего бизнеса.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.7","reviewCount":535,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/vidy-i-tipy-nezhilyh-pomescheniy-polnyy-obzor/"}}
+title: 'Виды и типы нежилых помещений: полный обзор от ButlerSPB'
+description: >-
+  Планируете купить, продать или арендовать нежилое помещение? Команда ButlerSPB
+  подготовила исчерпывающий гид по видам и типам коммерческой недвижимости. В
+  нашей статье вы найдете подробную классификацию: от офисных и торговых
+  площадей до складов, производственных цехов и помещений свободного назначения.
+  Разбираемся в юридических нюансах, особенностях каждого типа и помогаем
+  сделать правильный выбор для вашего бизнеса.
+pubDate: '2025-07-22T16:22:08.022Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Виды и типы нежилых помещений: полный обзор от ButlerSPB'
+  description: >-
+    Планируете купить, продать или арендовать нежилое помещение? Команда
+    ButlerSPB подготовила исчерпывающий гид по видам и типам коммерческой
+    недвижимости. В нашей статье вы найдете подробную классификацию: от офисных
+    и торговых площадей до складов, производственных цехов и помещений
+    свободного назначения. Разбираемся в юридических нюансах, особенностях
+    каждого типа и помогаем сделать правильный выбор для вашего бизнеса.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.7'
+    reviewCount: 404
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/vidy-i-tipy-nezhilyh-pomescheniy-polnyy-obzor/
 ---
 
 # Виды нежилых помещений: полная классификация и гид по выбору для бизнеса и инвестиций

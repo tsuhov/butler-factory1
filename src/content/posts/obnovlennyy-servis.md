@@ -1,11 +1,40 @@
 ---
-title: "Встречайте обновленный сервис от ButlerSPB!"
-description: "Команда ButlerSPB рада объявить о запуске обновленного сервиса. Мы улучшили интерфейс, добавили новые функции и повысили стабильность работы для вашего удобства."
-keywords: "ButlerSPB, обновление сервиса, новый функционал, улучшение услуг, апдейт, сервис в спб"
-pubDate: "2025-07-24T13:49:24.594Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Встречайте обновленный сервис от ButlerSPB!","description":"Команда ButlerSPB рада объявить о запуске обновленного сервиса. Мы улучшили интерфейс, добавили новые функции и повысили стабильность работы для вашего удобства.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":397,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/obnovlennyy-servis/"}}
+title: Встречайте обновленный сервис от ButlerSPB!
+description: >-
+  Команда ButlerSPB рада объявить о запуске обновленного сервиса. Мы улучшили
+  интерфейс, добавили новые функции и повысили стабильность работы для вашего
+  удобства.
+pubDate: '2025-07-24T13:49:24.594Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: Встречайте обновленный сервис от ButlerSPB!
+  description: >-
+    Команда ButlerSPB рада объявить о запуске обновленного сервиса. Мы улучшили
+    интерфейс, добавили новые функции и повысили стабильность работы для вашего
+    удобства.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '5.0'
+    reviewCount: 337
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': 'https://butlerspb-blog.netlify.app/blog/obnovlennyy-servis/'
 ---
 # Ваш комфорт в Санкт-Петербурге только что получил серьезное обновление
 

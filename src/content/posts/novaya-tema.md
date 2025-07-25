@@ -1,11 +1,40 @@
 ---
-title: "Новая эра комфорта: ваш идеальный дом в СПб"
-description: "Узнайте, как создать идеальную атмосферу в вашей квартире. ButlerSPB делится эксклюзивными советами по организации пространства, чистоты и уюта в Петербурге."
-keywords: "уютный дом, ButlerSPB, организация пространства, советы по дому, комфорт в квартире, сервис в спб, клининг"
-pubDate: "2025-07-25T16:23:20.100Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Новая эра комфорта: ваш идеальный дом в СПб","description":"Узнайте, как создать идеальную атмосферу в вашей квартире. ButlerSPB делится эксклюзивными советами по организации пространства, чистоты и уюта в Петербурге.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":482,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/novaya-tema/"}}
+title: 'Новая эра комфорта: ваш идеальный дом в СПб'
+description: >-
+  Узнайте, как создать идеальную атмосферу в вашей квартире. ButlerSPB делится
+  эксклюзивными советами по организации пространства, чистоты и уюта в
+  Петербурге.
+pubDate: '2025-07-25T16:23:20.100Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Новая эра комфорта: ваш идеальный дом в СПб'
+  description: >-
+    Узнайте, как создать идеальную атмосферу в вашей квартире. ButlerSPB делится
+    эксклюзивными советами по организации пространства, чистоты и уюта в
+    Петербурге.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.8'
+    reviewCount: 881
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': 'https://butlerspb-blog.netlify.app/blog/novaya-tema/'
 ---
 # Релокация в Санкт-Петербург: Полный гид по переезду премиум-класса без стресса
 

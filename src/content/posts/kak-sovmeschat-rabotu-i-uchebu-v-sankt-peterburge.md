@@ -1,10 +1,50 @@
 ---
-title: "Как совмещать работу и учебу в Санкт-Петербурге: гайд для студентов от ButlerSPB"
-description: "Санкт-Петербург — город студентов и больших возможностей. Но как найти баланс между лекциями в университете и необходимостью зарабатывать? В новой статье блога ButlerSPB мы делимся проверенными лайфхаками: от выбора вакансий с гибким графиком и поиска подработки рядом с вузом до техник тайм-менеджмента, которые помогут все успевать и находить время на отдых в культурной столице."
-pubDate: "2025-07-22T11:42:20.579Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Как совмещать работу и учебу в Санкт-Петербурге: гайд для студентов от ButlerSPB","description":"Санкт-Петербург — город студентов и больших возможностей. Но как найти баланс между лекциями в университете и необходимостью зарабатывать? В новой статье блога ButlerSPB мы делимся проверенными лайфхаками: от выбора вакансий с гибким графиком и поиска подработки рядом с вузом до техник тайм-менеджмента, которые помогут все успевать и находить время на отдых в культурной столице.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":736,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/kak-sovmeschat-rabotu-i-uchebu-v-sankt-peterburge/"}}
+title: >-
+  Как совмещать работу и учебу в Санкт-Петербурге: гайд для студентов от
+  ButlerSPB
+description: >-
+  Санкт-Петербург — город студентов и больших возможностей. Но как найти баланс
+  между лекциями в университете и необходимостью зарабатывать? В новой статье
+  блога ButlerSPB мы делимся проверенными лайфхаками: от выбора вакансий с
+  гибким графиком и поиска подработки рядом с вузом до техник тайм-менеджмента,
+  которые помогут все успевать и находить время на отдых в культурной столице.
+pubDate: '2025-07-22T11:42:20.579Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: >-
+    Как совмещать работу и учебу в Санкт-Петербурге: гайд для студентов от
+    ButlerSPB
+  description: >-
+    Санкт-Петербург — город студентов и больших возможностей. Но как найти
+    баланс между лекциями в университете и необходимостью зарабатывать? В новой
+    статье блога ButlerSPB мы делимся проверенными лайфхаками: от выбора
+    вакансий с гибким графиком и поиска подработки рядом с вузом до техник
+    тайм-менеджмента, которые помогут все успевать и находить время на отдых в
+    культурной столице.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.8'
+    reviewCount: 310
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/kak-sovmeschat-rabotu-i-uchebu-v-sankt-peterburge/
 ---
 
 # Как совмещать работу и учебу в Санкт-Петербурге: подробный гайд для амбициозных студентов

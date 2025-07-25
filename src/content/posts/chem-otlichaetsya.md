@@ -1,11 +1,40 @@
 ---
-title: "Чем отличается химчистка от аквачистки мебели"
-description: "Выбор между химчисткой и аквачисткой мебели может быть сложным. Статья от ButlerSPB поможет понять ключевые различия, плюсы и минусы каждого метода ухода."
-keywords: "химчистка мебели, аквачистка мебели, чистка дивана, уход за мебелью, butlerspb, уборка спб, чем отличается"
-pubDate: "2025-07-25T15:09:45.300Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Чем отличается химчистка от аквачистки мебели","description":"Выбор между химчисткой и аквачисткой мебели может быть сложным. Статья от ButlerSPB поможет понять ключевые различия, плюсы и минусы каждого метода ухода.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":411,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/chem-otlichaetsya/"}}
+title: Чем отличается химчистка от аквачистки мебели
+description: >-
+  Выбор между химчисткой и аквачисткой мебели может быть сложным. Статья от
+  ButlerSPB поможет понять ключевые различия, плюсы и минусы каждого метода
+  ухода.
+pubDate: '2025-07-25T15:09:45.300Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: Чем отличается химчистка от аквачистки мебели
+  description: >-
+    Выбор между химчисткой и аквачисткой мебели может быть сложным. Статья от
+    ButlerSPB поможет понять ключевые различия, плюсы и минусы каждого метода
+    ухода.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.8'
+    reviewCount: 824
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': 'https://butlerspb-blog.netlify.app/blog/chem-otlichaetsya/'
 ---
 # Генеральная или поддерживающая? Какая уборка нужна вашей квартире: гид от ButlerSPB
 

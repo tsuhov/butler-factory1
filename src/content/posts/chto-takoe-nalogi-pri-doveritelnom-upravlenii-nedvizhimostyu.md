@@ -1,10 +1,52 @@
 ---
-title: "Налоги при доверительном управлении недвижимостью: полное руководство для собственника от ButlerSPB"
-description: "Передача квартиры в доверительное управление освобождает вас от рутины, но не от уплаты налогов. В этой статье команда ButlerSPB подробно объясняет, кто и как должен платить налоги с дохода от аренды. Разбираем все возможные варианты для физических лиц и ИП: НДФЛ 13%, налог для самозанятых 6% и УСН «Доходы». Узнайте, какой режим выгоднее выбрать в вашем случае, как управляющая компания может помочь с отчетностью и как легально оптимизировать налоговую нагрузку."
-pubDate: "2025-07-22T00:06:17.877Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Налоги при доверительном управлении недвижимостью: полное руководство для собственника от ButlerSPB","description":"Передача квартиры в доверительное управление освобождает вас от рутины, но не от уплаты налогов. В этой статье команда ButlerSPB подробно объясняет, кто и как должен платить налоги с дохода от аренды. Разбираем все возможные варианты для физических лиц и ИП: НДФЛ 13%, налог для самозанятых 6% и УСН «Доходы». Узнайте, какой режим выгоднее выбрать в вашем случае, как управляющая компания может помочь с отчетностью и как легально оптимизировать налоговую нагрузку.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"5.0","reviewCount":828,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/chto-takoe-nalogi-pri-doveritelnom-upravlenii-nedvizhimostyu/"}}
+title: >-
+  Налоги при доверительном управлении недвижимостью: полное руководство для
+  собственника от ButlerSPB
+description: >-
+  Передача квартиры в доверительное управление освобождает вас от рутины, но не
+  от уплаты налогов. В этой статье команда ButlerSPB подробно объясняет, кто и
+  как должен платить налоги с дохода от аренды. Разбираем все возможные варианты
+  для физических лиц и ИП: НДФЛ 13%, налог для самозанятых 6% и УСН «Доходы».
+  Узнайте, какой режим выгоднее выбрать в вашем случае, как управляющая компания
+  может помочь с отчетностью и как легально оптимизировать налоговую нагрузку.
+pubDate: '2025-07-22T00:06:17.877Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: >-
+    Налоги при доверительном управлении недвижимостью: полное руководство для
+    собственника от ButlerSPB
+  description: >-
+    Передача квартиры в доверительное управление освобождает вас от рутины, но
+    не от уплаты налогов. В этой статье команда ButlerSPB подробно объясняет,
+    кто и как должен платить налоги с дохода от аренды. Разбираем все возможные
+    варианты для физических лиц и ИП: НДФЛ 13%, налог для самозанятых 6% и УСН
+    «Доходы». Узнайте, какой режим выгоднее выбрать в вашем случае, как
+    управляющая компания может помочь с отчетностью и как легально
+    оптимизировать налоговую нагрузку.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.7'
+    reviewCount: 736
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/chto-takoe-nalogi-pri-doveritelnom-upravlenii-nedvizhimostyu/
 ---
 
 # Налоги при доверительном управлении недвижимостью: Полное руководство для собственника в 2024 году

@@ -1,11 +1,40 @@
 ---
-title: "Надежный сервис от ButlerSPB: залог успеха"
-description: "Надежность — ключевой аспект любого сервиса. В блоге ButlerSPB мы рассказываем, как мы достигаем высокого уровня доверия клиентов и гарантируем качество."
-keywords: "надежный сервис, ButlerSPB, качество обслуживания, доверие клиентов, стандарты сервиса, гарантия качества, поддержка клиентов"
-pubDate: "2025-07-24T13:37:53.840Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Надежный сервис от ButlerSPB: залог успеха","description":"Надежность — ключевой аспект любого сервиса. В блоге ButlerSPB мы рассказываем, как мы достигаем высокого уровня доверия клиентов и гарантируем качество.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.8","reviewCount":428,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/nadezhnyy-servis/"}}
+title: 'Надежный сервис от ButlerSPB: залог успеха'
+description: >-
+  Надежность — ключевой аспект любого сервиса. В блоге ButlerSPB мы
+  рассказываем, как мы достигаем высокого уровня доверия клиентов и гарантируем
+  качество.
+pubDate: '2025-07-24T13:37:53.840Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Надежный сервис от ButlerSPB: залог успеха'
+  description: >-
+    Надежность — ключевой аспект любого сервиса. В блоге ButlerSPB мы
+    рассказываем, как мы достигаем высокого уровня доверия клиентов и
+    гарантируем качество.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.8'
+    reviewCount: 572
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': 'https://butlerspb-blog.netlify.app/blog/nadezhnyy-servis/'
 ---
 # Надежный сервис: Что это такое и как отличить его от пустых обещаний?
 

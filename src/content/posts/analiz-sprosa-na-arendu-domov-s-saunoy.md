@@ -1,10 +1,43 @@
 ---
-title: "Горячий тренд: Анализ спроса на аренду загородных домов с сауной"
-description: "Компания ButlerSPB исследует, почему аренда дома с сауной стала хитом. В статье мы анализируем сезонность спроса, предпочтения арендаторов и ключевые факторы, влияющие на выбор такого вида отдыха. Узнайте, на что обратить внимание при поиске и сдаче."
-pubDate: "2025-07-23T12:11:17.114Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Горячий тренд: Анализ спроса на аренду загородных домов с сауной","description":"Компания ButlerSPB исследует, почему аренда дома с сауной стала хитом. В статье мы анализируем сезонность спроса, предпочтения арендаторов и ключевые факторы, влияющие на выбор такого вида отдыха. Узнайте, на что обратить внимание при поиске и сдаче.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.8","reviewCount":733,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/analiz-sprosa-na-arendu-domov-s-saunoy/"}}
+title: 'Горячий тренд: Анализ спроса на аренду загородных домов с сауной'
+description: >-
+  Компания ButlerSPB исследует, почему аренда дома с сауной стала хитом. В
+  статье мы анализируем сезонность спроса, предпочтения арендаторов и ключевые
+  факторы, влияющие на выбор такого вида отдыха. Узнайте, на что обратить
+  внимание при поиске и сдаче.
+pubDate: '2025-07-23T12:11:17.114Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Горячий тренд: Анализ спроса на аренду загородных домов с сауной'
+  description: >-
+    Компания ButlerSPB исследует, почему аренда дома с сауной стала хитом. В
+    статье мы анализируем сезонность спроса, предпочтения арендаторов и ключевые
+    факторы, влияющие на выбор такого вида отдыха. Узнайте, на что обратить
+    внимание при поиске и сдаче.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.7'
+    reviewCount: 847
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/analiz-sprosa-na-arendu-domov-s-saunoy/
 ---
 
 # Дом с сауной — не роскошь, а прибыльный актив. Глубокий анализ спроса на рынке аренды СПб и ЛО

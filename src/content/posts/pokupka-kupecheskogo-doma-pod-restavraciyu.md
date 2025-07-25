@@ -1,10 +1,48 @@
 ---
-title: "Покупка купеческого дома под реставрацию: Инструкция для инвестора от ButlerSPB"
-description: "Мечтаете о собственном купеческом особняке? В этой статье команда ButlerSPB рассказывает обо всех этапах: от поиска уникального объекта и юридической проверки до тонкостей реставрационных работ. Узнайте, как превратить историческое здание в роскошную резиденцию или выгодный инвестиционный проект."
-pubDate: "2025-07-23T11:12:17.616Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Покупка купеческого дома под реставрацию: Инструкция для инвестора от ButlerSPB","description":"Мечтаете о собственном купеческом особняке? В этой статье команда ButlerSPB рассказывает обо всех этапах: от поиска уникального объекта и юридической проверки до тонкостей реставрационных работ. Узнайте, как превратить историческое здание в роскошную резиденцию или выгодный инвестиционный проект.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":517,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/pokupka-kupecheskogo-doma-pod-restavraciyu/"}}
+title: >-
+  Покупка купеческого дома под реставрацию: Инструкция для инвестора от
+  ButlerSPB
+description: >-
+  Мечтаете о собственном купеческом особняке? В этой статье команда ButlerSPB
+  рассказывает обо всех этапах: от поиска уникального объекта и юридической
+  проверки до тонкостей реставрационных работ. Узнайте, как превратить
+  историческое здание в роскошную резиденцию или выгодный инвестиционный проект.
+pubDate: '2025-07-23T11:12:17.616Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: >-
+    Покупка купеческого дома под реставрацию: Инструкция для инвестора от
+    ButlerSPB
+  description: >-
+    Мечтаете о собственном купеческом особняке? В этой статье команда ButlerSPB
+    рассказывает обо всех этапах: от поиска уникального объекта и юридической
+    проверки до тонкостей реставрационных работ. Узнайте, как превратить
+    историческое здание в роскошную резиденцию или выгодный инвестиционный
+    проект.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.7'
+    reviewCount: 443
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/pokupka-kupecheskogo-doma-pod-restavraciyu/
 ---
 
 # Купеческий дом под реставрацию: от мечты о фамильном наследии до успешного проекта

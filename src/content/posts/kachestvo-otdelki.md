@@ -1,11 +1,39 @@
 ---
-title: "Качество отделки: главные критерии и секреты"
-description: "В блоге ButlerSPB разбираем, как оценить качество отделочных работ. На что обратить внимание при приемке квартиры: от ровности стен до скрытых дефектов."
-keywords: "качество отделки, отделочные работы, приемка квартиры, ремонт спб, стандарты качества, строительная экспертиза"
-pubDate: "2025-07-25T16:23:45.459Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Качество отделки: главные критерии и секреты","description":"В блоге ButlerSPB разбираем, как оценить качество отделочных работ. На что обратить внимание при приемке квартиры: от ровности стен до скрытых дефектов.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.7","reviewCount":865,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/kachestvo-otdelki/"}}
+title: 'Качество отделки: главные критерии и секреты'
+description: >-
+  В блоге ButlerSPB разбираем, как оценить качество отделочных работ. На что
+  обратить внимание при приемке квартиры: от ровности стен до скрытых дефектов.
+pubDate: '2025-07-25T16:23:45.459Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Качество отделки: главные критерии и секреты'
+  description: >-
+    В блоге ButlerSPB разбираем, как оценить качество отделочных работ. На что
+    обратить внимание при приемке квартиры: от ровности стен до скрытых
+    дефектов.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '5.0'
+    reviewCount: 317
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': 'https://butlerspb-blog.netlify.app/blog/kachestvo-otdelki/'
 ---
 # Качество отделки: Полное руководство по контролю и приемке ремонта от А до Я
 

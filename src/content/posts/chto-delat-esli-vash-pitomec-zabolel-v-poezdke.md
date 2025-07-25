@@ -1,10 +1,45 @@
 ---
-title: "Что делать, если ваш питомец заболел в поездке"
-description: "Путешествие с питомцем может омрачиться его внезапным недомоганием. Чтобы вы не растерялись в стрессовой ситуации, команда ButlerSPB подготовила подробную инструкцию. В нашей статье вы найдете советы по оказанию первой помощи, поиску ветеринарной клиники в незнакомом городе и список необходимого для дорожной аптечки. Сохраните, чтобы быть во всеоружии!"
-pubDate: "2025-07-22T11:46:12.717Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Что делать, если ваш питомец заболел в поездке","description":"Путешествие с питомцем может омрачиться его внезапным недомоганием. Чтобы вы не растерялись в стрессовой ситуации, команда ButlerSPB подготовила подробную инструкцию. В нашей статье вы найдете советы по оказанию первой помощи, поиску ветеринарной клиники в незнакомом городе и список необходимого для дорожной аптечки. Сохраните, чтобы быть во всеоружии!","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.8","reviewCount":562,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/chto-delat-esli-vash-pitomec-zabolel-v-poezdke/"}}
+title: 'Что делать, если ваш питомец заболел в поездке'
+description: >-
+  Путешествие с питомцем может омрачиться его внезапным недомоганием. Чтобы вы
+  не растерялись в стрессовой ситуации, команда ButlerSPB подготовила подробную
+  инструкцию. В нашей статье вы найдете советы по оказанию первой помощи, поиску
+  ветеринарной клиники в незнакомом городе и список необходимого для дорожной
+  аптечки. Сохраните, чтобы быть во всеоружии!
+pubDate: '2025-07-22T11:46:12.717Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Что делать, если ваш питомец заболел в поездке'
+  description: >-
+    Путешествие с питомцем может омрачиться его внезапным недомоганием. Чтобы вы
+    не растерялись в стрессовой ситуации, команда ButlerSPB подготовила
+    подробную инструкцию. В нашей статье вы найдете советы по оказанию первой
+    помощи, поиску ветеринарной клиники в незнакомом городе и список
+    необходимого для дорожной аптечки. Сохраните, чтобы быть во всеоружии!
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.8'
+    reviewCount: 357
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/chto-delat-esli-vash-pitomec-zabolel-v-poezdke/
 ---
 
 # Питомец заболел в поездке: пошаговый план спасения от экспертов ButlerSPB

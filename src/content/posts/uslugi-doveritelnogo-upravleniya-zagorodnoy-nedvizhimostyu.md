@@ -1,10 +1,51 @@
 ---
-title: "Доверительное управление загородной недвижимостью: Ваш дом в надежных руках с ButlerSPB"
-description: "Владение загородным домом — это мечта, но его содержание может стать настоящей головной болью. Узнайте, как услуга доверительного управления от ButlerSPB помогает собственникам снять с себя все заботы: от поиска арендаторов и контроля платежей до технического обслуживания и решения бытовых вопросов. Мы обеспечим сохранность вашего имущества и стабильный доход, пока вы наслаждаетесь жизнью."
-pubDate: "2025-07-21T23:50:29.085Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Доверительное управление загородной недвижимостью: Ваш дом в надежных руках с ButlerSPB","description":"Владение загородным домом — это мечта, но его содержание может стать настоящей головной болью. Узнайте, как услуга доверительного управления от ButlerSPB помогает собственникам снять с себя все заботы: от поиска арендаторов и контроля платежей до технического обслуживания и решения бытовых вопросов. Мы обеспечим сохранность вашего имущества и стабильный доход, пока вы наслаждаетесь жизнью.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.8","reviewCount":387,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/uslugi-doveritelnogo-upravleniya-zagorodnoy-nedvizhimostyu/"}}
+title: >-
+  Доверительное управление загородной недвижимостью: Ваш дом в надежных руках с
+  ButlerSPB
+description: >-
+  Владение загородным домом — это мечта, но его содержание может стать настоящей
+  головной болью. Узнайте, как услуга доверительного управления от ButlerSPB
+  помогает собственникам снять с себя все заботы: от поиска арендаторов и
+  контроля платежей до технического обслуживания и решения бытовых вопросов. Мы
+  обеспечим сохранность вашего имущества и стабильный доход, пока вы
+  наслаждаетесь жизнью.
+pubDate: '2025-07-21T23:50:29.085Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: >-
+    Доверительное управление загородной недвижимостью: Ваш дом в надежных руках
+    с ButlerSPB
+  description: >-
+    Владение загородным домом — это мечта, но его содержание может стать
+    настоящей головной болью. Узнайте, как услуга доверительного управления от
+    ButlerSPB помогает собственникам снять с себя все заботы: от поиска
+    арендаторов и контроля платежей до технического обслуживания и решения
+    бытовых вопросов. Мы обеспечим сохранность вашего имущества и стабильный
+    доход, пока вы наслаждаетесь жизнью.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '5.0'
+    reviewCount: 469
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/uslugi-doveritelnogo-upravleniya-zagorodnoy-nedvizhimostyu/
 ---
 
 # Доверительное управление загородной недвижимостью от ButlerSPB: Превращаем вашу собственность в доходный актив без лишних хлопот

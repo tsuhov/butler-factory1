@@ -1,11 +1,40 @@
 ---
-title: "Эффективные шаблоны сообщений для бизнеса"
-description: "Узнайте, как шаблоны сообщений экономят время и повышают качество общения с клиентами. В статье собраны готовые примеры для разных ситуаций и полезные советы."
-keywords: "шаблоны сообщений, автоматизация, коммуникация с клиентами, деловая переписка, повышение эффективности, готовые скрипты"
-pubDate: "2025-07-25T16:08:37.236Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Эффективные шаблоны сообщений для бизнеса","description":"Узнайте, как шаблоны сообщений экономят время и повышают качество общения с клиентами. В статье собраны готовые примеры для разных ситуаций и полезные советы.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.8","reviewCount":520,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/soobscheniya-shablony/"}}
+title: Эффективные шаблоны сообщений для бизнеса
+description: >-
+  Узнайте, как шаблоны сообщений экономят время и повышают качество общения с
+  клиентами. В статье собраны готовые примеры для разных ситуаций и полезные
+  советы.
+pubDate: '2025-07-25T16:08:37.236Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: Эффективные шаблоны сообщений для бизнеса
+  description: >-
+    Узнайте, как шаблоны сообщений экономят время и повышают качество общения с
+    клиентами. В статье собраны готовые примеры для разных ситуаций и полезные
+    советы.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.7'
+    reviewCount: 536
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': 'https://butlerspb-blog.netlify.app/blog/soobscheniya-shablony/'
 ---
 # Шаблоны сообщений для бизнеса: 80+ готовых примеров для WhatsApp, Telegram и Email, которые сэкономят вам часы работы
 

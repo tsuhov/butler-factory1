@@ -1,10 +1,47 @@
 ---
-title: "Евродвушка в СПб как инвестиция: полный разбор от ButlerSPB"
-description: "Евродвушки — один из самых востребованных форматов на рынке недвижимости Санкт-Петербурга. В этой статье эксперты ButlerSPB анализируют, почему такая квартира является привлекательным инвестиционным активом. Разбираем ликвидность, потенциальную доходность от сдачи в аренду и последующей продажи, а также даем практические рекомендации по выбору локации и застройщика для максимизации вашей прибыли."
-pubDate: "2025-07-22T16:16:18.467Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Евродвушка в СПб как инвестиция: полный разбор от ButlerSPB","description":"Евродвушки — один из самых востребованных форматов на рынке недвижимости Санкт-Петербурга. В этой статье эксперты ButlerSPB анализируют, почему такая квартира является привлекательным инвестиционным активом. Разбираем ликвидность, потенциальную доходность от сдачи в аренду и последующей продажи, а также даем практические рекомендации по выбору локации и застройщика для максимизации вашей прибыли.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.7","reviewCount":519,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/pokupka-evrodvushki-v-spb-kak-investiciya/"}}
+title: 'Евродвушка в СПб как инвестиция: полный разбор от ButlerSPB'
+description: >-
+  Евродвушки — один из самых востребованных форматов на рынке недвижимости
+  Санкт-Петербурга. В этой статье эксперты ButlerSPB анализируют, почему такая
+  квартира является привлекательным инвестиционным активом. Разбираем
+  ликвидность, потенциальную доходность от сдачи в аренду и последующей продажи,
+  а также даем практические рекомендации по выбору локации и застройщика для
+  максимизации вашей прибыли.
+pubDate: '2025-07-22T16:16:18.467Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Евродвушка в СПб как инвестиция: полный разбор от ButlerSPB'
+  description: >-
+    Евродвушки — один из самых востребованных форматов на рынке недвижимости
+    Санкт-Петербурга. В этой статье эксперты ButlerSPB анализируют, почему такая
+    квартира является привлекательным инвестиционным активом. Разбираем
+    ликвидность, потенциальную доходность от сдачи в аренду и последующей
+    продажи, а также даем практические рекомендации по выбору локации и
+    застройщика для максимизации вашей прибыли.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.9'
+    reviewCount: 313
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/pokupka-evrodvushki-v-spb-kak-investiciya/
 ---
 
 # Евродвушка в Санкт-Петербурге: умная инвестиция или модный тренд?

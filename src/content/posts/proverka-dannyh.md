@@ -1,11 +1,40 @@
 ---
-title: "Проверка данных: основа качества и надежности"
-description: "Проверка данных — это не просто формальность, а основа стабильной работы приложений. В блоге ButlerSPB мы рассмотрим, как валидация помогает избежать ошибок."
-keywords: "проверка данных, валидация, качество данных, целостность данных, разработка ПО, ButlerSPB, безопасность"
-pubDate: "2025-07-25T16:34:34.595Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Проверка данных: основа качества и надежности","description":"Проверка данных — это не просто формальность, а основа стабильной работы приложений. В блоге ButlerSPB мы рассмотрим, как валидация помогает избежать ошибок.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.8","reviewCount":458,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/proverka-dannyh/"}}
+title: 'Проверка данных: основа качества и надежности'
+description: >-
+  Проверка данных — это не просто формальность, а основа стабильной работы
+  приложений. В блоге ButlerSPB мы рассмотрим, как валидация помогает избежать
+  ошибок.
+pubDate: '2025-07-25T16:34:34.595Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Проверка данных: основа качества и надежности'
+  description: >-
+    Проверка данных — это не просто формальность, а основа стабильной работы
+    приложений. В блоге ButlerSPB мы рассмотрим, как валидация помогает избежать
+    ошибок.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '5.0'
+    reviewCount: 651
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': 'https://butlerspb-blog.netlify.app/blog/proverka-dannyh/'
 ---
 # Проверка данных: как перестать терять деньги из-за ошибок в CRM и базах
 

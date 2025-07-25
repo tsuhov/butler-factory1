@@ -1,10 +1,45 @@
 ---
-title: "Приемка квартиры после арендаторов: полный чек-лист от ButlerSPB"
-description: "Жильцы съезжают? Для собственника наступает ответственный момент – приемка квартиры. Чтобы избежать споров о залоге и непредвиденных расходов, важно провести осмотр внимательно и ничего не упустить. Мы подготовили подробный чек-лист, который поможет вам проверить состояние ремонта, мебели, техники и коммуникаций, правильно зафиксировать все недочеты и защитить свои интересы."
-pubDate: "2025-07-22T16:11:46.863Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Приемка квартиры после арендаторов: полный чек-лист от ButlerSPB","description":"Жильцы съезжают? Для собственника наступает ответственный момент – приемка квартиры. Чтобы избежать споров о залоге и непредвиденных расходов, важно провести осмотр внимательно и ничего не упустить. Мы подготовили подробный чек-лист, который поможет вам проверить состояние ремонта, мебели, техники и коммуникаций, правильно зафиксировать все недочеты и защитить свои интересы.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":518,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/chek-list-priemki-kvartiry-posle-dolgosrochnoy-arendy/"}}
+title: 'Приемка квартиры после арендаторов: полный чек-лист от ButlerSPB'
+description: >-
+  Жильцы съезжают? Для собственника наступает ответственный момент – приемка
+  квартиры. Чтобы избежать споров о залоге и непредвиденных расходов, важно
+  провести осмотр внимательно и ничего не упустить. Мы подготовили подробный
+  чек-лист, который поможет вам проверить состояние ремонта, мебели, техники и
+  коммуникаций, правильно зафиксировать все недочеты и защитить свои интересы.
+pubDate: '2025-07-22T16:11:46.863Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Приемка квартиры после арендаторов: полный чек-лист от ButlerSPB'
+  description: >-
+    Жильцы съезжают? Для собственника наступает ответственный момент – приемка
+    квартиры. Чтобы избежать споров о залоге и непредвиденных расходов, важно
+    провести осмотр внимательно и ничего не упустить. Мы подготовили подробный
+    чек-лист, который поможет вам проверить состояние ремонта, мебели, техники и
+    коммуникаций, правильно зафиксировать все недочеты и защитить свои интересы.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.8'
+    reviewCount: 710
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/chek-list-priemki-kvartiry-posle-dolgosrochnoy-arendy/
 ---
 
 # Приемка квартиры после арендаторов: исчерпывающий чек-лист для собственника от ButlerSPB

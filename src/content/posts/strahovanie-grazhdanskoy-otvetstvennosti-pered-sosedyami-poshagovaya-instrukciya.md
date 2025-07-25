@@ -1,10 +1,49 @@
 ---
-title: "Страхование гражданской ответственности перед соседями: пошаговая инструкция"
-description: "Затопили соседей или случайно повредили их имущество во время ремонта? Не спешите паниковать! Полис страхования гражданской ответственности — ваш надежный щит от непредвиденных расходов и конфликтов. В новой статье для блога ButlerSPB мы подготовили подробное руководство: что это за страховка, от каких рисков она защищает, как выбрать подходящую программу и оформить полис шаг за шагом. Защитите свой бюджет и сохраните добрососедские отношения вместе с нами."
-pubDate: "2025-07-22T10:59:38.224Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Страхование гражданской ответственности перед соседями: пошаговая инструкция","description":"Затопили соседей или случайно повредили их имущество во время ремонта? Не спешите паниковать! Полис страхования гражданской ответственности — ваш надежный щит от непредвиденных расходов и конфликтов. В новой статье для блога ButlerSPB мы подготовили подробное руководство: что это за страховка, от каких рисков она защищает, как выбрать подходящую программу и оформить полис шаг за шагом. Защитите свой бюджет и сохраните добрососедские отношения вместе с нами.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.7","reviewCount":638,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/strahovanie-grazhdanskoy-otvetstvennosti-pered-sosedyami-poshagovaya-instrukciya/"}}
+title: 'Страхование гражданской ответственности перед соседями: пошаговая инструкция'
+description: >-
+  Затопили соседей или случайно повредили их имущество во время ремонта? Не
+  спешите паниковать! Полис страхования гражданской ответственности — ваш
+  надежный щит от непредвиденных расходов и конфликтов. В новой статье для блога
+  ButlerSPB мы подготовили подробное руководство: что это за страховка, от каких
+  рисков она защищает, как выбрать подходящую программу и оформить полис шаг за
+  шагом. Защитите свой бюджет и сохраните добрососедские отношения вместе с
+  нами.
+pubDate: '2025-07-22T10:59:38.224Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Страхование гражданской ответственности перед соседями: пошаговая инструкция'
+  description: >-
+    Затопили соседей или случайно повредили их имущество во время ремонта? Не
+    спешите паниковать! Полис страхования гражданской ответственности — ваш
+    надежный щит от непредвиденных расходов и конфликтов. В новой статье для
+    блога ButlerSPB мы подготовили подробное руководство: что это за страховка,
+    от каких рисков она защищает, как выбрать подходящую программу и оформить
+    полис шаг за шагом. Защитите свой бюджет и сохраните добрососедские
+    отношения вместе с нами.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.8'
+    reviewCount: 479
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/strahovanie-grazhdanskoy-otvetstvennosti-pered-sosedyami-poshagovaya-instrukciya/
 ---
 
 # Страхование ответственности перед соседями: Полная пошаговая инструкция по защите вашего бюджета

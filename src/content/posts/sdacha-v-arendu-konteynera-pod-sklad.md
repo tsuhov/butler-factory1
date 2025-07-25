@@ -1,11 +1,41 @@
 ---
-title: "Аренда контейнера под склад: выгодно и удобно"
-description: "Нужно место для хранения вещей? Аренда контейнера под склад от ButlerSPB в Санкт-Петербурге — надежное и доступное решение для бизнеса и частных лиц. Узнайте цены."
-keywords: "аренда контейнера, контейнер под склад, склад-контейнер, хранение вещей, аренда склада спб, ButlerSPB"
-pubDate: "2025-07-24T12:09:39.965Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Аренда контейнера под склад: выгодно и удобно","description":"Нужно место для хранения вещей? Аренда контейнера под склад от ButlerSPB в Санкт-Петербурге — надежное и доступное решение для бизнеса и частных лиц. Узнайте цены.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":864,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/sdacha-v-arendu-konteynera-pod-sklad/"}}
+title: 'Аренда контейнера под склад: выгодно и удобно'
+description: >-
+  Нужно место для хранения вещей? Аренда контейнера под склад от ButlerSPB в
+  Санкт-Петербурге — надежное и доступное решение для бизнеса и частных лиц.
+  Узнайте цены.
+pubDate: '2025-07-24T12:09:39.965Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Аренда контейнера под склад: выгодно и удобно'
+  description: >-
+    Нужно место для хранения вещей? Аренда контейнера под склад от ButlerSPB в
+    Санкт-Петербурге — надежное и доступное решение для бизнеса и частных лиц.
+    Узнайте цены.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '5.0'
+    reviewCount: 540
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/sdacha-v-arendu-konteynera-pod-sklad/
 ---
 # Аренда контейнера под склад: Как выбрать, что хранить и почему это выгодно
 

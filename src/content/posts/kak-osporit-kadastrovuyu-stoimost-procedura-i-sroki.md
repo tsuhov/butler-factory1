@@ -1,10 +1,45 @@
 ---
-title: "Как оспорить кадастровую стоимость: пошаговая инструкция от ButlerSPB"
-description: "Завышенная кадастровая стоимость напрямую влияет на размер налога на недвижимость. В новой статье блога ButlerSPB мы подробно разбираем, как собственник может ее снизить. Узнайте о двух способах оспаривания — через комиссию и суд, какие документы для этого понадобятся и в какие сроки необходимо уложиться, чтобы защитить свои финансовые интересы."
-pubDate: "2025-07-23T10:43:25.558Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Как оспорить кадастровую стоимость: пошаговая инструкция от ButlerSPB","description":"Завышенная кадастровая стоимость напрямую влияет на размер налога на недвижимость. В новой статье блога ButlerSPB мы подробно разбираем, как собственник может ее снизить. Узнайте о двух способах оспаривания — через комиссию и суд, какие документы для этого понадобятся и в какие сроки необходимо уложиться, чтобы защитить свои финансовые интересы.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"5.0","reviewCount":427,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/kak-osporit-kadastrovuyu-stoimost-procedura-i-sroki/"}}
+title: 'Как оспорить кадастровую стоимость: пошаговая инструкция от ButlerSPB'
+description: >-
+  Завышенная кадастровая стоимость напрямую влияет на размер налога на
+  недвижимость. В новой статье блога ButlerSPB мы подробно разбираем, как
+  собственник может ее снизить. Узнайте о двух способах оспаривания — через
+  комиссию и суд, какие документы для этого понадобятся и в какие сроки
+  необходимо уложиться, чтобы защитить свои финансовые интересы.
+pubDate: '2025-07-23T10:43:25.558Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Как оспорить кадастровую стоимость: пошаговая инструкция от ButlerSPB'
+  description: >-
+    Завышенная кадастровая стоимость напрямую влияет на размер налога на
+    недвижимость. В новой статье блога ButlerSPB мы подробно разбираем, как
+    собственник может ее снизить. Узнайте о двух способах оспаривания — через
+    комиссию и суд, какие документы для этого понадобятся и в какие сроки
+    необходимо уложиться, чтобы защитить свои финансовые интересы.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.8'
+    reviewCount: 609
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/kak-osporit-kadastrovuyu-stoimost-procedura-i-sroki/
 ---
 
 # Как оспорить кадастровую стоимость: полное руководство по снижению налога на недвижимость

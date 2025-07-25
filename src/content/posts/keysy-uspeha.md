@@ -1,11 +1,40 @@
 ---
-title: "Кейсы успеха: как ButlerSPB меняет бизнес"
-description: "Изучите реальные примеры того, как ButlerSPB помогает клиентам достигать выдающихся результатов. В нашей подборке кейсов – истории о решении сложных задач и росте."
-keywords: "кейсы успеха, ButlerSPB, истории клиентов, результаты, оптимизация бизнеса, отзывы клиентов, успешный бизнес"
-pubDate: "2025-07-25T15:48:23.337Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Кейсы успеха: как ButlerSPB меняет бизнес","description":"Изучите реальные примеры того, как ButlerSPB помогает клиентам достигать выдающихся результатов. В нашей подборке кейсов – истории о решении сложных задач и росте.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":717,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/keysy-uspeha/"}}
+title: 'Кейсы успеха: как ButlerSPB меняет бизнес'
+description: >-
+  Изучите реальные примеры того, как ButlerSPB помогает клиентам достигать
+  выдающихся результатов. В нашей подборке кейсов – истории о решении сложных
+  задач и росте.
+pubDate: '2025-07-25T15:48:23.337Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Кейсы успеха: как ButlerSPB меняет бизнес'
+  description: >-
+    Изучите реальные примеры того, как ButlerSPB помогает клиентам достигать
+    выдающихся результатов. В нашей подборке кейсов – истории о решении сложных
+    задач и росте.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.7'
+    reviewCount: 727
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': 'https://butlerspb-blog.netlify.app/blog/keysy-uspeha/'
 ---
 # Больше чем слова: Реальные кейсы успеха, которые доказывают нашу экспертность
 

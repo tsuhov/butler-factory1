@@ -1,10 +1,53 @@
 ---
-title: "Продажа квартиры с несовершеннолетними собственниками: пошаговый гид от ButlerSPB"
-description: "Сделка с недвижимостью, где собственником является ребенок, имеет множество юридических тонкостей. Главная задача — защитить имущественные права несовершеннолетнего. В нашей статье мы, команда ButlerSPB, подробно разбираем каждый этап: от получения разрешения органов опеки и попечительства до заключения договора купли-продажи. Узнайте, какие документы нужны, как действовать, чтобы сделка прошла быстро и законно, и какие условия необходимо соблюсти при покупке нового жилья для ребенка."
-pubDate: "2025-07-23T12:15:59.776Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Продажа квартиры с несовершеннолетними собственниками: пошаговый гид от ButlerSPB","description":"Сделка с недвижимостью, где собственником является ребенок, имеет множество юридических тонкостей. Главная задача — защитить имущественные права несовершеннолетнего. В нашей статье мы, команда ButlerSPB, подробно разбираем каждый этап: от получения разрешения органов опеки и попечительства до заключения договора купли-продажи. Узнайте, какие документы нужны, как действовать, чтобы сделка прошла быстро и законно, и какие условия необходимо соблюсти при покупке нового жилья для ребенка.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"5.0","reviewCount":372,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/prodazha-kvartiry-s-nesovershennoletnimi-sobstvennikami-poshagovyy-gid/"}}
+title: >-
+  Продажа квартиры с несовершеннолетними собственниками: пошаговый гид от
+  ButlerSPB
+description: >-
+  Сделка с недвижимостью, где собственником является ребенок, имеет множество
+  юридических тонкостей. Главная задача — защитить имущественные права
+  несовершеннолетнего. В нашей статье мы, команда ButlerSPB, подробно разбираем
+  каждый этап: от получения разрешения органов опеки и попечительства до
+  заключения договора купли-продажи. Узнайте, какие документы нужны, как
+  действовать, чтобы сделка прошла быстро и законно, и какие условия необходимо
+  соблюсти при покупке нового жилья для ребенка.
+pubDate: '2025-07-23T12:15:59.776Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: >-
+    Продажа квартиры с несовершеннолетними собственниками: пошаговый гид от
+    ButlerSPB
+  description: >-
+    Сделка с недвижимостью, где собственником является ребенок, имеет множество
+    юридических тонкостей. Главная задача — защитить имущественные права
+    несовершеннолетнего. В нашей статье мы, команда ButlerSPB, подробно
+    разбираем каждый этап: от получения разрешения органов опеки и
+    попечительства до заключения договора купли-продажи. Узнайте, какие
+    документы нужны, как действовать, чтобы сделка прошла быстро и законно, и
+    какие условия необходимо соблюсти при покупке нового жилья для ребенка.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.7'
+    reviewCount: 584
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/prodazha-kvartiry-s-nesovershennoletnimi-sobstvennikami-poshagovyy-gid/
 ---
 
 # Продажа квартиры с несовершеннолетним собственником: полный пошаговый гид

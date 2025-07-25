@@ -1,11 +1,40 @@
 ---
-title: "Сервисные апарты: ваш гид от ButlerSPB"
-description: "Узнайте, что такое сервисные апартаменты и в чем их ключевые преимущества перед отелем. Идеальный выбор для комфортного проживания в деловых и личных поездках."
-keywords: "сервисные апарты, апарт-отель, аренда квартиры посуточно, проживание в петербурге, butler spb, жилье для командировки, апартаменты с сервисом"
-pubDate: "2025-07-25T14:19:17.911Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Сервисные апарты: ваш гид от ButlerSPB","description":"Узнайте, что такое сервисные апартаменты и в чем их ключевые преимущества перед отелем. Идеальный выбор для комфортного проживания в деловых и личных поездках.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.7","reviewCount":319,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/servisnye-aparty/"}}
+title: 'Сервисные апарты: ваш гид от ButlerSPB'
+description: >-
+  Узнайте, что такое сервисные апартаменты и в чем их ключевые преимущества
+  перед отелем. Идеальный выбор для комфортного проживания в деловых и личных
+  поездках.
+pubDate: '2025-07-25T14:19:17.911Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Сервисные апарты: ваш гид от ButlerSPB'
+  description: >-
+    Узнайте, что такое сервисные апартаменты и в чем их ключевые преимущества
+    перед отелем. Идеальный выбор для комфортного проживания в деловых и личных
+    поездках.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.7'
+    reviewCount: 866
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': 'https://butlerspb-blog.netlify.app/blog/servisnye-aparty/'
 ---
 # Сервисные апарты: Ваш персональный пятизвездочный дом в Санкт-Петербурге
 

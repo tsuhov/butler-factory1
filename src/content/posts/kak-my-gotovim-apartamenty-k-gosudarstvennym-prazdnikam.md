@@ -1,10 +1,43 @@
 ---
-title: "Праздник к нам приходит: как ButlerSPB готовит апартаменты к встрече гостей"
-description: "За кулисами идеального отдыха: раскрываем секреты подготовки наших апартаментов к государственным праздникам. От генеральной уборки и тематического декора до специальных комплиментов для гостей – все, чтобы ваше пребывание в Санкт-Петербурге стало незабываемым."
-pubDate: "2025-07-22T11:13:49.946Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Праздник к нам приходит: как ButlerSPB готовит апартаменты к встрече гостей","description":"За кулисами идеального отдыха: раскрываем секреты подготовки наших апартаментов к государственным праздникам. От генеральной уборки и тематического декора до специальных комплиментов для гостей – все, чтобы ваше пребывание в Санкт-Петербурге стало незабываемым.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.8","reviewCount":621,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/kak-my-gotovim-apartamenty-k-gosudarstvennym-prazdnikam/"}}
+title: 'Праздник к нам приходит: как ButlerSPB готовит апартаменты к встрече гостей'
+description: >-
+  За кулисами идеального отдыха: раскрываем секреты подготовки наших
+  апартаментов к государственным праздникам. От генеральной уборки и
+  тематического декора до специальных комплиментов для гостей – все, чтобы ваше
+  пребывание в Санкт-Петербурге стало незабываемым.
+pubDate: '2025-07-22T11:13:49.946Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Праздник к нам приходит: как ButlerSPB готовит апартаменты к встрече гостей'
+  description: >-
+    За кулисами идеального отдыха: раскрываем секреты подготовки наших
+    апартаментов к государственным праздникам. От генеральной уборки и
+    тематического декора до специальных комплиментов для гостей – все, чтобы
+    ваше пребывание в Санкт-Петербурге стало незабываемым.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.9'
+    reviewCount: 555
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/kak-my-gotovim-apartamenty-k-gosudarstvennym-prazdnikam/
 ---
 
 # Праздник под ключ: Как ButlerSPB создает волшебство в ваших апартаментах в Санкт-Петербурге

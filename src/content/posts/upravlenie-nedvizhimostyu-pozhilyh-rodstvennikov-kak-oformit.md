@@ -1,11 +1,41 @@
 ---
-title: "Управление недвижимостью пожилых: как оформить"
-description: "Оформление управления недвижимостью пожилых людей. Разбираем плюсы и минусы доверенности, опекунства и договора ренты. Защитите интересы близких правильно."
-keywords: "управление недвижимостью, пожилой родственник, доверенность, опека, договор ренты, оформление документов, ButlerSPB"
-pubDate: "2025-07-24T12:07:06.159Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Управление недвижимостью пожилых: как оформить","description":"Оформление управления недвижимостью пожилых людей. Разбираем плюсы и минусы доверенности, опекунства и договора ренты. Защитите интересы близких правильно.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.8","reviewCount":679,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/upravlenie-nedvizhimostyu-pozhilyh-rodstvennikov-kak-oformit/"}}
+title: 'Управление недвижимостью пожилых: как оформить'
+description: >-
+  Оформление управления недвижимостью пожилых людей. Разбираем плюсы и минусы
+  доверенности, опекунства и договора ренты. Защитите интересы близких
+  правильно.
+pubDate: '2025-07-24T12:07:06.159Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Управление недвижимостью пожилых: как оформить'
+  description: >-
+    Оформление управления недвижимостью пожилых людей. Разбираем плюсы и минусы
+    доверенности, опекунства и договора ренты. Защитите интересы близких
+    правильно.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.8'
+    reviewCount: 421
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/upravlenie-nedvizhimostyu-pozhilyh-rodstvennikov-kak-oformit/
 ---
 # Управление недвижимостью пожилых родственников: полное руководство по оформлению от А до Я
 

@@ -1,11 +1,40 @@
 ---
-title: "Профессиональная уборка: чистота от ButlerSPB"
-description: "Как достичь идеальной чистоты? ButlerSPB делится секретами эффективной уборки. Читайте наши советы по организации пространства и выбору средств для сияющего дома."
-keywords: "профессиональная уборка, чистота в доме, клининговая компания, ButlerSPB, лайфхаки по уборке, генеральная уборка, уборка спб"
-pubDate: "2025-07-25T15:12:22.208Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Профессиональная уборка: чистота от ButlerSPB","description":"Как достичь идеальной чистоты? ButlerSPB делится секретами эффективной уборки. Читайте наши советы по организации пространства и выбору средств для сияющего дома.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.8","reviewCount":791,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/chistota-uborka/"}}
+title: 'Профессиональная уборка: чистота от ButlerSPB'
+description: >-
+  Как достичь идеальной чистоты? ButlerSPB делится секретами эффективной уборки.
+  Читайте наши советы по организации пространства и выбору средств для сияющего
+  дома.
+pubDate: '2025-07-25T15:12:22.208Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Профессиональная уборка: чистота от ButlerSPB'
+  description: >-
+    Как достичь идеальной чистоты? ButlerSPB делится секретами эффективной
+    уборки. Читайте наши советы по организации пространства и выбору средств для
+    сияющего дома.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.9'
+    reviewCount: 346
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': 'https://butlerspb-blog.netlify.app/blog/chistota-uborka/'
 ---
 # От хаоса к гармонии: Полное руководство по генеральной уборке от экспертов ButlerSPB
 

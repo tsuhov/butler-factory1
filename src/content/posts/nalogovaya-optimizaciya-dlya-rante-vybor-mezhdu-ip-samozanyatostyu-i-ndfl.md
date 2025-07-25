@@ -1,10 +1,47 @@
 ---
-title: "Налоговая оптимизация для рантье: выбор между ИП, самозанятостью и НДФЛ"
-description: "Сдаете недвижимость в аренду и хотите платить налоги грамотно? В новой статье блога ButlerSPB разбираемся в тонкостях налогообложения для рантье. Сравниваем три популярных варианта: уплату НДФЛ как физическое лицо, регистрацию в качестве самозанятого и открытие ИП. Анализируем ставки, лимиты, отчетность и подводные камни каждого режима, чтобы вы могли выбрать самый выгодный и безопасный способ легализации арендного дохода."
-pubDate: "2025-07-23T11:30:00.313Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Налоговая оптимизация для рантье: выбор между ИП, самозанятостью и НДФЛ","description":"Сдаете недвижимость в аренду и хотите платить налоги грамотно? В новой статье блога ButlerSPB разбираемся в тонкостях налогообложения для рантье. Сравниваем три популярных варианта: уплату НДФЛ как физическое лицо, регистрацию в качестве самозанятого и открытие ИП. Анализируем ставки, лимиты, отчетность и подводные камни каждого режима, чтобы вы могли выбрать самый выгодный и безопасный способ легализации арендного дохода.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":497,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/nalogovaya-optimizaciya-dlya-rante-vybor-mezhdu-ip-samozanyatostyu-i-ndfl/"}}
+title: 'Налоговая оптимизация для рантье: выбор между ИП, самозанятостью и НДФЛ'
+description: >-
+  Сдаете недвижимость в аренду и хотите платить налоги грамотно? В новой статье
+  блога ButlerSPB разбираемся в тонкостях налогообложения для рантье. Сравниваем
+  три популярных варианта: уплату НДФЛ как физическое лицо, регистрацию в
+  качестве самозанятого и открытие ИП. Анализируем ставки, лимиты, отчетность и
+  подводные камни каждого режима, чтобы вы могли выбрать самый выгодный и
+  безопасный способ легализации арендного дохода.
+pubDate: '2025-07-23T11:30:00.313Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Налоговая оптимизация для рантье: выбор между ИП, самозанятостью и НДФЛ'
+  description: >-
+    Сдаете недвижимость в аренду и хотите платить налоги грамотно? В новой
+    статье блога ButlerSPB разбираемся в тонкостях налогообложения для рантье.
+    Сравниваем три популярных варианта: уплату НДФЛ как физическое лицо,
+    регистрацию в качестве самозанятого и открытие ИП. Анализируем ставки,
+    лимиты, отчетность и подводные камни каждого режима, чтобы вы могли выбрать
+    самый выгодный и безопасный способ легализации арендного дохода.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.8'
+    reviewCount: 480
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/nalogovaya-optimizaciya-dlya-rante-vybor-mezhdu-ip-samozanyatostyu-i-ndfl/
 ---
 
 # Налоговая оптимизация для рантье: выбор между ИП, самозанятостью и НДФЛ

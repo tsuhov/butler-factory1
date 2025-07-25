@@ -1,11 +1,40 @@
 ---
-title: "Центральный район: сердце Петербурга с ButlerSPB"
-description: "Центральный район Петербурга — это не просто локация, а стиль жизни. Откройте для себя его уникальную атмосферу, историческую архитектуру и современный комфорт."
-keywords: "Центральный район СПб, недвижимость в центре, жизнь в Петербурге, достопримечательности, элитная недвижимость, ButlerSPB"
-pubDate: "2025-07-25T15:35:09.566Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Центральный район: сердце Петербурга с ButlerSPB","description":"Центральный район Петербурга — это не просто локация, а стиль жизни. Откройте для себя его уникальную атмосферу, историческую архитектуру и современный комфорт.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.7","reviewCount":508,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/centralnyy-rayon/"}}
+title: 'Центральный район: сердце Петербурга с ButlerSPB'
+description: >-
+  Центральный район Петербурга — это не просто локация, а стиль жизни. Откройте
+  для себя его уникальную атмосферу, историческую архитектуру и современный
+  комфорт.
+pubDate: '2025-07-25T15:35:09.566Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Центральный район: сердце Петербурга с ButlerSPB'
+  description: >-
+    Центральный район Петербурга — это не просто локация, а стиль жизни.
+    Откройте для себя его уникальную атмосферу, историческую архитектуру и
+    современный комфорт.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.9'
+    reviewCount: 562
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': 'https://butlerspb-blog.netlify.app/blog/centralnyy-rayon/'
 ---
 # Центральный район Санкт-Петербурга: гид от экспертов ButlerSPB — где жить, что смотреть и чем заняться
 

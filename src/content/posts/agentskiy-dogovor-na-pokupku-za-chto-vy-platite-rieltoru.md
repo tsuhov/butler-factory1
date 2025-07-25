@@ -1,10 +1,48 @@
 ---
-title: "Агентский договор на покупку недвижимости: за что вы платите риэлтору?"
-description: "Многие покупатели считают, что комиссия риэлтора — это плата за 'показ квартир'. На самом деле, это лишь малая часть его работы. В новой статье блога ButlerSPB мы подробно разбираем, какие услуги входят в агентский договор на покупку: от подбора объектов по скрытым базам и проверки юридической чистоты до ведения переговоров о цене и организации безопасной сделки. Узнайте, как работа специалиста экономит ваше время, деньги и защищает от мошенников."
-pubDate: "2025-07-23T12:20:19.920Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Агентский договор на покупку недвижимости: за что вы платите риэлтору?","description":"Многие покупатели считают, что комиссия риэлтора — это плата за 'показ квартир'. На самом деле, это лишь малая часть его работы. В новой статье блога ButlerSPB мы подробно разбираем, какие услуги входят в агентский договор на покупку: от подбора объектов по скрытым базам и проверки юридической чистоты до ведения переговоров о цене и организации безопасной сделки. Узнайте, как работа специалиста экономит ваше время, деньги и защищает от мошенников.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.8","reviewCount":723,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/agentskiy-dogovor-na-pokupku-za-chto-vy-platite-rieltoru/"}}
+title: 'Агентский договор на покупку недвижимости: за что вы платите риэлтору?'
+description: >-
+  Многие покупатели считают, что комиссия риэлтора — это плата за 'показ
+  квартир'. На самом деле, это лишь малая часть его работы. В новой статье блога
+  ButlerSPB мы подробно разбираем, какие услуги входят в агентский договор на
+  покупку: от подбора объектов по скрытым базам и проверки юридической чистоты
+  до ведения переговоров о цене и организации безопасной сделки. Узнайте, как
+  работа специалиста экономит ваше время, деньги и защищает от мошенников.
+pubDate: '2025-07-23T12:20:19.920Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Агентский договор на покупку недвижимости: за что вы платите риэлтору?'
+  description: >-
+    Многие покупатели считают, что комиссия риэлтора — это плата за 'показ
+    квартир'. На самом деле, это лишь малая часть его работы. В новой статье
+    блога ButlerSPB мы подробно разбираем, какие услуги входят в агентский
+    договор на покупку: от подбора объектов по скрытым базам и проверки
+    юридической чистоты до ведения переговоров о цене и организации безопасной
+    сделки. Узнайте, как работа специалиста экономит ваше время, деньги и
+    защищает от мошенников.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '5.0'
+    reviewCount: 856
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/agentskiy-dogovor-na-pokupku-za-chto-vy-platite-rieltoru/
 ---
 
 # Агентский договор на покупку квартиры: за что вы на самом деле платите риэлтору?

@@ -1,10 +1,47 @@
 ---
-title: "Как мы используем CRM для повышения качества сервиса в ButlerSPB"
-description: "В ButlerSPB мы убеждены, что исключительный сервис — это не просто стандарт, а основа доверительных отношений с клиентами. В этой статье мы приоткроем завесу нашей внутренней кухни и расскажем, как CRM-система стала нашим главным инструментом для персонализации услуг, быстрого реагирования на запросы и предвосхищения ваших ожиданий. Узнайте, как технологии помогают нам помнить каждую деталь и делать ваше взаимодействие с нами безупречным."
-pubDate: "2025-07-22T11:11:56.902Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Как мы используем CRM для повышения качества сервиса в ButlerSPB","description":"В ButlerSPB мы убеждены, что исключительный сервис — это не просто стандарт, а основа доверительных отношений с клиентами. В этой статье мы приоткроем завесу нашей внутренней кухни и расскажем, как CRM-система стала нашим главным инструментом для персонализации услуг, быстрого реагирования на запросы и предвосхищения ваших ожиданий. Узнайте, как технологии помогают нам помнить каждую деталь и делать ваше взаимодействие с нами безупречным.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"5.0","reviewCount":749,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/kak-my-ispolzuem-crm-dlya-povysheniya-kachestva-servisa/"}}
+title: Как мы используем CRM для повышения качества сервиса в ButlerSPB
+description: >-
+  В ButlerSPB мы убеждены, что исключительный сервис — это не просто стандарт, а
+  основа доверительных отношений с клиентами. В этой статье мы приоткроем завесу
+  нашей внутренней кухни и расскажем, как CRM-система стала нашим главным
+  инструментом для персонализации услуг, быстрого реагирования на запросы и
+  предвосхищения ваших ожиданий. Узнайте, как технологии помогают нам помнить
+  каждую деталь и делать ваше взаимодействие с нами безупречным.
+pubDate: '2025-07-22T11:11:56.902Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: Как мы используем CRM для повышения качества сервиса в ButlerSPB
+  description: >-
+    В ButlerSPB мы убеждены, что исключительный сервис — это не просто стандарт,
+    а основа доверительных отношений с клиентами. В этой статье мы приоткроем
+    завесу нашей внутренней кухни и расскажем, как CRM-система стала нашим
+    главным инструментом для персонализации услуг, быстрого реагирования на
+    запросы и предвосхищения ваших ожиданий. Узнайте, как технологии помогают
+    нам помнить каждую деталь и делать ваше взаимодействие с нами безупречным.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.7'
+    reviewCount: 840
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/kak-my-ispolzuem-crm-dlya-povysheniya-kachestva-servisa/
 ---
 
 # За кулисами ButlerSPB: Как мы используем CRM для создания идеального сервиса

@@ -1,10 +1,49 @@
 ---
-title: "Эффективное управление коммерческой недвижимостью в Санкт-Петербурге: руководство от ButlerSPB"
-description: "Узнайте ключевые аспекты успешного управления коммерческой недвижимостью в СПБ. В статье разбираем, как максимизировать доходность вашего объекта, оптимизировать расходы на эксплуатацию, выстроить работу с арендаторами и какие услуги предлагает управляющая компания ButlerSPB для владельцев офисов, складов и торговых площадей."
-pubDate: "2025-07-22T01:11:37.701Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Эффективное управление коммерческой недвижимостью в Санкт-Петербурге: руководство от ButlerSPB","description":"Узнайте ключевые аспекты успешного управления коммерческой недвижимостью в СПБ. В статье разбираем, как максимизировать доходность вашего объекта, оптимизировать расходы на эксплуатацию, выстроить работу с арендаторами и какие услуги предлагает управляющая компания ButlerSPB для владельцев офисов, складов и торговых площадей.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.7","reviewCount":802,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/upravlenie-kommercheskoy-nedvizhimostyu-v-spb/"}}
+title: >-
+  Эффективное управление коммерческой недвижимостью в Санкт-Петербурге:
+  руководство от ButlerSPB
+description: >-
+  Узнайте ключевые аспекты успешного управления коммерческой недвижимостью в
+  СПБ. В статье разбираем, как максимизировать доходность вашего объекта,
+  оптимизировать расходы на эксплуатацию, выстроить работу с арендаторами и
+  какие услуги предлагает управляющая компания ButlerSPB для владельцев офисов,
+  складов и торговых площадей.
+pubDate: '2025-07-22T01:11:37.701Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: >-
+    Эффективное управление коммерческой недвижимостью в Санкт-Петербурге:
+    руководство от ButlerSPB
+  description: >-
+    Узнайте ключевые аспекты успешного управления коммерческой недвижимостью в
+    СПБ. В статье разбираем, как максимизировать доходность вашего объекта,
+    оптимизировать расходы на эксплуатацию, выстроить работу с арендаторами и
+    какие услуги предлагает управляющая компания ButlerSPB для владельцев
+    офисов, складов и торговых площадей.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.7'
+    reviewCount: 735
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/upravlenie-kommercheskoy-nedvizhimostyu-v-spb/
 ---
 
 # Управление коммерческой недвижимостью в СПб: Как превратить актив в пассивный доход и избежать рисков

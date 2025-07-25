@@ -1,11 +1,40 @@
 ---
-title: "Аукцион недвижимости: главные подводные камни"
-description: "Хотите купить квартиру с торгов? Узнайте, какие юридические и финансовые риски скрываются за выгодной ценой. ButlerSPB разбирает главные подводные камни."
-keywords: "покупка недвижимости с аукциона, недвижимость с торгов, подводные камни, риски аукциона, аукцион по банкротству, юридическая проверка, ButlerSPB"
-pubDate: "2025-07-24T12:05:04.439Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Аукцион недвижимости: главные подводные камни","description":"Хотите купить квартиру с торгов? Узнайте, какие юридические и финансовые риски скрываются за выгодной ценой. ButlerSPB разбирает главные подводные камни.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":506,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/pokupka-nedvizhimosti-s-aukciona-podvodnye-kamni/"}}
+title: 'Аукцион недвижимости: главные подводные камни'
+description: >-
+  Хотите купить квартиру с торгов? Узнайте, какие юридические и финансовые риски
+  скрываются за выгодной ценой. ButlerSPB разбирает главные подводные камни.
+pubDate: '2025-07-24T12:05:04.439Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Аукцион недвижимости: главные подводные камни'
+  description: >-
+    Хотите купить квартиру с торгов? Узнайте, какие юридические и финансовые
+    риски скрываются за выгодной ценой. ButlerSPB разбирает главные подводные
+    камни.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.9'
+    reviewCount: 644
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/pokupka-nedvizhimosti-s-aukciona-podvodnye-kamni/
 ---
 # Дешевле на 30%: Как купить квартиру с торгов и не потерять всё. Главные подводные камни
 

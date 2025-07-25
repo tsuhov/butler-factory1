@@ -1,10 +1,49 @@
 ---
-title: "Услуги доверительного управления элитной недвижимостью: ваш актив в надежных руках ButlerSPB"
-description: "Владение элитной недвижимостью — это не только престиж, но и большая ответственность. Узнайте, как услуги доверительного управления от ButlerSPB помогают собственникам снять с себя рутинные заботы, максимизировать доход от аренды и гарантировать безупречное состояние объекта, пока вы занимаетесь более важными делами."
-pubDate: "2025-07-21T23:50:43.173Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Услуги доверительного управления элитной недвижимостью: ваш актив в надежных руках ButlerSPB","description":"Владение элитной недвижимостью — это не только престиж, но и большая ответственность. Узнайте, как услуги доверительного управления от ButlerSPB помогают собственникам снять с себя рутинные заботы, максимизировать доход от аренды и гарантировать безупречное состояние объекта, пока вы занимаетесь более важными делами.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.7","reviewCount":457,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/uslugi-doveritelnogo-upravleniya-elitnoy-nedvizhimostyu/"}}
+title: >-
+  Услуги доверительного управления элитной недвижимостью: ваш актив в надежных
+  руках ButlerSPB
+description: >-
+  Владение элитной недвижимостью — это не только престиж, но и большая
+  ответственность. Узнайте, как услуги доверительного управления от ButlerSPB
+  помогают собственникам снять с себя рутинные заботы, максимизировать доход от
+  аренды и гарантировать безупречное состояние объекта, пока вы занимаетесь
+  более важными делами.
+pubDate: '2025-07-21T23:50:43.173Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: >-
+    Услуги доверительного управления элитной недвижимостью: ваш актив в надежных
+    руках ButlerSPB
+  description: >-
+    Владение элитной недвижимостью — это не только престиж, но и большая
+    ответственность. Узнайте, как услуги доверительного управления от ButlerSPB
+    помогают собственникам снять с себя рутинные заботы, максимизировать доход
+    от аренды и гарантировать безупречное состояние объекта, пока вы занимаетесь
+    более важными делами.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.9'
+    reviewCount: 860
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/uslugi-doveritelnogo-upravleniya-elitnoy-nedvizhimostyu/
 ---
 
 # Ваша элитная недвижимость должна работать на вас, а не наоборот. Философия доверительного управления от ButlerSPB

@@ -1,10 +1,51 @@
 ---
-title: "Доверительное управление загородной недвижимостью в Санкт-Петербурге и Ленобласти: Гарантия вашего спокойствия и дохода от ButlerSPB"
-description: "Владение загородным домом — это мечта, но его содержание и сдача в аренду могут превратиться в постоянную головную боль. Компания ButlerSPB предлагает комплексную услугу доверительного управления вашей недвижимостью. В этой статье мы расскажем, как превратить ваш коттедж или дачу в стабильный актив, переложив все заботы на плечи профессионалов: от поиска надежных арендаторов до технического обслуживания и финансовой отчетности."
-pubDate: "2025-07-22T00:58:16.017Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Доверительное управление загородной недвижимостью в Санкт-Петербурге и Ленобласти: Гарантия вашего спокойствия и дохода от ButlerSPB","description":"Владение загородным домом — это мечта, но его содержание и сдача в аренду могут превратиться в постоянную головную боль. Компания ButlerSPB предлагает комплексную услугу доверительного управления вашей недвижимостью. В этой статье мы расскажем, как превратить ваш коттедж или дачу в стабильный актив, переложив все заботы на плечи профессионалов: от поиска надежных арендаторов до технического обслуживания и финансовой отчетности.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.8","reviewCount":671,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/doveritelnoe-upravlenie-zagorodnoy-nedvizhimostyu-v-sankt-peterburge/"}}
+title: >-
+  Доверительное управление загородной недвижимостью в Санкт-Петербурге и
+  Ленобласти: Гарантия вашего спокойствия и дохода от ButlerSPB
+description: >-
+  Владение загородным домом — это мечта, но его содержание и сдача в аренду
+  могут превратиться в постоянную головную боль. Компания ButlerSPB предлагает
+  комплексную услугу доверительного управления вашей недвижимостью. В этой
+  статье мы расскажем, как превратить ваш коттедж или дачу в стабильный актив,
+  переложив все заботы на плечи профессионалов: от поиска надежных арендаторов
+  до технического обслуживания и финансовой отчетности.
+pubDate: '2025-07-22T00:58:16.017Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: >-
+    Доверительное управление загородной недвижимостью в Санкт-Петербурге и
+    Ленобласти: Гарантия вашего спокойствия и дохода от ButlerSPB
+  description: >-
+    Владение загородным домом — это мечта, но его содержание и сдача в аренду
+    могут превратиться в постоянную головную боль. Компания ButlerSPB предлагает
+    комплексную услугу доверительного управления вашей недвижимостью. В этой
+    статье мы расскажем, как превратить ваш коттедж или дачу в стабильный актив,
+    переложив все заботы на плечи профессионалов: от поиска надежных арендаторов
+    до технического обслуживания и финансовой отчетности.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '5.0'
+    reviewCount: 696
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/doveritelnoe-upravlenie-zagorodnoy-nedvizhimostyu-v-sankt-peterburge/
 ---
 
 # Доверительное управление загородной недвижимостью в Санкт-Петербурге и Ленобласти: Как получать доход от дома без хлопот с ButlerSPB

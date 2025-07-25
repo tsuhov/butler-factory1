@@ -1,10 +1,45 @@
 ---
-title: "Собственник не отдает залог? Пошаговая инструкция по возврату своих денег"
-description: "Столкнулись с недобросовестным арендодателем, который удерживает ваш страховой депозит? Не паникуйте. В новой статье блога ButlerSPB мы подробно разбираем юридические и практические шаги, которые помогут вам вернуть свои деньги: от правильного оформления документов при выезде до составления досудебной претензии и обращения в суд."
-pubDate: "2025-07-22T11:35:50.395Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Собственник не отдает залог? Пошаговая инструкция по возврату своих денег","description":"Столкнулись с недобросовестным арендодателем, который удерживает ваш страховой депозит? Не паникуйте. В новой статье блога ButlerSPB мы подробно разбираем юридические и практические шаги, которые помогут вам вернуть свои деньги: от правильного оформления документов при выезде до составления досудебной претензии и обращения в суд.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.7","reviewCount":327,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/kak-vernut-zalog-esli-sobstvennik-otkazyvaetsya-ego-otdavat/"}}
+title: Собственник не отдает залог? Пошаговая инструкция по возврату своих денег
+description: >-
+  Столкнулись с недобросовестным арендодателем, который удерживает ваш страховой
+  депозит? Не паникуйте. В новой статье блога ButlerSPB мы подробно разбираем
+  юридические и практические шаги, которые помогут вам вернуть свои деньги: от
+  правильного оформления документов при выезде до составления досудебной
+  претензии и обращения в суд.
+pubDate: '2025-07-22T11:35:50.395Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: Собственник не отдает залог? Пошаговая инструкция по возврату своих денег
+  description: >-
+    Столкнулись с недобросовестным арендодателем, который удерживает ваш
+    страховой депозит? Не паникуйте. В новой статье блога ButlerSPB мы подробно
+    разбираем юридические и практические шаги, которые помогут вам вернуть свои
+    деньги: от правильного оформления документов при выезде до составления
+    досудебной претензии и обращения в суд.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.8'
+    reviewCount: 767
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/kak-vernut-zalog-esli-sobstvennik-otkazyvaetsya-ego-otdavat/
 ---
 
 # Как вернуть залог за квартиру: пошаговая инструкция 2024, если собственник не отдает деньги

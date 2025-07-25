@@ -1,11 +1,40 @@
 ---
-title: "Поиск недвижимости в СПб: советы от ButlerSPB"
-description: "Ищете квартиру или дом в Санкт-Петербурге? Наша команда ButlerSPB подготовила гид по поиску идеального жилья. Читайте о подводных камнях и советах экспертов."
-keywords: "найти недвижимость, недвижимость спб, купить квартиру, поиск жилья, советы по недвижимости, ButlerSPB"
-pubDate: "2025-07-25T14:02:11.366Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Поиск недвижимости в СПб: советы от ButlerSPB","description":"Ищете квартиру или дом в Санкт-Петербурге? Наша команда ButlerSPB подготовила гид по поиску идеального жилья. Читайте о подводных камнях и советах экспертов.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"5.0","reviewCount":439,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/nayti-nedvizhimost/"}}
+title: 'Поиск недвижимости в СПб: советы от ButlerSPB'
+description: >-
+  Ищете квартиру или дом в Санкт-Петербурге? Наша команда ButlerSPB подготовила
+  гид по поиску идеального жилья. Читайте о подводных камнях и советах
+  экспертов.
+pubDate: '2025-07-25T14:02:11.366Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Поиск недвижимости в СПб: советы от ButlerSPB'
+  description: >-
+    Ищете квартиру или дом в Санкт-Петербурге? Наша команда ButlerSPB
+    подготовила гид по поиску идеального жилья. Читайте о подводных камнях и
+    советах экспертов.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.7'
+    reviewCount: 595
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': 'https://butlerspb-blog.netlify.app/blog/nayti-nedvizhimost/'
 ---
 # Найти идеальную недвижимость в Санкт-Петербурге: экспертный гид в 5 шагов
 

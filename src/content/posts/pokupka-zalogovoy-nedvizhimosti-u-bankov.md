@@ -1,10 +1,47 @@
 ---
-title: "Покупка залоговой недвижимости у банков: подробный гайд от ButlerSPB"
-description: "Залоговая недвижимость от банков привлекает инвесторов скидками до 40% от рыночной стоимости. Но так ли проста и безопасна такая сделка? В этой статье команда ButlerSPB разбирает все подводные камни: где искать объекты, как проходит процедура покупки, какие риски существуют и как их минимизировать. Мы подготовили пошаговую инструкцию, которая поможет вам оценить выгоду и принять взвешенное решение о покупке залогового жилья."
-pubDate: "2025-07-23T12:20:19.660Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Покупка залоговой недвижимости у банков: подробный гайд от ButlerSPB","description":"Залоговая недвижимость от банков привлекает инвесторов скидками до 40% от рыночной стоимости. Но так ли проста и безопасна такая сделка? В этой статье команда ButlerSPB разбирает все подводные камни: где искать объекты, как проходит процедура покупки, какие риски существуют и как их минимизировать. Мы подготовили пошаговую инструкцию, которая поможет вам оценить выгоду и принять взвешенное решение о покупке залогового жилья.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"5.0","reviewCount":826,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/pokupka-zalogovoy-nedvizhimosti-u-bankov/"}}
+title: 'Покупка залоговой недвижимости у банков: подробный гайд от ButlerSPB'
+description: >-
+  Залоговая недвижимость от банков привлекает инвесторов скидками до 40% от
+  рыночной стоимости. Но так ли проста и безопасна такая сделка? В этой статье
+  команда ButlerSPB разбирает все подводные камни: где искать объекты, как
+  проходит процедура покупки, какие риски существуют и как их минимизировать. Мы
+  подготовили пошаговую инструкцию, которая поможет вам оценить выгоду и принять
+  взвешенное решение о покупке залогового жилья.
+pubDate: '2025-07-23T12:20:19.660Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Покупка залоговой недвижимости у банков: подробный гайд от ButlerSPB'
+  description: >-
+    Залоговая недвижимость от банков привлекает инвесторов скидками до 40% от
+    рыночной стоимости. Но так ли проста и безопасна такая сделка? В этой статье
+    команда ButlerSPB разбирает все подводные камни: где искать объекты, как
+    проходит процедура покупки, какие риски существуют и как их минимизировать.
+    Мы подготовили пошаговую инструкцию, которая поможет вам оценить выгоду и
+    принять взвешенное решение о покупке залогового жилья.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '5.0'
+    reviewCount: 589
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/pokupka-zalogovoy-nedvizhimosti-u-bankov/
 ---
 
 # Как купить залоговую недвижимость у банка и не потерять деньги: Полное руководство для покупателя

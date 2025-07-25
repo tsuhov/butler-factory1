@@ -1,10 +1,47 @@
 ---
-title: "Сдача в аренду ипотечной квартиры: как уведомить банк и избежать штрафов"
-description: "Узнайте, как правильно уведомить банк о сдаче в аренду ипотечной квартиры. В статье от ButlerSPB описаны ключевые шаги: от изучения договора ипотеки до подготовки уведомления. Подробно разбираем юридические нюансы, требования банков и документы, необходимые для оформления аренды без нарушений. Советы экспертов помогут избежать штрафов и сохранить доверительные отношения с кредитной организацией."
-pubDate: "2025-07-23T21:58:03.429Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Сдача в аренду ипотечной квартиры: как уведомить банк и избежать штрафов","description":"Узнайте, как правильно уведомить банк о сдаче в аренду ипотечной квартиры. В статье от ButlerSPB описаны ключевые шаги: от изучения договора ипотеки до подготовки уведомления. Подробно разбираем юридические нюансы, требования банков и документы, необходимые для оформления аренды без нарушений. Советы экспертов помогут избежать штрафов и сохранить доверительные отношения с кредитной организацией.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"5.0","reviewCount":561,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/sdacha-v-arendu-ipotechnoy-kvartiry-kak-uvedomit-bank/"}}
+title: 'Сдача в аренду ипотечной квартиры: как уведомить банк и избежать штрафов'
+description: >-
+  Узнайте, как правильно уведомить банк о сдаче в аренду ипотечной квартиры. В
+  статье от ButlerSPB описаны ключевые шаги: от изучения договора ипотеки до
+  подготовки уведомления. Подробно разбираем юридические нюансы, требования
+  банков и документы, необходимые для оформления аренды без нарушений. Советы
+  экспертов помогут избежать штрафов и сохранить доверительные отношения с
+  кредитной организацией.
+pubDate: '2025-07-23T21:58:03.429Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Сдача в аренду ипотечной квартиры: как уведомить банк и избежать штрафов'
+  description: >-
+    Узнайте, как правильно уведомить банк о сдаче в аренду ипотечной квартиры. В
+    статье от ButlerSPB описаны ключевые шаги: от изучения договора ипотеки до
+    подготовки уведомления. Подробно разбираем юридические нюансы, требования
+    банков и документы, необходимые для оформления аренды без нарушений. Советы
+    экспертов помогут избежать штрафов и сохранить доверительные отношения с
+    кредитной организацией.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.7'
+    reviewCount: 602
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/sdacha-v-arendu-ipotechnoy-kvartiry-kak-uvedomit-bank/
 ---
 
 # Сдача в аренду ипотечной квартиры: как уведомить банк

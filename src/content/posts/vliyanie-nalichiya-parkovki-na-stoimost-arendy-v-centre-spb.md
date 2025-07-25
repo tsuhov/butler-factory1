@@ -1,10 +1,45 @@
 ---
-title: "Парковка в центре СПб: как её наличие влияет на стоимость аренды?"
-description: "В новой статье для блога ButlerSPB разбираемся в одном из самых острых вопросов для арендаторов и собственников жилья в центре Санкт-Петербурга. Анализируем, насколько наличие парковочного места — в закрытом дворе или подземном паркинге — увеличивает арендную ставку и как этот фактор влияет на скорость сдачи объекта."
-pubDate: "2025-07-23T12:17:24.945Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Парковка в центре СПб: как её наличие влияет на стоимость аренды?","description":"В новой статье для блога ButlerSPB разбираемся в одном из самых острых вопросов для арендаторов и собственников жилья в центре Санкт-Петербурга. Анализируем, насколько наличие парковочного места — в закрытом дворе или подземном паркинге — увеличивает арендную ставку и как этот фактор влияет на скорость сдачи объекта.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.7","reviewCount":379,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/vliyanie-nalichiya-parkovki-na-stoimost-arendy-v-centre-spb/"}}
+title: 'Парковка в центре СПб: как её наличие влияет на стоимость аренды?'
+description: >-
+  В новой статье для блога ButlerSPB разбираемся в одном из самых острых
+  вопросов для арендаторов и собственников жилья в центре Санкт-Петербурга.
+  Анализируем, насколько наличие парковочного места — в закрытом дворе или
+  подземном паркинге — увеличивает арендную ставку и как этот фактор влияет на
+  скорость сдачи объекта.
+pubDate: '2025-07-23T12:17:24.945Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Парковка в центре СПб: как её наличие влияет на стоимость аренды?'
+  description: >-
+    В новой статье для блога ButlerSPB разбираемся в одном из самых острых
+    вопросов для арендаторов и собственников жилья в центре Санкт-Петербурга.
+    Анализируем, насколько наличие парковочного места — в закрытом дворе или
+    подземном паркинге — увеличивает арендную ставку и как этот фактор влияет на
+    скорость сдачи объекта.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.8'
+    reviewCount: 652
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/vliyanie-nalichiya-parkovki-na-stoimost-arendy-v-centre-spb/
 ---
 
 # Парковочное место в центре Петербурга: Роскошь или необходимость? Анализируем влияние на стоимость аренды

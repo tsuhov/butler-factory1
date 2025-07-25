@@ -1,11 +1,40 @@
 ---
-title: "Эффективные маркетинговые стратегии для бизнеса"
-description: "Узнайте, как выбрать и реализовать правильную маркетинговую стратегию для вашей компании. В нашей статье от ButlerSPB мы разбираем ключевые подходы и инструменты."
-keywords: "маркетинговые стратегии, продвижение бизнеса, digital-маркетинг, стратегия продвижения, маркетинг, ButlerSPB"
-pubDate: "2025-07-25T15:56:28.964Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Эффективные маркетинговые стратегии для бизнеса","description":"Узнайте, как выбрать и реализовать правильную маркетинговую стратегию для вашей компании. В нашей статье от ButlerSPB мы разбираем ключевые подходы и инструменты.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.7","reviewCount":422,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/marketingovye-strategii/"}}
+title: Эффективные маркетинговые стратегии для бизнеса
+description: >-
+  Узнайте, как выбрать и реализовать правильную маркетинговую стратегию для
+  вашей компании. В нашей статье от ButlerSPB мы разбираем ключевые подходы и
+  инструменты.
+pubDate: '2025-07-25T15:56:28.964Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: Эффективные маркетинговые стратегии для бизнеса
+  description: >-
+    Узнайте, как выбрать и реализовать правильную маркетинговую стратегию для
+    вашей компании. В нашей статье от ButlerSPB мы разбираем ключевые подходы и
+    инструменты.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '5.0'
+    reviewCount: 586
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': 'https://butlerspb-blog.netlify.app/blog/marketingovye-strategii/'
 ---
 # Маркетинговые стратегии: от А до Я. Как создать план, который приведет клиентов, а не сольет бюджет
 

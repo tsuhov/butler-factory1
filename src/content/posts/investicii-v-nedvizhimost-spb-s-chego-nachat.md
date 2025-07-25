@@ -1,10 +1,43 @@
 ---
-title: "Инвестиции в недвижимость СПб: с чего начать."
-description: "Планируете инвестировать в недвижимость Санкт-Петербурга, но не знаете, как сделать первый шаг? В подробном руководстве от ButlerSPB мы разбираем все этапы для начинающего инвестора: от выбора стратегии и анализа рынка до оценки рисков и поиска ликвидного объекта."
-pubDate: "2025-07-22T13:55:23.609Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Инвестиции в недвижимость СПб: с чего начать.","description":"Планируете инвестировать в недвижимость Санкт-Петербурга, но не знаете, как сделать первый шаг? В подробном руководстве от ButlerSPB мы разбираем все этапы для начинающего инвестора: от выбора стратегии и анализа рынка до оценки рисков и поиска ликвидного объекта.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.8","reviewCount":645,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/investicii-v-nedvizhimost-spb-s-chego-nachat/"}}
+title: 'Инвестиции в недвижимость СПб: с чего начать.'
+description: >-
+  Планируете инвестировать в недвижимость Санкт-Петербурга, но не знаете, как
+  сделать первый шаг? В подробном руководстве от ButlerSPB мы разбираем все
+  этапы для начинающего инвестора: от выбора стратегии и анализа рынка до оценки
+  рисков и поиска ликвидного объекта.
+pubDate: '2025-07-22T13:55:23.609Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Инвестиции в недвижимость СПб: с чего начать.'
+  description: >-
+    Планируете инвестировать в недвижимость Санкт-Петербурга, но не знаете, как
+    сделать первый шаг? В подробном руководстве от ButlerSPB мы разбираем все
+    этапы для начинающего инвестора: от выбора стратегии и анализа рынка до
+    оценки рисков и поиска ликвидного объекта.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.8'
+    reviewCount: 854
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/investicii-v-nedvizhimost-spb-s-chego-nachat/
 ---
 
 # Инвестиции в недвижимость СПб: Полное руководство для начинающих в 2024 году

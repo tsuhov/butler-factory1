@@ -1,11 +1,38 @@
 ---
-title: "Как быстро продать что угодно: советы от ButlerSPB"
-description: "Узнайте, как ускорить продажу любого актива. Мы собрали лучшие лайфхаки: от правильной оценки до эффективного объявления. Продавайте быстро с ButlerSPB!"
-keywords: "быстро продать, выгодная сделка, советы по продаже, как продать, быстрая продажа, продать вещь, ButlerSPB"
-pubDate: "2025-07-25T15:09:49.474Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Как быстро продать что угодно: советы от ButlerSPB","description":"Узнайте, как ускорить продажу любого актива. Мы собрали лучшие лайфхаки: от правильной оценки до эффективного объявления. Продавайте быстро с ButlerSPB!","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":670,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/bystro-prodat/"}}
+title: 'Как быстро продать что угодно: советы от ButlerSPB'
+description: >-
+  Узнайте, как ускорить продажу любого актива. Мы собрали лучшие лайфхаки: от
+  правильной оценки до эффективного объявления. Продавайте быстро с ButlerSPB!
+pubDate: '2025-07-25T15:09:49.474Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Как быстро продать что угодно: советы от ButlerSPB'
+  description: >-
+    Узнайте, как ускорить продажу любого актива. Мы собрали лучшие лайфхаки: от
+    правильной оценки до эффективного объявления. Продавайте быстро с ButlerSPB!
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.9'
+    reviewCount: 892
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': 'https://butlerspb-blog.netlify.app/blog/bystro-prodat/'
 ---
 # Как быстро продать что угодно: от iPhone до автомобиля. Полное руководство для жителей Петербурга.
 

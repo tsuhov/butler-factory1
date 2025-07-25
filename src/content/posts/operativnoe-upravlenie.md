@@ -1,11 +1,40 @@
 ---
-title: "Оперативное управление: как повысить эффективность"
-description: "Узнайте, что такое оперативное управление и почему оно критически важно для любого бизнеса. Рассматриваем основные принципы, задачи и инструменты для оптимизации."
-keywords: "оперативное управление, менеджмент, эффективность бизнеса, оптимизация процессов, операционный менеджмент, планирование, контроль"
-pubDate: "2025-07-24T21:37:53.184Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Оперативное управление: как повысить эффективность","description":"Узнайте, что такое оперативное управление и почему оно критически важно для любого бизнеса. Рассматриваем основные принципы, задачи и инструменты для оптимизации.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":571,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/operativnoe-upravlenie/"}}
+title: 'Оперативное управление: как повысить эффективность'
+description: >-
+  Узнайте, что такое оперативное управление и почему оно критически важно для
+  любого бизнеса. Рассматриваем основные принципы, задачи и инструменты для
+  оптимизации.
+pubDate: '2025-07-24T21:37:53.184Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Оперативное управление: как повысить эффективность'
+  description: >-
+    Узнайте, что такое оперативное управление и почему оно критически важно для
+    любого бизнеса. Рассматриваем основные принципы, задачи и инструменты для
+    оптимизации.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.9'
+    reviewCount: 454
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': 'https://butlerspb-blog.netlify.app/blog/operativnoe-upravlenie/'
 ---
 # Оперативное управление: Полное руководство по превращению хаоса в предсказуемую систему
 

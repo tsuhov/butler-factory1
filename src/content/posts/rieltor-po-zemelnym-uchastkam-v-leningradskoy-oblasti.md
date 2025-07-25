@@ -1,10 +1,47 @@
 ---
-title: "Риэлтор по земельным участкам в Ленинградской области: как ButlerSPB поможет найти идеальный вариант"
-description: "Планируете купить земельный участок в Ленобласти? Статья от экспертов ButlerSPB расскажет, на что обратить внимание при выборе, как проверить юридическую чистоту объекта и почему профессиональный риэлтор — ваш главный союзник в сделке, который сэкономит время, деньги и нервы."
-pubDate: "2025-07-21T23:16:57.676Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Риэлтор по земельным участкам в Ленинградской области: как ButlerSPB поможет найти идеальный вариант","description":"Планируете купить земельный участок в Ленобласти? Статья от экспертов ButlerSPB расскажет, на что обратить внимание при выборе, как проверить юридическую чистоту объекта и почему профессиональный риэлтор — ваш главный союзник в сделке, который сэкономит время, деньги и нервы.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.8","reviewCount":332,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/rieltor-po-zemelnym-uchastkam-v-leningradskoy-oblasti/"}}
+title: >-
+  Риэлтор по земельным участкам в Ленинградской области: как ButlerSPB поможет
+  найти идеальный вариант
+description: >-
+  Планируете купить земельный участок в Ленобласти? Статья от экспертов
+  ButlerSPB расскажет, на что обратить внимание при выборе, как проверить
+  юридическую чистоту объекта и почему профессиональный риэлтор — ваш главный
+  союзник в сделке, который сэкономит время, деньги и нервы.
+pubDate: '2025-07-21T23:16:57.676Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: >-
+    Риэлтор по земельным участкам в Ленинградской области: как ButlerSPB поможет
+    найти идеальный вариант
+  description: >-
+    Планируете купить земельный участок в Ленобласти? Статья от экспертов
+    ButlerSPB расскажет, на что обратить внимание при выборе, как проверить
+    юридическую чистоту объекта и почему профессиональный риэлтор — ваш главный
+    союзник в сделке, который сэкономит время, деньги и нервы.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '5.0'
+    reviewCount: 434
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/rieltor-po-zemelnym-uchastkam-v-leningradskoy-oblasti/
 ---
 
 # Как выбрать риэлтора по земельным участкам в Ленинградской области: полное руководство от ButlerSPB

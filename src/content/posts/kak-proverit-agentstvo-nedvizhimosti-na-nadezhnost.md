@@ -1,10 +1,49 @@
 ---
-title: "Как проверить агентство недвижимости на надежность: пошаговая инструкция от ButlerSPB"
-description: "Выбираете агентство для покупки или продажи квартиры в Санкт-Петербурге? Команда ButlerSPB подготовила чек-лист, который поможет отличить профессионалов от мошенников. Узнайте, какие документы проверить, на что обратить внимание на сайте и в договоре, и как отзывы могут уберечь вас от рисков."
-pubDate: "2025-07-22T11:39:52.068Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Как проверить агентство недвижимости на надежность: пошаговая инструкция от ButlerSPB","description":"Выбираете агентство для покупки или продажи квартиры в Санкт-Петербурге? Команда ButlerSPB подготовила чек-лист, который поможет отличить профессионалов от мошенников. Узнайте, какие документы проверить, на что обратить внимание на сайте и в договоре, и как отзывы могут уберечь вас от рисков.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.8","reviewCount":746,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/kak-proverit-agentstvo-nedvizhimosti-na-nadezhnost/"}}
+title: >-
+  Как проверить агентство недвижимости на надежность: пошаговая инструкция от
+  ButlerSPB
+description: >-
+  Выбираете агентство для покупки или продажи квартиры в Санкт-Петербурге?
+  Команда ButlerSPB подготовила чек-лист, который поможет отличить
+  профессионалов от мошенников. Узнайте, какие документы проверить, на что
+  обратить внимание на сайте и в договоре, и как отзывы могут уберечь вас от
+  рисков.
+pubDate: '2025-07-22T11:39:52.068Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: >-
+    Как проверить агентство недвижимости на надежность: пошаговая инструкция от
+    ButlerSPB
+  description: >-
+    Выбираете агентство для покупки или продажи квартиры в Санкт-Петербурге?
+    Команда ButlerSPB подготовила чек-лист, который поможет отличить
+    профессионалов от мошенников. Узнайте, какие документы проверить, на что
+    обратить внимание на сайте и в договоре, и как отзывы могут уберечь вас от
+    рисков.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '5.0'
+    reviewCount: 314
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/kak-proverit-agentstvo-nedvizhimosti-na-nadezhnost/
 ---
 
 # Как проверить агентство недвижимости на надежность: пошаговая инструкция от экспертов ButlerSPB

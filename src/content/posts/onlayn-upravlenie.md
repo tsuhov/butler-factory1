@@ -1,11 +1,40 @@
 ---
-title: "Эффективное онлайн управление вашим бизнесом"
-description: "Переход на онлайн управление открывает новые горизонты для бизнеса. Узнайте, как современные инструменты и подходы от ButlerSPB помогут оптимизировать процессы."
-keywords: "онлайн управление, удаленная работа, управление проектами, автоматизация бизнеса, цифровые инструменты, ButlerSPB"
-pubDate: "2025-07-25T16:14:32.917Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Эффективное онлайн управление вашим бизнесом","description":"Переход на онлайн управление открывает новые горизонты для бизнеса. Узнайте, как современные инструменты и подходы от ButlerSPB помогут оптимизировать процессы.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.8","reviewCount":869,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/onlayn-upravlenie/"}}
+title: Эффективное онлайн управление вашим бизнесом
+description: >-
+  Переход на онлайн управление открывает новые горизонты для бизнеса. Узнайте,
+  как современные инструменты и подходы от ButlerSPB помогут оптимизировать
+  процессы.
+pubDate: '2025-07-25T16:14:32.917Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: Эффективное онлайн управление вашим бизнесом
+  description: >-
+    Переход на онлайн управление открывает новые горизонты для бизнеса. Узнайте,
+    как современные инструменты и подходы от ButlerSPB помогут оптимизировать
+    процессы.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.7'
+    reviewCount: 761
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': 'https://butlerspb-blog.netlify.app/blog/onlayn-upravlenie/'
 ---
 # Онлайн управление: Пошаговая инструкция, как взять под контроль хаос в бизнесе и личных делах
 

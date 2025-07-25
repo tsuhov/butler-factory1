@@ -1,11 +1,40 @@
 ---
-title: "Консьерж-сервис Butlerspb: ваш личный ассистент"
-description: "Консьерж-сервис Butlerspb — это ваш незаменимый помощник в Санкт-Петербурге. Мы берем на себя любые задачи, чтобы вы могли экономить время и наслаждаться комфортом."
-keywords: "butlerspb, консьерж сервис, личный помощник, консьерж спб, персональный ассистент, услуги консьержа, lifestyle management"
-pubDate: "2025-07-24T13:08:44.248Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Консьерж-сервис Butlerspb: ваш личный ассистент","description":"Консьерж-сервис Butlerspb — это ваш незаменимый помощник в Санкт-Петербурге. Мы берем на себя любые задачи, чтобы вы могли экономить время и наслаждаться комфортом.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.7","reviewCount":500,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/konserzh-butlerspb/"}}
+title: 'Консьерж-сервис Butlerspb: ваш личный ассистент'
+description: >-
+  Консьерж-сервис Butlerspb — это ваш незаменимый помощник в Санкт-Петербурге.
+  Мы берем на себя любые задачи, чтобы вы могли экономить время и наслаждаться
+  комфортом.
+pubDate: '2025-07-24T13:08:44.248Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Консьерж-сервис Butlerspb: ваш личный ассистент'
+  description: >-
+    Консьерж-сервис Butlerspb — это ваш незаменимый помощник в Санкт-Петербурге.
+    Мы берем на себя любые задачи, чтобы вы могли экономить время и наслаждаться
+    комфортом.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '5.0'
+    reviewCount: 747
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': 'https://butlerspb-blog.netlify.app/blog/konserzh-butlerspb/'
 ---
 # Консьерж-сервис Butlerspb: Ваше время — наша главная ценность
 

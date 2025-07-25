@@ -1,10 +1,47 @@
 ---
-title: "Как составить агентский договор на продажу квартиры: образец и разбор от ButlerSPB"
-description: "Планируете продать квартиру с помощью агента? В блоге ButlerSPB подробно разбираем, как правильно составить агентский договор. Внутри вы найдете актуальный образец, объяснение ключевых пунктов и советы, как защитить свои интересы и избежать рисков при сделке."
-pubDate: "2025-07-22T16:28:27.303Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Как составить агентский договор на продажу квартиры: образец и разбор от ButlerSPB","description":"Планируете продать квартиру с помощью агента? В блоге ButlerSPB подробно разбираем, как правильно составить агентский договор. Внутри вы найдете актуальный образец, объяснение ключевых пунктов и советы, как защитить свои интересы и избежать рисков при сделке.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.8","reviewCount":643,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/kak-sostavit-agentskiy-dogovor-na-prodazhu-kvartiry-obrazec-i-razbor/"}}
+title: >-
+  Как составить агентский договор на продажу квартиры: образец и разбор от
+  ButlerSPB
+description: >-
+  Планируете продать квартиру с помощью агента? В блоге ButlerSPB подробно
+  разбираем, как правильно составить агентский договор. Внутри вы найдете
+  актуальный образец, объяснение ключевых пунктов и советы, как защитить свои
+  интересы и избежать рисков при сделке.
+pubDate: '2025-07-22T16:28:27.303Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: >-
+    Как составить агентский договор на продажу квартиры: образец и разбор от
+    ButlerSPB
+  description: >-
+    Планируете продать квартиру с помощью агента? В блоге ButlerSPB подробно
+    разбираем, как правильно составить агентский договор. Внутри вы найдете
+    актуальный образец, объяснение ключевых пунктов и советы, как защитить свои
+    интересы и избежать рисков при сделке.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.9'
+    reviewCount: 779
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/kak-sostavit-agentskiy-dogovor-na-prodazhu-kvartiry-obrazec-i-razbor/
 ---
 
 # Агентский договор на продажу квартиры в 2024: полный разбор + образец от юристов ButlerSPB

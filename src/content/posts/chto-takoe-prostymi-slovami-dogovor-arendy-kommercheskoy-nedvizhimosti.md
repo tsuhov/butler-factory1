@@ -1,10 +1,45 @@
 ---
-title: "Договор аренды коммерческой недвижимости: объясняем простыми словами"
-description: "Планируете снять офис, склад или торговое помещение? ButlerSPB поможет разобраться! В нашей новой статье мы простым языком объясняем, что такое договор аренды коммерческой недвижимости, на какие ключевые пункты стоит обратить внимание и как избежать подводных камней, чтобы ваша сделка была выгодной и безопасной."
-pubDate: "2025-07-23T13:43:18.596Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Договор аренды коммерческой недвижимости: объясняем простыми словами","description":"Планируете снять офис, склад или торговое помещение? ButlerSPB поможет разобраться! В нашей новой статье мы простым языком объясняем, что такое договор аренды коммерческой недвижимости, на какие ключевые пункты стоит обратить внимание и как избежать подводных камней, чтобы ваша сделка была выгодной и безопасной.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.8","reviewCount":863,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/chto-takoe-prostymi-slovami-dogovor-arendy-kommercheskoy-nedvizhimosti/"}}
+title: 'Договор аренды коммерческой недвижимости: объясняем простыми словами'
+description: >-
+  Планируете снять офис, склад или торговое помещение? ButlerSPB поможет
+  разобраться! В нашей новой статье мы простым языком объясняем, что такое
+  договор аренды коммерческой недвижимости, на какие ключевые пункты стоит
+  обратить внимание и как избежать подводных камней, чтобы ваша сделка была
+  выгодной и безопасной.
+pubDate: '2025-07-23T13:43:18.596Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Договор аренды коммерческой недвижимости: объясняем простыми словами'
+  description: >-
+    Планируете снять офис, склад или торговое помещение? ButlerSPB поможет
+    разобраться! В нашей новой статье мы простым языком объясняем, что такое
+    договор аренды коммерческой недвижимости, на какие ключевые пункты стоит
+    обратить внимание и как избежать подводных камней, чтобы ваша сделка была
+    выгодной и безопасной.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.9'
+    reviewCount: 875
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/chto-takoe-prostymi-slovami-dogovor-arendy-kommercheskoy-nedvizhimosti/
 ---
 
 # Договор аренды коммерческой недвижимости: разбираем по пунктам простыми словами

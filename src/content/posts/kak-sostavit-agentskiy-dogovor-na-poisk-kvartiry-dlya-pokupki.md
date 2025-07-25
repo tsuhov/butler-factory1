@@ -1,10 +1,51 @@
 ---
-title: "Как составить агентский договор на покупку квартиры: пошаговое руководство и важные нюансы от ButlerSPB"
-description: "Планируете покупку квартиры с помощью агента? Чтобы сотрудничество было безопасным и продуктивным, важно правильно составить агентский договор. В нашей статье мы подробно разбираем все ключевые разделы документа: от обязанностей сторон и сроков до размера вознаграждения и условий расторжения. Узнайте, на какие пункты обратить особое внимание, чтобы защитить свои интересы и найти квартиру мечты без лишних рисков."
-pubDate: "2025-07-23T11:34:53.362Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Как составить агентский договор на покупку квартиры: пошаговое руководство и важные нюансы от ButlerSPB","description":"Планируете покупку квартиры с помощью агента? Чтобы сотрудничество было безопасным и продуктивным, важно правильно составить агентский договор. В нашей статье мы подробно разбираем все ключевые разделы документа: от обязанностей сторон и сроков до размера вознаграждения и условий расторжения. Узнайте, на какие пункты обратить особое внимание, чтобы защитить свои интересы и найти квартиру мечты без лишних рисков.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.8","reviewCount":470,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/kak-sostavit-agentskiy-dogovor-na-poisk-kvartiry-dlya-pokupki/"}}
+title: >-
+  Как составить агентский договор на покупку квартиры: пошаговое руководство и
+  важные нюансы от ButlerSPB
+description: >-
+  Планируете покупку квартиры с помощью агента? Чтобы сотрудничество было
+  безопасным и продуктивным, важно правильно составить агентский договор. В
+  нашей статье мы подробно разбираем все ключевые разделы документа: от
+  обязанностей сторон и сроков до размера вознаграждения и условий расторжения.
+  Узнайте, на какие пункты обратить особое внимание, чтобы защитить свои
+  интересы и найти квартиру мечты без лишних рисков.
+pubDate: '2025-07-23T11:34:53.362Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: >-
+    Как составить агентский договор на покупку квартиры: пошаговое руководство и
+    важные нюансы от ButlerSPB
+  description: >-
+    Планируете покупку квартиры с помощью агента? Чтобы сотрудничество было
+    безопасным и продуктивным, важно правильно составить агентский договор. В
+    нашей статье мы подробно разбираем все ключевые разделы документа: от
+    обязанностей сторон и сроков до размера вознаграждения и условий
+    расторжения. Узнайте, на какие пункты обратить особое внимание, чтобы
+    защитить свои интересы и найти квартиру мечты без лишних рисков.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.8'
+    reviewCount: 753
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/kak-sostavit-agentskiy-dogovor-na-poisk-kvartiry-dlya-pokupki/
 ---
 
 # Агентский договор на покупку квартиры: как составить «пуленепробиваемый» документ и защитить свои деньги

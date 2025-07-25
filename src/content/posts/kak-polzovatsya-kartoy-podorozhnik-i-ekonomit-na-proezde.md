@@ -1,10 +1,49 @@
 ---
-title: "Как пользоваться картой «Подорожник» и экономить на проезде в Петербурге: инструкция от ButlerSPB"
-description: "Планируете поездку в Санкт-Петербург или уже живете здесь? Узнайте все о транспортной карте «Подорожник»: где купить, как пополнять, какие тарифы выбрать и как она помогает существенно сократить расходы на метро, автобусы и трамваи. ButlerSPB делится лайфхаками для выгодных поездок по Северной столице."
-pubDate: "2025-07-22T11:43:50.472Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Как пользоваться картой «Подорожник» и экономить на проезде в Петербурге: инструкция от ButlerSPB","description":"Планируете поездку в Санкт-Петербург или уже живете здесь? Узнайте все о транспортной карте «Подорожник»: где купить, как пополнять, какие тарифы выбрать и как она помогает существенно сократить расходы на метро, автобусы и трамваи. ButlerSPB делится лайфхаками для выгодных поездок по Северной столице.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.8","reviewCount":800,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/kak-polzovatsya-kartoy-podorozhnik-i-ekonomit-na-proezde/"}}
+title: >-
+  Как пользоваться картой «Подорожник» и экономить на проезде в Петербурге:
+  инструкция от ButlerSPB
+description: >-
+  Планируете поездку в Санкт-Петербург или уже живете здесь? Узнайте все о
+  транспортной карте «Подорожник»: где купить, как пополнять, какие тарифы
+  выбрать и как она помогает существенно сократить расходы на метро, автобусы и
+  трамваи. ButlerSPB делится лайфхаками для выгодных поездок по Северной
+  столице.
+pubDate: '2025-07-22T11:43:50.472Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: >-
+    Как пользоваться картой «Подорожник» и экономить на проезде в Петербурге:
+    инструкция от ButlerSPB
+  description: >-
+    Планируете поездку в Санкт-Петербург или уже живете здесь? Узнайте все о
+    транспортной карте «Подорожник»: где купить, как пополнять, какие тарифы
+    выбрать и как она помогает существенно сократить расходы на метро, автобусы
+    и трамваи. ButlerSPB делится лайфхаками для выгодных поездок по Северной
+    столице.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.8'
+    reviewCount: 393
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/kak-polzovatsya-kartoy-podorozhnik-i-ekonomit-na-proezde/
 ---
 
 # Ваш ключ к Петербургу: всё о карте «Подорожник» и о том, как не переплачивать за транспорт

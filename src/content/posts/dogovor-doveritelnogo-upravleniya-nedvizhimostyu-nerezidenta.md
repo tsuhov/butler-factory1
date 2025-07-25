@@ -1,10 +1,52 @@
 ---
-title: "Договор доверительного управления недвижимостью для нерезидентов: полное руководство от ButlerSPB"
-description: "Владеете недвижимостью в России, но постоянно проживаете за границей? Узнайте, как эффективно и безопасно управлять своим имуществом с помощью договора доверительного управления. В нашей статье мы подробно разбираем ключевые особенности, права и обязанности сторон, налоговые аспекты для нерезидентов и юридические тонкости заключения такого договора. Эксперты ButlerSPB делятся советами, как избежать рисков и обеспечить стабильный доход от ваших активов."
-pubDate: "2025-07-21T23:53:03.966Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Договор доверительного управления недвижимостью для нерезидентов: полное руководство от ButlerSPB","description":"Владеете недвижимостью в России, но постоянно проживаете за границей? Узнайте, как эффективно и безопасно управлять своим имуществом с помощью договора доверительного управления. В нашей статье мы подробно разбираем ключевые особенности, права и обязанности сторон, налоговые аспекты для нерезидентов и юридические тонкости заключения такого договора. Эксперты ButlerSPB делятся советами, как избежать рисков и обеспечить стабильный доход от ваших активов.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.8","reviewCount":401,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/dogovor-doveritelnogo-upravleniya-nedvizhimostyu-nerezidenta/"}}
+title: >-
+  Договор доверительного управления недвижимостью для нерезидентов: полное
+  руководство от ButlerSPB
+description: >-
+  Владеете недвижимостью в России, но постоянно проживаете за границей? Узнайте,
+  как эффективно и безопасно управлять своим имуществом с помощью договора
+  доверительного управления. В нашей статье мы подробно разбираем ключевые
+  особенности, права и обязанности сторон, налоговые аспекты для нерезидентов и
+  юридические тонкости заключения такого договора. Эксперты ButlerSPB делятся
+  советами, как избежать рисков и обеспечить стабильный доход от ваших активов.
+pubDate: '2025-07-21T23:53:03.966Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: >-
+    Договор доверительного управления недвижимостью для нерезидентов: полное
+    руководство от ButlerSPB
+  description: >-
+    Владеете недвижимостью в России, но постоянно проживаете за границей?
+    Узнайте, как эффективно и безопасно управлять своим имуществом с помощью
+    договора доверительного управления. В нашей статье мы подробно разбираем
+    ключевые особенности, права и обязанности сторон, налоговые аспекты для
+    нерезидентов и юридические тонкости заключения такого договора. Эксперты
+    ButlerSPB делятся советами, как избежать рисков и обеспечить стабильный
+    доход от ваших активов.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.8'
+    reviewCount: 342
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/dogovor-doveritelnogo-upravleniya-nedvizhimostyu-nerezidenta/
 ---
 
 # Договор доверительного управления недвижимостью для нерезидента: полное руководство по безопасной сдаче квартиры из-за рубежа

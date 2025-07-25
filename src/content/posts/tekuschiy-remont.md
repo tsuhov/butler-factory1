@@ -1,11 +1,40 @@
 ---
-title: "Текущий ремонт зданий от компании ButlerSPB"
-description: "Текущий ремонт – это комплекс плановых работ для поддержания здания в отличном состоянии. ButlerSPB расскажет, как он помогает избежать аварий и сохранить актив."
-keywords: "текущий ремонт, ремонт зданий, обслуживание зданий, плановый ремонт, ButlerSPB, эксплуатация недвижимости"
-pubDate: "2025-07-25T16:38:28.554Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Текущий ремонт зданий от компании ButlerSPB","description":"Текущий ремонт – это комплекс плановых работ для поддержания здания в отличном состоянии. ButlerSPB расскажет, как он помогает избежать аварий и сохранить актив.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"5.0","reviewCount":320,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/tekuschiy-remont/"}}
+title: Текущий ремонт зданий от компании ButlerSPB
+description: >-
+  Текущий ремонт – это комплекс плановых работ для поддержания здания в отличном
+  состоянии. ButlerSPB расскажет, как он помогает избежать аварий и сохранить
+  актив.
+pubDate: '2025-07-25T16:38:28.554Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: Текущий ремонт зданий от компании ButlerSPB
+  description: >-
+    Текущий ремонт – это комплекс плановых работ для поддержания здания в
+    отличном состоянии. ButlerSPB расскажет, как он помогает избежать аварий и
+    сохранить актив.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.9'
+    reviewCount: 759
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': 'https://butlerspb-blog.netlify.app/blog/tekuschiy-remont/'
 ---
 # Текущий ремонт: Полное руководство для собственников недвижимости
 

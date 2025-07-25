@@ -1,11 +1,40 @@
 ---
-title: "Приоритетный сервис от ButlerSPB: что это?"
-description: "Узнайте, как приоритетный сервис от ButlerSPB меняет представление о комфорте. Мы предлагаем эксклюзивные условия, персональный подход и решение любых ваших задач."
-keywords: "приоритетный сервис, ButlerSPB, консьерж-сервис, эксклюзивное обслуживание, VIP-клиенты, персональный ассистент"
-pubDate: "2025-07-24T13:40:57.057Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Приоритетный сервис от ButlerSPB: что это?","description":"Узнайте, как приоритетный сервис от ButlerSPB меняет представление о комфорте. Мы предлагаем эксклюзивные условия, персональный подход и решение любых ваших задач.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.8","reviewCount":853,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/prioritetnyy-servis/"}}
+title: 'Приоритетный сервис от ButlerSPB: что это?'
+description: >-
+  Узнайте, как приоритетный сервис от ButlerSPB меняет представление о комфорте.
+  Мы предлагаем эксклюзивные условия, персональный подход и решение любых ваших
+  задач.
+pubDate: '2025-07-24T13:40:57.057Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Приоритетный сервис от ButlerSPB: что это?'
+  description: >-
+    Узнайте, как приоритетный сервис от ButlerSPB меняет представление о
+    комфорте. Мы предлагаем эксклюзивные условия, персональный подход и решение
+    любых ваших задач.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '5.0'
+    reviewCount: 573
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': 'https://butlerspb-blog.netlify.app/blog/prioritetnyy-servis/'
 ---
 # Приоритетный сервис: Когда ваше время — самая большая ценность
 

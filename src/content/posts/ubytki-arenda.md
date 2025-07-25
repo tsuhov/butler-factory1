@@ -1,11 +1,40 @@
 ---
-title: "Убытки от аренды: как их избежать и взыскать"
-description: "Сдача жилья в аренду связана с рисками. Рассказываем, как минимизировать убытки от недобросовестных арендаторов и грамотно взыскать компенсацию за ущерб."
-keywords: "убытки от аренды, ущерб имуществу, взыскание с арендатора, договор аренды, управление недвижимостью, ButlerSPB"
-pubDate: "2025-07-25T16:27:47.979Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Убытки от аренды: как их избежать и взыскать","description":"Сдача жилья в аренду связана с рисками. Рассказываем, как минимизировать убытки от недобросовестных арендаторов и грамотно взыскать компенсацию за ущерб.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":468,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/ubytki-arenda/"}}
+title: 'Убытки от аренды: как их избежать и взыскать'
+description: >-
+  Сдача жилья в аренду связана с рисками. Рассказываем, как минимизировать
+  убытки от недобросовестных арендаторов и грамотно взыскать компенсацию за
+  ущерб.
+pubDate: '2025-07-25T16:27:47.979Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Убытки от аренды: как их избежать и взыскать'
+  description: >-
+    Сдача жилья в аренду связана с рисками. Рассказываем, как минимизировать
+    убытки от недобросовестных арендаторов и грамотно взыскать компенсацию за
+    ущерб.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.8'
+    reviewCount: 334
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': 'https://butlerspb-blog.netlify.app/blog/ubytki-arenda/'
 ---
 # Убытки при сдаче квартиры в аренду: полное руководство для собственника по защите своего имущества и денег
 

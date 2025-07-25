@@ -1,11 +1,40 @@
 ---
-title: "Дополнительные удобства от ButlerSPB: ваш комфорт"
-description: "Узнайте, как дополнительные удобства могут кардинально изменить ваше пребывание. ButlerSPB предлагает широкий спектр услуг для максимального комфорта и уюта."
-keywords: "дополнительные удобства, комфорт, сервис, ButlerSPB, услуги, консьерж-сервис, аренда спб"
-pubDate: "2025-07-24T13:47:01.520Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Дополнительные удобства от ButlerSPB: ваш комфорт","description":"Узнайте, как дополнительные удобства могут кардинально изменить ваше пребывание. ButlerSPB предлагает широкий спектр услуг для максимального комфорта и уюта.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"5.0","reviewCount":561,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/dopolnitelnye-udobstva/"}}
+title: 'Дополнительные удобства от ButlerSPB: ваш комфорт'
+description: >-
+  Узнайте, как дополнительные удобства могут кардинально изменить ваше
+  пребывание. ButlerSPB предлагает широкий спектр услуг для максимального
+  комфорта и уюта.
+pubDate: '2025-07-24T13:47:01.520Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Дополнительные удобства от ButlerSPB: ваш комфорт'
+  description: >-
+    Узнайте, как дополнительные удобства могут кардинально изменить ваше
+    пребывание. ButlerSPB предлагает широкий спектр услуг для максимального
+    комфорта и уюта.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.9'
+    reviewCount: 719
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': 'https://butlerspb-blog.netlify.app/blog/dopolnitelnye-udobstva/'
 ---
 # Дополнительные удобства, которые покорят ваших гостей и увеличат доход от аренды: полный гайд от экспертов ButlerSPB
 

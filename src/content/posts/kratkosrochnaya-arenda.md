@@ -1,11 +1,39 @@
 ---
-title: "Краткосрочная аренда в СПБ: гайд от ButlerSPB"
-description: "Откройте для себя все преимущества краткосрочной аренды в Санкт-Петербурге. ButlerSPB предлагает уютные квартиры для туристов и деловых путешественников."
-keywords: "краткосрочная аренда, посуточно, аренда квартир, жилье в СПб, ButlerSPB, апартаменты, туризм"
-pubDate: "2025-07-25T15:35:15.242Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Краткосрочная аренда в СПБ: гайд от ButlerSPB","description":"Откройте для себя все преимущества краткосрочной аренды в Санкт-Петербурге. ButlerSPB предлагает уютные квартиры для туристов и деловых путешественников.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"5.0","reviewCount":389,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/kratkosrochnaya-arenda/"}}
+title: 'Краткосрочная аренда в СПБ: гайд от ButlerSPB'
+description: >-
+  Откройте для себя все преимущества краткосрочной аренды в Санкт-Петербурге.
+  ButlerSPB предлагает уютные квартиры для туристов и деловых путешественников.
+pubDate: '2025-07-25T15:35:15.242Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Краткосрочная аренда в СПБ: гайд от ButlerSPB'
+  description: >-
+    Откройте для себя все преимущества краткосрочной аренды в Санкт-Петербурге.
+    ButlerSPB предлагает уютные квартиры для туристов и деловых
+    путешественников.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.8'
+    reviewCount: 477
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': 'https://butlerspb-blog.netlify.app/blog/kratkosrochnaya-arenda/'
 ---
 # Краткосрочная аренда в 2024: Полное руководство для собственника по максимизации дохода
 

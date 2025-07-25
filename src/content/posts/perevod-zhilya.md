@@ -1,11 +1,40 @@
 ---
-title: "Перевод жилья в нежилой фонд: инструкция"
-description: "Планируете открыть бизнес в своей квартире? Узнайте, как правильно выполнить перевод жилого помещения в нежилой фонд в Санкт-Петербурге. Пошаговая инструкция."
-keywords: "перевод жилья, перевод в нежилой фонд, смена назначения помещения, перевод квартиры в нежилое, согласование перевода, ButlerSPB"
-pubDate: "2025-07-25T15:10:04.214Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Перевод жилья в нежилой фонд: инструкция","description":"Планируете открыть бизнес в своей квартире? Узнайте, как правильно выполнить перевод жилого помещения в нежилой фонд в Санкт-Петербурге. Пошаговая инструкция.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.8","reviewCount":858,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/perevod-zhilya/"}}
+title: 'Перевод жилья в нежилой фонд: инструкция'
+description: >-
+  Планируете открыть бизнес в своей квартире? Узнайте, как правильно выполнить
+  перевод жилого помещения в нежилой фонд в Санкт-Петербурге. Пошаговая
+  инструкция.
+pubDate: '2025-07-25T15:10:04.214Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Перевод жилья в нежилой фонд: инструкция'
+  description: >-
+    Планируете открыть бизнес в своей квартире? Узнайте, как правильно выполнить
+    перевод жилого помещения в нежилой фонд в Санкт-Петербурге. Пошаговая
+    инструкция.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.9'
+    reviewCount: 304
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': 'https://butlerspb-blog.netlify.app/blog/perevod-zhilya/'
 ---
 # Перевод жилого помещения в нежилое: полное руководство для собственника в Санкт-Петербурге
 

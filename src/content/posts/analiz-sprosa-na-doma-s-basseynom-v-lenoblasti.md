@@ -1,10 +1,45 @@
 ---
-title: "Анализ спроса на дома с бассейном в Ленинградской области"
-description: "Собственный бассейн в загородном доме — уже не роскошь, а осознанный выбор в пользу комфорта. Команда ButlerSPB провела исследование и анализирует, как изменился спрос на дома с бассейнами в Ленобласти, какие районы пользуются наибольшей популярностью и какие факторы становятся решающими для покупателей в текущем сезоне."
-pubDate: "2025-07-23T10:48:23.379Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Анализ спроса на дома с бассейном в Ленинградской области","description":"Собственный бассейн в загородном доме — уже не роскошь, а осознанный выбор в пользу комфорта. Команда ButlerSPB провела исследование и анализирует, как изменился спрос на дома с бассейнами в Ленобласти, какие районы пользуются наибольшей популярностью и какие факторы становятся решающими для покупателей в текущем сезоне.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.8","reviewCount":537,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/analiz-sprosa-na-doma-s-basseynom-v-lenoblasti/"}}
+title: Анализ спроса на дома с бассейном в Ленинградской области
+description: >-
+  Собственный бассейн в загородном доме — уже не роскошь, а осознанный выбор в
+  пользу комфорта. Команда ButlerSPB провела исследование и анализирует, как
+  изменился спрос на дома с бассейнами в Ленобласти, какие районы пользуются
+  наибольшей популярностью и какие факторы становятся решающими для покупателей
+  в текущем сезоне.
+pubDate: '2025-07-23T10:48:23.379Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: Анализ спроса на дома с бассейном в Ленинградской области
+  description: >-
+    Собственный бассейн в загородном доме — уже не роскошь, а осознанный выбор в
+    пользу комфорта. Команда ButlerSPB провела исследование и анализирует, как
+    изменился спрос на дома с бассейнами в Ленобласти, какие районы пользуются
+    наибольшей популярностью и какие факторы становятся решающими для
+    покупателей в текущем сезоне.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '5.0'
+    reviewCount: 615
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/analiz-sprosa-na-doma-s-basseynom-v-lenoblasti/
 ---
 
 # Спрос на дома с бассейном в Ленобласти: тренды, цены и подводные камни для покупателя

@@ -1,11 +1,40 @@
 ---
-title: "Все о схемах метро: гид для туриста в СПб"
-description: "Схемы метро – незаменимый инструмент для передвижения по городу. Наш гид поможет вам разобраться в линиях, станциях и пересадках, чтобы легко планировать свой маршрут."
-keywords: "схема метро, карта метро, метрополитен, как читать схему метро, метро спб, транспорт, путеводитель"
-pubDate: "2025-07-25T15:58:36.965Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Все о схемах метро: гид для туриста в СПб","description":"Схемы метро – незаменимый инструмент для передвижения по городу. Наш гид поможет вам разобраться в линиях, станциях и пересадках, чтобы легко планировать свой маршрут.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":424,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/metro-shemy/"}}
+title: 'Все о схемах метро: гид для туриста в СПб'
+description: >-
+  Схемы метро – незаменимый инструмент для передвижения по городу. Наш гид
+  поможет вам разобраться в линиях, станциях и пересадках, чтобы легко
+  планировать свой маршрут.
+pubDate: '2025-07-25T15:58:36.965Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Все о схемах метро: гид для туриста в СПб'
+  description: >-
+    Схемы метро – незаменимый инструмент для передвижения по городу. Наш гид
+    поможет вам разобраться в линиях, станциях и пересадках, чтобы легко
+    планировать свой маршрут.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.7'
+    reviewCount: 626
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': 'https://butlerspb-blog.netlify.app/blog/metro-shemy/'
 ---
 # Схемы метро 2024: полный гид для путешественника от Санкт-Петербурга до Москвы
 

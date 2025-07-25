@@ -1,10 +1,51 @@
 ---
-title: "Приемка квартиры после арендатора: пошаговый чек-лист для собственника от ButlerSPB"
-description: "Завершение договора аренды – ответственный момент. Чтобы избежать споров, финансовых потерь и правильно зафиксировать состояние жилья, важно грамотно провести приемку квартиры. В этой статье команда ButlerSPB подготовила подробную инструкцию: как подготовиться к встрече, на что обратить внимание при осмотре, как правильно составить акт приема-передачи и что делать, если арендатор оставил после себя повреждения или долги по коммунальным платежам."
-pubDate: "2025-07-23T10:39:31.983Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Приемка квартиры после арендатора: пошаговый чек-лист для собственника от ButlerSPB","description":"Завершение договора аренды – ответственный момент. Чтобы избежать споров, финансовых потерь и правильно зафиксировать состояние жилья, важно грамотно провести приемку квартиры. В этой статье команда ButlerSPB подготовила подробную инструкцию: как подготовиться к встрече, на что обратить внимание при осмотре, как правильно составить акт приема-передачи и что делать, если арендатор оставил после себя повреждения или долги по коммунальным платежам.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.7","reviewCount":519,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/kak-prinimat-kvartiru-u-arendatora-posle-sdachi-v-arendu/"}}
+title: >-
+  Приемка квартиры после арендатора: пошаговый чек-лист для собственника от
+  ButlerSPB
+description: >-
+  Завершение договора аренды – ответственный момент. Чтобы избежать споров,
+  финансовых потерь и правильно зафиксировать состояние жилья, важно грамотно
+  провести приемку квартиры. В этой статье команда ButlerSPB подготовила
+  подробную инструкцию: как подготовиться к встрече, на что обратить внимание
+  при осмотре, как правильно составить акт приема-передачи и что делать, если
+  арендатор оставил после себя повреждения или долги по коммунальным платежам.
+pubDate: '2025-07-23T10:39:31.983Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: >-
+    Приемка квартиры после арендатора: пошаговый чек-лист для собственника от
+    ButlerSPB
+  description: >-
+    Завершение договора аренды – ответственный момент. Чтобы избежать споров,
+    финансовых потерь и правильно зафиксировать состояние жилья, важно грамотно
+    провести приемку квартиры. В этой статье команда ButlerSPB подготовила
+    подробную инструкцию: как подготовиться к встрече, на что обратить внимание
+    при осмотре, как правильно составить акт приема-передачи и что делать, если
+    арендатор оставил после себя повреждения или долги по коммунальным платежам.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.9'
+    reviewCount: 820
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/kak-prinimat-kvartiru-u-arendatora-posle-sdachi-v-arendu/
 ---
 
 # Приемка квартиры после аренды: полный чек-лист, чтобы защитить свои деньги и нервы

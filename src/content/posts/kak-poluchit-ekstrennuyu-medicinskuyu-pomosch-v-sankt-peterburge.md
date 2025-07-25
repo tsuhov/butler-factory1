@@ -1,10 +1,53 @@
 ---
-title: "Как получить экстренную медицинскую помощь в Санкт-Петербурге: инструкция от ButlerSPB"
-description: "Никто не застрахован от экстренных ситуаций, особенно в большом городе. Команда ButlerSPB подготовила подробную инструкцию о том, как действовать, если вам или вашим близким срочно понадобилась медицинская помощь в Санкт-Петербурге. В статье мы расскажем, когда следует вызывать скорую, по каким номерам звонить (103 и 112), какую информацию нужно сообщить диспетчеру для быстрого реагирования, а также куда можно обратиться самостоятельно в случае травмы."
-pubDate: "2025-07-22T11:44:36.186Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Как получить экстренную медицинскую помощь в Санкт-Петербурге: инструкция от ButlerSPB","description":"Никто не застрахован от экстренных ситуаций, особенно в большом городе. Команда ButlerSPB подготовила подробную инструкцию о том, как действовать, если вам или вашим близким срочно понадобилась медицинская помощь в Санкт-Петербурге. В статье мы расскажем, когда следует вызывать скорую, по каким номерам звонить (103 и 112), какую информацию нужно сообщить диспетчеру для быстрого реагирования, а также куда можно обратиться самостоятельно в случае травмы.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.8","reviewCount":447,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/kak-poluchit-ekstrennuyu-medicinskuyu-pomosch-v-sankt-peterburge/"}}
+title: >-
+  Как получить экстренную медицинскую помощь в Санкт-Петербурге: инструкция от
+  ButlerSPB
+description: >-
+  Никто не застрахован от экстренных ситуаций, особенно в большом городе.
+  Команда ButlerSPB подготовила подробную инструкцию о том, как действовать,
+  если вам или вашим близким срочно понадобилась медицинская помощь в
+  Санкт-Петербурге. В статье мы расскажем, когда следует вызывать скорую, по
+  каким номерам звонить (103 и 112), какую информацию нужно сообщить диспетчеру
+  для быстрого реагирования, а также куда можно обратиться самостоятельно в
+  случае травмы.
+pubDate: '2025-07-22T11:44:36.186Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: >-
+    Как получить экстренную медицинскую помощь в Санкт-Петербурге: инструкция от
+    ButlerSPB
+  description: >-
+    Никто не застрахован от экстренных ситуаций, особенно в большом городе.
+    Команда ButlerSPB подготовила подробную инструкцию о том, как действовать,
+    если вам или вашим близким срочно понадобилась медицинская помощь в
+    Санкт-Петербурге. В статье мы расскажем, когда следует вызывать скорую, по
+    каким номерам звонить (103 и 112), какую информацию нужно сообщить
+    диспетчеру для быстрого реагирования, а также куда можно обратиться
+    самостоятельно в случае травмы.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.8'
+    reviewCount: 540
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/kak-poluchit-ekstrennuyu-medicinskuyu-pomosch-v-sankt-peterburge/
 ---
 
 # Как получить экстренную медицинскую помощь в Санкт-Петербурге: пошаговый гид

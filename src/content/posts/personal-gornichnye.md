@@ -1,11 +1,40 @@
 ---
-title: "Профессиональные горничные от ButlerSPB в СПб"
-description: "ButlerSPB предлагает услуги по подбору квалифицированных горничных. Наши специалисты обеспечат идеальную чистоту и порядок, гарантируя комфорт и уют в вашем доме."
-keywords: "горничная, персонал для дома, уборка, домашний персонал, ButlerSPB, найти горничную, клининг"
-pubDate: "2025-07-25T15:36:59.977Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Профессиональные горничные от ButlerSPB в СПб","description":"ButlerSPB предлагает услуги по подбору квалифицированных горничных. Наши специалисты обеспечат идеальную чистоту и порядок, гарантируя комфорт и уют в вашем доме.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.8","reviewCount":787,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/personal-gornichnye/"}}
+title: Профессиональные горничные от ButlerSPB в СПб
+description: >-
+  ButlerSPB предлагает услуги по подбору квалифицированных горничных. Наши
+  специалисты обеспечат идеальную чистоту и порядок, гарантируя комфорт и уют в
+  вашем доме.
+pubDate: '2025-07-25T15:36:59.977Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: Профессиональные горничные от ButlerSPB в СПб
+  description: >-
+    ButlerSPB предлагает услуги по подбору квалифицированных горничных. Наши
+    специалисты обеспечат идеальную чистоту и порядок, гарантируя комфорт и уют
+    в вашем доме.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.7'
+    reviewCount: 442
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': 'https://butlerspb-blog.netlify.app/blog/personal-gornichnye/'
 ---
 # Нанять горничную в СПб: как найти и проверить профессиональный персонал
 

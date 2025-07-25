@@ -1,11 +1,40 @@
 ---
-title: "Закупка бытовой химии: гид от ButlerSPB"
-description: "Как выбрать эффективные и безопасные средства для уборки? Эксперты ButlerSPB делятся советами по закупке бытовой химии, чтобы ваш дом сиял чистотой без лишних трат."
-keywords: "бытовая химия, закупка средств для уборки, чистящие средства, уборка дома, советы по закупке, ButlerSPB"
-pubDate: "2025-07-25T16:18:15.923Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Закупка бытовой химии: гид от ButlerSPB","description":"Как выбрать эффективные и безопасные средства для уборки? Эксперты ButlerSPB делятся советами по закупке бытовой химии, чтобы ваш дом сиял чистотой без лишних трат.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":474,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/zakupka-bytovoy/"}}
+title: 'Закупка бытовой химии: гид от ButlerSPB'
+description: >-
+  Как выбрать эффективные и безопасные средства для уборки? Эксперты ButlerSPB
+  делятся советами по закупке бытовой химии, чтобы ваш дом сиял чистотой без
+  лишних трат.
+pubDate: '2025-07-25T16:18:15.923Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Закупка бытовой химии: гид от ButlerSPB'
+  description: >-
+    Как выбрать эффективные и безопасные средства для уборки? Эксперты ButlerSPB
+    делятся советами по закупке бытовой химии, чтобы ваш дом сиял чистотой без
+    лишних трат.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.9'
+    reviewCount: 491
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': 'https://butlerspb-blog.netlify.app/blog/zakupka-bytovoy/'
 ---
 # Закупка бытовой техники под ключ: Ваш экспертный путеводитель от А до Я
 

@@ -1,10 +1,49 @@
 ---
-title: "Налог с продажи недвижимости в 2024 году: сколько процентов и когда можно не платить"
-description: "Планируете продажу квартиры или дома? Команда ButlerSPB подготовила подробный разбор: какой налог с продажи недвижимости платят физические лица, какая ставка НДФЛ для резидентов и нерезидентов, что такое минимальный срок владения объектом и в каких случаях вы полностью освобождаетесь от уплаты налога. Все, что нужно знать собственнику, в одной статье."
-pubDate: "2025-07-23T12:02:39.782Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Налог с продажи недвижимости в 2024 году: сколько процентов и когда можно не платить","description":"Планируете продажу квартиры или дома? Команда ButlerSPB подготовила подробный разбор: какой налог с продажи недвижимости платят физические лица, какая ставка НДФЛ для резидентов и нерезидентов, что такое минимальный срок владения объектом и в каких случаях вы полностью освобождаетесь от уплаты налога. Все, что нужно знать собственнику, в одной статье.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.8","reviewCount":840,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/skolko-procentov-sostavlyaet-nalog-s-prodazhi-nedvizhimosti/"}}
+title: >-
+  Налог с продажи недвижимости в 2024 году: сколько процентов и когда можно не
+  платить
+description: >-
+  Планируете продажу квартиры или дома? Команда ButlerSPB подготовила подробный
+  разбор: какой налог с продажи недвижимости платят физические лица, какая
+  ставка НДФЛ для резидентов и нерезидентов, что такое минимальный срок владения
+  объектом и в каких случаях вы полностью освобождаетесь от уплаты налога. Все,
+  что нужно знать собственнику, в одной статье.
+pubDate: '2025-07-23T12:02:39.782Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: >-
+    Налог с продажи недвижимости в 2024 году: сколько процентов и когда можно не
+    платить
+  description: >-
+    Планируете продажу квартиры или дома? Команда ButlerSPB подготовила
+    подробный разбор: какой налог с продажи недвижимости платят физические лица,
+    какая ставка НДФЛ для резидентов и нерезидентов, что такое минимальный срок
+    владения объектом и в каких случаях вы полностью освобождаетесь от уплаты
+    налога. Все, что нужно знать собственнику, в одной статье.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.9'
+    reviewCount: 335
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/skolko-procentov-sostavlyaet-nalog-s-prodazhi-nedvizhimosti/
 ---
 
 # Налог с продажи недвижимости: полное руководство от ButlerSPB

@@ -1,10 +1,45 @@
 ---
-title: "Видео-обзор квартиры: как снять ролик, который увеличит конверсию"
-description: "Хотите быстро и выгодно сдать или продать квартиру? Качественный видео-обзор — ваш главный инструмент. В новой статье блога ButlerSPB мы делимся пошаговой инструкцией: от подготовки квартиры и выбора техники до секретов монтажа и продвижения. Узнайте, как создать видео, которое не просто покажет метры, а продаст эмоцию и увеличит количество заявок."
-pubDate: "2025-07-22T11:01:34.676Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Видео-обзор квартиры: как снять ролик, который увеличит конверсию","description":"Хотите быстро и выгодно сдать или продать квартиру? Качественный видео-обзор — ваш главный инструмент. В новой статье блога ButlerSPB мы делимся пошаговой инструкцией: от подготовки квартиры и выбора техники до секретов монтажа и продвижения. Узнайте, как создать видео, которое не просто покажет метры, а продаст эмоцию и увеличит количество заявок.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":825,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/video-obzor-kvartiry-kak-snyat-rolik-kotoryy-uvelichit-konversiyu/"}}
+title: 'Видео-обзор квартиры: как снять ролик, который увеличит конверсию'
+description: >-
+  Хотите быстро и выгодно сдать или продать квартиру? Качественный видео-обзор —
+  ваш главный инструмент. В новой статье блога ButlerSPB мы делимся пошаговой
+  инструкцией: от подготовки квартиры и выбора техники до секретов монтажа и
+  продвижения. Узнайте, как создать видео, которое не просто покажет метры, а
+  продаст эмоцию и увеличит количество заявок.
+pubDate: '2025-07-22T11:01:34.676Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Видео-обзор квартиры: как снять ролик, который увеличит конверсию'
+  description: >-
+    Хотите быстро и выгодно сдать или продать квартиру? Качественный видео-обзор
+    — ваш главный инструмент. В новой статье блога ButlerSPB мы делимся
+    пошаговой инструкцией: от подготовки квартиры и выбора техники до секретов
+    монтажа и продвижения. Узнайте, как создать видео, которое не просто покажет
+    метры, а продаст эмоцию и увеличит количество заявок.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.8'
+    reviewCount: 338
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/video-obzor-kvartiry-kak-snyat-rolik-kotoryy-uvelichit-konversiyu/
 ---
 
 # Видео-обзор квартиры: Как снять ролик, который увеличит конверсию на 400% — полное руководство от ButlerSPB

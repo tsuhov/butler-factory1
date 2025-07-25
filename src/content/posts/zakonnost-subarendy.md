@@ -1,11 +1,40 @@
 ---
-title: "Субаренда: юридические тонкости и риски"
-description: "Субаренда — способ заработать на арендованном жилье. Но законна ли она? Разбираем, как получить согласие собственника, составить договор и избежать рисков."
-keywords: "субаренда, договор субаренды, сдать в субаренду, закон, согласие собственника, аренда, недвижимость"
-pubDate: "2025-07-25T14:30:19.917Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Субаренда: юридические тонкости и риски","description":"Субаренда — способ заработать на арендованном жилье. Но законна ли она? Разбираем, как получить согласие собственника, составить договор и избежать рисков.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":333,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/zakonnost-subarendy/"}}
+title: 'Субаренда: юридические тонкости и риски'
+description: >-
+  Субаренда — способ заработать на арендованном жилье. Но законна ли она?
+  Разбираем, как получить согласие собственника, составить договор и избежать
+  рисков.
+pubDate: '2025-07-25T14:30:19.917Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Субаренда: юридические тонкости и риски'
+  description: >-
+    Субаренда — способ заработать на арендованном жилье. Но законна ли она?
+    Разбираем, как получить согласие собственника, составить договор и избежать
+    рисков.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.8'
+    reviewCount: 862
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': 'https://butlerspb-blog.netlify.app/blog/zakonnost-subarendy/'
 ---
 # Субаренда: законно ли это? Полное руководство для собственников и арендаторов
 

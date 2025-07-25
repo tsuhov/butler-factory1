@@ -1,10 +1,45 @@
 ---
-title: "Стрит-ритейл не умер: как выжить и преуспеть в эпоху онлайн-торговли"
-description: "Многие предрекают гибель физических магазинов под натиском e-commerce. В новой статье блога ButlerSPB мы доказываем, что это не так. Анализируем, как стрит-ритейл трансформируется, создавая новые форматы — от шоу-румов до центров клиентского опыта, и почему синергия с онлайном становится главным ключом к успеху в современной коммерции."
-pubDate: "2025-07-23T12:24:43.516Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Стрит-ритейл не умер: как выжить и преуспеть в эпоху онлайн-торговли","description":"Многие предрекают гибель физических магазинов под натиском e-commerce. В новой статье блога ButlerSPB мы доказываем, что это не так. Анализируем, как стрит-ритейл трансформируется, создавая новые форматы — от шоу-румов до центров клиентского опыта, и почему синергия с онлайном становится главным ключом к успеху в современной коммерции.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.8","reviewCount":828,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/perspektivy-strit-riteyla-v-svyazi-s-razvitiem-onlayn-torgovli/"}}
+title: 'Стрит-ритейл не умер: как выжить и преуспеть в эпоху онлайн-торговли'
+description: >-
+  Многие предрекают гибель физических магазинов под натиском e-commerce. В новой
+  статье блога ButlerSPB мы доказываем, что это не так. Анализируем, как
+  стрит-ритейл трансформируется, создавая новые форматы — от шоу-румов до
+  центров клиентского опыта, и почему синергия с онлайном становится главным
+  ключом к успеху в современной коммерции.
+pubDate: '2025-07-23T12:24:43.516Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Стрит-ритейл не умер: как выжить и преуспеть в эпоху онлайн-торговли'
+  description: >-
+    Многие предрекают гибель физических магазинов под натиском e-commerce. В
+    новой статье блога ButlerSPB мы доказываем, что это не так. Анализируем, как
+    стрит-ритейл трансформируется, создавая новые форматы — от шоу-румов до
+    центров клиентского опыта, и почему синергия с онлайном становится главным
+    ключом к успеху в современной коммерции.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.9'
+    reviewCount: 364
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/perspektivy-strit-riteyla-v-svyazi-s-razvitiem-onlayn-torgovli/
 ---
 
 # Стрит-ритейл в эпоху E-commerce: Конец или новая эра возможностей?

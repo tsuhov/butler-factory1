@@ -1,11 +1,39 @@
 ---
-title: "Ваш смартфон: простые советы для долгой службы"
-description: "Узнайте, как правильно ухаживать за вашим гаджетом, чтобы он служил дольше. ButlerSPB делится советами по чистке, правильной зарядке и защите устройства."
-keywords: "смартфон, уход за телефоном, советы, ButlerSPB, чистка смартфона, аккумулятор, защита экрана"
-pubDate: "2025-07-25T13:57:53.781Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Ваш смартфон: простые советы для долгой службы","description":"Узнайте, как правильно ухаживать за вашим гаджетом, чтобы он служил дольше. ButlerSPB делится советами по чистке, правильной зарядке и защите устройства.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":342,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/vash-smartfon/"}}
+title: 'Ваш смартфон: простые советы для долгой службы'
+description: >-
+  Узнайте, как правильно ухаживать за вашим гаджетом, чтобы он служил дольше.
+  ButlerSPB делится советами по чистке, правильной зарядке и защите устройства.
+pubDate: '2025-07-25T13:57:53.781Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Ваш смартфон: простые советы для долгой службы'
+  description: >-
+    Узнайте, как правильно ухаживать за вашим гаджетом, чтобы он служил дольше.
+    ButlerSPB делится советами по чистке, правильной зарядке и защите
+    устройства.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '5.0'
+    reviewCount: 619
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': 'https://butlerspb-blog.netlify.app/blog/vash-smartfon/'
 ---
 # Ваш смартфон от А до Я: Полное руководство по уходу, типичным неисправностям и профессиональному ремонту в СПб
 

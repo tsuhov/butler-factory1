@@ -1,11 +1,40 @@
 ---
-title: "Когда бизнесу нужна помощь налогового юриста"
-description: "Своевременная консультация налоговика помогает избежать штрафов, оптимизировать налоги и защитить бизнес. Узнайте, в каких ситуациях стоит обратиться к эксперту."
-keywords: "помощь налоговика, налоговый консультант, налоговая консультация, оптимизация налогов, налоговые риски, ButlerSPB"
-pubDate: "2025-07-25T16:32:41.008Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Когда бизнесу нужна помощь налогового юриста","description":"Своевременная консультация налоговика помогает избежать штрафов, оптимизировать налоги и защитить бизнес. Узнайте, в каких ситуациях стоит обратиться к эксперту.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.7","reviewCount":421,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/pomosch-nalogovika/"}}
+title: Когда бизнесу нужна помощь налогового юриста
+description: >-
+  Своевременная консультация налоговика помогает избежать штрафов,
+  оптимизировать налоги и защитить бизнес. Узнайте, в каких ситуациях стоит
+  обратиться к эксперту.
+pubDate: '2025-07-25T16:32:41.008Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: Когда бизнесу нужна помощь налогового юриста
+  description: >-
+    Своевременная консультация налоговика помогает избежать штрафов,
+    оптимизировать налоги и защитить бизнес. Узнайте, в каких ситуациях стоит
+    обратиться к эксперту.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.7'
+    reviewCount: 674
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': 'https://butlerspb-blog.netlify.app/blog/pomosch-nalogovika/'
 ---
 # Помощь налоговика: Когда она жизненно необходима вашему бизнесу (и как ее получить)
 

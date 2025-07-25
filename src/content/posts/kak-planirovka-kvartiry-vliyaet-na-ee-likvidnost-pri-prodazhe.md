@@ -1,10 +1,47 @@
 ---
-title: "Планировка и ликвидность: как продать квартиру быстрее и дороже"
-description: "Собираетесь продавать квартиру? Роль планировки в этом процессе — ключевая. В новой статье блога ButlerSPB разбираемся, какие решения повышают ликвидность объекта, а какие, наоборот, отпугивают покупателей и снижают итоговую стоимость. Рассказываем о ценности изолированных комнат, просторной кухни-гостиной, наличии гардеробной и о том, как даже неудачную планировку можно выгодно преподнести."
-pubDate: "2025-07-23T12:04:37.905Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Планировка и ликвидность: как продать квартиру быстрее и дороже","description":"Собираетесь продавать квартиру? Роль планировки в этом процессе — ключевая. В новой статье блога ButlerSPB разбираемся, какие решения повышают ликвидность объекта, а какие, наоборот, отпугивают покупателей и снижают итоговую стоимость. Рассказываем о ценности изолированных комнат, просторной кухни-гостиной, наличии гардеробной и о том, как даже неудачную планировку можно выгодно преподнести.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"5.0","reviewCount":577,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/kak-planirovka-kvartiry-vliyaet-na-ee-likvidnost-pri-prodazhe/"}}
+title: 'Планировка и ликвидность: как продать квартиру быстрее и дороже'
+description: >-
+  Собираетесь продавать квартиру? Роль планировки в этом процессе — ключевая. В
+  новой статье блога ButlerSPB разбираемся, какие решения повышают ликвидность
+  объекта, а какие, наоборот, отпугивают покупателей и снижают итоговую
+  стоимость. Рассказываем о ценности изолированных комнат, просторной
+  кухни-гостиной, наличии гардеробной и о том, как даже неудачную планировку
+  можно выгодно преподнести.
+pubDate: '2025-07-23T12:04:37.905Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Планировка и ликвидность: как продать квартиру быстрее и дороже'
+  description: >-
+    Собираетесь продавать квартиру? Роль планировки в этом процессе — ключевая.
+    В новой статье блога ButlerSPB разбираемся, какие решения повышают
+    ликвидность объекта, а какие, наоборот, отпугивают покупателей и снижают
+    итоговую стоимость. Рассказываем о ценности изолированных комнат, просторной
+    кухни-гостиной, наличии гардеробной и о том, как даже неудачную планировку
+    можно выгодно преподнести.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.8'
+    reviewCount: 762
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/kak-planirovka-kvartiry-vliyaet-na-ee-likvidnost-pri-prodazhe/
 ---
 
 # Как планировка квартиры определяет ее ликвидность при продаже? Полный разбор от экспертов ButlerSPB

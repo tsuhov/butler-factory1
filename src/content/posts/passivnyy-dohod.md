@@ -1,11 +1,39 @@
 ---
-title: "Пассивный доход: как создать и приумножить"
-description: "Хотите получать деньги, не работая активно? Наша статья от ButlerSPB расскажет о проверенных способах создания пассивного дохода, от инвестиций до бизнеса."
-keywords: "пассивный доход, инвестиции, финансовая независимость, куда вложить деньги, дополнительный доход, создание капитала"
-pubDate: "2025-07-25T15:00:09.309Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Пассивный доход: как создать и приумножить","description":"Хотите получать деньги, не работая активно? Наша статья от ButlerSPB расскажет о проверенных способах создания пассивного дохода, от инвестиций до бизнеса.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.8","reviewCount":860,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/passivnyy-dohod/"}}
+title: 'Пассивный доход: как создать и приумножить'
+description: >-
+  Хотите получать деньги, не работая активно? Наша статья от ButlerSPB расскажет
+  о проверенных способах создания пассивного дохода, от инвестиций до бизнеса.
+pubDate: '2025-07-25T15:00:09.309Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Пассивный доход: как создать и приумножить'
+  description: >-
+    Хотите получать деньги, не работая активно? Наша статья от ButlerSPB
+    расскажет о проверенных способах создания пассивного дохода, от инвестиций
+    до бизнеса.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.9'
+    reviewCount: 453
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': 'https://butlerspb-blog.netlify.app/blog/passivnyy-dohod/'
 ---
 # Пассивный доход: Полное руководство по созданию финансовой независимости в России
 

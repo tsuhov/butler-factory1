@@ -1,11 +1,40 @@
 ---
-title: "Заказ еды: удобство и качество от ButlerSPB"
-description: "Узнайте, как легко и быстро заказать вкусную еду с доставкой на дом или в офис. ButlerSPB предлагает широкий выбор блюд, гарантию качества и быструю доставку."
-keywords: "заказ еды, доставка еды, еда на дом, ButlerSPB, еда в офис, заказать еду онлайн, быстрая доставка"
-pubDate: "2025-07-24T13:48:24.354Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Заказ еды: удобство и качество от ButlerSPB","description":"Узнайте, как легко и быстро заказать вкусную еду с доставкой на дом или в офис. ButlerSPB предлагает широкий выбор блюд, гарантию качества и быструю доставку.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.8","reviewCount":896,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/zakaz-edy/"}}
+title: 'Заказ еды: удобство и качество от ButlerSPB'
+description: >-
+  Узнайте, как легко и быстро заказать вкусную еду с доставкой на дом или в
+  офис. ButlerSPB предлагает широкий выбор блюд, гарантию качества и быструю
+  доставку.
+pubDate: '2025-07-24T13:48:24.354Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Заказ еды: удобство и качество от ButlerSPB'
+  description: >-
+    Узнайте, как легко и быстро заказать вкусную еду с доставкой на дом или в
+    офис. ButlerSPB предлагает широкий выбор блюд, гарантию качества и быструю
+    доставку.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.8'
+    reviewCount: 451
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': 'https://butlerspb-blog.netlify.app/blog/zakaz-edy/'
 ---
 # Заказ еды в Санкт-Петербурге: Больше, чем просто доставка
 

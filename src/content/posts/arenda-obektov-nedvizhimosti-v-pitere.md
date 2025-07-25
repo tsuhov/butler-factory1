@@ -1,10 +1,45 @@
 ---
-title: "Аренда объектов недвижимости в Питере: полное руководство от ButlerSPB"
-description: "Планируете снять квартиру или коммерческое помещение в Санкт-Петербурге? В нашем новом материале мы подробно разбираем все нюансы аренды в культурной столице: от актуальных цен по районам и эффективных методов поиска до юридической проверки документов и заключения договора. Советы от экспертов ButlerSPB, которые помогут вам арендовать лучший объект быстро и безопасно."
-pubDate: "2025-07-21T23:12:31.059Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Аренда объектов недвижимости в Питере: полное руководство от ButlerSPB","description":"Планируете снять квартиру или коммерческое помещение в Санкт-Петербурге? В нашем новом материале мы подробно разбираем все нюансы аренды в культурной столице: от актуальных цен по районам и эффективных методов поиска до юридической проверки документов и заключения договора. Советы от экспертов ButlerSPB, которые помогут вам арендовать лучший объект быстро и безопасно.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":719,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/arenda-obektov-nedvizhimosti-v-pitere/"}}
+title: 'Аренда объектов недвижимости в Питере: полное руководство от ButlerSPB'
+description: >-
+  Планируете снять квартиру или коммерческое помещение в Санкт-Петербурге? В
+  нашем новом материале мы подробно разбираем все нюансы аренды в культурной
+  столице: от актуальных цен по районам и эффективных методов поиска до
+  юридической проверки документов и заключения договора. Советы от экспертов
+  ButlerSPB, которые помогут вам арендовать лучший объект быстро и безопасно.
+pubDate: '2025-07-21T23:12:31.059Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Аренда объектов недвижимости в Питере: полное руководство от ButlerSPB'
+  description: >-
+    Планируете снять квартиру или коммерческое помещение в Санкт-Петербурге? В
+    нашем новом материале мы подробно разбираем все нюансы аренды в культурной
+    столице: от актуальных цен по районам и эффективных методов поиска до
+    юридической проверки документов и заключения договора. Советы от экспертов
+    ButlerSPB, которые помогут вам арендовать лучший объект быстро и безопасно.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '5.0'
+    reviewCount: 512
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/arenda-obektov-nedvizhimosti-v-pitere/
 ---
 
 # Аренда недвижимости в Санкт-Петербурге: Полный гид 2024 от экспертов ButlerSPB

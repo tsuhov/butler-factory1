@@ -1,11 +1,40 @@
 ---
-title: "Классы зданий: полный гид от ButlerSPB"
-description: "ButlerSPB объясняет, что такое классы зданий (A, B, C, D). Поймите, как классификация влияет на цену, комфорт и ликвидность объекта при аренде или покупке."
-keywords: "классы зданий, классификация недвижимости, здания класса А, здания класса B, коммерческая недвижимость, выбор офиса, ButlerSPB"
-pubDate: "2025-07-25T16:01:26.267Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Классы зданий: полный гид от ButlerSPB","description":"ButlerSPB объясняет, что такое классы зданий (A, B, C, D). Поймите, как классификация влияет на цену, комфорт и ликвидность объекта при аренде или покупке.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":847,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/zdaniya-klassy/"}}
+title: 'Классы зданий: полный гид от ButlerSPB'
+description: >-
+  ButlerSPB объясняет, что такое классы зданий (A, B, C, D). Поймите, как
+  классификация влияет на цену, комфорт и ликвидность объекта при аренде или
+  покупке.
+pubDate: '2025-07-25T16:01:26.267Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Классы зданий: полный гид от ButlerSPB'
+  description: >-
+    ButlerSPB объясняет, что такое классы зданий (A, B, C, D). Поймите, как
+    классификация влияет на цену, комфорт и ликвидность объекта при аренде или
+    покупке.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '5.0'
+    reviewCount: 853
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': 'https://butlerspb-blog.netlify.app/blog/zdaniya-klassy/'
 ---
 # Классы зданий: как выбрать идеальный офис для вашего бизнеса в Санкт-Петербурге
 

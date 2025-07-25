@@ -1,10 +1,45 @@
 ---
-title: "Репутация застройщика: сколько вы платите за имя и стоит ли оно того?"
-description: "Почему квартиры в домах от известных застройщиков стоят дороже и оправдана ли эта переплата? В новой статье блога ButlerSPB разбираемся, из чего складывается репутация девелопера, как она напрямую влияет на ценообразование и ликвидность недвижимости, и как не ошибиться с выбором, инвестируя в свое будущее."
-pubDate: "2025-07-23T11:27:53.831Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Репутация застройщика: сколько вы платите за имя и стоит ли оно того?","description":"Почему квартиры в домах от известных застройщиков стоят дороже и оправдана ли эта переплата? В новой статье блога ButlerSPB разбираемся, из чего складывается репутация девелопера, как она напрямую влияет на ценообразование и ликвидность недвижимости, и как не ошибиться с выбором, инвестируя в свое будущее.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.8","reviewCount":425,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/vliyanie-reputacii-zastroyschika-na-stoimost-kvartiry/"}}
+title: 'Репутация застройщика: сколько вы платите за имя и стоит ли оно того?'
+description: >-
+  Почему квартиры в домах от известных застройщиков стоят дороже и оправдана ли
+  эта переплата? В новой статье блога ButlerSPB разбираемся, из чего
+  складывается репутация девелопера, как она напрямую влияет на ценообразование
+  и ликвидность недвижимости, и как не ошибиться с выбором, инвестируя в свое
+  будущее.
+pubDate: '2025-07-23T11:27:53.831Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Репутация застройщика: сколько вы платите за имя и стоит ли оно того?'
+  description: >-
+    Почему квартиры в домах от известных застройщиков стоят дороже и оправдана
+    ли эта переплата? В новой статье блога ButlerSPB разбираемся, из чего
+    складывается репутация девелопера, как она напрямую влияет на
+    ценообразование и ликвидность недвижимости, и как не ошибиться с выбором,
+    инвестируя в свое будущее.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '5.0'
+    reviewCount: 489
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/vliyanie-reputacii-zastroyschika-na-stoimost-kvartiry/
 ---
 
 # Репутация застройщика: как она влияет на цену квартиры и стоит ли переплачивать за бренд?

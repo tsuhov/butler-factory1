@@ -1,10 +1,51 @@
 ---
-title: "Технологии в доверительном управлении: как AI и Big Data меняют правила игры для инвесторов"
-description: "Рынок доверительного управления переживает технологическую революцию. В новой статье блога ButlerSPB мы разбираемся, как робо-эдвайзеры, искусственный интеллект и анализ больших данных меняют подходы к инвестированию, делая его более доступным, персонализированным и прозрачным. Узнайте, какие возможности открывают новые технологии для современных инвесторов и как меняется роль управляющего в цифровую эпоху."
-pubDate: "2025-07-22T11:33:41.584Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Технологии в доверительном управлении: как AI и Big Data меняют правила игры для инвесторов","description":"Рынок доверительного управления переживает технологическую революцию. В новой статье блога ButlerSPB мы разбираемся, как робо-эдвайзеры, искусственный интеллект и анализ больших данных меняют подходы к инвестированию, делая его более доступным, персонализированным и прозрачным. Узнайте, какие возможности открывают новые технологии для современных инвесторов и как меняется роль управляющего в цифровую эпоху.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.8","reviewCount":664,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/kak-tehnologii-menyayut-rynok-doveritelnogo-upravleniya/"}}
+title: >-
+  Технологии в доверительном управлении: как AI и Big Data меняют правила игры
+  для инвесторов
+description: >-
+  Рынок доверительного управления переживает технологическую революцию. В новой
+  статье блога ButlerSPB мы разбираемся, как робо-эдвайзеры, искусственный
+  интеллект и анализ больших данных меняют подходы к инвестированию, делая его
+  более доступным, персонализированным и прозрачным. Узнайте, какие возможности
+  открывают новые технологии для современных инвесторов и как меняется роль
+  управляющего в цифровую эпоху.
+pubDate: '2025-07-22T11:33:41.584Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: >-
+    Технологии в доверительном управлении: как AI и Big Data меняют правила игры
+    для инвесторов
+  description: >-
+    Рынок доверительного управления переживает технологическую революцию. В
+    новой статье блога ButlerSPB мы разбираемся, как робо-эдвайзеры,
+    искусственный интеллект и анализ больших данных меняют подходы к
+    инвестированию, делая его более доступным, персонализированным и прозрачным.
+    Узнайте, какие возможности открывают новые технологии для современных
+    инвесторов и как меняется роль управляющего в цифровую эпоху.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '5.0'
+    reviewCount: 726
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/kak-tehnologii-menyayut-rynok-doveritelnogo-upravleniya/
 ---
 
 # Технологическая революция в доверительном управлении: что должен знать современный инвестор

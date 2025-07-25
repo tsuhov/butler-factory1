@@ -1,11 +1,39 @@
 ---
-title: "Правовое разрешение споров: гид от ButlerSPB"
-description: "Узнайте о методах разрешения споров: от переговоров до суда. Наша статья поможет понять, как эффективно защитить свои интересы и какой способ выбрать."
-keywords: "разрешение споров, медиация, переговоры, арбитраж, судебный спор, юридическая помощь, ButlerSPB"
-pubDate: "2025-07-25T15:37:37.321Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Правовое разрешение споров: гид от ButlerSPB","description":"Узнайте о методах разрешения споров: от переговоров до суда. Наша статья поможет понять, как эффективно защитить свои интересы и какой способ выбрать.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.8","reviewCount":334,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/razreshenie-sporov/"}}
+title: 'Правовое разрешение споров: гид от ButlerSPB'
+description: >-
+  Узнайте о методах разрешения споров: от переговоров до суда. Наша статья
+  поможет понять, как эффективно защитить свои интересы и какой способ выбрать.
+pubDate: '2025-07-25T15:37:37.321Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Правовое разрешение споров: гид от ButlerSPB'
+  description: >-
+    Узнайте о методах разрешения споров: от переговоров до суда. Наша статья
+    поможет понять, как эффективно защитить свои интересы и какой способ
+    выбрать.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.8'
+    reviewCount: 868
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': 'https://butlerspb-blog.netlify.app/blog/razreshenie-sporov/'
 ---
 # Разрешение споров: пошаговый гид по защите ваших интересов от юристов ButlerSPB
 

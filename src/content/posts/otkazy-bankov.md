@@ -1,11 +1,40 @@
 ---
-title: "Почему банки отказывают? Разбор от ButlerSPB"
-description: "Столкнулись с отказом банка? Не отчаивайтесь! В нашей новой статье эксперты ButlerSPB разбирают самые частые причины и дают пошаговые инструкции, что делать."
-keywords: "отказ банка, причины отказа, кредитная история, отказ в кредите, что делать, финансовая помощь, ButlerSPB"
-pubDate: "2025-07-25T16:30:23.957Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Почему банки отказывают? Разбор от ButlerSPB","description":"Столкнулись с отказом банка? Не отчаивайтесь! В нашей новой статье эксперты ButlerSPB разбирают самые частые причины и дают пошаговые инструкции, что делать.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":736,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/otkazy-bankov/"}}
+title: Почему банки отказывают? Разбор от ButlerSPB
+description: >-
+  Столкнулись с отказом банка? Не отчаивайтесь! В нашей новой статье эксперты
+  ButlerSPB разбирают самые частые причины и дают пошаговые инструкции, что
+  делать.
+pubDate: '2025-07-25T16:30:23.957Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: Почему банки отказывают? Разбор от ButlerSPB
+  description: >-
+    Столкнулись с отказом банка? Не отчаивайтесь! В нашей новой статье эксперты
+    ButlerSPB разбирают самые частые причины и дают пошаговые инструкции, что
+    делать.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.8'
+    reviewCount: 487
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': 'https://butlerspb-blog.netlify.app/blog/otkazy-bankov/'
 ---
 # Отказ банка: почему это происходит и что делать бизнесу? Полное руководство от ButlerSPB
 

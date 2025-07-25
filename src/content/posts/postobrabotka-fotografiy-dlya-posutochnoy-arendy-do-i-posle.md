@@ -1,10 +1,51 @@
 ---
-title: "Постобработка фотографий для посуточной аренды: магия \"до и после\" от ButlerSPB"
-description: "Качественные фотографии — это 80% успеха в посуточной аренде. Но даже самый удачный кадр можно сделать лучше. В нашем новом материале команда ButlerSPB на реальных примерах \"до и после\" показывает, как профессиональная постобработка — коррекция света, цвета, баланса белого и выравнивание перспективы — превращает обычные снимки в мощный инструмент продаж, который привлекает больше гостей и увеличивает доходность вашего объекта."
-pubDate: "2025-07-22T11:09:50.552Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Постобработка фотографий для посуточной аренды: магия \"до и после\" от ButlerSPB","description":"Качественные фотографии — это 80% успеха в посуточной аренде. Но даже самый удачный кадр можно сделать лучше. В нашем новом материале команда ButlerSPB на реальных примерах \"до и после\" показывает, как профессиональная постобработка — коррекция света, цвета, баланса белого и выравнивание перспективы — превращает обычные снимки в мощный инструмент продаж, который привлекает больше гостей и увеличивает доходность вашего объекта.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.8","reviewCount":362,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/postobrabotka-fotografiy-dlya-posutochnoy-arendy-do-i-posle/"}}
+title: >-
+  Постобработка фотографий для посуточной аренды: магия "до и после" от
+  ButlerSPB
+description: >-
+  Качественные фотографии — это 80% успеха в посуточной аренде. Но даже самый
+  удачный кадр можно сделать лучше. В нашем новом материале команда ButlerSPB на
+  реальных примерах "до и после" показывает, как профессиональная постобработка
+  — коррекция света, цвета, баланса белого и выравнивание перспективы —
+  превращает обычные снимки в мощный инструмент продаж, который привлекает
+  больше гостей и увеличивает доходность вашего объекта.
+pubDate: '2025-07-22T11:09:50.552Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: >-
+    Постобработка фотографий для посуточной аренды: магия "до и после" от
+    ButlerSPB
+  description: >-
+    Качественные фотографии — это 80% успеха в посуточной аренде. Но даже самый
+    удачный кадр можно сделать лучше. В нашем новом материале команда ButlerSPB
+    на реальных примерах "до и после" показывает, как профессиональная
+    постобработка — коррекция света, цвета, баланса белого и выравнивание
+    перспективы — превращает обычные снимки в мощный инструмент продаж, который
+    привлекает больше гостей и увеличивает доходность вашего объекта.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '5.0'
+    reviewCount: 419
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/postobrabotka-fotografiy-dlya-posutochnoy-arendy-do-i-posle/
 ---
 
 # Как постобработка фото увеличивает бронирования на 30%: гайд для посуточной аренды с примерами До/После

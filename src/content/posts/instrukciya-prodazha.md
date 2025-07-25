@@ -1,11 +1,39 @@
 ---
-title: "Пошаговая инструкция для успешных продаж"
-description: "Узнайте, как увеличить свои продажи с помощью нашей пошаговой инструкции. Мы раскрываем секреты эффективных техник, от первого контакта до закрытия сделки."
-keywords: "инструкция по продажам, техники продаж, как продавать, этапы продаж, скрипты продаж, увеличение продаж, ButlerSPB"
-pubDate: "2025-07-25T14:50:42.179Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Пошаговая инструкция для успешных продаж","description":"Узнайте, как увеличить свои продажи с помощью нашей пошаговой инструкции. Мы раскрываем секреты эффективных техник, от первого контакта до закрытия сделки.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":774,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/instrukciya-prodazha/"}}
+title: Пошаговая инструкция для успешных продаж
+description: >-
+  Узнайте, как увеличить свои продажи с помощью нашей пошаговой инструкции. Мы
+  раскрываем секреты эффективных техник, от первого контакта до закрытия сделки.
+pubDate: '2025-07-25T14:50:42.179Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: Пошаговая инструкция для успешных продаж
+  description: >-
+    Узнайте, как увеличить свои продажи с помощью нашей пошаговой инструкции. Мы
+    раскрываем секреты эффективных техник, от первого контакта до закрытия
+    сделки.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '5.0'
+    reviewCount: 312
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': 'https://butlerspb-blog.netlify.app/blog/instrukciya-prodazha/'
 ---
 # Экспертная инструкция по продаже: 7 шагов к успешной сделке
 

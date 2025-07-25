@@ -1,10 +1,49 @@
 ---
-title: "Доверительное управление складской недвижимостью: полное руководство от ButlerSPB"
-description: "Владение складом — это актив, который должен приносить стабильный доход, а не проблемы. Узнайте, как передать операционные задачи — от поиска арендаторов до технического обслуживания — профессионалам. В нашей новой статье подробно разбираем все аспекты и преимущества доверительного управления складской недвижимостью вместе с экспертами ButlerSPB."
-pubDate: "2025-07-22T00:53:53.449Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Доверительное управление складской недвижимостью: полное руководство от ButlerSPB","description":"Владение складом — это актив, который должен приносить стабильный доход, а не проблемы. Узнайте, как передать операционные задачи — от поиска арендаторов до технического обслуживания — профессионалам. В нашей новой статье подробно разбираем все аспекты и преимущества доверительного управления складской недвижимостью вместе с экспертами ButlerSPB.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":438,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/doveritelnoe-upravlenie-skladskoy-nedvizhimostyu/"}}
+title: >-
+  Доверительное управление складской недвижимостью: полное руководство от
+  ButlerSPB
+description: >-
+  Владение складом — это актив, который должен приносить стабильный доход, а не
+  проблемы. Узнайте, как передать операционные задачи — от поиска арендаторов до
+  технического обслуживания — профессионалам. В нашей новой статье подробно
+  разбираем все аспекты и преимущества доверительного управления складской
+  недвижимостью вместе с экспертами ButlerSPB.
+pubDate: '2025-07-22T00:53:53.449Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: >-
+    Доверительное управление складской недвижимостью: полное руководство от
+    ButlerSPB
+  description: >-
+    Владение складом — это актив, который должен приносить стабильный доход, а
+    не проблемы. Узнайте, как передать операционные задачи — от поиска
+    арендаторов до технического обслуживания — профессионалам. В нашей новой
+    статье подробно разбираем все аспекты и преимущества доверительного
+    управления складской недвижимостью вместе с экспертами ButlerSPB.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.7'
+    reviewCount: 389
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/doveritelnoe-upravlenie-skladskoy-nedvizhimostyu/
 ---
 
 # Доверительное управление складом: от головной боли собственника к стабильному пассивному доходу

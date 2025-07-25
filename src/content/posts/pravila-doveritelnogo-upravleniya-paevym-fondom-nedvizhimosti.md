@@ -1,10 +1,46 @@
 ---
-title: "Правила доверительного управления паевым фондом недвижимости"
-description: "Правила доверительного управления (ПДУ) — это основной документ, регулирующий деятельность паевого фонда недвижимости (ЗПИФн) и определяющий права инвестора. В блоге ButlerSPB разбираемся, что скрывается за этим документом, на какие пункты в правилах стоит обратить особое внимание перед покупкой паев и как анализ ПДУ помогает сделать правильный выбор и защитить свои вложения."
-pubDate: "2025-07-22T00:03:59.474Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Правила доверительного управления паевым фондом недвижимости","description":"Правила доверительного управления (ПДУ) — это основной документ, регулирующий деятельность паевого фонда недвижимости (ЗПИФн) и определяющий права инвестора. В блоге ButlerSPB разбираемся, что скрывается за этим документом, на какие пункты в правилах стоит обратить особое внимание перед покупкой паев и как анализ ПДУ помогает сделать правильный выбор и защитить свои вложения.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.8","reviewCount":765,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/pravila-doveritelnogo-upravleniya-paevym-fondom-nedvizhimosti/"}}
+title: Правила доверительного управления паевым фондом недвижимости
+description: >-
+  Правила доверительного управления (ПДУ) — это основной документ, регулирующий
+  деятельность паевого фонда недвижимости (ЗПИФн) и определяющий права
+  инвестора. В блоге ButlerSPB разбираемся, что скрывается за этим документом,
+  на какие пункты в правилах стоит обратить особое внимание перед покупкой паев
+  и как анализ ПДУ помогает сделать правильный выбор и защитить свои вложения.
+pubDate: '2025-07-22T00:03:59.474Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: Правила доверительного управления паевым фондом недвижимости
+  description: >-
+    Правила доверительного управления (ПДУ) — это основной документ,
+    регулирующий деятельность паевого фонда недвижимости (ЗПИФн) и определяющий
+    права инвестора. В блоге ButlerSPB разбираемся, что скрывается за этим
+    документом, на какие пункты в правилах стоит обратить особое внимание перед
+    покупкой паев и как анализ ПДУ помогает сделать правильный выбор и защитить
+    свои вложения.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '5.0'
+    reviewCount: 860
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/pravila-doveritelnogo-upravleniya-paevym-fondom-nedvizhimosti/
 ---
 
 # Правила доверительного управления паевым фондом недвижимости: Полное руководство для инвестора от А до Я

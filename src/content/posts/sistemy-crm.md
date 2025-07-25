@@ -1,11 +1,40 @@
 ---
-title: "CRM-системы: ключ к успеху вашего бизнеса"
-description: "CRM (Customer Relationship Management) — это система для управления взаимоотношениями с клиентами. Она помогает автоматизировать продажи, маркетинг и сервис."
-keywords: "CRM-система, управление клиентами, автоматизация бизнеса, повышение продаж, лояльность клиентов, внедрение CRM, ButlerSPB"
-pubDate: "2025-07-25T15:55:15.618Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"CRM-системы: ключ к успеху вашего бизнеса","description":"CRM (Customer Relationship Management) — это система для управления взаимоотношениями с клиентами. Она помогает автоматизировать продажи, маркетинг и сервис.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"5.0","reviewCount":344,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/sistemy-crm/"}}
+title: 'CRM-системы: ключ к успеху вашего бизнеса'
+description: >-
+  CRM (Customer Relationship Management) — это система для управления
+  взаимоотношениями с клиентами. Она помогает автоматизировать продажи,
+  маркетинг и сервис.
+pubDate: '2025-07-25T15:55:15.618Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'CRM-системы: ключ к успеху вашего бизнеса'
+  description: >-
+    CRM (Customer Relationship Management) — это система для управления
+    взаимоотношениями с клиентами. Она помогает автоматизировать продажи,
+    маркетинг и сервис.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.8'
+    reviewCount: 852
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': 'https://butlerspb-blog.netlify.app/blog/sistemy-crm/'
 ---
 # CRM-система: Полное руководство по выбору, внедрению и увеличению продаж
 

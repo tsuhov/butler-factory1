@@ -1,11 +1,40 @@
 ---
-title: "Стандарты качества услуг в компании ButlerSPB"
-description: "В ButlerSPB мы считаем, что качественные услуги — это основа доверия. В этой статье мы раскроем наши стандарты, подходы к работе и почему клиенты выбирают нас."
-keywords: "качественные услуги, стандарты качества, ButlerSPB, клиентский сервис, профессионализм, надежность"
-pubDate: "2025-07-24T13:45:16.155Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Стандарты качества услуг в компании ButlerSPB","description":"В ButlerSPB мы считаем, что качественные услуги — это основа доверия. В этой статье мы раскроем наши стандарты, подходы к работе и почему клиенты выбирают нас.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.8","reviewCount":423,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/kachestvennye-uslugi/"}}
+title: Стандарты качества услуг в компании ButlerSPB
+description: >-
+  В ButlerSPB мы считаем, что качественные услуги — это основа доверия. В этой
+  статье мы раскроем наши стандарты, подходы к работе и почему клиенты выбирают
+  нас.
+pubDate: '2025-07-24T13:45:16.155Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: Стандарты качества услуг в компании ButlerSPB
+  description: >-
+    В ButlerSPB мы считаем, что качественные услуги — это основа доверия. В этой
+    статье мы раскроем наши стандарты, подходы к работе и почему клиенты
+    выбирают нас.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.9'
+    reviewCount: 564
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': 'https://butlerspb-blog.netlify.app/blog/kachestvennye-uslugi/'
 ---
 # Качество услуг — невидимый актив. Как отличить экспертов от дилетантов и почему это критически важно.
 

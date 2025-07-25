@@ -1,10 +1,49 @@
 ---
-title: "Сколько стоит консультация риэлтора по международной недвижимости: гид по ценам от ButlerSPB"
-description: "Планируете покупку недвижимости за рубежом и хотите понять стоимость услуг специалиста? В новой статье блога ButlerSPB разбираемся, от чего зависит цена консультации риэлтора, какие услуги в нее входят, и в каких случаях она может быть бесплатной. Раскрываем все нюансы, чтобы вы могли грамотно спланировать свой бюджет."
-pubDate: "2025-07-23T12:19:54.156Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Сколько стоит консультация риэлтора по международной недвижимости: гид по ценам от ButlerSPB","description":"Планируете покупку недвижимости за рубежом и хотите понять стоимость услуг специалиста? В новой статье блога ButlerSPB разбираемся, от чего зависит цена консультации риэлтора, какие услуги в нее входят, и в каких случаях она может быть бесплатной. Раскрываем все нюансы, чтобы вы могли грамотно спланировать свой бюджет.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.8","reviewCount":474,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/skolko-stoit-konsultaciya-rieltora-po-mezhdunarodnoy-nedvizhimosti/"}}
+title: >-
+  Сколько стоит консультация риэлтора по международной недвижимости: гид по
+  ценам от ButlerSPB
+description: >-
+  Планируете покупку недвижимости за рубежом и хотите понять стоимость услуг
+  специалиста? В новой статье блога ButlerSPB разбираемся, от чего зависит цена
+  консультации риэлтора, какие услуги в нее входят, и в каких случаях она может
+  быть бесплатной. Раскрываем все нюансы, чтобы вы могли грамотно спланировать
+  свой бюджет.
+pubDate: '2025-07-23T12:19:54.156Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: >-
+    Сколько стоит консультация риэлтора по международной недвижимости: гид по
+    ценам от ButlerSPB
+  description: >-
+    Планируете покупку недвижимости за рубежом и хотите понять стоимость услуг
+    специалиста? В новой статье блога ButlerSPB разбираемся, от чего зависит
+    цена консультации риэлтора, какие услуги в нее входят, и в каких случаях она
+    может быть бесплатной. Раскрываем все нюансы, чтобы вы могли грамотно
+    спланировать свой бюджет.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '5.0'
+    reviewCount: 489
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/skolko-stoit-konsultaciya-rieltora-po-mezhdunarodnoy-nedvizhimosti/
 ---
 
 # Сколько стоит консультация по международной недвижимости: полный разбор цен и услуг от ButlerSPB

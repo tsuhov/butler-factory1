@@ -1,11 +1,40 @@
 ---
-title: "Квартиры с видом на Неву: роскошь и комфорт"
-description: "Мечтаете о квартире с видом на Неву? ButlerSPB предлагает эксклюзивные апартаменты, где панорамные окна открывают живописные пейзажи Санкт-Петербурга."
-keywords: "вид на Неву, квартиры в СПб, аренда апартаментов, ButlerSPB, элитная недвижимость, панорамный вид"
-pubDate: "2025-07-25T16:30:05.249Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Квартиры с видом на Неву: роскошь и комфорт","description":"Мечтаете о квартире с видом на Неву? ButlerSPB предлагает эксклюзивные апартаменты, где панорамные окна открывают живописные пейзажи Санкт-Петербурга.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":709,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/vid-neva/"}}
+title: 'Квартиры с видом на Неву: роскошь и комфорт'
+description: >-
+  Мечтаете о квартире с видом на Неву? ButlerSPB предлагает эксклюзивные
+  апартаменты, где панорамные окна открывают живописные пейзажи
+  Санкт-Петербурга.
+pubDate: '2025-07-25T16:30:05.249Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Квартиры с видом на Неву: роскошь и комфорт'
+  description: >-
+    Мечтаете о квартире с видом на Неву? ButlerSPB предлагает эксклюзивные
+    апартаменты, где панорамные окна открывают живописные пейзажи
+    Санкт-Петербурга.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.9'
+    reviewCount: 827
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': 'https://butlerspb-blog.netlify.app/blog/vid-neva/'
 ---
 # Величие в каждом изгибе: Ваш персональный гид по лучшим видам на Неву
 

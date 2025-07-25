@@ -1,10 +1,45 @@
 ---
-title: "Кадастровая стоимость квартиры в СПб: как узнать и на что она влияет"
-description: "Что такое кадастровая стоимость и почему она важна для каждого собственника квартиры в Санкт-Петербурге? Команда ButlerSPB подготовила подробную инструкцию: разбираемся, как формируется кадастровая стоимость, где ее проверить онлайн и на какие налоги и сделки она напрямую влияет. Узнайте все о кадастровой оценке вашей недвижимости в СПб."
-pubDate: "2025-07-22T14:04:01.011Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Кадастровая стоимость квартиры в СПб: как узнать и на что она влияет","description":"Что такое кадастровая стоимость и почему она важна для каждого собственника квартиры в Санкт-Петербурге? Команда ButlerSPB подготовила подробную инструкцию: разбираемся, как формируется кадастровая стоимость, где ее проверить онлайн и на какие налоги и сделки она напрямую влияет. Узнайте все о кадастровой оценке вашей недвижимости в СПб.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.8","reviewCount":528,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/kadastrovaya-stoimost-kvartiry-v-spb-kak-uznat-i-na-chto-ona-vliyaet/"}}
+title: 'Кадастровая стоимость квартиры в СПб: как узнать и на что она влияет'
+description: >-
+  Что такое кадастровая стоимость и почему она важна для каждого собственника
+  квартиры в Санкт-Петербурге? Команда ButlerSPB подготовила подробную
+  инструкцию: разбираемся, как формируется кадастровая стоимость, где ее
+  проверить онлайн и на какие налоги и сделки она напрямую влияет. Узнайте все о
+  кадастровой оценке вашей недвижимости в СПб.
+pubDate: '2025-07-22T14:04:01.011Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Кадастровая стоимость квартиры в СПб: как узнать и на что она влияет'
+  description: >-
+    Что такое кадастровая стоимость и почему она важна для каждого собственника
+    квартиры в Санкт-Петербурге? Команда ButlerSPB подготовила подробную
+    инструкцию: разбираемся, как формируется кадастровая стоимость, где ее
+    проверить онлайн и на какие налоги и сделки она напрямую влияет. Узнайте все
+    о кадастровой оценке вашей недвижимости в СПб.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.8'
+    reviewCount: 303
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/kadastrovaya-stoimost-kvartiry-v-spb-kak-uznat-i-na-chto-ona-vliyaet/
 ---
 
 # Кадастровая стоимость квартиры в Санкт-Петербурге: полное руководство от А до Я

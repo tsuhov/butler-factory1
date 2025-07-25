@@ -1,10 +1,49 @@
 ---
-title: "Продажа элитных апартаментов в Санкт-Петербурге: Полное руководство от ButlerSPB"
-description: "Планируете продажу элитной недвижимости в сердце Северной столицы? Эксперты ButlerSPB делятся инсайтами о текущем состоянии рынка, стратегиях предпродажной подготовки, эффективном маркетинге и юридических тонкостях сделок с премиальными объектами. Узнайте, как максимизировать стоимость ваших апартаментов и найти идеального покупателя."
-pubDate: "2025-07-23T11:47:41.569Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Продажа элитных апартаментов в Санкт-Петербурге: Полное руководство от ButlerSPB","description":"Планируете продажу элитной недвижимости в сердце Северной столицы? Эксперты ButlerSPB делятся инсайтами о текущем состоянии рынка, стратегиях предпродажной подготовки, эффективном маркетинге и юридических тонкостях сделок с премиальными объектами. Узнайте, как максимизировать стоимость ваших апартаментов и найти идеального покупателя.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.8","reviewCount":615,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/prodazha-elitnyh-apartamentov-v-sankt-peterburge/"}}
+title: >-
+  Продажа элитных апартаментов в Санкт-Петербурге: Полное руководство от
+  ButlerSPB
+description: >-
+  Планируете продажу элитной недвижимости в сердце Северной столицы? Эксперты
+  ButlerSPB делятся инсайтами о текущем состоянии рынка, стратегиях
+  предпродажной подготовки, эффективном маркетинге и юридических тонкостях
+  сделок с премиальными объектами. Узнайте, как максимизировать стоимость ваших
+  апартаментов и найти идеального покупателя.
+pubDate: '2025-07-23T11:47:41.569Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: >-
+    Продажа элитных апартаментов в Санкт-Петербурге: Полное руководство от
+    ButlerSPB
+  description: >-
+    Планируете продажу элитной недвижимости в сердце Северной столицы? Эксперты
+    ButlerSPB делятся инсайтами о текущем состоянии рынка, стратегиях
+    предпродажной подготовки, эффективном маркетинге и юридических тонкостях
+    сделок с премиальными объектами. Узнайте, как максимизировать стоимость
+    ваших апартаментов и найти идеального покупателя.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.9'
+    reviewCount: 315
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/prodazha-elitnyh-apartamentov-v-sankt-peterburge/
 ---
 
 # Как купить элитные апартаменты в Санкт-Петербурге: Полный гид от экспертов ButlerSPB

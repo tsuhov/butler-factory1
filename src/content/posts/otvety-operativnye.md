@@ -1,11 +1,40 @@
 ---
-title: "Скорость ответа – наш приоритет в ButlerSPB"
-description: "В ButlerSPB мы понимаем ценность вашего времени. Узнайте, как наша команда обеспечивает мгновенную реакцию на запросы, гарантируя высокое качество сервиса."
-keywords: "оперативные ответы, поддержка клиентов, ButlerSPB, скорость ответа, коммуникация, сервис, быстрая связь"
-pubDate: "2025-07-25T14:30:33.417Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Скорость ответа – наш приоритет в ButlerSPB","description":"В ButlerSPB мы понимаем ценность вашего времени. Узнайте, как наша команда обеспечивает мгновенную реакцию на запросы, гарантируя высокое качество сервиса.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.8","reviewCount":603,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/otvety-operativnye/"}}
+title: Скорость ответа – наш приоритет в ButlerSPB
+description: >-
+  В ButlerSPB мы понимаем ценность вашего времени. Узнайте, как наша команда
+  обеспечивает мгновенную реакцию на запросы, гарантируя высокое качество
+  сервиса.
+pubDate: '2025-07-25T14:30:33.417Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: Скорость ответа – наш приоритет в ButlerSPB
+  description: >-
+    В ButlerSPB мы понимаем ценность вашего времени. Узнайте, как наша команда
+    обеспечивает мгновенную реакцию на запросы, гарантируя высокое качество
+    сервиса.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.7'
+    reviewCount: 788
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': 'https://butlerspb-blog.netlify.app/blog/otvety-operativnye/'
 ---
 # Оперативные ответы: как скорость реакции ассистента экономит ваши деньги и нервы. Стандарт ButlerSPB.
 

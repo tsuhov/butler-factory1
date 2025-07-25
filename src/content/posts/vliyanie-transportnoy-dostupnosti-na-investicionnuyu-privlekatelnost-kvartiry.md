@@ -1,10 +1,49 @@
 ---
-title: "Транспортная доступность: ключевой фактор инвестиционной привлекательности квартиры"
-description: "Планируете инвестировать в недвижимость в Санкт-Петербурге? В новой статье блога ButlerSPB разбираемся, как близость к метро, остановкам общественного транспорта и крупным дорожным развязкам напрямую влияет на ликвидность объекта, его арендную ставку и итоговую доходность. Узнайте, как правильно оценить локацию, чтобы ваша квартира стала выгодным активом."
-pubDate: "2025-07-23T11:59:58.217Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Транспортная доступность: ключевой фактор инвестиционной привлекательности квартиры","description":"Планируете инвестировать в недвижимость в Санкт-Петербурге? В новой статье блога ButlerSPB разбираемся, как близость к метро, остановкам общественного транспорта и крупным дорожным развязкам напрямую влияет на ликвидность объекта, его арендную ставку и итоговую доходность. Узнайте, как правильно оценить локацию, чтобы ваша квартира стала выгодным активом.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.8","reviewCount":680,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/vliyanie-transportnoy-dostupnosti-na-investicionnuyu-privlekatelnost-kvartiry/"}}
+title: >-
+  Транспортная доступность: ключевой фактор инвестиционной привлекательности
+  квартиры
+description: >-
+  Планируете инвестировать в недвижимость в Санкт-Петербурге? В новой статье
+  блога ButlerSPB разбираемся, как близость к метро, остановкам общественного
+  транспорта и крупным дорожным развязкам напрямую влияет на ликвидность
+  объекта, его арендную ставку и итоговую доходность. Узнайте, как правильно
+  оценить локацию, чтобы ваша квартира стала выгодным активом.
+pubDate: '2025-07-23T11:59:58.217Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: >-
+    Транспортная доступность: ключевой фактор инвестиционной привлекательности
+    квартиры
+  description: >-
+    Планируете инвестировать в недвижимость в Санкт-Петербурге? В новой статье
+    блога ButlerSPB разбираемся, как близость к метро, остановкам общественного
+    транспорта и крупным дорожным развязкам напрямую влияет на ликвидность
+    объекта, его арендную ставку и итоговую доходность. Узнайте, как правильно
+    оценить локацию, чтобы ваша квартира стала выгодным активом.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.7'
+    reviewCount: 568
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/vliyanie-transportnoy-dostupnosti-na-investicionnuyu-privlekatelnost-kvartiry/
 ---
 
 # Как транспортная доступность влияет на инвестиционную привлекательность квартиры: гайд для инвестора в Санкт-Петербурге

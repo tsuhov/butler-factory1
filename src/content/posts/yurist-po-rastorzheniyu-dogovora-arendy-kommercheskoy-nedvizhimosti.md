@@ -1,10 +1,51 @@
 ---
-title: "Юрист по расторжению договора аренды коммерческой недвижимости: помощь от ButlerSPB"
-description: "Расторжение договора аренды коммерческого помещения — сложный процесс с множеством юридических тонкостей как для арендатора, так и для арендодателя. В статье от экспертов ButlerSPB разбираем законные основания для досрочного расторжения, процедуру уведомления, возможные риски и финансовые потери. Узнайте, в каких случаях необходима помощь юриста и как защитить свои интересы при прекращении арендных отношений."
-pubDate: "2025-07-23T11:49:46.204Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Юрист по расторжению договора аренды коммерческой недвижимости: помощь от ButlerSPB","description":"Расторжение договора аренды коммерческого помещения — сложный процесс с множеством юридических тонкостей как для арендатора, так и для арендодателя. В статье от экспертов ButlerSPB разбираем законные основания для досрочного расторжения, процедуру уведомления, возможные риски и финансовые потери. Узнайте, в каких случаях необходима помощь юриста и как защитить свои интересы при прекращении арендных отношений.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.8","reviewCount":429,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/yurist-po-rastorzheniyu-dogovora-arendy-kommercheskoy-nedvizhimosti/"}}
+title: >-
+  Юрист по расторжению договора аренды коммерческой недвижимости: помощь от
+  ButlerSPB
+description: >-
+  Расторжение договора аренды коммерческого помещения — сложный процесс с
+  множеством юридических тонкостей как для арендатора, так и для арендодателя. В
+  статье от экспертов ButlerSPB разбираем законные основания для досрочного
+  расторжения, процедуру уведомления, возможные риски и финансовые потери.
+  Узнайте, в каких случаях необходима помощь юриста и как защитить свои интересы
+  при прекращении арендных отношений.
+pubDate: '2025-07-23T11:49:46.204Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: >-
+    Юрист по расторжению договора аренды коммерческой недвижимости: помощь от
+    ButlerSPB
+  description: >-
+    Расторжение договора аренды коммерческого помещения — сложный процесс с
+    множеством юридических тонкостей как для арендатора, так и для арендодателя.
+    В статье от экспертов ButlerSPB разбираем законные основания для досрочного
+    расторжения, процедуру уведомления, возможные риски и финансовые потери.
+    Узнайте, в каких случаях необходима помощь юриста и как защитить свои
+    интересы при прекращении арендных отношений.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.7'
+    reviewCount: 552
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/yurist-po-rastorzheniyu-dogovora-arendy-kommercheskoy-nedvizhimosti/
 ---
 
 # Юрист по расторжению договора аренды коммерческой недвижимости: как защитить свой бизнес и избежать убытков?

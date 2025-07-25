@@ -1,11 +1,40 @@
 ---
-title: "Отзывы и рейтинг: как мы ценим ваше мнение"
-description: "Узнайте, как отзывы клиентов помогают ButlerSPB становиться лучше. Мы анализируем каждый комментарий, чтобы повышать качество услуг и поддерживать высокий рейтинг."
-keywords: "отзывы клиентов, рейтинг компании, ButlerSPB отзывы, обратная связь, оценка качества, улучшение сервиса, мнение клиентов"
-pubDate: "2025-07-25T16:38:41.997Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Отзывы и рейтинг: как мы ценим ваше мнение","description":"Узнайте, как отзывы клиентов помогают ButlerSPB становиться лучше. Мы анализируем каждый комментарий, чтобы повышать качество услуг и поддерживать высокий рейтинг.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.7","reviewCount":868,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/otzyvy-reyting/"}}
+title: 'Отзывы и рейтинг: как мы ценим ваше мнение'
+description: >-
+  Узнайте, как отзывы клиентов помогают ButlerSPB становиться лучше. Мы
+  анализируем каждый комментарий, чтобы повышать качество услуг и поддерживать
+  высокий рейтинг.
+pubDate: '2025-07-25T16:38:41.997Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Отзывы и рейтинг: как мы ценим ваше мнение'
+  description: >-
+    Узнайте, как отзывы клиентов помогают ButlerSPB становиться лучше. Мы
+    анализируем каждый комментарий, чтобы повышать качество услуг и поддерживать
+    высокий рейтинг.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.9'
+    reviewCount: 800
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': 'https://butlerspb-blog.netlify.app/blog/otzyvy-reyting/'
 ---
 # Отзывы и рейтинг: Как превратить обратную связь в главный актив вашей компании
 

@@ -1,10 +1,49 @@
 ---
-title: "Оснащение двухкомнатной квартиры для долгосрочной аренды с семьей"
-description: "Правильное оснащение двухкомнатной квартиры — ключ к успешной и долгосрочной аренде, особенно если ваши целевые арендаторы — семьи с детьми. В этой статье мы, команда ButlerSPB, подробно разберем, какая мебель, техника и предметы быта необходимы для создания комфортного и функционального пространства, которое привлечет надежных жильцов на долгий срок. Узнайте, как повысить привлекательность вашего объекта, минимизировать простои и обеспечить стабильный доход от аренды."
-pubDate: "2025-07-22T22:08:14.151Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Оснащение двухкомнатной квартиры для долгосрочной аренды с семьей","description":"Правильное оснащение двухкомнатной квартиры — ключ к успешной и долгосрочной аренде, особенно если ваши целевые арендаторы — семьи с детьми. В этой статье мы, команда ButlerSPB, подробно разберем, какая мебель, техника и предметы быта необходимы для создания комфортного и функционального пространства, которое привлечет надежных жильцов на долгий срок. Узнайте, как повысить привлекательность вашего объекта, минимизировать простои и обеспечить стабильный доход от аренды.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.8","reviewCount":831,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/osnaschenie-dvuhkomnatnoy-kvartiry-dlya-dolgosrochnoy-arendy-s-semey/"}}
+title: Оснащение двухкомнатной квартиры для долгосрочной аренды с семьей
+description: >-
+  Правильное оснащение двухкомнатной квартиры — ключ к успешной и долгосрочной
+  аренде, особенно если ваши целевые арендаторы — семьи с детьми. В этой статье
+  мы, команда ButlerSPB, подробно разберем, какая мебель, техника и предметы
+  быта необходимы для создания комфортного и функционального пространства,
+  которое привлечет надежных жильцов на долгий срок. Узнайте, как повысить
+  привлекательность вашего объекта, минимизировать простои и обеспечить
+  стабильный доход от аренды.
+pubDate: '2025-07-22T22:08:14.151Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: Оснащение двухкомнатной квартиры для долгосрочной аренды с семьей
+  description: >-
+    Правильное оснащение двухкомнатной квартиры — ключ к успешной и долгосрочной
+    аренде, особенно если ваши целевые арендаторы — семьи с детьми. В этой
+    статье мы, команда ButlerSPB, подробно разберем, какая мебель, техника и
+    предметы быта необходимы для создания комфортного и функционального
+    пространства, которое привлечет надежных жильцов на долгий срок. Узнайте,
+    как повысить привлекательность вашего объекта, минимизировать простои и
+    обеспечить стабильный доход от аренды.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.9'
+    reviewCount: 709
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/osnaschenie-dvuhkomnatnoy-kvartiry-dlya-dolgosrochnoy-arendy-s-semey/
 ---
 
 # Как оснастить двухкомнатную квартиру для сдачи семье: полное руководство от ButlerSPB

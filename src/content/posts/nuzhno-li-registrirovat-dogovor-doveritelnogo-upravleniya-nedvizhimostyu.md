@@ -1,10 +1,49 @@
 ---
-title: "Нужно ли регистрировать договор доверительного управления недвижимостью: разбор от ButlerSPB"
-description: "Передаете квартиру или коммерческое помещение в доверительное управление? Команда ButlerSPB разбирает один из самых частых вопросов от собственников: обязательна ли государственная регистрация договора ДУ в Росреестре. В статье вы узнаете, что говорит закон, когда регистрация необходима, а когда — нет, и какие риски несет ее отсутствие для владельца и управляющего."
-pubDate: "2025-07-22T00:05:49.398Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Нужно ли регистрировать договор доверительного управления недвижимостью: разбор от ButlerSPB","description":"Передаете квартиру или коммерческое помещение в доверительное управление? Команда ButlerSPB разбирает один из самых частых вопросов от собственников: обязательна ли государственная регистрация договора ДУ в Росреестре. В статье вы узнаете, что говорит закон, когда регистрация необходима, а когда — нет, и какие риски несет ее отсутствие для владельца и управляющего.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":710,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/nuzhno-li-registrirovat-dogovor-doveritelnogo-upravleniya-nedvizhimostyu/"}}
+title: >-
+  Нужно ли регистрировать договор доверительного управления недвижимостью:
+  разбор от ButlerSPB
+description: >-
+  Передаете квартиру или коммерческое помещение в доверительное управление?
+  Команда ButlerSPB разбирает один из самых частых вопросов от собственников:
+  обязательна ли государственная регистрация договора ДУ в Росреестре. В статье
+  вы узнаете, что говорит закон, когда регистрация необходима, а когда — нет, и
+  какие риски несет ее отсутствие для владельца и управляющего.
+pubDate: '2025-07-22T00:05:49.398Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: >-
+    Нужно ли регистрировать договор доверительного управления недвижимостью:
+    разбор от ButlerSPB
+  description: >-
+    Передаете квартиру или коммерческое помещение в доверительное управление?
+    Команда ButlerSPB разбирает один из самых частых вопросов от собственников:
+    обязательна ли государственная регистрация договора ДУ в Росреестре. В
+    статье вы узнаете, что говорит закон, когда регистрация необходима, а когда
+    — нет, и какие риски несет ее отсутствие для владельца и управляющего.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.9'
+    reviewCount: 478
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/nuzhno-li-registrirovat-dogovor-doveritelnogo-upravleniya-nedvizhimostyu/
 ---
 
 # Нужно ли регистрировать договор доверительного управления недвижимостью: окончательный ответ для собственника

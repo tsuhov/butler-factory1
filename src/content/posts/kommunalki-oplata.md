@@ -1,11 +1,40 @@
 ---
-title: "Оплата коммунальных услуг: полное руководство"
-description: "Узнайте все о современных способах оплаты коммунальных услуг в Санкт-Петербурге. ButlerSPB подготовил подробную инструкцию: онлайн, через банк или терминал."
-keywords: "оплата коммуналки, ЖКУ, оплатить счета, коммунальные услуги, онлайн-оплата, квартплата, ButlerSPB"
-pubDate: "2025-07-25T16:33:12.165Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Оплата коммунальных услуг: полное руководство","description":"Узнайте все о современных способах оплаты коммунальных услуг в Санкт-Петербурге. ButlerSPB подготовил подробную инструкцию: онлайн, через банк или терминал.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":718,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/kommunalki-oplata/"}}
+title: 'Оплата коммунальных услуг: полное руководство'
+description: >-
+  Узнайте все о современных способах оплаты коммунальных услуг в
+  Санкт-Петербурге. ButlerSPB подготовил подробную инструкцию: онлайн, через
+  банк или терминал.
+pubDate: '2025-07-25T16:33:12.165Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Оплата коммунальных услуг: полное руководство'
+  description: >-
+    Узнайте все о современных способах оплаты коммунальных услуг в
+    Санкт-Петербурге. ButlerSPB подготовил подробную инструкцию: онлайн, через
+    банк или терминал.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.9'
+    reviewCount: 653
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': 'https://butlerspb-blog.netlify.app/blog/kommunalki-oplata/'
 ---
 # Как и где оплатить коммуналку: полное руководство 2024 от А до Я
 

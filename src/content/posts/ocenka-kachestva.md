@@ -1,11 +1,40 @@
 ---
-title: "Оценка качества: подходы и методы ButlerSPB"
-description: "Узнайте, как ButlerSPB гарантирует высочайший стандарт сервиса. В этой статье мы подробно разбираем наши методы оценки качества, ключевые показатели и инструменты."
-keywords: "оценка качества, контроль качества, метрики сервиса, стандарты ButlerSPB, управление качеством, обратная связь"
-pubDate: "2025-07-24T13:44:27.305Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Оценка качества: подходы и методы ButlerSPB","description":"Узнайте, как ButlerSPB гарантирует высочайший стандарт сервиса. В этой статье мы подробно разбираем наши методы оценки качества, ключевые показатели и инструменты.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.8","reviewCount":321,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/ocenka-kachestva/"}}
+title: 'Оценка качества: подходы и методы ButlerSPB'
+description: >-
+  Узнайте, как ButlerSPB гарантирует высочайший стандарт сервиса. В этой статье
+  мы подробно разбираем наши методы оценки качества, ключевые показатели и
+  инструменты.
+pubDate: '2025-07-24T13:44:27.305Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Оценка качества: подходы и методы ButlerSPB'
+  description: >-
+    Узнайте, как ButlerSPB гарантирует высочайший стандарт сервиса. В этой
+    статье мы подробно разбираем наши методы оценки качества, ключевые
+    показатели и инструменты.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.8'
+    reviewCount: 759
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': 'https://butlerspb-blog.netlify.app/blog/ocenka-kachestva/'
 ---
 # Как профессионал оценивает качество уборки: Полное руководство и чек-лист от ButlerSPB
 

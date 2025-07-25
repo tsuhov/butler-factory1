@@ -1,10 +1,46 @@
 ---
-title: "Как выбрать надежное агентство по аренде квартир в Санкт-Петербурге: гид от ButlerSPB"
-description: "Ищете квартиру в аренду в Санкт-Петербурге? Узнайте, как выбрать надежное агентство, избежать мошенников и сэкономить время. Эксперты ButlerSPB делятся ключевыми советами по безопасному поиску идеального жилья в Северной столице."
-pubDate: "2025-07-22T09:50:39.254Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Как выбрать надежное агентство по аренде квартир в Санкт-Петербурге: гид от ButlerSPB","description":"Ищете квартиру в аренду в Санкт-Петербурге? Узнайте, как выбрать надежное агентство, избежать мошенников и сэкономить время. Эксперты ButlerSPB делятся ключевыми советами по безопасному поиску идеального жилья в Северной столице.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.8","reviewCount":580,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/agentstvo-arenda-kvartir-v-sankt-peterburge/"}}
+title: >-
+  Как выбрать надежное агентство по аренде квартир в Санкт-Петербурге: гид от
+  ButlerSPB
+description: >-
+  Ищете квартиру в аренду в Санкт-Петербурге? Узнайте, как выбрать надежное
+  агентство, избежать мошенников и сэкономить время. Эксперты ButlerSPB делятся
+  ключевыми советами по безопасному поиску идеального жилья в Северной столице.
+pubDate: '2025-07-22T09:50:39.254Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: >-
+    Как выбрать надежное агентство по аренде квартир в Санкт-Петербурге: гид от
+    ButlerSPB
+  description: >-
+    Ищете квартиру в аренду в Санкт-Петербурге? Узнайте, как выбрать надежное
+    агентство, избежать мошенников и сэкономить время. Эксперты ButlerSPB
+    делятся ключевыми советами по безопасному поиску идеального жилья в Северной
+    столице.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.8'
+    reviewCount: 581
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/agentstvo-arenda-kvartir-v-sankt-peterburge/
 ---
 
 # Агентство по аренде квартир в Санкт-Петербурге: Ваш гид по безопасному и быстрому поиску жилья

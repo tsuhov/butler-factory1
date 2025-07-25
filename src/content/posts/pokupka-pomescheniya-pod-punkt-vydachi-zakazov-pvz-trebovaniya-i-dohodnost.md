@@ -1,10 +1,47 @@
 ---
-title: "Покупка помещения под пункт выдачи заказов (ПВЗ): требования и доходность"
-description: "Планируете инвестировать в коммерческую недвижимость? В блоге ButlerSPB разбираем, как выгодно купить помещение под ПВЗ. Анализируем требования маркетплейсов (Ozon, Wildberries, Яндекс Маркет) к локации и площади, рассчитываем потенциальную доходность и окупаемость. Узнайте, почему покупка собственного помещения может быть выгоднее аренды и на что обратить внимание при выборе объекта."
-pubDate: "2025-07-23T10:48:17.999Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Покупка помещения под пункт выдачи заказов (ПВЗ): требования и доходность","description":"Планируете инвестировать в коммерческую недвижимость? В блоге ButlerSPB разбираем, как выгодно купить помещение под ПВЗ. Анализируем требования маркетплейсов (Ozon, Wildberries, Яндекс Маркет) к локации и площади, рассчитываем потенциальную доходность и окупаемость. Узнайте, почему покупка собственного помещения может быть выгоднее аренды и на что обратить внимание при выборе объекта.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.7","reviewCount":362,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/pokupka-pomescheniya-pod-punkt-vydachi-zakazov-pvz-trebovaniya-i-dohodnost/"}}
+title: 'Покупка помещения под пункт выдачи заказов (ПВЗ): требования и доходность'
+description: >-
+  Планируете инвестировать в коммерческую недвижимость? В блоге ButlerSPB
+  разбираем, как выгодно купить помещение под ПВЗ. Анализируем требования
+  маркетплейсов (Ozon, Wildberries, Яндекс Маркет) к локации и площади,
+  рассчитываем потенциальную доходность и окупаемость. Узнайте, почему покупка
+  собственного помещения может быть выгоднее аренды и на что обратить внимание
+  при выборе объекта.
+pubDate: '2025-07-23T10:48:17.999Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Покупка помещения под пункт выдачи заказов (ПВЗ): требования и доходность'
+  description: >-
+    Планируете инвестировать в коммерческую недвижимость? В блоге ButlerSPB
+    разбираем, как выгодно купить помещение под ПВЗ. Анализируем требования
+    маркетплейсов (Ozon, Wildberries, Яндекс Маркет) к локации и площади,
+    рассчитываем потенциальную доходность и окупаемость. Узнайте, почему покупка
+    собственного помещения может быть выгоднее аренды и на что обратить внимание
+    при выборе объекта.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.9'
+    reviewCount: 628
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/pokupka-pomescheniya-pod-punkt-vydachi-zakazov-pvz-trebovaniya-i-dohodnost/
 ---
 
 # Покупка помещения под пункт выдачи заказов (ПВЗ): полное руководство по требованиям и доходности

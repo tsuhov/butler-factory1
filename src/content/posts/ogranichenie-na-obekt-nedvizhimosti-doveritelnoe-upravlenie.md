@@ -1,10 +1,51 @@
 ---
-title: "Доверительное управление как обременение недвижимости: что нужно знать собственнику?"
-description: "Передача квартиры в доверительное управление — это не только эффективный способ получения дохода, но и официальное обременение, регистрируемое в Росреестре. В новой статье блога ButlerSPB подробно разбираем, что означает этот статус для владельца, какие ограничения он накладывает, как защищает интересы сторон и почему это является важным юридическим аспектом при управлении вашими активами в Санкт-Петербурге."
-pubDate: "2025-07-22T00:03:57.417Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Доверительное управление как обременение недвижимости: что нужно знать собственнику?","description":"Передача квартиры в доверительное управление — это не только эффективный способ получения дохода, но и официальное обременение, регистрируемое в Росреестре. В новой статье блога ButlerSPB подробно разбираем, что означает этот статус для владельца, какие ограничения он накладывает, как защищает интересы сторон и почему это является важным юридическим аспектом при управлении вашими активами в Санкт-Петербурге.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":453,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/ogranichenie-na-obekt-nedvizhimosti-doveritelnoe-upravlenie/"}}
+title: >-
+  Доверительное управление как обременение недвижимости: что нужно знать
+  собственнику?
+description: >-
+  Передача квартиры в доверительное управление — это не только эффективный
+  способ получения дохода, но и официальное обременение, регистрируемое в
+  Росреестре. В новой статье блога ButlerSPB подробно разбираем, что означает
+  этот статус для владельца, какие ограничения он накладывает, как защищает
+  интересы сторон и почему это является важным юридическим аспектом при
+  управлении вашими активами в Санкт-Петербурге.
+pubDate: '2025-07-22T00:03:57.417Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: >-
+    Доверительное управление как обременение недвижимости: что нужно знать
+    собственнику?
+  description: >-
+    Передача квартиры в доверительное управление — это не только эффективный
+    способ получения дохода, но и официальное обременение, регистрируемое в
+    Росреестре. В новой статье блога ButlerSPB подробно разбираем, что означает
+    этот статус для владельца, какие ограничения он накладывает, как защищает
+    интересы сторон и почему это является важным юридическим аспектом при
+    управлении вашими активами в Санкт-Петербурге.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.8'
+    reviewCount: 459
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/ogranichenie-na-obekt-nedvizhimosti-doveritelnoe-upravlenie/
 ---
 
 # Доверительное управление как обременение недвижимости: полное руководство для собственника от ButlerSPB

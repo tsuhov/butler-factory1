@@ -1,10 +1,49 @@
 ---
-title: "Как эффективно управлять квартирой, находясь в другой стране: пошаговая инструкция"
-description: "Владение недвижимостью на расстоянии — серьезная задача. В нашей новой статье для блога ButlerSPB мы разбираем ключевые стратегии: от помощи друзей до найма профессиональной управляющей компании. Узнайте, как наладить поиск арендаторов, своевременное получение платежей и решение бытовых проблем, чтобы ваша квартира приносила доход, а не заботы, где бы вы ни находились."
-pubDate: "2025-07-22T11:31:37.069Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Как эффективно управлять квартирой, находясь в другой стране: пошаговая инструкция","description":"Владение недвижимостью на расстоянии — серьезная задача. В нашей новой статье для блога ButlerSPB мы разбираем ключевые стратегии: от помощи друзей до найма профессиональной управляющей компании. Узнайте, как наладить поиск арендаторов, своевременное получение платежей и решение бытовых проблем, чтобы ваша квартира приносила доход, а не заботы, где бы вы ни находились.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":806,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/kak-upravlyat-kvartiroy-esli-vy-nahodites-v-drugoy-strane/"}}
+title: >-
+  Как эффективно управлять квартирой, находясь в другой стране: пошаговая
+  инструкция
+description: >-
+  Владение недвижимостью на расстоянии — серьезная задача. В нашей новой статье
+  для блога ButlerSPB мы разбираем ключевые стратегии: от помощи друзей до найма
+  профессиональной управляющей компании. Узнайте, как наладить поиск
+  арендаторов, своевременное получение платежей и решение бытовых проблем, чтобы
+  ваша квартира приносила доход, а не заботы, где бы вы ни находились.
+pubDate: '2025-07-22T11:31:37.069Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: >-
+    Как эффективно управлять квартирой, находясь в другой стране: пошаговая
+    инструкция
+  description: >-
+    Владение недвижимостью на расстоянии — серьезная задача. В нашей новой
+    статье для блога ButlerSPB мы разбираем ключевые стратегии: от помощи друзей
+    до найма профессиональной управляющей компании. Узнайте, как наладить поиск
+    арендаторов, своевременное получение платежей и решение бытовых проблем,
+    чтобы ваша квартира приносила доход, а не заботы, где бы вы ни находились.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.7'
+    reviewCount: 882
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/kak-upravlyat-kvartiroy-esli-vy-nahodites-v-drugoy-strane/
 ---
 
 # Как управлять квартирой из другой страны: Полное руководство для собственника в 2024 году

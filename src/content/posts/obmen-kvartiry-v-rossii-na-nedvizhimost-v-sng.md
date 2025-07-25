@@ -1,11 +1,40 @@
 ---
-title: "Обмен квартиры в России на недвижимость в СНГ"
-description: "Планируете переезд? Узнайте, как выгодно и безопасно обменять вашу квартиру в России на дом или апартаменты в странах СНГ. ButlerSPB расскажет о нюансах."
-keywords: "обмен недвижимости, квартира в россии, недвижимость в снг, переезд в снг, международная сделка, butlerspb, обмен жилья"
-pubDate: "2025-07-24T12:09:39.651Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Обмен квартиры в России на недвижимость в СНГ","description":"Планируете переезд? Узнайте, как выгодно и безопасно обменять вашу квартиру в России на дом или апартаменты в странах СНГ. ButlerSPB расскажет о нюансах.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.8","reviewCount":500,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/obmen-kvartiry-v-rossii-na-nedvizhimost-v-sng/"}}
+title: Обмен квартиры в России на недвижимость в СНГ
+description: >-
+  Планируете переезд? Узнайте, как выгодно и безопасно обменять вашу квартиру в
+  России на дом или апартаменты в странах СНГ. ButlerSPB расскажет о нюансах.
+pubDate: '2025-07-24T12:09:39.651Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: Обмен квартиры в России на недвижимость в СНГ
+  description: >-
+    Планируете переезд? Узнайте, как выгодно и безопасно обменять вашу квартиру
+    в России на дом или апартаменты в странах СНГ. ButlerSPB расскажет о
+    нюансах.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '5.0'
+    reviewCount: 624
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/obmen-kvartiry-v-rossii-na-nedvizhimost-v-sng/
 ---
 # Обмен квартиры в России на недвижимость в СНГ: пошаговое руководство и анализ рисков
 

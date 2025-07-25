@@ -1,10 +1,51 @@
 ---
-title: "Расторжение договора аренды по инициативе собственника: пошаговая инструкция и юридические нюансы"
-description: "Собственник недвижимости имеет право досрочно расторгнуть договор аренды, но для этого нужны веские основания и строгое соблюдение процедуры. В новой статье блога ButlerSPB мы подробно разбираем, какие причины для расторжения договора считаются законными, как правильно составить и направить уведомление арендатору, и какие ошибки могут привести к судебным разбирательствам. Пошаговая инструкция для защиты ваших прав и интересов."
-pubDate: "2025-07-23T16:41:27.803Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Расторжение договора аренды по инициативе собственника: пошаговая инструкция и юридические нюансы","description":"Собственник недвижимости имеет право досрочно расторгнуть договор аренды, но для этого нужны веские основания и строгое соблюдение процедуры. В новой статье блога ButlerSPB мы подробно разбираем, какие причины для расторжения договора считаются законными, как правильно составить и направить уведомление арендатору, и какие ошибки могут привести к судебным разбирательствам. Пошаговая инструкция для защиты ваших прав и интересов.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.8","reviewCount":605,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/kak-oformit-rastorzhenie-dogovora-arendy-po-iniciative-sobstvennika/"}}
+title: >-
+  Расторжение договора аренды по инициативе собственника: пошаговая инструкция и
+  юридические нюансы
+description: >-
+  Собственник недвижимости имеет право досрочно расторгнуть договор аренды, но
+  для этого нужны веские основания и строгое соблюдение процедуры. В новой
+  статье блога ButlerSPB мы подробно разбираем, какие причины для расторжения
+  договора считаются законными, как правильно составить и направить уведомление
+  арендатору, и какие ошибки могут привести к судебным разбирательствам.
+  Пошаговая инструкция для защиты ваших прав и интересов.
+pubDate: '2025-07-23T16:41:27.803Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: >-
+    Расторжение договора аренды по инициативе собственника: пошаговая инструкция
+    и юридические нюансы
+  description: >-
+    Собственник недвижимости имеет право досрочно расторгнуть договор аренды, но
+    для этого нужны веские основания и строгое соблюдение процедуры. В новой
+    статье блога ButlerSPB мы подробно разбираем, какие причины для расторжения
+    договора считаются законными, как правильно составить и направить
+    уведомление арендатору, и какие ошибки могут привести к судебным
+    разбирательствам. Пошаговая инструкция для защиты ваших прав и интересов.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.9'
+    reviewCount: 808
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/kak-oformit-rastorzhenie-dogovora-arendy-po-iniciative-sobstvennika/
 ---
 
 # Расторжение договора аренды по инициативе собственника

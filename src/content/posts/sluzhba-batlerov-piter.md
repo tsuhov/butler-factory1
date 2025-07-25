@@ -1,11 +1,39 @@
 ---
-title: "ButlerSPB: элитная служба батлеров в Питере"
-description: "Откройте для себя мир безупречного сервиса с ButlerSPB. Наши профессиональные батлеры в Санкт-Петербурге готовы взять на себя все заботы о вашем комфорте."
-keywords: "батлер спб, служба батлеров, дворецкий питер, личный помощник, консьерж сервис, элитный сервис, ButlerSPB"
-pubDate: "2025-07-24T13:04:50.257Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"ButlerSPB: элитная служба батлеров в Питере","description":"Откройте для себя мир безупречного сервиса с ButlerSPB. Наши профессиональные батлеры в Санкт-Петербурге готовы взять на себя все заботы о вашем комфорте.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":418,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/sluzhba-batlerov-piter/"}}
+title: 'ButlerSPB: элитная служба батлеров в Питере'
+description: >-
+  Откройте для себя мир безупречного сервиса с ButlerSPB. Наши профессиональные
+  батлеры в Санкт-Петербурге готовы взять на себя все заботы о вашем комфорте.
+pubDate: '2025-07-24T13:04:50.257Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'ButlerSPB: элитная служба батлеров в Питере'
+  description: >-
+    Откройте для себя мир безупречного сервиса с ButlerSPB. Наши
+    профессиональные батлеры в Санкт-Петербурге готовы взять на себя все заботы
+    о вашем комфорте.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.9'
+    reviewCount: 860
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': 'https://butlerspb-blog.netlify.app/blog/sluzhba-batlerov-piter/'
 ---
 # Служба батлеров в Санкт-Петербурге: Больше, чем просто дворецкий
 

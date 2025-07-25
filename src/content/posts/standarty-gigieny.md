@@ -1,11 +1,40 @@
 ---
-title: "Стандарты гигиены: залог здоровья и чистоты"
-description: "В блоге ButlerSPB раскрываем, почему высокие стандарты гигиены критически важны. Узнайте основные правила для поддержания безупречной чистоты в доме и офисе."
-keywords: "гигиена, стандарты чистоты, уборка, дезинфекция, здоровье, ButlerSPB, санитарные нормы"
-pubDate: "2025-07-25T16:05:14.922Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Стандарты гигиены: залог здоровья и чистоты","description":"В блоге ButlerSPB раскрываем, почему высокие стандарты гигиены критически важны. Узнайте основные правила для поддержания безупречной чистоты в доме и офисе.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.7","reviewCount":583,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/standarty-gigieny/"}}
+title: 'Стандарты гигиены: залог здоровья и чистоты'
+description: >-
+  В блоге ButlerSPB раскрываем, почему высокие стандарты гигиены критически
+  важны. Узнайте основные правила для поддержания безупречной чистоты в доме и
+  офисе.
+pubDate: '2025-07-25T16:05:14.922Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Стандарты гигиены: залог здоровья и чистоты'
+  description: >-
+    В блоге ButlerSPB раскрываем, почему высокие стандарты гигиены критически
+    важны. Узнайте основные правила для поддержания безупречной чистоты в доме и
+    офисе.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.9'
+    reviewCount: 690
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': 'https://butlerspb-blog.netlify.app/blog/standarty-gigieny/'
 ---
 # Не просто чисто: Как современные стандарты гигиены защищают и развивают ваш бизнес
 

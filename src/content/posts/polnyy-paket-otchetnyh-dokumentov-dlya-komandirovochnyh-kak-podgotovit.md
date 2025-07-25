@@ -1,10 +1,47 @@
 ---
-title: "Полный пакет отчетных документов для командировочных: как подготовить"
-description: "Командировка прошла успешно, но впереди самый ответственный этап — отчет перед бухгалтерией. Чтобы возместить все расходы и избежать лишних вопросов, важно собрать полный и корректный пакет документов. В новой статье блога ButlerSPB разбираемся, какие чеки, билеты и акты нужны для авансового отчета, как правильно оформить документы за проживание и что делать, если какой-то из них утерян. Готовьтесь к командировке без стресса вместе с нами!"
-pubDate: "2025-07-22T11:00:03.891Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Полный пакет отчетных документов для командировочных: как подготовить","description":"Командировка прошла успешно, но впереди самый ответственный этап — отчет перед бухгалтерией. Чтобы возместить все расходы и избежать лишних вопросов, важно собрать полный и корректный пакет документов. В новой статье блога ButlerSPB разбираемся, какие чеки, билеты и акты нужны для авансового отчета, как правильно оформить документы за проживание и что делать, если какой-то из них утерян. Готовьтесь к командировке без стресса вместе с нами!","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"5.0","reviewCount":650,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/polnyy-paket-otchetnyh-dokumentov-dlya-komandirovochnyh-kak-podgotovit/"}}
+title: 'Полный пакет отчетных документов для командировочных: как подготовить'
+description: >-
+  Командировка прошла успешно, но впереди самый ответственный этап — отчет перед
+  бухгалтерией. Чтобы возместить все расходы и избежать лишних вопросов, важно
+  собрать полный и корректный пакет документов. В новой статье блога ButlerSPB
+  разбираемся, какие чеки, билеты и акты нужны для авансового отчета, как
+  правильно оформить документы за проживание и что делать, если какой-то из них
+  утерян. Готовьтесь к командировке без стресса вместе с нами!
+pubDate: '2025-07-22T11:00:03.891Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Полный пакет отчетных документов для командировочных: как подготовить'
+  description: >-
+    Командировка прошла успешно, но впереди самый ответственный этап — отчет
+    перед бухгалтерией. Чтобы возместить все расходы и избежать лишних вопросов,
+    важно собрать полный и корректный пакет документов. В новой статье блога
+    ButlerSPB разбираемся, какие чеки, билеты и акты нужны для авансового
+    отчета, как правильно оформить документы за проживание и что делать, если
+    какой-то из них утерян. Готовьтесь к командировке без стресса вместе с нами!
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.7'
+    reviewCount: 633
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/polnyy-paket-otchetnyh-dokumentov-dlya-komandirovochnyh-kak-podgotovit/
 ---
 
 # Полный пакет отчетных документов для командировочных: пошаговая инструкция и чек-лист 2024

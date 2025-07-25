@@ -1,11 +1,40 @@
 ---
-title: "Сдаем квартиру дороже: секреты хоумстейджинга"
-description: "Хоумстейджинг – это не просто уборка, а создание уюта, который привлекает жильцов. Рассказываем, как подготовить жилье к сдаче и получать больше прибыли."
-keywords: "хоумстейджинг, сдача квартиры, аренда, подготовка квартиры, найти арендатора, ButlerSPB"
-pubDate: "2025-07-25T15:52:13.339Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Сдаем квартиру дороже: секреты хоумстейджинга","description":"Хоумстейджинг – это не просто уборка, а создание уюта, который привлекает жильцов. Рассказываем, как подготовить жилье к сдаче и получать больше прибыли.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.8","reviewCount":394,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/houmsteydzhing-sdacha/"}}
+title: 'Сдаем квартиру дороже: секреты хоумстейджинга'
+description: >-
+  Хоумстейджинг – это не просто уборка, а создание уюта, который привлекает
+  жильцов. Рассказываем, как подготовить жилье к сдаче и получать больше
+  прибыли.
+pubDate: '2025-07-25T15:52:13.339Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Сдаем квартиру дороже: секреты хоумстейджинга'
+  description: >-
+    Хоумстейджинг – это не просто уборка, а создание уюта, который привлекает
+    жильцов. Рассказываем, как подготовить жилье к сдаче и получать больше
+    прибыли.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.8'
+    reviewCount: 456
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': 'https://butlerspb-blog.netlify.app/blog/houmsteydzhing-sdacha/'
 ---
 # Хоумстейджинг для сдачи в аренду: пошаговое руководство от ButlerSPB, как получать стабильный доход, а не головную боль
 

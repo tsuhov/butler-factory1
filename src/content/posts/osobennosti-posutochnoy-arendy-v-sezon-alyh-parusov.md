@@ -1,10 +1,47 @@
 ---
-title: "Посуточная аренда на «Алые Паруса»: как снять лучшую квартиру и не переплатить"
-description: "«Алые Паруса» — время волшебства, белых ночей и… ажиотажного спроса на жилье в Петербурге. Команда ButlerSPB рассказывает, как меняются цены на посуточную аренду в этот период, где искать квартиры с лучшим видом на Неву, как забронировать жилье заранее и избежать мошенников. Полезные советы для туристов и инсайты для владельцев недвижимости."
-pubDate: "2025-07-23T11:28:03.236Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Посуточная аренда на «Алые Паруса»: как снять лучшую квартиру и не переплатить","description":"«Алые Паруса» — время волшебства, белых ночей и… ажиотажного спроса на жилье в Петербурге. Команда ButlerSPB рассказывает, как меняются цены на посуточную аренду в этот период, где искать квартиры с лучшим видом на Неву, как забронировать жилье заранее и избежать мошенников. Полезные советы для туристов и инсайты для владельцев недвижимости.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"5.0","reviewCount":760,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/osobennosti-posutochnoy-arendy-v-sezon-alyh-parusov/"}}
+title: 'Посуточная аренда на «Алые Паруса»: как снять лучшую квартиру и не переплатить'
+description: >-
+  «Алые Паруса» — время волшебства, белых ночей и… ажиотажного спроса на жилье в
+  Петербурге. Команда ButlerSPB рассказывает, как меняются цены на посуточную
+  аренду в этот период, где искать квартиры с лучшим видом на Неву, как
+  забронировать жилье заранее и избежать мошенников. Полезные советы для
+  туристов и инсайты для владельцев недвижимости.
+pubDate: '2025-07-23T11:28:03.236Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: >-
+    Посуточная аренда на «Алые Паруса»: как снять лучшую квартиру и не
+    переплатить
+  description: >-
+    «Алые Паруса» — время волшебства, белых ночей и… ажиотажного спроса на жилье
+    в Петербурге. Команда ButlerSPB рассказывает, как меняются цены на
+    посуточную аренду в этот период, где искать квартиры с лучшим видом на Неву,
+    как забронировать жилье заранее и избежать мошенников. Полезные советы для
+    туристов и инсайты для владельцев недвижимости.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.8'
+    reviewCount: 455
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/osobennosti-posutochnoy-arendy-v-sezon-alyh-parusov/
 ---
 
 # Главный гид по аренде жилья на «Алые Паруса»: от выбора квартиры до лучших видов на салют

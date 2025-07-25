@@ -1,10 +1,45 @@
 ---
-title: "Разбор реальных кейсов: что делать, если гости затопили соседей"
-description: "Затопление соседей — один из главных страхов собственника, сдающего квартиру посуточно. В новой статье блога ButlerSPB на основе реальных случаев разбираем, кто несет ответственность, как правильно действовать в первые часы после происшествия и как минимизировать финансовые и репутационные потери. Пошаговая инструкция для владельцев недвижимости."
-pubDate: "2025-07-22T11:09:36.724Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Разбор реальных кейсов: что делать, если гости затопили соседей","description":"Затопление соседей — один из главных страхов собственника, сдающего квартиру посуточно. В новой статье блога ButlerSPB на основе реальных случаев разбираем, кто несет ответственность, как правильно действовать в первые часы после происшествия и как минимизировать финансовые и репутационные потери. Пошаговая инструкция для владельцев недвижимости.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.7","reviewCount":431,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/razbor-realnyh-keysov-chto-delat-esli-gosti-zatopili-sosedey/"}}
+title: 'Разбор реальных кейсов: что делать, если гости затопили соседей'
+description: >-
+  Затопление соседей — один из главных страхов собственника, сдающего квартиру
+  посуточно. В новой статье блога ButlerSPB на основе реальных случаев
+  разбираем, кто несет ответственность, как правильно действовать в первые часы
+  после происшествия и как минимизировать финансовые и репутационные потери.
+  Пошаговая инструкция для владельцев недвижимости.
+pubDate: '2025-07-22T11:09:36.724Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Разбор реальных кейсов: что делать, если гости затопили соседей'
+  description: >-
+    Затопление соседей — один из главных страхов собственника, сдающего квартиру
+    посуточно. В новой статье блога ButlerSPB на основе реальных случаев
+    разбираем, кто несет ответственность, как правильно действовать в первые
+    часы после происшествия и как минимизировать финансовые и репутационные
+    потери. Пошаговая инструкция для владельцев недвижимости.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.9'
+    reviewCount: 558
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/razbor-realnyh-keysov-chto-delat-esli-gosti-zatopili-sosedey/
 ---
 
 # Паника отменяется: что делать, если ваши гости затопили соседей. Разбор реальных кейсов от экспертов ButlerSPB

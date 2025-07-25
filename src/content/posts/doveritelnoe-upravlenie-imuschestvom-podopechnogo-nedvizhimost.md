@@ -1,10 +1,53 @@
 ---
-title: "Доверительное управление недвижимостью подопечного: инструкция для опекуна от ButlerSPB"
-description: "Управление недвижимостью подопечного — ответственная задача, требующая специальных знаний и разрешения органов опеки. В статье мы подробно разбираем, что такое доверительное управление имуществом недееспособного лица, как законно сдать его квартиру в аренду, какие документы для этого нужны и как этот процесс помогает защитить активы и получать стабильный доход в интересах подопечного. Эксперты ButlerSPB делятся пошаговым планом действий для опекунов."
-pubDate: "2025-07-22T00:08:20.138Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Доверительное управление недвижимостью подопечного: инструкция для опекуна от ButlerSPB","description":"Управление недвижимостью подопечного — ответственная задача, требующая специальных знаний и разрешения органов опеки. В статье мы подробно разбираем, что такое доверительное управление имуществом недееспособного лица, как законно сдать его квартиру в аренду, какие документы для этого нужны и как этот процесс помогает защитить активы и получать стабильный доход в интересах подопечного. Эксперты ButlerSPB делятся пошаговым планом действий для опекунов.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"5.0","reviewCount":768,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/doveritelnoe-upravlenie-imuschestvom-podopechnogo-nedvizhimost/"}}
+title: >-
+  Доверительное управление недвижимостью подопечного: инструкция для опекуна от
+  ButlerSPB
+description: >-
+  Управление недвижимостью подопечного — ответственная задача, требующая
+  специальных знаний и разрешения органов опеки. В статье мы подробно разбираем,
+  что такое доверительное управление имуществом недееспособного лица, как
+  законно сдать его квартиру в аренду, какие документы для этого нужны и как
+  этот процесс помогает защитить активы и получать стабильный доход в интересах
+  подопечного. Эксперты ButlerSPB делятся пошаговым планом действий для
+  опекунов.
+pubDate: '2025-07-22T00:08:20.138Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: >-
+    Доверительное управление недвижимостью подопечного: инструкция для опекуна
+    от ButlerSPB
+  description: >-
+    Управление недвижимостью подопечного — ответственная задача, требующая
+    специальных знаний и разрешения органов опеки. В статье мы подробно
+    разбираем, что такое доверительное управление имуществом недееспособного
+    лица, как законно сдать его квартиру в аренду, какие документы для этого
+    нужны и как этот процесс помогает защитить активы и получать стабильный
+    доход в интересах подопечного. Эксперты ButlerSPB делятся пошаговым планом
+    действий для опекунов.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.9'
+    reviewCount: 839
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/doveritelnoe-upravlenie-imuschestvom-podopechnogo-nedvizhimost/
 ---
 
 # Доверительное управление недвижимостью подопечного: Полное руководство для опекунов по сдаче квартиры в аренду

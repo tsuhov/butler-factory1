@@ -1,11 +1,39 @@
 ---
-title: "Трафик как фактор цены аренды стрит-ритейла"
-description: "Прямая корреляция между пешеходным потоком и ценой аренды стрит-ритейла. Как анализ трафика помогает инвесторам и арендаторам принимать верные решения."
-keywords: "стрит-ритейл, аренда, пешеходный трафик, коммерческая недвижимость, стоимость аренды, локация, ButlerSPB"
-pubDate: "2025-07-24T12:07:04.048Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Трафик как фактор цены аренды стрит-ритейла","description":"Прямая корреляция между пешеходным потоком и ценой аренды стрит-ритейла. Как анализ трафика помогает инвесторам и арендаторам принимать верные решения.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.8","reviewCount":650,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/vliyanie-peshehodnogo-trafika-na-stoimost-arendy-strit-riteyla/"}}
+title: Трафик как фактор цены аренды стрит-ритейла
+description: >-
+  Прямая корреляция между пешеходным потоком и ценой аренды стрит-ритейла. Как
+  анализ трафика помогает инвесторам и арендаторам принимать верные решения.
+pubDate: '2025-07-24T12:07:04.048Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: Трафик как фактор цены аренды стрит-ритейла
+  description: >-
+    Прямая корреляция между пешеходным потоком и ценой аренды стрит-ритейла. Как
+    анализ трафика помогает инвесторам и арендаторам принимать верные решения.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.8'
+    reviewCount: 414
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/vliyanie-peshehodnogo-trafika-na-stoimost-arendy-strit-riteyla/
 ---
 # Пешеходный трафик и стоимость аренды стрит-ритейла: Полное руководство для бизнеса в СПб
 

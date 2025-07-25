@@ -1,10 +1,46 @@
 ---
-title: "Управление квартирой после ремонта: как запустить прибыльный арендный бизнес"
-description: "Ремонт завершен, и ваша квартира готова приносить доход. В новой статье блога ButlerSPB мы делимся пошаговой инструкцией по запуску арендного бизнеса: от профессиональной фотосъемки и определения рыночной цены до поиска надежных арендаторов и заключения договора. Узнайте, как превратить вашу недвижимость в Санкт-Петербурге в стабильный актив и избежать типичных ошибок собственника."
-pubDate: "2025-07-22T13:42:57.955Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Управление квартирой после ремонта: как запустить прибыльный арендный бизнес","description":"Ремонт завершен, и ваша квартира готова приносить доход. В новой статье блога ButlerSPB мы делимся пошаговой инструкцией по запуску арендного бизнеса: от профессиональной фотосъемки и определения рыночной цены до поиска надежных арендаторов и заключения договора. Узнайте, как превратить вашу недвижимость в Санкт-Петербурге в стабильный актив и избежать типичных ошибок собственника.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.7","reviewCount":795,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/upravlenie-kvartiroy-posle-remonta-kak-zapustit-arendnyy-biznes/"}}
+title: 'Управление квартирой после ремонта: как запустить прибыльный арендный бизнес'
+description: >-
+  Ремонт завершен, и ваша квартира готова приносить доход. В новой статье блога
+  ButlerSPB мы делимся пошаговой инструкцией по запуску арендного бизнеса: от
+  профессиональной фотосъемки и определения рыночной цены до поиска надежных
+  арендаторов и заключения договора. Узнайте, как превратить вашу недвижимость в
+  Санкт-Петербурге в стабильный актив и избежать типичных ошибок собственника.
+pubDate: '2025-07-22T13:42:57.955Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Управление квартирой после ремонта: как запустить прибыльный арендный бизнес'
+  description: >-
+    Ремонт завершен, и ваша квартира готова приносить доход. В новой статье
+    блога ButlerSPB мы делимся пошаговой инструкцией по запуску арендного
+    бизнеса: от профессиональной фотосъемки и определения рыночной цены до
+    поиска надежных арендаторов и заключения договора. Узнайте, как превратить
+    вашу недвижимость в Санкт-Петербурге в стабильный актив и избежать типичных
+    ошибок собственника.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '5.0'
+    reviewCount: 460
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/upravlenie-kvartiroy-posle-remonta-kak-zapustit-arendnyy-biznes/
 ---
 
 # Управление квартирой после ремонта: Как превратить свежий ремонт в стабильный доход

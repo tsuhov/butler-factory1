@@ -1,10 +1,48 @@
 ---
-title: "Эскроу-счета при сделках с недвижимостью: как обеспечить 100% безопасность ваших денег"
-description: "В новой статье блога ButlerSPB подробно разбираем, что такое эскроу-счет и как он работает. Узнайте, почему это самый надежный способ расчетов при покупке квартиры как в новостройке, так и на вторичном рынке, и как банк выступает гарантом сохранности средств до момента регистрации права собственности."
-pubDate: "2025-07-23T11:45:19.100Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Эскроу-счета при сделках с недвижимостью: как обеспечить 100% безопасность ваших денег","description":"В новой статье блога ButlerSPB подробно разбираем, что такое эскроу-счет и как он работает. Узнайте, почему это самый надежный способ расчетов при покупке квартиры как в новостройке, так и на вторичном рынке, и как банк выступает гарантом сохранности средств до момента регистрации права собственности.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"5.0","reviewCount":438,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/chto-takoe-bezopasnye-raschety-cherez-eskrou-scheta-pri-sdelkah-s-nedvizhimostyu/"}}
+title: >-
+  Эскроу-счета при сделках с недвижимостью: как обеспечить 100% безопасность
+  ваших денег
+description: >-
+  В новой статье блога ButlerSPB подробно разбираем, что такое эскроу-счет и как
+  он работает. Узнайте, почему это самый надежный способ расчетов при покупке
+  квартиры как в новостройке, так и на вторичном рынке, и как банк выступает
+  гарантом сохранности средств до момента регистрации права собственности.
+pubDate: '2025-07-23T11:45:19.100Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: >-
+    Эскроу-счета при сделках с недвижимостью: как обеспечить 100% безопасность
+    ваших денег
+  description: >-
+    В новой статье блога ButlerSPB подробно разбираем, что такое эскроу-счет и
+    как он работает. Узнайте, почему это самый надежный способ расчетов при
+    покупке квартиры как в новостройке, так и на вторичном рынке, и как банк
+    выступает гарантом сохранности средств до момента регистрации права
+    собственности.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '5.0'
+    reviewCount: 358
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/chto-takoe-bezopasnye-raschety-cherez-eskrou-scheta-pri-sdelkah-s-nedvizhimostyu/
 ---
 
 # Эскроу-счета при сделках с недвижимостью: как защитить свои деньги на 100%

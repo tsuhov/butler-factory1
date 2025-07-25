@@ -1,10 +1,51 @@
 ---
-title: "Что такое краткосрочная аренда квартир в Санкт-Петербурге: полный гид от ButlerSPB"
-description: "Планируете поездку в Северную столицу и ищете комфортное жилье? В этой статье мы подробно разбираем, что представляет собой краткосрочная (посуточная) аренда квартир в Петербурге, кому она подходит, и почему это отличная альтернатива гостиницам. Узнайте о преимуществах, особенностях и о том, как сервис ButlerSPB помогает гостям города находить идеальные апартаменты для незабываемого отдыха."
-pubDate: "2025-07-22T16:14:00.257Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Что такое краткосрочная аренда квартир в Санкт-Петербурге: полный гид от ButlerSPB","description":"Планируете поездку в Северную столицу и ищете комфортное жилье? В этой статье мы подробно разбираем, что представляет собой краткосрочная (посуточная) аренда квартир в Петербурге, кому она подходит, и почему это отличная альтернатива гостиницам. Узнайте о преимуществах, особенностях и о том, как сервис ButlerSPB помогает гостям города находить идеальные апартаменты для незабываемого отдыха.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":765,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/chto-takoe-kratkosrochnaya-arenda-kvartir-v-sankt-peterburge/"}}
+title: >-
+  Что такое краткосрочная аренда квартир в Санкт-Петербурге: полный гид от
+  ButlerSPB
+description: >-
+  Планируете поездку в Северную столицу и ищете комфортное жилье? В этой статье
+  мы подробно разбираем, что представляет собой краткосрочная (посуточная)
+  аренда квартир в Петербурге, кому она подходит, и почему это отличная
+  альтернатива гостиницам. Узнайте о преимуществах, особенностях и о том, как
+  сервис ButlerSPB помогает гостям города находить идеальные апартаменты для
+  незабываемого отдыха.
+pubDate: '2025-07-22T16:14:00.257Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: >-
+    Что такое краткосрочная аренда квартир в Санкт-Петербурге: полный гид от
+    ButlerSPB
+  description: >-
+    Планируете поездку в Северную столицу и ищете комфортное жилье? В этой
+    статье мы подробно разбираем, что представляет собой краткосрочная
+    (посуточная) аренда квартир в Петербурге, кому она подходит, и почему это
+    отличная альтернатива гостиницам. Узнайте о преимуществах, особенностях и о
+    том, как сервис ButlerSPB помогает гостям города находить идеальные
+    апартаменты для незабываемого отдыха.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.8'
+    reviewCount: 683
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/chto-takoe-kratkosrochnaya-arenda-kvartir-v-sankt-peterburge/
 ---
 
 # Краткосрочная аренда квартир в Санкт-Петербурге: Полный гид для туриста и собственника

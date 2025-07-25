@@ -1,10 +1,47 @@
 ---
-title: "Сколько времени по закону дается на переезд при продаже квартиры"
-description: "Продажа квартиры – это не только подписание документов, но и физическое освобождение жилья. В блоге ButlerSPB разбираемся, существуют ли в законе четкие сроки для переезда продавца, как правильно зафиксировать дату освобождения квартиры в договоре купли-продажи и что делать, если бывший собственник не торопится съезжать. Узнайте, как защитить свои права и избежать конфликтов на финальном этапе сделки."
-pubDate: "2025-07-22T17:16:37.569Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Сколько времени по закону дается на переезд при продаже квартиры","description":"Продажа квартиры – это не только подписание документов, но и физическое освобождение жилья. В блоге ButlerSPB разбираемся, существуют ли в законе четкие сроки для переезда продавца, как правильно зафиксировать дату освобождения квартиры в договоре купли-продажи и что делать, если бывший собственник не торопится съезжать. Узнайте, как защитить свои права и избежать конфликтов на финальном этапе сделки.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.8","reviewCount":421,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/skolko-vremeni-po-zakonu-daetsya-na-pereezd-pri-prodazhe-kvartiry/"}}
+title: Сколько времени по закону дается на переезд при продаже квартиры
+description: >-
+  Продажа квартиры – это не только подписание документов, но и физическое
+  освобождение жилья. В блоге ButlerSPB разбираемся, существуют ли в законе
+  четкие сроки для переезда продавца, как правильно зафиксировать дату
+  освобождения квартиры в договоре купли-продажи и что делать, если бывший
+  собственник не торопится съезжать. Узнайте, как защитить свои права и избежать
+  конфликтов на финальном этапе сделки.
+pubDate: '2025-07-22T17:16:37.569Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: Сколько времени по закону дается на переезд при продаже квартиры
+  description: >-
+    Продажа квартиры – это не только подписание документов, но и физическое
+    освобождение жилья. В блоге ButlerSPB разбираемся, существуют ли в законе
+    четкие сроки для переезда продавца, как правильно зафиксировать дату
+    освобождения квартиры в договоре купли-продажи и что делать, если бывший
+    собственник не торопится съезжать. Узнайте, как защитить свои права и
+    избежать конфликтов на финальном этапе сделки.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.9'
+    reviewCount: 317
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/skolko-vremeni-po-zakonu-daetsya-na-pereezd-pri-prodazhe-kvartiry/
 ---
 
 # Сколько времени по закону дается на переезд при продаже квартиры?

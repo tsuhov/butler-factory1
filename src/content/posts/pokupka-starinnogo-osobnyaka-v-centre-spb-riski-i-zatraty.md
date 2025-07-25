@@ -1,10 +1,47 @@
 ---
-title: "Покупка старинного особняка в центре СПб: риски и затраты"
-description: "Мечта о собственном особняке в историческом центре Петербурга может стать реальностью, но таит в себе множество подводных камней. В новой статье блога ButlerSPB мы подробно разбираем все аспекты такой покупки: от реальной стоимости реставрации под надзором КГИОП до юридических сложностей с объектами культурного наследия. Узнайте, какие скрытые расходы вас ждут и как оценить все риски перед заключением сделки."
-pubDate: "2025-07-23T12:02:30.256Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Покупка старинного особняка в центре СПб: риски и затраты","description":"Мечта о собственном особняке в историческом центре Петербурга может стать реальностью, но таит в себе множество подводных камней. В новой статье блога ButlerSPB мы подробно разбираем все аспекты такой покупки: от реальной стоимости реставрации под надзором КГИОП до юридических сложностей с объектами культурного наследия. Узнайте, какие скрытые расходы вас ждут и как оценить все риски перед заключением сделки.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":749,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/pokupka-starinnogo-osobnyaka-v-centre-spb-riski-i-zatraty/"}}
+title: 'Покупка старинного особняка в центре СПб: риски и затраты'
+description: >-
+  Мечта о собственном особняке в историческом центре Петербурга может стать
+  реальностью, но таит в себе множество подводных камней. В новой статье блога
+  ButlerSPB мы подробно разбираем все аспекты такой покупки: от реальной
+  стоимости реставрации под надзором КГИОП до юридических сложностей с объектами
+  культурного наследия. Узнайте, какие скрытые расходы вас ждут и как оценить
+  все риски перед заключением сделки.
+pubDate: '2025-07-23T12:02:30.256Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Покупка старинного особняка в центре СПб: риски и затраты'
+  description: >-
+    Мечта о собственном особняке в историческом центре Петербурга может стать
+    реальностью, но таит в себе множество подводных камней. В новой статье блога
+    ButlerSPB мы подробно разбираем все аспекты такой покупки: от реальной
+    стоимости реставрации под надзором КГИОП до юридических сложностей с
+    объектами культурного наследия. Узнайте, какие скрытые расходы вас ждут и
+    как оценить все риски перед заключением сделки.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.9'
+    reviewCount: 531
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/pokupka-starinnogo-osobnyaka-v-centre-spb-riski-i-zatraty/
 ---
 
 # Владеть историей: Мечта о старинном особняке в Петербурге и ее реальная цена

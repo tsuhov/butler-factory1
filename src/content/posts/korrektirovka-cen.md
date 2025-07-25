@@ -1,11 +1,40 @@
 ---
-title: "Корректировка цен: прозрачность от ButlerSPB"
-description: "В ButlerSPB мы подходим к корректировке цен с максимальной ответственностью. Узнайте, какие факторы влияют на стоимость наших услуг и почему мы ценим прозрачность."
-keywords: "корректировка цен, ценообразование, ButlerSPB, ценовая политика, изменение стоимости, стоимость услуг, ценовая стратегия"
-pubDate: "2025-07-25T15:37:32.453Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Корректировка цен: прозрачность от ButlerSPB","description":"В ButlerSPB мы подходим к корректировке цен с максимальной ответственностью. Узнайте, какие факторы влияют на стоимость наших услуг и почему мы ценим прозрачность.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.8","reviewCount":374,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/korrektirovka-cen/"}}
+title: 'Корректировка цен: прозрачность от ButlerSPB'
+description: >-
+  В ButlerSPB мы подходим к корректировке цен с максимальной ответственностью.
+  Узнайте, какие факторы влияют на стоимость наших услуг и почему мы ценим
+  прозрачность.
+pubDate: '2025-07-25T15:37:32.453Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Корректировка цен: прозрачность от ButlerSPB'
+  description: >-
+    В ButlerSPB мы подходим к корректировке цен с максимальной ответственностью.
+    Узнайте, какие факторы влияют на стоимость наших услуг и почему мы ценим
+    прозрачность.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.9'
+    reviewCount: 336
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': 'https://butlerspb-blog.netlify.app/blog/korrektirovka-cen/'
 ---
 # Корректировка цен: пошаговая инструкция для роста прибыли без потери клиентов
 

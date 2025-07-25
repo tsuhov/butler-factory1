@@ -1,10 +1,51 @@
 ---
-title: "Как продать долю в бизнесе с коммерческой недвижимостью: пошаговое руководство от ButlerSPB"
-description: "Продажа доли в бизнесе — это не просто сделка с недвижимостью, а сложный процесс с множеством юридических и финансовых нюансов. В нашей статье мы подробно разбираем ключевые этапы: от оценки стоимости доли и подготовки документов до поиска покупателя и оформления договора. Узнайте, как защитить свои интересы и провести сделку максимально выгодно вместе с экспертами ButlerSPB."
-pubDate: "2025-07-23T13:43:07.500Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Как продать долю в бизнесе с коммерческой недвижимостью: пошаговое руководство от ButlerSPB","description":"Продажа доли в бизнесе — это не просто сделка с недвижимостью, а сложный процесс с множеством юридических и финансовых нюансов. В нашей статье мы подробно разбираем ключевые этапы: от оценки стоимости доли и подготовки документов до поиска покупателя и оформления договора. Узнайте, как защитить свои интересы и провести сделку максимально выгодно вместе с экспертами ButlerSPB.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.8","reviewCount":365,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/prodazha-doli-v-biznese-kommercheskoy-nedvizhimosti/"}}
+title: >-
+  Как продать долю в бизнесе с коммерческой недвижимостью: пошаговое руководство
+  от ButlerSPB
+description: >-
+  Продажа доли в бизнесе — это не просто сделка с недвижимостью, а сложный
+  процесс с множеством юридических и финансовых нюансов. В нашей статье мы
+  подробно разбираем ключевые этапы: от оценки стоимости доли и подготовки
+  документов до поиска покупателя и оформления договора. Узнайте, как защитить
+  свои интересы и провести сделку максимально выгодно вместе с экспертами
+  ButlerSPB.
+pubDate: '2025-07-23T13:43:07.500Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: >-
+    Как продать долю в бизнесе с коммерческой недвижимостью: пошаговое
+    руководство от ButlerSPB
+  description: >-
+    Продажа доли в бизнесе — это не просто сделка с недвижимостью, а сложный
+    процесс с множеством юридических и финансовых нюансов. В нашей статье мы
+    подробно разбираем ключевые этапы: от оценки стоимости доли и подготовки
+    документов до поиска покупателя и оформления договора. Узнайте, как защитить
+    свои интересы и провести сделку максимально выгодно вместе с экспертами
+    ButlerSPB.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.8'
+    reviewCount: 669
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/prodazha-doli-v-biznese-kommercheskoy-nedvizhimosti/
 ---
 
 # Как продать долю в ООО с недвижимостью в Санкт-Петербурге: пошаговая инструкция и юридические тонкости

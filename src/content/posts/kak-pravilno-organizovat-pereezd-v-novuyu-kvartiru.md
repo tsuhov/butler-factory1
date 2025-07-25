@@ -1,10 +1,50 @@
 ---
-title: "Как правильно организовать переезд в новую квартиру: пошаговый чек-лист от ButlerSPB"
-description: "Переезд — это начало новой главы, и мы поможем сделать его максимально комфортным. В нашей статье вы найдете полный чек-лист: от планирования и избавления от ненужных вещей за месяц до переезда, до правильной упаковки, выбора транспортной компании и уборки старой и новой квартир. Следуйте нашим советам, чтобы ваш переезд прошел гладко, организованно и без лишнего стресса."
-pubDate: "2025-07-22T11:42:04.682Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Как правильно организовать переезд в новую квартиру: пошаговый чек-лист от ButlerSPB","description":"Переезд — это начало новой главы, и мы поможем сделать его максимально комфортным. В нашей статье вы найдете полный чек-лист: от планирования и избавления от ненужных вещей за месяц до переезда, до правильной упаковки, выбора транспортной компании и уборки старой и новой квартир. Следуйте нашим советам, чтобы ваш переезд прошел гладко, организованно и без лишнего стресса.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":433,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/kak-pravilno-organizovat-pereezd-v-novuyu-kvartiru/"}}
+title: >-
+  Как правильно организовать переезд в новую квартиру: пошаговый чек-лист от
+  ButlerSPB
+description: >-
+  Переезд — это начало новой главы, и мы поможем сделать его максимально
+  комфортным. В нашей статье вы найдете полный чек-лист: от планирования и
+  избавления от ненужных вещей за месяц до переезда, до правильной упаковки,
+  выбора транспортной компании и уборки старой и новой квартир. Следуйте нашим
+  советам, чтобы ваш переезд прошел гладко, организованно и без лишнего стресса.
+pubDate: '2025-07-22T11:42:04.682Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: >-
+    Как правильно организовать переезд в новую квартиру: пошаговый чек-лист от
+    ButlerSPB
+  description: >-
+    Переезд — это начало новой главы, и мы поможем сделать его максимально
+    комфортным. В нашей статье вы найдете полный чек-лист: от планирования и
+    избавления от ненужных вещей за месяц до переезда, до правильной упаковки,
+    выбора транспортной компании и уборки старой и новой квартир. Следуйте нашим
+    советам, чтобы ваш переезд прошел гладко, организованно и без лишнего
+    стресса.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.9'
+    reviewCount: 898
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/kak-pravilno-organizovat-pereezd-v-novuyu-kvartiru/
 ---
 
 # Как организовать переезд в новую квартиру: пошаговый план от экспертов ButlerSPB

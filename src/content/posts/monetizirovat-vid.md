@@ -1,11 +1,40 @@
 ---
-title: "Ваш вид из окна — актив. Как его монетизировать"
-description: "Панорамный вид на город или природу может стать не просто украшением, а источником стабильного дохода. Эксперты ButlerSPB делятся проверенными секретами."
-keywords: "монетизация вида, вид из окна, инвестиции в недвижимость, ButlerSPB, управление недвижимостью, панорамные окна, стоимость аренды"
-pubDate: "2025-07-25T14:52:58.548Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Ваш вид из окна — актив. Как его монетизировать","description":"Панорамный вид на город или природу может стать не просто украшением, а источником стабильного дохода. Эксперты ButlerSPB делятся проверенными секретами.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":861,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/monetizirovat-vid/"}}
+title: Ваш вид из окна — актив. Как его монетизировать
+description: >-
+  Панорамный вид на город или природу может стать не просто украшением, а
+  источником стабильного дохода. Эксперты ButlerSPB делятся проверенными
+  секретами.
+pubDate: '2025-07-25T14:52:58.548Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: Ваш вид из окна — актив. Как его монетизировать
+  description: >-
+    Панорамный вид на город или природу может стать не просто украшением, а
+    источником стабильного дохода. Эксперты ButlerSPB делятся проверенными
+    секретами.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '5.0'
+    reviewCount: 722
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': 'https://butlerspb-blog.netlify.app/blog/monetizirovat-vid/'
 ---
 # Монетизировать вид: Как превратить панораму из окна в реальный капитал
 

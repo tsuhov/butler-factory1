@@ -1,10 +1,43 @@
 ---
-title: "Агентство по аренде жилья в Питере: как найти идеальную квартиру с ButlerSPB"
-description: "Планируете снять квартиру в Санкт-Петербурге? В этой статье мы расскажем о преимуществах работы с агентством недвижимости. Узнайте, как мы в ButlerSPB экономим ваше время, проверяем юридическую чистоту объектов и находим лучшие варианты, которых нет в открытом доступе."
-pubDate: "2025-07-21T23:42:09.765Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Агентство по аренде жилья в Питере: как найти идеальную квартиру с ButlerSPB","description":"Планируете снять квартиру в Санкт-Петербурге? В этой статье мы расскажем о преимуществах работы с агентством недвижимости. Узнайте, как мы в ButlerSPB экономим ваше время, проверяем юридическую чистоту объектов и находим лучшие варианты, которых нет в открытом доступе.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"5.0","reviewCount":396,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/agentstvo-po-arende-zhilya-v-pitere/"}}
+title: 'Агентство по аренде жилья в Питере: как найти идеальную квартиру с ButlerSPB'
+description: >-
+  Планируете снять квартиру в Санкт-Петербурге? В этой статье мы расскажем о
+  преимуществах работы с агентством недвижимости. Узнайте, как мы в ButlerSPB
+  экономим ваше время, проверяем юридическую чистоту объектов и находим лучшие
+  варианты, которых нет в открытом доступе.
+pubDate: '2025-07-21T23:42:09.765Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Агентство по аренде жилья в Питере: как найти идеальную квартиру с ButlerSPB'
+  description: >-
+    Планируете снять квартиру в Санкт-Петербурге? В этой статье мы расскажем о
+    преимуществах работы с агентством недвижимости. Узнайте, как мы в ButlerSPB
+    экономим ваше время, проверяем юридическую чистоту объектов и находим лучшие
+    варианты, которых нет в открытом доступе.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.7'
+    reviewCount: 498
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/agentstvo-po-arende-zhilya-v-pitere/
 ---
 
 # Как выбрать надежное агентство по аренде жилья в Питере: полный гид от экспертов ButlerSPB

@@ -1,10 +1,47 @@
 ---
-title: "Права и обязанности доверительного управляющего: полный гайд от ButlerSPB"
-description: "Доверительный управляющий — ключевая фигура, от которой зависит сохранность и доходность вашего имущества. В нашей новой статье мы подробно разбираем, какие полномочия дает договор доверительного управления, а какие строгие обязательства накладывает. Узнайте, что вы вправе требовать от своего управляющего, за что он несет ответственность, и как защитить свои интересы при заключении договора."
-pubDate: "2025-07-22T11:33:55.153Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Права и обязанности доверительного управляющего: полный гайд от ButlerSPB","description":"Доверительный управляющий — ключевая фигура, от которой зависит сохранность и доходность вашего имущества. В нашей новой статье мы подробно разбираем, какие полномочия дает договор доверительного управления, а какие строгие обязательства накладывает. Узнайте, что вы вправе требовать от своего управляющего, за что он несет ответственность, и как защитить свои интересы при заключении договора.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"5.0","reviewCount":669,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/prava-i-obyazannosti-doveritelnogo-upravlyayuschego/"}}
+title: 'Права и обязанности доверительного управляющего: полный гайд от ButlerSPB'
+description: >-
+  Доверительный управляющий — ключевая фигура, от которой зависит сохранность и
+  доходность вашего имущества. В нашей новой статье мы подробно разбираем, какие
+  полномочия дает договор доверительного управления, а какие строгие
+  обязательства накладывает. Узнайте, что вы вправе требовать от своего
+  управляющего, за что он несет ответственность, и как защитить свои интересы
+  при заключении договора.
+pubDate: '2025-07-22T11:33:55.153Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Права и обязанности доверительного управляющего: полный гайд от ButlerSPB'
+  description: >-
+    Доверительный управляющий — ключевая фигура, от которой зависит сохранность
+    и доходность вашего имущества. В нашей новой статье мы подробно разбираем,
+    какие полномочия дает договор доверительного управления, а какие строгие
+    обязательства накладывает. Узнайте, что вы вправе требовать от своего
+    управляющего, за что он несет ответственность, и как защитить свои интересы
+    при заключении договора.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.8'
+    reviewCount: 881
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/prava-i-obyazannosti-doveritelnogo-upravlyayuschego/
 ---
 
 # Права и обязанности доверительного управляющего: полное руководство для собственника недвижимости

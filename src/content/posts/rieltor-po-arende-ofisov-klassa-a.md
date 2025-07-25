@@ -1,11 +1,40 @@
 ---
-title: "Риэлтор по аренде офисов класса А от ButlerSPB"
-description: "Ищете офис класса А в аренду? Наш риэлтор подберет лучшее помещение в престижных бизнес-центрах Санкт-Петербурга. Полное сопровождение сделки от ButlerSPB."
-keywords: "аренда офиса класс А, риэлтор по коммерческой недвижимости, офис в спб, ButlerSPB, элитная недвижимость, снять офис в бизнес-центре"
-pubDate: "2025-07-24T12:09:00.662Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Риэлтор по аренде офисов класса А от ButlerSPB","description":"Ищете офис класса А в аренду? Наш риэлтор подберет лучшее помещение в престижных бизнес-центрах Санкт-Петербурга. Полное сопровождение сделки от ButlerSPB.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":377,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/rieltor-po-arende-ofisov-klassa-a/"}}
+title: Риэлтор по аренде офисов класса А от ButlerSPB
+description: >-
+  Ищете офис класса А в аренду? Наш риэлтор подберет лучшее помещение в
+  престижных бизнес-центрах Санкт-Петербурга. Полное сопровождение сделки от
+  ButlerSPB.
+pubDate: '2025-07-24T12:09:00.662Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: Риэлтор по аренде офисов класса А от ButlerSPB
+  description: >-
+    Ищете офис класса А в аренду? Наш риэлтор подберет лучшее помещение в
+    престижных бизнес-центрах Санкт-Петербурга. Полное сопровождение сделки от
+    ButlerSPB.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '5.0'
+    reviewCount: 490
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': 'https://butlerspb-blog.netlify.app/blog/rieltor-po-arende-ofisov-klassa-a/'
 ---
 # Почему для аренды офиса класса "А" вам нужен не просто риэлтор, а специализированный эксперт?
 

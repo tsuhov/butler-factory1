@@ -1,11 +1,38 @@
 ---
-title: "ButlerSPB: надежная поддержка в любой ситуации"
-description: "В ButlerSPB мы верим, что настоящая надежная поддержка — это основа доверия. Наша команда готова оперативно решить любой вопрос и оказать помощь 24/7."
-keywords: "надежная поддержка, ButlerSPB, поддержка клиентов, сервис 24/7, решение проблем, помощь клиентам"
-pubDate: "2025-07-24T13:44:07.514Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"ButlerSPB: надежная поддержка в любой ситуации","description":"В ButlerSPB мы верим, что настоящая надежная поддержка — это основа доверия. Наша команда готова оперативно решить любой вопрос и оказать помощь 24/7.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.8","reviewCount":488,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/nadezhnaya-podderzhka/"}}
+title: 'ButlerSPB: надежная поддержка в любой ситуации'
+description: >-
+  В ButlerSPB мы верим, что настоящая надежная поддержка — это основа доверия.
+  Наша команда готова оперативно решить любой вопрос и оказать помощь 24/7.
+pubDate: '2025-07-24T13:44:07.514Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'ButlerSPB: надежная поддержка в любой ситуации'
+  description: >-
+    В ButlerSPB мы верим, что настоящая надежная поддержка — это основа доверия.
+    Наша команда готова оперативно решить любой вопрос и оказать помощь 24/7.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.8'
+    reviewCount: 779
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': 'https://butlerspb-blog.netlify.app/blog/nadezhnaya-podderzhka/'
 ---
 # Надежная поддержка: Как делегировать хаос и вернуть себе самый ценный ресурс — время
 

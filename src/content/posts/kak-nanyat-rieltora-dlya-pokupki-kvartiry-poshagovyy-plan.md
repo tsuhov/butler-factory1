@@ -1,10 +1,45 @@
 ---
-title: "Как нанять риэлтора для покупки квартиры: пошаговый план от ButlerSPB"
-description: "Покупка квартиры – серьезный шаг. Чтобы сделка прошла гладко и безопасно, важно выбрать правильного помощника. В этой статье блога ButlerSPB мы представляем пошаговую инструкцию по найму риэлтора: от определения ваших потребностей до подписания договора. Узнайте, где искать профессионала, какие вопросы задать на встрече и как избежать распространенных ошибок."
-pubDate: "2025-07-22T16:29:45.868Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Как нанять риэлтора для покупки квартиры: пошаговый план от ButlerSPB","description":"Покупка квартиры – серьезный шаг. Чтобы сделка прошла гладко и безопасно, важно выбрать правильного помощника. В этой статье блога ButlerSPB мы представляем пошаговую инструкцию по найму риэлтора: от определения ваших потребностей до подписания договора. Узнайте, где искать профессионала, какие вопросы задать на встрече и как избежать распространенных ошибок.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":791,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/kak-nanyat-rieltora-dlya-pokupki-kvartiry-poshagovyy-plan/"}}
+title: 'Как нанять риэлтора для покупки квартиры: пошаговый план от ButlerSPB'
+description: >-
+  Покупка квартиры – серьезный шаг. Чтобы сделка прошла гладко и безопасно,
+  важно выбрать правильного помощника. В этой статье блога ButlerSPB мы
+  представляем пошаговую инструкцию по найму риэлтора: от определения ваших
+  потребностей до подписания договора. Узнайте, где искать профессионала, какие
+  вопросы задать на встрече и как избежать распространенных ошибок.
+pubDate: '2025-07-22T16:29:45.868Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Как нанять риэлтора для покупки квартиры: пошаговый план от ButlerSPB'
+  description: >-
+    Покупка квартиры – серьезный шаг. Чтобы сделка прошла гладко и безопасно,
+    важно выбрать правильного помощника. В этой статье блога ButlerSPB мы
+    представляем пошаговую инструкцию по найму риэлтора: от определения ваших
+    потребностей до подписания договора. Узнайте, где искать профессионала,
+    какие вопросы задать на встрече и как избежать распространенных ошибок.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '5.0'
+    reviewCount: 548
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/kak-nanyat-rieltora-dlya-pokupki-kvartiry-poshagovyy-plan/
 ---
 
 # Как нанять риэлтора для покупки квартиры: полный пошаговый план от экспертов ButlerSPB

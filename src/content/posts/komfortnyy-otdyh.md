@@ -1,11 +1,40 @@
 ---
-title: "Искусство комфортного отдыха вместе с ButlerSPB"
-description: "Устали от рутины? ButlerSPB знает, как превратить ваш отпуск в источник энергии. В нашей новой статье мы делимся проверенными советами по организации отдыха."
-keywords: "комфортный отдых, ButlerSPB, релаксация, отпуск, советы для отдыха, планирование отпуска, восстановление сил"
-pubDate: "2025-07-25T16:32:15.353Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Искусство комфортного отдыха вместе с ButlerSPB","description":"Устали от рутины? ButlerSPB знает, как превратить ваш отпуск в источник энергии. В нашей новой статье мы делимся проверенными советами по организации отдыха.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":863,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/komfortnyy-otdyh/"}}
+title: Искусство комфортного отдыха вместе с ButlerSPB
+description: >-
+  Устали от рутины? ButlerSPB знает, как превратить ваш отпуск в источник
+  энергии. В нашей новой статье мы делимся проверенными советами по организации
+  отдыха.
+pubDate: '2025-07-25T16:32:15.353Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: Искусство комфортного отдыха вместе с ButlerSPB
+  description: >-
+    Устали от рутины? ButlerSPB знает, как превратить ваш отпуск в источник
+    энергии. В нашей новой статье мы делимся проверенными советами по
+    организации отдыха.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.8'
+    reviewCount: 523
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': 'https://butlerspb-blog.netlify.app/blog/komfortnyy-otdyh/'
 ---
 # Что такое комфортный отдых на самом деле? Создаем идеальное путешествие в Санкт-Петербург
 

@@ -1,11 +1,40 @@
 ---
-title: "Старый фонд: скрытые риски для покупателя"
-description: "Покупка квартиры в старом фонде таит риски: от изношенных коммуникаций и скрытых дефектов до юридических сложностей. ButlerSPB разбирает главные опасности."
-keywords: "старый фонд, риски покупки, недвижимость спб, вторичное жилье, износ коммуникаций, капитальный ремонт"
-pubDate: "2025-07-25T14:02:37.630Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Старый фонд: скрытые риски для покупателя","description":"Покупка квартиры в старом фонде таит риски: от изношенных коммуникаций и скрытых дефектов до юридических сложностей. ButlerSPB разбирает главные опасности.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"5.0","reviewCount":539,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/riski-staryy-fond/"}}
+title: 'Старый фонд: скрытые риски для покупателя'
+description: >-
+  Покупка квартиры в старом фонде таит риски: от изношенных коммуникаций и
+  скрытых дефектов до юридических сложностей. ButlerSPB разбирает главные
+  опасности.
+pubDate: '2025-07-25T14:02:37.630Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Старый фонд: скрытые риски для покупателя'
+  description: >-
+    Покупка квартиры в старом фонде таит риски: от изношенных коммуникаций и
+    скрытых дефектов до юридических сложностей. ButlerSPB разбирает главные
+    опасности.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.8'
+    reviewCount: 745
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': 'https://butlerspb-blog.netlify.app/blog/riski-staryy-fond/'
 ---
 # Старый фонд: Мечта с видом на риски. Полный чек-лист для покупателя квартиры в историческом Петербурге.
 

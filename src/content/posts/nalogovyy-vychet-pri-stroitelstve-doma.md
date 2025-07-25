@@ -1,10 +1,48 @@
 ---
-title: "Налоговый вычет при строительстве дома: как вернуть до 650 000 рублей. Полная инструкция от ButlerSPB."
-description: "Построили или планируете строить дом? Государство готово вернуть вам часть потраченных средств. В новой статье блога ButlerSPB разбираемся, кто имеет право на налоговый вычет, какие расходы можно включить, какой пакет документов необходим и как правильно подать декларацию, чтобы вернуть максимум денег."
-pubDate: "2025-07-23T12:08:58.992Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Налоговый вычет при строительстве дома: как вернуть до 650 000 рублей. Полная инструкция от ButlerSPB.","description":"Построили или планируете строить дом? Государство готово вернуть вам часть потраченных средств. В новой статье блога ButlerSPB разбираемся, кто имеет право на налоговый вычет, какие расходы можно включить, какой пакет документов необходим и как правильно подать декларацию, чтобы вернуть максимум денег.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.7","reviewCount":365,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/nalogovyy-vychet-pri-stroitelstve-doma/"}}
+title: >-
+  Налоговый вычет при строительстве дома: как вернуть до 650 000 рублей. Полная
+  инструкция от ButlerSPB.
+description: >-
+  Построили или планируете строить дом? Государство готово вернуть вам часть
+  потраченных средств. В новой статье блога ButlerSPB разбираемся, кто имеет
+  право на налоговый вычет, какие расходы можно включить, какой пакет документов
+  необходим и как правильно подать декларацию, чтобы вернуть максимум денег.
+pubDate: '2025-07-23T12:08:58.992Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: >-
+    Налоговый вычет при строительстве дома: как вернуть до 650 000 рублей.
+    Полная инструкция от ButlerSPB.
+  description: >-
+    Построили или планируете строить дом? Государство готово вернуть вам часть
+    потраченных средств. В новой статье блога ButlerSPB разбираемся, кто имеет
+    право на налоговый вычет, какие расходы можно включить, какой пакет
+    документов необходим и как правильно подать декларацию, чтобы вернуть
+    максимум денег.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.7'
+    reviewCount: 581
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/nalogovyy-vychet-pri-stroitelstve-doma/
 ---
 
 # Строите дом своей мечты? Государство поможет: как вернуть до 650 000 рублей с помощью налогового вычета

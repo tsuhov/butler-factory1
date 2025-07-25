@@ -1,10 +1,47 @@
 ---
-title: "Что такое управление недвижимым имуществом с юридической точки зрения"
-description: "Управление недвижимостью — это не только поиск арендаторов и решение бытовых вопросов. С точки зрения закона, это комплекс прав и обязанностей, закрепленных в договоре. В новой статье для блога ButlerSPB мы разбираем ключевые правовые аспекты: от заключения договора доверительного управления до ответственности сторон и юридических рисков. Узнайте, как защитить свои активы и грамотно делегировать полномочия."
-pubDate: "2025-07-22T14:02:10.303Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Что такое управление недвижимым имуществом с юридической точки зрения","description":"Управление недвижимостью — это не только поиск арендаторов и решение бытовых вопросов. С точки зрения закона, это комплекс прав и обязанностей, закрепленных в договоре. В новой статье для блога ButlerSPB мы разбираем ключевые правовые аспекты: от заключения договора доверительного управления до ответственности сторон и юридических рисков. Узнайте, как защитить свои активы и грамотно делегировать полномочия.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"5.0","reviewCount":440,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/chto-takoe-upravlenie-nedvizhimym-imuschestvom-s-yuridicheskoy-tochki-zreniya/"}}
+title: Что такое управление недвижимым имуществом с юридической точки зрения
+description: >-
+  Управление недвижимостью — это не только поиск арендаторов и решение бытовых
+  вопросов. С точки зрения закона, это комплекс прав и обязанностей,
+  закрепленных в договоре. В новой статье для блога ButlerSPB мы разбираем
+  ключевые правовые аспекты: от заключения договора доверительного управления до
+  ответственности сторон и юридических рисков. Узнайте, как защитить свои активы
+  и грамотно делегировать полномочия.
+pubDate: '2025-07-22T14:02:10.303Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: Что такое управление недвижимым имуществом с юридической точки зрения
+  description: >-
+    Управление недвижимостью — это не только поиск арендаторов и решение бытовых
+    вопросов. С точки зрения закона, это комплекс прав и обязанностей,
+    закрепленных в договоре. В новой статье для блога ButlerSPB мы разбираем
+    ключевые правовые аспекты: от заключения договора доверительного управления
+    до ответственности сторон и юридических рисков. Узнайте, как защитить свои
+    активы и грамотно делегировать полномочия.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.8'
+    reviewCount: 833
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/chto-takoe-upravlenie-nedvizhimym-imuschestvom-s-yuridicheskoy-tochki-zreniya/
 ---
 
 # Что такое управление недвижимостью с точки зрения закона? Полный разбор для собственников от ButlerSPB

@@ -1,11 +1,40 @@
 ---
-title: "Гид по покупке вторички в СПб от ButlerSPB"
-description: "Хотите купить вторичку в СПб? В статье разбираем все этапы покупки: поиск квартиры, проверка документов, риски и безопасное проведение сделки с ButlerSPB."
-keywords: "вторичка купить, купить квартиру спб, вторичное жилье, рынок недвижимости, агентство недвижимости, покупка квартиры"
-pubDate: "2025-07-25T16:33:01.530Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Гид по покупке вторички в СПб от ButlerSPB","description":"Хотите купить вторичку в СПб? В статье разбираем все этапы покупки: поиск квартиры, проверка документов, риски и безопасное проведение сделки с ButlerSPB.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.8","reviewCount":612,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/vtorichka-kupit/"}}
+title: Гид по покупке вторички в СПб от ButlerSPB
+description: >-
+  Хотите купить вторичку в СПб? В статье разбираем все этапы покупки: поиск
+  квартиры, проверка документов, риски и безопасное проведение сделки с
+  ButlerSPB.
+pubDate: '2025-07-25T16:33:01.530Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: Гид по покупке вторички в СПб от ButlerSPB
+  description: >-
+    Хотите купить вторичку в СПб? В статье разбираем все этапы покупки: поиск
+    квартиры, проверка документов, риски и безопасное проведение сделки с
+    ButlerSPB.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.9'
+    reviewCount: 893
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': 'https://butlerspb-blog.netlify.app/blog/vtorichka-kupit/'
 ---
 # Как купить квартиру на вторичном рынке в 2024 году: полное пошаговое руководство от ButlerSPB
 

@@ -1,10 +1,43 @@
 ---
-title: "Инвестиции в self-storage: Как малые склады стали выгодным активом"
-description: "Рынок self-storage показывает стабильный рост. В новой статье блога ButlerSPB разбираем, почему инвестиции в малые складские помещения — это отличная возможность для диверсификации портфеля. Анализируем порог входа, доходность, риски и перспективы этого направления."
-pubDate: "2025-07-23T10:44:04.083Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Инвестиции в self-storage: Как малые склады стали выгодным активом","description":"Рынок self-storage показывает стабильный рост. В новой статье блога ButlerSPB разбираем, почему инвестиции в малые складские помещения — это отличная возможность для диверсификации портфеля. Анализируем порог входа, доходность, риски и перспективы этого направления.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":725,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/investicii-v-malye-skladskie-pomescheniya-self-storage/"}}
+title: 'Инвестиции в self-storage: Как малые склады стали выгодным активом'
+description: >-
+  Рынок self-storage показывает стабильный рост. В новой статье блога ButlerSPB
+  разбираем, почему инвестиции в малые складские помещения — это отличная
+  возможность для диверсификации портфеля. Анализируем порог входа, доходность,
+  риски и перспективы этого направления.
+pubDate: '2025-07-23T10:44:04.083Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Инвестиции в self-storage: Как малые склады стали выгодным активом'
+  description: >-
+    Рынок self-storage показывает стабильный рост. В новой статье блога
+    ButlerSPB разбираем, почему инвестиции в малые складские помещения — это
+    отличная возможность для диверсификации портфеля. Анализируем порог входа,
+    доходность, риски и перспективы этого направления.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.8'
+    reviewCount: 785
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/investicii-v-malye-skladskie-pomescheniya-self-storage/
 ---
 
 # Инвестиции в Self-Storage: Как превратить пустой участок в стабильный источник пассивного дохода

@@ -1,10 +1,49 @@
 ---
-title: "За кулисами ButlerSPB: наш подход к работе с крупными корпоративными клиентами"
-description: "Работа с корпоративными гигантами — это всегда вызов и большая ответственность. В этой статье мы делимся ключевыми принципами и этапами нашего сотрудничества: от первого аудита и разработки индивидуального сервисного плана до внедрения стандартов качества и построения долгосрочных партнерских отношений. Узнайте, как мы обеспечиваем безупречный сервис для лидеров рынка."
-pubDate: "2025-07-22T11:29:15.909Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"За кулисами ButlerSPB: наш подход к работе с крупными корпоративными клиентами","description":"Работа с корпоративными гигантами — это всегда вызов и большая ответственность. В этой статье мы делимся ключевыми принципами и этапами нашего сотрудничества: от первого аудита и разработки индивидуального сервисного плана до внедрения стандартов качества и построения долгосрочных партнерских отношений. Узнайте, как мы обеспечиваем безупречный сервис для лидеров рынка.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":411,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/kak-my-rabotaem-s-krupnymi-korporativnymi-klientami/"}}
+title: 'За кулисами ButlerSPB: наш подход к работе с крупными корпоративными клиентами'
+description: >-
+  Работа с корпоративными гигантами — это всегда вызов и большая
+  ответственность. В этой статье мы делимся ключевыми принципами и этапами
+  нашего сотрудничества: от первого аудита и разработки индивидуального
+  сервисного плана до внедрения стандартов качества и построения долгосрочных
+  партнерских отношений. Узнайте, как мы обеспечиваем безупречный сервис для
+  лидеров рынка.
+pubDate: '2025-07-22T11:29:15.909Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: >-
+    За кулисами ButlerSPB: наш подход к работе с крупными корпоративными
+    клиентами
+  description: >-
+    Работа с корпоративными гигантами — это всегда вызов и большая
+    ответственность. В этой статье мы делимся ключевыми принципами и этапами
+    нашего сотрудничества: от первого аудита и разработки индивидуального
+    сервисного плана до внедрения стандартов качества и построения долгосрочных
+    партнерских отношений. Узнайте, как мы обеспечиваем безупречный сервис для
+    лидеров рынка.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.8'
+    reviewCount: 731
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/kak-my-rabotaem-s-krupnymi-korporativnymi-klientami/
 ---
 
 # От Заявки до Идеальной Чистоты: Как ButlerSPB Выстраивает Работу с Крупными Корпоративными Клиентами

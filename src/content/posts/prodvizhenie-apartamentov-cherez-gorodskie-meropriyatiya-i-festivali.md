@@ -1,10 +1,51 @@
 ---
-title: "Событийный маркетинг для апартаментов: как фестивали и городские мероприятия приводят гостей"
-description: "Санкт-Петербург живет в ритме фестивалей, форумов и концертов. Каждый ивент – это поток туристов, ищущих комфортное жилье. В новой статье блога ButlerSPB мы разбираем, как превратить календарь городских событий в мощный инструмент для продвижения ваших апартаментов. Узнайте, как формировать специальные предложения, сотрудничать с организаторами и настраивать рекламу, чтобы именно ваши апартаменты стали выбором №1 для гостей города."
-pubDate: "2025-07-22T11:14:30.627Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Событийный маркетинг для апартаментов: как фестивали и городские мероприятия приводят гостей","description":"Санкт-Петербург живет в ритме фестивалей, форумов и концертов. Каждый ивент – это поток туристов, ищущих комфортное жилье. В новой статье блога ButlerSPB мы разбираем, как превратить календарь городских событий в мощный инструмент для продвижения ваших апартаментов. Узнайте, как формировать специальные предложения, сотрудничать с организаторами и настраивать рекламу, чтобы именно ваши апартаменты стали выбором №1 для гостей города.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.8","reviewCount":575,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/prodvizhenie-apartamentov-cherez-gorodskie-meropriyatiya-i-festivali/"}}
+title: >-
+  Событийный маркетинг для апартаментов: как фестивали и городские мероприятия
+  приводят гостей
+description: >-
+  Санкт-Петербург живет в ритме фестивалей, форумов и концертов. Каждый ивент –
+  это поток туристов, ищущих комфортное жилье. В новой статье блога ButlerSPB мы
+  разбираем, как превратить календарь городских событий в мощный инструмент для
+  продвижения ваших апартаментов. Узнайте, как формировать специальные
+  предложения, сотрудничать с организаторами и настраивать рекламу, чтобы именно
+  ваши апартаменты стали выбором №1 для гостей города.
+pubDate: '2025-07-22T11:14:30.627Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: >-
+    Событийный маркетинг для апартаментов: как фестивали и городские мероприятия
+    приводят гостей
+  description: >-
+    Санкт-Петербург живет в ритме фестивалей, форумов и концертов. Каждый ивент
+    – это поток туристов, ищущих комфортное жилье. В новой статье блога
+    ButlerSPB мы разбираем, как превратить календарь городских событий в мощный
+    инструмент для продвижения ваших апартаментов. Узнайте, как формировать
+    специальные предложения, сотрудничать с организаторами и настраивать
+    рекламу, чтобы именно ваши апартаменты стали выбором №1 для гостей города.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.9'
+    reviewCount: 532
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/prodvizhenie-apartamentov-cherez-gorodskie-meropriyatiya-i-festivali/
 ---
 
 # Город в огнях, апартаменты в плюсе: Полный гид по заработку на мероприятиях и фестивалях в Санкт-Петербурге

@@ -1,10 +1,47 @@
 ---
-title: "Дом у леса: анализ спроса на аренду и ключевые тренды"
-description: "Команда ButlerSPB исследует растущую популярность аренды домов с выходом к лесу. В статье мы анализируем, кто и почему выбирает такой отдых, какие характеристики объекта наиболее важны для арендаторов, как меняется спрос в зависимости от сезона и какие ценовые ожидания существуют на рынке. Этот материал будет полезен как владельцам загородной недвижимости, так и тем, кто только планирует свой идеальный отдых на природе."
-pubDate: "2025-07-23T12:19:55.716Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Дом у леса: анализ спроса на аренду и ключевые тренды","description":"Команда ButlerSPB исследует растущую популярность аренды домов с выходом к лесу. В статье мы анализируем, кто и почему выбирает такой отдых, какие характеристики объекта наиболее важны для арендаторов, как меняется спрос в зависимости от сезона и какие ценовые ожидания существуют на рынке. Этот материал будет полезен как владельцам загородной недвижимости, так и тем, кто только планирует свой идеальный отдых на природе.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.7","reviewCount":838,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/analiz-sprosa-na-arendu-domov-s-vyhodom-v-les/"}}
+title: 'Дом у леса: анализ спроса на аренду и ключевые тренды'
+description: >-
+  Команда ButlerSPB исследует растущую популярность аренды домов с выходом к
+  лесу. В статье мы анализируем, кто и почему выбирает такой отдых, какие
+  характеристики объекта наиболее важны для арендаторов, как меняется спрос в
+  зависимости от сезона и какие ценовые ожидания существуют на рынке. Этот
+  материал будет полезен как владельцам загородной недвижимости, так и тем, кто
+  только планирует свой идеальный отдых на природе.
+pubDate: '2025-07-23T12:19:55.716Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Дом у леса: анализ спроса на аренду и ключевые тренды'
+  description: >-
+    Команда ButlerSPB исследует растущую популярность аренды домов с выходом к
+    лесу. В статье мы анализируем, кто и почему выбирает такой отдых, какие
+    характеристики объекта наиболее важны для арендаторов, как меняется спрос в
+    зависимости от сезона и какие ценовые ожидания существуют на рынке. Этот
+    материал будет полезен как владельцам загородной недвижимости, так и тем,
+    кто только планирует свой идеальный отдых на природе.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.8'
+    reviewCount: 582
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/analiz-sprosa-na-arendu-domov-s-vyhodom-v-les/
 ---
 
 # Дом с выходом в лес: почему это главный тренд загородного отдыха и что за ним стоит?

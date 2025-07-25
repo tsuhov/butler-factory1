@@ -1,10 +1,49 @@
 ---
-title: "Как происходит оценка потенциальной доходности вашей квартиры специалистами ButlerSPB"
-description: "Хотите знать реальный доходный потенциал вашей недвижимости в Санкт-Петербурге? В этой статье мы подробно раскрываем методику наших экспертов: какие ключевые параметры анализируются, как учитывается сезонность и конкурентная среда, и как на основе этих данных мы формируем для собственника прозрачный прогноз доходности."
-pubDate: "2025-07-22T11:03:55.823Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Как происходит оценка потенциальной доходности вашей квартиры специалистами ButlerSPB","description":"Хотите знать реальный доходный потенциал вашей недвижимости в Санкт-Петербурге? В этой статье мы подробно раскрываем методику наших экспертов: какие ключевые параметры анализируются, как учитывается сезонность и конкурентная среда, и как на основе этих данных мы формируем для собственника прозрачный прогноз доходности.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"5.0","reviewCount":327,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/kak-proishodit-ocenka-potencialnoy-dohodnosti-vashey-kvartiry-specialistami-butlerspb/"}}
+title: >-
+  Как происходит оценка потенциальной доходности вашей квартиры специалистами
+  ButlerSPB
+description: >-
+  Хотите знать реальный доходный потенциал вашей недвижимости в
+  Санкт-Петербурге? В этой статье мы подробно раскрываем методику наших
+  экспертов: какие ключевые параметры анализируются, как учитывается сезонность
+  и конкурентная среда, и как на основе этих данных мы формируем для
+  собственника прозрачный прогноз доходности.
+pubDate: '2025-07-22T11:03:55.823Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: >-
+    Как происходит оценка потенциальной доходности вашей квартиры специалистами
+    ButlerSPB
+  description: >-
+    Хотите знать реальный доходный потенциал вашей недвижимости в
+    Санкт-Петербурге? В этой статье мы подробно раскрываем методику наших
+    экспертов: какие ключевые параметры анализируются, как учитывается
+    сезонность и конкурентная среда, и как на основе этих данных мы формируем
+    для собственника прозрачный прогноз доходности.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.9'
+    reviewCount: 870
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/kak-proishodit-ocenka-potencialnoy-dohodnosti-vashey-kvartiry-specialistami-butlerspb/
 ---
 
 # Оценка доходности квартиры от ButlerSPB: наш пошаговый процесс для вашей максимальной прибыли

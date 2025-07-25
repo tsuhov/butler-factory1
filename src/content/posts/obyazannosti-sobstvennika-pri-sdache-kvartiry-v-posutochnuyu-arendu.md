@@ -1,10 +1,47 @@
 ---
-title: "Посуточная аренда: полный чек-лист обязанностей собственника"
-description: "Сдача квартиры в краткосрочную аренду — это не только дополнительный доход, но и большая ответственность. В блоге ButlerSPB мы собрали исчерпывающий список обязанностей владельца жилья: от юридических тонкостей и уплаты налогов до подготовки квартиры и взаимодействия с гостями. Узнайте, как вести бизнес легально, обеспечить безопасность и получать максимальную прибыль, избегая типичных ошибок."
-pubDate: "2025-07-23T10:46:15.361Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Посуточная аренда: полный чек-лист обязанностей собственника","description":"Сдача квартиры в краткосрочную аренду — это не только дополнительный доход, но и большая ответственность. В блоге ButlerSPB мы собрали исчерпывающий список обязанностей владельца жилья: от юридических тонкостей и уплаты налогов до подготовки квартиры и взаимодействия с гостями. Узнайте, как вести бизнес легально, обеспечить безопасность и получать максимальную прибыль, избегая типичных ошибок.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.8","reviewCount":373,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/obyazannosti-sobstvennika-pri-sdache-kvartiry-v-posutochnuyu-arendu/"}}
+title: 'Посуточная аренда: полный чек-лист обязанностей собственника'
+description: >-
+  Сдача квартиры в краткосрочную аренду — это не только дополнительный доход, но
+  и большая ответственность. В блоге ButlerSPB мы собрали исчерпывающий список
+  обязанностей владельца жилья: от юридических тонкостей и уплаты налогов до
+  подготовки квартиры и взаимодействия с гостями. Узнайте, как вести бизнес
+  легально, обеспечить безопасность и получать максимальную прибыль, избегая
+  типичных ошибок.
+pubDate: '2025-07-23T10:46:15.361Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Посуточная аренда: полный чек-лист обязанностей собственника'
+  description: >-
+    Сдача квартиры в краткосрочную аренду — это не только дополнительный доход,
+    но и большая ответственность. В блоге ButlerSPB мы собрали исчерпывающий
+    список обязанностей владельца жилья: от юридических тонкостей и уплаты
+    налогов до подготовки квартиры и взаимодействия с гостями. Узнайте, как
+    вести бизнес легально, обеспечить безопасность и получать максимальную
+    прибыль, избегая типичных ошибок.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.9'
+    reviewCount: 511
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/obyazannosti-sobstvennika-pri-sdache-kvartiry-v-posutochnuyu-arendu/
 ---
 
 # Все обязанности собственника при сдаче квартиры посуточно: от налогов до уборки

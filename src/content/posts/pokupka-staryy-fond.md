@@ -1,11 +1,40 @@
 ---
-title: "Старый фонд СПб: что нужно знать перед покупкой?"
-description: "Покупка квартиры в старом фонде – мечта многих. Высокие потолки, история. Но есть и риски: износ, юридические сложности. Рассказываем, как сделать правильный выбор."
-keywords: "старый фонд, купить квартиру спб, дореволюционный дом, вторичное жилье, недвижимость в петербурге, проверка квартиры"
-pubDate: "2025-07-25T14:10:42.395Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Старый фонд СПб: что нужно знать перед покупкой?","description":"Покупка квартиры в старом фонде – мечта многих. Высокие потолки, история. Но есть и риски: износ, юридические сложности. Рассказываем, как сделать правильный выбор.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":555,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/pokupka-staryy-fond/"}}
+title: 'Старый фонд СПб: что нужно знать перед покупкой?'
+description: >-
+  Покупка квартиры в старом фонде – мечта многих. Высокие потолки, история. Но
+  есть и риски: износ, юридические сложности. Рассказываем, как сделать
+  правильный выбор.
+pubDate: '2025-07-25T14:10:42.395Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Старый фонд СПб: что нужно знать перед покупкой?'
+  description: >-
+    Покупка квартиры в старом фонде – мечта многих. Высокие потолки, история. Но
+    есть и риски: износ, юридические сложности. Рассказываем, как сделать
+    правильный выбор.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.7'
+    reviewCount: 545
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': 'https://butlerspb-blog.netlify.app/blog/pokupka-staryy-fond/'
 ---
 # Покупка квартиры в старом фонде: Ваш полный гид по петербургской классике
 

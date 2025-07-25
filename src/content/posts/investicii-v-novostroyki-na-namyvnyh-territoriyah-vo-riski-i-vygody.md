@@ -1,10 +1,47 @@
 ---
-title: "Инвестиции в новостройки на намывных территориях В.О.: риски и выгоды."
-description: "Намывные территории Васильевского острова — один из самых амбициозных и обсуждаемых проектов Санкт-Петербурга. Он привлекает инвесторов современными ЖК и видами на Финский залив. Но так ли все безоблачно? Эксперты ButlerSPB анализируют ключевые риски и выгоды покупки квартиры на намыве, от особенностей грунта и транспортной доступности до потенциала роста стоимости и арендного спроса."
-pubDate: "2025-07-23T12:16:49.281Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Инвестиции в новостройки на намывных территориях В.О.: риски и выгоды.","description":"Намывные территории Васильевского острова — один из самых амбициозных и обсуждаемых проектов Санкт-Петербурга. Он привлекает инвесторов современными ЖК и видами на Финский залив. Но так ли все безоблачно? Эксперты ButlerSPB анализируют ключевые риски и выгоды покупки квартиры на намыве, от особенностей грунта и транспортной доступности до потенциала роста стоимости и арендного спроса.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.8","reviewCount":890,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/investicii-v-novostroyki-na-namyvnyh-territoriyah-vo-riski-i-vygody/"}}
+title: 'Инвестиции в новостройки на намывных территориях В.О.: риски и выгоды.'
+description: >-
+  Намывные территории Васильевского острова — один из самых амбициозных и
+  обсуждаемых проектов Санкт-Петербурга. Он привлекает инвесторов современными
+  ЖК и видами на Финский залив. Но так ли все безоблачно? Эксперты ButlerSPB
+  анализируют ключевые риски и выгоды покупки квартиры на намыве, от
+  особенностей грунта и транспортной доступности до потенциала роста стоимости и
+  арендного спроса.
+pubDate: '2025-07-23T12:16:49.281Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Инвестиции в новостройки на намывных территориях В.О.: риски и выгоды.'
+  description: >-
+    Намывные территории Васильевского острова — один из самых амбициозных и
+    обсуждаемых проектов Санкт-Петербурга. Он привлекает инвесторов современными
+    ЖК и видами на Финский залив. Но так ли все безоблачно? Эксперты ButlerSPB
+    анализируют ключевые риски и выгоды покупки квартиры на намыве, от
+    особенностей грунта и транспортной доступности до потенциала роста стоимости
+    и арендного спроса.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.8'
+    reviewCount: 516
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/investicii-v-novostroyki-na-namyvnyh-territoriyah-vo-riski-i-vygody/
 ---
 
 # Инвестиции в намыв Васильевского острова: холодный расчет или ставка на будущее? Полный разбор от экспертов ButlerSPB

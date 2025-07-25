@@ -1,10 +1,45 @@
 ---
-title: "Пентхаус vs. видовая квартира: в чём разница и что выбрать?"
-description: "Многие считают пентхаус просто квартирой на последнем этаже с хорошим видом. Но это не так. В новой статье блога ButlerSPB мы разбираемся в ключевых отличиях пентхауса от видовой квартиры: от наличия террасы и уникальной планировки до уровня приватности и статуса. Узнайте, какой формат элитной недвижимости подходит именно вам."
-pubDate: "2025-07-23T12:20:04.367Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Пентхаус vs. видовая квартира: в чём разница и что выбрать?","description":"Многие считают пентхаус просто квартирой на последнем этаже с хорошим видом. Но это не так. В новой статье блога ButlerSPB мы разбираемся в ключевых отличиях пентхауса от видовой квартиры: от наличия террасы и уникальной планировки до уровня приватности и статуса. Узнайте, какой формат элитной недвижимости подходит именно вам.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.8","reviewCount":387,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/chto-takoe-penthaus-i-chem-on-otlichaetsya-ot-vidovoy-kvartiry/"}}
+title: 'Пентхаус vs. видовая квартира: в чём разница и что выбрать?'
+description: >-
+  Многие считают пентхаус просто квартирой на последнем этаже с хорошим видом.
+  Но это не так. В новой статье блога ButlerSPB мы разбираемся в ключевых
+  отличиях пентхауса от видовой квартиры: от наличия террасы и уникальной
+  планировки до уровня приватности и статуса. Узнайте, какой формат элитной
+  недвижимости подходит именно вам.
+pubDate: '2025-07-23T12:20:04.367Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Пентхаус vs. видовая квартира: в чём разница и что выбрать?'
+  description: >-
+    Многие считают пентхаус просто квартирой на последнем этаже с хорошим видом.
+    Но это не так. В новой статье блога ButlerSPB мы разбираемся в ключевых
+    отличиях пентхауса от видовой квартиры: от наличия террасы и уникальной
+    планировки до уровня приватности и статуса. Узнайте, какой формат элитной
+    недвижимости подходит именно вам.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.8'
+    reviewCount: 623
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/chto-takoe-penthaus-i-chem-on-otlichaetsya-ot-vidovoy-kvartiry/
 ---
 
 # Пентхаус vs. Видовая квартира: Разбираем все отличия с экспертами по элитной недвижимости

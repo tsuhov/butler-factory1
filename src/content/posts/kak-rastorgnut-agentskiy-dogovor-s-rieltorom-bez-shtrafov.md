@@ -1,10 +1,47 @@
 ---
-title: "Как расторгнуть агентский договор с риэлтором без штрафов: инструкция от ButlerSPB"
-description: "Не устраивает работа агента по недвижимости? Рассказываем, на каких основаниях можно расторгнуть агентский договор, как избежать штрафных санкций и защитить свои права. Подробный разбор 'подводных камней' и пошаговый план действий от экспертов ButlerSPB."
-pubDate: "2025-07-23T11:45:47.810Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Как расторгнуть агентский договор с риэлтором без штрафов: инструкция от ButlerSPB","description":"Не устраивает работа агента по недвижимости? Рассказываем, на каких основаниях можно расторгнуть агентский договор, как избежать штрафных санкций и защитить свои права. Подробный разбор 'подводных камней' и пошаговый план действий от экспертов ButlerSPB.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"5.0","reviewCount":627,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/kak-rastorgnut-agentskiy-dogovor-s-rieltorom-bez-shtrafov/"}}
+title: >-
+  Как расторгнуть агентский договор с риэлтором без штрафов: инструкция от
+  ButlerSPB
+description: >-
+  Не устраивает работа агента по недвижимости? Рассказываем, на каких основаниях
+  можно расторгнуть агентский договор, как избежать штрафных санкций и защитить
+  свои права. Подробный разбор 'подводных камней' и пошаговый план действий от
+  экспертов ButlerSPB.
+pubDate: '2025-07-23T11:45:47.810Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: >-
+    Как расторгнуть агентский договор с риэлтором без штрафов: инструкция от
+    ButlerSPB
+  description: >-
+    Не устраивает работа агента по недвижимости? Рассказываем, на каких
+    основаниях можно расторгнуть агентский договор, как избежать штрафных
+    санкций и защитить свои права. Подробный разбор 'подводных камней' и
+    пошаговый план действий от экспертов ButlerSPB.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.9'
+    reviewCount: 641
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/kak-rastorgnut-agentskiy-dogovor-s-rieltorom-bez-shtrafov/
 ---
 
 # Как расторгнуть договор с риэлтором без штрафов: пошаговая инструкция от экспертов ButlerSPB

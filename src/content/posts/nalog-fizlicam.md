@@ -1,11 +1,39 @@
 ---
-title: "Налоги для физлиц: что важно знать в 2024"
-description: "ButlerSPB разбирает ключевые аспекты налогообложения для физлиц: ставки НДФЛ, сроки подачи декларации, доступные налоговые вычеты и порядок их получения."
-keywords: "НДФЛ, налог на доходы, налоговый вычет, 3-НДФЛ, уплата налогов, налоги для физлиц, ButlerSPB"
-pubDate: "2025-07-25T15:49:12.128Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Налоги для физлиц: что важно знать в 2024","description":"ButlerSPB разбирает ключевые аспекты налогообложения для физлиц: ставки НДФЛ, сроки подачи декларации, доступные налоговые вычеты и порядок их получения.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":553,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/nalog-fizlicam/"}}
+title: 'Налоги для физлиц: что важно знать в 2024'
+description: >-
+  ButlerSPB разбирает ключевые аспекты налогообложения для физлиц: ставки НДФЛ,
+  сроки подачи декларации, доступные налоговые вычеты и порядок их получения.
+pubDate: '2025-07-25T15:49:12.128Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Налоги для физлиц: что важно знать в 2024'
+  description: >-
+    ButlerSPB разбирает ключевые аспекты налогообложения для физлиц: ставки
+    НДФЛ, сроки подачи декларации, доступные налоговые вычеты и порядок их
+    получения.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.7'
+    reviewCount: 796
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': 'https://butlerspb-blog.netlify.app/blog/nalog-fizlicam/'
 ---
 # Налоги для физических лиц в России в 2024 году: полное руководство от экспертов ButlerSPB
 

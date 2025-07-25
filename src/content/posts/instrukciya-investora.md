@@ -1,11 +1,39 @@
 ---
-title: "Инструкция инвестора: как начать и преуспеть"
-description: "Пошаговая инструкция для начинающих и опытных инвесторов. Узнайте, как выбрать стратегию, диверсифицировать портфель и минимизировать риски для успеха."
-keywords: "инвестиции, инструкция инвестора, финансовая грамотность, портфель инвестора, фондовый рынок, ButlerSPB"
-pubDate: "2025-07-25T14:02:07.303Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Инструкция инвестора: как начать и преуспеть","description":"Пошаговая инструкция для начинающих и опытных инвесторов. Узнайте, как выбрать стратегию, диверсифицировать портфель и минимизировать риски для успеха.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":341,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/instrukciya-investora/"}}
+title: 'Инструкция инвестора: как начать и преуспеть'
+description: >-
+  Пошаговая инструкция для начинающих и опытных инвесторов. Узнайте, как выбрать
+  стратегию, диверсифицировать портфель и минимизировать риски для успеха.
+pubDate: '2025-07-25T14:02:07.303Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Инструкция инвестора: как начать и преуспеть'
+  description: >-
+    Пошаговая инструкция для начинающих и опытных инвесторов. Узнайте, как
+    выбрать стратегию, диверсифицировать портфель и минимизировать риски для
+    успеха.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.9'
+    reviewCount: 785
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': 'https://butlerspb-blog.netlify.app/blog/instrukciya-investora/'
 ---
 # Пошаговая инструкция инвестора: от первой тысячи до финансовой независимости
 

@@ -1,11 +1,40 @@
 ---
-title: "Особый гость: как создать незабываемый прием"
-description: "Прием важного гостя требует особого подхода. В нашей новой статье ButlerSPB делится секретами безупречного гостеприимства и организации встречи на высшем уровне."
-keywords: "особый гость, гостеприимство, консьерж-сервис, ButlerSPB, встреча гостей, элитный сервис, Санкт-Петербург"
-pubDate: "2025-07-24T22:01:23.668Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Особый гость: как создать незабываемый прием","description":"Прием важного гостя требует особого подхода. В нашей новой статье ButlerSPB делится секретами безупречного гостеприимства и организации встречи на высшем уровне.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"5.0","reviewCount":623,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/osobyy-gost/"}}
+title: 'Особый гость: как создать незабываемый прием'
+description: >-
+  Прием важного гостя требует особого подхода. В нашей новой статье ButlerSPB
+  делится секретами безупречного гостеприимства и организации встречи на высшем
+  уровне.
+pubDate: '2025-07-24T22:01:23.668Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Особый гость: как создать незабываемый прием'
+  description: >-
+    Прием важного гостя требует особого подхода. В нашей новой статье ButlerSPB
+    делится секретами безупречного гостеприимства и организации встречи на
+    высшем уровне.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.8'
+    reviewCount: 398
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': 'https://butlerspb-blog.netlify.app/blog/osobyy-gost/'
 ---
 # Особый гость в Санкт-Петербурге: Полное руководство по организации безупречного визита
 

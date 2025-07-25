@@ -1,10 +1,47 @@
 ---
-title: "Инсайдерский гид по Петербургу: любимые места местных жителей"
-description: "Забудьте о туристических маршрутах! Команда ButlerSPB подготовила для вас эксклюзивный список лучших кофеен, баров и парков, составленный по рекомендациям коренных петербуржцев. Откройте для себя настоящий Петербург: где выпить самый ароматный кофе, в каком баре прочувствовать уникальную атмосферу города и в каком парке отдохнуть от суеты, как это делают сами жители."
-pubDate: "2025-07-22T11:44:54.628Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Инсайдерский гид по Петербургу: любимые места местных жителей","description":"Забудьте о туристических маршрутах! Команда ButlerSPB подготовила для вас эксклюзивный список лучших кофеен, баров и парков, составленный по рекомендациям коренных петербуржцев. Откройте для себя настоящий Петербург: где выпить самый ароматный кофе, в каком баре прочувствовать уникальную атмосферу города и в каком парке отдохнуть от суеты, как это делают сами жители.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":493,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/luchshie-kofeyni-bary-i-parki-po-mneniyu-mestnyh-zhiteley/"}}
+title: 'Инсайдерский гид по Петербургу: любимые места местных жителей'
+description: >-
+  Забудьте о туристических маршрутах! Команда ButlerSPB подготовила для вас
+  эксклюзивный список лучших кофеен, баров и парков, составленный по
+  рекомендациям коренных петербуржцев. Откройте для себя настоящий Петербург:
+  где выпить самый ароматный кофе, в каком баре прочувствовать уникальную
+  атмосферу города и в каком парке отдохнуть от суеты, как это делают сами
+  жители.
+pubDate: '2025-07-22T11:44:54.628Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Инсайдерский гид по Петербургу: любимые места местных жителей'
+  description: >-
+    Забудьте о туристических маршрутах! Команда ButlerSPB подготовила для вас
+    эксклюзивный список лучших кофеен, баров и парков, составленный по
+    рекомендациям коренных петербуржцев. Откройте для себя настоящий Петербург:
+    где выпить самый ароматный кофе, в каком баре прочувствовать уникальную
+    атмосферу города и в каком парке отдохнуть от суеты, как это делают сами
+    жители.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.9'
+    reviewCount: 700
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/luchshie-kofeyni-bary-i-parki-po-mneniyu-mestnyh-zhiteley/
 ---
 
 # Петербург для своих: гид по лучшим кофейням, барам и паркам от местных жителей

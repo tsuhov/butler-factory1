@@ -1,10 +1,49 @@
 ---
-title: "Как выгодно сдать коммерческое помещение в Санкт-Петербурге: полное руководство от ButlerSPB"
-description: "Планируете сдавать коммерческую недвижимость в СПб? В этой статье эксперты ButlerSPB делятся пошаговой инструкцией для собственников: от предпродажной подготовки и правильной оценки стоимости аренды до поиска надежных арендаторов и юридических аспектов заключения договора. Узнайте, как максимизировать прибыль и избежать распространенных ошибок."
-pubDate: "2025-07-21T23:00:33.617Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Как выгодно сдать коммерческое помещение в Санкт-Петербурге: полное руководство от ButlerSPB","description":"Планируете сдавать коммерческую недвижимость в СПб? В этой статье эксперты ButlerSPB делятся пошаговой инструкцией для собственников: от предпродажной подготовки и правильной оценки стоимости аренды до поиска надежных арендаторов и юридических аспектов заключения договора. Узнайте, как максимизировать прибыль и избежать распространенных ошибок.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":339,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/sdacha-v-arendu-kommercheskogo-pomescheniya-v-sankt-peterburge/"}}
+title: >-
+  Как выгодно сдать коммерческое помещение в Санкт-Петербурге: полное
+  руководство от ButlerSPB
+description: >-
+  Планируете сдавать коммерческую недвижимость в СПб? В этой статье эксперты
+  ButlerSPB делятся пошаговой инструкцией для собственников: от предпродажной
+  подготовки и правильной оценки стоимости аренды до поиска надежных арендаторов
+  и юридических аспектов заключения договора. Узнайте, как максимизировать
+  прибыль и избежать распространенных ошибок.
+pubDate: '2025-07-21T23:00:33.617Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: >-
+    Как выгодно сдать коммерческое помещение в Санкт-Петербурге: полное
+    руководство от ButlerSPB
+  description: >-
+    Планируете сдавать коммерческую недвижимость в СПб? В этой статье эксперты
+    ButlerSPB делятся пошаговой инструкцией для собственников: от предпродажной
+    подготовки и правильной оценки стоимости аренды до поиска надежных
+    арендаторов и юридических аспектов заключения договора. Узнайте, как
+    максимизировать прибыль и избежать распространенных ошибок.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.8'
+    reviewCount: 540
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/sdacha-v-arendu-kommercheskogo-pomescheniya-v-sankt-peterburge/
 ---
 
 # Как выгодно и безопасно сдать коммерческое помещение в Санкт-Петербурге: Полное руководство для собственника

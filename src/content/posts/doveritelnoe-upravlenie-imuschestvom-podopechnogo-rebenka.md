@@ -1,10 +1,49 @@
 ---
-title: "Доверительное управление имуществом подопечного ребенка: инструкция для опекунов от ButlerSPB"
-description: "Опекунство – это большая ответственность, особенно в вопросах управления имуществом ребенка. В этой статье мы подробно разбираем, что такое доверительное управление, когда оно необходимо, как заключается договор и какова роль органов опеки. Узнайте, как защитить и приумножить активы подопечного до его совершеннолетия с помощью профессионального управляющего."
-pubDate: "2025-07-22T11:33:45.837Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Доверительное управление имуществом подопечного ребенка: инструкция для опекунов от ButlerSPB","description":"Опекунство – это большая ответственность, особенно в вопросах управления имуществом ребенка. В этой статье мы подробно разбираем, что такое доверительное управление, когда оно необходимо, как заключается договор и какова роль органов опеки. Узнайте, как защитить и приумножить активы подопечного до его совершеннолетия с помощью профессионального управляющего.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.8","reviewCount":651,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/doveritelnoe-upravlenie-imuschestvom-podopechnogo-rebenka/"}}
+title: >-
+  Доверительное управление имуществом подопечного ребенка: инструкция для
+  опекунов от ButlerSPB
+description: >-
+  Опекунство – это большая ответственность, особенно в вопросах управления
+  имуществом ребенка. В этой статье мы подробно разбираем, что такое
+  доверительное управление, когда оно необходимо, как заключается договор и
+  какова роль органов опеки. Узнайте, как защитить и приумножить активы
+  подопечного до его совершеннолетия с помощью профессионального управляющего.
+pubDate: '2025-07-22T11:33:45.837Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: >-
+    Доверительное управление имуществом подопечного ребенка: инструкция для
+    опекунов от ButlerSPB
+  description: >-
+    Опекунство – это большая ответственность, особенно в вопросах управления
+    имуществом ребенка. В этой статье мы подробно разбираем, что такое
+    доверительное управление, когда оно необходимо, как заключается договор и
+    какова роль органов опеки. Узнайте, как защитить и приумножить активы
+    подопечного до его совершеннолетия с помощью профессионального управляющего.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.7'
+    reviewCount: 507
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/doveritelnoe-upravlenie-imuschestvom-podopechnogo-rebenka/
 ---
 
 # Доверительное управление имуществом подопечного ребенка: как защитить и приумножить активы для его будущего

@@ -1,11 +1,40 @@
 ---
-title: "Доходность активов: как оценить и повысить"
-description: "Что такое доходность активов и как ее посчитать? Разбираем ключевые метрики (ROA, ROI), анализируем факторы влияния и делимся эффективными стратегиями для роста."
-keywords: "доходность активов, рентабельность активов, ROA, ROI, финансовый анализ, управление активами, ButlerSPB"
-pubDate: "2025-07-25T16:21:01.537Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Доходность активов: как оценить и повысить","description":"Что такое доходность активов и как ее посчитать? Разбираем ключевые метрики (ROA, ROI), анализируем факторы влияния и делимся эффективными стратегиями для роста.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.8","reviewCount":341,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/dohodnost-aktivov/"}}
+title: 'Доходность активов: как оценить и повысить'
+description: >-
+  Что такое доходность активов и как ее посчитать? Разбираем ключевые метрики
+  (ROA, ROI), анализируем факторы влияния и делимся эффективными стратегиями для
+  роста.
+pubDate: '2025-07-25T16:21:01.537Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Доходность активов: как оценить и повысить'
+  description: >-
+    Что такое доходность активов и как ее посчитать? Разбираем ключевые метрики
+    (ROA, ROI), анализируем факторы влияния и делимся эффективными стратегиями
+    для роста.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '5.0'
+    reviewCount: 568
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': 'https://butlerspb-blog.netlify.app/blog/dohodnost-aktivov/'
 ---
 # Доходность активов: полное руководство по расчету, анализу и управлению от экспертов ButlerSPB
 

@@ -1,11 +1,40 @@
 ---
-title: "Ваше заселение в Батлер: пошаговая инструкция"
-description: "Узнайте все о процессе заселения в апартаменты ButlerSPB. Мы предлагаем удобное бесконтактное заселение. Подробная инструкция и ответы на все вопросы в нашей статье."
-keywords: "заселение в апартаменты, ButlerSPB, бесконтактное заселение, инструкция по заезду, апартаменты Батлер, как заселиться"
-pubDate: "2025-07-24T13:37:19.254Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Ваше заселение в Батлер: пошаговая инструкция","description":"Узнайте все о процессе заселения в апартаменты ButlerSPB. Мы предлагаем удобное бесконтактное заселение. Подробная инструкция и ответы на все вопросы в нашей статье.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":713,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/zaselenie-batler/"}}
+title: 'Ваше заселение в Батлер: пошаговая инструкция'
+description: >-
+  Узнайте все о процессе заселения в апартаменты ButlerSPB. Мы предлагаем
+  удобное бесконтактное заселение. Подробная инструкция и ответы на все вопросы
+  в нашей статье.
+pubDate: '2025-07-24T13:37:19.254Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Ваше заселение в Батлер: пошаговая инструкция'
+  description: >-
+    Узнайте все о процессе заселения в апартаменты ButlerSPB. Мы предлагаем
+    удобное бесконтактное заселение. Подробная инструкция и ответы на все
+    вопросы в нашей статье.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.9'
+    reviewCount: 307
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': 'https://butlerspb-blog.netlify.app/blog/zaselenie-batler/'
 ---
 # Ваше идеальное заселение в Butler: Полный гид от А до Я
 

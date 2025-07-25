@@ -1,10 +1,46 @@
 ---
-title: "Налоговые каникулы для начинающих ИП-арендодателей: существуют ли они?"
-description: "Многие начинающие предприниматели, сдающие недвижимость в аренду, рассчитывают на налоговые каникулы. Но распространяется ли эта льгота на арендодателей? В новой статье блога ButlerSPB разбираемся, кто в действительности может получить нулевую ставку по УСН или патенту, какие условия для этого нужно выполнить, и почему арендный бизнес чаще всего не попадает под эту программу."
-pubDate: "2025-07-23T12:23:20.415Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Налоговые каникулы для начинающих ИП-арендодателей: существуют ли они?","description":"Многие начинающие предприниматели, сдающие недвижимость в аренду, рассчитывают на налоговые каникулы. Но распространяется ли эта льгота на арендодателей? В новой статье блога ButlerSPB разбираемся, кто в действительности может получить нулевую ставку по УСН или патенту, какие условия для этого нужно выполнить, и почему арендный бизнес чаще всего не попадает под эту программу.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.8","reviewCount":705,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/nalogovye-kanikuly-dlya-nachinayuschih-ip-arendodateley-suschestvuyut-li-oni/"}}
+title: 'Налоговые каникулы для начинающих ИП-арендодателей: существуют ли они?'
+description: >-
+  Многие начинающие предприниматели, сдающие недвижимость в аренду, рассчитывают
+  на налоговые каникулы. Но распространяется ли эта льгота на арендодателей? В
+  новой статье блога ButlerSPB разбираемся, кто в действительности может
+  получить нулевую ставку по УСН или патенту, какие условия для этого нужно
+  выполнить, и почему арендный бизнес чаще всего не попадает под эту программу.
+pubDate: '2025-07-23T12:23:20.415Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Налоговые каникулы для начинающих ИП-арендодателей: существуют ли они?'
+  description: >-
+    Многие начинающие предприниматели, сдающие недвижимость в аренду,
+    рассчитывают на налоговые каникулы. Но распространяется ли эта льгота на
+    арендодателей? В новой статье блога ButlerSPB разбираемся, кто в
+    действительности может получить нулевую ставку по УСН или патенту, какие
+    условия для этого нужно выполнить, и почему арендный бизнес чаще всего не
+    попадает под эту программу.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.8'
+    reviewCount: 644
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/nalogovye-kanikuly-dlya-nachinayuschih-ip-arendodateley-suschestvuyut-li-oni/
 ---
 
 # Налоговые каникулы для ИП-арендодателей: миф или реальность?

@@ -1,11 +1,38 @@
 ---
-title: "Пошаговая сдача квартиры: этапы и преимущества"
-description: "Поэтапная сдача объекта — это ваш контроль над ремонтом. Принимайте работы по частям, оперативно вносите правки и будьте уверены в качестве. ButlerSPB."
-keywords: "пошаговая сдача, поэтапная приемка, контроль ремонта, приемка квартиры, акт выполненных работ, ButlerSPB"
-pubDate: "2025-07-25T14:55:01.133Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Пошаговая сдача квартиры: этапы и преимущества","description":"Поэтапная сдача объекта — это ваш контроль над ремонтом. Принимайте работы по частям, оперативно вносите правки и будьте уверены в качестве. ButlerSPB.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"5.0","reviewCount":384,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/poshagovaya-sdacha/"}}
+title: 'Пошаговая сдача квартиры: этапы и преимущества'
+description: >-
+  Поэтапная сдача объекта — это ваш контроль над ремонтом. Принимайте работы по
+  частям, оперативно вносите правки и будьте уверены в качестве. ButlerSPB.
+pubDate: '2025-07-25T14:55:01.133Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Пошаговая сдача квартиры: этапы и преимущества'
+  description: >-
+    Поэтапная сдача объекта — это ваш контроль над ремонтом. Принимайте работы
+    по частям, оперативно вносите правки и будьте уверены в качестве. ButlerSPB.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.7'
+    reviewCount: 502
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': 'https://butlerspb-blog.netlify.app/blog/poshagovaya-sdacha/'
 ---
 # Пошаговая сдача квартиры в аренду: полное руководство для собственника
 

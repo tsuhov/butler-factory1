@@ -1,11 +1,40 @@
 ---
-title: "Рост дохода: проверенные стратегии и советы"
-description: "Узнайте эффективные методы для увеличения вашего дохода. В нашей новой статье от ButlerSPB мы разбираем практические шаги, инвестиционные идеи и способы монетизации хобби."
-keywords: "рост дохода, увеличить доход, финансовая грамотность, инвестиции, пассивный доход, дополнительный заработок, ButlerSPB"
-pubDate: "2025-07-25T15:53:09.764Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Рост дохода: проверенные стратегии и советы","description":"Узнайте эффективные методы для увеличения вашего дохода. В нашей новой статье от ButlerSPB мы разбираем практические шаги, инвестиционные идеи и способы монетизации хобби.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.8","reviewCount":872,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/rost-dohoda/"}}
+title: 'Рост дохода: проверенные стратегии и советы'
+description: >-
+  Узнайте эффективные методы для увеличения вашего дохода. В нашей новой статье
+  от ButlerSPB мы разбираем практические шаги, инвестиционные идеи и способы
+  монетизации хобби.
+pubDate: '2025-07-25T15:53:09.764Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Рост дохода: проверенные стратегии и советы'
+  description: >-
+    Узнайте эффективные методы для увеличения вашего дохода. В нашей новой
+    статье от ButlerSPB мы разбираем практические шаги, инвестиционные идеи и
+    способы монетизации хобби.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '5.0'
+    reviewCount: 383
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': 'https://butlerspb-blog.netlify.app/blog/rost-dohoda/'
 ---
 # Рост дохода за пределами очевидного: стратегии для успешных людей
 

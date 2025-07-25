@@ -1,10 +1,43 @@
 ---
-title: "Что делать, если вы попали в ДТП на арендованном автомобиле"
-description: "Попали в аварию на арендованной машине? Без паники! ButlerSPB подготовил для вас пошаговую инструкцию: от первых действий на месте ДТП до общения со страховой и прокатной компанией. Узнайте, как действовать правильно, чтобы минимизировать стресс и финансовые потери."
-pubDate: "2025-07-22T13:06:02.173Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Что делать, если вы попали в ДТП на арендованном автомобиле","description":"Попали в аварию на арендованной машине? Без паники! ButlerSPB подготовил для вас пошаговую инструкцию: от первых действий на месте ДТП до общения со страховой и прокатной компанией. Узнайте, как действовать правильно, чтобы минимизировать стресс и финансовые потери.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.8","reviewCount":797,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/chto-delat-esli-vy-popali-v-dtp-na-arendovannom-avtomobile/"}}
+title: 'Что делать, если вы попали в ДТП на арендованном автомобиле'
+description: >-
+  Попали в аварию на арендованной машине? Без паники! ButlerSPB подготовил для
+  вас пошаговую инструкцию: от первых действий на месте ДТП до общения со
+  страховой и прокатной компанией. Узнайте, как действовать правильно, чтобы
+  минимизировать стресс и финансовые потери.
+pubDate: '2025-07-22T13:06:02.173Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Что делать, если вы попали в ДТП на арендованном автомобиле'
+  description: >-
+    Попали в аварию на арендованной машине? Без паники! ButlerSPB подготовил для
+    вас пошаговую инструкцию: от первых действий на месте ДТП до общения со
+    страховой и прокатной компанией. Узнайте, как действовать правильно, чтобы
+    минимизировать стресс и финансовые потери.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.8'
+    reviewCount: 835
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/chto-delat-esli-vy-popali-v-dtp-na-arendovannom-avtomobile/
 ---
 
 # Попали в ДТП на арендованном автомобиле? Сохраняйте спокойствие и следуйте этой инструкции

@@ -1,11 +1,38 @@
 ---
-title: "Что такое апартаменты-лофт: гид по стилю"
-description: "Лофт – это не просто жилье, а стиль жизни. Узнайте всё о высоких потолках, открытой планировке, кирпичных стенах и индустриальном шарме от ButlerSPB."
-keywords: "апартаменты лофт, стиль лофт, индустриальный дизайн, открытая планировка, недвижимость спб, аренда лофта, ButlerSPB"
-pubDate: "2025-07-24T12:04:18.711Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Что такое апартаменты-лофт: гид по стилю","description":"Лофт – это не просто жилье, а стиль жизни. Узнайте всё о высоких потолках, открытой планировке, кирпичных стенах и индустриальном шарме от ButlerSPB.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":590,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/chto-takoe-apartamenty-loft/"}}
+title: 'Что такое апартаменты-лофт: гид по стилю'
+description: >-
+  Лофт – это не просто жилье, а стиль жизни. Узнайте всё о высоких потолках,
+  открытой планировке, кирпичных стенах и индустриальном шарме от ButlerSPB.
+pubDate: '2025-07-24T12:04:18.711Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Что такое апартаменты-лофт: гид по стилю'
+  description: >-
+    Лофт – это не просто жилье, а стиль жизни. Узнайте всё о высоких потолках,
+    открытой планировке, кирпичных стенах и индустриальном шарме от ButlerSPB.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.9'
+    reviewCount: 709
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': 'https://butlerspb-blog.netlify.app/blog/chto-takoe-apartamenty-loft/'
 ---
 # Что такое апартаменты-лофт: гид по стилю, ценам и выбору в Санкт-Петербурге
 

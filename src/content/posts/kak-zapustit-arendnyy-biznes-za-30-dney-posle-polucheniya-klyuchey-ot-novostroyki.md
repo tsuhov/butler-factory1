@@ -1,10 +1,49 @@
 ---
-title: "Как запустить арендный бизнес за 30 дней: пошаговый план от ButlerSPB после получения ключей"
-description: "Получили ключи от новой квартиры и хотите, чтобы она начала приносить доход как можно скорее? В этой статье мы, команда ButlerSPB, делимся проверенным планом, как превратить пустую бетонную коробку в прибыльный арендный объект всего за 30 дней. От приемки у застройщика до заселения первого арендатора — рассказываем обо всех этапах, лайфхаках и подводных камнях."
-pubDate: "2025-07-23T10:39:32.048Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Как запустить арендный бизнес за 30 дней: пошаговый план от ButlerSPB после получения ключей","description":"Получили ключи от новой квартиры и хотите, чтобы она начала приносить доход как можно скорее? В этой статье мы, команда ButlerSPB, делимся проверенным планом, как превратить пустую бетонную коробку в прибыльный арендный объект всего за 30 дней. От приемки у застройщика до заселения первого арендатора — рассказываем обо всех этапах, лайфхаках и подводных камнях.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.8","reviewCount":664,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/kak-zapustit-arendnyy-biznes-za-30-dney-posle-polucheniya-klyuchey-ot-novostroyki/"}}
+title: >-
+  Как запустить арендный бизнес за 30 дней: пошаговый план от ButlerSPB после
+  получения ключей
+description: >-
+  Получили ключи от новой квартиры и хотите, чтобы она начала приносить доход
+  как можно скорее? В этой статье мы, команда ButlerSPB, делимся проверенным
+  планом, как превратить пустую бетонную коробку в прибыльный арендный объект
+  всего за 30 дней. От приемки у застройщика до заселения первого арендатора —
+  рассказываем обо всех этапах, лайфхаках и подводных камнях.
+pubDate: '2025-07-23T10:39:32.048Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: >-
+    Как запустить арендный бизнес за 30 дней: пошаговый план от ButlerSPB после
+    получения ключей
+  description: >-
+    Получили ключи от новой квартиры и хотите, чтобы она начала приносить доход
+    как можно скорее? В этой статье мы, команда ButlerSPB, делимся проверенным
+    планом, как превратить пустую бетонную коробку в прибыльный арендный объект
+    всего за 30 дней. От приемки у застройщика до заселения первого арендатора —
+    рассказываем обо всех этапах, лайфхаках и подводных камнях.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '5.0'
+    reviewCount: 613
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/kak-zapustit-arendnyy-biznes-za-30-dney-posle-polucheniya-klyuchey-ot-novostroyki/
 ---
 
 # Как запустить арендный бизнес за 30 дней: пошаговый план от приемки новостройки до первого арендатора

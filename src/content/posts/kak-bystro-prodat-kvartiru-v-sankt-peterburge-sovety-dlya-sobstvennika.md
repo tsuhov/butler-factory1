@@ -1,10 +1,49 @@
 ---
-title: "Как быстро продать квартиру в Санкт-Петербурге: советы для собственника от ButlerSPB"
-description: "Планируете продажу квартиры в СПб и хотите сделать это максимально быстро и выгодно? В нашей статье собраны проверенные советы от экспертов ButlerSPB: от правильной оценки и предпродажной подготовки до эффективного маркетинга и юридических нюансов. Узнайте, как избежать типичных ошибок и заключить сделку в кратчайшие сроки."
-pubDate: "2025-07-22T13:53:21.825Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Как быстро продать квартиру в Санкт-Петербурге: советы для собственника от ButlerSPB","description":"Планируете продажу квартиры в СПб и хотите сделать это максимально быстро и выгодно? В нашей статье собраны проверенные советы от экспертов ButlerSPB: от правильной оценки и предпродажной подготовки до эффективного маркетинга и юридических нюансов. Узнайте, как избежать типичных ошибок и заключить сделку в кратчайшие сроки.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.8","reviewCount":744,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/kak-bystro-prodat-kvartiru-v-sankt-peterburge-sovety-dlya-sobstvennika/"}}
+title: >-
+  Как быстро продать квартиру в Санкт-Петербурге: советы для собственника от
+  ButlerSPB
+description: >-
+  Планируете продажу квартиры в СПб и хотите сделать это максимально быстро и
+  выгодно? В нашей статье собраны проверенные советы от экспертов ButlerSPB: от
+  правильной оценки и предпродажной подготовки до эффективного маркетинга и
+  юридических нюансов. Узнайте, как избежать типичных ошибок и заключить сделку
+  в кратчайшие сроки.
+pubDate: '2025-07-22T13:53:21.825Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: >-
+    Как быстро продать квартиру в Санкт-Петербурге: советы для собственника от
+    ButlerSPB
+  description: >-
+    Планируете продажу квартиры в СПб и хотите сделать это максимально быстро и
+    выгодно? В нашей статье собраны проверенные советы от экспертов ButlerSPB:
+    от правильной оценки и предпродажной подготовки до эффективного маркетинга и
+    юридических нюансов. Узнайте, как избежать типичных ошибок и заключить
+    сделку в кратчайшие сроки.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.8'
+    reviewCount: 675
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/kak-bystro-prodat-kvartiru-v-sankt-peterburge-sovety-dlya-sobstvennika/
 ---
 
 # Как быстро продать квартиру в Санкт-Петербурге в 2024 году: пошаговое руководство для собственника

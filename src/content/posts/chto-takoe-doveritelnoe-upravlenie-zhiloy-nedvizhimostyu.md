@@ -1,10 +1,51 @@
 ---
-title: "Что такое доверительное управление жилой недвижимостью и как оно экономит ваше время?"
-description: "Хотите, чтобы ваша квартира приносила стабильный доход без лишних хлопот? В новой статье блога ButlerSPB разбираемся, что такое доверительное управление недвижимостью, кому подходит эта услуга, какие задачи берет на себя управляющая компания и как превратить свою собственность в пассивный актив. Узнайте, как сдать квартиру в надежные руки и забыть о поиске жильцов, ремонте и контроле оплат."
-pubDate: "2025-07-22T00:30:36.855Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Что такое доверительное управление жилой недвижимостью и как оно экономит ваше время?","description":"Хотите, чтобы ваша квартира приносила стабильный доход без лишних хлопот? В новой статье блога ButlerSPB разбираемся, что такое доверительное управление недвижимостью, кому подходит эта услуга, какие задачи берет на себя управляющая компания и как превратить свою собственность в пассивный актив. Узнайте, как сдать квартиру в надежные руки и забыть о поиске жильцов, ремонте и контроле оплат.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":634,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/chto-takoe-doveritelnoe-upravlenie-zhiloy-nedvizhimostyu/"}}
+title: >-
+  Что такое доверительное управление жилой недвижимостью и как оно экономит ваше
+  время?
+description: >-
+  Хотите, чтобы ваша квартира приносила стабильный доход без лишних хлопот? В
+  новой статье блога ButlerSPB разбираемся, что такое доверительное управление
+  недвижимостью, кому подходит эта услуга, какие задачи берет на себя
+  управляющая компания и как превратить свою собственность в пассивный актив.
+  Узнайте, как сдать квартиру в надежные руки и забыть о поиске жильцов, ремонте
+  и контроле оплат.
+pubDate: '2025-07-22T00:30:36.855Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: >-
+    Что такое доверительное управление жилой недвижимостью и как оно экономит
+    ваше время?
+  description: >-
+    Хотите, чтобы ваша квартира приносила стабильный доход без лишних хлопот? В
+    новой статье блога ButlerSPB разбираемся, что такое доверительное управление
+    недвижимостью, кому подходит эта услуга, какие задачи берет на себя
+    управляющая компания и как превратить свою собственность в пассивный актив.
+    Узнайте, как сдать квартиру в надежные руки и забыть о поиске жильцов,
+    ремонте и контроле оплат.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.8'
+    reviewCount: 494
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/chto-takoe-doveritelnoe-upravlenie-zhiloy-nedvizhimostyu/
 ---
 
 # Доверительное управление квартирой: Как получать пассивный доход и забыть о проблемах с арендаторами

@@ -1,10 +1,51 @@
 ---
-title: "Риэлтор по коммерческой недвижимости: как найти идеальных арендаторов для вашего офиса"
-description: "Сдача офиса в аренду – сложный процесс, требующий знания рынка и маркетинговых инструментов. В новой статье блога ButlerSPB разбираем ключевые этапы работы риэлтора по коммерческой недвижимости: от оценки объекта и создания привлекательного предложения до проведения переговоров и заключения выгодного договора. Узнайте, как профессиональный подход помогает собственникам экономить время и находить надежных арендаторов."
-pubDate: "2025-07-23T10:48:17.511Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Риэлтор по коммерческой недвижимости: как найти идеальных арендаторов для вашего офиса","description":"Сдача офиса в аренду – сложный процесс, требующий знания рынка и маркетинговых инструментов. В новой статье блога ButlerSPB разбираем ключевые этапы работы риэлтора по коммерческой недвижимости: от оценки объекта и создания привлекательного предложения до проведения переговоров и заключения выгодного договора. Узнайте, как профессиональный подход помогает собственникам экономить время и находить надежных арендаторов.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.7","reviewCount":306,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/rieltor-po-kommercheskoy-nedvizhimosti-poisk-arendatorov-dlya-ofisov/"}}
+title: >-
+  Риэлтор по коммерческой недвижимости: как найти идеальных арендаторов для
+  вашего офиса
+description: >-
+  Сдача офиса в аренду – сложный процесс, требующий знания рынка и маркетинговых
+  инструментов. В новой статье блога ButlerSPB разбираем ключевые этапы работы
+  риэлтора по коммерческой недвижимости: от оценки объекта и создания
+  привлекательного предложения до проведения переговоров и заключения выгодного
+  договора. Узнайте, как профессиональный подход помогает собственникам
+  экономить время и находить надежных арендаторов.
+pubDate: '2025-07-23T10:48:17.511Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: >-
+    Риэлтор по коммерческой недвижимости: как найти идеальных арендаторов для
+    вашего офиса
+  description: >-
+    Сдача офиса в аренду – сложный процесс, требующий знания рынка и
+    маркетинговых инструментов. В новой статье блога ButlerSPB разбираем
+    ключевые этапы работы риэлтора по коммерческой недвижимости: от оценки
+    объекта и создания привлекательного предложения до проведения переговоров и
+    заключения выгодного договора. Узнайте, как профессиональный подход помогает
+    собственникам экономить время и находить надежных арендаторов.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.9'
+    reviewCount: 647
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/rieltor-po-kommercheskoy-nedvizhimosti-poisk-arendatorov-dlya-ofisov/
 ---
 
 # Как риэлтор по коммерческой недвижимости находит арендаторов для офиса: Полное руководство от экспертов ButlerSPB

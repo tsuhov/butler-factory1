@@ -1,10 +1,43 @@
 ---
-title: "Покупка новостройки у подрядчика: дешевле, но рискованнее?"
-description: "Квартиры от подрядных организаций часто стоят дешевле, чем у застройщика, но такая экономия может быть сопряжена с рисками. В блоге ButlerSPB разбираем все плюсы и минусы покупки жилья у подрядчика: от реальной выгоды до юридических тонкостей и потенциальных «подводных камней»."
-pubDate: "2025-07-23T11:54:08.076Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Покупка новостройки у подрядчика: дешевле, но рискованнее?","description":"Квартиры от подрядных организаций часто стоят дешевле, чем у застройщика, но такая экономия может быть сопряжена с рисками. В блоге ButlerSPB разбираем все плюсы и минусы покупки жилья у подрядчика: от реальной выгоды до юридических тонкостей и потенциальных «подводных камней».","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.8","reviewCount":609,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/pokupka-novostroyki-u-podryadchika-deshevle-no-riskovannee/"}}
+title: 'Покупка новостройки у подрядчика: дешевле, но рискованнее?'
+description: >-
+  Квартиры от подрядных организаций часто стоят дешевле, чем у застройщика, но
+  такая экономия может быть сопряжена с рисками. В блоге ButlerSPB разбираем все
+  плюсы и минусы покупки жилья у подрядчика: от реальной выгоды до юридических
+  тонкостей и потенциальных «подводных камней».
+pubDate: '2025-07-23T11:54:08.076Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Покупка новостройки у подрядчика: дешевле, но рискованнее?'
+  description: >-
+    Квартиры от подрядных организаций часто стоят дешевле, чем у застройщика, но
+    такая экономия может быть сопряжена с рисками. В блоге ButlerSPB разбираем
+    все плюсы и минусы покупки жилья у подрядчика: от реальной выгоды до
+    юридических тонкостей и потенциальных «подводных камней».
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.7'
+    reviewCount: 707
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/pokupka-novostroyki-u-podryadchika-deshevle-no-riskovannee/
 ---
 
 # Квартира от подрядчика: экономия до 20% или огромный риск? | Гайд ButlerSPB

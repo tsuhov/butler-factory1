@@ -1,10 +1,51 @@
 ---
-title: "Среднесрочная аренда в Санкт-Петербурге: что это такое и для кого она идеальна?"
-description: "Что такое среднесрочная аренда и почему снять квартиру на 1, 2 или 3 месяца — идеальное решение? В блоге ButlerSPB разбираемся, кто обычно выбирает такой формат: от специалистов в длительной командировке и студентов на время сессии до семей, затеявших ремонт. Рассказываем о главных преимуществах аренды на средний срок перед посуточной и долгосрочной, и как найти идеальные апартаменты для комфортной жизни в Петербурге."
-pubDate: "2025-07-22T22:15:20.071Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Среднесрочная аренда в Санкт-Петербурге: что это такое и для кого она идеальна?","description":"Что такое среднесрочная аренда и почему снять квартиру на 1, 2 или 3 месяца — идеальное решение? В блоге ButlerSPB разбираемся, кто обычно выбирает такой формат: от специалистов в длительной командировке и студентов на время сессии до семей, затеявших ремонт. Рассказываем о главных преимуществах аренды на средний срок перед посуточной и долгосрочной, и как найти идеальные апартаменты для комфортной жизни в Петербурге.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.8","reviewCount":638,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/chto-takoe-srednesrochnaya-arenda-ot-1-do-3-mesyacev-i-kto-ee-snimaet/"}}
+title: >-
+  Среднесрочная аренда в Санкт-Петербурге: что это такое и для кого она
+  идеальна?
+description: >-
+  Что такое среднесрочная аренда и почему снять квартиру на 1, 2 или 3 месяца —
+  идеальное решение? В блоге ButlerSPB разбираемся, кто обычно выбирает такой
+  формат: от специалистов в длительной командировке и студентов на время сессии
+  до семей, затеявших ремонт. Рассказываем о главных преимуществах аренды на
+  средний срок перед посуточной и долгосрочной, и как найти идеальные
+  апартаменты для комфортной жизни в Петербурге.
+pubDate: '2025-07-22T22:15:20.071Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: >-
+    Среднесрочная аренда в Санкт-Петербурге: что это такое и для кого она
+    идеальна?
+  description: >-
+    Что такое среднесрочная аренда и почему снять квартиру на 1, 2 или 3 месяца
+    — идеальное решение? В блоге ButlerSPB разбираемся, кто обычно выбирает
+    такой формат: от специалистов в длительной командировке и студентов на время
+    сессии до семей, затеявших ремонт. Рассказываем о главных преимуществах
+    аренды на средний срок перед посуточной и долгосрочной, и как найти
+    идеальные апартаменты для комфортной жизни в Петербурге.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.8'
+    reviewCount: 371
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/chto-takoe-srednesrochnaya-arenda-ot-1-do-3-mesyacev-i-kto-ee-snimaet/
 ---
 
 # Среднесрочная аренда (1-3 месяца): подробный гид для тех, кто ищет временный дом в Санкт-Петербурге

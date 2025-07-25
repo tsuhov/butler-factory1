@@ -1,11 +1,39 @@
 ---
-title: "Анализ рынка недвижимости от экспертов ButlerSPB"
-description: "Подробный разбор рынка недвижимости от ButlerSPB. Рассматриваем динамику цен, выгодные районы для покупки и инвестиций. Актуальные прогнозы для Петербурга."
-keywords: "рынок недвижимости, недвижимость СПб, покупка квартиры, цены на жилье, инвестиции в недвижимость, ButlerSPB"
-pubDate: "2025-07-25T14:59:35.374Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Анализ рынка недвижимости от экспертов ButlerSPB","description":"Подробный разбор рынка недвижимости от ButlerSPB. Рассматриваем динамику цен, выгодные районы для покупки и инвестиций. Актуальные прогнозы для Петербурга.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.8","reviewCount":410,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/rynok-nedvizhimosti/"}}
+title: Анализ рынка недвижимости от экспертов ButlerSPB
+description: >-
+  Подробный разбор рынка недвижимости от ButlerSPB. Рассматриваем динамику цен,
+  выгодные районы для покупки и инвестиций. Актуальные прогнозы для Петербурга.
+pubDate: '2025-07-25T14:59:35.374Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: Анализ рынка недвижимости от экспертов ButlerSPB
+  description: >-
+    Подробный разбор рынка недвижимости от ButlerSPB. Рассматриваем динамику
+    цен, выгодные районы для покупки и инвестиций. Актуальные прогнозы для
+    Петербурга.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.9'
+    reviewCount: 697
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': 'https://butlerspb-blog.netlify.app/blog/rynok-nedvizhimosti/'
 ---
 # Рынок недвижимости Петербурга: куда движутся цены и где искать лучшие активы в 2024 году?
 

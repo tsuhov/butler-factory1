@@ -1,10 +1,50 @@
 ---
-title: "Самые дорогие и перспективные районы Санкт-Петербурга для инвестиций: аналитика от ButlerSPB"
-description: "Планируете вложить средства в элитную недвижимость Санкт-Петербурга? Команда ButlerSPB представляет экспертный обзор самых престижных и инвестиционно-привлекательных районов города. Анализируем цены, инфраструктуру и потенциал роста Крестовского острова, Петроградской стороны и Золотого треугольника. Узнайте, где ваша инвестиция принесет максимальную доходность."
-pubDate: "2025-07-22T13:53:42.016Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Самые дорогие и перспективные районы Санкт-Петербурга для инвестиций: аналитика от ButlerSPB","description":"Планируете вложить средства в элитную недвижимость Санкт-Петербурга? Команда ButlerSPB представляет экспертный обзор самых престижных и инвестиционно-привлекательных районов города. Анализируем цены, инфраструктуру и потенциал роста Крестовского острова, Петроградской стороны и Золотого треугольника. Узнайте, где ваша инвестиция принесет максимальную доходность.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":464,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/samye-dorogie-i-perspektivnye-rayony-sankt-peterburga-dlya-investiciy/"}}
+title: >-
+  Самые дорогие и перспективные районы Санкт-Петербурга для инвестиций:
+  аналитика от ButlerSPB
+description: >-
+  Планируете вложить средства в элитную недвижимость Санкт-Петербурга? Команда
+  ButlerSPB представляет экспертный обзор самых престижных и
+  инвестиционно-привлекательных районов города. Анализируем цены, инфраструктуру
+  и потенциал роста Крестовского острова, Петроградской стороны и Золотого
+  треугольника. Узнайте, где ваша инвестиция принесет максимальную доходность.
+pubDate: '2025-07-22T13:53:42.016Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: >-
+    Самые дорогие и перспективные районы Санкт-Петербурга для инвестиций:
+    аналитика от ButlerSPB
+  description: >-
+    Планируете вложить средства в элитную недвижимость Санкт-Петербурга? Команда
+    ButlerSPB представляет экспертный обзор самых престижных и
+    инвестиционно-привлекательных районов города. Анализируем цены,
+    инфраструктуру и потенциал роста Крестовского острова, Петроградской стороны
+    и Золотого треугольника. Узнайте, где ваша инвестиция принесет максимальную
+    доходность.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.8'
+    reviewCount: 802
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/samye-dorogie-i-perspektivnye-rayony-sankt-peterburga-dlya-investiciy/
 ---
 
 # Самые дорогие и перспективные районы Санкт-Петербурга: гид для инвестора от ButlerSPB

@@ -1,10 +1,51 @@
 ---
-title: "Налоги при доверительном управлении загородной недвижимостью: полный гайд от ButlerSPB"
-description: "Передача загородного дома в доверительное управление — эффективный способ получения пассивного дохода. Но как быть с налогами? В нашей новой статье разбираемся, кто платит налоги — собственник или управляющая компания, какие налоговые режимы доступны (НДФЛ, НПД, УСН), как правильно декларировать доход и оптимизировать налоговую нагрузку. Все, что нужно знать собственнику для легальной и выгодной сдачи недвижимости."
-pubDate: "2025-07-21T23:50:31.928Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Налоги при доверительном управлении загородной недвижимостью: полный гайд от ButlerSPB","description":"Передача загородного дома в доверительное управление — эффективный способ получения пассивного дохода. Но как быть с налогами? В нашей новой статье разбираемся, кто платит налоги — собственник или управляющая компания, какие налоговые режимы доступны (НДФЛ, НПД, УСН), как правильно декларировать доход и оптимизировать налоговую нагрузку. Все, что нужно знать собственнику для легальной и выгодной сдачи недвижимости.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"5.0","reviewCount":810,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/nalogooblozhenie-pri-doveritelnom-upravlenii-zagorodnoy-nedvizhimostyu/"}}
+title: >-
+  Налоги при доверительном управлении загородной недвижимостью: полный гайд от
+  ButlerSPB
+description: >-
+  Передача загородного дома в доверительное управление — эффективный способ
+  получения пассивного дохода. Но как быть с налогами? В нашей новой статье
+  разбираемся, кто платит налоги — собственник или управляющая компания, какие
+  налоговые режимы доступны (НДФЛ, НПД, УСН), как правильно декларировать доход
+  и оптимизировать налоговую нагрузку. Все, что нужно знать собственнику для
+  легальной и выгодной сдачи недвижимости.
+pubDate: '2025-07-21T23:50:31.928Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: >-
+    Налоги при доверительном управлении загородной недвижимостью: полный гайд от
+    ButlerSPB
+  description: >-
+    Передача загородного дома в доверительное управление — эффективный способ
+    получения пассивного дохода. Но как быть с налогами? В нашей новой статье
+    разбираемся, кто платит налоги — собственник или управляющая компания, какие
+    налоговые режимы доступны (НДФЛ, НПД, УСН), как правильно декларировать
+    доход и оптимизировать налоговую нагрузку. Все, что нужно знать собственнику
+    для легальной и выгодной сдачи недвижимости.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.8'
+    reviewCount: 482
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/nalogooblozhenie-pri-doveritelnom-upravlenii-zagorodnoy-nedvizhimostyu/
 ---
 
 # **Налоги и доверительное управление загородной недвижимостью: полное руководство для собственника**

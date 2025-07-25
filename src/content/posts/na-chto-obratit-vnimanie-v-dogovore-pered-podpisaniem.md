@@ -1,10 +1,47 @@
 ---
-title: "На что обратить внимание в договоре перед подписанием"
-description: "Договор – это основа любых деловых отношений, будь то аренда квартиры, оказание услуг или покупка автомобиля. Невнимательное отношение к его содержанию может привести к серьезным финансовым и юридическим последствиям. В новой статье блога ButlerSPB мы разбираем ключевые пункты, которые обязательно нужно проверить перед тем, как ставить свою подпись. Узнайте, как защитить свои права и избежать скрытых рисков."
-pubDate: "2025-07-22T13:51:52.348Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"На что обратить внимание в договоре перед подписанием","description":"Договор – это основа любых деловых отношений, будь то аренда квартиры, оказание услуг или покупка автомобиля. Невнимательное отношение к его содержанию может привести к серьезным финансовым и юридическим последствиям. В новой статье блога ButlerSPB мы разбираем ключевые пункты, которые обязательно нужно проверить перед тем, как ставить свою подпись. Узнайте, как защитить свои права и избежать скрытых рисков.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":408,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/na-chto-obratit-vnimanie-v-dogovore-pered-podpisaniem/"}}
+title: На что обратить внимание в договоре перед подписанием
+description: >-
+  Договор – это основа любых деловых отношений, будь то аренда квартиры,
+  оказание услуг или покупка автомобиля. Невнимательное отношение к его
+  содержанию может привести к серьезным финансовым и юридическим последствиям. В
+  новой статье блога ButlerSPB мы разбираем ключевые пункты, которые обязательно
+  нужно проверить перед тем, как ставить свою подпись. Узнайте, как защитить
+  свои права и избежать скрытых рисков.
+pubDate: '2025-07-22T13:51:52.348Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: На что обратить внимание в договоре перед подписанием
+  description: >-
+    Договор – это основа любых деловых отношений, будь то аренда квартиры,
+    оказание услуг или покупка автомобиля. Невнимательное отношение к его
+    содержанию может привести к серьезным финансовым и юридическим последствиям.
+    В новой статье блога ButlerSPB мы разбираем ключевые пункты, которые
+    обязательно нужно проверить перед тем, как ставить свою подпись. Узнайте,
+    как защитить свои права и избежать скрытых рисков.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.8'
+    reviewCount: 323
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/na-chto-obratit-vnimanie-v-dogovore-pered-podpisaniem/
 ---
 
 # Договор без мин: полный гид по проверке любого документа перед подписанием

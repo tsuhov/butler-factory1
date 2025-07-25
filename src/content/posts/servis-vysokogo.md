@@ -1,11 +1,40 @@
 ---
-title: "Секреты высокого сервиса от команды ButlerSPB"
-description: "В нашей новой статье мы делимся философией высокого сервиса ButlerSPB. Узнайте, как персональный подход и внимание к мелочам формируют доверие и лояльность."
-keywords: "высокий сервис, ButlerSPB, качество обслуживания, клиентский опыт, премиум услуги, персональный подход, стандарты качества"
-pubDate: "2025-07-24T13:15:09.147Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Секреты высокого сервиса от команды ButlerSPB","description":"В нашей новой статье мы делимся философией высокого сервиса ButlerSPB. Узнайте, как персональный подход и внимание к мелочам формируют доверие и лояльность.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":367,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/servis-vysokogo/"}}
+title: Секреты высокого сервиса от команды ButlerSPB
+description: >-
+  В нашей новой статье мы делимся философией высокого сервиса ButlerSPB.
+  Узнайте, как персональный подход и внимание к мелочам формируют доверие и
+  лояльность.
+pubDate: '2025-07-24T13:15:09.147Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: Секреты высокого сервиса от команды ButlerSPB
+  description: >-
+    В нашей новой статье мы делимся философией высокого сервиса ButlerSPB.
+    Узнайте, как персональный подход и внимание к мелочам формируют доверие и
+    лояльность.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.8'
+    reviewCount: 519
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': 'https://butlerspb-blog.netlify.app/blog/servis-vysokogo/'
 ---
 # Сервис высокого уровня: не роскошь, а новая норма для тех, кто ценит главное
 

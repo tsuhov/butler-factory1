@@ -1,10 +1,49 @@
 ---
-title: "Доверительное управление недвижимостью: кто платит налоги?"
-description: "Передача квартиры в доверительное управление — удобный способ получать пассивный доход, но он вызывает много вопросов, особенно в части налогообложения. Кто должен платить налоги с аренды: собственник или управляющая компания? В новой статье блога ButlerSPB разбираемся в налоговых обязательствах учредителя управления и доверительного управляющего, рассказываем, какие налоги возникают и как их правильно декларировать, чтобы избежать проблем с ФНС."
-pubDate: "2025-07-22T00:04:02.179Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Доверительное управление недвижимостью: кто платит налоги?","description":"Передача квартиры в доверительное управление — удобный способ получать пассивный доход, но он вызывает много вопросов, особенно в части налогообложения. Кто должен платить налоги с аренды: собственник или управляющая компания? В новой статье блога ButlerSPB разбираемся в налоговых обязательствах учредителя управления и доверительного управляющего, рассказываем, какие налоги возникают и как их правильно декларировать, чтобы избежать проблем с ФНС.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":444,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/doveritelnoe-upravlenie-nedvizhimostyu-kto-platit-nalogi/"}}
+title: 'Доверительное управление недвижимостью: кто платит налоги?'
+description: >-
+  Передача квартиры в доверительное управление — удобный способ получать
+  пассивный доход, но он вызывает много вопросов, особенно в части
+  налогообложения. Кто должен платить налоги с аренды: собственник или
+  управляющая компания? В новой статье блога ButlerSPB разбираемся в налоговых
+  обязательствах учредителя управления и доверительного управляющего,
+  рассказываем, какие налоги возникают и как их правильно декларировать, чтобы
+  избежать проблем с ФНС.
+pubDate: '2025-07-22T00:04:02.179Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Доверительное управление недвижимостью: кто платит налоги?'
+  description: >-
+    Передача квартиры в доверительное управление — удобный способ получать
+    пассивный доход, но он вызывает много вопросов, особенно в части
+    налогообложения. Кто должен платить налоги с аренды: собственник или
+    управляющая компания? В новой статье блога ButlerSPB разбираемся в налоговых
+    обязательствах учредителя управления и доверительного управляющего,
+    рассказываем, какие налоги возникают и как их правильно декларировать, чтобы
+    избежать проблем с ФНС.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.7'
+    reviewCount: 322
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/doveritelnoe-upravlenie-nedvizhimostyu-kto-platit-nalogi/
 ---
 
 # Доверительное управление недвижимостью и налоги: кто, когда и сколько платит? Полный разбор для собственника

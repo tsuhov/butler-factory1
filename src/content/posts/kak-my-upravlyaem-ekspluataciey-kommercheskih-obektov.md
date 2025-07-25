@@ -1,10 +1,45 @@
 ---
-title: "За кулисами ButlerSPB: Как мы управляем эксплуатацией коммерческих объектов"
-description: "В этой статье мы подробно расскажем о нашем комплексном подходе к управлению коммерческой недвижимостью. Вы узнаете, как мы обеспечиваем бесперебойную работу инженерных систем, организуем клининг, решаем вопросы безопасности и взаимодействуем с арендаторами, чтобы каждый квадратный метр вашего объекта работал максимально эффективно и приносил доход."
-pubDate: "2025-07-22T11:31:05.726Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"За кулисами ButlerSPB: Как мы управляем эксплуатацией коммерческих объектов","description":"В этой статье мы подробно расскажем о нашем комплексном подходе к управлению коммерческой недвижимостью. Вы узнаете, как мы обеспечиваем бесперебойную работу инженерных систем, организуем клининг, решаем вопросы безопасности и взаимодействуем с арендаторами, чтобы каждый квадратный метр вашего объекта работал максимально эффективно и приносил доход.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":509,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/kak-my-upravlyaem-ekspluataciey-kommercheskih-obektov/"}}
+title: 'За кулисами ButlerSPB: Как мы управляем эксплуатацией коммерческих объектов'
+description: >-
+  В этой статье мы подробно расскажем о нашем комплексном подходе к управлению
+  коммерческой недвижимостью. Вы узнаете, как мы обеспечиваем бесперебойную
+  работу инженерных систем, организуем клининг, решаем вопросы безопасности и
+  взаимодействуем с арендаторами, чтобы каждый квадратный метр вашего объекта
+  работал максимально эффективно и приносил доход.
+pubDate: '2025-07-22T11:31:05.726Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'За кулисами ButlerSPB: Как мы управляем эксплуатацией коммерческих объектов'
+  description: >-
+    В этой статье мы подробно расскажем о нашем комплексном подходе к управлению
+    коммерческой недвижимостью. Вы узнаете, как мы обеспечиваем бесперебойную
+    работу инженерных систем, организуем клининг, решаем вопросы безопасности и
+    взаимодействуем с арендаторами, чтобы каждый квадратный метр вашего объекта
+    работал максимально эффективно и приносил доход.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.7'
+    reviewCount: 785
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/kak-my-upravlyaem-ekspluataciey-kommercheskih-obektov/
 ---
 
 # Эксплуатация коммерческих объектов: как ButlerSPB превращает вашу недвижимость в бесперебойный и доходный актив

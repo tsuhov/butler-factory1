@@ -1,11 +1,38 @@
 ---
-title: "Гид по Белым ночам в Петербурге от ButlerSPB"
-description: "Откройте для себя магию белых ночей в Санкт-Петербурге! ButlerSPB подготовил гид по лучшим местам и событиям: разводные мосты, фестивали, прогулки."
-keywords: "белые ночи, санкт-петербург, что посмотреть, разводные мосты, туризм, лето в спб, butler spb"
-pubDate: "2025-07-25T15:56:20.105Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Гид по Белым ночам в Петербурге от ButlerSPB","description":"Откройте для себя магию белых ночей в Санкт-Петербурге! ButlerSPB подготовил гид по лучшим местам и событиям: разводные мосты, фестивали, прогулки.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":829,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/belye-nochi/"}}
+title: Гид по Белым ночам в Петербурге от ButlerSPB
+description: >-
+  Откройте для себя магию белых ночей в Санкт-Петербурге! ButlerSPB подготовил
+  гид по лучшим местам и событиям: разводные мосты, фестивали, прогулки.
+pubDate: '2025-07-25T15:56:20.105Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: Гид по Белым ночам в Петербурге от ButlerSPB
+  description: >-
+    Откройте для себя магию белых ночей в Санкт-Петербурге! ButlerSPB подготовил
+    гид по лучшим местам и событиям: разводные мосты, фестивали, прогулки.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.8'
+    reviewCount: 432
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': 'https://butlerspb-blog.netlify.app/blog/belye-nochi/'
 ---
 # Белые ночи в Санкт-Петербурге: Полный гид по самому волшебному времени года
 

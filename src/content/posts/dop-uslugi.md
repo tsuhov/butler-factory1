@@ -1,11 +1,40 @@
 ---
-title: "Дополнительные услуги от ButlerSPB: ваш комфорт"
-description: "Помимо основных предложений, ButlerSPB рад предоставить эксклюзивные дополнительные услуги, созданные для вашего максимального удобства и экономии времени."
-keywords: "дополнительные услуги, ButlerSPB, сервис в СПб, консьерж-сервис, комфорт, персональный ассистент"
-pubDate: "2025-07-25T16:05:05.123Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Дополнительные услуги от ButlerSPB: ваш комфорт","description":"Помимо основных предложений, ButlerSPB рад предоставить эксклюзивные дополнительные услуги, созданные для вашего максимального удобства и экономии времени.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.7","reviewCount":530,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/dop-uslugi/"}}
+title: 'Дополнительные услуги от ButlerSPB: ваш комфорт'
+description: >-
+  Помимо основных предложений, ButlerSPB рад предоставить эксклюзивные
+  дополнительные услуги, созданные для вашего максимального удобства и экономии
+  времени.
+pubDate: '2025-07-25T16:05:05.123Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Дополнительные услуги от ButlerSPB: ваш комфорт'
+  description: >-
+    Помимо основных предложений, ButlerSPB рад предоставить эксклюзивные
+    дополнительные услуги, созданные для вашего максимального удобства и
+    экономии времени.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.8'
+    reviewCount: 302
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': 'https://butlerspb-blog.netlify.app/blog/dop-uslugi/'
 ---
 # Не просто уборка: как дополнительные услуги создают идеальный комфорт в вашем доме
 

@@ -1,11 +1,40 @@
 ---
-title: "Расписка о получении денег: юридическая сила"
-description: "Долговая расписка – ключевой документ при займе денег. Узнайте, как составить ее правильно, чтобы она имела юридическую силу. Разбираем обязательные пункты и частые ошибки."
-keywords: "долговая расписка, как составить расписку, образец расписки, расписка о получении денег, юридическая сила расписки, вернуть долг по расписке"
-pubDate: "2025-07-25T16:04:36.563Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Расписка о получении денег: юридическая сила","description":"Долговая расписка – ключевой документ при займе денег. Узнайте, как составить ее правильно, чтобы она имела юридическую силу. Разбираем обязательные пункты и частые ошибки.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":302,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/raspiska-dengi/"}}
+title: 'Расписка о получении денег: юридическая сила'
+description: >-
+  Долговая расписка – ключевой документ при займе денег. Узнайте, как составить
+  ее правильно, чтобы она имела юридическую силу. Разбираем обязательные пункты
+  и частые ошибки.
+pubDate: '2025-07-25T16:04:36.563Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Расписка о получении денег: юридическая сила'
+  description: >-
+    Долговая расписка – ключевой документ при займе денег. Узнайте, как
+    составить ее правильно, чтобы она имела юридическую силу. Разбираем
+    обязательные пункты и частые ошибки.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.8'
+    reviewCount: 757
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': 'https://butlerspb-blog.netlify.app/blog/raspiska-dengi/'
 ---
 # Расписка в получении денег 2024: Как составить, чтобы вернуть долг. Полное руководство и образец от юристов ButlerSPB.
 

@@ -1,11 +1,40 @@
 ---
-title: "Ротация персонала как инструмент роста бизнеса"
-description: "Ротация кадров – это мощный инструмент для развития сотрудников, предотвращения выгорания и повышения гибкости бизнеса. Узнайте, как правильно ее организовать."
-keywords: "ротация кадров, управление персоналом, развитие сотрудников, мотивация персонала, HR, карьерный рост"
-pubDate: "2025-07-25T16:12:30.799Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Ротация персонала как инструмент роста бизнеса","description":"Ротация кадров – это мощный инструмент для развития сотрудников, предотвращения выгорания и повышения гибкости бизнеса. Узнайте, как правильно ее организовать.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.8","reviewCount":813,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/rotaciya-kadrov/"}}
+title: Ротация персонала как инструмент роста бизнеса
+description: >-
+  Ротация кадров – это мощный инструмент для развития сотрудников,
+  предотвращения выгорания и повышения гибкости бизнеса. Узнайте, как правильно
+  ее организовать.
+pubDate: '2025-07-25T16:12:30.799Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: Ротация персонала как инструмент роста бизнеса
+  description: >-
+    Ротация кадров – это мощный инструмент для развития сотрудников,
+    предотвращения выгорания и повышения гибкости бизнеса. Узнайте, как
+    правильно ее организовать.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '5.0'
+    reviewCount: 662
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': 'https://butlerspb-blog.netlify.app/blog/rotaciya-kadrov/'
 ---
 # Ротация кадров: полное руководство по внедрению для HR и руководителей
 

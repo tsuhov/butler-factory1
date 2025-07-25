@@ -1,10 +1,45 @@
 ---
-title: "Разбираем отчет для собственника от ButlerSPB: что скрывается за цифрами?"
-description: "Получили ежемесячный отчет от ButlerSPB и хотите понять, насколько эффективно сдавалась ваша квартира? В этой статье мы подробно разбираем каждый пункт отчета для собственника: от валового дохода и расходов до показателей ADR, RevPAR и процента загрузки. Научитесь читать отчет как профессионал и оценивать реальную доходность вашей недвижимости."
-pubDate: "2025-07-22T11:04:13.365Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Разбираем отчет для собственника от ButlerSPB: что скрывается за цифрами?","description":"Получили ежемесячный отчет от ButlerSPB и хотите понять, насколько эффективно сдавалась ваша квартира? В этой статье мы подробно разбираем каждый пункт отчета для собственника: от валового дохода и расходов до показателей ADR, RevPAR и процента загрузки. Научитесь читать отчет как профессионал и оценивать реальную доходность вашей недвижимости.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.8","reviewCount":475,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/razbor-otcheta-dlya-sobstvennika-ot-butlerspb-chto-oznachayut-vse-cifry/"}}
+title: 'Разбираем отчет для собственника от ButlerSPB: что скрывается за цифрами?'
+description: >-
+  Получили ежемесячный отчет от ButlerSPB и хотите понять, насколько эффективно
+  сдавалась ваша квартира? В этой статье мы подробно разбираем каждый пункт
+  отчета для собственника: от валового дохода и расходов до показателей ADR,
+  RevPAR и процента загрузки. Научитесь читать отчет как профессионал и
+  оценивать реальную доходность вашей недвижимости.
+pubDate: '2025-07-22T11:04:13.365Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Разбираем отчет для собственника от ButlerSPB: что скрывается за цифрами?'
+  description: >-
+    Получили ежемесячный отчет от ButlerSPB и хотите понять, насколько
+    эффективно сдавалась ваша квартира? В этой статье мы подробно разбираем
+    каждый пункт отчета для собственника: от валового дохода и расходов до
+    показателей ADR, RevPAR и процента загрузки. Научитесь читать отчет как
+    профессионал и оценивать реальную доходность вашей недвижимости.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.8'
+    reviewCount: 573
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/razbor-otcheta-dlya-sobstvennika-ot-butlerspb-chto-oznachayut-vse-cifry/
 ---
 
 # Разбор отчета для собственника от ButlerSPB: что означают все цифры и как мы управляем вашим доходом

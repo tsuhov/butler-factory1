@@ -1,10 +1,47 @@
 ---
-title: "Простор и свобода: анализируем спрос на аренду домов с большими участками"
-description: "В последние годы наблюдается устойчивый рост интереса к аренде загородных домов с просторными участками. В новой статье блога ButlerSPB мы детально анализируем факторы, влияющие на спрос: от желания уединения и близости к природе до новых возможностей для отдыха и удаленной работы. Узнайте, какие локации наиболее востребованы и как изменился портрет современного арендатора на рынке элитной недвижимости."
-pubDate: "2025-07-23T12:17:54.605Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Простор и свобода: анализируем спрос на аренду домов с большими участками","description":"В последние годы наблюдается устойчивый рост интереса к аренде загородных домов с просторными участками. В новой статье блога ButlerSPB мы детально анализируем факторы, влияющие на спрос: от желания уединения и близости к природе до новых возможностей для отдыха и удаленной работы. Узнайте, какие локации наиболее востребованы и как изменился портрет современного арендатора на рынке элитной недвижимости.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":830,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/analiz-sprosa-na-arendu-domov-s-bolshimi-uchastkami/"}}
+title: 'Простор и свобода: анализируем спрос на аренду домов с большими участками'
+description: >-
+  В последние годы наблюдается устойчивый рост интереса к аренде загородных
+  домов с просторными участками. В новой статье блога ButlerSPB мы детально
+  анализируем факторы, влияющие на спрос: от желания уединения и близости к
+  природе до новых возможностей для отдыха и удаленной работы. Узнайте, какие
+  локации наиболее востребованы и как изменился портрет современного арендатора
+  на рынке элитной недвижимости.
+pubDate: '2025-07-23T12:17:54.605Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Простор и свобода: анализируем спрос на аренду домов с большими участками'
+  description: >-
+    В последние годы наблюдается устойчивый рост интереса к аренде загородных
+    домов с просторными участками. В новой статье блога ButlerSPB мы детально
+    анализируем факторы, влияющие на спрос: от желания уединения и близости к
+    природе до новых возможностей для отдыха и удаленной работы. Узнайте, какие
+    локации наиболее востребованы и как изменился портрет современного
+    арендатора на рынке элитной недвижимости.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.7'
+    reviewCount: 763
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/analiz-sprosa-na-arendu-domov-s-bolshimi-uchastkami/
 ---
 
 # Анализ спроса на аренду домов с большими участками в СПб и Ленобласти: тренды 2024 от экспертов ButlerSPB

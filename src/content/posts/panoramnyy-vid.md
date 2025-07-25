@@ -1,11 +1,40 @@
 ---
-title: "Панорамный вид из окон: роскошь и простор"
-description: "Откройте мир, где пейзажи становятся частью интерьера. Панорамные окна наполняют пространство светом, создавая ощущение свободы и вдохновляя каждый день."
-keywords: "панорамный вид, видовая квартира, окна в пол, недвижимость СПБ, ButlerSPB, элитная недвижимость, дизайн интерьера"
-pubDate: "2025-07-25T14:14:58.740Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Панорамный вид из окон: роскошь и простор","description":"Откройте мир, где пейзажи становятся частью интерьера. Панорамные окна наполняют пространство светом, создавая ощущение свободы и вдохновляя каждый день.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":553,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/panoramnyy-vid/"}}
+title: 'Панорамный вид из окон: роскошь и простор'
+description: >-
+  Откройте мир, где пейзажи становятся частью интерьера. Панорамные окна
+  наполняют пространство светом, создавая ощущение свободы и вдохновляя каждый
+  день.
+pubDate: '2025-07-25T14:14:58.740Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Панорамный вид из окон: роскошь и простор'
+  description: >-
+    Откройте мир, где пейзажи становятся частью интерьера. Панорамные окна
+    наполняют пространство светом, создавая ощущение свободы и вдохновляя каждый
+    день.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '5.0'
+    reviewCount: 630
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': 'https://butlerspb-blog.netlify.app/blog/panoramnyy-vid/'
 ---
 # Панорамный вид в Санкт-Петербурге: Больше, чем просто вид из окна — это стиль жизни
 

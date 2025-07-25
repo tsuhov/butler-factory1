@@ -1,10 +1,52 @@
 ---
-title: "Инвестиции в историю: гид по «бельгийкам» и «немецким коттеджам» Санкт-Петербурга"
-description: "Санкт-Петербург славится не только дворцами и доходными домами. В его жилом фонде скрыты настоящие жемчужины — «бельгийки» и «немецкие коттеджи». Что это за дома, в чем их уникальность и почему они привлекают инвесторов? В новой статье блога ButlerSPB разбираемся в особенностях покупки и владения редкой недвижимостью: от юридических тонкостей до потенциальной доходности. Узнайте, как инвестировать в историю и превратить уникальный объект в ликвидный актив."
-pubDate: "2025-07-23T11:07:49.635Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Инвестиции в историю: гид по «бельгийкам» и «немецким коттеджам» Санкт-Петербурга","description":"Санкт-Петербург славится не только дворцами и доходными домами. В его жилом фонде скрыты настоящие жемчужины — «бельгийки» и «немецкие коттеджи». Что это за дома, в чем их уникальность и почему они привлекают инвесторов? В новой статье блога ButlerSPB разбираемся в особенностях покупки и владения редкой недвижимостью: от юридических тонкостей до потенциальной доходности. Узнайте, как инвестировать в историю и превратить уникальный объект в ликвидный актив.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.7","reviewCount":578,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/belgiyki-i-nemeckie-kottedzhi-osobennosti-investiciy-v-redkiy-zhiloy-fond-spb/"}}
+title: >-
+  Инвестиции в историю: гид по «бельгийкам» и «немецким коттеджам»
+  Санкт-Петербурга
+description: >-
+  Санкт-Петербург славится не только дворцами и доходными домами. В его жилом
+  фонде скрыты настоящие жемчужины — «бельгийки» и «немецкие коттеджи». Что это
+  за дома, в чем их уникальность и почему они привлекают инвесторов? В новой
+  статье блога ButlerSPB разбираемся в особенностях покупки и владения редкой
+  недвижимостью: от юридических тонкостей до потенциальной доходности. Узнайте,
+  как инвестировать в историю и превратить уникальный объект в ликвидный актив.
+pubDate: '2025-07-23T11:07:49.635Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: >-
+    Инвестиции в историю: гид по «бельгийкам» и «немецким коттеджам»
+    Санкт-Петербурга
+  description: >-
+    Санкт-Петербург славится не только дворцами и доходными домами. В его жилом
+    фонде скрыты настоящие жемчужины — «бельгийки» и «немецкие коттеджи». Что
+    это за дома, в чем их уникальность и почему они привлекают инвесторов? В
+    новой статье блога ButlerSPB разбираемся в особенностях покупки и владения
+    редкой недвижимостью: от юридических тонкостей до потенциальной доходности.
+    Узнайте, как инвестировать в историю и превратить уникальный объект в
+    ликвидный актив.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.9'
+    reviewCount: 797
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/belgiyki-i-nemeckie-kottedzhi-osobennosti-investiciy-v-redkiy-zhiloy-fond-spb/
 ---
 
 # Инвестиции в "душу Петербурга": как заработать на "бельгийках" и "немецких коттеджах". Аналитика от ButlerSPB

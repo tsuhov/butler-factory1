@@ -1,11 +1,40 @@
 ---
-title: "Что такое полный комплекс услуг от ButlerSPB"
-description: "Узнайте, что включает в себя полный комплекс услуг по уборке от компании ButlerSPB. Мы предлагаем всесторонний подход к чистоте вашего дома или офиса в СПб."
-keywords: "полный комплекс, клининг, уборка, ButlerSPB, услуги уборки, чистота в доме, клининг спб"
-pubDate: "2025-07-25T16:19:21.896Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Что такое полный комплекс услуг от ButlerSPB","description":"Узнайте, что включает в себя полный комплекс услуг по уборке от компании ButlerSPB. Мы предлагаем всесторонний подход к чистоте вашего дома или офиса в СПб.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.8","reviewCount":762,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/polnyy-kompleks/"}}
+title: Что такое полный комплекс услуг от ButlerSPB
+description: >-
+  Узнайте, что включает в себя полный комплекс услуг по уборке от компании
+  ButlerSPB. Мы предлагаем всесторонний подход к чистоте вашего дома или офиса в
+  СПб.
+pubDate: '2025-07-25T16:19:21.896Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: Что такое полный комплекс услуг от ButlerSPB
+  description: >-
+    Узнайте, что включает в себя полный комплекс услуг по уборке от компании
+    ButlerSPB. Мы предлагаем всесторонний подход к чистоте вашего дома или офиса
+    в СПб.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.9'
+    reviewCount: 818
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': 'https://butlerspb-blog.netlify.app/blog/polnyy-kompleks/'
 ---
 # Полный комплекс уборки: Превращаем ваш дом в эталон чистоты и порядка
 

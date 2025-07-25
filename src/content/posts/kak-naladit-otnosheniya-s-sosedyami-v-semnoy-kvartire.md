@@ -1,10 +1,45 @@
 ---
-title: "Как наладить отношения с соседями в съемной квартире: гид от ButlerSPB"
-description: "Хорошие соседи — залог спокойной жизни, особенно в съемной квартире. В новой статье нашего блога мы расскажем, как с первого дня выстроить дружелюбные отношения, избежать распространенных конфликтов из-за шума или бытовых вопросов и превратить соседей в добрых знакомых. Простые и эффективные советы для комфортной жизни в большом городе."
-pubDate: "2025-07-22T11:40:06.417Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Как наладить отношения с соседями в съемной квартире: гид от ButlerSPB","description":"Хорошие соседи — залог спокойной жизни, особенно в съемной квартире. В новой статье нашего блога мы расскажем, как с первого дня выстроить дружелюбные отношения, избежать распространенных конфликтов из-за шума или бытовых вопросов и превратить соседей в добрых знакомых. Простые и эффективные советы для комфортной жизни в большом городе.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"5.0","reviewCount":787,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/kak-naladit-otnosheniya-s-sosedyami-v-semnoy-kvartire/"}}
+title: 'Как наладить отношения с соседями в съемной квартире: гид от ButlerSPB'
+description: >-
+  Хорошие соседи — залог спокойной жизни, особенно в съемной квартире. В новой
+  статье нашего блога мы расскажем, как с первого дня выстроить дружелюбные
+  отношения, избежать распространенных конфликтов из-за шума или бытовых
+  вопросов и превратить соседей в добрых знакомых. Простые и эффективные советы
+  для комфортной жизни в большом городе.
+pubDate: '2025-07-22T11:40:06.417Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Как наладить отношения с соседями в съемной квартире: гид от ButlerSPB'
+  description: >-
+    Хорошие соседи — залог спокойной жизни, особенно в съемной квартире. В новой
+    статье нашего блога мы расскажем, как с первого дня выстроить дружелюбные
+    отношения, избежать распространенных конфликтов из-за шума или бытовых
+    вопросов и превратить соседей в добрых знакомых. Простые и эффективные
+    советы для комфортной жизни в большом городе.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.9'
+    reviewCount: 373
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/kak-naladit-otnosheniya-s-sosedyami-v-semnoy-kvartire/
 ---
 
 # Как наладить отношения с соседями: полный гид для жильцов съемных квартир

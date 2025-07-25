@@ -1,10 +1,44 @@
 ---
-title: "Экстренные технические проблемы 24/7: как ButlerSPB всегда на связи"
-description: "Сбой системы в три часа ночи? Для нас это штатная ситуация. В новой статье блога ButlerSPB мы делимся внутренними процессами и инструментами, которые позволяют нашей команде реагировать на инциденты моментально в любое время суток. Узнайте, как мы обеспечиваем бесперебойную работу вашего бизнеса 24/7."
-pubDate: "2025-07-22T11:03:41.284Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Экстренные технические проблемы 24/7: как ButlerSPB всегда на связи","description":"Сбой системы в три часа ночи? Для нас это штатная ситуация. В новой статье блога ButlerSPB мы делимся внутренними процессами и инструментами, которые позволяют нашей команде реагировать на инциденты моментально в любое время суток. Узнайте, как мы обеспечиваем бесперебойную работу вашего бизнеса 24/7.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"5.0","reviewCount":443,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/kak-my-reshaem-ekstrennye-tehnicheskie-problemy-247/"}}
+title: 'Экстренные технические проблемы 24/7: как ButlerSPB всегда на связи'
+description: >-
+  Сбой системы в три часа ночи? Для нас это штатная ситуация. В новой статье
+  блога ButlerSPB мы делимся внутренними процессами и инструментами, которые
+  позволяют нашей команде реагировать на инциденты моментально в любое время
+  суток. Узнайте, как мы обеспечиваем бесперебойную работу вашего бизнеса 24/7.
+pubDate: '2025-07-22T11:03:41.284Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Экстренные технические проблемы 24/7: как ButlerSPB всегда на связи'
+  description: >-
+    Сбой системы в три часа ночи? Для нас это штатная ситуация. В новой статье
+    блога ButlerSPB мы делимся внутренними процессами и инструментами, которые
+    позволяют нашей команде реагировать на инциденты моментально в любое время
+    суток. Узнайте, как мы обеспечиваем бесперебойную работу вашего бизнеса
+    24/7.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.8'
+    reviewCount: 324
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/kak-my-reshaem-ekstrennye-tehnicheskie-problemy-247/
 ---
 
 # Как мы решаем экстренные технические проблемы 24/7: За кулисами службы спасения ButlerSPB

@@ -1,11 +1,40 @@
 ---
-title: "Ценовая стратегия для бизнеса от ButlerSPB"
-description: "Как правильно установить цены на товары и услуги? ButlerSPB делится секретами эффективного ценообразования для привлечения клиентов и увеличения вашей прибыли."
-keywords: "ценовая стратегия, ценообразование, маркетинг, управление ценой, бизнес, прибыль, ButlerSPB"
-pubDate: "2025-07-25T16:18:49.912Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Ценовая стратегия для бизнеса от ButlerSPB","description":"Как правильно установить цены на товары и услуги? ButlerSPB делится секретами эффективного ценообразования для привлечения клиентов и увеличения вашей прибыли.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.8","reviewCount":436,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/cenovaya-strategiya/"}}
+title: Ценовая стратегия для бизнеса от ButlerSPB
+description: >-
+  Как правильно установить цены на товары и услуги? ButlerSPB делится секретами
+  эффективного ценообразования для привлечения клиентов и увеличения вашей
+  прибыли.
+pubDate: '2025-07-25T16:18:49.912Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: Ценовая стратегия для бизнеса от ButlerSPB
+  description: >-
+    Как правильно установить цены на товары и услуги? ButlerSPB делится
+    секретами эффективного ценообразования для привлечения клиентов и увеличения
+    вашей прибыли.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.9'
+    reviewCount: 786
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': 'https://butlerspb-blog.netlify.app/blog/cenovaya-strategiya/'
 ---
 # Ценовая стратегия: Полное руководство по разработке и внедрению для вашего бизнеса
 

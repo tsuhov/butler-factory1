@@ -1,11 +1,41 @@
 ---
-title: "Как найти риэлтора для переезда в другой город"
-description: "Переезд в новый город — это стресс. Правильный риэлтор сделает процесс легким. Узнайте, где искать специалиста, на что обратить внимание и как избежать ошибок."
-keywords: "риэлтор для переезда, найти риэлтора, покупка недвижимости, другой город, межрегиональная сделка, ButlerSPB"
-pubDate: "2025-07-24T12:04:48.508Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Как найти риэлтора для переезда в другой город","description":"Переезд в новый город — это стресс. Правильный риэлтор сделает процесс легким. Узнайте, где искать специалиста, на что обратить внимание и как избежать ошибок.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":575,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/kak-nayti-rieltora-kotoryy-pomozhet-s-pereezdom-v-drugoy-gorod/"}}
+title: Как найти риэлтора для переезда в другой город
+description: >-
+  Переезд в новый город — это стресс. Правильный риэлтор сделает процесс легким.
+  Узнайте, где искать специалиста, на что обратить внимание и как избежать
+  ошибок.
+pubDate: '2025-07-24T12:04:48.508Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: Как найти риэлтора для переезда в другой город
+  description: >-
+    Переезд в новый город — это стресс. Правильный риэлтор сделает процесс
+    легким. Узнайте, где искать специалиста, на что обратить внимание и как
+    избежать ошибок.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.9'
+    reviewCount: 732
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/kak-nayti-rieltora-kotoryy-pomozhet-s-pereezdom-v-drugoy-gorod/
 ---
 # Как найти идеального риэлтора для переезда в другой город: пошаговое руководство
 

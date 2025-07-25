@@ -1,10 +1,46 @@
 ---
-title: "Услуги аренды недвижимости в СПб: Полное руководство от ButlerSPB"
-description: "Ищете идеальную квартиру или дом в аренду в Санкт-Петербурге? В этой статье мы подробно разбираем все этапы поиска и аренды жилья в культурной столице. Узнайте, как избежать мошенников, проверить документы на собственность и заключить безопасный договор. Эксперты ButlerSPB делятся профессиональными советами и рассказывают, как наши услуги помогут вам сэкономить время, нервы и найти жилье вашей мечты без лишних хлопот."
-pubDate: "2025-07-22T09:50:24.330Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Услуги аренды недвижимости в СПб: Полное руководство от ButlerSPB","description":"Ищете идеальную квартиру или дом в аренду в Санкт-Петербурге? В этой статье мы подробно разбираем все этапы поиска и аренды жилья в культурной столице. Узнайте, как избежать мошенников, проверить документы на собственность и заключить безопасный договор. Эксперты ButlerSPB делятся профессиональными советами и рассказывают, как наши услуги помогут вам сэкономить время, нервы и найти жилье вашей мечты без лишних хлопот.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":422,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/uslugi-arendy-nedvizhimosti-v-spb/"}}
+title: 'Услуги аренды недвижимости в СПб: Полное руководство от ButlerSPB'
+description: >-
+  Ищете идеальную квартиру или дом в аренду в Санкт-Петербурге? В этой статье мы
+  подробно разбираем все этапы поиска и аренды жилья в культурной столице.
+  Узнайте, как избежать мошенников, проверить документы на собственность и
+  заключить безопасный договор. Эксперты ButlerSPB делятся профессиональными
+  советами и рассказывают, как наши услуги помогут вам сэкономить время, нервы и
+  найти жилье вашей мечты без лишних хлопот.
+pubDate: '2025-07-22T09:50:24.330Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Услуги аренды недвижимости в СПб: Полное руководство от ButlerSPB'
+  description: >-
+    Ищете идеальную квартиру или дом в аренду в Санкт-Петербурге? В этой статье
+    мы подробно разбираем все этапы поиска и аренды жилья в культурной столице.
+    Узнайте, как избежать мошенников, проверить документы на собственность и
+    заключить безопасный договор. Эксперты ButlerSPB делятся профессиональными
+    советами и рассказывают, как наши услуги помогут вам сэкономить время, нервы
+    и найти жилье вашей мечты без лишних хлопот.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.9'
+    reviewCount: 852
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': 'https://butlerspb-blog.netlify.app/blog/uslugi-arendy-nedvizhimosti-v-spb/'
 ---
 
 # Аренда недвижимости в СПб: Полный гид по безопасному поиску с экспертами ButlerSPB

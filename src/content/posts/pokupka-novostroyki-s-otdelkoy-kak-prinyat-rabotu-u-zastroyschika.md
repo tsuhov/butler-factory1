@@ -1,10 +1,49 @@
 ---
-title: "Приемка квартиры с отделкой от застройщика: полный чек-лист и советы экспертов ButlerSPB"
-description: "Получение ключей от новой квартиры с отделкой — волнительный момент. Чтобы радость не омрачилась скрытыми дефектами, важно правильно провести приемку. В этой статье команда ButlerSPB подготовила подробный чек-лист: что проверить, какие инструменты взять с собой и как грамотно составить акт осмотра, чтобы застройщик устранил все недочеты."
-pubDate: "2025-07-23T12:13:14.309Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Приемка квартиры с отделкой от застройщика: полный чек-лист и советы экспертов ButlerSPB","description":"Получение ключей от новой квартиры с отделкой — волнительный момент. Чтобы радость не омрачилась скрытыми дефектами, важно правильно провести приемку. В этой статье команда ButlerSPB подготовила подробный чек-лист: что проверить, какие инструменты взять с собой и как грамотно составить акт осмотра, чтобы застройщик устранил все недочеты.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"5.0","reviewCount":821,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/pokupka-novostroyki-s-otdelkoy-kak-prinyat-rabotu-u-zastroyschika/"}}
+title: >-
+  Приемка квартиры с отделкой от застройщика: полный чек-лист и советы экспертов
+  ButlerSPB
+description: >-
+  Получение ключей от новой квартиры с отделкой — волнительный момент. Чтобы
+  радость не омрачилась скрытыми дефектами, важно правильно провести приемку. В
+  этой статье команда ButlerSPB подготовила подробный чек-лист: что проверить,
+  какие инструменты взять с собой и как грамотно составить акт осмотра, чтобы
+  застройщик устранил все недочеты.
+pubDate: '2025-07-23T12:13:14.309Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: >-
+    Приемка квартиры с отделкой от застройщика: полный чек-лист и советы
+    экспертов ButlerSPB
+  description: >-
+    Получение ключей от новой квартиры с отделкой — волнительный момент. Чтобы
+    радость не омрачилась скрытыми дефектами, важно правильно провести приемку.
+    В этой статье команда ButlerSPB подготовила подробный чек-лист: что
+    проверить, какие инструменты взять с собой и как грамотно составить акт
+    осмотра, чтобы застройщик устранил все недочеты.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '5.0'
+    reviewCount: 725
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/pokupka-novostroyki-s-otdelkoy-kak-prinyat-rabotu-u-zastroyschika/
 ---
 
 # Как принять квартиру с отделкой у застройщика: пошаговая инструкция и чек-лист 2024

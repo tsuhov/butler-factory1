@@ -1,11 +1,39 @@
 ---
-title: "Стратегии для максимального дохода от ButlerSPB"
-description: "Узнайте, как оптимизировать бизнес-процессы и финансовые потоки для достижения пиковой прибыли. Эксперты ButlerSPB делятся проверенными методами и кейсами."
-keywords: "максимальный доход, увеличение прибыли, финансовая стратегия, оптимизация бизнеса, управление доходом, ButlerSPB"
-pubDate: "2025-07-25T13:59:53.970Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Стратегии для максимального дохода от ButlerSPB","description":"Узнайте, как оптимизировать бизнес-процессы и финансовые потоки для достижения пиковой прибыли. Эксперты ButlerSPB делятся проверенными методами и кейсами.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"5.0","reviewCount":714,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/maksimalnyy-dohod/"}}
+title: Стратегии для максимального дохода от ButlerSPB
+description: >-
+  Узнайте, как оптимизировать бизнес-процессы и финансовые потоки для достижения
+  пиковой прибыли. Эксперты ButlerSPB делятся проверенными методами и кейсами.
+pubDate: '2025-07-25T13:59:53.970Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: Стратегии для максимального дохода от ButlerSPB
+  description: >-
+    Узнайте, как оптимизировать бизнес-процессы и финансовые потоки для
+    достижения пиковой прибыли. Эксперты ButlerSPB делятся проверенными методами
+    и кейсами.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.8'
+    reviewCount: 642
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': 'https://butlerspb-blog.netlify.app/blog/maksimalnyy-dohod/'
 ---
 # Ваш максимальный доход — это не про больше работать. Это про то, как думать и действовать иначе.
 

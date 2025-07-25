@@ -1,10 +1,51 @@
 ---
-title: "Как нанять риэлтора для поиска квартиры с особыми параметрами: подробное руководство от ButlerSPB"
-description: "Ищете квартиру с высокими потолками, видом на воду или в конкретном ЖК Санкт-Петербурга? Поиск жилья с нестандартными требованиями может стать настоящим квестом. В этой статье команда ButlerSPB расскажет, как правильно выбрать и нанять риэлтора, который найдет для вас идеальный вариант, сэкономив ваше время и нервы. Разбираем все этапы: от составления технического задания до подписания договора с агентом."
-pubDate: "2025-07-23T11:51:55.348Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Как нанять риэлтора для поиска квартиры с особыми параметрами: подробное руководство от ButlerSPB","description":"Ищете квартиру с высокими потолками, видом на воду или в конкретном ЖК Санкт-Петербурга? Поиск жилья с нестандартными требованиями может стать настоящим квестом. В этой статье команда ButlerSPB расскажет, как правильно выбрать и нанять риэлтора, который найдет для вас идеальный вариант, сэкономив ваше время и нервы. Разбираем все этапы: от составления технического задания до подписания договора с агентом.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.8","reviewCount":851,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/kak-nanyat-rieltora-dlya-poiska-kvartiry-s-opredelennymi-parametrami/"}}
+title: >-
+  Как нанять риэлтора для поиска квартиры с особыми параметрами: подробное
+  руководство от ButlerSPB
+description: >-
+  Ищете квартиру с высокими потолками, видом на воду или в конкретном ЖК
+  Санкт-Петербурга? Поиск жилья с нестандартными требованиями может стать
+  настоящим квестом. В этой статье команда ButlerSPB расскажет, как правильно
+  выбрать и нанять риэлтора, который найдет для вас идеальный вариант, сэкономив
+  ваше время и нервы. Разбираем все этапы: от составления технического задания
+  до подписания договора с агентом.
+pubDate: '2025-07-23T11:51:55.348Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: >-
+    Как нанять риэлтора для поиска квартиры с особыми параметрами: подробное
+    руководство от ButlerSPB
+  description: >-
+    Ищете квартиру с высокими потолками, видом на воду или в конкретном ЖК
+    Санкт-Петербурга? Поиск жилья с нестандартными требованиями может стать
+    настоящим квестом. В этой статье команда ButlerSPB расскажет, как правильно
+    выбрать и нанять риэлтора, который найдет для вас идеальный вариант,
+    сэкономив ваше время и нервы. Разбираем все этапы: от составления
+    технического задания до подписания договора с агентом.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.7'
+    reviewCount: 311
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/kak-nanyat-rieltora-dlya-poiska-kvartiry-s-opredelennymi-parametrami/
 ---
 
 # Как нанять риэлтора для поиска квартиры: пошаговое руководство для тех, у кого есть особые требования

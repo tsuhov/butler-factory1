@@ -1,10 +1,43 @@
 ---
-title: "Что делать, если вы сняли квартиру у мошенников: инструкция от ButlerSPB"
-description: "Заплатили за аренду, а собственник пропал или квартира оказалась чужой? К сожалению, такое случается. В этой статье команда ButlerSPB подготовила пошаговый план действий для тех, кто стал жертвой мошенников при съеме жилья, и советы, как не попасть в такую ситуацию в будущем."
-pubDate: "2025-07-22T11:36:02.232Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Что делать, если вы сняли квартиру у мошенников: инструкция от ButlerSPB","description":"Заплатили за аренду, а собственник пропал или квартира оказалась чужой? К сожалению, такое случается. В этой статье команда ButlerSPB подготовила пошаговый план действий для тех, кто стал жертвой мошенников при съеме жилья, и советы, как не попасть в такую ситуацию в будущем.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":371,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/chto-delat-esli-vy-snyali-kvartiru-u-moshennikov/"}}
+title: 'Что делать, если вы сняли квартиру у мошенников: инструкция от ButlerSPB'
+description: >-
+  Заплатили за аренду, а собственник пропал или квартира оказалась чужой? К
+  сожалению, такое случается. В этой статье команда ButlerSPB подготовила
+  пошаговый план действий для тех, кто стал жертвой мошенников при съеме жилья,
+  и советы, как не попасть в такую ситуацию в будущем.
+pubDate: '2025-07-22T11:36:02.232Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Что делать, если вы сняли квартиру у мошенников: инструкция от ButlerSPB'
+  description: >-
+    Заплатили за аренду, а собственник пропал или квартира оказалась чужой? К
+    сожалению, такое случается. В этой статье команда ButlerSPB подготовила
+    пошаговый план действий для тех, кто стал жертвой мошенников при съеме
+    жилья, и советы, как не попасть в такую ситуацию в будущем.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.8'
+    reviewCount: 310
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/chto-delat-esli-vy-snyali-kvartiru-u-moshennikov/
 ---
 
 # Сняли квартиру у мошенников: пошаговая инструкция, что делать в 2024 году

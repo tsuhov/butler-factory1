@@ -1,10 +1,51 @@
 ---
-title: "Инвестиции в недвижимость Санкт-Петербурга под сдачу: полное руководство для инвестора"
-description: "Санкт-Петербург — магнит для туристов и студентов, что создает стабильно высокий спрос на аренду. В этой статье команда ButlerSPB разбирает, как грамотно инвестировать в недвижимость города под сдачу. Мы рассмотрим ключевые аспекты: выбор ликвидного района и объекта, расчет доходности и окупаемости, юридические тонкости и способы эффективного управления, чтобы ваши инвестиции приносили максимальный и стабильный доход."
-pubDate: "2025-07-22T13:44:07.590Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Инвестиции в недвижимость Санкт-Петербурга под сдачу: полное руководство для инвестора","description":"Санкт-Петербург — магнит для туристов и студентов, что создает стабильно высокий спрос на аренду. В этой статье команда ButlerSPB разбирает, как грамотно инвестировать в недвижимость города под сдачу. Мы рассмотрим ключевые аспекты: выбор ликвидного района и объекта, расчет доходности и окупаемости, юридические тонкости и способы эффективного управления, чтобы ваши инвестиции приносили максимальный и стабильный доход.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":780,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/investicii-v-nedvizhimost-sankt-peterburga-pod-sdachu/"}}
+title: >-
+  Инвестиции в недвижимость Санкт-Петербурга под сдачу: полное руководство для
+  инвестора
+description: >-
+  Санкт-Петербург — магнит для туристов и студентов, что создает стабильно
+  высокий спрос на аренду. В этой статье команда ButlerSPB разбирает, как
+  грамотно инвестировать в недвижимость города под сдачу. Мы рассмотрим ключевые
+  аспекты: выбор ликвидного района и объекта, расчет доходности и окупаемости,
+  юридические тонкости и способы эффективного управления, чтобы ваши инвестиции
+  приносили максимальный и стабильный доход.
+pubDate: '2025-07-22T13:44:07.590Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: >-
+    Инвестиции в недвижимость Санкт-Петербурга под сдачу: полное руководство для
+    инвестора
+  description: >-
+    Санкт-Петербург — магнит для туристов и студентов, что создает стабильно
+    высокий спрос на аренду. В этой статье команда ButlerSPB разбирает, как
+    грамотно инвестировать в недвижимость города под сдачу. Мы рассмотрим
+    ключевые аспекты: выбор ликвидного района и объекта, расчет доходности и
+    окупаемости, юридические тонкости и способы эффективного управления, чтобы
+    ваши инвестиции приносили максимальный и стабильный доход.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.9'
+    reviewCount: 607
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/investicii-v-nedvizhimost-sankt-peterburga-pod-sdachu/
 ---
 
 # Инвестиции в недвижимость Санкт-Петербурга под сдачу: Полное руководство 2024 от экспертов ButlerSPB

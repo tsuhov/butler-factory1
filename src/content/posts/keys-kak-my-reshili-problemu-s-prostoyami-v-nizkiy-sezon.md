@@ -1,10 +1,46 @@
 ---
-title: "Кейс ButlerSPB: Как мы победили простои в низкий сезон"
-description: "Низкий сезон — головная боль для многих сервисных компаний. В нашем новом кейсе мы делимся проверенной стратегией ButlerSPB, которая помогла нам превратить месяцы затишья в период активной работы и роста. Рассказываем, какие услуги мы диверсифицировали, как изменили маркетинг и какие специальные предложения позволили нам не только избежать простоев, но и увеличить прибыль."
-pubDate: "2025-07-22T11:29:23.291Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Кейс ButlerSPB: Как мы победили простои в низкий сезон","description":"Низкий сезон — головная боль для многих сервисных компаний. В нашем новом кейсе мы делимся проверенной стратегией ButlerSPB, которая помогла нам превратить месяцы затишья в период активной работы и роста. Рассказываем, какие услуги мы диверсифицировали, как изменили маркетинг и какие специальные предложения позволили нам не только избежать простоев, но и увеличить прибыль.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.7","reviewCount":843,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/keys-kak-my-reshili-problemu-s-prostoyami-v-nizkiy-sezon/"}}
+title: 'Кейс ButlerSPB: Как мы победили простои в низкий сезон'
+description: >-
+  Низкий сезон — головная боль для многих сервисных компаний. В нашем новом
+  кейсе мы делимся проверенной стратегией ButlerSPB, которая помогла нам
+  превратить месяцы затишья в период активной работы и роста. Рассказываем,
+  какие услуги мы диверсифицировали, как изменили маркетинг и какие специальные
+  предложения позволили нам не только избежать простоев, но и увеличить прибыль.
+pubDate: '2025-07-22T11:29:23.291Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Кейс ButlerSPB: Как мы победили простои в низкий сезон'
+  description: >-
+    Низкий сезон — головная боль для многих сервисных компаний. В нашем новом
+    кейсе мы делимся проверенной стратегией ButlerSPB, которая помогла нам
+    превратить месяцы затишья в период активной работы и роста. Рассказываем,
+    какие услуги мы диверсифицировали, как изменили маркетинг и какие
+    специальные предложения позволили нам не только избежать простоев, но и
+    увеличить прибыль.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.8'
+    reviewCount: 418
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/keys-kak-my-reshili-problemu-s-prostoyami-v-nizkiy-sezon/
 ---
 
 # Кейс ButlerSPB: Как мы увеличили загрузку апартаментов на 35% в низкий сезон и избавили собственника от простоев

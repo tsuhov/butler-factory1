@@ -1,10 +1,49 @@
 ---
-title: "Помощь в покупке квартиры в Санкт-Петербурге: Полное руководство от ButlerSPB"
-description: "Планируете купить квартиру в Санкт-Петербурге, но не знаете, с чего начать? Наша статья — ваш надежный путеводитель. Разбираем все этапы: от подбора идеального района и объекта (новостройка или вторичка) до юридической проверки документов и сопровождения сделки. Узнайте, как эксперты ButlerSPB помогают экономить время, деньги и нервы, делая процесс покупки недвижимости в СПб максимально безопасным и комфортным."
-pubDate: "2025-07-21T23:00:46.997Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Помощь в покупке квартиры в Санкт-Петербурге: Полное руководство от ButlerSPB","description":"Планируете купить квартиру в Санкт-Петербурге, но не знаете, с чего начать? Наша статья — ваш надежный путеводитель. Разбираем все этапы: от подбора идеального района и объекта (новостройка или вторичка) до юридической проверки документов и сопровождения сделки. Узнайте, как эксперты ButlerSPB помогают экономить время, деньги и нервы, делая процесс покупки недвижимости в СПб максимально безопасным и комфортным.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":802,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/pomosch-v-pokupke-kvartiry-v-sankt-peterburge/"}}
+title: 'Помощь в покупке квартиры в Санкт-Петербурге: Полное руководство от ButlerSPB'
+description: >-
+  Планируете купить квартиру в Санкт-Петербурге, но не знаете, с чего начать?
+  Наша статья — ваш надежный путеводитель. Разбираем все этапы: от подбора
+  идеального района и объекта (новостройка или вторичка) до юридической проверки
+  документов и сопровождения сделки. Узнайте, как эксперты ButlerSPB помогают
+  экономить время, деньги и нервы, делая процесс покупки недвижимости в СПб
+  максимально безопасным и комфортным.
+pubDate: '2025-07-21T23:00:46.997Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: >-
+    Помощь в покупке квартиры в Санкт-Петербурге: Полное руководство от
+    ButlerSPB
+  description: >-
+    Планируете купить квартиру в Санкт-Петербурге, но не знаете, с чего начать?
+    Наша статья — ваш надежный путеводитель. Разбираем все этапы: от подбора
+    идеального района и объекта (новостройка или вторичка) до юридической
+    проверки документов и сопровождения сделки. Узнайте, как эксперты ButlerSPB
+    помогают экономить время, деньги и нервы, делая процесс покупки недвижимости
+    в СПб максимально безопасным и комфортным.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.8'
+    reviewCount: 316
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/pomosch-v-pokupke-kvartiry-v-sankt-peterburge/
 ---
 
 # Ваш личный дворецкий на рынке недвижимости: Как безопасно и выгодно купить квартиру в Санкт-Петербурге

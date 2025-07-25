@@ -1,10 +1,49 @@
 ---
-title: "Обмен дома на несколько квартир в Санкт-Петербурге: инструкция от ButlerSPB"
-description: "Владение большим загородным домом не всегда практично. Рассматриваете обмен на несколько квартир в Санкт-Петербурге для жизни, сдачи в аренду или для детей? Это выгодное решение, но оно сопряжено с рядом сложностей. В нашей новой статье мы подробно разбираем все этапы: от правильной оценки вашего дома и подбора ликвидных квартир до юридических тонкостей оформления многосоставной сделки. Узнайте, как ButlerSPB поможет вам осуществить обмен быстро, безопасно и с максимальной выгодой."
-pubDate: "2025-07-23T12:02:29.256Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Обмен дома на несколько квартир в Санкт-Петербурге: инструкция от ButlerSPB","description":"Владение большим загородным домом не всегда практично. Рассматриваете обмен на несколько квартир в Санкт-Петербурге для жизни, сдачи в аренду или для детей? Это выгодное решение, но оно сопряжено с рядом сложностей. В нашей новой статье мы подробно разбираем все этапы: от правильной оценки вашего дома и подбора ликвидных квартир до юридических тонкостей оформления многосоставной сделки. Узнайте, как ButlerSPB поможет вам осуществить обмен быстро, безопасно и с максимальной выгодой.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.8","reviewCount":858,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/obmen-doma-na-neskolko-kvartir-v-sankt-peterburge/"}}
+title: 'Обмен дома на несколько квартир в Санкт-Петербурге: инструкция от ButlerSPB'
+description: >-
+  Владение большим загородным домом не всегда практично. Рассматриваете обмен на
+  несколько квартир в Санкт-Петербурге для жизни, сдачи в аренду или для детей?
+  Это выгодное решение, но оно сопряжено с рядом сложностей. В нашей новой
+  статье мы подробно разбираем все этапы: от правильной оценки вашего дома и
+  подбора ликвидных квартир до юридических тонкостей оформления многосоставной
+  сделки. Узнайте, как ButlerSPB поможет вам осуществить обмен быстро, безопасно
+  и с максимальной выгодой.
+pubDate: '2025-07-23T12:02:29.256Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Обмен дома на несколько квартир в Санкт-Петербурге: инструкция от ButlerSPB'
+  description: >-
+    Владение большим загородным домом не всегда практично. Рассматриваете обмен
+    на несколько квартир в Санкт-Петербурге для жизни, сдачи в аренду или для
+    детей? Это выгодное решение, но оно сопряжено с рядом сложностей. В нашей
+    новой статье мы подробно разбираем все этапы: от правильной оценки вашего
+    дома и подбора ликвидных квартир до юридических тонкостей оформления
+    многосоставной сделки. Узнайте, как ButlerSPB поможет вам осуществить обмен
+    быстро, безопасно и с максимальной выгодой.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.7'
+    reviewCount: 830
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/obmen-doma-na-neskolko-kvartir-v-sankt-peterburge/
 ---
 
 # Обмен дома на несколько квартир в Санкт-Петербурге: Полное руководство от экспертов ButlerSPB

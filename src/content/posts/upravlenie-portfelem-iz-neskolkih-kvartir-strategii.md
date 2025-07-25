@@ -1,10 +1,47 @@
 ---
-title: "Эффективное управление портфелем квартир: Ключевые стратегии от ButlerSPB"
-description: "Владение несколькими квартирами — это серьезный бизнес, требующий грамотного подхода. В нашей новой статье эксперты ButlerSPB делятся проверенными стратегиями управления портфелем недвижимости. Узнайте, как оптимизировать доходы, минимизировать простои, наладить процессы обслуживания и масштабировать ваш арендный бизнес в Санкт-Петербурге. Превратите свои активы в стабильный и растущий источник дохода."
-pubDate: "2025-07-23T11:51:55.682Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Эффективное управление портфелем квартир: Ключевые стратегии от ButlerSPB","description":"Владение несколькими квартирами — это серьезный бизнес, требующий грамотного подхода. В нашей новой статье эксперты ButlerSPB делятся проверенными стратегиями управления портфелем недвижимости. Узнайте, как оптимизировать доходы, минимизировать простои, наладить процессы обслуживания и масштабировать ваш арендный бизнес в Санкт-Петербурге. Превратите свои активы в стабильный и растущий источник дохода.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":843,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/upravlenie-portfelem-iz-neskolkih-kvartir-strategii/"}}
+title: 'Эффективное управление портфелем квартир: Ключевые стратегии от ButlerSPB'
+description: >-
+  Владение несколькими квартирами — это серьезный бизнес, требующий грамотного
+  подхода. В нашей новой статье эксперты ButlerSPB делятся проверенными
+  стратегиями управления портфелем недвижимости. Узнайте, как оптимизировать
+  доходы, минимизировать простои, наладить процессы обслуживания и
+  масштабировать ваш арендный бизнес в Санкт-Петербурге. Превратите свои активы
+  в стабильный и растущий источник дохода.
+pubDate: '2025-07-23T11:51:55.682Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Эффективное управление портфелем квартир: Ключевые стратегии от ButlerSPB'
+  description: >-
+    Владение несколькими квартирами — это серьезный бизнес, требующий грамотного
+    подхода. В нашей новой статье эксперты ButlerSPB делятся проверенными
+    стратегиями управления портфелем недвижимости. Узнайте, как оптимизировать
+    доходы, минимизировать простои, наладить процессы обслуживания и
+    масштабировать ваш арендный бизнес в Санкт-Петербурге. Превратите свои
+    активы в стабильный и растущий источник дохода.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.9'
+    reviewCount: 392
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/upravlenie-portfelem-iz-neskolkih-kvartir-strategii/
 ---
 
 # От рантье к инвестору: Полное руководство по стратегическому управлению портфелем квартир

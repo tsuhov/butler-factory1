@@ -1,10 +1,51 @@
 ---
-title: "Эффект домино: как оспаривание кадастровой стоимости одной квартиры влияет на весь дом"
-description: "Многие собственники полагают, что снижение кадастровой стоимости — это частный вопрос, который касается только их налогов. В новой статье блога ButlerSPB мы развенчиваем этот миф. Узнайте, почему успешное оспаривание становится прецедентом для всего многоквартирного дома, как это может привести к массовому перерасчету налогов для ваших соседей и какие преимущества дает коллективное обращение."
-pubDate: "2025-07-23T12:25:17.330Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Эффект домино: как оспаривание кадастровой стоимости одной квартиры влияет на весь дом","description":"Многие собственники полагают, что снижение кадастровой стоимости — это частный вопрос, который касается только их налогов. В новой статье блога ButlerSPB мы развенчиваем этот миф. Узнайте, почему успешное оспаривание становится прецедентом для всего многоквартирного дома, как это может привести к массовому перерасчету налогов для ваших соседей и какие преимущества дает коллективное обращение.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.8","reviewCount":850,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/kak-rezultaty-osparivaniya-kadastrovoy-stoimosti-vliyayut-na-ves-dom/"}}
+title: >-
+  Эффект домино: как оспаривание кадастровой стоимости одной квартиры влияет на
+  весь дом
+description: >-
+  Многие собственники полагают, что снижение кадастровой стоимости — это частный
+  вопрос, который касается только их налогов. В новой статье блога ButlerSPB мы
+  развенчиваем этот миф. Узнайте, почему успешное оспаривание становится
+  прецедентом для всего многоквартирного дома, как это может привести к
+  массовому перерасчету налогов для ваших соседей и какие преимущества дает
+  коллективное обращение.
+pubDate: '2025-07-23T12:25:17.330Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: >-
+    Эффект домино: как оспаривание кадастровой стоимости одной квартиры влияет
+    на весь дом
+  description: >-
+    Многие собственники полагают, что снижение кадастровой стоимости — это
+    частный вопрос, который касается только их налогов. В новой статье блога
+    ButlerSPB мы развенчиваем этот миф. Узнайте, почему успешное оспаривание
+    становится прецедентом для всего многоквартирного дома, как это может
+    привести к массовому перерасчету налогов для ваших соседей и какие
+    преимущества дает коллективное обращение.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.9'
+    reviewCount: 726
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/kak-rezultaty-osparivaniya-kadastrovoy-stoimosti-vliyayut-na-ves-dom/
 ---
 
 # Оспорили кадастровую стоимость в одной квартире: как это изменит налоги для всего дома? Разбор от экспертов ButlerSPB.

@@ -1,11 +1,41 @@
 ---
-title: "Аренда помещения под образовательный центр."
-description: "Выбор правильного помещения – залог успеха любого образовательного центра. Наша статья поможет разобраться в требованиях СанПиН и выбрать удобную локацию."
-keywords: "аренда для образовательного центра, помещение под учебный центр, коммерческая недвижимость, требования к помещению, лицензирование, ButlerSPB"
-pubDate: "2025-07-24T12:02:43.426Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Аренда помещения под образовательный центр.","description":"Выбор правильного помещения – залог успеха любого образовательного центра. Наша статья поможет разобраться в требованиях СанПиН и выбрать удобную локацию.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.8","reviewCount":336,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/arenda-pomescheniya-pod-obrazovatelnyy-centr/"}}
+title: Аренда помещения под образовательный центр.
+description: >-
+  Выбор правильного помещения – залог успеха любого образовательного центра.
+  Наша статья поможет разобраться в требованиях СанПиН и выбрать удобную
+  локацию.
+pubDate: '2025-07-24T12:02:43.426Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: Аренда помещения под образовательный центр.
+  description: >-
+    Выбор правильного помещения – залог успеха любого образовательного центра.
+    Наша статья поможет разобраться в требованиях СанПиН и выбрать удобную
+    локацию.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '5.0'
+    reviewCount: 443
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/arenda-pomescheniya-pod-obrazovatelnyy-centr/
 ---
 # Аренда помещения под образовательный центр: Полное руководство от экспертов ButlerSPB
 

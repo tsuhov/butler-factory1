@@ -1,10 +1,46 @@
 ---
-title: "Приемка квартиры после арендатора: пошаговый чек-лист от ButlerSPB"
-description: "Арендатор съезжает? Наш пошаговый гайд от ButlerSPB поможет грамотно принять квартиру и избежать споров. В статье — подробный чек-лист для проверки каждого уголка: от состояния стен и сантехники до работы бытовой техники. Рассказываем, как зафиксировать дефекты, правильно оформить акт приема-передачи и что делать с залогом. Сохраните свое время, нервы и деньги."
-pubDate: "2025-07-22T13:48:40.326Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Приемка квартиры после арендатора: пошаговый чек-лист от ButlerSPB","description":"Арендатор съезжает? Наш пошаговый гайд от ButlerSPB поможет грамотно принять квартиру и избежать споров. В статье — подробный чек-лист для проверки каждого уголка: от состояния стен и сантехники до работы бытовой техники. Рассказываем, как зафиксировать дефекты, правильно оформить акт приема-передачи и что делать с залогом. Сохраните свое время, нервы и деньги.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.8","reviewCount":322,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/priemka-kvartiry-posle-arendatora-poshagovyy-plan/"}}
+title: 'Приемка квартиры после арендатора: пошаговый чек-лист от ButlerSPB'
+description: >-
+  Арендатор съезжает? Наш пошаговый гайд от ButlerSPB поможет грамотно принять
+  квартиру и избежать споров. В статье — подробный чек-лист для проверки каждого
+  уголка: от состояния стен и сантехники до работы бытовой техники.
+  Рассказываем, как зафиксировать дефекты, правильно оформить акт
+  приема-передачи и что делать с залогом. Сохраните свое время, нервы и деньги.
+pubDate: '2025-07-22T13:48:40.326Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Приемка квартиры после арендатора: пошаговый чек-лист от ButlerSPB'
+  description: >-
+    Арендатор съезжает? Наш пошаговый гайд от ButlerSPB поможет грамотно принять
+    квартиру и избежать споров. В статье — подробный чек-лист для проверки
+    каждого уголка: от состояния стен и сантехники до работы бытовой техники.
+    Рассказываем, как зафиксировать дефекты, правильно оформить акт
+    приема-передачи и что делать с залогом. Сохраните свое время, нервы и
+    деньги.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.9'
+    reviewCount: 390
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/priemka-kvartiry-posle-arendatora-poshagovyy-plan/
 ---
 
 # Приемка квартиры после арендатора: пошаговый план и чек-лист для собственника от ButlerSPB

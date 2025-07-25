@@ -1,11 +1,40 @@
 ---
-title: "Самые необычные запросы к консьерж-сервису"
-description: "От заказа билетов в театр до поиска редких вещей. Консьерж-сервис ButlerSPB готов выполнить любой запрос. В этой статье мы рассмотрим самые популярные и необычные задачи."
-keywords: "запросы консьержу, услуги консьержа, ButlerSPB, консьерж-сервис, личный помощник, организация мероприятий, лайфстайл менеджмент"
-pubDate: "2025-07-24T13:09:20.779Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Самые необычные запросы к консьерж-сервису","description":"От заказа билетов в театр до поиска редких вещей. Консьерж-сервис ButlerSPB готов выполнить любой запрос. В этой статье мы рассмотрим самые популярные и необычные задачи.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":858,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/zaprosy-konserzha/"}}
+title: Самые необычные запросы к консьерж-сервису
+description: >-
+  От заказа билетов в театр до поиска редких вещей. Консьерж-сервис ButlerSPB
+  готов выполнить любой запрос. В этой статье мы рассмотрим самые популярные и
+  необычные задачи.
+pubDate: '2025-07-24T13:09:20.779Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: Самые необычные запросы к консьерж-сервису
+  description: >-
+    От заказа билетов в театр до поиска редких вещей. Консьерж-сервис ButlerSPB
+    готов выполнить любой запрос. В этой статье мы рассмотрим самые популярные и
+    необычные задачи.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.9'
+    reviewCount: 479
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': 'https://butlerspb-blog.netlify.app/blog/zaprosy-konserzha/'
 ---
 # За гранью возможного: Какие запросы на самом деле выполняет ваш персональный консьерж?
 

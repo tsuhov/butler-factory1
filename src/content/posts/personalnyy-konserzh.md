@@ -1,11 +1,38 @@
 ---
-title: "Что такое персональный консьерж от ButlerSPB?"
-description: "Узнайте, как персональный консьерж от ButlerSPB может изменить вашу жизнь. Мы решаем любые задачи: от бронирования столика до организации мероприятий."
-keywords: "персональный консьерж, консьерж-сервис, личный помощник, ButlerSPB, услуги консьержа, лайфстайл-менеджмент"
-pubDate: "2025-07-25T14:10:18.296Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Что такое персональный консьерж от ButlerSPB?","description":"Узнайте, как персональный консьерж от ButlerSPB может изменить вашу жизнь. Мы решаем любые задачи: от бронирования столика до организации мероприятий.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.8","reviewCount":577,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/personalnyy-konserzh/"}}
+title: Что такое персональный консьерж от ButlerSPB?
+description: >-
+  Узнайте, как персональный консьерж от ButlerSPB может изменить вашу жизнь. Мы
+  решаем любые задачи: от бронирования столика до организации мероприятий.
+pubDate: '2025-07-25T14:10:18.296Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: Что такое персональный консьерж от ButlerSPB?
+  description: >-
+    Узнайте, как персональный консьерж от ButlerSPB может изменить вашу жизнь.
+    Мы решаем любые задачи: от бронирования столика до организации мероприятий.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.9'
+    reviewCount: 882
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': 'https://butlerspb-blog.netlify.app/blog/personalnyy-konserzh/'
 ---
 # Персональный консьерж: не роскошь, а ваш главный актив в управлении жизнью
 

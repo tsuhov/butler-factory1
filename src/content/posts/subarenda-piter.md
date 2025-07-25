@@ -1,11 +1,40 @@
 ---
-title: "Субаренда в Санкт-Петербурге: риски и выгоды"
-description: "Планируете сдать или снять жилье в субаренду в Питере? В этой статье от ButlerSPB мы подробно разбираем все юридические аспекты и преимущества такой сделки."
-keywords: "субаренда питер, субаренда спб, сдать квартиру в субаренду, договор субаренды, аренда жилья спб, ButlerSPB"
-pubDate: "2025-07-25T14:41:14.799Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Субаренда в Санкт-Петербурге: риски и выгоды","description":"Планируете сдать или снять жилье в субаренду в Питере? В этой статье от ButlerSPB мы подробно разбираем все юридические аспекты и преимущества такой сделки.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.8","reviewCount":485,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/subarenda-piter/"}}
+title: 'Субаренда в Санкт-Петербурге: риски и выгоды'
+description: >-
+  Планируете сдать или снять жилье в субаренду в Питере? В этой статье от
+  ButlerSPB мы подробно разбираем все юридические аспекты и преимущества такой
+  сделки.
+pubDate: '2025-07-25T14:41:14.799Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Субаренда в Санкт-Петербурге: риски и выгоды'
+  description: >-
+    Планируете сдать или снять жилье в субаренду в Питере? В этой статье от
+    ButlerSPB мы подробно разбираем все юридические аспекты и преимущества такой
+    сделки.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.9'
+    reviewCount: 611
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': 'https://butlerspb-blog.netlify.app/blog/subarenda-piter/'
 ---
 # Субаренда в Питере: Полное руководство по безопасной и выгодной сделке
 

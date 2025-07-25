@@ -1,10 +1,47 @@
 ---
-title: "Стрит-ритейл в Санкт-Петербурге: Всё, что нужно знать инвестору и арендатору"
-description: "Откройте для себя мир стрит-ритейла в Санкт-Петербурге вместе с ButlerSPB! В нашей новой статье мы разбираемся, что такое торговые помещения на первых этажах, чем уникален стрит-ритейл в историческом центре города и в спальных районах. Анализируем ключевые локации, пешеходный трафик и рассказываем, как выбрать идеальное помещение для вашего бизнеса — от бутика на Невском проспекте до уютной кофейни в новом жилом квартале."
-pubDate: "2025-07-22T13:47:25.200Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Стрит-ритейл в Санкт-Петербурге: Всё, что нужно знать инвестору и арендатору","description":"Откройте для себя мир стрит-ритейла в Санкт-Петербурге вместе с ButlerSPB! В нашей новой статье мы разбираемся, что такое торговые помещения на первых этажах, чем уникален стрит-ритейл в историческом центре города и в спальных районах. Анализируем ключевые локации, пешеходный трафик и рассказываем, как выбрать идеальное помещение для вашего бизнеса — от бутика на Невском проспекте до уютной кофейни в новом жилом квартале.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":574,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/chto-takoe-strit-riteyl-v-sankt-peterburge/"}}
+title: 'Стрит-ритейл в Санкт-Петербурге: Всё, что нужно знать инвестору и арендатору'
+description: >-
+  Откройте для себя мир стрит-ритейла в Санкт-Петербурге вместе с ButlerSPB! В
+  нашей новой статье мы разбираемся, что такое торговые помещения на первых
+  этажах, чем уникален стрит-ритейл в историческом центре города и в спальных
+  районах. Анализируем ключевые локации, пешеходный трафик и рассказываем, как
+  выбрать идеальное помещение для вашего бизнеса — от бутика на Невском
+  проспекте до уютной кофейни в новом жилом квартале.
+pubDate: '2025-07-22T13:47:25.200Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Стрит-ритейл в Санкт-Петербурге: Всё, что нужно знать инвестору и арендатору'
+  description: >-
+    Откройте для себя мир стрит-ритейла в Санкт-Петербурге вместе с ButlerSPB! В
+    нашей новой статье мы разбираемся, что такое торговые помещения на первых
+    этажах, чем уникален стрит-ритейл в историческом центре города и в спальных
+    районах. Анализируем ключевые локации, пешеходный трафик и рассказываем, как
+    выбрать идеальное помещение для вашего бизнеса — от бутика на Невском
+    проспекте до уютной кофейни в новом жилом квартале.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.7'
+    reviewCount: 371
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/chto-takoe-strit-riteyl-v-sankt-peterburge/
 ---
 
 # Что такое стрит-ритейл в Санкт-Петербурге: полный гид для арендатора и инвестора

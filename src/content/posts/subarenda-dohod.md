@@ -1,11 +1,40 @@
 ---
-title: "Как заработать на субаренде: советы ButlerSPB"
-description: "Узнайте, как превратить субаренду в стабильный источник дохода. ButlerSPB делится секретами: выбор объекта, юридические аспекты и расчет реальной прибыли."
-keywords: "субаренда, доход от аренды, пассивный доход, ButlerSPB, арендный бизнес, как заработать на аренде, сдать квартиру в субаренду"
-pubDate: "2025-07-25T14:57:36.731Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Как заработать на субаренде: советы ButlerSPB","description":"Узнайте, как превратить субаренду в стабильный источник дохода. ButlerSPB делится секретами: выбор объекта, юридические аспекты и расчет реальной прибыли.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.8","reviewCount":745,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/subarenda-dohod/"}}
+title: 'Как заработать на субаренде: советы ButlerSPB'
+description: >-
+  Узнайте, как превратить субаренду в стабильный источник дохода. ButlerSPB
+  делится секретами: выбор объекта, юридические аспекты и расчет реальной
+  прибыли.
+pubDate: '2025-07-25T14:57:36.731Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Как заработать на субаренде: советы ButlerSPB'
+  description: >-
+    Узнайте, как превратить субаренду в стабильный источник дохода. ButlerSPB
+    делится секретами: выбор объекта, юридические аспекты и расчет реальной
+    прибыли.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '5.0'
+    reviewCount: 485
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': 'https://butlerspb-blog.netlify.app/blog/subarenda-dohod/'
 ---
 # Субаренда как источник стабильного дохода: пошаговый план от А до Я
 

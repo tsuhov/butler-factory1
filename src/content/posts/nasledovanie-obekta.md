@@ -1,11 +1,40 @@
 ---
-title: "Наследование объектов: основы и преимущества"
-description: "Наследование — один из столпов объектно-ориентированного программирования. Оно позволяет создавать новые классы на основе существующих, перенимая их свойства."
-keywords: "наследование, ооп, классы, переиспользование кода, родительский класс, дочерний класс, ButlerSPB"
-pubDate: "2025-07-25T15:48:20.359Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Наследование объектов: основы и преимущества","description":"Наследование — один из столпов объектно-ориентированного программирования. Оно позволяет создавать новые классы на основе существующих, перенимая их свойства.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":395,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/nasledovanie-obekta/"}}
+title: 'Наследование объектов: основы и преимущества'
+description: >-
+  Наследование — один из столпов объектно-ориентированного программирования. Оно
+  позволяет создавать новые классы на основе существующих, перенимая их
+  свойства.
+pubDate: '2025-07-25T15:48:20.359Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Наследование объектов: основы и преимущества'
+  description: >-
+    Наследование — один из столпов объектно-ориентированного программирования.
+    Оно позволяет создавать новые классы на основе существующих, перенимая их
+    свойства.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.9'
+    reviewCount: 672
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': 'https://butlerspb-blog.netlify.app/blog/nasledovanie-obekta/'
 ---
 # Наследование в ООП: полное руководство для разработчика
 

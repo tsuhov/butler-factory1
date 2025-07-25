@@ -1,11 +1,39 @@
 ---
-title: "Реальные отзывы: как отличить правду от вымысла"
-description: "В блоге ButlerSPB мы говорим о важности настоящих отзывов. Узнайте, как мы работаем с обратной связью и как отличить подлинный отзыв от заказного фейка."
-keywords: "реальные отзывы, отзывы клиентов, ButlerSPB, фейковые отзывы, обратная связь, доверие клиентов, проверить отзыв"
-pubDate: "2025-07-25T15:42:06.014Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Реальные отзывы: как отличить правду от вымысла","description":"В блоге ButlerSPB мы говорим о важности настоящих отзывов. Узнайте, как мы работаем с обратной связью и как отличить подлинный отзыв от заказного фейка.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.8","reviewCount":770,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/otzyvy-realnye/"}}
+title: 'Реальные отзывы: как отличить правду от вымысла'
+description: >-
+  В блоге ButlerSPB мы говорим о важности настоящих отзывов. Узнайте, как мы
+  работаем с обратной связью и как отличить подлинный отзыв от заказного фейка.
+pubDate: '2025-07-25T15:42:06.014Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Реальные отзывы: как отличить правду от вымысла'
+  description: >-
+    В блоге ButlerSPB мы говорим о важности настоящих отзывов. Узнайте, как мы
+    работаем с обратной связью и как отличить подлинный отзыв от заказного
+    фейка.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.8'
+    reviewCount: 559
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': 'https://butlerspb-blog.netlify.app/blog/otzyvy-realnye/'
 ---
 # Реальные отзывы: Как найти правду в мире клининга и почему для ButlerSPB честность — главный приоритет
 

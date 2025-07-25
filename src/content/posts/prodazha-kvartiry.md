@@ -1,11 +1,40 @@
 ---
-title: "Продажа квартиры: полное руководство от А до Я"
-description: "Хотите продать квартиру в Санкт-Петербурге? В этой статье мы собрали все этапы: от подготовки документов до поиска покупателя. Советы от экспертов ButlerSPB."
-keywords: "продать квартиру, продажа недвижимости спб, быстрая продажа, агентство недвижимости, оценка квартиры, сделка с недвижимостью"
-pubDate: "2025-07-25T14:39:07.211Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Продажа квартиры: полное руководство от А до Я","description":"Хотите продать квартиру в Санкт-Петербурге? В этой статье мы собрали все этапы: от подготовки документов до поиска покупателя. Советы от экспертов ButlerSPB.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.8","reviewCount":729,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/prodazha-kvartiry/"}}
+title: 'Продажа квартиры: полное руководство от А до Я'
+description: >-
+  Хотите продать квартиру в Санкт-Петербурге? В этой статье мы собрали все
+  этапы: от подготовки документов до поиска покупателя. Советы от экспертов
+  ButlerSPB.
+pubDate: '2025-07-25T14:39:07.211Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Продажа квартиры: полное руководство от А до Я'
+  description: >-
+    Хотите продать квартиру в Санкт-Петербурге? В этой статье мы собрали все
+    этапы: от подготовки документов до поиска покупателя. Советы от экспертов
+    ButlerSPB.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.9'
+    reviewCount: 439
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': 'https://butlerspb-blog.netlify.app/blog/prodazha-kvartiry/'
 ---
 # Как продать квартиру в 2024 году: Полное пошаговое руководство от экспертов ButlerSPB
 

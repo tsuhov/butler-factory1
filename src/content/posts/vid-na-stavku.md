@@ -1,11 +1,40 @@
 ---
-title: "Вид на ставку: ваш эксклюзив от ButlerSPB"
-description: "Узнайте, как оформить эксклюзивный «вид на ставку» от ButlerSPB. Мы раскрываем все секреты получения самых выгодных условий и специальных тарифов на наши услуги."
-keywords: "вид на ставку, ButlerSPB, спецпредложение, выгодные условия, эксклюзивный тариф, услуги в СПб, консьерж-сервис"
-pubDate: "2025-07-25T14:15:05.293Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Вид на ставку: ваш эксклюзив от ButlerSPB","description":"Узнайте, как оформить эксклюзивный «вид на ставку» от ButlerSPB. Мы раскрываем все секреты получения самых выгодных условий и специальных тарифов на наши услуги.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":693,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/vid-na-stavku/"}}
+title: 'Вид на ставку: ваш эксклюзив от ButlerSPB'
+description: >-
+  Узнайте, как оформить эксклюзивный «вид на ставку» от ButlerSPB. Мы раскрываем
+  все секреты получения самых выгодных условий и специальных тарифов на наши
+  услуги.
+pubDate: '2025-07-25T14:15:05.293Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Вид на ставку: ваш эксклюзив от ButlerSPB'
+  description: >-
+    Узнайте, как оформить эксклюзивный «вид на ставку» от ButlerSPB. Мы
+    раскрываем все секреты получения самых выгодных условий и специальных
+    тарифов на наши услуги.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.7'
+    reviewCount: 677
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': 'https://butlerspb-blog.netlify.app/blog/vid-na-stavku/'
 ---
 # Виды ставок на спорт: Полный гид от ординара до системы для интеллектуального болельщика
 

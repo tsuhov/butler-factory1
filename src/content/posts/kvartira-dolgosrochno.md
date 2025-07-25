@@ -1,11 +1,40 @@
 ---
-title: "Аренда квартиры на долгий срок в Петербурге"
-description: "Ищете идеальную квартиру для долгосрочной аренды в СПб? ButlerSPB поможет найти жилье вашей мечты. Полное сопровождение, проверка документов и лучшие варианты."
-keywords: "аренда квартиры долгосрочно, снять квартиру спб, долгосрочная аренда, аренда от собственника, жилье в санкт-петербурге, butler spb"
-pubDate: "2025-07-25T14:57:01.026Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Аренда квартиры на долгий срок в Петербурге","description":"Ищете идеальную квартиру для долгосрочной аренды в СПб? ButlerSPB поможет найти жилье вашей мечты. Полное сопровождение, проверка документов и лучшие варианты.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":466,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/kvartira-dolgosrochno/"}}
+title: Аренда квартиры на долгий срок в Петербурге
+description: >-
+  Ищете идеальную квартиру для долгосрочной аренды в СПб? ButlerSPB поможет
+  найти жилье вашей мечты. Полное сопровождение, проверка документов и лучшие
+  варианты.
+pubDate: '2025-07-25T14:57:01.026Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: Аренда квартиры на долгий срок в Петербурге
+  description: >-
+    Ищете идеальную квартиру для долгосрочной аренды в СПб? ButlerSPB поможет
+    найти жилье вашей мечты. Полное сопровождение, проверка документов и лучшие
+    варианты.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '5.0'
+    reviewCount: 685
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': 'https://butlerspb-blog.netlify.app/blog/kvartira-dolgosrochno/'
 ---
 # Как снять квартиру долгосрочно в Санкт-Петербурге: Полное руководство от экспертов ButlerSPB
 

@@ -1,11 +1,40 @@
 ---
-title: "Чат-поддержка: ключ к лояльности клиентов"
-description: "Узнайте, как чат-поддержка меняет клиентский сервис. В статье от ButlerSPB мы рассмотрим ключевые преимущества: мгновенные ответы, удобство и рост лояльности."
-keywords: "чат-поддержка, клиентский сервис, онлайн-консультант, поддержка клиентов, лояльность, ButlerSPB"
-pubDate: "2025-07-25T13:57:37.135Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Чат-поддержка: ключ к лояльности клиентов","description":"Узнайте, как чат-поддержка меняет клиентский сервис. В статье от ButlerSPB мы рассмотрим ключевые преимущества: мгновенные ответы, удобство и рост лояльности.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":453,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/chat-podderzhka/"}}
+title: 'Чат-поддержка: ключ к лояльности клиентов'
+description: >-
+  Узнайте, как чат-поддержка меняет клиентский сервис. В статье от ButlerSPB мы
+  рассмотрим ключевые преимущества: мгновенные ответы, удобство и рост
+  лояльности.
+pubDate: '2025-07-25T13:57:37.135Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Чат-поддержка: ключ к лояльности клиентов'
+  description: >-
+    Узнайте, как чат-поддержка меняет клиентский сервис. В статье от ButlerSPB
+    мы рассмотрим ключевые преимущества: мгновенные ответы, удобство и рост
+    лояльности.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.9'
+    reviewCount: 608
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': 'https://butlerspb-blog.netlify.app/blog/chat-podderzhka/'
 ---
 # Чат-поддержка на сайте: Полное руководство по увеличению конверсии и лояльности клиентов
 

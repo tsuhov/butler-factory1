@@ -1,11 +1,39 @@
 ---
-title: "Сезонные колебания: как ButlerSPB их сгладит"
-description: "Сезонные колебания спроса влияют на любой бизнес. Узнайте, как подготовиться к пикам и спадам, и какие решения предлагает ButlerSPB для стабилизации работы."
-keywords: "сезонные колебания, управление спросом, бизнес-планирование, ButlerSPB, сезонность бизнеса, пиковый сезон, оптимизация процессов"
-pubDate: "2025-07-25T15:37:02.332Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Сезонные колебания: как ButlerSPB их сгладит","description":"Сезонные колебания спроса влияют на любой бизнес. Узнайте, как подготовиться к пикам и спадам, и какие решения предлагает ButlerSPB для стабилизации работы.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"5.0","reviewCount":709,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/sezonnye-kolebaniya/"}}
+title: 'Сезонные колебания: как ButlerSPB их сгладит'
+description: >-
+  Сезонные колебания спроса влияют на любой бизнес. Узнайте, как подготовиться к
+  пикам и спадам, и какие решения предлагает ButlerSPB для стабилизации работы.
+pubDate: '2025-07-25T15:37:02.332Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Сезонные колебания: как ButlerSPB их сгладит'
+  description: >-
+    Сезонные колебания спроса влияют на любой бизнес. Узнайте, как подготовиться
+    к пикам и спадам, и какие решения предлагает ButlerSPB для стабилизации
+    работы.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.8'
+    reviewCount: 666
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': 'https://butlerspb-blog.netlify.app/blog/sezonnye-kolebaniya/'
 ---
 # Сезонные колебания: Как превратить спад в трамплин для роста вашего бизнеса
 

@@ -1,11 +1,40 @@
 ---
-title: "Как выгодно и безопасно сдать жилье студентам"
-description: "Сдача квартиры студентам — прибыльный, но рискованный бизнес. ButlerSPB расскажет, как правильно составить договор, застраховать имущество и найти порядочных жильцов."
-keywords: "сдать студентам, аренда для студентов, долгосрочная аренда спб, ButlerSPB, доверительное управление, надежный арендатор, сдать квартиру"
-pubDate: "2025-07-25T14:50:30.170Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Как выгодно и безопасно сдать жилье студентам","description":"Сдача квартиры студентам — прибыльный, но рискованный бизнес. ButlerSPB расскажет, как правильно составить договор, застраховать имущество и найти порядочных жильцов.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":514,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/sdat-studentam/"}}
+title: Как выгодно и безопасно сдать жилье студентам
+description: >-
+  Сдача квартиры студентам — прибыльный, но рискованный бизнес. ButlerSPB
+  расскажет, как правильно составить договор, застраховать имущество и найти
+  порядочных жильцов.
+pubDate: '2025-07-25T14:50:30.170Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: Как выгодно и безопасно сдать жилье студентам
+  description: >-
+    Сдача квартиры студентам — прибыльный, но рискованный бизнес. ButlerSPB
+    расскажет, как правильно составить договор, застраховать имущество и найти
+    порядочных жильцов.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.7'
+    reviewCount: 688
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': 'https://butlerspb-blog.netlify.app/blog/sdat-studentam/'
 ---
 # Как сдать квартиру студентам в СПб и не пожалеть: Полное руководство для собственника от ButlerSPB
 

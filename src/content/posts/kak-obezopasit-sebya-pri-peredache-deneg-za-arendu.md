@@ -1,10 +1,45 @@
 ---
-title: "Как обезопасить себя при передаче денег за аренду: гайд от ButlerSPB"
-description: "Оплата аренды — один из самых ответственных и рискованных моментов для арендатора. В нашей новой статье мы подробно разбираем все нюансы: как правильно передавать наличные, почему расписка обязательна, какие существуют безопасные способы онлайн-оплаты и как не попасться на уловки мошенников. ButlerSPB делится экспертизой для вашей безопасности и комфорта."
-pubDate: "2025-07-22T11:38:05.875Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Как обезопасить себя при передаче денег за аренду: гайд от ButlerSPB","description":"Оплата аренды — один из самых ответственных и рискованных моментов для арендатора. В нашей новой статье мы подробно разбираем все нюансы: как правильно передавать наличные, почему расписка обязательна, какие существуют безопасные способы онлайн-оплаты и как не попасться на уловки мошенников. ButlerSPB делится экспертизой для вашей безопасности и комфорта.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":470,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/kak-obezopasit-sebya-pri-peredache-deneg-za-arendu/"}}
+title: 'Как обезопасить себя при передаче денег за аренду: гайд от ButlerSPB'
+description: >-
+  Оплата аренды — один из самых ответственных и рискованных моментов для
+  арендатора. В нашей новой статье мы подробно разбираем все нюансы: как
+  правильно передавать наличные, почему расписка обязательна, какие существуют
+  безопасные способы онлайн-оплаты и как не попасться на уловки мошенников.
+  ButlerSPB делится экспертизой для вашей безопасности и комфорта.
+pubDate: '2025-07-22T11:38:05.875Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Как обезопасить себя при передаче денег за аренду: гайд от ButlerSPB'
+  description: >-
+    Оплата аренды — один из самых ответственных и рискованных моментов для
+    арендатора. В нашей новой статье мы подробно разбираем все нюансы: как
+    правильно передавать наличные, почему расписка обязательна, какие существуют
+    безопасные способы онлайн-оплаты и как не попасться на уловки мошенников.
+    ButlerSPB делится экспертизой для вашей безопасности и комфорта.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.8'
+    reviewCount: 411
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/kak-obezopasit-sebya-pri-peredache-deneg-za-arendu/
 ---
 
 # Как безопасно передать деньги за аренду: пошаговая инструкция от экспертов

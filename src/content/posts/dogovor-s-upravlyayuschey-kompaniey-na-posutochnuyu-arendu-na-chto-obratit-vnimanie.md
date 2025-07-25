@@ -1,10 +1,49 @@
 ---
-title: "Договор с управляющей компанией на посуточную аренду: на что обратить внимание"
-description: "Передача квартиры в управление для посуточной аренды — ответственный шаг, который требует внимательного подхода к документам. В новой статье блога ButlerSPB мы разбираем ключевые пункты договора с управляющей компанией. Узнайте, как правильно определить объем услуг, размер комиссии, ответственность сторон, порядок расчетов и условия расторжения, чтобы ваше сотрудничество было максимально прозрачным, выгодным и безопасным."
-pubDate: "2025-07-23T11:16:07.705Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Договор с управляющей компанией на посуточную аренду: на что обратить внимание","description":"Передача квартиры в управление для посуточной аренды — ответственный шаг, который требует внимательного подхода к документам. В новой статье блога ButlerSPB мы разбираем ключевые пункты договора с управляющей компанией. Узнайте, как правильно определить объем услуг, размер комиссии, ответственность сторон, порядок расчетов и условия расторжения, чтобы ваше сотрудничество было максимально прозрачным, выгодным и безопасным.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.7","reviewCount":834,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/dogovor-s-upravlyayuschey-kompaniey-na-posutochnuyu-arendu-na-chto-obratit-vnimanie/"}}
+title: 'Договор с управляющей компанией на посуточную аренду: на что обратить внимание'
+description: >-
+  Передача квартиры в управление для посуточной аренды — ответственный шаг,
+  который требует внимательного подхода к документам. В новой статье блога
+  ButlerSPB мы разбираем ключевые пункты договора с управляющей компанией.
+  Узнайте, как правильно определить объем услуг, размер комиссии,
+  ответственность сторон, порядок расчетов и условия расторжения, чтобы ваше
+  сотрудничество было максимально прозрачным, выгодным и безопасным.
+pubDate: '2025-07-23T11:16:07.705Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: >-
+    Договор с управляющей компанией на посуточную аренду: на что обратить
+    внимание
+  description: >-
+    Передача квартиры в управление для посуточной аренды — ответственный шаг,
+    который требует внимательного подхода к документам. В новой статье блога
+    ButlerSPB мы разбираем ключевые пункты договора с управляющей компанией.
+    Узнайте, как правильно определить объем услуг, размер комиссии,
+    ответственность сторон, порядок расчетов и условия расторжения, чтобы ваше
+    сотрудничество было максимально прозрачным, выгодным и безопасным.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.7'
+    reviewCount: 827
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/dogovor-s-upravlyayuschey-kompaniey-na-posutochnuyu-arendu-na-chto-obratit-vnimanie/
 ---
 
 # Как читать договор с управляющей компанией по посуточной аренде: чек-лист от экспертов ButlerSPB

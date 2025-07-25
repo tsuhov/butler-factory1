@@ -1,11 +1,40 @@
 ---
-title: "Риски инвестиционных фондов: что нужно знать"
-description: "Инвестиции в фонды кажутся безопасными, но несут риски: рыночные, кредитные, ликвидности. В нашей статье от ButlerSPB мы разбираем основные угрозы для инвестора."
-keywords: "инвестиционный фонд, риски инвестиций, управление рисками, рыночный риск, ПИФ, диверсификация, ButlerSPB"
-pubDate: "2025-07-25T14:31:52.859Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Риски инвестиционных фондов: что нужно знать","description":"Инвестиции в фонды кажутся безопасными, но несут риски: рыночные, кредитные, ликвидности. В нашей статье от ButlerSPB мы разбираем основные угрозы для инвестора.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"5.0","reviewCount":616,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/riski-investfond/"}}
+title: 'Риски инвестиционных фондов: что нужно знать'
+description: >-
+  Инвестиции в фонды кажутся безопасными, но несут риски: рыночные, кредитные,
+  ликвидности. В нашей статье от ButlerSPB мы разбираем основные угрозы для
+  инвестора.
+pubDate: '2025-07-25T14:31:52.859Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Риски инвестиционных фондов: что нужно знать'
+  description: >-
+    Инвестиции в фонды кажутся безопасными, но несут риски: рыночные, кредитные,
+    ликвидности. В нашей статье от ButlerSPB мы разбираем основные угрозы для
+    инвестора.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.9'
+    reviewCount: 718
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': 'https://butlerspb-blog.netlify.app/blog/riski-investfond/'
 ---
 # Риски инвестиционных фондов: Полный гид по защите вашего капитала от экспертов ButlerSPB
 

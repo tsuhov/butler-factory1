@@ -1,10 +1,50 @@
 ---
-title: "Государственная регистрация договора доверительного управления: полное руководство от ButlerSPB"
-description: "Планируете передать недвижимость или иное имущество в доверительное управление? Узнайте, в каких случаях необходима государственная регистрация такого договора в Росреестре. В нашей новой статье эксперты ButlerSPB подробно разбирают процедуру, список необходимых документов, сроки и возможные причины для отказа. Защитите свои активы и действуйте юридически грамотно."
-pubDate: "2025-07-22T11:33:37.030Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Государственная регистрация договора доверительного управления: полное руководство от ButlerSPB","description":"Планируете передать недвижимость или иное имущество в доверительное управление? Узнайте, в каких случаях необходима государственная регистрация такого договора в Росреестре. В нашей новой статье эксперты ButlerSPB подробно разбирают процедуру, список необходимых документов, сроки и возможные причины для отказа. Защитите свои активы и действуйте юридически грамотно.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"5.0","reviewCount":533,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/gosudarstvennaya-registraciya-dogovora-doveritelnogo-upravleniya/"}}
+title: >-
+  Государственная регистрация договора доверительного управления: полное
+  руководство от ButlerSPB
+description: >-
+  Планируете передать недвижимость или иное имущество в доверительное
+  управление? Узнайте, в каких случаях необходима государственная регистрация
+  такого договора в Росреестре. В нашей новой статье эксперты ButlerSPB подробно
+  разбирают процедуру, список необходимых документов, сроки и возможные причины
+  для отказа. Защитите свои активы и действуйте юридически грамотно.
+pubDate: '2025-07-22T11:33:37.030Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: >-
+    Государственная регистрация договора доверительного управления: полное
+    руководство от ButlerSPB
+  description: >-
+    Планируете передать недвижимость или иное имущество в доверительное
+    управление? Узнайте, в каких случаях необходима государственная регистрация
+    такого договора в Росреестре. В нашей новой статье эксперты ButlerSPB
+    подробно разбирают процедуру, список необходимых документов, сроки и
+    возможные причины для отказа. Защитите свои активы и действуйте юридически
+    грамотно.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.7'
+    reviewCount: 619
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/gosudarstvennaya-registraciya-dogovora-doveritelnogo-upravleniya/
 ---
 
 # Государственная регистрация договора доверительного управления: полное руководство для владельца недвижимости

@@ -1,10 +1,51 @@
 ---
-title: "Инвестиции в квартиру 'white box' в новостройках СПб: инструкция для инвестора от ButlerSPB"
-description: "Что такое отделка 'white box' и почему это один из самых выгодных вариантов для инвестиций в недвижимость Санкт-Петербурга? В статье разбираем плюсы и минусы предчистовой отделки, сравниваем ее с черновой и полной отделкой от застройщика. Анализируем, как 'white box' ускоряет получение прибыли от аренды и увеличивает привлекательность объекта при перепродаже. Эксперты ButlerSPB делятся расчетами и практическими советами."
-pubDate: "2025-07-22T15:32:20.143Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Инвестиции в квартиру 'white box' в новостройках СПб: инструкция для инвестора от ButlerSPB","description":"Что такое отделка 'white box' и почему это один из самых выгодных вариантов для инвестиций в недвижимость Санкт-Петербурга? В статье разбираем плюсы и минусы предчистовой отделки, сравниваем ее с черновой и полной отделкой от застройщика. Анализируем, как 'white box' ускоряет получение прибыли от аренды и увеличивает привлекательность объекта при перепродаже. Эксперты ButlerSPB делятся расчетами и практическими советами.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.8","reviewCount":603,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/investicii-v-kvartiru-white-box-v-novostroykah-spb/"}}
+title: >-
+  Инвестиции в квартиру 'white box' в новостройках СПб: инструкция для инвестора
+  от ButlerSPB
+description: >-
+  Что такое отделка 'white box' и почему это один из самых выгодных вариантов
+  для инвестиций в недвижимость Санкт-Петербурга? В статье разбираем плюсы и
+  минусы предчистовой отделки, сравниваем ее с черновой и полной отделкой от
+  застройщика. Анализируем, как 'white box' ускоряет получение прибыли от аренды
+  и увеличивает привлекательность объекта при перепродаже. Эксперты ButlerSPB
+  делятся расчетами и практическими советами.
+pubDate: '2025-07-22T15:32:20.143Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: >-
+    Инвестиции в квартиру 'white box' в новостройках СПб: инструкция для
+    инвестора от ButlerSPB
+  description: >-
+    Что такое отделка 'white box' и почему это один из самых выгодных вариантов
+    для инвестиций в недвижимость Санкт-Петербурга? В статье разбираем плюсы и
+    минусы предчистовой отделки, сравниваем ее с черновой и полной отделкой от
+    застройщика. Анализируем, как 'white box' ускоряет получение прибыли от
+    аренды и увеличивает привлекательность объекта при перепродаже. Эксперты
+    ButlerSPB делятся расчетами и практическими советами.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.9'
+    reviewCount: 743
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/investicii-v-kvartiru-white-box-v-novostroykah-spb/
 ---
 
 # Инвестиции в White Box: Как заработать на предчистовой отделке в новостройках СПб?

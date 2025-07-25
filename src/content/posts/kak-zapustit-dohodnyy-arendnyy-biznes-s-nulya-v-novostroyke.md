@@ -1,10 +1,49 @@
 ---
-title: "Как запустить доходный арендный бизнес в новостройке с нуля: пошаговое руководство от ButlerSPB"
-description: "Мечтаете о пассивном доходе от недвижимости? Покупка квартиры в новостройке для сдачи в аренду — отличный старт. В нашей статье вы найдете полный гид для начинающего инвестора: как выбрать ликвидный объект, сделать выгодный ремонт, найти надежных жильцов и автоматизировать управление. Раскрываем секреты максимизации прибыли и минимизации рисков."
-pubDate: "2025-07-23T12:04:22.835Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Как запустить доходный арендный бизнес в новостройке с нуля: пошаговое руководство от ButlerSPB","description":"Мечтаете о пассивном доходе от недвижимости? Покупка квартиры в новостройке для сдачи в аренду — отличный старт. В нашей статье вы найдете полный гид для начинающего инвестора: как выбрать ликвидный объект, сделать выгодный ремонт, найти надежных жильцов и автоматизировать управление. Раскрываем секреты максимизации прибыли и минимизации рисков.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.7","reviewCount":314,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/kak-zapustit-dohodnyy-arendnyy-biznes-s-nulya-v-novostroyke/"}}
+title: >-
+  Как запустить доходный арендный бизнес в новостройке с нуля: пошаговое
+  руководство от ButlerSPB
+description: >-
+  Мечтаете о пассивном доходе от недвижимости? Покупка квартиры в новостройке
+  для сдачи в аренду — отличный старт. В нашей статье вы найдете полный гид для
+  начинающего инвестора: как выбрать ликвидный объект, сделать выгодный ремонт,
+  найти надежных жильцов и автоматизировать управление. Раскрываем секреты
+  максимизации прибыли и минимизации рисков.
+pubDate: '2025-07-23T12:04:22.835Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: >-
+    Как запустить доходный арендный бизнес в новостройке с нуля: пошаговое
+    руководство от ButlerSPB
+  description: >-
+    Мечтаете о пассивном доходе от недвижимости? Покупка квартиры в новостройке
+    для сдачи в аренду — отличный старт. В нашей статье вы найдете полный гид
+    для начинающего инвестора: как выбрать ликвидный объект, сделать выгодный
+    ремонт, найти надежных жильцов и автоматизировать управление. Раскрываем
+    секреты максимизации прибыли и минимизации рисков.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '5.0'
+    reviewCount: 335
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/kak-zapustit-dohodnyy-arendnyy-biznes-s-nulya-v-novostroyke/
 ---
 
 # Как запустить доходный арендный бизнес с нуля в новостройке: полное руководство от экспертов ButlerSPB

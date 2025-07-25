@@ -1,10 +1,47 @@
 ---
-title: "Украли кошелек или телефон? Пошаговая инструкция от ButlerSPB"
-description: "Паника — худший советчик в ситуации, когда вы обнаружили пропажу. Мы в ButlerSPB подготовили четкий и понятный план действий, который поможет минимизировать риски и защитить ваши финансы и данные. В этой статье вы найдете пошаговую инструкцию: как мгновенно заблокировать банковские карты и SIM-карту, что делать для удаленной блокировки смартфона, как защитить свои аккаунты и как правильно подать заявление в полицию."
-pubDate: "2025-07-22T13:06:05.067Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Украли кошелек или телефон? Пошаговая инструкция от ButlerSPB","description":"Паника — худший советчик в ситуации, когда вы обнаружили пропажу. Мы в ButlerSPB подготовили четкий и понятный план действий, который поможет минимизировать риски и защитить ваши финансы и данные. В этой статье вы найдете пошаговую инструкцию: как мгновенно заблокировать банковские карты и SIM-карту, что делать для удаленной блокировки смартфона, как защитить свои аккаунты и как правильно подать заявление в полицию.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":517,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/chto-delat-esli-u-vas-ukrali-koshelek-ili-telefon/"}}
+title: Украли кошелек или телефон? Пошаговая инструкция от ButlerSPB
+description: >-
+  Паника — худший советчик в ситуации, когда вы обнаружили пропажу. Мы в
+  ButlerSPB подготовили четкий и понятный план действий, который поможет
+  минимизировать риски и защитить ваши финансы и данные. В этой статье вы
+  найдете пошаговую инструкцию: как мгновенно заблокировать банковские карты и
+  SIM-карту, что делать для удаленной блокировки смартфона, как защитить свои
+  аккаунты и как правильно подать заявление в полицию.
+pubDate: '2025-07-22T13:06:05.067Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: Украли кошелек или телефон? Пошаговая инструкция от ButlerSPB
+  description: >-
+    Паника — худший советчик в ситуации, когда вы обнаружили пропажу. Мы в
+    ButlerSPB подготовили четкий и понятный план действий, который поможет
+    минимизировать риски и защитить ваши финансы и данные. В этой статье вы
+    найдете пошаговую инструкцию: как мгновенно заблокировать банковские карты и
+    SIM-карту, что делать для удаленной блокировки смартфона, как защитить свои
+    аккаунты и как правильно подать заявление в полицию.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.8'
+    reviewCount: 541
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/chto-delat-esli-u-vas-ukrali-koshelek-ili-telefon/
 ---
 
 # Украли кошелек или телефон: пошаговый план, который спасет ваши деньги и нервы

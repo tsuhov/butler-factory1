@@ -1,10 +1,44 @@
 ---
-title: "Кейс ButlerSPB: Управление квартирой в новостройке Мурино с нуля"
-description: "Подробный разбор нашего кейса по управлению однокомнатной квартирой в Мурино. Рассказываем, как мы прошли все этапы: от приемки у застройщика и меблировки до поиска и заселения надежного арендатора. Узнайте, с какими сложностями мы столкнулись и как обеспечили собственнику пассивный доход без его участия."
-pubDate: "2025-07-22T11:04:03.038Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Кейс ButlerSPB: Управление квартирой в новостройке Мурино с нуля","description":"Подробный разбор нашего кейса по управлению однокомнатной квартирой в Мурино. Рассказываем, как мы прошли все этапы: от приемки у застройщика и меблировки до поиска и заселения надежного арендатора. Узнайте, с какими сложностями мы столкнулись и как обеспечили собственнику пассивный доход без его участия.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.7","reviewCount":688,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/keys-upravlenie-kvartiroy-v-novostroyke-v-murino-s-nulya/"}}
+title: 'Кейс ButlerSPB: Управление квартирой в новостройке Мурино с нуля'
+description: >-
+  Подробный разбор нашего кейса по управлению однокомнатной квартирой в Мурино.
+  Рассказываем, как мы прошли все этапы: от приемки у застройщика и меблировки
+  до поиска и заселения надежного арендатора. Узнайте, с какими сложностями мы
+  столкнулись и как обеспечили собственнику пассивный доход без его участия.
+pubDate: '2025-07-22T11:04:03.038Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Кейс ButlerSPB: Управление квартирой в новостройке Мурино с нуля'
+  description: >-
+    Подробный разбор нашего кейса по управлению однокомнатной квартирой в
+    Мурино. Рассказываем, как мы прошли все этапы: от приемки у застройщика и
+    меблировки до поиска и заселения надежного арендатора. Узнайте, с какими
+    сложностями мы столкнулись и как обеспечили собственнику пассивный доход без
+    его участия.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.8'
+    reviewCount: 884
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/keys-upravlenie-kvartiroy-v-novostroyke-v-murino-s-nulya/
 ---
 
 # Кейс ButlerSPB: Как мы превратили "бетон" в новостройке Мурино в доходный актив с нуля

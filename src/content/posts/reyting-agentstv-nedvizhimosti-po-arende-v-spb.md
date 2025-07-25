@@ -1,10 +1,46 @@
 ---
-title: "Рейтинг агентств недвижимости по аренде в СПб: кому доверить поиск квартиры?"
-description: "Собираетесь снять квартиру в Санкт-Петербурге и не знаете, какое агентство выбрать? Команда ButlerSPB подготовила объективный рейтинг агентств недвижимости по аренде жилья в СПб. В статье мы сравниваем ключевых игроков рынка, анализируем их преимущества и недостатки, а также делимся советами, как не ошибиться с выбором и найти идеальную квартиру без лишних нервов и затрат."
-pubDate: "2025-07-22T11:36:07.851Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Рейтинг агентств недвижимости по аренде в СПб: кому доверить поиск квартиры?","description":"Собираетесь снять квартиру в Санкт-Петербурге и не знаете, какое агентство выбрать? Команда ButlerSPB подготовила объективный рейтинг агентств недвижимости по аренде жилья в СПб. В статье мы сравниваем ключевых игроков рынка, анализируем их преимущества и недостатки, а также делимся советами, как не ошибиться с выбором и найти идеальную квартиру без лишних нервов и затрат.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.7","reviewCount":774,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/reyting-agentstv-nedvizhimosti-po-arende-v-spb/"}}
+title: 'Рейтинг агентств недвижимости по аренде в СПб: кому доверить поиск квартиры?'
+description: >-
+  Собираетесь снять квартиру в Санкт-Петербурге и не знаете, какое агентство
+  выбрать? Команда ButlerSPB подготовила объективный рейтинг агентств
+  недвижимости по аренде жилья в СПб. В статье мы сравниваем ключевых игроков
+  рынка, анализируем их преимущества и недостатки, а также делимся советами, как
+  не ошибиться с выбором и найти идеальную квартиру без лишних нервов и затрат.
+pubDate: '2025-07-22T11:36:07.851Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Рейтинг агентств недвижимости по аренде в СПб: кому доверить поиск квартиры?'
+  description: >-
+    Собираетесь снять квартиру в Санкт-Петербурге и не знаете, какое агентство
+    выбрать? Команда ButlerSPB подготовила объективный рейтинг агентств
+    недвижимости по аренде жилья в СПб. В статье мы сравниваем ключевых игроков
+    рынка, анализируем их преимущества и недостатки, а также делимся советами,
+    как не ошибиться с выбором и найти идеальную квартиру без лишних нервов и
+    затрат.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.8'
+    reviewCount: 307
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/reyting-agentstv-nedvizhimosti-po-arende-v-spb/
 ---
 
 # Рейтинг агентств недвижимости по аренде в СПб 2024: Кому можно доверять?

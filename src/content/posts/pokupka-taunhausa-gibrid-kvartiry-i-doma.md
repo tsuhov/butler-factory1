@@ -1,10 +1,43 @@
 ---
-title: "Покупка таунхауса: гибрид квартиры и дома. Полный гид от ButlerSPB"
-description: "Мечтаете о собственном доме, но не готовы отказываться от преимуществ городской жизни? Таунхаус — это идеальный компромисс. В этой статье команда ButlerSPB разбирает все плюсы, минусы и подводные камни покупки таунхауса, чтобы помочь вам сделать правильный выбор."
-pubDate: "2025-07-23T11:36:38.111Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Покупка таунхауса: гибрид квартиры и дома. Полный гид от ButlerSPB","description":"Мечтаете о собственном доме, но не готовы отказываться от преимуществ городской жизни? Таунхаус — это идеальный компромисс. В этой статье команда ButlerSPB разбирает все плюсы, минусы и подводные камни покупки таунхауса, чтобы помочь вам сделать правильный выбор.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":504,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/pokupka-taunhausa-gibrid-kvartiry-i-doma/"}}
+title: 'Покупка таунхауса: гибрид квартиры и дома. Полный гид от ButlerSPB'
+description: >-
+  Мечтаете о собственном доме, но не готовы отказываться от преимуществ
+  городской жизни? Таунхаус — это идеальный компромисс. В этой статье команда
+  ButlerSPB разбирает все плюсы, минусы и подводные камни покупки таунхауса,
+  чтобы помочь вам сделать правильный выбор.
+pubDate: '2025-07-23T11:36:38.111Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Покупка таунхауса: гибрид квартиры и дома. Полный гид от ButlerSPB'
+  description: >-
+    Мечтаете о собственном доме, но не готовы отказываться от преимуществ
+    городской жизни? Таунхаус — это идеальный компромисс. В этой статье команда
+    ButlerSPB разбирает все плюсы, минусы и подводные камни покупки таунхауса,
+    чтобы помочь вам сделать правильный выбор.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.9'
+    reviewCount: 618
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/pokupka-taunhausa-gibrid-kvartiry-i-doma/
 ---
 
 # Покупка таунхауса в СПб: Полный гид от экспертов ButlerSPB

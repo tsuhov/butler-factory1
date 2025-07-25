@@ -1,10 +1,49 @@
 ---
-title: "Как организовать профессиональную фотосессию квартиры для сдачи в аренду: полное руководство от ButlerSPB"
-description: "Качественные фотографии — ключ к быстрой и выгодной сдаче квартиры. В нашей новой статье мы подробно разбираем все этапы организации профессиональной фотосъемки: от подготовки интерьера и поиска фотографа до выбора правильных ракурсов. Узнайте, как с помощью ButlerSPB создать продающие снимки, которые привлекут лучших арендаторов и увеличат ваш доход."
-pubDate: "2025-07-23T12:13:09.663Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Как организовать профессиональную фотосессию квартиры для сдачи в аренду: полное руководство от ButlerSPB","description":"Качественные фотографии — ключ к быстрой и выгодной сдаче квартиры. В нашей новой статье мы подробно разбираем все этапы организации профессиональной фотосъемки: от подготовки интерьера и поиска фотографа до выбора правильных ракурсов. Узнайте, как с помощью ButlerSPB создать продающие снимки, которые привлекут лучших арендаторов и увеличат ваш доход.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.8","reviewCount":615,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/kak-organizovat-professionalnuyu-fotosessiyu-kvartiry-dlya-sdachi-v-arendu/"}}
+title: >-
+  Как организовать профессиональную фотосессию квартиры для сдачи в аренду:
+  полное руководство от ButlerSPB
+description: >-
+  Качественные фотографии — ключ к быстрой и выгодной сдаче квартиры. В нашей
+  новой статье мы подробно разбираем все этапы организации профессиональной
+  фотосъемки: от подготовки интерьера и поиска фотографа до выбора правильных
+  ракурсов. Узнайте, как с помощью ButlerSPB создать продающие снимки, которые
+  привлекут лучших арендаторов и увеличат ваш доход.
+pubDate: '2025-07-23T12:13:09.663Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: >-
+    Как организовать профессиональную фотосессию квартиры для сдачи в аренду:
+    полное руководство от ButlerSPB
+  description: >-
+    Качественные фотографии — ключ к быстрой и выгодной сдаче квартиры. В нашей
+    новой статье мы подробно разбираем все этапы организации профессиональной
+    фотосъемки: от подготовки интерьера и поиска фотографа до выбора правильных
+    ракурсов. Узнайте, как с помощью ButlerSPB создать продающие снимки, которые
+    привлекут лучших арендаторов и увеличат ваш доход.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.7'
+    reviewCount: 383
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/kak-organizovat-professionalnuyu-fotosessiyu-kvartiry-dlya-sdachi-v-arendu/
 ---
 
 # Как одна фотосессия поможет сдать квартиру в 2 раза быстрее и на 15% дороже: Полное руководство от ButlerSPB

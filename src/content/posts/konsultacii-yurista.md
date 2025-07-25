@@ -1,11 +1,40 @@
 ---
-title: "Консультация юриста: ваш первый шаг к решению"
-description: "Получите квалифицированную юридическую консультацию от экспертов ButlerSPB. Поможем разобраться в сложной ситуации, оценим риски и предложим эффективное решение."
-keywords: "консультация юриста, юридическая помощь, юрист спб, правовой совет, ButlerSPB, задать вопрос юристу, юридические услуги"
-pubDate: "2025-07-25T15:14:12.644Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Консультация юриста: ваш первый шаг к решению","description":"Получите квалифицированную юридическую консультацию от экспертов ButlerSPB. Поможем разобраться в сложной ситуации, оценим риски и предложим эффективное решение.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.8","reviewCount":779,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/konsultacii-yurista/"}}
+title: 'Консультация юриста: ваш первый шаг к решению'
+description: >-
+  Получите квалифицированную юридическую консультацию от экспертов ButlerSPB.
+  Поможем разобраться в сложной ситуации, оценим риски и предложим эффективное
+  решение.
+pubDate: '2025-07-25T15:14:12.644Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Консультация юриста: ваш первый шаг к решению'
+  description: >-
+    Получите квалифицированную юридическую консультацию от экспертов ButlerSPB.
+    Поможем разобраться в сложной ситуации, оценим риски и предложим эффективное
+    решение.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.8'
+    reviewCount: 399
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': 'https://butlerspb-blog.netlify.app/blog/konsultacii-yurista/'
 ---
 # Консультация юриста: Ваш первый шаг к решению любой правовой проблемы
 

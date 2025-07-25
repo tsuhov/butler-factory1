@@ -1,11 +1,40 @@
 ---
-title: "Что такое сервис от ButlerSPB? Разбираемся."
-description: "Узнайте, что скрывается за понятием \"дворецкий\" в наши дни. ButlerSPB – это не просто личный помощник, а ваш надежный партнер для решения любых задач в Петербурге."
-keywords: "дворецкий, консьерж-сервис, личный помощник, ButlerSPB, премиум сервис, Санкт-Петербург"
-pubDate: "2025-07-25T14:38:12.153Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Что такое сервис от ButlerSPB? Разбираемся.","description":"Узнайте, что скрывается за понятием \"дворецкий\" в наши дни. ButlerSPB – это не просто личный помощник, а ваш надежный партнер для решения любых задач в Петербурге.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.8","reviewCount":471,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/chto-eto/"}}
+title: Что такое сервис от ButlerSPB? Разбираемся.
+description: >-
+  Узнайте, что скрывается за понятием "дворецкий" в наши дни. ButlerSPB – это не
+  просто личный помощник, а ваш надежный партнер для решения любых задач в
+  Петербурге.
+pubDate: '2025-07-25T14:38:12.153Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: Что такое сервис от ButlerSPB? Разбираемся.
+  description: >-
+    Узнайте, что скрывается за понятием "дворецкий" в наши дни. ButlerSPB – это
+    не просто личный помощник, а ваш надежный партнер для решения любых задач в
+    Петербурге.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.8'
+    reviewCount: 439
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': 'https://butlerspb-blog.netlify.app/blog/chto-eto/'
 ---
 # Что такое доверительное управление квартирой и как оно экономит ваше время и нервы
 

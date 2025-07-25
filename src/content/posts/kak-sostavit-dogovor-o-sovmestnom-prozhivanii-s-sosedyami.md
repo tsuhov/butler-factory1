@@ -1,10 +1,47 @@
 ---
-title: "Договор с соседями: как жить дружно и без сюрпризов. Инструкция от ButlerSPB"
-description: "Совместная аренда квартиры – отличный способ сэкономить, но бытовые вопросы могут испортить даже самую крепкую дружбу. Чтобы избежать конфликтов из-за грязной посуды, неоплаченных счетов и шумных вечеринок, важно договориться 'на берегу'. В этой статье мы, команда ButlerSPB, расскажем, как составить простой и понятный договор о совместном проживании, который поможет сделать вашу жизнь с соседями комфортной и предсказуемой."
-pubDate: "2025-07-22T11:42:31.053Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Договор с соседями: как жить дружно и без сюрпризов. Инструкция от ButlerSPB","description":"Совместная аренда квартиры – отличный способ сэкономить, но бытовые вопросы могут испортить даже самую крепкую дружбу. Чтобы избежать конфликтов из-за грязной посуды, неоплаченных счетов и шумных вечеринок, важно договориться 'на берегу'. В этой статье мы, команда ButlerSPB, расскажем, как составить простой и понятный договор о совместном проживании, который поможет сделать вашу жизнь с соседями комфортной и предсказуемой.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.7","reviewCount":819,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/kak-sostavit-dogovor-o-sovmestnom-prozhivanii-s-sosedyami/"}}
+title: 'Договор с соседями: как жить дружно и без сюрпризов. Инструкция от ButlerSPB'
+description: >-
+  Совместная аренда квартиры – отличный способ сэкономить, но бытовые вопросы
+  могут испортить даже самую крепкую дружбу. Чтобы избежать конфликтов из-за
+  грязной посуды, неоплаченных счетов и шумных вечеринок, важно договориться 'на
+  берегу'. В этой статье мы, команда ButlerSPB, расскажем, как составить простой
+  и понятный договор о совместном проживании, который поможет сделать вашу жизнь
+  с соседями комфортной и предсказуемой.
+pubDate: '2025-07-22T11:42:31.053Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Договор с соседями: как жить дружно и без сюрпризов. Инструкция от ButlerSPB'
+  description: >-
+    Совместная аренда квартиры – отличный способ сэкономить, но бытовые вопросы
+    могут испортить даже самую крепкую дружбу. Чтобы избежать конфликтов из-за
+    грязной посуды, неоплаченных счетов и шумных вечеринок, важно договориться
+    'на берегу'. В этой статье мы, команда ButlerSPB, расскажем, как составить
+    простой и понятный договор о совместном проживании, который поможет сделать
+    вашу жизнь с соседями комфортной и предсказуемой.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.9'
+    reviewCount: 334
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/kak-sostavit-dogovor-o-sovmestnom-prozhivanii-s-sosedyami/
 ---
 
 # Как составить договор о совместном проживании: полное руководство от ButlerSPB (+ шаблон)

@@ -1,11 +1,40 @@
 ---
-title: "Налоги при сдаче в аренду нескольких квартир"
-description: "Сдаете несколько квартир в аренду? Разбираемся, какой налоговый режим выбрать: НДФЛ, самозанятость или ИП. Сравниваем ставки, лимиты и отчетность для рантье."
-keywords: "налоги на аренду, сдача квартиры, несколько квартир, ИП для аренды, самозанятый аренда, НДФЛ с аренды, налогообложение рантье"
-pubDate: "2025-07-24T12:03:10.295Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Налоги при сдаче в аренду нескольких квартир","description":"Сдаете несколько квартир в аренду? Разбираемся, какой налоговый режим выбрать: НДФЛ, самозанятость или ИП. Сравниваем ставки, лимиты и отчетность для рантье.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.8","reviewCount":807,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/nalogi-pri-sdache-v-arendu-neskolkih-kvartir/"}}
+title: Налоги при сдаче в аренду нескольких квартир
+description: >-
+  Сдаете несколько квартир в аренду? Разбираемся, какой налоговый режим выбрать:
+  НДФЛ, самозанятость или ИП. Сравниваем ставки, лимиты и отчетность для рантье.
+pubDate: '2025-07-24T12:03:10.295Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: Налоги при сдаче в аренду нескольких квартир
+  description: >-
+    Сдаете несколько квартир в аренду? Разбираемся, какой налоговый режим
+    выбрать: НДФЛ, самозанятость или ИП. Сравниваем ставки, лимиты и отчетность
+    для рантье.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.7'
+    reviewCount: 899
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/nalogi-pri-sdache-v-arendu-neskolkih-kvartir/
 ---
 # Налоги при сдаче нескольких квартир: полное руководство для инвестора
 

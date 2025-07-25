@@ -1,10 +1,49 @@
 ---
-title: "Как сдать квартиру на длительный срок через агентство: разбираем стоимость услуг и этапы работы"
-description: "Хотите сдать квартиру в Санкт-Петербурге быстро и безопасно? В нашей новой статье для блога ButlerSPB мы подробно рассказываем, сколько стоят услуги риэлтора при долгосрочной аренде, как формируется комиссия, и какие преимущества вы получаете, работая с профессионалами. Узнайте, как избежать рисков и найти идеального арендатора с помощью агентства."
-pubDate: "2025-07-23T11:11:53.195Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Как сдать квартиру на длительный срок через агентство: разбираем стоимость услуг и этапы работы","description":"Хотите сдать квартиру в Санкт-Петербурге быстро и безопасно? В нашей новой статье для блога ButlerSPB мы подробно рассказываем, сколько стоят услуги риэлтора при долгосрочной аренде, как формируется комиссия, и какие преимущества вы получаете, работая с профессионалами. Узнайте, как избежать рисков и найти идеального арендатора с помощью агентства.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":880,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/kak-sdat-kvartiru-na-dlitelnyy-srok-cherez-agentstvo-stoimost-uslug/"}}
+title: >-
+  Как сдать квартиру на длительный срок через агентство: разбираем стоимость
+  услуг и этапы работы
+description: >-
+  Хотите сдать квартиру в Санкт-Петербурге быстро и безопасно? В нашей новой
+  статье для блога ButlerSPB мы подробно рассказываем, сколько стоят услуги
+  риэлтора при долгосрочной аренде, как формируется комиссия, и какие
+  преимущества вы получаете, работая с профессионалами. Узнайте, как избежать
+  рисков и найти идеального арендатора с помощью агентства.
+pubDate: '2025-07-23T11:11:53.195Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: >-
+    Как сдать квартиру на длительный срок через агентство: разбираем стоимость
+    услуг и этапы работы
+  description: >-
+    Хотите сдать квартиру в Санкт-Петербурге быстро и безопасно? В нашей новой
+    статье для блога ButlerSPB мы подробно рассказываем, сколько стоят услуги
+    риэлтора при долгосрочной аренде, как формируется комиссия, и какие
+    преимущества вы получаете, работая с профессионалами. Узнайте, как избежать
+    рисков и найти идеального арендатора с помощью агентства.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.8'
+    reviewCount: 873
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/kak-sdat-kvartiru-na-dlitelnyy-srok-cherez-agentstvo-stoimost-uslug/
 ---
 
 # Как сдать квартиру на длительный срок через агентство: Полное руководство по услугам и ценам в СПб от ButlerSPB

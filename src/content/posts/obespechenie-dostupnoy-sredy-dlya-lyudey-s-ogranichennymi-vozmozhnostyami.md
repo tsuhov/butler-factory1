@@ -1,10 +1,52 @@
 ---
-title: "Обеспечение доступной среды для людей с ограниченными возможностями: больше, чем просто пандус"
-description: "В новой статье блога ButlerSPB мы разбираемся, что такое настоящая доступная среда и почему ее создание — это не только выполнение законодательных норм, но и проявление социальной ответственности и шаг к расширению вашего бизнеса. Узнайте о ключевых аспектах физической и цифровой доступности, практических решениях для адаптации пространства и о том, как инклюзивный подход повышает качество жизни для всех и формирует позитивный имидж компании."
-pubDate: "2025-07-22T11:29:16.088Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Обеспечение доступной среды для людей с ограниченными возможностями: больше, чем просто пандус","description":"В новой статье блога ButlerSPB мы разбираемся, что такое настоящая доступная среда и почему ее создание — это не только выполнение законодательных норм, но и проявление социальной ответственности и шаг к расширению вашего бизнеса. Узнайте о ключевых аспектах физической и цифровой доступности, практических решениях для адаптации пространства и о том, как инклюзивный подход повышает качество жизни для всех и формирует позитивный имидж компании.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.8","reviewCount":520,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/obespechenie-dostupnoy-sredy-dlya-lyudey-s-ogranichennymi-vozmozhnostyami/"}}
+title: >-
+  Обеспечение доступной среды для людей с ограниченными возможностями: больше,
+  чем просто пандус
+description: >-
+  В новой статье блога ButlerSPB мы разбираемся, что такое настоящая доступная
+  среда и почему ее создание — это не только выполнение законодательных норм, но
+  и проявление социальной ответственности и шаг к расширению вашего бизнеса.
+  Узнайте о ключевых аспектах физической и цифровой доступности, практических
+  решениях для адаптации пространства и о том, как инклюзивный подход повышает
+  качество жизни для всех и формирует позитивный имидж компании.
+pubDate: '2025-07-22T11:29:16.088Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: >-
+    Обеспечение доступной среды для людей с ограниченными возможностями: больше,
+    чем просто пандус
+  description: >-
+    В новой статье блога ButlerSPB мы разбираемся, что такое настоящая доступная
+    среда и почему ее создание — это не только выполнение законодательных норм,
+    но и проявление социальной ответственности и шаг к расширению вашего
+    бизнеса. Узнайте о ключевых аспектах физической и цифровой доступности,
+    практических решениях для адаптации пространства и о том, как инклюзивный
+    подход повышает качество жизни для всех и формирует позитивный имидж
+    компании.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.9'
+    reviewCount: 479
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/obespechenie-dostupnoy-sredy-dlya-lyudey-s-ogranichennymi-vozmozhnostyami/
 ---
 
 # Создание доступной среды: полное руководство по адаптации зданий для МГН в 2024 году

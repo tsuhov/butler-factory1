@@ -1,11 +1,40 @@
 ---
-title: "Специфика сервиса ButlerSPB: что важно знать"
-description: "В ButlerSPB мы верим, что исключительный сервис кроется в деталях. Наша специфика — это персональный подход, безупречное качество и внимание к вашим пожеланиям."
-keywords: "сервис ButlerSPB, специфика сервиса, качество обслуживания, персональный подход, клиентский сервис, премиум сервис"
-pubDate: "2025-07-25T14:54:52.252Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Специфика сервиса ButlerSPB: что важно знать","description":"В ButlerSPB мы верим, что исключительный сервис кроется в деталях. Наша специфика — это персональный подход, безупречное качество и внимание к вашим пожеланиям.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":444,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/specifika-servisa/"}}
+title: 'Специфика сервиса ButlerSPB: что важно знать'
+description: >-
+  В ButlerSPB мы верим, что исключительный сервис кроется в деталях. Наша
+  специфика — это персональный подход, безупречное качество и внимание к вашим
+  пожеланиям.
+pubDate: '2025-07-25T14:54:52.252Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Специфика сервиса ButlerSPB: что важно знать'
+  description: >-
+    В ButlerSPB мы верим, что исключительный сервис кроется в деталях. Наша
+    специфика — это персональный подход, безупречное качество и внимание к вашим
+    пожеланиям.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.8'
+    reviewCount: 510
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': 'https://butlerspb-blog.netlify.app/blog/specifika-servisa/'
 ---
 # Анатомия премиум-сервиса: Что скрывается за безупречным исполнением?
 

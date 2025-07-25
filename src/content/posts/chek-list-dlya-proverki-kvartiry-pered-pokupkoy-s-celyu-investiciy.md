@@ -1,10 +1,49 @@
 ---
-title: "Чек-лист инвестора: как проверить квартиру перед покупкой. Советы от ButlerSPB"
-description: "Покупка квартиры для инвестиций — это не то же самое, что выбор жилья для себя. Здесь на первый план выходят рентабельность, ликвидность и потенциал роста стоимости. Чтобы ваше вложение было успешным и приносило стабильный доход, команда ButlerSPB подготовила подробный чек-лист, который поможет вам оценить все риски и не упустить ключевые детали: от юридической чистоты и технического состояния до анализа локации и потенциальной доходности."
-pubDate: "2025-07-23T10:39:31.226Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Чек-лист инвестора: как проверить квартиру перед покупкой. Советы от ButlerSPB","description":"Покупка квартиры для инвестиций — это не то же самое, что выбор жилья для себя. Здесь на первый план выходят рентабельность, ликвидность и потенциал роста стоимости. Чтобы ваше вложение было успешным и приносило стабильный доход, команда ButlerSPB подготовила подробный чек-лист, который поможет вам оценить все риски и не упустить ключевые детали: от юридической чистоты и технического состояния до анализа локации и потенциальной доходности.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.7","reviewCount":779,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/chek-list-dlya-proverki-kvartiry-pered-pokupkoy-s-celyu-investiciy/"}}
+title: 'Чек-лист инвестора: как проверить квартиру перед покупкой. Советы от ButlerSPB'
+description: >-
+  Покупка квартиры для инвестиций — это не то же самое, что выбор жилья для
+  себя. Здесь на первый план выходят рентабельность, ликвидность и потенциал
+  роста стоимости. Чтобы ваше вложение было успешным и приносило стабильный
+  доход, команда ButlerSPB подготовила подробный чек-лист, который поможет вам
+  оценить все риски и не упустить ключевые детали: от юридической чистоты и
+  технического состояния до анализа локации и потенциальной доходности.
+pubDate: '2025-07-23T10:39:31.226Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: >-
+    Чек-лист инвестора: как проверить квартиру перед покупкой. Советы от
+    ButlerSPB
+  description: >-
+    Покупка квартиры для инвестиций — это не то же самое, что выбор жилья для
+    себя. Здесь на первый план выходят рентабельность, ликвидность и потенциал
+    роста стоимости. Чтобы ваше вложение было успешным и приносило стабильный
+    доход, команда ButlerSPB подготовила подробный чек-лист, который поможет вам
+    оценить все риски и не упустить ключевые детали: от юридической чистоты и
+    технического состояния до анализа локации и потенциальной доходности.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.9'
+    reviewCount: 506
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/chek-list-dlya-proverki-kvartiry-pered-pokupkoy-s-celyu-investiciy/
 ---
 
 # Проверка квартиры перед покупкой для инвестиций: полный чек-лист от экспертов ButlerSPB

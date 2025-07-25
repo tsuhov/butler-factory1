@@ -1,10 +1,51 @@
 ---
-title: "Что привезти из Петербурга, кроме магнитиков: гид по локальным брендам и небанальным сувенирам"
-description: "Устали от однотипных сувениров? Команда ButlerSPB подготовила для вас эксклюзивный гид по самым интересным локальным брендам и уникальным подаркам из Санкт-Петербурга. В статье мы расскажем, где найти дизайнерскую одежду с питерским характером, крафтовую косметику, авторскую керамику и гастрономические деликатесы, которые по-настоящему передают дух Северной столицы и будут долго напоминать о вашей поездке."
-pubDate: "2025-07-22T11:45:44.787Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Что привезти из Петербурга, кроме магнитиков: гид по локальным брендам и небанальным сувенирам","description":"Устали от однотипных сувениров? Команда ButlerSPB подготовила для вас эксклюзивный гид по самым интересным локальным брендам и уникальным подаркам из Санкт-Петербурга. В статье мы расскажем, где найти дизайнерскую одежду с питерским характером, крафтовую косметику, авторскую керамику и гастрономические деликатесы, которые по-настоящему передают дух Северной столицы и будут долго напоминать о вашей поездке.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.7","reviewCount":661,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/nebanalnye-suveniry-i-lokalnye-brendy/"}}
+title: >-
+  Что привезти из Петербурга, кроме магнитиков: гид по локальным брендам и
+  небанальным сувенирам
+description: >-
+  Устали от однотипных сувениров? Команда ButlerSPB подготовила для вас
+  эксклюзивный гид по самым интересным локальным брендам и уникальным подаркам
+  из Санкт-Петербурга. В статье мы расскажем, где найти дизайнерскую одежду с
+  питерским характером, крафтовую косметику, авторскую керамику и
+  гастрономические деликатесы, которые по-настоящему передают дух Северной
+  столицы и будут долго напоминать о вашей поездке.
+pubDate: '2025-07-22T11:45:44.787Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: >-
+    Что привезти из Петербурга, кроме магнитиков: гид по локальным брендам и
+    небанальным сувенирам
+  description: >-
+    Устали от однотипных сувениров? Команда ButlerSPB подготовила для вас
+    эксклюзивный гид по самым интересным локальным брендам и уникальным подаркам
+    из Санкт-Петербурга. В статье мы расскажем, где найти дизайнерскую одежду с
+    питерским характером, крафтовую косметику, авторскую керамику и
+    гастрономические деликатесы, которые по-настоящему передают дух Северной
+    столицы и будут долго напоминать о вашей поездке.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '5.0'
+    reviewCount: 304
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/nebanalnye-suveniry-i-lokalnye-brendy/
 ---
 
 # Что привезти из Петербурга: Большой гид по подаркам с душой города

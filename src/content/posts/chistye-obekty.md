@@ -1,11 +1,40 @@
 ---
-title: "Что такое чистые объекты и зачем они нужны?"
-description: "В блоге ButlerSPB разбираем концепцию чистых объектов. Узнайте, как неизменяемость данных помогает создавать надежный, предсказуемый и легко тестируемый код."
-keywords: "чистые объекты, неизменяемость, программирование, чистый код, разработка ПО, паттерны проектирования"
-pubDate: "2025-07-25T16:17:08.777Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Что такое чистые объекты и зачем они нужны?","description":"В блоге ButlerSPB разбираем концепцию чистых объектов. Узнайте, как неизменяемость данных помогает создавать надежный, предсказуемый и легко тестируемый код.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":426,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/chistye-obekty/"}}
+title: Что такое чистые объекты и зачем они нужны?
+description: >-
+  В блоге ButlerSPB разбираем концепцию чистых объектов. Узнайте, как
+  неизменяемость данных помогает создавать надежный, предсказуемый и легко
+  тестируемый код.
+pubDate: '2025-07-25T16:17:08.777Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: Что такое чистые объекты и зачем они нужны?
+  description: >-
+    В блоге ButlerSPB разбираем концепцию чистых объектов. Узнайте, как
+    неизменяемость данных помогает создавать надежный, предсказуемый и легко
+    тестируемый код.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.8'
+    reviewCount: 425
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': 'https://butlerspb-blog.netlify.app/blog/chistye-obekty/'
 ---
 # Чистые объекты: Пишем код, который не больно поддерживать
 

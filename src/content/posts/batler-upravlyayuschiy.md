@@ -1,11 +1,39 @@
 ---
-title: "Батлер-управляющий: кто это и в чем его роль?"
-description: "Батлер-управляющий — это ключевая фигура в управлении домом. Он координирует персонал, решает бытовые вопросы и обеспечивает безупречный сервис и комфорт."
-keywords: "батлер управляющий, управляющий домом, дворецкий, домашний персонал, управление хозяйством, ButlerSPB, элитный сервис"
-pubDate: "2025-07-24T13:12:48.647Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Батлер-управляющий: кто это и в чем его роль?","description":"Батлер-управляющий — это ключевая фигура в управлении домом. Он координирует персонал, решает бытовые вопросы и обеспечивает безупречный сервис и комфорт.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":329,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/batler-upravlyayuschiy/"}}
+title: 'Батлер-управляющий: кто это и в чем его роль?'
+description: >-
+  Батлер-управляющий — это ключевая фигура в управлении домом. Он координирует
+  персонал, решает бытовые вопросы и обеспечивает безупречный сервис и комфорт.
+pubDate: '2025-07-24T13:12:48.647Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Батлер-управляющий: кто это и в чем его роль?'
+  description: >-
+    Батлер-управляющий — это ключевая фигура в управлении домом. Он координирует
+    персонал, решает бытовые вопросы и обеспечивает безупречный сервис и
+    комфорт.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.8'
+    reviewCount: 441
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': 'https://butlerspb-blog.netlify.app/blog/batler-upravlyayuschiy/'
 ---
 # Батлер-управляющий: не просто дворецкий, а CEO вашего дома
 

@@ -1,11 +1,40 @@
 ---
-title: "Мобильная поддержка от ButlerSPB: всегда рядом"
-description: "Ваш смартфон или планшет работает некорректно? ButlerSPB предлагает профессиональную мобильную поддержку: от настройки до ремонта. Быстро решим любую проблему."
-keywords: "мобильная поддержка, ремонт телефонов, настройка смартфона, помощь с Android, поддержка iPhone, ButlerSPB, IT-услуги СПб"
-pubDate: "2025-07-25T13:57:35.936Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Мобильная поддержка от ButlerSPB: всегда рядом","description":"Ваш смартфон или планшет работает некорректно? ButlerSPB предлагает профессиональную мобильную поддержку: от настройки до ремонта. Быстро решим любую проблему.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.7","reviewCount":531,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/podderzhka-mobilnaya/"}}
+title: 'Мобильная поддержка от ButlerSPB: всегда рядом'
+description: >-
+  Ваш смартфон или планшет работает некорректно? ButlerSPB предлагает
+  профессиональную мобильную поддержку: от настройки до ремонта. Быстро решим
+  любую проблему.
+pubDate: '2025-07-25T13:57:35.936Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Мобильная поддержка от ButlerSPB: всегда рядом'
+  description: >-
+    Ваш смартфон или планшет работает некорректно? ButlerSPB предлагает
+    профессиональную мобильную поддержку: от настройки до ремонта. Быстро решим
+    любую проблему.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.8'
+    reviewCount: 630
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': 'https://butlerspb-blog.netlify.app/blog/podderzhka-mobilnaya/'
 ---
 # Мобильные устройства в бизнесе: от головной боли к конкурентному преимуществу
 

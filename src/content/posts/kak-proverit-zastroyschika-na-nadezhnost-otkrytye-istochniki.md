@@ -1,11 +1,41 @@
 ---
-title: "Как проверить застройщика: открытые источники"
-description: "Хотите купить квартиру в новостройке без рисков? ButlerSPB подготовил инструкцию, как проверить надежность застройщика с помощью открытых и бесплатных источников."
-keywords: "проверить застройщика, надежность застройщика, новостройка, покупка квартиры, ЕИСЖС, открытые источники, девелопер"
-pubDate: "2025-07-24T12:09:21.250Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Как проверить застройщика: открытые источники","description":"Хотите купить квартиру в новостройке без рисков? ButlerSPB подготовил инструкцию, как проверить надежность застройщика с помощью открытых и бесплатных источников.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.8","reviewCount":689,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/kak-proverit-zastroyschika-na-nadezhnost-otkrytye-istochniki/"}}
+title: 'Как проверить застройщика: открытые источники'
+description: >-
+  Хотите купить квартиру в новостройке без рисков? ButlerSPB подготовил
+  инструкцию, как проверить надежность застройщика с помощью открытых и
+  бесплатных источников.
+pubDate: '2025-07-24T12:09:21.250Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Как проверить застройщика: открытые источники'
+  description: >-
+    Хотите купить квартиру в новостройке без рисков? ButlerSPB подготовил
+    инструкцию, как проверить надежность застройщика с помощью открытых и
+    бесплатных источников.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '5.0'
+    reviewCount: 635
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/kak-proverit-zastroyschika-na-nadezhnost-otkrytye-istochniki/
 ---
 # Как проверить застройщика на надежность: пошаговая инструкция по открытым источникам
 

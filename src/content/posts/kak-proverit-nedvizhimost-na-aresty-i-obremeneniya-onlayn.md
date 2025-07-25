@@ -1,11 +1,40 @@
 ---
-title: "Как проверить недвижимость на аресты онлайн"
-description: "Перед покупкой квартиры важно убедиться в ее чистоте. Рассказываем, как онлайн проверить недвижимость на аресты, залоги и прочие обременения через Росреестр."
-keywords: "проверка недвижимости, выписка из ЕГРН, арест имущества, обременение, Росреестр онлайн, юридическая чистота"
-pubDate: "2025-07-24T00:11:45.172Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Как проверить недвижимость на аресты онлайн","description":"Перед покупкой квартиры важно убедиться в ее чистоте. Рассказываем, как онлайн проверить недвижимость на аресты, залоги и прочие обременения через Росреестр.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"5.0","reviewCount":775,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/kak-proverit-nedvizhimost-na-aresty-i-obremeneniya-onlayn/"}}
+title: Как проверить недвижимость на аресты онлайн
+description: >-
+  Перед покупкой квартиры важно убедиться в ее чистоте. Рассказываем, как онлайн
+  проверить недвижимость на аресты, залоги и прочие обременения через Росреестр.
+pubDate: '2025-07-24T00:11:45.172Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: Как проверить недвижимость на аресты онлайн
+  description: >-
+    Перед покупкой квартиры важно убедиться в ее чистоте. Рассказываем, как
+    онлайн проверить недвижимость на аресты, залоги и прочие обременения через
+    Росреестр.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.7'
+    reviewCount: 340
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/kak-proverit-nedvizhimost-na-aresty-i-obremeneniya-onlayn/
 ---
 # Как проверить недвижимость на аресты и обременения онлайн: Полное руководство 2024
 

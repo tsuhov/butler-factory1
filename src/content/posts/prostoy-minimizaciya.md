@@ -1,11 +1,40 @@
 ---
-title: "Простая минимизация: как начать жить проще"
-description: "Узнайте, как простая минимизация может преобразить ваш дом и жизнь. Наша статья от ButlerSPB предлагает легкие шаги для избавления от лишнего и создания гармонии."
-keywords: "минимизация, расхламление, порядок в доме, организация пространства, ButlerSPB, простой образ жизни"
-pubDate: "2025-07-25T15:47:52.637Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Простая минимизация: как начать жить проще","description":"Узнайте, как простая минимизация может преобразить ваш дом и жизнь. Наша статья от ButlerSPB предлагает легкие шаги для избавления от лишнего и создания гармонии.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"5.0","reviewCount":841,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/prostoy-minimizaciya/"}}
+title: 'Простая минимизация: как начать жить проще'
+description: >-
+  Узнайте, как простая минимизация может преобразить ваш дом и жизнь. Наша
+  статья от ButlerSPB предлагает легкие шаги для избавления от лишнего и
+  создания гармонии.
+pubDate: '2025-07-25T15:47:52.637Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Простая минимизация: как начать жить проще'
+  description: >-
+    Узнайте, как простая минимизация может преобразить ваш дом и жизнь. Наша
+    статья от ButlerSPB предлагает легкие шаги для избавления от лишнего и
+    создания гармонии.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.8'
+    reviewCount: 710
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': 'https://butlerspb-blog.netlify.app/blog/prostoy-minimizaciya/'
 ---
 # Простой минимализм: Ваш реальный гид по созданию порядка в доме и мыслях
 

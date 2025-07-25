@@ -1,11 +1,40 @@
 ---
-title: "Мгновенная помощь: быстрые решения от ButlerSPB"
-description: "Когда нужна срочная помощь, ButlerSPB всегда рядом. Мы предлагаем быстрые и эффективные решения для любых бытовых и организационных задач в Санкт-Петербурге."
-keywords: "мгновенная помощь, ButlerSPB, срочные услуги, помощь в СПб, консьерж-сервис, быстрые решения, личный ассистент"
-pubDate: "2025-07-24T13:40:12.719Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Мгновенная помощь: быстрые решения от ButlerSPB","description":"Когда нужна срочная помощь, ButlerSPB всегда рядом. Мы предлагаем быстрые и эффективные решения для любых бытовых и организационных задач в Санкт-Петербурге.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.8","reviewCount":889,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/mgnovennaya-pomosch/"}}
+title: 'Мгновенная помощь: быстрые решения от ButlerSPB'
+description: >-
+  Когда нужна срочная помощь, ButlerSPB всегда рядом. Мы предлагаем быстрые и
+  эффективные решения для любых бытовых и организационных задач в
+  Санкт-Петербурге.
+pubDate: '2025-07-24T13:40:12.719Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Мгновенная помощь: быстрые решения от ButlerSPB'
+  description: >-
+    Когда нужна срочная помощь, ButlerSPB всегда рядом. Мы предлагаем быстрые и
+    эффективные решения для любых бытовых и организационных задач в
+    Санкт-Петербурге.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.8'
+    reviewCount: 790
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': 'https://butlerspb-blog.netlify.app/blog/mgnovennaya-pomosch/'
 ---
 # Мгновенная помощь в Санкт-Петербурге: Как ButlerSPB решает ваши срочные задачи 24/7
 

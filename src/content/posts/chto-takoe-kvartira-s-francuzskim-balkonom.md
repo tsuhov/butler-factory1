@@ -1,11 +1,41 @@
 ---
-title: "Что такое квартира с французским балконом?"
-description: "Французский балкон – это не балкон в привычном понимании, а скорее панорамное окно с ограждением. Разбираемся в плюсах и минусах такого решения для квартиры."
-keywords: "французский балкон, панорамные окна, планировка квартиры, недвижимость спб, дизайн интерьера, ButlerSPB"
-pubDate: "2025-07-24T12:12:11.949Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Что такое квартира с французским балконом?","description":"Французский балкон – это не балкон в привычном понимании, а скорее панорамное окно с ограждением. Разбираемся в плюсах и минусах такого решения для квартиры.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.8","reviewCount":391,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/chto-takoe-kvartira-s-francuzskim-balkonom/"}}
+title: Что такое квартира с французским балконом?
+description: >-
+  Французский балкон – это не балкон в привычном понимании, а скорее панорамное
+  окно с ограждением. Разбираемся в плюсах и минусах такого решения для
+  квартиры.
+pubDate: '2025-07-24T12:12:11.949Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: Что такое квартира с французским балконом?
+  description: >-
+    Французский балкон – это не балкон в привычном понимании, а скорее
+    панорамное окно с ограждением. Разбираемся в плюсах и минусах такого решения
+    для квартиры.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.8'
+    reviewCount: 488
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/chto-takoe-kvartira-s-francuzskim-balkonom/
 ---
 # Что такое французский балкон: полный гид для покупателя недвижимости в Санкт-Петербурге
 

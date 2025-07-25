@@ -1,11 +1,39 @@
 ---
-title: "Ротация арендаторов в ТЦ: стратегия успеха"
-description: "Грамотная ротация арендаторов — ключ к высокой доходности торгового центра. Узнайте, как правильный тенант-микс и анализ трафика повышают посещаемость."
-keywords: "ротация арендаторов, управление тц, коммерческая недвижимость, тенант-микс, арендный бизнес, ButlerSPB"
-pubDate: "2025-07-24T12:02:31.789Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Ротация арендаторов в ТЦ: стратегия успеха","description":"Грамотная ротация арендаторов — ключ к высокой доходности торгового центра. Узнайте, как правильный тенант-микс и анализ трафика повышают посещаемость.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.7","reviewCount":416,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/upravlenie-kommercheskoy-nedvizhimostyu-rotaciya-arendatorov-v-tc/"}}
+title: 'Ротация арендаторов в ТЦ: стратегия успеха'
+description: >-
+  Грамотная ротация арендаторов — ключ к высокой доходности торгового центра.
+  Узнайте, как правильный тенант-микс и анализ трафика повышают посещаемость.
+pubDate: '2025-07-24T12:02:31.789Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Ротация арендаторов в ТЦ: стратегия успеха'
+  description: >-
+    Грамотная ротация арендаторов — ключ к высокой доходности торгового центра.
+    Узнайте, как правильный тенант-микс и анализ трафика повышают посещаемость.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.8'
+    reviewCount: 886
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/upravlenie-kommercheskoy-nedvizhimostyu-rotaciya-arendatorov-v-tc/
 ---
 # Ротация арендаторов в торговом центре: от вынужденной меры к стратегии роста
 

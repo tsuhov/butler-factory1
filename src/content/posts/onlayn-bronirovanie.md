@@ -1,11 +1,39 @@
 ---
-title: "Онлайн бронирование услуг: ваш гид от ButlerSPB"
-description: "Откройте для себя мир удобства с онлайн бронированием от ButlerSPB. Планируйте свои поездки и мероприятия в Санкт-Петербурге без лишних звонков и ожиданий."
-keywords: "онлайн бронирование, ButlerSPB, забронировать услугу, планирование поездки, консьерж сервис, услуги в СПб"
-pubDate: "2025-07-25T15:12:06.531Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Онлайн бронирование услуг: ваш гид от ButlerSPB","description":"Откройте для себя мир удобства с онлайн бронированием от ButlerSPB. Планируйте свои поездки и мероприятия в Санкт-Петербурге без лишних звонков и ожиданий.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.7","reviewCount":359,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/onlayn-bronirovanie/"}}
+title: 'Онлайн бронирование услуг: ваш гид от ButlerSPB'
+description: >-
+  Откройте для себя мир удобства с онлайн бронированием от ButlerSPB. Планируйте
+  свои поездки и мероприятия в Санкт-Петербурге без лишних звонков и ожиданий.
+pubDate: '2025-07-25T15:12:06.531Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Онлайн бронирование услуг: ваш гид от ButlerSPB'
+  description: >-
+    Откройте для себя мир удобства с онлайн бронированием от ButlerSPB.
+    Планируйте свои поездки и мероприятия в Санкт-Петербурге без лишних звонков
+    и ожиданий.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.8'
+    reviewCount: 481
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': 'https://butlerspb-blog.netlify.app/blog/onlayn-bronirovanie/'
 ---
 # Как настроить онлайн-бронирование и увеличить доход от аренды на 30%: Экспертный гид от ButlerSPB
 

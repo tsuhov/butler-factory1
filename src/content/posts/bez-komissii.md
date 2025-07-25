@@ -1,11 +1,40 @@
 ---
-title: "ButlerSPB: Аренда жилья в СПб без комиссии"
-description: "Аренда без комиссии в СПб — это реально! ButlerSPB раскрывает, как найти идеальную квартиру без посредников и лишних затрат. Экономьте свои деньги с нами!"
-keywords: "аренда без комиссии, снять квартиру спб, аренда от собственника, жилье без посредников, ButlerSPB, недвижимость санкт-петербург, экономия на аренде"
-pubDate: "2025-07-25T15:18:49.067Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"ButlerSPB: Аренда жилья в СПб без комиссии","description":"Аренда без комиссии в СПб — это реально! ButlerSPB раскрывает, как найти идеальную квартиру без посредников и лишних затрат. Экономьте свои деньги с нами!","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.7","reviewCount":302,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/bez-komissii/"}}
+title: 'ButlerSPB: Аренда жилья в СПб без комиссии'
+description: >-
+  Аренда без комиссии в СПб — это реально! ButlerSPB раскрывает, как найти
+  идеальную квартиру без посредников и лишних затрат. Экономьте свои деньги с
+  нами!
+pubDate: '2025-07-25T15:18:49.067Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'ButlerSPB: Аренда жилья в СПб без комиссии'
+  description: >-
+    Аренда без комиссии в СПб — это реально! ButlerSPB раскрывает, как найти
+    идеальную квартиру без посредников и лишних затрат. Экономьте свои деньги с
+    нами!
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.7'
+    reviewCount: 507
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': 'https://butlerspb-blog.netlify.app/blog/bez-komissii/'
 ---
 # Покупка квартиры в новостройке без комиссии: Миф или выгодная реальность для покупателя в Петербурге?
 

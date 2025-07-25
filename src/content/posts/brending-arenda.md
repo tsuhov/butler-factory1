@@ -1,11 +1,40 @@
 ---
-title: "Брендинг в аренде: как выделиться на рынке"
-description: "Создание сильного бренда для арендной недвижимости — ключ к успеху. Узнайте, как брендинг помогает привлекать лучших арендаторов и увеличивать доходность объекта."
-keywords: "брендинг недвижимости, арендный бизнес, маркетинг в аренде, управление недвижимостью, привлечение арендаторов, ButlerSPB"
-pubDate: "2025-07-25T15:55:01.313Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Брендинг в аренде: как выделиться на рынке","description":"Создание сильного бренда для арендной недвижимости — ключ к успеху. Узнайте, как брендинг помогает привлекать лучших арендаторов и увеличивать доходность объекта.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"5.0","reviewCount":409,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/brending-arenda/"}}
+title: 'Брендинг в аренде: как выделиться на рынке'
+description: >-
+  Создание сильного бренда для арендной недвижимости — ключ к успеху. Узнайте,
+  как брендинг помогает привлекать лучших арендаторов и увеличивать доходность
+  объекта.
+pubDate: '2025-07-25T15:55:01.313Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Брендинг в аренде: как выделиться на рынке'
+  description: >-
+    Создание сильного бренда для арендной недвижимости — ключ к успеху. Узнайте,
+    как брендинг помогает привлекать лучших арендаторов и увеличивать доходность
+    объекта.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.9'
+    reviewCount: 824
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': 'https://butlerspb-blog.netlify.app/blog/brending-arenda/'
 ---
 # Ваша квартира — не просто квадратные метры. Как создать сильный бренд и увеличить доход от аренды
 

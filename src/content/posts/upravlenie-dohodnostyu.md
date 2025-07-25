@@ -1,11 +1,39 @@
 ---
-title: "Эффективное управление доходностью от ButlerSPB"
-description: "Узнайте, как управление доходностью помогает отелям и апартаментам увеличивать выручку. ButlerSPB делится секретами ценообразования и прогнозирования спроса."
-keywords: "управление доходностью, revenue management, ButlerSPB, динамическое ценообразование, максимизация прибыли, гостиничный бизнес"
-pubDate: "2025-07-25T16:24:34.575Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Эффективное управление доходностью от ButlerSPB","description":"Узнайте, как управление доходностью помогает отелям и апартаментам увеличивать выручку. ButlerSPB делится секретами ценообразования и прогнозирования спроса.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"5.0","reviewCount":671,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/upravlenie-dohodnostyu/"}}
+title: Эффективное управление доходностью от ButlerSPB
+description: >-
+  Узнайте, как управление доходностью помогает отелям и апартаментам увеличивать
+  выручку. ButlerSPB делится секретами ценообразования и прогнозирования спроса.
+pubDate: '2025-07-25T16:24:34.575Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: Эффективное управление доходностью от ButlerSPB
+  description: >-
+    Узнайте, как управление доходностью помогает отелям и апартаментам
+    увеличивать выручку. ButlerSPB делится секретами ценообразования и
+    прогнозирования спроса.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.8'
+    reviewCount: 398
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': 'https://butlerspb-blog.netlify.app/blog/upravlenie-dohodnostyu/'
 ---
 # Управление доходностью в краткосрочной аренде: Полное руководство для инвестора от ButlerSPB
 

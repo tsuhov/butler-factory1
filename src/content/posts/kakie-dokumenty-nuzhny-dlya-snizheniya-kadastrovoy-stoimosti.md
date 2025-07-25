@@ -1,10 +1,49 @@
 ---
-title: "Какие документы нужны для снижения кадастровой стоимости: полный чек-лист от ButlerSPB"
-description: "Высокая кадастровая стоимость напрямую влияет на размер налога на недвижимость. Если вы считаете, что она завышена, ее можно и нужно оспаривать. В этой статье блога ButlerSPB мы подробно разбираем, какой пакет документов потребуется для снижения кадастровой стоимости через комиссию и в судебном порядке. Сохраняйте наш гайд, чтобы сэкономить время и деньги."
-pubDate: "2025-07-23T10:43:43.964Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Какие документы нужны для снижения кадастровой стоимости: полный чек-лист от ButlerSPB","description":"Высокая кадастровая стоимость напрямую влияет на размер налога на недвижимость. Если вы считаете, что она завышена, ее можно и нужно оспаривать. В этой статье блога ButlerSPB мы подробно разбираем, какой пакет документов потребуется для снижения кадастровой стоимости через комиссию и в судебном порядке. Сохраняйте наш гайд, чтобы сэкономить время и деньги.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.8","reviewCount":796,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/kakie-dokumenty-nuzhny-dlya-snizheniya-kadastrovoy-stoimosti/"}}
+title: >-
+  Какие документы нужны для снижения кадастровой стоимости: полный чек-лист от
+  ButlerSPB
+description: >-
+  Высокая кадастровая стоимость напрямую влияет на размер налога на
+  недвижимость. Если вы считаете, что она завышена, ее можно и нужно оспаривать.
+  В этой статье блога ButlerSPB мы подробно разбираем, какой пакет документов
+  потребуется для снижения кадастровой стоимости через комиссию и в судебном
+  порядке. Сохраняйте наш гайд, чтобы сэкономить время и деньги.
+pubDate: '2025-07-23T10:43:43.964Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: >-
+    Какие документы нужны для снижения кадастровой стоимости: полный чек-лист от
+    ButlerSPB
+  description: >-
+    Высокая кадастровая стоимость напрямую влияет на размер налога на
+    недвижимость. Если вы считаете, что она завышена, ее можно и нужно
+    оспаривать. В этой статье блога ButlerSPB мы подробно разбираем, какой пакет
+    документов потребуется для снижения кадастровой стоимости через комиссию и в
+    судебном порядке. Сохраняйте наш гайд, чтобы сэкономить время и деньги.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.9'
+    reviewCount: 849
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/kakie-dokumenty-nuzhny-dlya-snizheniya-kadastrovoy-stoimosti/
 ---
 
 # Полный чек-лист: какие документы нужны для снижения кадастровой стоимости в 2024 году

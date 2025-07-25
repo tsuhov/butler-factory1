@@ -1,10 +1,45 @@
 ---
-title: "Как выбрать апарт-отель для инвестиций: ключевая роль управляющей компании"
-description: "Планируете инвестировать в апарт-отель? Успех ваших вложений зависит не только от локации и качества апартаментов, но и от профессионализма управляющей компании. В новой статье блога ButlerSPB разбираемся, на какие критерии выбора УК обратить внимание, какие вопросы задать перед подписанием договора и как грамотное управление напрямую влияет на вашу доходность."
-pubDate: "2025-07-23T10:41:49.483Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Как выбрать апарт-отель для инвестиций: ключевая роль управляющей компании","description":"Планируете инвестировать в апарт-отель? Успех ваших вложений зависит не только от локации и качества апартаментов, но и от профессионализма управляющей компании. В новой статье блога ButlerSPB разбираемся, на какие критерии выбора УК обратить внимание, какие вопросы задать перед подписанием договора и как грамотное управление напрямую влияет на вашу доходность.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":787,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/kak-vybrat-apart-otel-dlya-investiciy-rol-upravlyayuschey-kompanii/"}}
+title: 'Как выбрать апарт-отель для инвестиций: ключевая роль управляющей компании'
+description: >-
+  Планируете инвестировать в апарт-отель? Успех ваших вложений зависит не только
+  от локации и качества апартаментов, но и от профессионализма управляющей
+  компании. В новой статье блога ButlerSPB разбираемся, на какие критерии выбора
+  УК обратить внимание, какие вопросы задать перед подписанием договора и как
+  грамотное управление напрямую влияет на вашу доходность.
+pubDate: '2025-07-23T10:41:49.483Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Как выбрать апарт-отель для инвестиций: ключевая роль управляющей компании'
+  description: >-
+    Планируете инвестировать в апарт-отель? Успех ваших вложений зависит не
+    только от локации и качества апартаментов, но и от профессионализма
+    управляющей компании. В новой статье блога ButlerSPB разбираемся, на какие
+    критерии выбора УК обратить внимание, какие вопросы задать перед подписанием
+    договора и как грамотное управление напрямую влияет на вашу доходность.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.8'
+    reviewCount: 426
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/kak-vybrat-apart-otel-dlya-investiciy-rol-upravlyayuschey-kompanii/
 ---
 
 # Как выбрать апарт-отель для инвестиций: почему управляющая компания важнее квадратных метров

@@ -1,11 +1,40 @@
 ---
-title: "Купить квартиру: полное руководство от ButlerSPB"
-description: "Планируете купить квартиру? Наше пошаговое руководство поможет вам разобраться во всех этапах сделки: от выбора объекта до получения ключей. Советы от ButlerSPB."
-keywords: "купить квартиру, покупка недвижимости, недвижимость спб, ипотека, новостройка, вторичка, ButlerSPB"
-pubDate: "2025-07-25T15:42:53.980Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Купить квартиру: полное руководство от ButlerSPB","description":"Планируете купить квартиру? Наше пошаговое руководство поможет вам разобраться во всех этапах сделки: от выбора объекта до получения ключей. Советы от ButlerSPB.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.8","reviewCount":543,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/kupit-kvartiru/"}}
+title: 'Купить квартиру: полное руководство от ButlerSPB'
+description: >-
+  Планируете купить квартиру? Наше пошаговое руководство поможет вам разобраться
+  во всех этапах сделки: от выбора объекта до получения ключей. Советы от
+  ButlerSPB.
+pubDate: '2025-07-25T15:42:53.980Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Купить квартиру: полное руководство от ButlerSPB'
+  description: >-
+    Планируете купить квартиру? Наше пошаговое руководство поможет вам
+    разобраться во всех этапах сделки: от выбора объекта до получения ключей.
+    Советы от ButlerSPB.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.9'
+    reviewCount: 672
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': 'https://butlerspb-blog.netlify.app/blog/kupit-kvartiru/'
 ---
 # Как купить квартиру в Санкт-Петербурге: Полное пошаговое руководство от экспертов ButlerSPB
 

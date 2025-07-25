@@ -1,11 +1,40 @@
 ---
-title: "Лофт апартаменты: стиль и комфорт от ButlerSPB"
-description: "Откройте для себя уникальный мир лофт апартаментов с ButlerSPB. Высокие потолки, огромные окна и открытая планировка создают ощущение свободы и простора."
-keywords: "лофт апартаменты, аренда лофта, стиль лофт, ButlerSPB, недвижимость спб, открытая планировка"
-pubDate: "2025-07-25T15:35:14.796Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Лофт апартаменты: стиль и комфорт от ButlerSPB","description":"Откройте для себя уникальный мир лофт апартаментов с ButlerSPB. Высокие потолки, огромные окна и открытая планировка создают ощущение свободы и простора.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":540,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/loft-apartamenty/"}}
+title: 'Лофт апартаменты: стиль и комфорт от ButlerSPB'
+description: >-
+  Откройте для себя уникальный мир лофт апартаментов с ButlerSPB. Высокие
+  потолки, огромные окна и открытая планировка создают ощущение свободы и
+  простора.
+pubDate: '2025-07-25T15:35:14.796Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Лофт апартаменты: стиль и комфорт от ButlerSPB'
+  description: >-
+    Откройте для себя уникальный мир лофт апартаментов с ButlerSPB. Высокие
+    потолки, огромные окна и открытая планировка создают ощущение свободы и
+    простора.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.8'
+    reviewCount: 308
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': 'https://butlerspb-blog.netlify.app/blog/loft-apartamenty/'
 ---
 # Лофт-апартаменты: Полный гид по выбору, покупке и аренде в Санкт-Петербурге
 

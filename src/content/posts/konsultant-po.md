@@ -1,11 +1,40 @@
 ---
-title: "Кто такой консультант и чем он вам поможет?"
-description: "В статье разбираем, кто такие консультанты, какие задачи они решают и как выбрать специалиста для бизнеса или личных целей. ButlerSPB поможет найти эксперта."
-keywords: "консультант, консалтинг, бизнес-консультант, услуги консультанта, найти эксперта, ButlerSPB, консалтинг в спб"
-pubDate: "2025-07-25T16:17:23.291Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Кто такой консультант и чем он вам поможет?","description":"В статье разбираем, кто такие консультанты, какие задачи они решают и как выбрать специалиста для бизнеса или личных целей. ButlerSPB поможет найти эксперта.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"5.0","reviewCount":809,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/konsultant-po/"}}
+title: Кто такой консультант и чем он вам поможет?
+description: >-
+  В статье разбираем, кто такие консультанты, какие задачи они решают и как
+  выбрать специалиста для бизнеса или личных целей. ButlerSPB поможет найти
+  эксперта.
+pubDate: '2025-07-25T16:17:23.291Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: Кто такой консультант и чем он вам поможет?
+  description: >-
+    В статье разбираем, кто такие консультанты, какие задачи они решают и как
+    выбрать специалиста для бизнеса или личных целей. ButlerSPB поможет найти
+    эксперта.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.7'
+    reviewCount: 703
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': 'https://butlerspb-blog.netlify.app/blog/konsultant-po/'
 ---
 # Ваш персональный консультант по арт-инвестициям: Экспертиза, которая экономит время и деньги
 

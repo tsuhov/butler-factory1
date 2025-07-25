@@ -1,11 +1,40 @@
 ---
-title: "Спрос на недвижимость в Ленобласти: тренды"
-description: "Анализируем текущий спрос на недвижимость в Ленинградской области. Какие районы и форматы жилья наиболее популярны у покупателей? Разбираем ключевые факторы роста."
-keywords: "спрос ленобласть, недвижимость ленобласть, купить дом в ленобласти, загородная недвижимость, участки в ленобласти, анализ спроса, ButlerSPB"
-pubDate: "2025-07-25T14:30:35.015Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Спрос на недвижимость в Ленобласти: тренды","description":"Анализируем текущий спрос на недвижимость в Ленинградской области. Какие районы и форматы жилья наиболее популярны у покупателей? Разбираем ключевые факторы роста.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.7","reviewCount":784,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/spros-lenoblast/"}}
+title: 'Спрос на недвижимость в Ленобласти: тренды'
+description: >-
+  Анализируем текущий спрос на недвижимость в Ленинградской области. Какие
+  районы и форматы жилья наиболее популярны у покупателей? Разбираем ключевые
+  факторы роста.
+pubDate: '2025-07-25T14:30:35.015Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Спрос на недвижимость в Ленобласти: тренды'
+  description: >-
+    Анализируем текущий спрос на недвижимость в Ленинградской области. Какие
+    районы и форматы жилья наиболее популярны у покупателей? Разбираем ключевые
+    факторы роста.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.9'
+    reviewCount: 573
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': 'https://butlerspb-blog.netlify.app/blog/spros-lenoblast/'
 ---
 # Спрос на недвижимость в Ленобласти в 2024: полный анализ, тренды и прогнозы от экспертов ButlerSPB
 

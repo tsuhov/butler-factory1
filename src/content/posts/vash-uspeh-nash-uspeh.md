@@ -1,10 +1,44 @@
 ---
-title: "Ваш успех — наш успех: философия партнерства в ButlerSPB"
-description: "В ButlerSPB мы твердо убеждены, что наш успех напрямую зависит от достижений наших клиентов. Мы не просто оказываем услуги, а становимся надежным партнером на пути к вашим целям. В этой статье мы раскрываем, как принцип «Ваш успех — наш успех» формирует наш подход к работе, качеству сервиса и построению долгосрочных отношений."
-pubDate: "2025-07-22T10:13:04.246Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Ваш успех — наш успех: философия партнерства в ButlerSPB","description":"В ButlerSPB мы твердо убеждены, что наш успех напрямую зависит от достижений наших клиентов. Мы не просто оказываем услуги, а становимся надежным партнером на пути к вашим целям. В этой статье мы раскрываем, как принцип «Ваш успех — наш успех» формирует наш подход к работе, качеству сервиса и построению долгосрочных отношений.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.8","reviewCount":385,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/vash-uspeh-nash-uspeh/"}}
+title: 'Ваш успех — наш успех: философия партнерства в ButlerSPB'
+description: >-
+  В ButlerSPB мы твердо убеждены, что наш успех напрямую зависит от достижений
+  наших клиентов. Мы не просто оказываем услуги, а становимся надежным партнером
+  на пути к вашим целям. В этой статье мы раскрываем, как принцип «Ваш успех —
+  наш успех» формирует наш подход к работе, качеству сервиса и построению
+  долгосрочных отношений.
+pubDate: '2025-07-22T10:13:04.246Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Ваш успех — наш успех: философия партнерства в ButlerSPB'
+  description: >-
+    В ButlerSPB мы твердо убеждены, что наш успех напрямую зависит от достижений
+    наших клиентов. Мы не просто оказываем услуги, а становимся надежным
+    партнером на пути к вашим целям. В этой статье мы раскрываем, как принцип
+    «Ваш успех — наш успех» формирует наш подход к работе, качеству сервиса и
+    построению долгосрочных отношений.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.9'
+    reviewCount: 651
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': 'https://butlerspb-blog.netlify.app/blog/vash-uspeh-nash-uspeh/'
 ---
 
 # Ваш успех — наш успех. Как философия ButlerSPB меняет представление о клининге в Санкт-Петербурге

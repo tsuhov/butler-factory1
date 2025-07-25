@@ -1,10 +1,47 @@
 ---
-title: "Налоги при доверительном управлении недвижимостью: полное руководство для собственника"
-description: "Передали квартиру в доверительное управление и не знаете, как быть с налогами? ButlerSPB объясняет, кто несет ответственность, какие налоговые ставки (НДФЛ, ИП, самозанятость) выбрать и как правильно отчитаться перед ФНС, чтобы избежать штрафов."
-pubDate: "2025-07-22T09:26:51.882Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Налоги при доверительном управлении недвижимостью: полное руководство для собственника","description":"Передали квартиру в доверительное управление и не знаете, как быть с налогами? ButlerSPB объясняет, кто несет ответственность, какие налоговые ставки (НДФЛ, ИП, самозанятость) выбрать и как правильно отчитаться перед ФНС, чтобы избежать штрафов.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.8","reviewCount":386,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/doveritelnoe-upravlenie-nedvizhimostyu-nalogi/"}}
+title: >-
+  Налоги при доверительном управлении недвижимостью: полное руководство для
+  собственника
+description: >-
+  Передали квартиру в доверительное управление и не знаете, как быть с налогами?
+  ButlerSPB объясняет, кто несет ответственность, какие налоговые ставки (НДФЛ,
+  ИП, самозанятость) выбрать и как правильно отчитаться перед ФНС, чтобы
+  избежать штрафов.
+pubDate: '2025-07-22T09:26:51.882Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: >-
+    Налоги при доверительном управлении недвижимостью: полное руководство для
+    собственника
+  description: >-
+    Передали квартиру в доверительное управление и не знаете, как быть с
+    налогами? ButlerSPB объясняет, кто несет ответственность, какие налоговые
+    ставки (НДФЛ, ИП, самозанятость) выбрать и как правильно отчитаться перед
+    ФНС, чтобы избежать штрафов.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.8'
+    reviewCount: 523
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/doveritelnoe-upravlenie-nedvizhimostyu-nalogi/
 ---
 
 # Налоги при доверительном управлении недвижимостью: Полное руководство для собственника от ButlerSPB

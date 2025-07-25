@@ -1,10 +1,43 @@
 ---
-title: "Шумные соседи и жалобы: как найти компромисс и защитить свои права"
-description: "Что делать, если соседи мешают спать, или наоборот — жалуются на вас? В новой статье блога ButlerSPB разбираем самые частые конфликтные ситуации, рассказываем о законе о тишине, даем пошаговые инструкции для мирного решения проблемы и объясняем, когда стоит обращаться в полицию или суд."
-pubDate: "2025-07-22T11:39:51.762Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Шумные соседи и жалобы: как найти компромисс и защитить свои права","description":"Что делать, если соседи мешают спать, или наоборот — жалуются на вас? В новой статье блога ButlerSPB разбираем самые частые конфликтные ситуации, рассказываем о законе о тишине, даем пошаговые инструкции для мирного решения проблемы и объясняем, когда стоит обращаться в полицию или суд.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":438,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/chto-delat-esli-sosedi-shumyat-ili-zhaluyutsya-na-vas/"}}
+title: 'Шумные соседи и жалобы: как найти компромисс и защитить свои права'
+description: >-
+  Что делать, если соседи мешают спать, или наоборот — жалуются на вас? В новой
+  статье блога ButlerSPB разбираем самые частые конфликтные ситуации,
+  рассказываем о законе о тишине, даем пошаговые инструкции для мирного решения
+  проблемы и объясняем, когда стоит обращаться в полицию или суд.
+pubDate: '2025-07-22T11:39:51.762Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Шумные соседи и жалобы: как найти компромисс и защитить свои права'
+  description: >-
+    Что делать, если соседи мешают спать, или наоборот — жалуются на вас? В
+    новой статье блога ButlerSPB разбираем самые частые конфликтные ситуации,
+    рассказываем о законе о тишине, даем пошаговые инструкции для мирного
+    решения проблемы и объясняем, когда стоит обращаться в полицию или суд.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.9'
+    reviewCount: 317
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/chto-delat-esli-sosedi-shumyat-ili-zhaluyutsya-na-vas/
 ---
 
 # Шумные соседи: как найти управу и не стать нарушителем самому. Полный гид от ButlerSPB

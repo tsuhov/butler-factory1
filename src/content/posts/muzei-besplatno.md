@@ -1,11 +1,39 @@
 ---
-title: "Как посетить музеи Санкт-Петербурга бесплатно"
-description: "Откройте для себя сокровища Петербурга без затрат! Наш гид расскажет, в какие дни можно бесплатно посетить Эрмитаж, Русский музей и другие главные музеи."
-keywords: "музеи бесплатно, бесплатные музеи спб, куда сходить в петербурге, культурный отдых, бесплатный вход в музей, эрмитаж бесплатно"
-pubDate: "2025-07-25T15:56:54.833Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Как посетить музеи Санкт-Петербурга бесплатно","description":"Откройте для себя сокровища Петербурга без затрат! Наш гид расскажет, в какие дни можно бесплатно посетить Эрмитаж, Русский музей и другие главные музеи.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.8","reviewCount":762,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/muzei-besplatno/"}}
+title: Как посетить музеи Санкт-Петербурга бесплатно
+description: >-
+  Откройте для себя сокровища Петербурга без затрат! Наш гид расскажет, в какие
+  дни можно бесплатно посетить Эрмитаж, Русский музей и другие главные музеи.
+pubDate: '2025-07-25T15:56:54.833Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: Как посетить музеи Санкт-Петербурга бесплатно
+  description: >-
+    Откройте для себя сокровища Петербурга без затрат! Наш гид расскажет, в
+    какие дни можно бесплатно посетить Эрмитаж, Русский музей и другие главные
+    музеи.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.8'
+    reviewCount: 314
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': 'https://butlerspb-blog.netlify.app/blog/muzei-besplatno/'
 ---
 # Как ходить в лучшие музеи Петербурга бесплатно: Полный гид 2024 от инсайдеров ButlerSPB
 

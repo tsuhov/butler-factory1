@@ -1,10 +1,53 @@
 ---
-title: "Как найти временную работу или подработку в Санкт-Петербурге: полное руководство от ButlerSPB"
-description: "Ищете дополнительный доход в Санкт-Петербурге? Наша команда ButlerSPB подготовила подробный гайд, в котором мы собрали все актуальные способы поиска временной работы и подработки в культурной столице. В статье вы найдете обзор лучших онлайн-платформ, полезных Telegram-каналов, а также советы по поиску вакансий в сферах гостеприимства, ритейла и event-индустрии. Узнайте, как быстро найти подходящий вариант, который легко совмещать с учебой или основной деятельностью."
-pubDate: "2025-07-22T11:42:33.779Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Как найти временную работу или подработку в Санкт-Петербурге: полное руководство от ButlerSPB","description":"Ищете дополнительный доход в Санкт-Петербурге? Наша команда ButlerSPB подготовила подробный гайд, в котором мы собрали все актуальные способы поиска временной работы и подработки в культурной столице. В статье вы найдете обзор лучших онлайн-платформ, полезных Telegram-каналов, а также советы по поиску вакансий в сферах гостеприимства, ритейла и event-индустрии. Узнайте, как быстро найти подходящий вариант, который легко совмещать с учебой или основной деятельностью.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.7","reviewCount":693,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/kak-nayti-vremennuyu-rabotu-ili-podrabotku-v-sankt-peterburge/"}}
+title: >-
+  Как найти временную работу или подработку в Санкт-Петербурге: полное
+  руководство от ButlerSPB
+description: >-
+  Ищете дополнительный доход в Санкт-Петербурге? Наша команда ButlerSPB
+  подготовила подробный гайд, в котором мы собрали все актуальные способы поиска
+  временной работы и подработки в культурной столице. В статье вы найдете обзор
+  лучших онлайн-платформ, полезных Telegram-каналов, а также советы по поиску
+  вакансий в сферах гостеприимства, ритейла и event-индустрии. Узнайте, как
+  быстро найти подходящий вариант, который легко совмещать с учебой или основной
+  деятельностью.
+pubDate: '2025-07-22T11:42:33.779Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: >-
+    Как найти временную работу или подработку в Санкт-Петербурге: полное
+    руководство от ButlerSPB
+  description: >-
+    Ищете дополнительный доход в Санкт-Петербурге? Наша команда ButlerSPB
+    подготовила подробный гайд, в котором мы собрали все актуальные способы
+    поиска временной работы и подработки в культурной столице. В статье вы
+    найдете обзор лучших онлайн-платформ, полезных Telegram-каналов, а также
+    советы по поиску вакансий в сферах гостеприимства, ритейла и
+    event-индустрии. Узнайте, как быстро найти подходящий вариант, который легко
+    совмещать с учебой или основной деятельностью.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.7'
+    reviewCount: 583
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/kak-nayti-vremennuyu-rabotu-ili-podrabotku-v-sankt-peterburge/
 ---
 
 # Подработка в Санкт-Петербурге: Где и как найти идеальный вариант в 2024 году

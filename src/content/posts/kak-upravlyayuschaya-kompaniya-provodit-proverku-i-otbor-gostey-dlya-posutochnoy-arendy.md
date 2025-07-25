@@ -1,11 +1,41 @@
 ---
-title: "Как ButlerSPB проверяет гостей для аренды"
-description: "Узнайте, как ButlerSPB обеспечивает безопасность ваших апартаментов. Мы подробно рассказываем о многоэтапной проверке гостей: от анализа документов и соцсетей до личного общения."
-keywords: "проверка гостей, посуточная аренда, управляющая компания, безопасность жилья, отбор арендаторов, ButlerSPB, фейс-контроль"
-pubDate: "2025-07-24T12:02:19.263Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Как ButlerSPB проверяет гостей для аренды","description":"Узнайте, как ButlerSPB обеспечивает безопасность ваших апартаментов. Мы подробно рассказываем о многоэтапной проверке гостей: от анализа документов и соцсетей до личного общения.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"5.0","reviewCount":724,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/kak-upravlyayuschaya-kompaniya-provodit-proverku-i-otbor-gostey-dlya-posutochnoy-arendy/"}}
+title: Как ButlerSPB проверяет гостей для аренды
+description: >-
+  Узнайте, как ButlerSPB обеспечивает безопасность ваших апартаментов. Мы
+  подробно рассказываем о многоэтапной проверке гостей: от анализа документов и
+  соцсетей до личного общения.
+pubDate: '2025-07-24T12:02:19.263Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: Как ButlerSPB проверяет гостей для аренды
+  description: >-
+    Узнайте, как ButlerSPB обеспечивает безопасность ваших апартаментов. Мы
+    подробно рассказываем о многоэтапной проверке гостей: от анализа документов
+    и соцсетей до личного общения.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.8'
+    reviewCount: 482
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/kak-upravlyayuschaya-kompaniya-provodit-proverku-i-otbor-gostey-dlya-posutochnoy-arendy/
 ---
 # Как ButlerSPB отбирает гостей: 7 этапов проверки для безопасности вашей квартиры в посуточной аренде
 

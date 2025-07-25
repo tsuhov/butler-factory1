@@ -1,10 +1,44 @@
 ---
-title: "Как снять квартиру студенту в Санкт-Петербурге: полный гайд от ButlerSPB"
-description: "Поиск жилья в Питере — настоящий квест для любого студента. Ограниченный бюджет, желание жить поближе к вузу и недоверие со стороны собственников. В новой статье блога ButlerSPB разбираем все подводные камни и делимся пошаговой инструкцией, как найти идеальную квартиру без стресса и лишних трат."
-pubDate: "2025-07-22T13:07:22.869Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Как снять квартиру студенту в Санкт-Петербурге: полный гайд от ButlerSPB","description":"Поиск жилья в Питере — настоящий квест для любого студента. Ограниченный бюджет, желание жить поближе к вузу и недоверие со стороны собственников. В новой статье блога ButlerSPB разбираем все подводные камни и делимся пошаговой инструкцией, как найти идеальную квартиру без стресса и лишних трат.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":358,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/kak-snyat-kvartiru-studentu-v-sankt-peterburge/"}}
+title: 'Как снять квартиру студенту в Санкт-Петербурге: полный гайд от ButlerSPB'
+description: >-
+  Поиск жилья в Питере — настоящий квест для любого студента. Ограниченный
+  бюджет, желание жить поближе к вузу и недоверие со стороны собственников. В
+  новой статье блога ButlerSPB разбираем все подводные камни и делимся пошаговой
+  инструкцией, как найти идеальную квартиру без стресса и лишних трат.
+pubDate: '2025-07-22T13:07:22.869Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Как снять квартиру студенту в Санкт-Петербурге: полный гайд от ButlerSPB'
+  description: >-
+    Поиск жилья в Питере — настоящий квест для любого студента. Ограниченный
+    бюджет, желание жить поближе к вузу и недоверие со стороны собственников. В
+    новой статье блога ButlerSPB разбираем все подводные камни и делимся
+    пошаговой инструкцией, как найти идеальную квартиру без стресса и лишних
+    трат.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.8'
+    reviewCount: 703
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/kak-snyat-kvartiru-studentu-v-sankt-peterburge/
 ---
 
 # Как снять квартиру студенту в Санкт-Петербурге: Полный гид от экспертов ButlerSPB

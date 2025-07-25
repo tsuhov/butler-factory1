@@ -1,11 +1,40 @@
 ---
-title: "Экономьте усилия. ButlerSPB берет на себя рутину."
-description: "Современная жизнь требует много сил. Узнайте, как делегировать рутинные задачи и освободить время для важного. ButlerSPB берет на себя быт, чтобы вы жили полной жизнью."
-keywords: "экономия времени, делегирование задач, ButlerSPB, помощь по дому, управление временем, продуктивность"
-pubDate: "2025-07-24T22:01:04.774Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Экономьте усилия. ButlerSPB берет на себя рутину.","description":"Современная жизнь требует много сил. Узнайте, как делегировать рутинные задачи и освободить время для важного. ButlerSPB берет на себя быт, чтобы вы жили полной жизнью.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.7","reviewCount":633,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/ekonomte-usiliya/"}}
+title: Экономьте усилия. ButlerSPB берет на себя рутину.
+description: >-
+  Современная жизнь требует много сил. Узнайте, как делегировать рутинные задачи
+  и освободить время для важного. ButlerSPB берет на себя быт, чтобы вы жили
+  полной жизнью.
+pubDate: '2025-07-24T22:01:04.774Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: Экономьте усилия. ButlerSPB берет на себя рутину.
+  description: >-
+    Современная жизнь требует много сил. Узнайте, как делегировать рутинные
+    задачи и освободить время для важного. ButlerSPB берет на себя быт, чтобы вы
+    жили полной жизнью.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.8'
+    reviewCount: 613
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': 'https://butlerspb-blog.netlify.app/blog/ekonomte-usiliya/'
 ---
 # Экономим усилия, а не жизнь: Как перестать тонуть в быту и начать жить по-настоящему
 

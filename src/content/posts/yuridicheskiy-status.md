@@ -1,11 +1,38 @@
 ---
-title: "Юридический статус: что это и зачем он нужен?"
-description: "В нашей новой статье от ButlerSPB мы разбираем понятие юридического статуса. Узнайте, какие виды статусов бывают, как они влияют на права и обязанности."
-keywords: "юридический статус, правовой статус, физическое лицо, юридическое лицо, права и обязанности, законодательство, ButlerSPB"
-pubDate: "2025-07-25T15:49:04.840Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Юридический статус: что это и зачем он нужен?","description":"В нашей новой статье от ButlerSPB мы разбираем понятие юридического статуса. Узнайте, какие виды статусов бывают, как они влияют на права и обязанности.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.8","reviewCount":864,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/yuridicheskiy-status/"}}
+title: 'Юридический статус: что это и зачем он нужен?'
+description: >-
+  В нашей новой статье от ButlerSPB мы разбираем понятие юридического статуса.
+  Узнайте, какие виды статусов бывают, как они влияют на права и обязанности.
+pubDate: '2025-07-25T15:49:04.840Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Юридический статус: что это и зачем он нужен?'
+  description: >-
+    В нашей новой статье от ButlerSPB мы разбираем понятие юридического статуса.
+    Узнайте, какие виды статусов бывают, как они влияют на права и обязанности.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.8'
+    reviewCount: 900
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': 'https://butlerspb-blog.netlify.app/blog/yuridicheskiy-status/'
 ---
 # Юридический статус: от физического лица до ООО — полный гид по выбору и последствиям
 

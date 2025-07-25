@@ -1,10 +1,47 @@
 ---
-title: "Юрист по коммерческой недвижимости: когда без него не обойтись"
-description: "Покупка, продажа или аренда коммерческой недвижимости — это всегда крупные инвестиции и высокие риски. В блоге ButlerSPB разбираемся, в каких ситуациях участие квалифицированного юриста не просто желательно, а необходимо для защиты ваших интересов и капитала. Рассказываем о ключевых этапах сделок, где без юридической экспертизы можно потерять миллионы, и как специалист поможет избежать 'подводных камней' в договорах и документах."
-pubDate: "2025-07-22T16:22:59.763Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Юрист по коммерческой недвижимости: когда без него не обойтись","description":"Покупка, продажа или аренда коммерческой недвижимости — это всегда крупные инвестиции и высокие риски. В блоге ButlerSPB разбираемся, в каких ситуациях участие квалифицированного юриста не просто желательно, а необходимо для защиты ваших интересов и капитала. Рассказываем о ключевых этапах сделок, где без юридической экспертизы можно потерять миллионы, и как специалист поможет избежать 'подводных камней' в договорах и документах.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.8","reviewCount":746,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/yurist-po-kommercheskoy-nedvizhimosti-kogda-bez-nego-ne-oboytis/"}}
+title: 'Юрист по коммерческой недвижимости: когда без него не обойтись'
+description: >-
+  Покупка, продажа или аренда коммерческой недвижимости — это всегда крупные
+  инвестиции и высокие риски. В блоге ButlerSPB разбираемся, в каких ситуациях
+  участие квалифицированного юриста не просто желательно, а необходимо для
+  защиты ваших интересов и капитала. Рассказываем о ключевых этапах сделок, где
+  без юридической экспертизы можно потерять миллионы, и как специалист поможет
+  избежать 'подводных камней' в договорах и документах.
+pubDate: '2025-07-22T16:22:59.763Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Юрист по коммерческой недвижимости: когда без него не обойтись'
+  description: >-
+    Покупка, продажа или аренда коммерческой недвижимости — это всегда крупные
+    инвестиции и высокие риски. В блоге ButlerSPB разбираемся, в каких ситуациях
+    участие квалифицированного юриста не просто желательно, а необходимо для
+    защиты ваших интересов и капитала. Рассказываем о ключевых этапах сделок,
+    где без юридической экспертизы можно потерять миллионы, и как специалист
+    поможет избежать 'подводных камней' в договорах и документах.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '5.0'
+    reviewCount: 717
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/yurist-po-kommercheskoy-nedvizhimosti-kogda-bez-nego-ne-oboytis/
 ---
 
 # Юрист по коммерческой недвижимости: 7 ситуаций, когда без него не обойтись

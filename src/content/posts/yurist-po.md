@@ -1,11 +1,40 @@
 ---
-title: "Юрист по...: как выбрать? Советы ButlerSPB"
-description: "Юридические вопросы требуют узкой специализации. Как понять, какой юрист вам нужен: по семейным, жилищным или корпоративным делам? Рассказываем, как не ошибиться."
-keywords: "юрист, выбрать юриста, юридическая консультация, юрист по гражданским делам, юрист спб, ButlerSPB"
-pubDate: "2025-07-25T16:01:47.685Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Юрист по...: как выбрать? Советы ButlerSPB","description":"Юридические вопросы требуют узкой специализации. Как понять, какой юрист вам нужен: по семейным, жилищным или корпоративным делам? Рассказываем, как не ошибиться.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":412,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/yurist-po/"}}
+title: 'Юрист по...: как выбрать? Советы ButlerSPB'
+description: >-
+  Юридические вопросы требуют узкой специализации. Как понять, какой юрист вам
+  нужен: по семейным, жилищным или корпоративным делам? Рассказываем, как не
+  ошибиться.
+pubDate: '2025-07-25T16:01:47.685Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Юрист по...: как выбрать? Советы ButlerSPB'
+  description: >-
+    Юридические вопросы требуют узкой специализации. Как понять, какой юрист вам
+    нужен: по семейным, жилищным или корпоративным делам? Рассказываем, как не
+    ошибиться.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '5.0'
+    reviewCount: 743
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': 'https://butlerspb-blog.netlify.app/blog/yurist-po/'
 ---
 # Юрист по Семейным Делам в Санкт-Петербурге: как найти специалиста и выиграть дело
 

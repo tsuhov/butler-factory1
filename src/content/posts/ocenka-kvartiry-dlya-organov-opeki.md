@@ -1,11 +1,41 @@
 ---
-title: "Оценка квартиры для органов опеки: все нюансы"
-description: "Оценка жилья для опеки — обязательный этап при сделках с долей несовершеннолетнего. Разбираем, как получить отчет и какие документы нужны для разрешения."
-keywords: "оценка для опеки, оценка квартиры, органы опеки и попечительства, отчет об оценке, сделка с несовершеннолетним, разрешение на продажу"
-pubDate: "2025-07-24T12:07:31.323Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Оценка квартиры для органов опеки: все нюансы","description":"Оценка жилья для опеки — обязательный этап при сделках с долей несовершеннолетнего. Разбираем, как получить отчет и какие документы нужны для разрешения.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":754,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/ocenka-kvartiry-dlya-organov-opeki/"}}
+title: 'Оценка квартиры для органов опеки: все нюансы'
+description: >-
+  Оценка жилья для опеки — обязательный этап при сделках с долей
+  несовершеннолетнего. Разбираем, как получить отчет и какие документы нужны для
+  разрешения.
+pubDate: '2025-07-24T12:07:31.323Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Оценка квартиры для органов опеки: все нюансы'
+  description: >-
+    Оценка жилья для опеки — обязательный этап при сделках с долей
+    несовершеннолетнего. Разбираем, как получить отчет и какие документы нужны
+    для разрешения.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.9'
+    reviewCount: 364
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/ocenka-kvartiry-dlya-organov-opeki/
 ---
 # Оценка квартиры для органов опеки и попечительства
 

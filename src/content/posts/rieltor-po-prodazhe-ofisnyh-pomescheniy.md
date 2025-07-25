@@ -1,10 +1,48 @@
 ---
-title: "Риэлтор по продаже офисных помещений: как выбрать эксперта для выгодной сделки"
-description: "Продажа или аренда офиса — это не просто сделка с недвижимостью, а стратегический бизнес-процесс. В блоге компании ButlerSPB разбираемся, какими компетенциями должен обладать профессиональный риэлтор по коммерческой недвижимости, какие задачи он решает и почему его участие — ключ к быстрой и максимально прибыльной продаже вашего офисного помещения в Санкт-Петербурге."
-pubDate: "2025-07-23T11:49:52.742Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Риэлтор по продаже офисных помещений: как выбрать эксперта для выгодной сделки","description":"Продажа или аренда офиса — это не просто сделка с недвижимостью, а стратегический бизнес-процесс. В блоге компании ButlerSPB разбираемся, какими компетенциями должен обладать профессиональный риэлтор по коммерческой недвижимости, какие задачи он решает и почему его участие — ключ к быстрой и максимально прибыльной продаже вашего офисного помещения в Санкт-Петербурге.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.8","reviewCount":830,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/rieltor-po-prodazhe-ofisnyh-pomescheniy/"}}
+title: 'Риэлтор по продаже офисных помещений: как выбрать эксперта для выгодной сделки'
+description: >-
+  Продажа или аренда офиса — это не просто сделка с недвижимостью, а
+  стратегический бизнес-процесс. В блоге компании ButlerSPB разбираемся, какими
+  компетенциями должен обладать профессиональный риэлтор по коммерческой
+  недвижимости, какие задачи он решает и почему его участие — ключ к быстрой и
+  максимально прибыльной продаже вашего офисного помещения в Санкт-Петербурге.
+pubDate: '2025-07-23T11:49:52.742Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: >-
+    Риэлтор по продаже офисных помещений: как выбрать эксперта для выгодной
+    сделки
+  description: >-
+    Продажа или аренда офиса — это не просто сделка с недвижимостью, а
+    стратегический бизнес-процесс. В блоге компании ButlerSPB разбираемся,
+    какими компетенциями должен обладать профессиональный риэлтор по
+    коммерческой недвижимости, какие задачи он решает и почему его участие —
+    ключ к быстрой и максимально прибыльной продаже вашего офисного помещения в
+    Санкт-Петербурге.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.8'
+    reviewCount: 475
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/rieltor-po-prodazhe-ofisnyh-pomescheniy/
 ---
 
 # Риэлтор по продаже офисных помещений в СПб: Гид от экспертов ButlerSPB

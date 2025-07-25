@@ -1,10 +1,43 @@
 ---
-title: "Где познакомиться с новыми людьми в большом городе: Гид от ButlerSPB"
-description: "Одиночество в мегаполисе — распространенная проблема. Новые знакомства обогащают жизнь и открывают новые возможности. В этой статье команда ButlerSPB делится проверенными способами и местами, где можно встретить интересных людей, найти друзей по интересам или даже вторую половинку."
-pubDate: "2025-07-22T13:14:33.890Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Где познакомиться с новыми людьми в большом городе: Гид от ButlerSPB","description":"Одиночество в мегаполисе — распространенная проблема. Новые знакомства обогащают жизнь и открывают новые возможности. В этой статье команда ButlerSPB делится проверенными способами и местами, где можно встретить интересных людей, найти друзей по интересам или даже вторую половинку.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"5.0","reviewCount":462,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/gde-poznakomitsya-s-novymi-lyudmi-v-bolshom-gorode/"}}
+title: 'Где познакомиться с новыми людьми в большом городе: Гид от ButlerSPB'
+description: >-
+  Одиночество в мегаполисе — распространенная проблема. Новые знакомства
+  обогащают жизнь и открывают новые возможности. В этой статье команда ButlerSPB
+  делится проверенными способами и местами, где можно встретить интересных
+  людей, найти друзей по интересам или даже вторую половинку.
+pubDate: '2025-07-22T13:14:33.890Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Где познакомиться с новыми людьми в большом городе: Гид от ButlerSPB'
+  description: >-
+    Одиночество в мегаполисе — распространенная проблема. Новые знакомства
+    обогащают жизнь и открывают новые возможности. В этой статье команда
+    ButlerSPB делится проверенными способами и местами, где можно встретить
+    интересных людей, найти друзей по интересам или даже вторую половинку.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.9'
+    reviewCount: 691
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/gde-poznakomitsya-s-novymi-lyudmi-v-bolshom-gorode/
 ---
 
 # Большой город для больших связей: где и как знакомиться с интересными людьми в Санкт-Петербурге

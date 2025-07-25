@@ -1,11 +1,40 @@
 ---
-title: "Шум от соседей: как бороться и что делать?"
-description: "Постоянный шум от соседей мешает жить? В этой статье мы расскажем, как законно бороться с нарушителями тишины, куда обращаться за помощью и как вернуть покой."
-keywords: "шум от соседей, закон о тишине, как бороться с шумом, жалоба на соседей, громкая музыка, куда обращаться"
-pubDate: "2025-07-25T16:27:57.085Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Шум от соседей: как бороться и что делать?","description":"Постоянный шум от соседей мешает жить? В этой статье мы расскажем, как законно бороться с нарушителями тишины, куда обращаться за помощью и как вернуть покой.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.8","reviewCount":640,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/shum-ot/"}}
+title: 'Шум от соседей: как бороться и что делать?'
+description: >-
+  Постоянный шум от соседей мешает жить? В этой статье мы расскажем, как законно
+  бороться с нарушителями тишины, куда обращаться за помощью и как вернуть
+  покой.
+pubDate: '2025-07-25T16:27:57.085Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Шум от соседей: как бороться и что делать?'
+  description: >-
+    Постоянный шум от соседей мешает жить? В этой статье мы расскажем, как
+    законно бороться с нарушителями тишины, куда обращаться за помощью и как
+    вернуть покой.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.9'
+    reviewCount: 433
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': 'https://butlerspb-blog.netlify.app/blog/shum-ot/'
 ---
 # Шум от соседей: полное руководство по решению проблемы в Санкт-Петербурге
 

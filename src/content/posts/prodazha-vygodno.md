@@ -1,11 +1,40 @@
 ---
-title: "Как продать дороже: секреты выгодной сделки"
-description: "Хотите продать товар или услугу с максимальной прибылью? В этой статье от ButlerSPB мы раскрываем проверенные стратегии и практические советы для выгодных продаж."
-keywords: "продать выгодно, техники продаж, увеличение прибыли, эффективные продажи, переговоры о цене, маркетинг, ButlerSPB"
-pubDate: "2025-07-25T14:57:29.666Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Как продать дороже: секреты выгодной сделки","description":"Хотите продать товар или услугу с максимальной прибылью? В этой статье от ButlerSPB мы раскрываем проверенные стратегии и практические советы для выгодных продаж.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.7","reviewCount":331,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/prodazha-vygodno/"}}
+title: 'Как продать дороже: секреты выгодной сделки'
+description: >-
+  Хотите продать товар или услугу с максимальной прибылью? В этой статье от
+  ButlerSPB мы раскрываем проверенные стратегии и практические советы для
+  выгодных продаж.
+pubDate: '2025-07-25T14:57:29.666Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Как продать дороже: секреты выгодной сделки'
+  description: >-
+    Хотите продать товар или услугу с максимальной прибылью? В этой статье от
+    ButlerSPB мы раскрываем проверенные стратегии и практические советы для
+    выгодных продаж.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.7'
+    reviewCount: 347
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': 'https://butlerspb-blog.netlify.app/blog/prodazha-vygodno/'
 ---
 # Как продать выгодно что угодно: экспертная стратегия от ButlerSPB
 

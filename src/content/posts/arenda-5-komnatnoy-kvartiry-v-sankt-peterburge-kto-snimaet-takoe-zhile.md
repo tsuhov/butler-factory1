@@ -1,10 +1,47 @@
 ---
-title: "Аренда 5-комнатной квартиры в Санкт-Петербурге: кто снимает такое жилье?"
-description: "Пятикомнатная квартира в аренду — редкий и востребованный лот на рынке недвижимости Петербурга. Кто готов платить за простор и комфорт в Северной столице? В новой статье блога ButlerSPB мы разбираем основные категории арендаторов: от больших семей и топ-менеджеров до IT-команд и творческих коллективов. Узнайте, какие требования они предъявляют к жилью и что для них является решающим фактором при выборе."
-pubDate: "2025-07-22T14:04:25.190Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Аренда 5-комнатной квартиры в Санкт-Петербурге: кто снимает такое жилье?","description":"Пятикомнатная квартира в аренду — редкий и востребованный лот на рынке недвижимости Петербурга. Кто готов платить за простор и комфорт в Северной столице? В новой статье блога ButlerSPB мы разбираем основные категории арендаторов: от больших семей и топ-менеджеров до IT-команд и творческих коллективов. Узнайте, какие требования они предъявляют к жилью и что для них является решающим фактором при выборе.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.8","reviewCount":364,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/arenda-5-komnatnoy-kvartiry-v-sankt-peterburge-kto-snimaet-takoe-zhile/"}}
+title: 'Аренда 5-комнатной квартиры в Санкт-Петербурге: кто снимает такое жилье?'
+description: >-
+  Пятикомнатная квартира в аренду — редкий и востребованный лот на рынке
+  недвижимости Петербурга. Кто готов платить за простор и комфорт в Северной
+  столице? В новой статье блога ButlerSPB мы разбираем основные категории
+  арендаторов: от больших семей и топ-менеджеров до IT-команд и творческих
+  коллективов. Узнайте, какие требования они предъявляют к жилью и что для них
+  является решающим фактором при выборе.
+pubDate: '2025-07-22T14:04:25.190Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Аренда 5-комнатной квартиры в Санкт-Петербурге: кто снимает такое жилье?'
+  description: >-
+    Пятикомнатная квартира в аренду — редкий и востребованный лот на рынке
+    недвижимости Петербурга. Кто готов платить за простор и комфорт в Северной
+    столице? В новой статье блога ButlerSPB мы разбираем основные категории
+    арендаторов: от больших семей и топ-менеджеров до IT-команд и творческих
+    коллективов. Узнайте, какие требования они предъявляют к жилью и что для них
+    является решающим фактором при выборе.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.9'
+    reviewCount: 817
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/arenda-5-komnatnoy-kvartiry-v-sankt-peterburge-kto-snimaet-takoe-zhile/
 ---
 
 # Кто снимает 5-комнатные квартиры в Петербурге? Портрет арендатора элитного жилья от ButlerSPB

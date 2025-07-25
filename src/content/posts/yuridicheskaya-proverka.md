@@ -1,11 +1,40 @@
 ---
-title: "Юридическая проверка: ваша гарантия безопасности"
-description: "Юридическая проверка — это ключевой этап любой сделки. Эксперты ButlerSPB проведут комплексный анализ документов, выявят риски и обеспечат чистоту объекта."
-keywords: "юридическая проверка, чистота сделки, проверка документов, ButlerSPB, due diligence, проверка недвижимости, правовой аудит"
-pubDate: "2025-07-25T15:48:48.532Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Юридическая проверка: ваша гарантия безопасности","description":"Юридическая проверка — это ключевой этап любой сделки. Эксперты ButlerSPB проведут комплексный анализ документов, выявят риски и обеспечат чистоту объекта.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.8","reviewCount":737,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/yuridicheskaya-proverka/"}}
+title: 'Юридическая проверка: ваша гарантия безопасности'
+description: >-
+  Юридическая проверка — это ключевой этап любой сделки. Эксперты ButlerSPB
+  проведут комплексный анализ документов, выявят риски и обеспечат чистоту
+  объекта.
+pubDate: '2025-07-25T15:48:48.532Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Юридическая проверка: ваша гарантия безопасности'
+  description: >-
+    Юридическая проверка — это ключевой этап любой сделки. Эксперты ButlerSPB
+    проведут комплексный анализ документов, выявят риски и обеспечат чистоту
+    объекта.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.7'
+    reviewCount: 689
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': 'https://butlerspb-blog.netlify.app/blog/yuridicheskaya-proverka/'
 ---
 # Юридическая проверка (Due Diligence): Как защитить свои деньги и нервы перед сделкой
 

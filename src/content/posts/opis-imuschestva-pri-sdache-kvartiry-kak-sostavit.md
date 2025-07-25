@@ -1,10 +1,45 @@
 ---
-title: "Опись имущества при сдаче квартиры: пошаговая инструкция и образец"
-description: "Планируете сдать квартиру? Опись имущества — ваш главный помощник для защиты от споров и порчи вещей. В статье блога ButlerSPB мы подробно объясняем, зачем нужна опись, как правильно ее составить, что обязательно в нее включить и какие детали учесть. Скачайте наш готовый шаблон и обезопасьте свою недвижимость."
-pubDate: "2025-07-23T12:14:16.816Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Опись имущества при сдаче квартиры: пошаговая инструкция и образец","description":"Планируете сдать квартиру? Опись имущества — ваш главный помощник для защиты от споров и порчи вещей. В статье блога ButlerSPB мы подробно объясняем, зачем нужна опись, как правильно ее составить, что обязательно в нее включить и какие детали учесть. Скачайте наш готовый шаблон и обезопасьте свою недвижимость.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":864,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/opis-imuschestva-pri-sdache-kvartiry-kak-sostavit/"}}
+title: 'Опись имущества при сдаче квартиры: пошаговая инструкция и образец'
+description: >-
+  Планируете сдать квартиру? Опись имущества — ваш главный помощник для защиты
+  от споров и порчи вещей. В статье блога ButlerSPB мы подробно объясняем, зачем
+  нужна опись, как правильно ее составить, что обязательно в нее включить и
+  какие детали учесть. Скачайте наш готовый шаблон и обезопасьте свою
+  недвижимость.
+pubDate: '2025-07-23T12:14:16.816Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Опись имущества при сдаче квартиры: пошаговая инструкция и образец'
+  description: >-
+    Планируете сдать квартиру? Опись имущества — ваш главный помощник для защиты
+    от споров и порчи вещей. В статье блога ButlerSPB мы подробно объясняем,
+    зачем нужна опись, как правильно ее составить, что обязательно в нее
+    включить и какие детали учесть. Скачайте наш готовый шаблон и обезопасьте
+    свою недвижимость.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.9'
+    reviewCount: 492
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/opis-imuschestva-pri-sdache-kvartiry-kak-sostavit/
 ---
 
 # Опись имущества при сдаче квартиры: полное руководство по составлению + образец для скачивания

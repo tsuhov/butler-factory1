@@ -1,11 +1,41 @@
 ---
-title: "Защита квартиры в аренде: всё о страховке"
-description: "Сдача квартиры в аренду всегда связана с рисками. Страховка поможет защитить ваше имущество и ремонт от непредвиденных ситуаций. Рассказываем, как это работает."
-keywords: "страхование квартиры, аренда жилья, страховка для арендодателя, защита имущества, сдать квартиру, управление недвижимостью, ButlerSPB"
-pubDate: "2025-07-24T12:07:11.030Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Защита квартиры в аренде: всё о страховке","description":"Сдача квартиры в аренду всегда связана с рисками. Страховка поможет защитить ваше имущество и ремонт от непредвиденных ситуаций. Рассказываем, как это работает.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.8","reviewCount":668,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/strahovanie-imuschestva-v-kvartire-sdavaemoy-v-arendu/"}}
+title: 'Защита квартиры в аренде: всё о страховке'
+description: >-
+  Сдача квартиры в аренду всегда связана с рисками. Страховка поможет защитить
+  ваше имущество и ремонт от непредвиденных ситуаций. Рассказываем, как это
+  работает.
+pubDate: '2025-07-24T12:07:11.030Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Защита квартиры в аренде: всё о страховке'
+  description: >-
+    Сдача квартиры в аренду всегда связана с рисками. Страховка поможет защитить
+    ваше имущество и ремонт от непредвиденных ситуаций. Рассказываем, как это
+    работает.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '5.0'
+    reviewCount: 364
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/strahovanie-imuschestva-v-kvartire-sdavaemoy-v-arendu/
 ---
 # Страхование квартиры при сдаче в аренду: Полное руководство для собственника от ButlerSPB
 

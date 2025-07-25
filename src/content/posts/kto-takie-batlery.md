@@ -1,11 +1,38 @@
 ---
-title: "Современный батлер: кто он и чем занимается?"
-description: "Узнайте, кто такие современные батлеры и чем они отличаются от стереотипных дворецких. Раскрываем секреты профессии и необходимые навыки в XXI веке."
-keywords: "батлер, дворецкий, кто такой батлер, услуги батлера, современный батлер, персональный помощник, ButlerSPB"
-pubDate: "2025-07-24T13:04:32.557Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Современный батлер: кто он и чем занимается?","description":"Узнайте, кто такие современные батлеры и чем они отличаются от стереотипных дворецких. Раскрываем секреты профессии и необходимые навыки в XXI веке.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.8","reviewCount":751,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/kto-takie-batlery/"}}
+title: 'Современный батлер: кто он и чем занимается?'
+description: >-
+  Узнайте, кто такие современные батлеры и чем они отличаются от стереотипных
+  дворецких. Раскрываем секреты профессии и необходимые навыки в XXI веке.
+pubDate: '2025-07-24T13:04:32.557Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Современный батлер: кто он и чем занимается?'
+  description: >-
+    Узнайте, кто такие современные батлеры и чем они отличаются от стереотипных
+    дворецких. Раскрываем секреты профессии и необходимые навыки в XXI веке.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.8'
+    reviewCount: 571
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': 'https://butlerspb-blog.netlify.app/blog/kto-takie-batlery/'
 ---
 # Кто такие батлеры: от классического дворецкого до современного лайфстайл-менеджера
 

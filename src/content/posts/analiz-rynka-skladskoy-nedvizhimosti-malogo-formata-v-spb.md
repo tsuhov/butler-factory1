@@ -1,10 +1,49 @@
 ---
-title: "Анализ рынка складов малого формата (light industrial) в Санкт-Петербурге: тренды и прогнозы от ButlerSPB"
-description: "Эксперты ButlerSPB представляют детальный анализ рынка складской недвижимости малого формата в СПб. В статье рассматриваем динамику спроса и предложения, актуальные ставки аренды, ключевые локации и перспективы развития сегмента light industrial. Узнайте, почему малые склады становятся главным трендом для бизнеса и инвесторов в 2024 году."
-pubDate: "2025-07-23T11:30:07.808Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Анализ рынка складов малого формата (light industrial) в Санкт-Петербурге: тренды и прогнозы от ButlerSPB","description":"Эксперты ButlerSPB представляют детальный анализ рынка складской недвижимости малого формата в СПб. В статье рассматриваем динамику спроса и предложения, актуальные ставки аренды, ключевые локации и перспективы развития сегмента light industrial. Узнайте, почему малые склады становятся главным трендом для бизнеса и инвесторов в 2024 году.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":805,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/analiz-rynka-skladskoy-nedvizhimosti-malogo-formata-v-spb/"}}
+title: >-
+  Анализ рынка складов малого формата (light industrial) в Санкт-Петербурге:
+  тренды и прогнозы от ButlerSPB
+description: >-
+  Эксперты ButlerSPB представляют детальный анализ рынка складской недвижимости
+  малого формата в СПб. В статье рассматриваем динамику спроса и предложения,
+  актуальные ставки аренды, ключевые локации и перспективы развития сегмента
+  light industrial. Узнайте, почему малые склады становятся главным трендом для
+  бизнеса и инвесторов в 2024 году.
+pubDate: '2025-07-23T11:30:07.808Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: >-
+    Анализ рынка складов малого формата (light industrial) в Санкт-Петербурге:
+    тренды и прогнозы от ButlerSPB
+  description: >-
+    Эксперты ButlerSPB представляют детальный анализ рынка складской
+    недвижимости малого формата в СПб. В статье рассматриваем динамику спроса и
+    предложения, актуальные ставки аренды, ключевые локации и перспективы
+    развития сегмента light industrial. Узнайте, почему малые склады становятся
+    главным трендом для бизнеса и инвесторов в 2024 году.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.9'
+    reviewCount: 311
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/analiz-rynka-skladskoy-nedvizhimosti-malogo-formata-v-spb/
 ---
 
 # Рынок складской недвижимости малого формата в Санкт-Петербурге: полный анализ для вашего бизнеса в 2024 году

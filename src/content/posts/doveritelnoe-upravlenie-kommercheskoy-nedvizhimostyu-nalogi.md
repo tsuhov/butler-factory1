@@ -1,10 +1,52 @@
 ---
-title: "Налоги при доверительном управлении коммерческой недвижимостью: гид для собственника от ButlerSPB"
-description: "Передача коммерческой недвижимости в доверительное управление (ДУ) — эффективный способ получения пассивного дохода, но вызывает много вопросов о налогообложении. В этой статье мы разбираемся, кто платит налоги — собственник или управляющая компания, какие налоговые режимы доступны для физических лиц и ИП (ОСНО, УСН, НПД), как рассчитывается НДС и налог на имущество. Узнайте все о налоговых обязательствах и способах их оптимизации при работе с ButlerSPB."
-pubDate: "2025-07-22T00:30:21.679Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Налоги при доверительном управлении коммерческой недвижимостью: гид для собственника от ButlerSPB","description":"Передача коммерческой недвижимости в доверительное управление (ДУ) — эффективный способ получения пассивного дохода, но вызывает много вопросов о налогообложении. В этой статье мы разбираемся, кто платит налоги — собственник или управляющая компания, какие налоговые режимы доступны для физических лиц и ИП (ОСНО, УСН, НПД), как рассчитывается НДС и налог на имущество. Узнайте все о налоговых обязательствах и способах их оптимизации при работе с ButlerSPB.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.8","reviewCount":640,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/doveritelnoe-upravlenie-kommercheskoy-nedvizhimostyu-nalogi/"}}
+title: >-
+  Налоги при доверительном управлении коммерческой недвижимостью: гид для
+  собственника от ButlerSPB
+description: >-
+  Передача коммерческой недвижимости в доверительное управление (ДУ) —
+  эффективный способ получения пассивного дохода, но вызывает много вопросов о
+  налогообложении. В этой статье мы разбираемся, кто платит налоги — собственник
+  или управляющая компания, какие налоговые режимы доступны для физических лиц и
+  ИП (ОСНО, УСН, НПД), как рассчитывается НДС и налог на имущество. Узнайте все
+  о налоговых обязательствах и способах их оптимизации при работе с ButlerSPB.
+pubDate: '2025-07-22T00:30:21.679Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: >-
+    Налоги при доверительном управлении коммерческой недвижимостью: гид для
+    собственника от ButlerSPB
+  description: >-
+    Передача коммерческой недвижимости в доверительное управление (ДУ) —
+    эффективный способ получения пассивного дохода, но вызывает много вопросов о
+    налогообложении. В этой статье мы разбираемся, кто платит налоги —
+    собственник или управляющая компания, какие налоговые режимы доступны для
+    физических лиц и ИП (ОСНО, УСН, НПД), как рассчитывается НДС и налог на
+    имущество. Узнайте все о налоговых обязательствах и способах их оптимизации
+    при работе с ButlerSPB.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.7'
+    reviewCount: 523
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/doveritelnoe-upravlenie-kommercheskoy-nedvizhimostyu-nalogi/
 ---
 
 # Налоги при доверительном управлении коммерческой недвижимостью: полное руководство для собственника

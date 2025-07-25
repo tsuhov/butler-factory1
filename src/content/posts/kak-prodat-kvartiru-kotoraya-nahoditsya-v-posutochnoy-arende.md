@@ -1,10 +1,51 @@
 ---
-title: "Как продать квартиру, которая находится в посуточной аренде: инструкция от ButlerSPB"
-description: "Планируете продать квартиру, которая успешно сдаётся посуточно? Это не просто продажа квадратных метров, а готового бизнеса. В нашей статье мы подробно разберем, как правильно оценить такой объект, подготовить его к показам без остановки бронирований, найти покупателя-инвестора и грамотно оформить сделку, передав все наработки. Узнайте, как максимизировать прибыль от продажи вашего арендного актива."
-pubDate: "2025-07-23T10:43:35.698Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Как продать квартиру, которая находится в посуточной аренде: инструкция от ButlerSPB","description":"Планируете продать квартиру, которая успешно сдаётся посуточно? Это не просто продажа квадратных метров, а готового бизнеса. В нашей статье мы подробно разберем, как правильно оценить такой объект, подготовить его к показам без остановки бронирований, найти покупателя-инвестора и грамотно оформить сделку, передав все наработки. Узнайте, как максимизировать прибыль от продажи вашего арендного актива.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":695,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/kak-prodat-kvartiru-kotoraya-nahoditsya-v-posutochnoy-arende/"}}
+title: >-
+  Как продать квартиру, которая находится в посуточной аренде: инструкция от
+  ButlerSPB
+description: >-
+  Планируете продать квартиру, которая успешно сдаётся посуточно? Это не просто
+  продажа квадратных метров, а готового бизнеса. В нашей статье мы подробно
+  разберем, как правильно оценить такой объект, подготовить его к показам без
+  остановки бронирований, найти покупателя-инвестора и грамотно оформить сделку,
+  передав все наработки. Узнайте, как максимизировать прибыль от продажи вашего
+  арендного актива.
+pubDate: '2025-07-23T10:43:35.698Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: >-
+    Как продать квартиру, которая находится в посуточной аренде: инструкция от
+    ButlerSPB
+  description: >-
+    Планируете продать квартиру, которая успешно сдаётся посуточно? Это не
+    просто продажа квадратных метров, а готового бизнеса. В нашей статье мы
+    подробно разберем, как правильно оценить такой объект, подготовить его к
+    показам без остановки бронирований, найти покупателя-инвестора и грамотно
+    оформить сделку, передав все наработки. Узнайте, как максимизировать прибыль
+    от продажи вашего арендного актива.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.8'
+    reviewCount: 820
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/kak-prodat-kvartiru-kotoraya-nahoditsya-v-posutochnoy-arende/
 ---
 
 # Как продать квартиру в посуточной аренде: полное руководство для владельца

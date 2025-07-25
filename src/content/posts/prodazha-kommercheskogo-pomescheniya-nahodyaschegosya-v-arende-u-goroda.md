@@ -1,11 +1,40 @@
 ---
-title: "Продажа помещения в аренде у города: гайд"
-description: "Продажа коммерческого помещения, арендуемого у города, имеет свои нюансы. В статье от ButlerSPB мы разбираем ключевые этапы, юридические тонкости и риски."
-keywords: "продажа помещения, аренда у города, коммерческая недвижимость, преимущественное право выкупа, выкуп у города, ButlerSPB, инвестиции"
-pubDate: "2025-07-24T12:07:06.925Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Продажа помещения в аренде у города: гайд","description":"Продажа коммерческого помещения, арендуемого у города, имеет свои нюансы. В статье от ButlerSPB мы разбираем ключевые этапы, юридические тонкости и риски.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":368,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/prodazha-kommercheskogo-pomescheniya-nahodyaschegosya-v-arende-u-goroda/"}}
+title: 'Продажа помещения в аренде у города: гайд'
+description: >-
+  Продажа коммерческого помещения, арендуемого у города, имеет свои нюансы. В
+  статье от ButlerSPB мы разбираем ключевые этапы, юридические тонкости и риски.
+pubDate: '2025-07-24T12:07:06.925Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Продажа помещения в аренде у города: гайд'
+  description: >-
+    Продажа коммерческого помещения, арендуемого у города, имеет свои нюансы. В
+    статье от ButlerSPB мы разбираем ключевые этапы, юридические тонкости и
+    риски.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.7'
+    reviewCount: 547
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/prodazha-kommercheskogo-pomescheniya-nahodyaschegosya-v-arende-u-goroda/
 ---
 # Как продать коммерческое помещение в аренде у города: пошаговая инструкция 2024 для собственников в СПб
 

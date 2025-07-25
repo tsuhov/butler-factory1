@@ -1,10 +1,45 @@
 ---
-title: "Кадастровая стоимость квартиры в СПб: как она формируется и на что влияет"
-description: "Разбираемся, что такое кадастровая стоимость недвижимости в Санкт-Петербурге, из каких параметров она складывается и почему важна для собственника. В новой статье блога ButlerSPB вы узнаете, как государство оценивает вашу квартиру, как эта стоимость влияет на налоги и другие платежи, а также что делать, если вы не согласны с результатом оценки."
-pubDate: "2025-07-22T13:58:07.705Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Кадастровая стоимость квартиры в СПб: как она формируется и на что влияет","description":"Разбираемся, что такое кадастровая стоимость недвижимости в Санкт-Петербурге, из каких параметров она складывается и почему важна для собственника. В новой статье блога ButlerSPB вы узнаете, как государство оценивает вашу квартиру, как эта стоимость влияет на налоги и другие платежи, а также что делать, если вы не согласны с результатом оценки.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":795,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/kadastrovaya-stoimost-kvartiry-v-spb-kak-ona-formiruetsya/"}}
+title: 'Кадастровая стоимость квартиры в СПб: как она формируется и на что влияет'
+description: >-
+  Разбираемся, что такое кадастровая стоимость недвижимости в Санкт-Петербурге,
+  из каких параметров она складывается и почему важна для собственника. В новой
+  статье блога ButlerSPB вы узнаете, как государство оценивает вашу квартиру,
+  как эта стоимость влияет на налоги и другие платежи, а также что делать, если
+  вы не согласны с результатом оценки.
+pubDate: '2025-07-22T13:58:07.705Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Кадастровая стоимость квартиры в СПб: как она формируется и на что влияет'
+  description: >-
+    Разбираемся, что такое кадастровая стоимость недвижимости в
+    Санкт-Петербурге, из каких параметров она складывается и почему важна для
+    собственника. В новой статье блога ButlerSPB вы узнаете, как государство
+    оценивает вашу квартиру, как эта стоимость влияет на налоги и другие
+    платежи, а также что делать, если вы не согласны с результатом оценки.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.7'
+    reviewCount: 546
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/kadastrovaya-stoimost-kvartiry-v-spb-kak-ona-formiruetsya/
 ---
 
 # Кадастровая стоимость квартиры в СПб: Полный гид по расчету, проверке и оспариванию в 2024 году

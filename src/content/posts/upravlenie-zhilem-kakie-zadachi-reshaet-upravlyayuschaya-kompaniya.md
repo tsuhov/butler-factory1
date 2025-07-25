@@ -1,10 +1,45 @@
 ---
-title: "Управление жильем: какие задачи решает управляющая компания."
-description: "Многие собственники не до конца понимают, за что отвечают управляющие компании. В нашей новой статье мы подробно разбираем ключевые задачи УК: от технического обслуживания и клининга до финансовой отчетности и юридического сопровождения. Узнайте, как профессиональное управление от ButlerSPB делает жизнь в доме комфортнее и безопаснее."
-pubDate: "2025-07-22T14:02:21.193Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Управление жильем: какие задачи решает управляющая компания.","description":"Многие собственники не до конца понимают, за что отвечают управляющие компании. В нашей новой статье мы подробно разбираем ключевые задачи УК: от технического обслуживания и клининга до финансовой отчетности и юридического сопровождения. Узнайте, как профессиональное управление от ButlerSPB делает жизнь в доме комфортнее и безопаснее.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.8","reviewCount":744,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/upravlenie-zhilem-kakie-zadachi-reshaet-upravlyayuschaya-kompaniya/"}}
+title: 'Управление жильем: какие задачи решает управляющая компания.'
+description: >-
+  Многие собственники не до конца понимают, за что отвечают управляющие
+  компании. В нашей новой статье мы подробно разбираем ключевые задачи УК: от
+  технического обслуживания и клининга до финансовой отчетности и юридического
+  сопровождения. Узнайте, как профессиональное управление от ButlerSPB делает
+  жизнь в доме комфортнее и безопаснее.
+pubDate: '2025-07-22T14:02:21.193Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Управление жильем: какие задачи решает управляющая компания.'
+  description: >-
+    Многие собственники не до конца понимают, за что отвечают управляющие
+    компании. В нашей новой статье мы подробно разбираем ключевые задачи УК: от
+    технического обслуживания и клининга до финансовой отчетности и юридического
+    сопровождения. Узнайте, как профессиональное управление от ButlerSPB делает
+    жизнь в доме комфортнее и безопаснее.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.8'
+    reviewCount: 739
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/upravlenie-zhilem-kakie-zadachi-reshaet-upravlyayuschaya-kompaniya/
 ---
 
 # Управление квартирой в СПб: Какие задачи решает управляющая компания и за что вы платите?

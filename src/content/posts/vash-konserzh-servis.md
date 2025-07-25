@@ -1,11 +1,40 @@
 ---
-title: "Ваш консьерж-сервис от ButlerSPB: все для вас"
-description: "Откройте мир безграничных возможностей с вашим личным консьержем. Мы решаем любые задачи, от бронирования столика до организации мероприятий. Наслаждайтесь жизнью!"
-keywords: "консьерж сервис, ButlerSPB, персональный ассистент, услуги консьержа, лайфстайл менеджмент, консьерж спб, элитные услуги"
-pubDate: "2025-07-24T13:37:48.292Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Ваш консьерж-сервис от ButlerSPB: все для вас","description":"Откройте мир безграничных возможностей с вашим личным консьержем. Мы решаем любые задачи, от бронирования столика до организации мероприятий. Наслаждайтесь жизнью!","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.8","reviewCount":383,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/vash-konserzh-servis/"}}
+title: 'Ваш консьерж-сервис от ButlerSPB: все для вас'
+description: >-
+  Откройте мир безграничных возможностей с вашим личным консьержем. Мы решаем
+  любые задачи, от бронирования столика до организации мероприятий.
+  Наслаждайтесь жизнью!
+pubDate: '2025-07-24T13:37:48.292Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Ваш консьерж-сервис от ButlerSPB: все для вас'
+  description: >-
+    Откройте мир безграничных возможностей с вашим личным консьержем. Мы решаем
+    любые задачи, от бронирования столика до организации мероприятий.
+    Наслаждайтесь жизнью!
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.8'
+    reviewCount: 539
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': 'https://butlerspb-blog.netlify.app/blog/vash-konserzh-servis/'
 ---
 # Ваш персональный консьерж-сервис: Как вернуть себе время и жить без забот с ButlerSPB
 

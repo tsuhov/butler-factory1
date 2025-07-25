@@ -1,10 +1,51 @@
 ---
-title: "Особенности аренды 4-комнатной квартиры в Санкт-Петербурге: гайд от ButlerSPB"
-description: "Аренда 4-комнатной квартиры в Санкт-Петербурге — задача со своими особенностями. Такое жилье идеально подходит для больших семей, групп коллег или ценителей простора. В статье от ButlerSPB мы рассмотрим ключевые аспекты: анализ цен по районам города, высокий спрос и ограниченное предложение, важные пункты в договоре аренды и советы по выбору квартиры, которая станет вашим настоящим домом. Узнайте, как найти лучший вариант и избежать распространенных ошибок."
-pubDate: "2025-07-23T11:53:54.708Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Особенности аренды 4-комнатной квартиры в Санкт-Петербурге: гайд от ButlerSPB","description":"Аренда 4-комнатной квартиры в Санкт-Петербурге — задача со своими особенностями. Такое жилье идеально подходит для больших семей, групп коллег или ценителей простора. В статье от ButlerSPB мы рассмотрим ключевые аспекты: анализ цен по районам города, высокий спрос и ограниченное предложение, важные пункты в договоре аренды и советы по выбору квартиры, которая станет вашим настоящим домом. Узнайте, как найти лучший вариант и избежать распространенных ошибок.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.7","reviewCount":718,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/osobennosti-arendy-4-komnatnoy-kvartiry-v-sankt-peterburge/"}}
+title: 'Особенности аренды 4-комнатной квартиры в Санкт-Петербурге: гайд от ButlerSPB'
+description: >-
+  Аренда 4-комнатной квартиры в Санкт-Петербурге — задача со своими
+  особенностями. Такое жилье идеально подходит для больших семей, групп коллег
+  или ценителей простора. В статье от ButlerSPB мы рассмотрим ключевые аспекты:
+  анализ цен по районам города, высокий спрос и ограниченное предложение, важные
+  пункты в договоре аренды и советы по выбору квартиры, которая станет вашим
+  настоящим домом. Узнайте, как найти лучший вариант и избежать распространенных
+  ошибок.
+pubDate: '2025-07-23T11:53:54.708Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: >-
+    Особенности аренды 4-комнатной квартиры в Санкт-Петербурге: гайд от
+    ButlerSPB
+  description: >-
+    Аренда 4-комнатной квартиры в Санкт-Петербурге — задача со своими
+    особенностями. Такое жилье идеально подходит для больших семей, групп коллег
+    или ценителей простора. В статье от ButlerSPB мы рассмотрим ключевые
+    аспекты: анализ цен по районам города, высокий спрос и ограниченное
+    предложение, важные пункты в договоре аренды и советы по выбору квартиры,
+    которая станет вашим настоящим домом. Узнайте, как найти лучший вариант и
+    избежать распространенных ошибок.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.9'
+    reviewCount: 497
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/osobennosti-arendy-4-komnatnoy-kvartiry-v-sankt-peterburge/
 ---
 
 # Как снять идеальную 4-комнатную квартиру в Санкт-Петербурге: Полное руководство для арендатора

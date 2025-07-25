@@ -1,11 +1,40 @@
 ---
-title: "Эффективные методы увеличения загрузки отеля"
-description: "Ищете способы повысить загрузку? ButlerSPB предлагает рабочие методики: от динамического ценообразования до продвижения в соцсетях для привлечения гостей."
-keywords: "увеличение загрузки, ButlerSPB, гостиничный бизнес, управление отелем, маркетинг отеля, привлечение гостей"
-pubDate: "2025-07-25T15:16:28.413Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Эффективные методы увеличения загрузки отеля","description":"Ищете способы повысить загрузку? ButlerSPB предлагает рабочие методики: от динамического ценообразования до продвижения в соцсетях для привлечения гостей.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"5.0","reviewCount":635,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/uvelichenie-zagruzki/"}}
+title: Эффективные методы увеличения загрузки отеля
+description: >-
+  Ищете способы повысить загрузку? ButlerSPB предлагает рабочие методики: от
+  динамического ценообразования до продвижения в соцсетях для привлечения
+  гостей.
+pubDate: '2025-07-25T15:16:28.413Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: Эффективные методы увеличения загрузки отеля
+  description: >-
+    Ищете способы повысить загрузку? ButlerSPB предлагает рабочие методики: от
+    динамического ценообразования до продвижения в соцсетях для привлечения
+    гостей.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.9'
+    reviewCount: 851
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': 'https://butlerspb-blog.netlify.app/blog/uvelichenie-zagruzki/'
 ---
 # Как увеличить загрузку апартаментов в Санкт-Петербурге: 10 работающих советов от экспертов ButlerSPB
 

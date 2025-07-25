@@ -1,11 +1,38 @@
 ---
-title: "Ипотека и ремонт: как всё спланировать?"
-description: "Купили квартиру в ипотеку и планируете ремонт? Рассказываем, как совместить эти два процесса, где взять деньги и как избежать типичных ошибок новосёлов."
-keywords: "ипотека, ремонт в новостройке, ButlerSPB, покупка квартиры, недвижимость спб, планирование бюджета, кредит"
-pubDate: "2025-07-25T15:52:06.028Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Ипотека и ремонт: как всё спланировать?","description":"Купили квартиру в ипотеку и планируете ремонт? Рассказываем, как совместить эти два процесса, где взять деньги и как избежать типичных ошибок новосёлов.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":699,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/ipoteka-i/"}}
+title: 'Ипотека и ремонт: как всё спланировать?'
+description: >-
+  Купили квартиру в ипотеку и планируете ремонт? Рассказываем, как совместить
+  эти два процесса, где взять деньги и как избежать типичных ошибок новосёлов.
+pubDate: '2025-07-25T15:52:06.028Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Ипотека и ремонт: как всё спланировать?'
+  description: >-
+    Купили квартиру в ипотеку и планируете ремонт? Рассказываем, как совместить
+    эти два процесса, где взять деньги и как избежать типичных ошибок новосёлов.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.9'
+    reviewCount: 368
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': 'https://butlerspb-blog.netlify.app/blog/ipoteka-i/'
 ---
 # Ипотека и...: Главный гид по всем вопросам для покупателя квартиры в Петербурге
 

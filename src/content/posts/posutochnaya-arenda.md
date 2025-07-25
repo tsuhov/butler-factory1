@@ -1,11 +1,40 @@
 ---
-title: "Секреты посуточной аренды жилья от ButlerSPB"
-description: "Планируете поездку в Петербург? Узнайте все плюсы и минусы посуточной аренды квартир. ButlerSPB делится советами, как выбрать идеальное жилье и избежать ошибок."
-keywords: "посуточная аренда, аренда квартир спб, снять жилье на сутки, краткосрочная аренда, апартаменты в питере, ButlerSPB, советы по аренде"
-pubDate: "2025-07-25T15:35:29.650Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Секреты посуточной аренды жилья от ButlerSPB","description":"Планируете поездку в Петербург? Узнайте все плюсы и минусы посуточной аренды квартир. ButlerSPB делится советами, как выбрать идеальное жилье и избежать ошибок.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.7","reviewCount":679,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/posutochnaya-arenda/"}}
+title: Секреты посуточной аренды жилья от ButlerSPB
+description: >-
+  Планируете поездку в Петербург? Узнайте все плюсы и минусы посуточной аренды
+  квартир. ButlerSPB делится советами, как выбрать идеальное жилье и избежать
+  ошибок.
+pubDate: '2025-07-25T15:35:29.650Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: Секреты посуточной аренды жилья от ButlerSPB
+  description: >-
+    Планируете поездку в Петербург? Узнайте все плюсы и минусы посуточной аренды
+    квартир. ButlerSPB делится советами, как выбрать идеальное жилье и избежать
+    ошибок.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '5.0'
+    reviewCount: 798
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': 'https://butlerspb-blog.netlify.app/blog/posutochnaya-arenda/'
 ---
 # Посуточная аренда в 2024: Полное руководство для гостя и собственника от ButlerSPB
 

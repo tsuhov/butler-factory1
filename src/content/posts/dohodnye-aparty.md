@@ -1,11 +1,40 @@
 ---
-title: "Доходные апарты: ваш гид по инвестициям"
-description: "Инвестиции в апартаменты — отличный способ получения пассивного дохода. Узнайте из нашей статьи, как выбрать ликвидный объект и рассчитать его доходность."
-keywords: "доходные апарты, инвестиции в недвижимость, пассивный доход, апарт-отель, управление недвижимостью, купить апарты"
-pubDate: "2025-07-25T15:11:49.858Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Доходные апарты: ваш гид по инвестициям","description":"Инвестиции в апартаменты — отличный способ получения пассивного дохода. Узнайте из нашей статьи, как выбрать ликвидный объект и рассчитать его доходность.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.7","reviewCount":625,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/dohodnye-aparty/"}}
+title: 'Доходные апарты: ваш гид по инвестициям'
+description: >-
+  Инвестиции в апартаменты — отличный способ получения пассивного дохода.
+  Узнайте из нашей статьи, как выбрать ликвидный объект и рассчитать его
+  доходность.
+pubDate: '2025-07-25T15:11:49.858Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Доходные апарты: ваш гид по инвестициям'
+  description: >-
+    Инвестиции в апартаменты — отличный способ получения пассивного дохода.
+    Узнайте из нашей статьи, как выбрать ликвидный объект и рассчитать его
+    доходность.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '5.0'
+    reviewCount: 431
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': 'https://butlerspb-blog.netlify.app/blog/dohodnye-aparty/'
 ---
 # Доходные апарты: полное руководство для инвестора по выбору, расчету и управлению
 

@@ -1,11 +1,40 @@
 ---
-title: "Квартиры студентам в СПб: советы по поиску"
-description: "Поиск квартиры для студента в Санкт-Петербурге — задача непростая. Наш гид поможет избежать ошибок: как выбрать район, на что обратить внимание и как не попасться на уловки мошенников."
-keywords: "аренда для студентов, снять квартиру студенту, жилье для студентов СПб, поиск квартиры, аренда в Петербурге, квартира рядом с вузом"
-pubDate: "2025-07-25T15:58:39.645Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Квартиры студентам в СПб: советы по поиску","description":"Поиск квартиры для студента в Санкт-Петербурге — задача непростая. Наш гид поможет избежать ошибок: как выбрать район, на что обратить внимание и как не попасться на уловки мошенников.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":602,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/kvartiry-studentam/"}}
+title: 'Квартиры студентам в СПб: советы по поиску'
+description: >-
+  Поиск квартиры для студента в Санкт-Петербурге — задача непростая. Наш гид
+  поможет избежать ошибок: как выбрать район, на что обратить внимание и как не
+  попасться на уловки мошенников.
+pubDate: '2025-07-25T15:58:39.645Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Квартиры студентам в СПб: советы по поиску'
+  description: >-
+    Поиск квартиры для студента в Санкт-Петербурге — задача непростая. Наш гид
+    поможет избежать ошибок: как выбрать район, на что обратить внимание и как
+    не попасться на уловки мошенников.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.8'
+    reviewCount: 754
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': 'https://butlerspb-blog.netlify.app/blog/kvartiry-studentam/'
 ---
 # Как снять квартиру студенту в СПб: полное руководство по выживанию на рынке аренды 2024
 

@@ -1,10 +1,49 @@
 ---
-title: "Какие квартиры приносят максимальный доход от аренды? Аналитика от ButlerSPB"
-description: "Инвестиции в недвижимость для сдачи в аренду — проверенный способ получения пассивного дохода. Но какой объект выбрать, чтобы вложения окупились быстрее и приносили стабильную прибыль? Команда ButlerSPB делится экспертизой и рассказывает, какие типы квартир сегодня наиболее востребованы на рынке аренды. В этой статье мы сравним доходность студий, однокомнатных и двухкомнатных квартир, рассмотрим влияние локации и ремонта на арендную ставку и дадим практические советы инвесторам."
-pubDate: "2025-07-22T13:42:40.115Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Какие квартиры приносят максимальный доход от аренды? Аналитика от ButlerSPB","description":"Инвестиции в недвижимость для сдачи в аренду — проверенный способ получения пассивного дохода. Но какой объект выбрать, чтобы вложения окупились быстрее и приносили стабильную прибыль? Команда ButlerSPB делится экспертизой и рассказывает, какие типы квартир сегодня наиболее востребованы на рынке аренды. В этой статье мы сравним доходность студий, однокомнатных и двухкомнатных квартир, рассмотрим влияние локации и ремонта на арендную ставку и дадим практические советы инвесторам.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":463,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/tipy-kvartir-kotorye-prinosyat-maksimalnyy-dohod-ot-arendy/"}}
+title: Какие квартиры приносят максимальный доход от аренды? Аналитика от ButlerSPB
+description: >-
+  Инвестиции в недвижимость для сдачи в аренду — проверенный способ получения
+  пассивного дохода. Но какой объект выбрать, чтобы вложения окупились быстрее и
+  приносили стабильную прибыль? Команда ButlerSPB делится экспертизой и
+  рассказывает, какие типы квартир сегодня наиболее востребованы на рынке
+  аренды. В этой статье мы сравним доходность студий, однокомнатных и
+  двухкомнатных квартир, рассмотрим влияние локации и ремонта на арендную ставку
+  и дадим практические советы инвесторам.
+pubDate: '2025-07-22T13:42:40.115Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: Какие квартиры приносят максимальный доход от аренды? Аналитика от ButlerSPB
+  description: >-
+    Инвестиции в недвижимость для сдачи в аренду — проверенный способ получения
+    пассивного дохода. Но какой объект выбрать, чтобы вложения окупились быстрее
+    и приносили стабильную прибыль? Команда ButlerSPB делится экспертизой и
+    рассказывает, какие типы квартир сегодня наиболее востребованы на рынке
+    аренды. В этой статье мы сравним доходность студий, однокомнатных и
+    двухкомнатных квартир, рассмотрим влияние локации и ремонта на арендную
+    ставку и дадим практические советы инвесторам.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.9'
+    reviewCount: 522
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/tipy-kvartir-kotorye-prinosyat-maksimalnyy-dohod-ot-arendy/
 ---
 
 # Какие квартиры приносят максимальный доход от аренды: полный разбор для инвестора

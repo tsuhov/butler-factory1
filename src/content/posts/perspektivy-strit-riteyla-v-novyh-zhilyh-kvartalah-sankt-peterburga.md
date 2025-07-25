@@ -1,10 +1,45 @@
 ---
-title: "Перспективы стрит-ритейла в новых жилых кварталах Санкт-Петербурга"
-description: "Анализируем, как развивается стрит-ритейл в новых жилых комплексах Санкт-Петербурга. Какие форматы коммерческих помещений наиболее востребованы, с какими вызовами сталкиваются предприниматели и какие районы города открывают лучшие возможности для бизнеса? В новой статье блога ButlerSPB разбираем ключевые тренды и даем прогнозы на будущее."
-pubDate: "2025-07-23T12:04:53.608Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Перспективы стрит-ритейла в новых жилых кварталах Санкт-Петербурга","description":"Анализируем, как развивается стрит-ритейл в новых жилых комплексах Санкт-Петербурга. Какие форматы коммерческих помещений наиболее востребованы, с какими вызовами сталкиваются предприниматели и какие районы города открывают лучшие возможности для бизнеса? В новой статье блога ButlerSPB разбираем ключевые тренды и даем прогнозы на будущее.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":695,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/perspektivy-strit-riteyla-v-novyh-zhilyh-kvartalah-sankt-peterburga/"}}
+title: Перспективы стрит-ритейла в новых жилых кварталах Санкт-Петербурга
+description: >-
+  Анализируем, как развивается стрит-ритейл в новых жилых комплексах
+  Санкт-Петербурга. Какие форматы коммерческих помещений наиболее востребованы,
+  с какими вызовами сталкиваются предприниматели и какие районы города открывают
+  лучшие возможности для бизнеса? В новой статье блога ButlerSPB разбираем
+  ключевые тренды и даем прогнозы на будущее.
+pubDate: '2025-07-23T12:04:53.608Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: Перспективы стрит-ритейла в новых жилых кварталах Санкт-Петербурга
+  description: >-
+    Анализируем, как развивается стрит-ритейл в новых жилых комплексах
+    Санкт-Петербурга. Какие форматы коммерческих помещений наиболее
+    востребованы, с какими вызовами сталкиваются предприниматели и какие районы
+    города открывают лучшие возможности для бизнеса? В новой статье блога
+    ButlerSPB разбираем ключевые тренды и даем прогнозы на будущее.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.9'
+    reviewCount: 828
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/perspektivy-strit-riteyla-v-novyh-zhilyh-kvartalah-sankt-peterburga/
 ---
 
 # Стрит-ритейл в новых ЖК Санкт-Петербурга: полный гид для инвестора и бизнеса в 2024-2025 гг.

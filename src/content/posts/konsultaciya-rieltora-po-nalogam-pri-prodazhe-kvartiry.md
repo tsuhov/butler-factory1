@@ -1,10 +1,51 @@
 ---
-title: "Налоги при продаже квартиры: зачем нужна консультация риэлтора и как сэкономить? | Блог ButlerSPB"
-description: "Продажа квартиры – это не только поиск покупателя и оформление документов, но и налоговые обязательства. В новой статье от ButlerSPB разбираемся, когда нужно платить НДФЛ, как рассчитывается налог, какие существуют льготы и вычеты, и почему профессиональная консультация риэлтора поможет избежать ошибок и сэкономить ваши деньги. Узнайте все о минимальном сроке владения, налоговой базе и правильном заполнении декларации."
-pubDate: "2025-07-22T20:16:31.079Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Налоги при продаже квартиры: зачем нужна консультация риэлтора и как сэкономить? | Блог ButlerSPB","description":"Продажа квартиры – это не только поиск покупателя и оформление документов, но и налоговые обязательства. В новой статье от ButlerSPB разбираемся, когда нужно платить НДФЛ, как рассчитывается налог, какие существуют льготы и вычеты, и почему профессиональная консультация риэлтора поможет избежать ошибок и сэкономить ваши деньги. Узнайте все о минимальном сроке владения, налоговой базе и правильном заполнении декларации.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.8","reviewCount":867,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/konsultaciya-rieltora-po-nalogam-pri-prodazhe-kvartiry/"}}
+title: >-
+  Налоги при продаже квартиры: зачем нужна консультация риэлтора и как
+  сэкономить? | Блог ButlerSPB
+description: >-
+  Продажа квартиры – это не только поиск покупателя и оформление документов, но
+  и налоговые обязательства. В новой статье от ButlerSPB разбираемся, когда
+  нужно платить НДФЛ, как рассчитывается налог, какие существуют льготы и
+  вычеты, и почему профессиональная консультация риэлтора поможет избежать
+  ошибок и сэкономить ваши деньги. Узнайте все о минимальном сроке владения,
+  налоговой базе и правильном заполнении декларации.
+pubDate: '2025-07-22T20:16:31.079Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: >-
+    Налоги при продаже квартиры: зачем нужна консультация риэлтора и как
+    сэкономить? | Блог ButlerSPB
+  description: >-
+    Продажа квартиры – это не только поиск покупателя и оформление документов,
+    но и налоговые обязательства. В новой статье от ButlerSPB разбираемся, когда
+    нужно платить НДФЛ, как рассчитывается налог, какие существуют льготы и
+    вычеты, и почему профессиональная консультация риэлтора поможет избежать
+    ошибок и сэкономить ваши деньги. Узнайте все о минимальном сроке владения,
+    налоговой базе и правильном заполнении декларации.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.8'
+    reviewCount: 884
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/konsultaciya-rieltora-po-nalogam-pri-prodazhe-kvartiry/
 ---
 
 # Все о налогах при продаже квартиры в 2024 году: когда платить, как считать и можно ли не платить?

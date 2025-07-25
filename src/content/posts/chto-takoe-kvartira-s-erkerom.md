@@ -1,11 +1,40 @@
 ---
-title: "Квартира с эркером: что это и в чем плюсы?"
-description: "Узнайте все о квартирах с эркером. Это архитектурный элемент, который увеличивает пространство, наполняет его светом и создает уникальные возможности для дизайна."
-keywords: "эркер, квартира с эркером, планировка квартиры, дизайн интерьера, панорамные окна, недвижимость СПБ"
-pubDate: "2025-07-24T12:04:59.885Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Квартира с эркером: что это и в чем плюсы?","description":"Узнайте все о квартирах с эркером. Это архитектурный элемент, который увеличивает пространство, наполняет его светом и создает уникальные возможности для дизайна.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.8","reviewCount":611,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/chto-takoe-kvartira-s-erkerom/"}}
+title: 'Квартира с эркером: что это и в чем плюсы?'
+description: >-
+  Узнайте все о квартирах с эркером. Это архитектурный элемент, который
+  увеличивает пространство, наполняет его светом и создает уникальные
+  возможности для дизайна.
+pubDate: '2025-07-24T12:04:59.885Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Квартира с эркером: что это и в чем плюсы?'
+  description: >-
+    Узнайте все о квартирах с эркером. Это архитектурный элемент, который
+    увеличивает пространство, наполняет его светом и создает уникальные
+    возможности для дизайна.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.7'
+    reviewCount: 604
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': 'https://butlerspb-blog.netlify.app/blog/chto-takoe-kvartira-s-erkerom/'
 ---
 # Квартира с эркером: архитектурная жемчужина Петербурга или головная боль для дизайнера?
 

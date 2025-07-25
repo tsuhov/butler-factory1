@@ -1,11 +1,40 @@
 ---
-title: "Сдача загородного дома: инструкция от ButlerSPB"
-description: "Хотите выгодно сдать свой загородный дом в аренду? Наша статья поможет правильно подготовить недвижимость, определить цену и найти идеальных жильцов. Советы экспертов."
-keywords: "сдать дом, аренда загородного дома, управление недвижимостью, ButlerSPB, доходный дом, аренда дачи"
-pubDate: "2025-07-25T15:10:01.326Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Сдача загородного дома: инструкция от ButlerSPB","description":"Хотите выгодно сдать свой загородный дом в аренду? Наша статья поможет правильно подготовить недвижимость, определить цену и найти идеальных жильцов. Советы экспертов.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.8","reviewCount":483,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/sdacha-zagorodnogo/"}}
+title: 'Сдача загородного дома: инструкция от ButlerSPB'
+description: >-
+  Хотите выгодно сдать свой загородный дом в аренду? Наша статья поможет
+  правильно подготовить недвижимость, определить цену и найти идеальных жильцов.
+  Советы экспертов.
+pubDate: '2025-07-25T15:10:01.326Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Сдача загородного дома: инструкция от ButlerSPB'
+  description: >-
+    Хотите выгодно сдать свой загородный дом в аренду? Наша статья поможет
+    правильно подготовить недвижимость, определить цену и найти идеальных
+    жильцов. Советы экспертов.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '5.0'
+    reviewCount: 542
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': 'https://butlerspb-blog.netlify.app/blog/sdacha-zagorodnogo/'
 ---
 # Как сдать загородный дом в аренду: от головной боли к стабильному пассивному доходу
 

@@ -1,10 +1,49 @@
 ---
-title: "Договор с риэлтором на поиск квартиры: на что обратить внимание — гайд от ButlerSPB"
-description: "Собираетесь подписать договор с агентом по недвижимости на поиск квартиры? Не торопитесь! В этом материале команда ButlerSPB разбирает все 'подводные камни': от предмета договора и размера комиссии до эксклюзивных прав и условий расторжения. Узнайте, как защитить свои интересы и сделать сотрудничество с риэлтором максимально прозрачным и эффективным."
-pubDate: "2025-07-22T11:35:50.838Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Договор с риэлтором на поиск квартиры: на что обратить внимание — гайд от ButlerSPB","description":"Собираетесь подписать договор с агентом по недвижимости на поиск квартиры? Не торопитесь! В этом материале команда ButlerSPB разбирает все 'подводные камни': от предмета договора и размера комиссии до эксклюзивных прав и условий расторжения. Узнайте, как защитить свои интересы и сделать сотрудничество с риэлтором максимально прозрачным и эффективным.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":686,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/dogovor-s-rieltorom-na-poisk-kvartiry-na-chto-obratit-vnimanie/"}}
+title: >-
+  Договор с риэлтором на поиск квартиры: на что обратить внимание — гайд от
+  ButlerSPB
+description: >-
+  Собираетесь подписать договор с агентом по недвижимости на поиск квартиры? Не
+  торопитесь! В этом материале команда ButlerSPB разбирает все 'подводные
+  камни': от предмета договора и размера комиссии до эксклюзивных прав и условий
+  расторжения. Узнайте, как защитить свои интересы и сделать сотрудничество с
+  риэлтором максимально прозрачным и эффективным.
+pubDate: '2025-07-22T11:35:50.838Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: >-
+    Договор с риэлтором на поиск квартиры: на что обратить внимание — гайд от
+    ButlerSPB
+  description: >-
+    Собираетесь подписать договор с агентом по недвижимости на поиск квартиры?
+    Не торопитесь! В этом материале команда ButlerSPB разбирает все 'подводные
+    камни': от предмета договора и размера комиссии до эксклюзивных прав и
+    условий расторжения. Узнайте, как защитить свои интересы и сделать
+    сотрудничество с риэлтором максимально прозрачным и эффективным.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.8'
+    reviewCount: 506
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/dogovor-s-rieltorom-na-poisk-kvartiry-na-chto-obratit-vnimanie/
 ---
 
 # Договор с риэлтором на поиск квартиры: полное руководство по защите ваших интересов

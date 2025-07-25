@@ -1,11 +1,39 @@
 ---
-title: "Доход от сдачи квартиры: как максимизировать"
-description: "Узнайте, как превратить вашу недвижимость в источник стабильного пассивного дохода. ButlerSPB делится советами по управлению арендой и увеличению прибыли."
-keywords: "доход от аренды, сдать квартиру, пассивный доход, управление недвижимостью, инвестиции в недвижимость, ButlerSPB, аренда спб"
-pubDate: "2025-07-25T15:49:52.757Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Доход от сдачи квартиры: как максимизировать","description":"Узнайте, как превратить вашу недвижимость в источник стабильного пассивного дохода. ButlerSPB делится советами по управлению арендой и увеличению прибыли.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.7","reviewCount":860,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/dohod-ot/"}}
+title: 'Доход от сдачи квартиры: как максимизировать'
+description: >-
+  Узнайте, как превратить вашу недвижимость в источник стабильного пассивного
+  дохода. ButlerSPB делится советами по управлению арендой и увеличению прибыли.
+pubDate: '2025-07-25T15:49:52.757Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Доход от сдачи квартиры: как максимизировать'
+  description: >-
+    Узнайте, как превратить вашу недвижимость в источник стабильного пассивного
+    дохода. ButlerSPB делится советами по управлению арендой и увеличению
+    прибыли.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.8'
+    reviewCount: 785
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': 'https://butlerspb-blog.netlify.app/blog/dohod-ot/'
 ---
 # Доход от сдачи квартиры в Санкт-Петербурге: полный расчет, скрытые расходы и 7 способов его увеличить в 2024 году
 

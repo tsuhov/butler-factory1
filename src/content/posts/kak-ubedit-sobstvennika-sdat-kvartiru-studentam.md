@@ -1,10 +1,51 @@
 ---
-title: "Студенты — не приговор для квартиры: как убедить собственника и сдать жилье выгодно"
-description: "Многие собственники с опаской относятся к идее сдать квартиру студентам, представляя бесконечные вечеринки и испорченное имущество. В новой статье блога ButlerSPB мы развенчиваем эти мифы и даем практические советы, как студенту представить себя надежным арендатором, а собственнику — заключить безопасную и долгосрочную сделку. Узнайте, какие аргументы работают и как договор с родителями может стать вашим главным козырем."
-pubDate: "2025-07-22T11:38:52.772Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Студенты — не приговор для квартиры: как убедить собственника и сдать жилье выгодно","description":"Многие собственники с опаской относятся к идее сдать квартиру студентам, представляя бесконечные вечеринки и испорченное имущество. В новой статье блога ButlerSPB мы развенчиваем эти мифы и даем практические советы, как студенту представить себя надежным арендатором, а собственнику — заключить безопасную и долгосрочную сделку. Узнайте, какие аргументы работают и как договор с родителями может стать вашим главным козырем.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.8","reviewCount":761,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/kak-ubedit-sobstvennika-sdat-kvartiru-studentam/"}}
+title: >-
+  Студенты — не приговор для квартиры: как убедить собственника и сдать жилье
+  выгодно
+description: >-
+  Многие собственники с опаской относятся к идее сдать квартиру студентам,
+  представляя бесконечные вечеринки и испорченное имущество. В новой статье
+  блога ButlerSPB мы развенчиваем эти мифы и даем практические советы, как
+  студенту представить себя надежным арендатором, а собственнику — заключить
+  безопасную и долгосрочную сделку. Узнайте, какие аргументы работают и как
+  договор с родителями может стать вашим главным козырем.
+pubDate: '2025-07-22T11:38:52.772Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: >-
+    Студенты — не приговор для квартиры: как убедить собственника и сдать жилье
+    выгодно
+  description: >-
+    Многие собственники с опаской относятся к идее сдать квартиру студентам,
+    представляя бесконечные вечеринки и испорченное имущество. В новой статье
+    блога ButlerSPB мы развенчиваем эти мифы и даем практические советы, как
+    студенту представить себя надежным арендатором, а собственнику — заключить
+    безопасную и долгосрочную сделку. Узнайте, какие аргументы работают и как
+    договор с родителями может стать вашим главным козырем.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '5.0'
+    reviewCount: 642
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/kak-ubedit-sobstvennika-sdat-kvartiru-studentam/
 ---
 
 # Как сдать квартиру студентам в СПб и не пожалеть: полное руководство для собственника

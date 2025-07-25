@@ -1,10 +1,49 @@
 ---
-title: "Путешествуем налегке: лучшие маршруты из Петербурга на электричке и автобусе"
-description: "Хотите сменить обстановку на выходные, не прибегая к помощи автомобиля? Блог ButlerSPB подготовил для вас подборку увлекательных маршрутов по Ленинградской области, куда можно легко добраться на общественном транспорте. Откройте для себя старинные крепости Выборга, дворцовые ансамбли пригородов и живописные берега Финского залива. Вдохновляйтесь на спонтанное приключение, а мы позаботимся о вашем комфортном возвращении в уютные апартаменты в Санкт-Петербурге."
-pubDate: "2025-07-22T11:48:19.147Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Путешествуем налегке: лучшие маршруты из Петербурга на электричке и автобусе","description":"Хотите сменить обстановку на выходные, не прибегая к помощи автомобиля? Блог ButlerSPB подготовил для вас подборку увлекательных маршрутов по Ленинградской области, куда можно легко добраться на общественном транспорте. Откройте для себя старинные крепости Выборга, дворцовые ансамбли пригородов и живописные берега Финского залива. Вдохновляйтесь на спонтанное приключение, а мы позаботимся о вашем комфортном возвращении в уютные апартаменты в Санкт-Петербурге.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.8","reviewCount":328,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/luchshie-marshruty-dlya-samostoyatelnyh-puteshestviy-na-elektrichke-ili-avtobuse/"}}
+title: 'Путешествуем налегке: лучшие маршруты из Петербурга на электричке и автобусе'
+description: >-
+  Хотите сменить обстановку на выходные, не прибегая к помощи автомобиля? Блог
+  ButlerSPB подготовил для вас подборку увлекательных маршрутов по Ленинградской
+  области, куда можно легко добраться на общественном транспорте. Откройте для
+  себя старинные крепости Выборга, дворцовые ансамбли пригородов и живописные
+  берега Финского залива. Вдохновляйтесь на спонтанное приключение, а мы
+  позаботимся о вашем комфортном возвращении в уютные апартаменты в
+  Санкт-Петербурге.
+pubDate: '2025-07-22T11:48:19.147Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Путешествуем налегке: лучшие маршруты из Петербурга на электричке и автобусе'
+  description: >-
+    Хотите сменить обстановку на выходные, не прибегая к помощи автомобиля? Блог
+    ButlerSPB подготовил для вас подборку увлекательных маршрутов по
+    Ленинградской области, куда можно легко добраться на общественном
+    транспорте. Откройте для себя старинные крепости Выборга, дворцовые ансамбли
+    пригородов и живописные берега Финского залива. Вдохновляйтесь на спонтанное
+    приключение, а мы позаботимся о вашем комфортном возвращении в уютные
+    апартаменты в Санкт-Петербурге.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.8'
+    reviewCount: 408
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/luchshie-marshruty-dlya-samostoyatelnyh-puteshestviy-na-elektrichke-ili-avtobuse/
 ---
 
 # Побег из города: лучшие маршруты для путешествий из Петербурга на электричке и автобусе

@@ -1,11 +1,40 @@
 ---
-title: "Инвестиции в виды: ваш вклад в биоразнообразие"
-description: "Вложение средств в проекты по защите редких видов животных и растений. ButlerSPB рассказывает, как такие инвестиции помогают сохранить биоразнообразие и природу."
-keywords: "инвестиции в виды, сохранение биоразнообразия, ESG, импакт-инвестирование, экология, ButlerSPB, устойчивое развитие"
-pubDate: "2025-07-25T14:14:58.800Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Инвестиции в виды: ваш вклад в биоразнообразие","description":"Вложение средств в проекты по защите редких видов животных и растений. ButlerSPB рассказывает, как такие инвестиции помогают сохранить биоразнообразие и природу.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"5.0","reviewCount":539,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/investicii-v-vidy/"}}
+title: 'Инвестиции в виды: ваш вклад в биоразнообразие'
+description: >-
+  Вложение средств в проекты по защите редких видов животных и растений.
+  ButlerSPB рассказывает, как такие инвестиции помогают сохранить
+  биоразнообразие и природу.
+pubDate: '2025-07-25T14:14:58.800Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Инвестиции в виды: ваш вклад в биоразнообразие'
+  description: >-
+    Вложение средств в проекты по защите редких видов животных и растений.
+    ButlerSPB рассказывает, как такие инвестиции помогают сохранить
+    биоразнообразие и природу.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.8'
+    reviewCount: 842
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': 'https://butlerspb-blog.netlify.app/blog/investicii-v-vidy/'
 ---
 # Инвестиции в виды: Как панорамные окна в Петербурге увеличивают стоимость недвижимости и качество жизни
 

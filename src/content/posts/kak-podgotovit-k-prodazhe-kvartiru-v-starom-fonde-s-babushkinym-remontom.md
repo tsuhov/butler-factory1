@@ -1,10 +1,50 @@
 ---
-title: "Как подготовить к продаже квартиру с «бабушкиным» ремонтом: пошаговая инструкция от ButlerSPB"
-description: "Квартира в старом фонде — это не приговор, а возможность. Рассказываем, как с минимальными вложениями превратить уставшую квартиру с «бабушкиным» ремонтом в привлекательный объект на рынке недвижимости. В статье вы найдете практические советы по расхламлению, легкому косметическому ремонту, хоумстейджингу и генеральной уборке, которые помогут продать жилье быстрее и выгоднее."
-pubDate: "2025-07-23T10:45:56.187Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Как подготовить к продаже квартиру с «бабушкиным» ремонтом: пошаговая инструкция от ButlerSPB","description":"Квартира в старом фонде — это не приговор, а возможность. Рассказываем, как с минимальными вложениями превратить уставшую квартиру с «бабушкиным» ремонтом в привлекательный объект на рынке недвижимости. В статье вы найдете практические советы по расхламлению, легкому косметическому ремонту, хоумстейджингу и генеральной уборке, которые помогут продать жилье быстрее и выгоднее.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.7","reviewCount":766,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/kak-podgotovit-k-prodazhe-kvartiru-v-starom-fonde-s-babushkinym-remontom/"}}
+title: >-
+  Как подготовить к продаже квартиру с «бабушкиным» ремонтом: пошаговая
+  инструкция от ButlerSPB
+description: >-
+  Квартира в старом фонде — это не приговор, а возможность. Рассказываем, как с
+  минимальными вложениями превратить уставшую квартиру с «бабушкиным» ремонтом в
+  привлекательный объект на рынке недвижимости. В статье вы найдете практические
+  советы по расхламлению, легкому косметическому ремонту, хоумстейджингу и
+  генеральной уборке, которые помогут продать жилье быстрее и выгоднее.
+pubDate: '2025-07-23T10:45:56.187Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: >-
+    Как подготовить к продаже квартиру с «бабушкиным» ремонтом: пошаговая
+    инструкция от ButlerSPB
+  description: >-
+    Квартира в старом фонде — это не приговор, а возможность. Рассказываем, как
+    с минимальными вложениями превратить уставшую квартиру с «бабушкиным»
+    ремонтом в привлекательный объект на рынке недвижимости. В статье вы найдете
+    практические советы по расхламлению, легкому косметическому ремонту,
+    хоумстейджингу и генеральной уборке, которые помогут продать жилье быстрее и
+    выгоднее.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.8'
+    reviewCount: 558
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/kak-podgotovit-k-prodazhe-kvartiru-v-starom-fonde-s-babushkinym-remontom/
 ---
 
 # Как подготовить к продаже квартиру в старом фонде с «бабушкиным» ремонтом: пошаговое руководство от экспертов ButlerSPB

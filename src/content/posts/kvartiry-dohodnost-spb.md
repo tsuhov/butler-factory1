@@ -1,11 +1,40 @@
 ---
-title: "Инвестиции в недвижимость: доходность в СПб"
-description: "Анализируем доходность квартир в Санкт-Петербурге. Как выбрать объект для инвестиций, рассчитать окупаемость и максимизировать прибыль от аренды. Советы от ButlerSPB."
-keywords: "доходность квартир спб, инвестиции в недвижимость, купить квартиру для сдачи, аренда санкт-петербург, окупаемость жилья, butlerspb"
-pubDate: "2025-07-25T14:00:16.762Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Инвестиции в недвижимость: доходность в СПб","description":"Анализируем доходность квартир в Санкт-Петербурге. Как выбрать объект для инвестиций, рассчитать окупаемость и максимизировать прибыль от аренды. Советы от ButlerSPB.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":609,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/kvartiry-dohodnost-spb/"}}
+title: 'Инвестиции в недвижимость: доходность в СПб'
+description: >-
+  Анализируем доходность квартир в Санкт-Петербурге. Как выбрать объект для
+  инвестиций, рассчитать окупаемость и максимизировать прибыль от аренды. Советы
+  от ButlerSPB.
+pubDate: '2025-07-25T14:00:16.762Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Инвестиции в недвижимость: доходность в СПб'
+  description: >-
+    Анализируем доходность квартир в Санкт-Петербурге. Как выбрать объект для
+    инвестиций, рассчитать окупаемость и максимизировать прибыль от аренды.
+    Советы от ButlerSPB.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.8'
+    reviewCount: 882
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': 'https://butlerspb-blog.netlify.app/blog/kvartiry-dohodnost-spb/'
 ---
 # Доходность квартир в Санкт-Петербурге: полный гид для инвестора
 

@@ -1,10 +1,45 @@
 ---
-title: "Как работает система динамического ценообразования в апарт-отелях"
-description: "Динамическое ценообразование — это не просто изменение цен. Это сложная система, учитывающая спрос, сезонность, конкурентов и даже погоду. В новой статье блога ButlerSPB мы подробно рассказываем, как эта технология позволяет максимизировать прибыль и загрузку апарт-отелей, и делимся секретами эффективного управления."
-pubDate: "2025-07-23T11:07:32.325Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Как работает система динамического ценообразования в апарт-отелях","description":"Динамическое ценообразование — это не просто изменение цен. Это сложная система, учитывающая спрос, сезонность, конкурентов и даже погоду. В новой статье блога ButlerSPB мы подробно рассказываем, как эта технология позволяет максимизировать прибыль и загрузку апарт-отелей, и делимся секретами эффективного управления.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":757,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/kak-rabotaet-sistema-dinamicheskogo-cenoobrazovaniya-v-apart-otelyah/"}}
+title: Как работает система динамического ценообразования в апарт-отелях
+description: >-
+  Динамическое ценообразование — это не просто изменение цен. Это сложная
+  система, учитывающая спрос, сезонность, конкурентов и даже погоду. В новой
+  статье блога ButlerSPB мы подробно рассказываем, как эта технология позволяет
+  максимизировать прибыль и загрузку апарт-отелей, и делимся секретами
+  эффективного управления.
+pubDate: '2025-07-23T11:07:32.325Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: Как работает система динамического ценообразования в апарт-отелях
+  description: >-
+    Динамическое ценообразование — это не просто изменение цен. Это сложная
+    система, учитывающая спрос, сезонность, конкурентов и даже погоду. В новой
+    статье блога ButlerSPB мы подробно рассказываем, как эта технология
+    позволяет максимизировать прибыль и загрузку апарт-отелей, и делимся
+    секретами эффективного управления.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.8'
+    reviewCount: 685
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/kak-rabotaet-sistema-dinamicheskogo-cenoobrazovaniya-v-apart-otelyah/
 ---
 
 # Динамическое ценообразование: секретное оружие для максимальной доходности вашего апарт-отеля

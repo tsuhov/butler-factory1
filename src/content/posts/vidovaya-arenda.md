@@ -1,11 +1,40 @@
 ---
-title: "Видовая аренда в Петербурге: лучшие виды"
-description: "Аренда видовой квартиры в Петербурге – это возможность каждый день наслаждаться панорамами города. ButlerSPB поможет найти жилье с видом на Неву, крыши или соборы."
-keywords: "видовая аренда, квартира с видом, аренда спб, ButlerSPB, недвижимость петербург, снять квартиру с видом"
-pubDate: "2025-07-25T14:59:42.419Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Видовая аренда в Петербурге: лучшие виды","description":"Аренда видовой квартиры в Петербурге – это возможность каждый день наслаждаться панорамами города. ButlerSPB поможет найти жилье с видом на Неву, крыши или соборы.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":589,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/vidovaya-arenda/"}}
+title: 'Видовая аренда в Петербурге: лучшие виды'
+description: >-
+  Аренда видовой квартиры в Петербурге – это возможность каждый день
+  наслаждаться панорамами города. ButlerSPB поможет найти жилье с видом на Неву,
+  крыши или соборы.
+pubDate: '2025-07-25T14:59:42.419Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Видовая аренда в Петербурге: лучшие виды'
+  description: >-
+    Аренда видовой квартиры в Петербурге – это возможность каждый день
+    наслаждаться панорамами города. ButlerSPB поможет найти жилье с видом на
+    Неву, крыши или соборы.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.8'
+    reviewCount: 786
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': 'https://butlerspb-blog.netlify.app/blog/vidovaya-arenda/'
 ---
 # Окно в Петербург: Все, что нужно знать о видовой аренде
 

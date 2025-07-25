@@ -1,11 +1,40 @@
 ---
-title: "Доходные квартиры: ваш пассивный доход в СПб"
-description: "Инвестирование в доходные квартиры в Санкт-Петербурге — надежный способ получения пассивного дохода. Узнайте, как выбрать объект и максимизировать прибыль с ButlerSPB."
-keywords: "доходные квартиры, инвестиции в недвижимость, пассивный доход, купить квартиру в СПб, управление недвижимостью, ButlerSPB"
-pubDate: "2025-07-25T16:23:11.964Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Доходные квартиры: ваш пассивный доход в СПб","description":"Инвестирование в доходные квартиры в Санкт-Петербурге — надежный способ получения пассивного дохода. Узнайте, как выбрать объект и максимизировать прибыль с ButlerSPB.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.8","reviewCount":313,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/kvartiry-dohodnye/"}}
+title: 'Доходные квартиры: ваш пассивный доход в СПб'
+description: >-
+  Инвестирование в доходные квартиры в Санкт-Петербурге — надежный способ
+  получения пассивного дохода. Узнайте, как выбрать объект и максимизировать
+  прибыль с ButlerSPB.
+pubDate: '2025-07-25T16:23:11.964Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Доходные квартиры: ваш пассивный доход в СПб'
+  description: >-
+    Инвестирование в доходные квартиры в Санкт-Петербурге — надежный способ
+    получения пассивного дохода. Узнайте, как выбрать объект и максимизировать
+    прибыль с ButlerSPB.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.9'
+    reviewCount: 394
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': 'https://butlerspb-blog.netlify.app/blog/kvartiry-dohodnye/'
 ---
 # Доходные квартиры как бизнес: полное руководство для инвестора в Санкт-Петербурге
 

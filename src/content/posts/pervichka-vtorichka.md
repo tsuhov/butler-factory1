@@ -1,11 +1,39 @@
 ---
-title: "Новостройка или вторичка: все плюсы и минусы"
-description: "Сравнение первичного и вторичного жилья в Санкт-Петербурге. Разбираем плюсы и минусы новостроек и готовых квартир, чтобы вы смогли сделать правильный выбор."
-keywords: "первичка, вторичка, новостройка, купить квартиру, недвижимость спб, выбор квартиры, butlerspb"
-pubDate: "2025-07-25T16:03:38.380Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Новостройка или вторичка: все плюсы и минусы","description":"Сравнение первичного и вторичного жилья в Санкт-Петербурге. Разбираем плюсы и минусы новостроек и готовых квартир, чтобы вы смогли сделать правильный выбор.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.7","reviewCount":880,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/pervichka-vtorichka/"}}
+title: 'Новостройка или вторичка: все плюсы и минусы'
+description: >-
+  Сравнение первичного и вторичного жилья в Санкт-Петербурге. Разбираем плюсы и
+  минусы новостроек и готовых квартир, чтобы вы смогли сделать правильный выбор.
+pubDate: '2025-07-25T16:03:38.380Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Новостройка или вторичка: все плюсы и минусы'
+  description: >-
+    Сравнение первичного и вторичного жилья в Санкт-Петербурге. Разбираем плюсы
+    и минусы новостроек и готовых квартир, чтобы вы смогли сделать правильный
+    выбор.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.9'
+    reviewCount: 392
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': 'https://butlerspb-blog.netlify.app/blog/pervichka-vtorichka/'
 ---
 # Новостройка vs. Вторичка: Великая битва за квадратные метры в Петербурге
 

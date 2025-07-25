@@ -1,10 +1,49 @@
 ---
-title: "Ретриты и семинары за городом: анализ спроса на аренду домов"
-description: "В новой статье блога ButlerSPB мы исследуем растущий тренд на выездные мероприятия. Анализируем, какие дома и коттеджи наиболее востребованы для проведения ретритов, тренингов и корпоративных семинаров, и какие требования арендаторы предъявляют к объектам. Разбираем ключевые факторы: от количества спальных мест и наличия большого зала до технического оснащения и близости к природе. Статья будет полезна как организаторам, так и владельцам загородной недвижимости."
-pubDate: "2025-07-23T12:06:57.782Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Ретриты и семинары за городом: анализ спроса на аренду домов","description":"В новой статье блога ButlerSPB мы исследуем растущий тренд на выездные мероприятия. Анализируем, какие дома и коттеджи наиболее востребованы для проведения ретритов, тренингов и корпоративных семинаров, и какие требования арендаторы предъявляют к объектам. Разбираем ключевые факторы: от количества спальных мест и наличия большого зала до технического оснащения и близости к природе. Статья будет полезна как организаторам, так и владельцам загородной недвижимости.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":610,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/analiz-sprosa-na-arendu-domov-dlya-provedeniya-retritov-i-seminarov/"}}
+title: 'Ретриты и семинары за городом: анализ спроса на аренду домов'
+description: >-
+  В новой статье блога ButlerSPB мы исследуем растущий тренд на выездные
+  мероприятия. Анализируем, какие дома и коттеджи наиболее востребованы для
+  проведения ретритов, тренингов и корпоративных семинаров, и какие требования
+  арендаторы предъявляют к объектам. Разбираем ключевые факторы: от количества
+  спальных мест и наличия большого зала до технического оснащения и близости к
+  природе. Статья будет полезна как организаторам, так и владельцам загородной
+  недвижимости.
+pubDate: '2025-07-23T12:06:57.782Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Ретриты и семинары за городом: анализ спроса на аренду домов'
+  description: >-
+    В новой статье блога ButlerSPB мы исследуем растущий тренд на выездные
+    мероприятия. Анализируем, какие дома и коттеджи наиболее востребованы для
+    проведения ретритов, тренингов и корпоративных семинаров, и какие требования
+    арендаторы предъявляют к объектам. Разбираем ключевые факторы: от количества
+    спальных мест и наличия большого зала до технического оснащения и близости к
+    природе. Статья будет полезна как организаторам, так и владельцам загородной
+    недвижимости.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.7'
+    reviewCount: 742
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/analiz-sprosa-na-arendu-domov-dlya-provedeniya-retritov-i-seminarov/
 ---
 
 # Ретриты, семинары, мастер-классы: новый источник высокого дохода для владельца загородного дома

@@ -1,10 +1,47 @@
 ---
-title: "Обмен с выгодой: как оценить инвестиционную привлекательность квартиры"
-description: "Планируете обмен квартиры и хотите, чтобы новая недвижимость стала не только уютным домом, но и выгодным активом? В гайде от ButlerSPB разбираем ключевые критерии оценки инвестиционной привлекательности: от анализа локации и транспортной доступности до потенциала роста стоимости и ликвидности объекта на рынке. Узнайте, на что обратить внимание, чтобы ваша сделка по обмену была максимально успешной и перспективной."
-pubDate: "2025-07-22T13:44:57.885Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Обмен с выгодой: как оценить инвестиционную привлекательность квартиры","description":"Планируете обмен квартиры и хотите, чтобы новая недвижимость стала не только уютным домом, но и выгодным активом? В гайде от ButlerSPB разбираем ключевые критерии оценки инвестиционной привлекательности: от анализа локации и транспортной доступности до потенциала роста стоимости и ликвидности объекта на рынке. Узнайте, на что обратить внимание, чтобы ваша сделка по обмену была максимально успешной и перспективной.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.8","reviewCount":799,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/kak-ocenit-investicionnuyu-privlekatelnost-kvartiry-pri-obmene/"}}
+title: 'Обмен с выгодой: как оценить инвестиционную привлекательность квартиры'
+description: >-
+  Планируете обмен квартиры и хотите, чтобы новая недвижимость стала не только
+  уютным домом, но и выгодным активом? В гайде от ButlerSPB разбираем ключевые
+  критерии оценки инвестиционной привлекательности: от анализа локации и
+  транспортной доступности до потенциала роста стоимости и ликвидности объекта
+  на рынке. Узнайте, на что обратить внимание, чтобы ваша сделка по обмену была
+  максимально успешной и перспективной.
+pubDate: '2025-07-22T13:44:57.885Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Обмен с выгодой: как оценить инвестиционную привлекательность квартиры'
+  description: >-
+    Планируете обмен квартиры и хотите, чтобы новая недвижимость стала не только
+    уютным домом, но и выгодным активом? В гайде от ButlerSPB разбираем ключевые
+    критерии оценки инвестиционной привлекательности: от анализа локации и
+    транспортной доступности до потенциала роста стоимости и ликвидности объекта
+    на рынке. Узнайте, на что обратить внимание, чтобы ваша сделка по обмену
+    была максимально успешной и перспективной.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.9'
+    reviewCount: 859
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/kak-ocenit-investicionnuyu-privlekatelnost-kvartiry-pri-obmene/
 ---
 
 # Обмен квартиры как инвестиция: Полное руководство по оценке привлекательности нового жилья

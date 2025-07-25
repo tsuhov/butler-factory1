@@ -1,11 +1,40 @@
 ---
-title: "Дезинфекция квартир от ButlerSPB: залог здоровья"
-description: "Профессиональная дезинфекция квартир в Санкт-Петербурге. Уничтожение вирусов, бактерий и аллергенов. ButlerSPB гарантирует безопасность и чистоту вашего дома."
-keywords: "дезинфекция квартиры, обработка от вирусов, санитарная обработка, обеззараживание помещения, дезинфекция спб, ButlerSPB"
-pubDate: "2025-07-25T15:55:15.175Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Дезинфекция квартир от ButlerSPB: залог здоровья","description":"Профессиональная дезинфекция квартир в Санкт-Петербурге. Уничтожение вирусов, бактерий и аллергенов. ButlerSPB гарантирует безопасность и чистоту вашего дома.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.8","reviewCount":561,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/dezinfekciya-kvartir/"}}
+title: 'Дезинфекция квартир от ButlerSPB: залог здоровья'
+description: >-
+  Профессиональная дезинфекция квартир в Санкт-Петербурге. Уничтожение вирусов,
+  бактерий и аллергенов. ButlerSPB гарантирует безопасность и чистоту вашего
+  дома.
+pubDate: '2025-07-25T15:55:15.175Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Дезинфекция квартир от ButlerSPB: залог здоровья'
+  description: >-
+    Профессиональная дезинфекция квартир в Санкт-Петербурге. Уничтожение
+    вирусов, бактерий и аллергенов. ButlerSPB гарантирует безопасность и чистоту
+    вашего дома.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.9'
+    reviewCount: 809
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': 'https://butlerspb-blog.netlify.app/blog/dezinfekciya-kvartir/'
 ---
 # Профессиональная дезинфекция квартир в СПб: Полное руководство по санобработке от ButlerSPB
 

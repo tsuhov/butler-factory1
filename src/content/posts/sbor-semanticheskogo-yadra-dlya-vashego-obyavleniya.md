@@ -1,10 +1,49 @@
 ---
-title: "Сбор семантического ядра для вашего объявления: пошаговая инструкция от ButlerSPB"
-description: "Хотите, чтобы вашу рекламу видели только заинтересованные клиенты? Узнайте, как правильно собрать и сгруппировать семантическое ядро для рекламной кампании. В нашей статье вы найдете пошаговый план, полезные инструменты и советы по работе с ключевыми словами для максимальной эффективности вашего объявления."
-pubDate: "2025-07-22T11:29:19.428Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Сбор семантического ядра для вашего объявления: пошаговая инструкция от ButlerSPB","description":"Хотите, чтобы вашу рекламу видели только заинтересованные клиенты? Узнайте, как правильно собрать и сгруппировать семантическое ядро для рекламной кампании. В нашей статье вы найдете пошаговый план, полезные инструменты и советы по работе с ключевыми словами для максимальной эффективности вашего объявления.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.7","reviewCount":624,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/sbor-semanticheskogo-yadra-dlya-vashego-obyavleniya/"}}
+title: >-
+  Сбор семантического ядра для вашего объявления: пошаговая инструкция от
+  ButlerSPB
+description: >-
+  Хотите, чтобы вашу рекламу видели только заинтересованные клиенты? Узнайте,
+  как правильно собрать и сгруппировать семантическое ядро для рекламной
+  кампании. В нашей статье вы найдете пошаговый план, полезные инструменты и
+  советы по работе с ключевыми словами для максимальной эффективности вашего
+  объявления.
+pubDate: '2025-07-22T11:29:19.428Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: >-
+    Сбор семантического ядра для вашего объявления: пошаговая инструкция от
+    ButlerSPB
+  description: >-
+    Хотите, чтобы вашу рекламу видели только заинтересованные клиенты? Узнайте,
+    как правильно собрать и сгруппировать семантическое ядро для рекламной
+    кампании. В нашей статье вы найдете пошаговый план, полезные инструменты и
+    советы по работе с ключевыми словами для максимальной эффективности вашего
+    объявления.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.8'
+    reviewCount: 664
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/sbor-semanticheskogo-yadra-dlya-vashego-obyavleniya/
 ---
 
 # Собираем семантическое ядро для рекламы: полное руководство по привлечению «горячих» клиентов

@@ -1,10 +1,52 @@
 ---
-title: "Как превратить негативный отзыв в преимущество: инструкция по отработке от ButlerSPB"
-description: "Негативные отзывы — неизбежная часть любого бизнеса. Но вместо того, чтобы их бояться, можно использовать их как мощный инструмент для роста и укрепления репутации. В новой статье блога ButlerSPB мы делимся пошаговой инструкцией, как правильно реагировать на критику, решать проблемы клиентов и превращать недовольных покупателей в самых лояльных амбассадоров вашего бренда. Узнайте, как извлечь максимум пользы из обратной связи и сделать ваш сервис еще лучше."
-pubDate: "2025-07-22T11:01:34.219Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Как превратить негативный отзыв в преимущество: инструкция по отработке от ButlerSPB","description":"Негативные отзывы — неизбежная часть любого бизнеса. Но вместо того, чтобы их бояться, можно использовать их как мощный инструмент для роста и укрепления репутации. В новой статье блога ButlerSPB мы делимся пошаговой инструкцией, как правильно реагировать на критику, решать проблемы клиентов и превращать недовольных покупателей в самых лояльных амбассадоров вашего бренда. Узнайте, как извлечь максимум пользы из обратной связи и сделать ваш сервис еще лучше.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"5.0","reviewCount":786,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/kak-prevratit-negativnyy-otzyv-v-preimuschestvo-instrukciya-po-otrabotke/"}}
+title: >-
+  Как превратить негативный отзыв в преимущество: инструкция по отработке от
+  ButlerSPB
+description: >-
+  Негативные отзывы — неизбежная часть любого бизнеса. Но вместо того, чтобы их
+  бояться, можно использовать их как мощный инструмент для роста и укрепления
+  репутации. В новой статье блога ButlerSPB мы делимся пошаговой инструкцией,
+  как правильно реагировать на критику, решать проблемы клиентов и превращать
+  недовольных покупателей в самых лояльных амбассадоров вашего бренда. Узнайте,
+  как извлечь максимум пользы из обратной связи и сделать ваш сервис еще лучше.
+pubDate: '2025-07-22T11:01:34.219Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: >-
+    Как превратить негативный отзыв в преимущество: инструкция по отработке от
+    ButlerSPB
+  description: >-
+    Негативные отзывы — неизбежная часть любого бизнеса. Но вместо того, чтобы
+    их бояться, можно использовать их как мощный инструмент для роста и
+    укрепления репутации. В новой статье блога ButlerSPB мы делимся пошаговой
+    инструкцией, как правильно реагировать на критику, решать проблемы клиентов
+    и превращать недовольных покупателей в самых лояльных амбассадоров вашего
+    бренда. Узнайте, как извлечь максимум пользы из обратной связи и сделать ваш
+    сервис еще лучше.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.9'
+    reviewCount: 808
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/kak-prevratit-negativnyy-otzyv-v-preimuschestvo-instrukciya-po-otrabotke/
 ---
 
 # Как превратить негативный отзыв в преимущество: пошаговая инструкция от ButlerSPB

@@ -1,11 +1,40 @@
 ---
-title: "Современная городская навигация в Петербурге"
-description: "Узнайте, как легко ориентироваться в Санкт-Петербурге. В нашей статье мы собрали лучшие приложения, лайфхаки и советы по городской навигации для туристов и жителей."
-keywords: "городская навигация, ориентирование в городе, карты спб, маршруты, приложения для навигации, туризм в петербурге, ButlerSPB"
-pubDate: "2025-07-25T16:38:44.796Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Современная городская навигация в Петербурге","description":"Узнайте, как легко ориентироваться в Санкт-Петербурге. В нашей статье мы собрали лучшие приложения, лайфхаки и советы по городской навигации для туристов и жителей.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":485,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/gorodskaya-navigaciya/"}}
+title: Современная городская навигация в Петербурге
+description: >-
+  Узнайте, как легко ориентироваться в Санкт-Петербурге. В нашей статье мы
+  собрали лучшие приложения, лайфхаки и советы по городской навигации для
+  туристов и жителей.
+pubDate: '2025-07-25T16:38:44.796Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: Современная городская навигация в Петербурге
+  description: >-
+    Узнайте, как легко ориентироваться в Санкт-Петербурге. В нашей статье мы
+    собрали лучшие приложения, лайфхаки и советы по городской навигации для
+    туристов и жителей.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '5.0'
+    reviewCount: 801
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': 'https://butlerspb-blog.netlify.app/blog/gorodskaya-navigaciya/'
 ---
 # Искусство навигации по Санкт-Петербургу: от метро до личного водителя
 

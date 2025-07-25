@@ -1,11 +1,40 @@
 ---
-title: "Как правильно передать дом в управление УК?"
-description: "Процесс передачи многоквартирного дома (МКД) в управляющую компанию. Рассказываем о всех этапах, необходимых документах и как избежать частых ошибок. Советы от ButlerSPB."
-keywords: "передача в УК, управляющая компания, смена УК, МКД, собрание собственников, ButlerSPB"
-pubDate: "2025-07-25T14:18:52.408Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Как правильно передать дом в управление УК?","description":"Процесс передачи многоквартирного дома (МКД) в управляющую компанию. Рассказываем о всех этапах, необходимых документах и как избежать частых ошибок. Советы от ButlerSPB.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":489,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/peredacha-v-uk/"}}
+title: Как правильно передать дом в управление УК?
+description: >-
+  Процесс передачи многоквартирного дома (МКД) в управляющую компанию.
+  Рассказываем о всех этапах, необходимых документах и как избежать частых
+  ошибок. Советы от ButlerSPB.
+pubDate: '2025-07-25T14:18:52.408Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: Как правильно передать дом в управление УК?
+  description: >-
+    Процесс передачи многоквартирного дома (МКД) в управляющую компанию.
+    Рассказываем о всех этапах, необходимых документах и как избежать частых
+    ошибок. Советы от ButlerSPB.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '5.0'
+    reviewCount: 593
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': 'https://butlerspb-blog.netlify.app/blog/peredacha-v-uk/'
 ---
 # Передача дома в УК: Как заложить фундамент качественного сервиса с первого дня
 

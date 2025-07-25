@@ -1,10 +1,45 @@
 ---
-title: "Как работать с бизнес-путешественниками: ключевые особенности и требования"
-description: "Бизнес-путешественники — ценный, но требовательный сегмент гостей. Их потребности кардинально отличаются от запросов туристов. В новой статье блога ButlerSPB разбираем ключевые требования деловых путешественников к жилью и сервису — от стабильного Wi-Fi до гибких условий заезда. Узнайте, как превзойти их ожидания и сделать их вашими постоянными клиентами."
-pubDate: "2025-07-22T10:59:35.788Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Как работать с бизнес-путешественниками: ключевые особенности и требования","description":"Бизнес-путешественники — ценный, но требовательный сегмент гостей. Их потребности кардинально отличаются от запросов туристов. В новой статье блога ButlerSPB разбираем ключевые требования деловых путешественников к жилью и сервису — от стабильного Wi-Fi до гибких условий заезда. Узнайте, как превзойти их ожидания и сделать их вашими постоянными клиентами.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"5.0","reviewCount":645,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/kak-rabotat-s-biznes-puteshestvennikami-osobennosti-i-trebovaniya/"}}
+title: 'Как работать с бизнес-путешественниками: ключевые особенности и требования'
+description: >-
+  Бизнес-путешественники — ценный, но требовательный сегмент гостей. Их
+  потребности кардинально отличаются от запросов туристов. В новой статье блога
+  ButlerSPB разбираем ключевые требования деловых путешественников к жилью и
+  сервису — от стабильного Wi-Fi до гибких условий заезда. Узнайте, как
+  превзойти их ожидания и сделать их вашими постоянными клиентами.
+pubDate: '2025-07-22T10:59:35.788Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Как работать с бизнес-путешественниками: ключевые особенности и требования'
+  description: >-
+    Бизнес-путешественники — ценный, но требовательный сегмент гостей. Их
+    потребности кардинально отличаются от запросов туристов. В новой статье
+    блога ButlerSPB разбираем ключевые требования деловых путешественников к
+    жилью и сервису — от стабильного Wi-Fi до гибких условий заезда. Узнайте,
+    как превзойти их ожидания и сделать их вашими постоянными клиентами.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '5.0'
+    reviewCount: 773
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/kak-rabotat-s-biznes-puteshestvennikami-osobennosti-i-trebovaniya/
 ---
 
 # Бизнес-путешественник в ваших апартаментах: полное руководство по привлечению и удержанию самого выгодного гостя

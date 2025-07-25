@@ -1,10 +1,46 @@
 ---
-title: "Что посмотреть в окрестностях Санкт-Петербурга: лучшие маршруты на один день"
-description: "Устали от городской суеты, но нет времени на долгий отпуск? Команда ButlerSPB подготовила гид по самым интересным местам в Ленинградской области, куда можно отправиться на один день. Откройте для себя роскошные императорские резиденции, старинные крепости, живописные каньоны и уютные городки. Вдохновляйтесь нашими идеями и планируйте свое идеальное мини-путешествие!"
-pubDate: "2025-07-22T11:48:50.213Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Что посмотреть в окрестностях Санкт-Петербурга: лучшие маршруты на один день","description":"Устали от городской суеты, но нет времени на долгий отпуск? Команда ButlerSPB подготовила гид по самым интересным местам в Ленинградской области, куда можно отправиться на один день. Откройте для себя роскошные императорские резиденции, старинные крепости, живописные каньоны и уютные городки. Вдохновляйтесь нашими идеями и планируйте свое идеальное мини-путешествие!","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":765,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/chto-posmotret-v-okrestnostyah-sankt-peterburga-odin-den-iz-goroda/"}}
+title: 'Что посмотреть в окрестностях Санкт-Петербурга: лучшие маршруты на один день'
+description: >-
+  Устали от городской суеты, но нет времени на долгий отпуск? Команда ButlerSPB
+  подготовила гид по самым интересным местам в Ленинградской области, куда можно
+  отправиться на один день. Откройте для себя роскошные императорские
+  резиденции, старинные крепости, живописные каньоны и уютные городки.
+  Вдохновляйтесь нашими идеями и планируйте свое идеальное мини-путешествие!
+pubDate: '2025-07-22T11:48:50.213Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Что посмотреть в окрестностях Санкт-Петербурга: лучшие маршруты на один день'
+  description: >-
+    Устали от городской суеты, но нет времени на долгий отпуск? Команда
+    ButlerSPB подготовила гид по самым интересным местам в Ленинградской
+    области, куда можно отправиться на один день. Откройте для себя роскошные
+    императорские резиденции, старинные крепости, живописные каньоны и уютные
+    городки. Вдохновляйтесь нашими идеями и планируйте свое идеальное
+    мини-путешествие!
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.8'
+    reviewCount: 810
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/chto-posmotret-v-okrestnostyah-sankt-peterburga-odin-den-iz-goroda/
 ---
 
 # Один день из Петербурга: Идеальные маршруты по пригородам от ButlerSPB

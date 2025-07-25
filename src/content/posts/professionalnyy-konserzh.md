@@ -1,11 +1,39 @@
 ---
-title: "Профессиональный консьерж: ваш помощник 24/7"
-description: "Узнайте, как профессиональный консьерж-сервис от ButlerSPB может упростить вашу жизнь. Мы решаем любые задачи, от бронирования до эксклюзивных поручений."
-keywords: "профессиональный консьерж, консьерж-сервис, услуги консьержа, личный ассистент, ButlerSPB, лайфстайл менеджмент, консьерж спб"
-pubDate: "2025-07-24T13:06:46.362Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Профессиональный консьерж: ваш помощник 24/7","description":"Узнайте, как профессиональный консьерж-сервис от ButlerSPB может упростить вашу жизнь. Мы решаем любые задачи, от бронирования до эксклюзивных поручений.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.8","reviewCount":720,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/professionalnyy-konserzh/"}}
+title: 'Профессиональный консьерж: ваш помощник 24/7'
+description: >-
+  Узнайте, как профессиональный консьерж-сервис от ButlerSPB может упростить
+  вашу жизнь. Мы решаем любые задачи, от бронирования до эксклюзивных поручений.
+pubDate: '2025-07-24T13:06:46.362Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Профессиональный консьерж: ваш помощник 24/7'
+  description: >-
+    Узнайте, как профессиональный консьерж-сервис от ButlerSPB может упростить
+    вашу жизнь. Мы решаем любые задачи, от бронирования до эксклюзивных
+    поручений.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.8'
+    reviewCount: 591
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': 'https://butlerspb-blog.netlify.app/blog/professionalnyy-konserzh/'
 ---
 # Профессиональный консьерж: не роскошь, а ваш главный актив в управлении временем и жизнью
 

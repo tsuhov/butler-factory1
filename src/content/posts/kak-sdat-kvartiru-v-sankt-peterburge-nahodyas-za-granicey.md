@@ -1,10 +1,51 @@
 ---
-title: "Как сдать квартиру в Санкт-Петербурге, находясь за границей: пошаговая инструкция от ButlerSPB"
-description: "Ваша квартира в Петербурге может приносить доход, даже если вы живете в другой стране. В этой статье мы подробно разберем все юридические и практические аспекты удаленной сдачи жилья. Вы узнаете, как правильно оформить доверенность, найти надежных арендаторов, безопасно подписать договор и контролировать получение платежей и состояние квартиры из любой точки мира. Пошаговое руководство от экспертов ButlerSPB."
-pubDate: "2025-07-23T11:47:56.428Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Как сдать квартиру в Санкт-Петербурге, находясь за границей: пошаговая инструкция от ButlerSPB","description":"Ваша квартира в Петербурге может приносить доход, даже если вы живете в другой стране. В этой статье мы подробно разберем все юридические и практические аспекты удаленной сдачи жилья. Вы узнаете, как правильно оформить доверенность, найти надежных арендаторов, безопасно подписать договор и контролировать получение платежей и состояние квартиры из любой точки мира. Пошаговое руководство от экспертов ButlerSPB.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":604,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/kak-sdat-kvartiru-v-sankt-peterburge-nahodyas-za-granicey/"}}
+title: >-
+  Как сдать квартиру в Санкт-Петербурге, находясь за границей: пошаговая
+  инструкция от ButlerSPB
+description: >-
+  Ваша квартира в Петербурге может приносить доход, даже если вы живете в другой
+  стране. В этой статье мы подробно разберем все юридические и практические
+  аспекты удаленной сдачи жилья. Вы узнаете, как правильно оформить
+  доверенность, найти надежных арендаторов, безопасно подписать договор и
+  контролировать получение платежей и состояние квартиры из любой точки мира.
+  Пошаговое руководство от экспертов ButlerSPB.
+pubDate: '2025-07-23T11:47:56.428Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: >-
+    Как сдать квартиру в Санкт-Петербурге, находясь за границей: пошаговая
+    инструкция от ButlerSPB
+  description: >-
+    Ваша квартира в Петербурге может приносить доход, даже если вы живете в
+    другой стране. В этой статье мы подробно разберем все юридические и
+    практические аспекты удаленной сдачи жилья. Вы узнаете, как правильно
+    оформить доверенность, найти надежных арендаторов, безопасно подписать
+    договор и контролировать получение платежей и состояние квартиры из любой
+    точки мира. Пошаговое руководство от экспертов ButlerSPB.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '5.0'
+    reviewCount: 466
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/kak-sdat-kvartiru-v-sankt-peterburge-nahodyas-za-granicey/
 ---
 
 # Как сдать квартиру в СПб, находясь за границей: Пошаговый гид 2024 от ButlerSPB

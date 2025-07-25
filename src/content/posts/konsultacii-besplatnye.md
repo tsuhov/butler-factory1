@@ -1,11 +1,40 @@
 ---
-title: "Бесплатные консультации: ваш первый шаг к цели"
-description: "Узнайте, как мы можем помочь вашему бизнесу. Запишитесь на бесплатную консультацию с экспертами ButlerSPB и получите ответы на все ваши вопросы. Мы поможем вам найти оптимальное решение."
-keywords: "бесплатная консультация, консультация эксперта, ButlerSPB, задать вопрос, помощь бизнесу, профессиональная консультация, услуги"
-pubDate: "2025-07-25T15:39:40.030Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Бесплатные консультации: ваш первый шаг к цели","description":"Узнайте, как мы можем помочь вашему бизнесу. Запишитесь на бесплатную консультацию с экспертами ButlerSPB и получите ответы на все ваши вопросы. Мы поможем вам найти оптимальное решение.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.8","reviewCount":727,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/konsultacii-besplatnye/"}}
+title: 'Бесплатные консультации: ваш первый шаг к цели'
+description: >-
+  Узнайте, как мы можем помочь вашему бизнесу. Запишитесь на бесплатную
+  консультацию с экспертами ButlerSPB и получите ответы на все ваши вопросы. Мы
+  поможем вам найти оптимальное решение.
+pubDate: '2025-07-25T15:39:40.030Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Бесплатные консультации: ваш первый шаг к цели'
+  description: >-
+    Узнайте, как мы можем помочь вашему бизнесу. Запишитесь на бесплатную
+    консультацию с экспертами ButlerSPB и получите ответы на все ваши вопросы.
+    Мы поможем вам найти оптимальное решение.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.7'
+    reviewCount: 524
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': 'https://butlerspb-blog.netlify.app/blog/konsultacii-besplatnye/'
 ---
 # Бесплатная консультация: Инструкция по применению для вашего бизнеса
 

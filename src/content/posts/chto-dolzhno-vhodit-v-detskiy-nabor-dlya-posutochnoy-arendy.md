@@ -1,10 +1,47 @@
 ---
-title: "Что должно входить в 'детский' набор для посуточной аренды"
-description: "Путешествие с детьми требует тщательной подготовки, особенно когда речь идет о выборе жилья. Команда ButlerSPB подготовила чек-лист обязательных вещей в апартаментах для гостей с малышами, чтобы сделать их пребывание в Петербурге максимально комфортным и безопасным. В статье мы расскажем, почему детская кроватка, стульчик для кормления, горшок, игрушки и защита на розетках — это не роскошь, а необходимость для современного арендного жилья."
-pubDate: "2025-07-22T11:09:32.653Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Что должно входить в 'детский' набор для посуточной аренды","description":"Путешествие с детьми требует тщательной подготовки, особенно когда речь идет о выборе жилья. Команда ButlerSPB подготовила чек-лист обязательных вещей в апартаментах для гостей с малышами, чтобы сделать их пребывание в Петербурге максимально комфортным и безопасным. В статье мы расскажем, почему детская кроватка, стульчик для кормления, горшок, игрушки и защита на розетках — это не роскошь, а необходимость для современного арендного жилья.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":316,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/chto-dolzhno-vhodit-v-detskiy-nabor-dlya-posutochnoy-arendy/"}}
+title: Что должно входить в 'детский' набор для посуточной аренды
+description: >-
+  Путешествие с детьми требует тщательной подготовки, особенно когда речь идет о
+  выборе жилья. Команда ButlerSPB подготовила чек-лист обязательных вещей в
+  апартаментах для гостей с малышами, чтобы сделать их пребывание в Петербурге
+  максимально комфортным и безопасным. В статье мы расскажем, почему детская
+  кроватка, стульчик для кормления, горшок, игрушки и защита на розетках — это
+  не роскошь, а необходимость для современного арендного жилья.
+pubDate: '2025-07-22T11:09:32.653Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: Что должно входить в 'детский' набор для посуточной аренды
+  description: >-
+    Путешествие с детьми требует тщательной подготовки, особенно когда речь идет
+    о выборе жилья. Команда ButlerSPB подготовила чек-лист обязательных вещей в
+    апартаментах для гостей с малышами, чтобы сделать их пребывание в Петербурге
+    максимально комфортным и безопасным. В статье мы расскажем, почему детская
+    кроватка, стульчик для кормления, горшок, игрушки и защита на розетках — это
+    не роскошь, а необходимость для современного арендного жилья.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.9'
+    reviewCount: 753
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/chto-dolzhno-vhodit-v-detskiy-nabor-dlya-posutochnoy-arendy/
 ---
 
 # Как сделать вашу квартиру идеальной для семей с детьми: Полный гид по "детскому набору" для посуточной аренды

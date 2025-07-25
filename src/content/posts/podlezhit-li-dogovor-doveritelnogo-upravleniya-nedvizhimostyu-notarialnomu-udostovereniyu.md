@@ -1,10 +1,51 @@
 ---
-title: "Договор доверительного управления недвижимостью: нужен ли нотариус? Разбираемся с ButlerSPB"
-description: "Передаете квартиру или коммерческое помещение в доверительное управление и сомневаетесь, нужно ли идти к нотариусу? В нашей новой статье эксперты ButlerSPB разъясняют требования законодательства РФ. Узнайте, в каких случаях для договора доверительного управления недвижимостью достаточно простой письменной формы, а когда нотариальное удостоверение становится обязательным условием законности сделки."
-pubDate: "2025-07-22T09:26:37.247Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Договор доверительного управления недвижимостью: нужен ли нотариус? Разбираемся с ButlerSPB","description":"Передаете квартиру или коммерческое помещение в доверительное управление и сомневаетесь, нужно ли идти к нотариусу? В нашей новой статье эксперты ButlerSPB разъясняют требования законодательства РФ. Узнайте, в каких случаях для договора доверительного управления недвижимостью достаточно простой письменной формы, а когда нотариальное удостоверение становится обязательным условием законности сделки.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.8","reviewCount":614,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/podlezhit-li-dogovor-doveritelnogo-upravleniya-nedvizhimostyu-notarialnomu-udostovereniyu/"}}
+title: >-
+  Договор доверительного управления недвижимостью: нужен ли нотариус?
+  Разбираемся с ButlerSPB
+description: >-
+  Передаете квартиру или коммерческое помещение в доверительное управление и
+  сомневаетесь, нужно ли идти к нотариусу? В нашей новой статье эксперты
+  ButlerSPB разъясняют требования законодательства РФ. Узнайте, в каких случаях
+  для договора доверительного управления недвижимостью достаточно простой
+  письменной формы, а когда нотариальное удостоверение становится обязательным
+  условием законности сделки.
+pubDate: '2025-07-22T09:26:37.247Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: >-
+    Договор доверительного управления недвижимостью: нужен ли нотариус?
+    Разбираемся с ButlerSPB
+  description: >-
+    Передаете квартиру или коммерческое помещение в доверительное управление и
+    сомневаетесь, нужно ли идти к нотариусу? В нашей новой статье эксперты
+    ButlerSPB разъясняют требования законодательства РФ. Узнайте, в каких
+    случаях для договора доверительного управления недвижимостью достаточно
+    простой письменной формы, а когда нотариальное удостоверение становится
+    обязательным условием законности сделки.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '5.0'
+    reviewCount: 531
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/podlezhit-li-dogovor-doveritelnogo-upravleniya-nedvizhimostyu-notarialnomu-udostovereniyu/
 ---
 
 # Нужен ли нотариус для договора доверительного управления недвижимостью? Разбор от экспертов ButlerSPB

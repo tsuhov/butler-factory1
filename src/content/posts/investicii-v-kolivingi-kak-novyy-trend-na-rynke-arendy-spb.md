@@ -1,10 +1,47 @@
 ---
-title: "Инвестиции в коливинги как новый тренд на рынке аренды СПб"
-description: "Рынок аренды жилья в Санкт-Петербурге постоянно меняется, и одним из самых заметных трендов последних лет стали коливинги. Что это за формат, почему он так популярен среди молодежи и молодых специалистов, и какие возможности он открывает для инвесторов? В новой статье блога ButlerSPB разбираемся, почему вложения в коливинги — это перспективное направление, анализируем доходность, риски и ключевые факторы успеха в этом сегменте."
-pubDate: "2025-07-23T11:28:07.452Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Инвестиции в коливинги как новый тренд на рынке аренды СПб","description":"Рынок аренды жилья в Санкт-Петербурге постоянно меняется, и одним из самых заметных трендов последних лет стали коливинги. Что это за формат, почему он так популярен среди молодежи и молодых специалистов, и какие возможности он открывает для инвесторов? В новой статье блога ButlerSPB разбираемся, почему вложения в коливинги — это перспективное направление, анализируем доходность, риски и ключевые факторы успеха в этом сегменте.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.8","reviewCount":849,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/investicii-v-kolivingi-kak-novyy-trend-na-rynke-arendy-spb/"}}
+title: Инвестиции в коливинги как новый тренд на рынке аренды СПб
+description: >-
+  Рынок аренды жилья в Санкт-Петербурге постоянно меняется, и одним из самых
+  заметных трендов последних лет стали коливинги. Что это за формат, почему он
+  так популярен среди молодежи и молодых специалистов, и какие возможности он
+  открывает для инвесторов? В новой статье блога ButlerSPB разбираемся, почему
+  вложения в коливинги — это перспективное направление, анализируем доходность,
+  риски и ключевые факторы успеха в этом сегменте.
+pubDate: '2025-07-23T11:28:07.452Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: Инвестиции в коливинги как новый тренд на рынке аренды СПб
+  description: >-
+    Рынок аренды жилья в Санкт-Петербурге постоянно меняется, и одним из самых
+    заметных трендов последних лет стали коливинги. Что это за формат, почему он
+    так популярен среди молодежи и молодых специалистов, и какие возможности он
+    открывает для инвесторов? В новой статье блога ButlerSPB разбираемся, почему
+    вложения в коливинги — это перспективное направление, анализируем
+    доходность, риски и ключевые факторы успеха в этом сегменте.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.8'
+    reviewCount: 488
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/investicii-v-kolivingi-kak-novyy-trend-na-rynke-arendy-spb/
 ---
 
 # Инвестиции в коливинги СПб: Как заработать на главном тренде рынка аренды 2024

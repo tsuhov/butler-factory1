@@ -1,11 +1,39 @@
 ---
-title: "ButlerSPB: как снизить затраты без потерь"
-description: "Узнайте, как ButlerSPB помогает компаниям эффективно сокращать расходы, не жертвуя качеством. Наши эксперты делятся проверенными методами и стратегиями."
-keywords: "снижение стоимости, оптимизация расходов, сокращение затрат, экономия бюджета, ButlerSPB, управление финансами, эффективность бизнеса"
-pubDate: "2025-07-25T14:35:28.673Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"ButlerSPB: как снизить затраты без потерь","description":"Узнайте, как ButlerSPB помогает компаниям эффективно сокращать расходы, не жертвуя качеством. Наши эксперты делятся проверенными методами и стратегиями.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":324,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/snizit-stoimost/"}}
+title: 'ButlerSPB: как снизить затраты без потерь'
+description: >-
+  Узнайте, как ButlerSPB помогает компаниям эффективно сокращать расходы, не
+  жертвуя качеством. Наши эксперты делятся проверенными методами и стратегиями.
+pubDate: '2025-07-25T14:35:28.673Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'ButlerSPB: как снизить затраты без потерь'
+  description: >-
+    Узнайте, как ButlerSPB помогает компаниям эффективно сокращать расходы, не
+    жертвуя качеством. Наши эксперты делятся проверенными методами и
+    стратегиями.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.9'
+    reviewCount: 582
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': 'https://butlerspb-blog.netlify.app/blog/snizit-stoimost/'
 ---
 # Снижение затрат в бизнесе: Полное руководство по оптимизации расходов в 2024 году
 

@@ -1,10 +1,51 @@
 ---
-title: "Старый фонд против новостроек: где доходность от аренды выше? Сравнительный анализ от ButlerSPB"
-description: "Инвестиции в недвижимость для сдачи в аренду — вечная дилемма: выбрать квартиру с историей в старом фонде или современный комфорт в новостройке? В этой статье мы разбираем ключевые факторы, влияющие на доходность: стоимость покупки и ремонта, арендные ставки, ликвидность, амортизация и риски. На основе реальных цифр и фактов по рынку Санкт-Петербурга мы поможем вам понять, какой объект принесет больше прибыли."
-pubDate: "2025-07-23T10:39:42.772Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Старый фонд против новостроек: где доходность от аренды выше? Сравнительный анализ от ButlerSPB","description":"Инвестиции в недвижимость для сдачи в аренду — вечная дилемма: выбрать квартиру с историей в старом фонде или современный комфорт в новостройке? В этой статье мы разбираем ключевые факторы, влияющие на доходность: стоимость покупки и ремонта, арендные ставки, ликвидность, амортизация и риски. На основе реальных цифр и фактов по рынку Санкт-Петербурга мы поможем вам понять, какой объект принесет больше прибыли.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":530,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/dohodnost-ot-arendy-v-starom-fonde-protiv-novostroek-cifry-i-fakty/"}}
+title: >-
+  Старый фонд против новостроек: где доходность от аренды выше? Сравнительный
+  анализ от ButlerSPB
+description: >-
+  Инвестиции в недвижимость для сдачи в аренду — вечная дилемма: выбрать
+  квартиру с историей в старом фонде или современный комфорт в новостройке? В
+  этой статье мы разбираем ключевые факторы, влияющие на доходность: стоимость
+  покупки и ремонта, арендные ставки, ликвидность, амортизация и риски. На
+  основе реальных цифр и фактов по рынку Санкт-Петербурга мы поможем вам понять,
+  какой объект принесет больше прибыли.
+pubDate: '2025-07-23T10:39:42.772Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: >-
+    Старый фонд против новостроек: где доходность от аренды выше? Сравнительный
+    анализ от ButlerSPB
+  description: >-
+    Инвестиции в недвижимость для сдачи в аренду — вечная дилемма: выбрать
+    квартиру с историей в старом фонде или современный комфорт в новостройке? В
+    этой статье мы разбираем ключевые факторы, влияющие на доходность: стоимость
+    покупки и ремонта, арендные ставки, ликвидность, амортизация и риски. На
+    основе реальных цифр и фактов по рынку Санкт-Петербурга мы поможем вам
+    понять, какой объект принесет больше прибыли.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.7'
+    reviewCount: 403
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/dohodnost-ot-arendy-v-starom-fonde-protiv-novostroek-cifry-i-fakty/
 ---
 
 # Доходность от аренды в старом фонде против новостроек: цифры и факты для инвестора в Петербурге

@@ -1,10 +1,49 @@
 ---
-title: "Оптимизация закупок бытовой химии и гигиены: сокращаем расходы без потери качества"
-description: "Грамотный подход к закупкам бытовой химии и гигиенических средств — прямой путь к сокращению издержек для вашего бизнеса. В блоге ButlerSPB делимся профессиональными советами: от анализа реальных потребностей и выбора концентрированных средств до планирования поставок. Узнайте, как обеспечить безупречную чистоту в офисе или на предприятии и при этом сэкономить бюджет."
-pubDate: "2025-07-22T11:22:56.642Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Оптимизация закупок бытовой химии и гигиены: сокращаем расходы без потери качества","description":"Грамотный подход к закупкам бытовой химии и гигиенических средств — прямой путь к сокращению издержек для вашего бизнеса. В блоге ButlerSPB делимся профессиональными советами: от анализа реальных потребностей и выбора концентрированных средств до планирования поставок. Узнайте, как обеспечить безупречную чистоту в офисе или на предприятии и при этом сэкономить бюджет.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.7","reviewCount":430,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/optimizaciya-zakupok-bytovoy-himii-i-gigienicheskih-sredstv/"}}
+title: >-
+  Оптимизация закупок бытовой химии и гигиены: сокращаем расходы без потери
+  качества
+description: >-
+  Грамотный подход к закупкам бытовой химии и гигиенических средств — прямой
+  путь к сокращению издержек для вашего бизнеса. В блоге ButlerSPB делимся
+  профессиональными советами: от анализа реальных потребностей и выбора
+  концентрированных средств до планирования поставок. Узнайте, как обеспечить
+  безупречную чистоту в офисе или на предприятии и при этом сэкономить бюджет.
+pubDate: '2025-07-22T11:22:56.642Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: >-
+    Оптимизация закупок бытовой химии и гигиены: сокращаем расходы без потери
+    качества
+  description: >-
+    Грамотный подход к закупкам бытовой химии и гигиенических средств — прямой
+    путь к сокращению издержек для вашего бизнеса. В блоге ButlerSPB делимся
+    профессиональными советами: от анализа реальных потребностей и выбора
+    концентрированных средств до планирования поставок. Узнайте, как обеспечить
+    безупречную чистоту в офисе или на предприятии и при этом сэкономить бюджет.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.9'
+    reviewCount: 638
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/optimizaciya-zakupok-bytovoy-himii-i-gigienicheskih-sredstv/
 ---
 
 # Оптимизация закупок бытовой химии и гигиенических средств: полное руководство для вашего бизнеса

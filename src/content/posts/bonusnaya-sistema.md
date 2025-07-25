@@ -1,11 +1,40 @@
 ---
-title: "Бонусная система ButlerSPB: Как это работает?"
-description: "Узнайте все о новой бонусной системе от ButlerSPB! Мы расскажем, как копить баллы за каждую покупку, обменивать их на скидки и получать эксклюзивные предложения."
-keywords: "бонусная система, программа лояльности, бонусы ButlerSPB, скидки, кэшбэк, выгода"
-pubDate: "2025-07-25T16:12:44.454Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Бонусная система ButlerSPB: Как это работает?","description":"Узнайте все о новой бонусной системе от ButlerSPB! Мы расскажем, как копить баллы за каждую покупку, обменивать их на скидки и получать эксклюзивные предложения.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":806,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/bonusnaya-sistema/"}}
+title: 'Бонусная система ButlerSPB: Как это работает?'
+description: >-
+  Узнайте все о новой бонусной системе от ButlerSPB! Мы расскажем, как копить
+  баллы за каждую покупку, обменивать их на скидки и получать эксклюзивные
+  предложения.
+pubDate: '2025-07-25T16:12:44.454Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Бонусная система ButlerSPB: Как это работает?'
+  description: >-
+    Узнайте все о новой бонусной системе от ButlerSPB! Мы расскажем, как копить
+    баллы за каждую покупку, обменивать их на скидки и получать эксклюзивные
+    предложения.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.8'
+    reviewCount: 860
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': 'https://butlerspb-blog.netlify.app/blog/bonusnaya-sistema/'
 ---
 # Бонусная система как инструмент роста: Пошаговое руководство по созданию и внедрению
 

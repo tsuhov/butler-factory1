@@ -1,10 +1,50 @@
 ---
-title: "Доверительное управление коммерческой недвижимостью: что нужно знать собственнику"
-description: "Передача коммерческой недвижимости в доверительное управление — эффективный способ получать стабильный доход, не погружаясь в операционные задачи. В новой статье блога ButlerSPB разбираемся, какие функции берет на себя управляющая компания, как выбрать надежного партнера и на что обратить внимание в договоре, чтобы защитить свои интересы и максимизировать прибыль от объекта."
-pubDate: "2025-07-22T15:33:59.767Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Доверительное управление коммерческой недвижимостью: что нужно знать собственнику","description":"Передача коммерческой недвижимости в доверительное управление — эффективный способ получать стабильный доход, не погружаясь в операционные задачи. В новой статье блога ButlerSPB разбираемся, какие функции берет на себя управляющая компания, как выбрать надежного партнера и на что обратить внимание в договоре, чтобы защитить свои интересы и максимизировать прибыль от объекта.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"5.0","reviewCount":597,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/doveritelnoe-upravlenie-kommercheskoy-nedvizhimostyu-chto-nuzhno-znat-sobstvenniku/"}}
+title: >-
+  Доверительное управление коммерческой недвижимостью: что нужно знать
+  собственнику
+description: >-
+  Передача коммерческой недвижимости в доверительное управление — эффективный
+  способ получать стабильный доход, не погружаясь в операционные задачи. В новой
+  статье блога ButlerSPB разбираемся, какие функции берет на себя управляющая
+  компания, как выбрать надежного партнера и на что обратить внимание в
+  договоре, чтобы защитить свои интересы и максимизировать прибыль от объекта.
+pubDate: '2025-07-22T15:33:59.767Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: >-
+    Доверительное управление коммерческой недвижимостью: что нужно знать
+    собственнику
+  description: >-
+    Передача коммерческой недвижимости в доверительное управление — эффективный
+    способ получать стабильный доход, не погружаясь в операционные задачи. В
+    новой статье блога ButlerSPB разбираемся, какие функции берет на себя
+    управляющая компания, как выбрать надежного партнера и на что обратить
+    внимание в договоре, чтобы защитить свои интересы и максимизировать прибыль
+    от объекта.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.9'
+    reviewCount: 676
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/doveritelnoe-upravlenie-kommercheskoy-nedvizhimostyu-chto-nuzhno-znat-sobstvenniku/
 ---
 
 # Доверительное управление коммерческой недвижимостью: Полное руководство для собственника в 2024 году

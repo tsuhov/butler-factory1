@@ -1,11 +1,40 @@
 ---
-title: "Деньги в путешествии: как экономить и тратить"
-description: "Планируете поездку? ButlerSPB делится советами, как грамотно управлять бюджетом в путешествии, избежать лишних трат и на чем можно сэкономить без ущерба для впечатлений."
-keywords: "деньги в путешествии, бюджет на поездку, как сэкономить, обмен валюты, финансы в отпуске, ButlerSPB"
-pubDate: "2025-07-25T16:08:31.150Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Деньги в путешествии: как экономить и тратить","description":"Планируете поездку? ButlerSPB делится советами, как грамотно управлять бюджетом в путешествии, избежать лишних трат и на чем можно сэкономить без ущерба для впечатлений.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.7","reviewCount":341,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/dengi-puteshestvie/"}}
+title: 'Деньги в путешествии: как экономить и тратить'
+description: >-
+  Планируете поездку? ButlerSPB делится советами, как грамотно управлять
+  бюджетом в путешествии, избежать лишних трат и на чем можно сэкономить без
+  ущерба для впечатлений.
+pubDate: '2025-07-25T16:08:31.150Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Деньги в путешествии: как экономить и тратить'
+  description: >-
+    Планируете поездку? ButlerSPB делится советами, как грамотно управлять
+    бюджетом в путешествии, избежать лишних трат и на чем можно сэкономить без
+    ущерба для впечатлений.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.9'
+    reviewCount: 311
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': 'https://butlerspb-blog.netlify.app/blog/dengi-puteshestvie/'
 ---
 # Финансовый гид путешественника от ButlerSPB: Как управлять деньгами в поездке, чтобы думать только об отдыхе
 

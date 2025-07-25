@@ -1,10 +1,48 @@
 ---
-title: "Доверительное управление недвижимостью от ButlerSPB: Ваш ключ к пассивному доходу"
-description: "Узнайте, что такое доверительное управление активами недвижимости и как эта услуга помогает собственникам получать стабильный доход от аренды без личного участия. В статье разбираем преимущества, риски и ключевые аспекты договора с управляющей компанией на примере работы ButlerSPB в Санкт-Петербурге."
-pubDate: "2025-07-22T00:35:04.243Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Доверительное управление недвижимостью от ButlerSPB: Ваш ключ к пассивному доходу","description":"Узнайте, что такое доверительное управление активами недвижимости и как эта услуга помогает собственникам получать стабильный доход от аренды без личного участия. В статье разбираем преимущества, риски и ключевые аспекты договора с управляющей компанией на примере работы ButlerSPB в Санкт-Петербурге.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":400,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/doveritelnoe-upravlenie-aktivami-nedvizhimosti/"}}
+title: >-
+  Доверительное управление недвижимостью от ButlerSPB: Ваш ключ к пассивному
+  доходу
+description: >-
+  Узнайте, что такое доверительное управление активами недвижимости и как эта
+  услуга помогает собственникам получать стабильный доход от аренды без личного
+  участия. В статье разбираем преимущества, риски и ключевые аспекты договора с
+  управляющей компанией на примере работы ButlerSPB в Санкт-Петербурге.
+pubDate: '2025-07-22T00:35:04.243Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: >-
+    Доверительное управление недвижимостью от ButlerSPB: Ваш ключ к пассивному
+    доходу
+  description: >-
+    Узнайте, что такое доверительное управление активами недвижимости и как эта
+    услуга помогает собственникам получать стабильный доход от аренды без
+    личного участия. В статье разбираем преимущества, риски и ключевые аспекты
+    договора с управляющей компанией на примере работы ButlerSPB в
+    Санкт-Петербурге.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.8'
+    reviewCount: 800
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/doveritelnoe-upravlenie-aktivami-nedvizhimosti/
 ---
 
 # Доверительное управление недвижимостью: Как получать стабильный доход от квартиры в СПб, не тратя на это ни минуты

@@ -1,10 +1,53 @@
 ---
-title: "За что отвечает управляющая компания при посуточной аренде: полный чек-лист от ButlerSPB"
-description: "Передача квартиры в управление для посуточной аренды — это способ получать пассивный доход, не тратя личное время. Но что именно входит в обязанности управляющей компании? В этой статье от ButlerSPB мы подробно разбираем все аспекты работы: от создания продающих объявлений и общения с гостями 24/7 до профессионального клининга, технического обслуживания и финансовой отчетности. Узнайте, какой сервис вы должны получать, доверяя свою недвижимость профессионалам."
-pubDate: "2025-07-23T10:41:37.358Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"За что отвечает управляющая компания при посуточной аренде: полный чек-лист от ButlerSPB","description":"Передача квартиры в управление для посуточной аренды — это способ получать пассивный доход, не тратя личное время. Но что именно входит в обязанности управляющей компании? В этой статье от ButlerSPB мы подробно разбираем все аспекты работы: от создания продающих объявлений и общения с гостями 24/7 до профессионального клининга, технического обслуживания и финансовой отчетности. Узнайте, какой сервис вы должны получать, доверяя свою недвижимость профессионалам.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"5.0","reviewCount":415,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/chto-vhodit-v-obyazannosti-upravlyayuschey-kompanii-pri-posutochnoy-arende/"}}
+title: >-
+  За что отвечает управляющая компания при посуточной аренде: полный чек-лист от
+  ButlerSPB
+description: >-
+  Передача квартиры в управление для посуточной аренды — это способ получать
+  пассивный доход, не тратя личное время. Но что именно входит в обязанности
+  управляющей компании? В этой статье от ButlerSPB мы подробно разбираем все
+  аспекты работы: от создания продающих объявлений и общения с гостями 24/7 до
+  профессионального клининга, технического обслуживания и финансовой отчетности.
+  Узнайте, какой сервис вы должны получать, доверяя свою недвижимость
+  профессионалам.
+pubDate: '2025-07-23T10:41:37.358Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: >-
+    За что отвечает управляющая компания при посуточной аренде: полный чек-лист
+    от ButlerSPB
+  description: >-
+    Передача квартиры в управление для посуточной аренды — это способ получать
+    пассивный доход, не тратя личное время. Но что именно входит в обязанности
+    управляющей компании? В этой статье от ButlerSPB мы подробно разбираем все
+    аспекты работы: от создания продающих объявлений и общения с гостями 24/7 до
+    профессионального клининга, технического обслуживания и финансовой
+    отчетности. Узнайте, какой сервис вы должны получать, доверяя свою
+    недвижимость профессионалам.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.9'
+    reviewCount: 326
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/chto-vhodit-v-obyazannosti-upravlyayuschey-kompanii-pri-posutochnoy-arende/
 ---
 
 # Что входит в обязанности управляющей компании при посуточной аренде: Полный чек-лист для собственника от ButlerSPB

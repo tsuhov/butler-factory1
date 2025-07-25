@@ -1,10 +1,51 @@
 ---
-title: "Как гарантировать законность схемы субаренды: пошаговое руководство от ButlerSPB"
-description: "Субаренда может быть выгодным инструментом, но несет в себе юридические риски. В этой статье мы подробно разбираем, как правильно оформить договор субаренды, чтобы он был полностью легальным и защищал интересы всех сторон. Узнайте, как получить согласие собственника, какие пункты обязательно включить в договор и как избежать распространенных ошибок, которые могут привести к спорам и финансовым потерям."
-pubDate: "2025-07-22T13:45:12.405Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Как гарантировать законность схемы субаренды: пошаговое руководство от ButlerSPB","description":"Субаренда может быть выгодным инструментом, но несет в себе юридические риски. В этой статье мы подробно разбираем, как правильно оформить договор субаренды, чтобы он был полностью легальным и защищал интересы всех сторон. Узнайте, как получить согласие собственника, какие пункты обязательно включить в договор и как избежать распространенных ошибок, которые могут привести к спорам и финансовым потерям.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":599,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/kak-garantirovat-zakonnost-shemy-subarendy/"}}
+title: >-
+  Как гарантировать законность схемы субаренды: пошаговое руководство от
+  ButlerSPB
+description: >-
+  Субаренда может быть выгодным инструментом, но несет в себе юридические риски.
+  В этой статье мы подробно разбираем, как правильно оформить договор субаренды,
+  чтобы он был полностью легальным и защищал интересы всех сторон. Узнайте, как
+  получить согласие собственника, какие пункты обязательно включить в договор и
+  как избежать распространенных ошибок, которые могут привести к спорам и
+  финансовым потерям.
+pubDate: '2025-07-22T13:45:12.405Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: >-
+    Как гарантировать законность схемы субаренды: пошаговое руководство от
+    ButlerSPB
+  description: >-
+    Субаренда может быть выгодным инструментом, но несет в себе юридические
+    риски. В этой статье мы подробно разбираем, как правильно оформить договор
+    субаренды, чтобы он был полностью легальным и защищал интересы всех сторон.
+    Узнайте, как получить согласие собственника, какие пункты обязательно
+    включить в договор и как избежать распространенных ошибок, которые могут
+    привести к спорам и финансовым потерям.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.8'
+    reviewCount: 597
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/kak-garantirovat-zakonnost-shemy-subarendy/
 ---
 
 # Как гарантировать законность схемы субаренды: пошаговое руководство для собственника недвижимости

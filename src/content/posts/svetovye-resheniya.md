@@ -1,11 +1,40 @@
 ---
-title: "Инновационные световые решения для вашего дома"
-description: "Откройте мир светового дизайна с ButlerSPB! Узнайте, как с помощью света зонировать пространство, создавать настроение и подчеркивать достоинства интерьера."
-keywords: "световые решения, освещение в интерьере, дизайн освещения, умный свет, светодиодное освещение, ButlerSPB, современное освещение"
-pubDate: "2025-07-25T16:05:27.131Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Инновационные световые решения для вашего дома","description":"Откройте мир светового дизайна с ButlerSPB! Узнайте, как с помощью света зонировать пространство, создавать настроение и подчеркивать достоинства интерьера.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":811,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/svetovye-resheniya/"}}
+title: Инновационные световые решения для вашего дома
+description: >-
+  Откройте мир светового дизайна с ButlerSPB! Узнайте, как с помощью света
+  зонировать пространство, создавать настроение и подчеркивать достоинства
+  интерьера.
+pubDate: '2025-07-25T16:05:27.131Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: Инновационные световые решения для вашего дома
+  description: >-
+    Откройте мир светового дизайна с ButlerSPB! Узнайте, как с помощью света
+    зонировать пространство, создавать настроение и подчеркивать достоинства
+    интерьера.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.8'
+    reviewCount: 391
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': 'https://butlerspb-blog.netlify.app/blog/svetovye-resheniya/'
 ---
 # Световые решения в современном интерьере: Как превратить пространство с помощью света?
 

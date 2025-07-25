@@ -1,10 +1,49 @@
 ---
-title: "A/B-тестирование на площадках бронирования: как выбрать фото и описание, которые принесут максимум гостей"
-description: "В новой статье блога ButlerSPB подробно рассказываем, как применять A/B-тестирование для фотографий и описаний ваших апартаментов. Вы узнаете, какие элементы стоит тестировать в первую очередь, как правильно анализировать результаты и какие, на первый взгляд, незначительные изменения помогут привлечь больше гостей и увеличить доход от аренды."
-pubDate: "2025-07-22T11:13:57.134Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"A/B-тестирование на площадках бронирования: как выбрать фото и описание, которые принесут максимум гостей","description":"В новой статье блога ButlerSPB подробно рассказываем, как применять A/B-тестирование для фотографий и описаний ваших апартаментов. Вы узнаете, какие элементы стоит тестировать в первую очередь, как правильно анализировать результаты и какие, на первый взгляд, незначительные изменения помогут привлечь больше гостей и увеличить доход от аренды.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.7","reviewCount":804,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/ab-testirovanie-fotografiy-i-opisaniy-na-ploschadkah-bronirovaniya/"}}
+title: >-
+  A/B-тестирование на площадках бронирования: как выбрать фото и описание,
+  которые принесут максимум гостей
+description: >-
+  В новой статье блога ButlerSPB подробно рассказываем, как применять
+  A/B-тестирование для фотографий и описаний ваших апартаментов. Вы узнаете,
+  какие элементы стоит тестировать в первую очередь, как правильно анализировать
+  результаты и какие, на первый взгляд, незначительные изменения помогут
+  привлечь больше гостей и увеличить доход от аренды.
+pubDate: '2025-07-22T11:13:57.134Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: >-
+    A/B-тестирование на площадках бронирования: как выбрать фото и описание,
+    которые принесут максимум гостей
+  description: >-
+    В новой статье блога ButlerSPB подробно рассказываем, как применять
+    A/B-тестирование для фотографий и описаний ваших апартаментов. Вы узнаете,
+    какие элементы стоит тестировать в первую очередь, как правильно
+    анализировать результаты и какие, на первый взгляд, незначительные изменения
+    помогут привлечь больше гостей и увеличить доход от аренды.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.8'
+    reviewCount: 858
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/ab-testirovanie-fotografiy-i-opisaniy-na-ploschadkah-bronirovaniya/
 ---
 
 # A/B тестирование в посуточной аренде: Прекратите гадать, начните зарабатывать больше

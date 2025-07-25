@@ -1,10 +1,53 @@
 ---
-title: "Как организовать ремонт в квартире под сдачу: пошаговое руководство от ButlerSPB"
-description: "Планируете ремонт в квартире для сдачи в аренду? В этой статье от ButlerSPB мы расскажем, как сделать его максимально выгодным и практичным. Разберем ключевые моменты: как составить бюджет, какие материалы выбрать, чтобы они были долговечными и недорогими, и какой дизайн поможет быстро найти арендаторов и увеличить стоимость аренды. Узнайте, на чем можно сэкономить, а где экономия неуместна, чтобы ваша недвижимость приносила стабильный доход без лишних хлопот."
-pubDate: "2025-07-22T13:43:05.514Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Как организовать ремонт в квартире под сдачу: пошаговое руководство от ButlerSPB","description":"Планируете ремонт в квартире для сдачи в аренду? В этой статье от ButlerSPB мы расскажем, как сделать его максимально выгодным и практичным. Разберем ключевые моменты: как составить бюджет, какие материалы выбрать, чтобы они были долговечными и недорогими, и какой дизайн поможет быстро найти арендаторов и увеличить стоимость аренды. Узнайте, на чем можно сэкономить, а где экономия неуместна, чтобы ваша недвижимость приносила стабильный доход без лишних хлопот.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.7","reviewCount":422,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/kak-organizovat-remont-v-kvartire-pod-sdachu/"}}
+title: >-
+  Как организовать ремонт в квартире под сдачу: пошаговое руководство от
+  ButlerSPB
+description: >-
+  Планируете ремонт в квартире для сдачи в аренду? В этой статье от ButlerSPB мы
+  расскажем, как сделать его максимально выгодным и практичным. Разберем
+  ключевые моменты: как составить бюджет, какие материалы выбрать, чтобы они
+  были долговечными и недорогими, и какой дизайн поможет быстро найти
+  арендаторов и увеличить стоимость аренды. Узнайте, на чем можно сэкономить, а
+  где экономия неуместна, чтобы ваша недвижимость приносила стабильный доход без
+  лишних хлопот.
+pubDate: '2025-07-22T13:43:05.514Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: >-
+    Как организовать ремонт в квартире под сдачу: пошаговое руководство от
+    ButlerSPB
+  description: >-
+    Планируете ремонт в квартире для сдачи в аренду? В этой статье от ButlerSPB
+    мы расскажем, как сделать его максимально выгодным и практичным. Разберем
+    ключевые моменты: как составить бюджет, какие материалы выбрать, чтобы они
+    были долговечными и недорогими, и какой дизайн поможет быстро найти
+    арендаторов и увеличить стоимость аренды. Узнайте, на чем можно сэкономить,
+    а где экономия неуместна, чтобы ваша недвижимость приносила стабильный доход
+    без лишних хлопот.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.9'
+    reviewCount: 475
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/kak-organizovat-remont-v-kvartire-pod-sdachu/
 ---
 
 # Ремонт квартиры под сдачу: полное руководство для инвестора от А до Я

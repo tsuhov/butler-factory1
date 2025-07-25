@@ -1,10 +1,46 @@
 ---
-title: "Пушкинская карта в Санкт-Петербурге: полный гид от ButlerSPB"
-description: "Откройте для себя культурный мир Санкт-Петербурга с Пушкинской картой! Команда ButlerSPB подготовила подробную инструкцию для молодежи от 14 до 22 лет. В нашей статье вы найдете всё: как оформить карту, какой у нее лимит и, самое главное, – афишу лучших событий и мест в СПб, которые можно посетить. От Эрмитажа до современных выставок – планируйте свой культурный досуг с нами!"
-pubDate: "2025-07-22T11:44:15.645Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Пушкинская карта в Санкт-Петербурге: полный гид от ButlerSPB","description":"Откройте для себя культурный мир Санкт-Петербурга с Пушкинской картой! Команда ButlerSPB подготовила подробную инструкцию для молодежи от 14 до 22 лет. В нашей статье вы найдете всё: как оформить карту, какой у нее лимит и, самое главное, – афишу лучших событий и мест в СПб, которые можно посетить. От Эрмитажа до современных выставок – планируйте свой культурный досуг с нами!","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.7","reviewCount":305,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/kak-polzovatsya-pushkinskoy-kartoy-v-sankt-peterburge/"}}
+title: 'Пушкинская карта в Санкт-Петербурге: полный гид от ButlerSPB'
+description: >-
+  Откройте для себя культурный мир Санкт-Петербурга с Пушкинской картой! Команда
+  ButlerSPB подготовила подробную инструкцию для молодежи от 14 до 22 лет. В
+  нашей статье вы найдете всё: как оформить карту, какой у нее лимит и, самое
+  главное, – афишу лучших событий и мест в СПб, которые можно посетить. От
+  Эрмитажа до современных выставок – планируйте свой культурный досуг с нами!
+pubDate: '2025-07-22T11:44:15.645Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Пушкинская карта в Санкт-Петербурге: полный гид от ButlerSPB'
+  description: >-
+    Откройте для себя культурный мир Санкт-Петербурга с Пушкинской картой!
+    Команда ButlerSPB подготовила подробную инструкцию для молодежи от 14 до 22
+    лет. В нашей статье вы найдете всё: как оформить карту, какой у нее лимит и,
+    самое главное, – афишу лучших событий и мест в СПб, которые можно посетить.
+    От Эрмитажа до современных выставок – планируйте свой культурный досуг с
+    нами!
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '5.0'
+    reviewCount: 344
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/kak-polzovatsya-pushkinskoy-kartoy-v-sankt-peterburge/
 ---
 
 # Пушкинская карта в Санкт-Петербурге: Ваш полный гид по культурной жизни города от ButlerSPB

@@ -1,10 +1,51 @@
 ---
-title: "Как получить согласие собственника на мелкий ремонт или перестановку: гайд от ButlerSPB"
-description: "Планируете повесить полку, перекрасить стену или сделать перестановку в арендованной квартире? Чтобы избежать споров и недопонимания с владельцем, важно правильно согласовать все изменения. В этой статье мы расскажем, как составить запрос, какие аргументы использовать и как юридически грамотно зафиксировать договоренности, чтобы ваш ремонт принес только радость, а не проблемы."
-pubDate: "2025-07-22T11:40:22.391Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Как получить согласие собственника на мелкий ремонт или перестановку: гайд от ButlerSPB","description":"Планируете повесить полку, перекрасить стену или сделать перестановку в арендованной квартире? Чтобы избежать споров и недопонимания с владельцем, важно правильно согласовать все изменения. В этой статье мы расскажем, как составить запрос, какие аргументы использовать и как юридически грамотно зафиксировать договоренности, чтобы ваш ремонт принес только радость, а не проблемы.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.8","reviewCount":310,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/kak-poluchit-soglasie-sobstvennika-na-melkiy-remont-ili-perestanovku/"}}
+title: >-
+  Как получить согласие собственника на мелкий ремонт или перестановку: гайд от
+  ButlerSPB
+description: >-
+  Планируете повесить полку, перекрасить стену или сделать перестановку в
+  арендованной квартире? Чтобы избежать споров и недопонимания с владельцем,
+  важно правильно согласовать все изменения. В этой статье мы расскажем, как
+  составить запрос, какие аргументы использовать и как юридически грамотно
+  зафиксировать договоренности, чтобы ваш ремонт принес только радость, а не
+  проблемы.
+pubDate: '2025-07-22T11:40:22.391Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: >-
+    Как получить согласие собственника на мелкий ремонт или перестановку: гайд
+    от ButlerSPB
+  description: >-
+    Планируете повесить полку, перекрасить стену или сделать перестановку в
+    арендованной квартире? Чтобы избежать споров и недопонимания с владельцем,
+    важно правильно согласовать все изменения. В этой статье мы расскажем, как
+    составить запрос, какие аргументы использовать и как юридически грамотно
+    зафиксировать договоренности, чтобы ваш ремонт принес только радость, а не
+    проблемы.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '5.0'
+    reviewCount: 523
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/kak-poluchit-soglasie-sobstvennika-na-melkiy-remont-ili-perestanovku/
 ---
 
 # Ремонт в съемной квартире: как получить разрешение собственника и не потерять залог. Пошаговая инструкция от ButlerSPB.

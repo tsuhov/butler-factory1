@@ -1,10 +1,50 @@
 ---
-title: "Агентство по аренде жилья в СПб: Как выбрать надежного партнера и не ошибиться?"
-description: "Поиск квартиры в Санкт-Петербурге — задача не из легких. Огромный выбор, скрытые комиссии и риск столкнуться с недобросовестными арендодателями. В этой статье блога ButlerSPB мы расскажем, как работает профессиональное агентство по аренде жилья, на что обратить внимание при выборе посредника и как наша команда помогает найти идеальный дом в Северной столице, экономя ваше время и нервы."
-pubDate: "2025-07-21T23:41:51.244Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Агентство по аренде жилья в СПб: Как выбрать надежного партнера и не ошибиться?","description":"Поиск квартиры в Санкт-Петербурге — задача не из легких. Огромный выбор, скрытые комиссии и риск столкнуться с недобросовестными арендодателями. В этой статье блога ButlerSPB мы расскажем, как работает профессиональное агентство по аренде жилья, на что обратить внимание при выборе посредника и как наша команда помогает найти идеальный дом в Северной столице, экономя ваше время и нервы.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"5.0","reviewCount":491,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/agentstvo-po-arende-zhilya-v-spb/"}}
+title: >-
+  Агентство по аренде жилья в СПб: Как выбрать надежного партнера и не
+  ошибиться?
+description: >-
+  Поиск квартиры в Санкт-Петербурге — задача не из легких. Огромный выбор,
+  скрытые комиссии и риск столкнуться с недобросовестными арендодателями. В этой
+  статье блога ButlerSPB мы расскажем, как работает профессиональное агентство
+  по аренде жилья, на что обратить внимание при выборе посредника и как наша
+  команда помогает найти идеальный дом в Северной столице, экономя ваше время и
+  нервы.
+pubDate: '2025-07-21T23:41:51.244Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: >-
+    Агентство по аренде жилья в СПб: Как выбрать надежного партнера и не
+    ошибиться?
+  description: >-
+    Поиск квартиры в Санкт-Петербурге — задача не из легких. Огромный выбор,
+    скрытые комиссии и риск столкнуться с недобросовестными арендодателями. В
+    этой статье блога ButlerSPB мы расскажем, как работает профессиональное
+    агентство по аренде жилья, на что обратить внимание при выборе посредника и
+    как наша команда помогает найти идеальный дом в Северной столице, экономя
+    ваше время и нервы.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.9'
+    reviewCount: 366
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': 'https://butlerspb-blog.netlify.app/blog/agentstvo-po-arende-zhilya-v-spb/'
 ---
 
 # Как выбрать лучшее агентство по аренде жилья в Санкт-Петербурге: от проверки документов до полного управления

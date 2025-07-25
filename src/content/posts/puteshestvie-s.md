@@ -1,11 +1,39 @@
 ---
-title: "Путешествие вдвоем: гид по идеальному отпуску"
-description: "Как превратить совместный отпуск в сказку? Делимся советами по планированию, поиску компромиссов и созданию романтики для незабываемого путешествия вдвоем."
-keywords: "путешествие вдвоем, романтический отдых, отношения в поездке, советы путешественникам, планирование отпуска, ButlerSPB"
-pubDate: "2025-07-25T16:08:13.494Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Путешествие вдвоем: гид по идеальному отпуску","description":"Как превратить совместный отпуск в сказку? Делимся советами по планированию, поиску компромиссов и созданию романтики для незабываемого путешествия вдвоем.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.8","reviewCount":778,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/puteshestvie-s/"}}
+title: 'Путешествие вдвоем: гид по идеальному отпуску'
+description: >-
+  Как превратить совместный отпуск в сказку? Делимся советами по планированию,
+  поиску компромиссов и созданию романтики для незабываемого путешествия вдвоем.
+pubDate: '2025-07-25T16:08:13.494Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Путешествие вдвоем: гид по идеальному отпуску'
+  description: >-
+    Как превратить совместный отпуск в сказку? Делимся советами по планированию,
+    поиску компромиссов и созданию романтики для незабываемого путешествия
+    вдвоем.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.8'
+    reviewCount: 634
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': 'https://butlerspb-blog.netlify.app/blog/puteshestvie-s/'
 ---
 # Искусство путешествовать: Ваш гид по безупречным поездкам с ButlerSPB
 

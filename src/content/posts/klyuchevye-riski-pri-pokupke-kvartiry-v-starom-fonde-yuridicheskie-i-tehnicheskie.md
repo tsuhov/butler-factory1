@@ -1,10 +1,51 @@
 ---
-title: "Ключевые риски при покупке квартиры в старом фонде: юридические и технические аспекты"
-description: "Мечта о квартире в историческом центре может столкнуться с суровой реальностью. От ветхих коммуникаций и проблемных перекрытий до запутанной юридической истории объекта — покупка жилья в старом фонде сопряжена с множеством рисков. В новой статье блога ButlerSPB мы подробно разбираем, на что обратить внимание при проверке документов и технического состояния квартиры, чтобы ваша инвестиция была безопасной и выгодной."
-pubDate: "2025-07-23T11:16:42.005Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Ключевые риски при покупке квартиры в старом фонде: юридические и технические аспекты","description":"Мечта о квартире в историческом центре может столкнуться с суровой реальностью. От ветхих коммуникаций и проблемных перекрытий до запутанной юридической истории объекта — покупка жилья в старом фонде сопряжена с множеством рисков. В новой статье блога ButlerSPB мы подробно разбираем, на что обратить внимание при проверке документов и технического состояния квартиры, чтобы ваша инвестиция была безопасной и выгодной.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.8","reviewCount":522,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/klyuchevye-riski-pri-pokupke-kvartiry-v-starom-fonde-yuridicheskie-i-tehnicheskie/"}}
+title: >-
+  Ключевые риски при покупке квартиры в старом фонде: юридические и технические
+  аспекты
+description: >-
+  Мечта о квартире в историческом центре может столкнуться с суровой
+  реальностью. От ветхих коммуникаций и проблемных перекрытий до запутанной
+  юридической истории объекта — покупка жилья в старом фонде сопряжена с
+  множеством рисков. В новой статье блога ButlerSPB мы подробно разбираем, на
+  что обратить внимание при проверке документов и технического состояния
+  квартиры, чтобы ваша инвестиция была безопасной и выгодной.
+pubDate: '2025-07-23T11:16:42.005Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: >-
+    Ключевые риски при покупке квартиры в старом фонде: юридические и
+    технические аспекты
+  description: >-
+    Мечта о квартире в историческом центре может столкнуться с суровой
+    реальностью. От ветхих коммуникаций и проблемных перекрытий до запутанной
+    юридической истории объекта — покупка жилья в старом фонде сопряжена с
+    множеством рисков. В новой статье блога ButlerSPB мы подробно разбираем, на
+    что обратить внимание при проверке документов и технического состояния
+    квартиры, чтобы ваша инвестиция была безопасной и выгодной.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '5.0'
+    reviewCount: 528
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/klyuchevye-riski-pri-pokupke-kvartiry-v-starom-fonde-yuridicheskie-i-tehnicheskie/
 ---
 
 # Старый фонд Петербурга: 7 юридических и 8 технических "мин", о которых молчат продавцы

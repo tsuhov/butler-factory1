@@ -1,10 +1,45 @@
 ---
-title: "Правила перевозки животных в поездах и самолетах: полный гайд от ButlerSPB"
-description: "Планируете путешествие с собакой или кошкой? Узнайте актуальные правила перевозки животных в поездах РЖД и самолетах. В нашей статье мы подробно разбираем, какие документы нужны, как выбрать переноску, и какие требования предъявляются к питомцам в салоне и багажном отсеке. Готовьтесь к поездке правильно, чтобы она прошла комфортно и для вас, и для вашего любимца."
-pubDate: "2025-07-22T11:47:15.376Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Правила перевозки животных в поездах и самолетах: полный гайд от ButlerSPB","description":"Планируете путешествие с собакой или кошкой? Узнайте актуальные правила перевозки животных в поездах РЖД и самолетах. В нашей статье мы подробно разбираем, какие документы нужны, как выбрать переноску, и какие требования предъявляются к питомцам в салоне и багажном отсеке. Готовьтесь к поездке правильно, чтобы она прошла комфортно и для вас, и для вашего любимца.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":367,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/pravila-perevozki-zhivotnyh-v-poezdah-i-samoletah/"}}
+title: 'Правила перевозки животных в поездах и самолетах: полный гайд от ButlerSPB'
+description: >-
+  Планируете путешествие с собакой или кошкой? Узнайте актуальные правила
+  перевозки животных в поездах РЖД и самолетах. В нашей статье мы подробно
+  разбираем, какие документы нужны, как выбрать переноску, и какие требования
+  предъявляются к питомцам в салоне и багажном отсеке. Готовьтесь к поездке
+  правильно, чтобы она прошла комфортно и для вас, и для вашего любимца.
+pubDate: '2025-07-22T11:47:15.376Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Правила перевозки животных в поездах и самолетах: полный гайд от ButlerSPB'
+  description: >-
+    Планируете путешествие с собакой или кошкой? Узнайте актуальные правила
+    перевозки животных в поездах РЖД и самолетах. В нашей статье мы подробно
+    разбираем, какие документы нужны, как выбрать переноску, и какие требования
+    предъявляются к питомцам в салоне и багажном отсеке. Готовьтесь к поездке
+    правильно, чтобы она прошла комфортно и для вас, и для вашего любимца.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.9'
+    reviewCount: 760
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/pravila-perevozki-zhivotnyh-v-poezdah-i-samoletah/
 ---
 
 # Перевозка животных в поездах и самолетах: Полное руководство 2024 от ButlerSPB

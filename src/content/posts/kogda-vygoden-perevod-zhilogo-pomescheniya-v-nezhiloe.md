@@ -1,10 +1,45 @@
 ---
-title: "Из квартиры в бизнес: когда выгоден перевод жилого помещения в нежилое?"
-description: "Ваша квартира на первом этаже может приносить в 2-3 раза больше дохода! Узнайте, в каких случаях перевод жилого помещения в нежилой фонд становится золотой жилой для собственника. В новой статье блога ButlerSPB разбираем ключевые факторы успеха: локация, планировка, юридические тонкости и расчет окупаемости."
-pubDate: "2025-07-22T13:52:13.760Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Из квартиры в бизнес: когда выгоден перевод жилого помещения в нежилое?","description":"Ваша квартира на первом этаже может приносить в 2-3 раза больше дохода! Узнайте, в каких случаях перевод жилого помещения в нежилой фонд становится золотой жилой для собственника. В новой статье блога ButlerSPB разбираем ключевые факторы успеха: локация, планировка, юридические тонкости и расчет окупаемости.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":518,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/kogda-vygoden-perevod-zhilogo-pomescheniya-v-nezhiloe/"}}
+title: 'Из квартиры в бизнес: когда выгоден перевод жилого помещения в нежилое?'
+description: >-
+  Ваша квартира на первом этаже может приносить в 2-3 раза больше дохода!
+  Узнайте, в каких случаях перевод жилого помещения в нежилой фонд становится
+  золотой жилой для собственника. В новой статье блога ButlerSPB разбираем
+  ключевые факторы успеха: локация, планировка, юридические тонкости и расчет
+  окупаемости.
+pubDate: '2025-07-22T13:52:13.760Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Из квартиры в бизнес: когда выгоден перевод жилого помещения в нежилое?'
+  description: >-
+    Ваша квартира на первом этаже может приносить в 2-3 раза больше дохода!
+    Узнайте, в каких случаях перевод жилого помещения в нежилой фонд становится
+    золотой жилой для собственника. В новой статье блога ButlerSPB разбираем
+    ключевые факторы успеха: локация, планировка, юридические тонкости и расчет
+    окупаемости.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.8'
+    reviewCount: 759
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/kogda-vygoden-perevod-zhilogo-pomescheniya-v-nezhiloe/
 ---
 
 # Перевод жилого в нежилое: когда игра стоит свеч? Полный разбор от экспертов ButlerSPB

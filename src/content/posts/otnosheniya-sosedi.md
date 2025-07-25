@@ -1,11 +1,40 @@
 ---
-title: "Отношения с соседями: от конфликта к дружбе"
-description: "Шум, споры из-за парковки, бытовые ссоры? Рассказываем, как избежать конфликтов с соседями и создать комфортную атмосферу в доме. Простые правила и советы."
-keywords: "отношения с соседями, конфликты с соседями, добрососедство, шумные соседи, жизнь в мкд, правила общения"
-pubDate: "2025-07-25T16:33:51.438Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Отношения с соседями: от конфликта к дружбе","description":"Шум, споры из-за парковки, бытовые ссоры? Рассказываем, как избежать конфликтов с соседями и создать комфортную атмосферу в доме. Простые правила и советы.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.7","reviewCount":639,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/otnosheniya-sosedi/"}}
+title: 'Отношения с соседями: от конфликта к дружбе'
+description: >-
+  Шум, споры из-за парковки, бытовые ссоры? Рассказываем, как избежать
+  конфликтов с соседями и создать комфортную атмосферу в доме. Простые правила и
+  советы.
+pubDate: '2025-07-25T16:33:51.438Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Отношения с соседями: от конфликта к дружбе'
+  description: >-
+    Шум, споры из-за парковки, бытовые ссоры? Рассказываем, как избежать
+    конфликтов с соседями и создать комфортную атмосферу в доме. Простые правила
+    и советы.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.8'
+    reviewCount: 654
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': 'https://butlerspb-blog.netlify.app/blog/otnosheniya-sosedi/'
 ---
 # Как построить идеальные отношения с соседями: полное руководство от экспертов ButlerSPB
 

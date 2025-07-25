@@ -1,10 +1,47 @@
 ---
-title: "Welcome to St. Petersburg: Как мы в ButlerSPB создаем комфорт для гостей со всего мира"
-description: "В новой статье нашего блога мы делимся секретами безупречного сервиса для зарубежных гостей. Рассказываем, как языковая поддержка, знание культурных особенностей и персонализированные услуги помогают нам делать пребывание туристов в Санкт-Петербурге по-настоящему незабываемым и комфортным."
-pubDate: "2025-07-22T11:29:12.878Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Welcome to St. Petersburg: Как мы в ButlerSPB создаем комфорт для гостей со всего мира","description":"В новой статье нашего блога мы делимся секретами безупречного сервиса для зарубежных гостей. Рассказываем, как языковая поддержка, знание культурных особенностей и персонализированные услуги помогают нам делать пребывание туристов в Санкт-Петербурге по-настоящему незабываемым и комфортным.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":472,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/kak-my-adaptiruem-servis-dlya-inostrannyh-turistov/"}}
+title: >-
+  Welcome to St. Petersburg: Как мы в ButlerSPB создаем комфорт для гостей со
+  всего мира
+description: >-
+  В новой статье нашего блога мы делимся секретами безупречного сервиса для
+  зарубежных гостей. Рассказываем, как языковая поддержка, знание культурных
+  особенностей и персонализированные услуги помогают нам делать пребывание
+  туристов в Санкт-Петербурге по-настоящему незабываемым и комфортным.
+pubDate: '2025-07-22T11:29:12.878Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: >-
+    Welcome to St. Petersburg: Как мы в ButlerSPB создаем комфорт для гостей со
+    всего мира
+  description: >-
+    В новой статье нашего блога мы делимся секретами безупречного сервиса для
+    зарубежных гостей. Рассказываем, как языковая поддержка, знание культурных
+    особенностей и персонализированные услуги помогают нам делать пребывание
+    туристов в Санкт-Петербурге по-настоящему незабываемым и комфортным.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '5.0'
+    reviewCount: 822
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/kak-my-adaptiruem-servis-dlya-inostrannyh-turistov/
 ---
 
 # From Tourist to Honored Guest: How We Tailor Our St. Petersburg Experience for International Visitors

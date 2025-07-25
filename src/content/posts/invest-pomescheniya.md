@@ -1,11 +1,38 @@
 ---
-title: "Инвест помещения: как выгодно вложить деньги"
-description: "Ищете, куда вложить средства? Коммерческая недвижимость в Санкт-Петербурге — надежный актив. В этой статье ButlerSPB расскажет о стратегиях и рисках."
-keywords: "инвестиции в недвижимость, коммерческая недвижимость, инвест помещения, доходная недвижимость, вложения в бизнес, ButlerSPB"
-pubDate: "2025-07-25T14:35:14.484Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Инвест помещения: как выгодно вложить деньги","description":"Ищете, куда вложить средства? Коммерческая недвижимость в Санкт-Петербурге — надежный актив. В этой статье ButlerSPB расскажет о стратегиях и рисках.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":886,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/invest-pomescheniya/"}}
+title: 'Инвест помещения: как выгодно вложить деньги'
+description: >-
+  Ищете, куда вложить средства? Коммерческая недвижимость в Санкт-Петербурге —
+  надежный актив. В этой статье ButlerSPB расскажет о стратегиях и рисках.
+pubDate: '2025-07-25T14:35:14.484Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Инвест помещения: как выгодно вложить деньги'
+  description: >-
+    Ищете, куда вложить средства? Коммерческая недвижимость в Санкт-Петербурге —
+    надежный актив. В этой статье ButlerSPB расскажет о стратегиях и рисках.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '5.0'
+    reviewCount: 640
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': 'https://butlerspb-blog.netlify.app/blog/invest-pomescheniya/'
 ---
 # Инвест помещения: Полное руководство по выбору и покупке доходной коммерческой недвижимости в Санкт-Петербурге
 

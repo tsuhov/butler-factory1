@@ -1,11 +1,40 @@
 ---
-title: "Юрист ButlerSPB: решение ваших правовых задач"
-description: "Столкнулись с правовой проблемой и не знаете, что делать? Квалифицированный юрист компании ButlerSPB разберется в ситуации, защитит ваши права и найдет выход."
-keywords: "юрист, юридическая помощь, консультация юриста, ButlerSPB, правовая защита, юрист спб, услуги юриста"
-pubDate: "2025-07-25T16:36:17.125Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Юрист ButlerSPB: решение ваших правовых задач","description":"Столкнулись с правовой проблемой и не знаете, что делать? Квалифицированный юрист компании ButlerSPB разберется в ситуации, защитит ваши права и найдет выход.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":785,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/yurist-pomozhet/"}}
+title: 'Юрист ButlerSPB: решение ваших правовых задач'
+description: >-
+  Столкнулись с правовой проблемой и не знаете, что делать? Квалифицированный
+  юрист компании ButlerSPB разберется в ситуации, защитит ваши права и найдет
+  выход.
+pubDate: '2025-07-25T16:36:17.125Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Юрист ButlerSPB: решение ваших правовых задач'
+  description: >-
+    Столкнулись с правовой проблемой и не знаете, что делать? Квалифицированный
+    юрист компании ButlerSPB разберется в ситуации, защитит ваши права и найдет
+    выход.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.9'
+    reviewCount: 397
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': 'https://butlerspb-blog.netlify.app/blog/yurist-pomozhet/'
 ---
 # Когда и чем на самом деле поможет юрист: от консультации до решения вашей проблемы
 

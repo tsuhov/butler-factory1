@@ -1,11 +1,40 @@
 ---
-title: "Складские инвестиции: прибыльный бизнес 2024"
-description: "Рассматриваем складскую недвижимость как выгодный инвестиционный инструмент. Узнайте о текущих трендах, рисках и перспективах для инвесторов в блоге ButlerSPB."
-keywords: "инвестиции в склады, складская недвижимость, логистика, e-commerce, арендный бизнес, пассивный доход, ButlerSPB"
-pubDate: "2025-07-25T14:34:11.556Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Складские инвестиции: прибыльный бизнес 2024","description":"Рассматриваем складскую недвижимость как выгодный инвестиционный инструмент. Узнайте о текущих трендах, рисках и перспективах для инвесторов в блоге ButlerSPB.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"5.0","reviewCount":652,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/skladskie-investicii/"}}
+title: 'Складские инвестиции: прибыльный бизнес 2024'
+description: >-
+  Рассматриваем складскую недвижимость как выгодный инвестиционный инструмент.
+  Узнайте о текущих трендах, рисках и перспективах для инвесторов в блоге
+  ButlerSPB.
+pubDate: '2025-07-25T14:34:11.556Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Складские инвестиции: прибыльный бизнес 2024'
+  description: >-
+    Рассматриваем складскую недвижимость как выгодный инвестиционный инструмент.
+    Узнайте о текущих трендах, рисках и перспективах для инвесторов в блоге
+    ButlerSPB.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '5.0'
+    reviewCount: 713
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': 'https://butlerspb-blog.netlify.app/blog/skladskie-investicii/'
 ---
 # Инвестиции в склады: почему логистические комплексы стали «новым золотом» для инвесторов?
 

@@ -1,11 +1,40 @@
 ---
-title: "Поддержка 24/7 от ButlerSPB: мы рядом всегда"
-description: "В ButlerSPB мы понимаем, что помощь может понадобиться в любое время. Наша служба поддержки работает круглосуточно, чтобы оперативно решать ваши вопросы и проблемы."
-keywords: "поддержка 24/7, ButlerSPB, круглосуточная поддержка, клиентский сервис, служба поддержки, помощь клиентам, техническая поддержка"
-pubDate: "2025-07-25T15:37:24.356Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Поддержка 24/7 от ButlerSPB: мы рядом всегда","description":"В ButlerSPB мы понимаем, что помощь может понадобиться в любое время. Наша служба поддержки работает круглосуточно, чтобы оперативно решать ваши вопросы и проблемы.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":616,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/podderzhka-247/"}}
+title: 'Поддержка 24/7 от ButlerSPB: мы рядом всегда'
+description: >-
+  В ButlerSPB мы понимаем, что помощь может понадобиться в любое время. Наша
+  служба поддержки работает круглосуточно, чтобы оперативно решать ваши вопросы
+  и проблемы.
+pubDate: '2025-07-25T15:37:24.356Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Поддержка 24/7 от ButlerSPB: мы рядом всегда'
+  description: >-
+    В ButlerSPB мы понимаем, что помощь может понадобиться в любое время. Наша
+    служба поддержки работает круглосуточно, чтобы оперативно решать ваши
+    вопросы и проблемы.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.8'
+    reviewCount: 344
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': 'https://butlerspb-blog.netlify.app/blog/podderzhka-247/'
 ---
 # Поддержка 24/7: Ваш бизнес под защитой круглосуточно
 

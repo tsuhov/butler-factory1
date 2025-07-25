@@ -1,11 +1,39 @@
 ---
-title: "Как найти идеального арендатора для квартиры"
-description: "Сдача квартиры в аренду – ответственный шаг. В нашей статье мы подробно расскажем, где размещать объявления и как правильно проверять будущих жильцов."
-keywords: "поиск арендаторов, сдать квартиру, найти жильцов, аренда недвижимости, арендодатель, проверка арендатора"
-pubDate: "2025-07-25T16:19:44.911Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Как найти идеального арендатора для квартиры","description":"Сдача квартиры в аренду – ответственный шаг. В нашей статье мы подробно расскажем, где размещать объявления и как правильно проверять будущих жильцов.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"5.0","reviewCount":672,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/arendatorov-poisk/"}}
+title: Как найти идеального арендатора для квартиры
+description: >-
+  Сдача квартиры в аренду – ответственный шаг. В нашей статье мы подробно
+  расскажем, где размещать объявления и как правильно проверять будущих жильцов.
+pubDate: '2025-07-25T16:19:44.911Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: Как найти идеального арендатора для квартиры
+  description: >-
+    Сдача квартиры в аренду – ответственный шаг. В нашей статье мы подробно
+    расскажем, где размещать объявления и как правильно проверять будущих
+    жильцов.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.8'
+    reviewCount: 763
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': 'https://butlerspb-blog.netlify.app/blog/arendatorov-poisk/'
 ---
 # Как найти идеального арендатора в Санкт-Петербурге: Полное руководство для собственника от ButlerSPB
 

@@ -1,10 +1,51 @@
 ---
-title: "Продажа помещения с арендатором: почему продуктовый магазин — это готовый арендный бизнес"
-description: "Объект коммерческой недвижимости с долгосрочным арендатором в лице продуктового магазина — один из самых ликвидных активов на рынке. В новой статье блога ButlerSPB разбираем все преимущества такой сделки для собственника: стабильный денежный поток, высокая инвестиционная привлекательность и минимальные риски. Узнайте, как правильно оценить объект и подготовить его к продаже, чтобы получить максимальную выгоду."
-pubDate: "2025-07-23T12:09:07.352Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Продажа помещения с арендатором: почему продуктовый магазин — это готовый арендный бизнес","description":"Объект коммерческой недвижимости с долгосрочным арендатором в лице продуктового магазина — один из самых ликвидных активов на рынке. В новой статье блога ButlerSPB разбираем все преимущества такой сделки для собственника: стабильный денежный поток, высокая инвестиционная привлекательность и минимальные риски. Узнайте, как правильно оценить объект и подготовить его к продаже, чтобы получить максимальную выгоду.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":789,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/prodazha-pomescheniya-arenduemogo-produktovym-magazinom/"}}
+title: >-
+  Продажа помещения с арендатором: почему продуктовый магазин — это готовый
+  арендный бизнес
+description: >-
+  Объект коммерческой недвижимости с долгосрочным арендатором в лице
+  продуктового магазина — один из самых ликвидных активов на рынке. В новой
+  статье блога ButlerSPB разбираем все преимущества такой сделки для
+  собственника: стабильный денежный поток, высокая инвестиционная
+  привлекательность и минимальные риски. Узнайте, как правильно оценить объект и
+  подготовить его к продаже, чтобы получить максимальную выгоду.
+pubDate: '2025-07-23T12:09:07.352Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: >-
+    Продажа помещения с арендатором: почему продуктовый магазин — это готовый
+    арендный бизнес
+  description: >-
+    Объект коммерческой недвижимости с долгосрочным арендатором в лице
+    продуктового магазина — один из самых ликвидных активов на рынке. В новой
+    статье блога ButlerSPB разбираем все преимущества такой сделки для
+    собственника: стабильный денежный поток, высокая инвестиционная
+    привлекательность и минимальные риски. Узнайте, как правильно оценить объект
+    и подготовить его к продаже, чтобы получить максимальную выгоду.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.9'
+    reviewCount: 516
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/prodazha-pomescheniya-arenduemogo-produktovym-magazinom/
 ---
 
 # Как выгодно продать помещение с продуктовым магазином: пошаговое руководство от экспертов ButlerSPB

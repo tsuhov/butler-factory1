@@ -1,10 +1,51 @@
 ---
-title: "Инфлюенс-маркетинг в Петербурге: как ButlerSPB находит идеальных блогеров для вашего бренда"
-description: "Санкт-Петербург — город с уникальной аудиторией и своими лидерами мнений. В новой статье блога ButlerSPB мы делимся экспертным опытом: где искать релевантных блогеров в СПб, как проверять их статистику, избегать накруток и выстраивать эффективное сотрудничество, которое принесет реальные результаты вашему бизнесу. Пошаговая инструкция для успешных коллабораций в культурной столице."
-pubDate: "2025-07-22T11:20:44.476Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Инфлюенс-маркетинг в Петербурге: как ButlerSPB находит идеальных блогеров для вашего бренда","description":"Санкт-Петербург — город с уникальной аудиторией и своими лидерами мнений. В новой статье блога ButlerSPB мы делимся экспертным опытом: где искать релевантных блогеров в СПб, как проверять их статистику, избегать накруток и выстраивать эффективное сотрудничество, которое принесет реальные результаты вашему бизнесу. Пошаговая инструкция для успешных коллабораций в культурной столице.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.8","reviewCount":648,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/rabota-s-blogerami-i-liderami-mneniy-v-sankt-peterburge/"}}
+title: >-
+  Инфлюенс-маркетинг в Петербурге: как ButlerSPB находит идеальных блогеров для
+  вашего бренда
+description: >-
+  Санкт-Петербург — город с уникальной аудиторией и своими лидерами мнений. В
+  новой статье блога ButlerSPB мы делимся экспертным опытом: где искать
+  релевантных блогеров в СПб, как проверять их статистику, избегать накруток и
+  выстраивать эффективное сотрудничество, которое принесет реальные результаты
+  вашему бизнесу. Пошаговая инструкция для успешных коллабораций в культурной
+  столице.
+pubDate: '2025-07-22T11:20:44.476Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: >-
+    Инфлюенс-маркетинг в Петербурге: как ButlerSPB находит идеальных блогеров
+    для вашего бренда
+  description: >-
+    Санкт-Петербург — город с уникальной аудиторией и своими лидерами мнений. В
+    новой статье блога ButlerSPB мы делимся экспертным опытом: где искать
+    релевантных блогеров в СПб, как проверять их статистику, избегать накруток и
+    выстраивать эффективное сотрудничество, которое принесет реальные результаты
+    вашему бизнесу. Пошаговая инструкция для успешных коллабораций в культурной
+    столице.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.8'
+    reviewCount: 692
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/rabota-s-blogerami-i-liderami-mneniy-v-sankt-peterburge/
 ---
 
 # Работа с блогерами в Санкт-Петербурге: Полное руководство по influence-маркетингу в Северной столице

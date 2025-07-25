@@ -1,10 +1,47 @@
 ---
-title: "Что проверить перед подписанием договора на квартиру в новостройке"
-description: "Покупка квартиры в строящемся доме – ответственный шаг. Команда ButlerSPB подготовила исчерпывающий чек-лист для будущих новоселов. В этой статье мы подробно разберем, какие документы застройщика необходимо изучить, на какие пункты в договоре долевого участия (ДДУ) обратить пристальное внимание и как убедиться в надежности строительной компании, чтобы ваша сделка была безопасной и выгодной."
-pubDate: "2025-07-22T11:37:55.710Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Что проверить перед подписанием договора на квартиру в новостройке","description":"Покупка квартиры в строящемся доме – ответственный шаг. Команда ButlerSPB подготовила исчерпывающий чек-лист для будущих новоселов. В этой статье мы подробно разберем, какие документы застройщика необходимо изучить, на какие пункты в договоре долевого участия (ДДУ) обратить пристальное внимание и как убедиться в надежности строительной компании, чтобы ваша сделка была безопасной и выгодной.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"5.0","reviewCount":345,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/chto-proverit-pered-podpisaniem-dogovora-na-kvartiru-v-novostroyke/"}}
+title: Что проверить перед подписанием договора на квартиру в новостройке
+description: >-
+  Покупка квартиры в строящемся доме – ответственный шаг. Команда ButlerSPB
+  подготовила исчерпывающий чек-лист для будущих новоселов. В этой статье мы
+  подробно разберем, какие документы застройщика необходимо изучить, на какие
+  пункты в договоре долевого участия (ДДУ) обратить пристальное внимание и как
+  убедиться в надежности строительной компании, чтобы ваша сделка была
+  безопасной и выгодной.
+pubDate: '2025-07-22T11:37:55.710Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: Что проверить перед подписанием договора на квартиру в новостройке
+  description: >-
+    Покупка квартиры в строящемся доме – ответственный шаг. Команда ButlerSPB
+    подготовила исчерпывающий чек-лист для будущих новоселов. В этой статье мы
+    подробно разберем, какие документы застройщика необходимо изучить, на какие
+    пункты в договоре долевого участия (ДДУ) обратить пристальное внимание и как
+    убедиться в надежности строительной компании, чтобы ваша сделка была
+    безопасной и выгодной.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '5.0'
+    reviewCount: 439
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/chto-proverit-pered-podpisaniem-dogovora-na-kvartiru-v-novostroyke/
 ---
 
 # Что проверить перед подписанием договора на квартиру в новостройке: полный чек-лист от экспертов ButlerSPB

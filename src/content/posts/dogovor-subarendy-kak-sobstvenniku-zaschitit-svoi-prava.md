@@ -1,10 +1,49 @@
 ---
-title: "Договор субаренды: как собственнику защитить свои права"
-description: "Сдача недвижимости в субаренду может стать источником дополнительного дохода для арендатора, но для собственника несет определенные риски. Как правильно оформить согласие на субаренду, какие пункты включить в основной договор для контроля над ситуацией и как избежать проблем с субарендаторами? В новой статье блога ButlerSPB разбираем ключевые моменты договора субаренды и даем практические советы, которые помогут собственникам защитить свои права и имущество."
-pubDate: "2025-07-23T10:41:42.201Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Договор субаренды: как собственнику защитить свои права","description":"Сдача недвижимости в субаренду может стать источником дополнительного дохода для арендатора, но для собственника несет определенные риски. Как правильно оформить согласие на субаренду, какие пункты включить в основной договор для контроля над ситуацией и как избежать проблем с субарендаторами? В новой статье блога ButlerSPB разбираем ключевые моменты договора субаренды и даем практические советы, которые помогут собственникам защитить свои права и имущество.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":349,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/dogovor-subarendy-kak-sobstvenniku-zaschitit-svoi-prava/"}}
+title: 'Договор субаренды: как собственнику защитить свои права'
+description: >-
+  Сдача недвижимости в субаренду может стать источником дополнительного дохода
+  для арендатора, но для собственника несет определенные риски. Как правильно
+  оформить согласие на субаренду, какие пункты включить в основной договор для
+  контроля над ситуацией и как избежать проблем с субарендаторами? В новой
+  статье блога ButlerSPB разбираем ключевые моменты договора субаренды и даем
+  практические советы, которые помогут собственникам защитить свои права и
+  имущество.
+pubDate: '2025-07-23T10:41:42.201Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Договор субаренды: как собственнику защитить свои права'
+  description: >-
+    Сдача недвижимости в субаренду может стать источником дополнительного дохода
+    для арендатора, но для собственника несет определенные риски. Как правильно
+    оформить согласие на субаренду, какие пункты включить в основной договор для
+    контроля над ситуацией и как избежать проблем с субарендаторами? В новой
+    статье блога ButlerSPB разбираем ключевые моменты договора субаренды и даем
+    практические советы, которые помогут собственникам защитить свои права и
+    имущество.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.8'
+    reviewCount: 679
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/dogovor-subarendy-kak-sobstvenniku-zaschitit-svoi-prava/
 ---
 
 # Договор субаренды: Как собственнику на 100% защитить свои права и недвижимость

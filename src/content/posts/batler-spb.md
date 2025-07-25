@@ -1,11 +1,40 @@
 ---
-title: "Услуги батлера в СПБ от компании ButlerSPB"
-description: "ButlerSPB – ваш надежный батлер в Санкт-Петербурге. Предлагаем премиум-сервис по управлению домом, организации мероприятий и личные поручения. Гарантия качества."
-keywords: "батлер спб, услуги батлера, личный помощник спб, управление домом, элитный сервис, ButlerSPB"
-pubDate: "2025-07-24T13:38:28.961Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Услуги батлера в СПБ от компании ButlerSPB","description":"ButlerSPB – ваш надежный батлер в Санкт-Петербурге. Предлагаем премиум-сервис по управлению домом, организации мероприятий и личные поручения. Гарантия качества.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.7","reviewCount":339,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/batler-spb/"}}
+title: Услуги батлера в СПБ от компании ButlerSPB
+description: >-
+  ButlerSPB – ваш надежный батлер в Санкт-Петербурге. Предлагаем премиум-сервис
+  по управлению домом, организации мероприятий и личные поручения. Гарантия
+  качества.
+pubDate: '2025-07-24T13:38:28.961Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: Услуги батлера в СПБ от компании ButlerSPB
+  description: >-
+    ButlerSPB – ваш надежный батлер в Санкт-Петербурге. Предлагаем
+    премиум-сервис по управлению домом, организации мероприятий и личные
+    поручения. Гарантия качества.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.9'
+    reviewCount: 433
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': 'https://butlerspb-blog.netlify.app/blog/batler-spb/'
 ---
 # Батлер в СПБ: Больше, чем дворецкий. Полное руководство по элитному сервису от экспертов ButlerSPB
 

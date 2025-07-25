@@ -1,11 +1,40 @@
 ---
-title: "Аренда оснащения для мероприятий от ButlerSPB"
-description: "ButlerSPB предлагает полный комплекс услуг по аренде оснащения для мероприятий любого масштаба. Мебель, текстиль, посуда и техника для вашего идеального события."
-keywords: "аренда оборудования, оснащение мероприятий, аренда мебели, аренда посуды, кейтеринг, ButlerSPB, мероприятия СПб"
-pubDate: "2025-07-25T14:12:33.468Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Аренда оснащения для мероприятий от ButlerSPB","description":"ButlerSPB предлагает полный комплекс услуг по аренде оснащения для мероприятий любого масштаба. Мебель, текстиль, посуда и техника для вашего идеального события.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":427,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/osnaschenie-arenda/"}}
+title: Аренда оснащения для мероприятий от ButlerSPB
+description: >-
+  ButlerSPB предлагает полный комплекс услуг по аренде оснащения для мероприятий
+  любого масштаба. Мебель, текстиль, посуда и техника для вашего идеального
+  события.
+pubDate: '2025-07-25T14:12:33.468Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: Аренда оснащения для мероприятий от ButlerSPB
+  description: >-
+    ButlerSPB предлагает полный комплекс услуг по аренде оснащения для
+    мероприятий любого масштаба. Мебель, текстиль, посуда и техника для вашего
+    идеального события.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.9'
+    reviewCount: 599
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': 'https://butlerspb-blog.netlify.app/blog/osnaschenie-arenda/'
 ---
 # Как правильно оснастить квартиру для аренды: полное руководство для инвестора от А до Я
 

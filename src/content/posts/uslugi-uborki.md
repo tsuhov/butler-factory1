@@ -1,11 +1,40 @@
 ---
-title: "Идеальная чистота с ButlerSPB: услуги уборки"
-description: "ButlerSPB предоставляет профессиональные клининговые услуги в СПб. Мы гарантируем идеальную чистоту вашего дома. Закажите уборку и наслаждайтесь результатом."
-keywords: "услуги уборки, клининг спб, уборка квартир, ButlerSPB, заказать уборку, профессиональный клининг"
-pubDate: "2025-07-25T16:15:24.332Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Идеальная чистота с ButlerSPB: услуги уборки","description":"ButlerSPB предоставляет профессиональные клининговые услуги в СПб. Мы гарантируем идеальную чистоту вашего дома. Закажите уборку и наслаждайтесь результатом.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":783,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/uslugi-uborki/"}}
+title: 'Идеальная чистота с ButlerSPB: услуги уборки'
+description: >-
+  ButlerSPB предоставляет профессиональные клининговые услуги в СПб. Мы
+  гарантируем идеальную чистоту вашего дома. Закажите уборку и наслаждайтесь
+  результатом.
+pubDate: '2025-07-25T16:15:24.332Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Идеальная чистота с ButlerSPB: услуги уборки'
+  description: >-
+    ButlerSPB предоставляет профессиональные клининговые услуги в СПб. Мы
+    гарантируем идеальную чистоту вашего дома. Закажите уборку и наслаждайтесь
+    результатом.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.9'
+    reviewCount: 528
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': 'https://butlerspb-blog.netlify.app/blog/uslugi-uborki/'
 ---
 # Услуги профессиональной уборки в Санкт-Петербурге: Верните себе время для главного
 

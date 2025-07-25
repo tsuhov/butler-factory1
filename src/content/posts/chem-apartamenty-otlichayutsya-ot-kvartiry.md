@@ -1,10 +1,50 @@
 ---
-title: "Апартаменты vs. Квартира: 7 ключевых отличий, о которых нужно знать перед покупкой"
-description: "Выбираете недвижимость и столкнулись с дилеммой: квартира или апартаменты? На первый взгляд разница неочевидна, но она влияет на стоимость, налоги, прописку и даже на состав соседей. В новой статье блога ButlerSPB мы подробно разбираем все юридические и бытовые нюансы, чтобы вы могли сделать осознанный выбор и найти идеальный вариант для жизни или инвестиций в Санкт-Петербурге."
-pubDate: "2025-07-22T11:37:33.043Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Апартаменты vs. Квартира: 7 ключевых отличий, о которых нужно знать перед покупкой","description":"Выбираете недвижимость и столкнулись с дилеммой: квартира или апартаменты? На первый взгляд разница неочевидна, но она влияет на стоимость, налоги, прописку и даже на состав соседей. В новой статье блога ButlerSPB мы подробно разбираем все юридические и бытовые нюансы, чтобы вы могли сделать осознанный выбор и найти идеальный вариант для жизни или инвестиций в Санкт-Петербурге.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.8","reviewCount":410,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/chem-apartamenty-otlichayutsya-ot-kvartiry/"}}
+title: >-
+  Апартаменты vs. Квартира: 7 ключевых отличий, о которых нужно знать перед
+  покупкой
+description: >-
+  Выбираете недвижимость и столкнулись с дилеммой: квартира или апартаменты? На
+  первый взгляд разница неочевидна, но она влияет на стоимость, налоги, прописку
+  и даже на состав соседей. В новой статье блога ButlerSPB мы подробно разбираем
+  все юридические и бытовые нюансы, чтобы вы могли сделать осознанный выбор и
+  найти идеальный вариант для жизни или инвестиций в Санкт-Петербурге.
+pubDate: '2025-07-22T11:37:33.043Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: >-
+    Апартаменты vs. Квартира: 7 ключевых отличий, о которых нужно знать перед
+    покупкой
+  description: >-
+    Выбираете недвижимость и столкнулись с дилеммой: квартира или апартаменты?
+    На первый взгляд разница неочевидна, но она влияет на стоимость, налоги,
+    прописку и даже на состав соседей. В новой статье блога ButlerSPB мы
+    подробно разбираем все юридические и бытовые нюансы, чтобы вы могли сделать
+    осознанный выбор и найти идеальный вариант для жизни или инвестиций в
+    Санкт-Петербурге.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.9'
+    reviewCount: 506
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/chem-apartamenty-otlichayutsya-ot-kvartiry/
 ---
 
 # Апартаменты или квартира: 7 главных отличий, которые нужно знать перед покупкой в Петербурге

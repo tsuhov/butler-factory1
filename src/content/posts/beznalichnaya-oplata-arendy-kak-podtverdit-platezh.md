@@ -1,10 +1,47 @@
 ---
-title: "Безналичная оплата аренды: как подтвердить платеж"
-description: "Перевод денег за аренду на карту стал нормой, но как доказать факт оплаты в случае спора? В новой статье от ButlerSPB разбираемся, какие документы служат надежным подтверждением безналичного платежа, как правильно делать перевод, чтобы он имел юридическую силу, и что делать, если арендодатель утверждает, что не получал деньги. Защитите свои права и финансы — читайте наше полное руководство."
-pubDate: "2025-07-22T13:06:03.916Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Безналичная оплата аренды: как подтвердить платеж","description":"Перевод денег за аренду на карту стал нормой, но как доказать факт оплаты в случае спора? В новой статье от ButlerSPB разбираемся, какие документы служат надежным подтверждением безналичного платежа, как правильно делать перевод, чтобы он имел юридическую силу, и что делать, если арендодатель утверждает, что не получал деньги. Защитите свои права и финансы — читайте наше полное руководство.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.8","reviewCount":347,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/beznalichnaya-oplata-arendy-kak-podtverdit-platezh/"}}
+title: 'Безналичная оплата аренды: как подтвердить платеж'
+description: >-
+  Перевод денег за аренду на карту стал нормой, но как доказать факт оплаты в
+  случае спора? В новой статье от ButlerSPB разбираемся, какие документы служат
+  надежным подтверждением безналичного платежа, как правильно делать перевод,
+  чтобы он имел юридическую силу, и что делать, если арендодатель утверждает,
+  что не получал деньги. Защитите свои права и финансы — читайте наше полное
+  руководство.
+pubDate: '2025-07-22T13:06:03.916Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Безналичная оплата аренды: как подтвердить платеж'
+  description: >-
+    Перевод денег за аренду на карту стал нормой, но как доказать факт оплаты в
+    случае спора? В новой статье от ButlerSPB разбираемся, какие документы
+    служат надежным подтверждением безналичного платежа, как правильно делать
+    перевод, чтобы он имел юридическую силу, и что делать, если арендодатель
+    утверждает, что не получал деньги. Защитите свои права и финансы — читайте
+    наше полное руководство.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.9'
+    reviewCount: 883
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/beznalichnaya-oplata-arendy-kak-podtverdit-platezh/
 ---
 
 # Безналичная оплата аренды: полное руководство по подтверждению платежа

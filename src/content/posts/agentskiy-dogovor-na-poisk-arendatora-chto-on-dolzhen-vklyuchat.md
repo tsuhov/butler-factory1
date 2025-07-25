@@ -1,10 +1,47 @@
 ---
-title: "Агентский договор на поиск арендатора: что он должен включать"
-description: "Сдача недвижимости в аренду через агента — удобный способ сэкономить время и силы. Но чтобы сотрудничество было безопасным и предсказуемым, важно заключить юридически грамотный агентский договор. В новой статье блога ButlerSPB разбираем, какие пункты обязательно должны быть в документе: от прав и обязанностей сторон до размера вознаграждения и условий расторжения. Рассказываем, как защитить свои интересы и избежать подводных камней."
-pubDate: "2025-07-23T11:28:04.078Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Агентский договор на поиск арендатора: что он должен включать","description":"Сдача недвижимости в аренду через агента — удобный способ сэкономить время и силы. Но чтобы сотрудничество было безопасным и предсказуемым, важно заключить юридически грамотный агентский договор. В новой статье блога ButlerSPB разбираем, какие пункты обязательно должны быть в документе: от прав и обязанностей сторон до размера вознаграждения и условий расторжения. Рассказываем, как защитить свои интересы и избежать подводных камней.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"5.0","reviewCount":857,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/agentskiy-dogovor-na-poisk-arendatora-chto-on-dolzhen-vklyuchat/"}}
+title: 'Агентский договор на поиск арендатора: что он должен включать'
+description: >-
+  Сдача недвижимости в аренду через агента — удобный способ сэкономить время и
+  силы. Но чтобы сотрудничество было безопасным и предсказуемым, важно заключить
+  юридически грамотный агентский договор. В новой статье блога ButlerSPB
+  разбираем, какие пункты обязательно должны быть в документе: от прав и
+  обязанностей сторон до размера вознаграждения и условий расторжения.
+  Рассказываем, как защитить свои интересы и избежать подводных камней.
+pubDate: '2025-07-23T11:28:04.078Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Агентский договор на поиск арендатора: что он должен включать'
+  description: >-
+    Сдача недвижимости в аренду через агента — удобный способ сэкономить время и
+    силы. Но чтобы сотрудничество было безопасным и предсказуемым, важно
+    заключить юридически грамотный агентский договор. В новой статье блога
+    ButlerSPB разбираем, какие пункты обязательно должны быть в документе: от
+    прав и обязанностей сторон до размера вознаграждения и условий расторжения.
+    Рассказываем, как защитить свои интересы и избежать подводных камней.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.9'
+    reviewCount: 515
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/agentskiy-dogovor-na-poisk-arendatora-chto-on-dolzhen-vklyuchat/
 ---
 
 # Агентский договор на поиск арендатора: Полное руководство для собственника

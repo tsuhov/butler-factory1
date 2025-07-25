@@ -1,10 +1,45 @@
 ---
-title: "Как снять квартиру в Питере студенту на длительный срок: гид от ButlerSPB"
-description: "Планируете переезд в Санкт-Петербург на учебу? Наша пошаговая инструкция поможет студентам найти и арендовать идеальную квартиру на длительный срок без лишних проблем и переплат. Рассказываем, где искать варианты, как проверить документы, на что обратить внимание в договоре и как не попасться на уловки мошенников."
-pubDate: "2025-07-22T14:04:15.681Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Как снять квартиру в Питере студенту на длительный срок: гид от ButlerSPB","description":"Планируете переезд в Санкт-Петербург на учебу? Наша пошаговая инструкция поможет студентам найти и арендовать идеальную квартиру на длительный срок без лишних проблем и переплат. Рассказываем, где искать варианты, как проверить документы, на что обратить внимание в договоре и как не попасться на уловки мошенников.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":467,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/kak-snyat-kvartiru-v-pitere-dlya-studentov-na-dlitelnyy-srok/"}}
+title: 'Как снять квартиру в Питере студенту на длительный срок: гид от ButlerSPB'
+description: >-
+  Планируете переезд в Санкт-Петербург на учебу? Наша пошаговая инструкция
+  поможет студентам найти и арендовать идеальную квартиру на длительный срок без
+  лишних проблем и переплат. Рассказываем, где искать варианты, как проверить
+  документы, на что обратить внимание в договоре и как не попасться на уловки
+  мошенников.
+pubDate: '2025-07-22T14:04:15.681Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Как снять квартиру в Питере студенту на длительный срок: гид от ButlerSPB'
+  description: >-
+    Планируете переезд в Санкт-Петербург на учебу? Наша пошаговая инструкция
+    поможет студентам найти и арендовать идеальную квартиру на длительный срок
+    без лишних проблем и переплат. Рассказываем, где искать варианты, как
+    проверить документы, на что обратить внимание в договоре и как не попасться
+    на уловки мошенников.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.8'
+    reviewCount: 375
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/kak-snyat-kvartiru-v-pitere-dlya-studentov-na-dlitelnyy-srok/
 ---
 
 # Как снять квартиру в Питере студенту на длительный срок: Полный гайд 2024 от ButlerSPB

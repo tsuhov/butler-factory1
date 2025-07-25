@@ -1,11 +1,40 @@
 ---
-title: "ButlerSPB: надежная поддержка собственников"
-description: "Компания ButlerSPB предлагает комплексную поддержку собственникам недвижимости. Мы решаем все вопросы: от поиска арендаторов до технического обслуживания и отчетов."
-keywords: "управление недвижимостью, поддержка собственников, ButlerSPB, сдача в аренду, обслуживание квартиры, доверительное управление"
-pubDate: "2025-07-24T13:07:43.096Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"ButlerSPB: надежная поддержка собственников","description":"Компания ButlerSPB предлагает комплексную поддержку собственникам недвижимости. Мы решаем все вопросы: от поиска арендаторов до технического обслуживания и отчетов.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":665,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/podderzhka-sobstvennikam/"}}
+title: 'ButlerSPB: надежная поддержка собственников'
+description: >-
+  Компания ButlerSPB предлагает комплексную поддержку собственникам
+  недвижимости. Мы решаем все вопросы: от поиска арендаторов до технического
+  обслуживания и отчетов.
+pubDate: '2025-07-24T13:07:43.096Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'ButlerSPB: надежная поддержка собственников'
+  description: >-
+    Компания ButlerSPB предлагает комплексную поддержку собственникам
+    недвижимости. Мы решаем все вопросы: от поиска арендаторов до технического
+    обслуживания и отчетов.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '5.0'
+    reviewCount: 694
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': 'https://butlerspb-blog.netlify.app/blog/podderzhka-sobstvennikam/'
 ---
 # Ваша квартира в Петербурге — актив, а не источник стресса. Комплексная поддержка собственников от А до Я.
 

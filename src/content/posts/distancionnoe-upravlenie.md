@@ -1,11 +1,40 @@
 ---
-title: "Дистанционное управление от ButlerSPB: комфорт"
-description: "Представьте: весь ваш дом под контролем с одного устройства. ButlerSPB предлагает современные решения для дистанционного управления светом, климатом и AV-системами."
-keywords: "дистанционное управление, умный дом, автоматизация, ButlerSPB, управление светом, управление климатом, мультирум"
-pubDate: "2025-07-25T15:12:08.138Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Дистанционное управление от ButlerSPB: комфорт","description":"Представьте: весь ваш дом под контролем с одного устройства. ButlerSPB предлагает современные решения для дистанционного управления светом, климатом и AV-системами.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.8","reviewCount":715,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/distancionnoe-upravlenie/"}}
+title: 'Дистанционное управление от ButlerSPB: комфорт'
+description: >-
+  Представьте: весь ваш дом под контролем с одного устройства. ButlerSPB
+  предлагает современные решения для дистанционного управления светом, климатом
+  и AV-системами.
+pubDate: '2025-07-25T15:12:08.138Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Дистанционное управление от ButlerSPB: комфорт'
+  description: >-
+    Представьте: весь ваш дом под контролем с одного устройства. ButlerSPB
+    предлагает современные решения для дистанционного управления светом,
+    климатом и AV-системами.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.7'
+    reviewCount: 702
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': 'https://butlerspb-blog.netlify.app/blog/distancionnoe-upravlenie/'
 ---
 # Дистанционное управление: Ваш ключ к эффективной и безопасной IT-инфраструктуре
 

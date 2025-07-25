@@ -1,10 +1,51 @@
 ---
-title: "Налоговый вычет при продаже квартиры: как рассчитать и получить. Полное руководство от ButlerSPB."
-description: "Планируете продажу квартиры и хотите сэкономить на налогах? Эксперты ButlerSPB подготовили подробную инструкцию. Узнайте, в каких случаях нужно платить НДФЛ, как влияет минимальный срок владения, и какой вид вычета выбрать: на 1 млн рублей или на сумму расходов. Рассказываем, как правильно рассчитать налог, какие документы собрать и как подать декларацию 3-НДФЛ, чтобы получить максимальный налоговый вычет."
-pubDate: "2025-07-22T15:32:19.025Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Налоговый вычет при продаже квартиры: как рассчитать и получить. Полное руководство от ButlerSPB.","description":"Планируете продажу квартиры и хотите сэкономить на налогах? Эксперты ButlerSPB подготовили подробную инструкцию. Узнайте, в каких случаях нужно платить НДФЛ, как влияет минимальный срок владения, и какой вид вычета выбрать: на 1 млн рублей или на сумму расходов. Рассказываем, как правильно рассчитать налог, какие документы собрать и как подать декларацию 3-НДФЛ, чтобы получить максимальный налоговый вычет.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"5.0","reviewCount":782,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/nalogovyy-vychet-pri-prodazhe-kvartiry-kak-rasschitat-i-poluchit/"}}
+title: >-
+  Налоговый вычет при продаже квартиры: как рассчитать и получить. Полное
+  руководство от ButlerSPB.
+description: >-
+  Планируете продажу квартиры и хотите сэкономить на налогах? Эксперты ButlerSPB
+  подготовили подробную инструкцию. Узнайте, в каких случаях нужно платить НДФЛ,
+  как влияет минимальный срок владения, и какой вид вычета выбрать: на 1 млн
+  рублей или на сумму расходов. Рассказываем, как правильно рассчитать налог,
+  какие документы собрать и как подать декларацию 3-НДФЛ, чтобы получить
+  максимальный налоговый вычет.
+pubDate: '2025-07-22T15:32:19.025Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: >-
+    Налоговый вычет при продаже квартиры: как рассчитать и получить. Полное
+    руководство от ButlerSPB.
+  description: >-
+    Планируете продажу квартиры и хотите сэкономить на налогах? Эксперты
+    ButlerSPB подготовили подробную инструкцию. Узнайте, в каких случаях нужно
+    платить НДФЛ, как влияет минимальный срок владения, и какой вид вычета
+    выбрать: на 1 млн рублей или на сумму расходов. Рассказываем, как правильно
+    рассчитать налог, какие документы собрать и как подать декларацию 3-НДФЛ,
+    чтобы получить максимальный налоговый вычет.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.8'
+    reviewCount: 591
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/nalogovyy-vychet-pri-prodazhe-kvartiry-kak-rasschitat-i-poluchit/
 ---
 
 # Налог при продаже квартиры в 2024 году: полное руководство по расчету, вычетам и подаче декларации 3-НДФЛ

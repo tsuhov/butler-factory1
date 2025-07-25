@@ -1,10 +1,52 @@
 ---
-title: "Ваше имущество под надежной защитой: как договор с ButlerSPB гарантирует его сохранность"
-description: "Передавая свое имущество в управление, вы доверяете нам самое ценное. В новой статье блога ButlerSPB мы подробно рассказываем, как именно договор защищает ваши интересы. Узнайте о ключевых пунктах, которые гарантируют полную сохранность и безопасность вашей недвижимости и вещей: от детальной описи и страхования до юридической ответственности и четкого алгоритма действий в непредвиденных ситуациях. Наша цель — ваше абсолютное спокойствие."
-pubDate: "2025-07-22T11:03:48.010Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Ваше имущество под надежной защитой: как договор с ButlerSPB гарантирует его сохранность","description":"Передавая свое имущество в управление, вы доверяете нам самое ценное. В новой статье блога ButlerSPB мы подробно рассказываем, как именно договор защищает ваши интересы. Узнайте о ключевых пунктах, которые гарантируют полную сохранность и безопасность вашей недвижимости и вещей: от детальной описи и страхования до юридической ответственности и четкого алгоритма действий в непредвиденных ситуациях. Наша цель — ваше абсолютное спокойствие.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":569,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/kak-my-obespechivaem-sohrannost-vashego-imuschestva-po-dogovoru/"}}
+title: >-
+  Ваше имущество под надежной защитой: как договор с ButlerSPB гарантирует его
+  сохранность
+description: >-
+  Передавая свое имущество в управление, вы доверяете нам самое ценное. В новой
+  статье блога ButlerSPB мы подробно рассказываем, как именно договор защищает
+  ваши интересы. Узнайте о ключевых пунктах, которые гарантируют полную
+  сохранность и безопасность вашей недвижимости и вещей: от детальной описи и
+  страхования до юридической ответственности и четкого алгоритма действий в
+  непредвиденных ситуациях. Наша цель — ваше абсолютное спокойствие.
+pubDate: '2025-07-22T11:03:48.010Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: >-
+    Ваше имущество под надежной защитой: как договор с ButlerSPB гарантирует его
+    сохранность
+  description: >-
+    Передавая свое имущество в управление, вы доверяете нам самое ценное. В
+    новой статье блога ButlerSPB мы подробно рассказываем, как именно договор
+    защищает ваши интересы. Узнайте о ключевых пунктах, которые гарантируют
+    полную сохранность и безопасность вашей недвижимости и вещей: от детальной
+    описи и страхования до юридической ответственности и четкого алгоритма
+    действий в непредвиденных ситуациях. Наша цель — ваше абсолютное
+    спокойствие.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.8'
+    reviewCount: 489
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/kak-my-obespechivaem-sohrannost-vashego-imuschestva-po-dogovoru/
 ---
 
 # Как мы обеспечиваем 100% сохранность вашего имущества: подробный разбор договора и процессов ButlerSPB

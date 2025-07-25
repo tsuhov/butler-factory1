@@ -1,10 +1,51 @@
 ---
-title: "Секреты аншлага в Экспофоруме: как привлечь максимум гостей на ваше мероприятие"
-description: "Планируете событие в Экспофоруме или на другой крупной площадке Санкт-Петербурга? Успех любого мероприятия – это его посетители. В новой статье блога ButlerSPB мы разбираем ключевые инструменты и стратегии для привлечения гостей: от таргетированной рекламы и SMM до сотрудничества с партнерами и создания 'вау-эффекта'. Узнайте, как составить эффективный план продвижения и обеспечить полную регистрацию."
-pubDate: "2025-07-22T11:09:42.771Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Секреты аншлага в Экспофоруме: как привлечь максимум гостей на ваше мероприятие","description":"Планируете событие в Экспофоруме или на другой крупной площадке Санкт-Петербурга? Успех любого мероприятия – это его посетители. В новой статье блога ButlerSPB мы разбираем ключевые инструменты и стратегии для привлечения гостей: от таргетированной рекламы и SMM до сотрудничества с партнерами и создания 'вау-эффекта'. Узнайте, как составить эффективный план продвижения и обеспечить полную регистрацию.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":423,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/privlechenie-gostey-na-meropriyatiya-v-ekspoforume-i-drugih-ploschadkah/"}}
+title: >-
+  Секреты аншлага в Экспофоруме: как привлечь максимум гостей на ваше
+  мероприятие
+description: >-
+  Планируете событие в Экспофоруме или на другой крупной площадке
+  Санкт-Петербурга? Успех любого мероприятия – это его посетители. В новой
+  статье блога ButlerSPB мы разбираем ключевые инструменты и стратегии для
+  привлечения гостей: от таргетированной рекламы и SMM до сотрудничества с
+  партнерами и создания 'вау-эффекта'. Узнайте, как составить эффективный план
+  продвижения и обеспечить полную регистрацию.
+pubDate: '2025-07-22T11:09:42.771Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: >-
+    Секреты аншлага в Экспофоруме: как привлечь максимум гостей на ваше
+    мероприятие
+  description: >-
+    Планируете событие в Экспофоруме или на другой крупной площадке
+    Санкт-Петербурга? Успех любого мероприятия – это его посетители. В новой
+    статье блога ButlerSPB мы разбираем ключевые инструменты и стратегии для
+    привлечения гостей: от таргетированной рекламы и SMM до сотрудничества с
+    партнерами и создания 'вау-эффекта'. Узнайте, как составить эффективный план
+    продвижения и обеспечить полную регистрацию.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '5.0'
+    reviewCount: 874
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/privlechenie-gostey-na-meropriyatiya-v-ekspoforume-i-drugih-ploschadkah/
 ---
 
 # Полное руководство: Как заполнить зал в Экспофоруме и превратить посетителей в клиентов

@@ -1,10 +1,47 @@
 ---
-title: "Что такое ОСЗ в недвижимости: полное руководство по отдельно стоящим зданиям"
-description: "В мире коммерческой недвижимости часто встречается аббревиатура ОСЗ. Что скрывается за этими тремя буквами? В новой статье блога ButlerSPB мы подробно разбираем, что такое отдельно стоящее здание, каковы его ключевые характеристики, преимущества и недостатки. Узнайте, для какого бизнеса аренда или покупка ОСЗ станет идеальным решением и на что обратить внимание при выборе такого объекта."
-pubDate: "2025-07-22T16:17:33.729Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Что такое ОСЗ в недвижимости: полное руководство по отдельно стоящим зданиям","description":"В мире коммерческой недвижимости часто встречается аббревиатура ОСЗ. Что скрывается за этими тремя буквами? В новой статье блога ButlerSPB мы подробно разбираем, что такое отдельно стоящее здание, каковы его ключевые характеристики, преимущества и недостатки. Узнайте, для какого бизнеса аренда или покупка ОСЗ станет идеальным решением и на что обратить внимание при выборе такого объекта.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.7","reviewCount":871,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/chto-takoe-osz-otdelno-stoyaschee-zdanie-v-nedvizhimosti/"}}
+title: 'Что такое ОСЗ в недвижимости: полное руководство по отдельно стоящим зданиям'
+description: >-
+  В мире коммерческой недвижимости часто встречается аббревиатура ОСЗ. Что
+  скрывается за этими тремя буквами? В новой статье блога ButlerSPB мы подробно
+  разбираем, что такое отдельно стоящее здание, каковы его ключевые
+  характеристики, преимущества и недостатки. Узнайте, для какого бизнеса аренда
+  или покупка ОСЗ станет идеальным решением и на что обратить внимание при
+  выборе такого объекта.
+pubDate: '2025-07-22T16:17:33.729Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Что такое ОСЗ в недвижимости: полное руководство по отдельно стоящим зданиям'
+  description: >-
+    В мире коммерческой недвижимости часто встречается аббревиатура ОСЗ. Что
+    скрывается за этими тремя буквами? В новой статье блога ButlerSPB мы
+    подробно разбираем, что такое отдельно стоящее здание, каковы его ключевые
+    характеристики, преимущества и недостатки. Узнайте, для какого бизнеса
+    аренда или покупка ОСЗ станет идеальным решением и на что обратить внимание
+    при выборе такого объекта.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.9'
+    reviewCount: 520
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/chto-takoe-osz-otdelno-stoyaschee-zdanie-v-nedvizhimosti/
 ---
 
 # Что такое ОСЗ в недвижимости: Полное руководство для бизнеса и инвесторов

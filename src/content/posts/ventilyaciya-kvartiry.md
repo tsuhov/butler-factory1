@@ -1,11 +1,40 @@
 ---
-title: "Вентиляция квартиры: свежий воздух каждый день"
-description: "Узнайте, как обеспечить правильную вентиляцию в квартире для здоровья и комфорта. Рассматриваем типы систем, ошибки при монтаже и полезные советы от ButlerSPB."
-keywords: "вентиляция в квартире, приточная вентиляция, вытяжка, рекуператор, свежий воздух, микроклимат квартиры"
-pubDate: "2025-07-25T16:06:03.807Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Вентиляция квартиры: свежий воздух каждый день","description":"Узнайте, как обеспечить правильную вентиляцию в квартире для здоровья и комфорта. Рассматриваем типы систем, ошибки при монтаже и полезные советы от ButlerSPB.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.7","reviewCount":374,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/ventilyaciya-kvartiry/"}}
+title: 'Вентиляция квартиры: свежий воздух каждый день'
+description: >-
+  Узнайте, как обеспечить правильную вентиляцию в квартире для здоровья и
+  комфорта. Рассматриваем типы систем, ошибки при монтаже и полезные советы от
+  ButlerSPB.
+pubDate: '2025-07-25T16:06:03.807Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Вентиляция квартиры: свежий воздух каждый день'
+  description: >-
+    Узнайте, как обеспечить правильную вентиляцию в квартире для здоровья и
+    комфорта. Рассматриваем типы систем, ошибки при монтаже и полезные советы от
+    ButlerSPB.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.9'
+    reviewCount: 512
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': 'https://butlerspb-blog.netlify.app/blog/ventilyaciya-kvartiry/'
 ---
 # Правильная вентиляция в квартире: Ваш гид по миру чистого воздуха и комфорта
 

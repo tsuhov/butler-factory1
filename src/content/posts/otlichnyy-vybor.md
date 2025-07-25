@@ -1,11 +1,40 @@
 ---
-title: "Отличный выбор: как ButlerSPB меняет жизнь"
-description: "Сделать правильный выбор — значит доверить рутину нам. ButlerSPB — это безупречный сервис, внимание к деталям и ваше свободное время для самого главного."
-keywords: "ButlerSPB, отличный выбор, сервис, качество, профессионализм, консьерж-сервис, Санкт-Петербург"
-pubDate: "2025-07-24T13:45:24.556Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Отличный выбор: как ButlerSPB меняет жизнь","description":"Сделать правильный выбор — значит доверить рутину нам. ButlerSPB — это безупречный сервис, внимание к деталям и ваше свободное время для самого главного.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.8","reviewCount":371,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/otlichnyy-vybor/"}}
+title: 'Отличный выбор: как ButlerSPB меняет жизнь'
+description: >-
+  Сделать правильный выбор — значит доверить рутину нам. ButlerSPB — это
+  безупречный сервис, внимание к деталям и ваше свободное время для самого
+  главного.
+pubDate: '2025-07-24T13:45:24.556Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Отличный выбор: как ButlerSPB меняет жизнь'
+  description: >-
+    Сделать правильный выбор — значит доверить рутину нам. ButlerSPB — это
+    безупречный сервис, внимание к деталям и ваше свободное время для самого
+    главного.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.7'
+    reviewCount: 857
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': 'https://butlerspb-blog.netlify.app/blog/otlichnyy-vybor/'
 ---
 # Отличный выбор: Как не ошибиться с клининговой компанией в Санкт-Петербурге
 

@@ -1,10 +1,49 @@
 ---
-title: "Эксперт по элитной загородной недвижимости: ваш проводник в мир роскошных домов в курортных районах Ленобласти"
-description: "Планируете купить или продать элитный загородный дом в престижных курортных районах Ленинградской области? Узнайте из блога ButlerSPB, какими качествами должен обладать риэлтор, чтобы сделка была не только выгодной, но и безупречной. Раскрываем секреты выбора идеального объекта и преимущества работы с профильным специалистом."
-pubDate: "2025-07-23T11:52:11.977Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Эксперт по элитной загородной недвижимости: ваш проводник в мир роскошных домов в курортных районах Ленобласти","description":"Планируете купить или продать элитный загородный дом в престижных курортных районах Ленинградской области? Узнайте из блога ButlerSPB, какими качествами должен обладать риэлтор, чтобы сделка была не только выгодной, но и безупречной. Раскрываем секреты выбора идеального объекта и преимущества работы с профильным специалистом.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":860,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/rieltor-po-elitnym-zagorodnym-domam-v-kurortnyh-rayonah-lo/"}}
+title: >-
+  Эксперт по элитной загородной недвижимости: ваш проводник в мир роскошных
+  домов в курортных районах Ленобласти
+description: >-
+  Планируете купить или продать элитный загородный дом в престижных курортных
+  районах Ленинградской области? Узнайте из блога ButlerSPB, какими качествами
+  должен обладать риэлтор, чтобы сделка была не только выгодной, но и
+  безупречной. Раскрываем секреты выбора идеального объекта и преимущества
+  работы с профильным специалистом.
+pubDate: '2025-07-23T11:52:11.977Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: >-
+    Эксперт по элитной загородной недвижимости: ваш проводник в мир роскошных
+    домов в курортных районах Ленобласти
+  description: >-
+    Планируете купить или продать элитный загородный дом в престижных курортных
+    районах Ленинградской области? Узнайте из блога ButlerSPB, какими качествами
+    должен обладать риэлтор, чтобы сделка была не только выгодной, но и
+    безупречной. Раскрываем секреты выбора идеального объекта и преимущества
+    работы с профильным специалистом.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.7'
+    reviewCount: 427
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/rieltor-po-elitnym-zagorodnym-domam-v-kurortnyh-rayonah-lo/
 ---
 
 # Ваш личный риэлтор по элитным домам в Курортном районе: Как ButlerSPB находит эксклюзивные объекты и гарантирует конфиденциальность

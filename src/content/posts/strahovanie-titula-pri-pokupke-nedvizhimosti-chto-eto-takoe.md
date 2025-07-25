@@ -1,11 +1,41 @@
 ---
-title: "Страхование титула при покупке недвижимости"
-description: "Титульное страхование защищает право собственности на недвижимость от рисков, связанных с прошлым объекта. Это ваша гарантия от потери квартиры из-за мошенников."
-keywords: "страхование титула, покупка недвижимости, титульное страхование, защита права собственности, риски при покупке, юридическая чистота, ButlerSPB"
-pubDate: "2025-07-24T12:09:01.287Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Страхование титула при покупке недвижимости","description":"Титульное страхование защищает право собственности на недвижимость от рисков, связанных с прошлым объекта. Это ваша гарантия от потери квартиры из-за мошенников.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":424,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/strahovanie-titula-pri-pokupke-nedvizhimosti-chto-eto-takoe/"}}
+title: Страхование титула при покупке недвижимости
+description: >-
+  Титульное страхование защищает право собственности на недвижимость от рисков,
+  связанных с прошлым объекта. Это ваша гарантия от потери квартиры из-за
+  мошенников.
+pubDate: '2025-07-24T12:09:01.287Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: Страхование титула при покупке недвижимости
+  description: >-
+    Титульное страхование защищает право собственности на недвижимость от
+    рисков, связанных с прошлым объекта. Это ваша гарантия от потери квартиры
+    из-за мошенников.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.9'
+    reviewCount: 392
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/strahovanie-titula-pri-pokupke-nedvizhimosti-chto-eto-takoe/
 ---
 # Страхование титула при покупке недвижимости: что это, зачем нужно и как защитить свои миллионы
 

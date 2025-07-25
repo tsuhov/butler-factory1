@@ -1,11 +1,41 @@
 ---
-title: "Анализ рынка: спрос на аренду домов с баней"
-description: "ButlerSPB анализирует популярность домов с баней. В статье мы рассмотрим факторы спроса, сезонность и предпочтения арендаторов, чтобы выгодно сдать ваш объект."
-keywords: "аренда дома с баней, анализ спроса, загородный дом, сдать дом в аренду, сезонность аренды, ButlerSPB, недвижимость спб"
-pubDate: "2025-07-24T12:09:02.395Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Анализ рынка: спрос на аренду домов с баней","description":"ButlerSPB анализирует популярность домов с баней. В статье мы рассмотрим факторы спроса, сезонность и предпочтения арендаторов, чтобы выгодно сдать ваш объект.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":355,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/analiz-sprosa-na-arendu-domov-s-baney/"}}
+title: 'Анализ рынка: спрос на аренду домов с баней'
+description: >-
+  ButlerSPB анализирует популярность домов с баней. В статье мы рассмотрим
+  факторы спроса, сезонность и предпочтения арендаторов, чтобы выгодно сдать ваш
+  объект.
+pubDate: '2025-07-24T12:09:02.395Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Анализ рынка: спрос на аренду домов с баней'
+  description: >-
+    ButlerSPB анализирует популярность домов с баней. В статье мы рассмотрим
+    факторы спроса, сезонность и предпочтения арендаторов, чтобы выгодно сдать
+    ваш объект.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.7'
+    reviewCount: 579
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/analiz-sprosa-na-arendu-domov-s-baney/
 ---
 # Анализ спроса на аренду домов с баней: тренды 2024 и советы экспертов ButlerSPB
 

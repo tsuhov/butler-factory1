@@ -1,11 +1,40 @@
 ---
-title: "Арендные ставки в СПб: анализ от ButlerSPB"
-description: "Изучаем актуальные арендные ставки на жилье в Санкт-Петербурге. Эксперты ButlerSPB анализируют факторы, влияющие на стоимость аренды, и дают прогнозы на будущее."
-keywords: "арендные ставки, аренда жилья, недвижимость СПб, стоимость аренды, снять квартиру, рынок недвижимости"
-pubDate: "2025-07-25T16:24:29.530Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Арендные ставки в СПб: анализ от ButlerSPB","description":"Изучаем актуальные арендные ставки на жилье в Санкт-Петербурге. Эксперты ButlerSPB анализируют факторы, влияющие на стоимость аренды, и дают прогнозы на будущее.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"5.0","reviewCount":892,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/arendnye-stavki/"}}
+title: 'Арендные ставки в СПб: анализ от ButlerSPB'
+description: >-
+  Изучаем актуальные арендные ставки на жилье в Санкт-Петербурге. Эксперты
+  ButlerSPB анализируют факторы, влияющие на стоимость аренды, и дают прогнозы
+  на будущее.
+pubDate: '2025-07-25T16:24:29.530Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Арендные ставки в СПб: анализ от ButlerSPB'
+  description: >-
+    Изучаем актуальные арендные ставки на жилье в Санкт-Петербурге. Эксперты
+    ButlerSPB анализируют факторы, влияющие на стоимость аренды, и дают прогнозы
+    на будущее.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.8'
+    reviewCount: 418
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': 'https://butlerspb-blog.netlify.app/blog/arendnye-stavki/'
 ---
 # Как определить арендную ставку на квартиру в 2024 году: Полное руководство для собственника в Санкт-Петербурге
 

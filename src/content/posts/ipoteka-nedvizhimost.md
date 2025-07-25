@@ -1,11 +1,40 @@
 ---
-title: "Ипотека на недвижимость: гид от ButlerSPB"
-description: "Покупка квартиры в ипотеку — серьезный шаг. В нашей статье от ButlerSPB мы подробно разбираем все этапы: от оценки своих возможностей до получения ключей."
-keywords: "ипотека, недвижимость, купить квартиру, ипотечный кредит, ButlerSPB, новостройка, ипотека в СПб"
-pubDate: "2025-07-25T16:32:18.922Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Ипотека на недвижимость: гид от ButlerSPB","description":"Покупка квартиры в ипотеку — серьезный шаг. В нашей статье от ButlerSPB мы подробно разбираем все этапы: от оценки своих возможностей до получения ключей.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":620,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/ipoteka-nedvizhimost/"}}
+title: 'Ипотека на недвижимость: гид от ButlerSPB'
+description: >-
+  Покупка квартиры в ипотеку — серьезный шаг. В нашей статье от ButlerSPB мы
+  подробно разбираем все этапы: от оценки своих возможностей до получения
+  ключей.
+pubDate: '2025-07-25T16:32:18.922Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Ипотека на недвижимость: гид от ButlerSPB'
+  description: >-
+    Покупка квартиры в ипотеку — серьезный шаг. В нашей статье от ButlerSPB мы
+    подробно разбираем все этапы: от оценки своих возможностей до получения
+    ключей.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.9'
+    reviewCount: 724
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': 'https://butlerspb-blog.netlify.app/blog/ipoteka-nedvizhimost/'
 ---
 # Как взять ипотеку на недвижимость в 2024 году: Пошаговый гид для покупателя в Санкт-Петербурге
 

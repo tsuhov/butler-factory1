@@ -1,11 +1,40 @@
 ---
-title: "Обучение управлению: инвестируйте в успех"
-description: "Эффективное обучение управлению — прямой путь к росту компании. Узнайте, как развить лидерские качества, повысить мотивацию команды и достичь новых бизнес-целей."
-keywords: "обучение управлению, развитие руководителей, лидерство, менеджмент, управление персоналом, корпоративное обучение"
-pubDate: "2025-07-25T15:39:18.452Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Обучение управлению: инвестируйте в успех","description":"Эффективное обучение управлению — прямой путь к росту компании. Узнайте, как развить лидерские качества, повысить мотивацию команды и достичь новых бизнес-целей.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":838,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/obuchenie-upravleniyu/"}}
+title: 'Обучение управлению: инвестируйте в успех'
+description: >-
+  Эффективное обучение управлению — прямой путь к росту компании. Узнайте, как
+  развить лидерские качества, повысить мотивацию команды и достичь новых
+  бизнес-целей.
+pubDate: '2025-07-25T15:39:18.452Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Обучение управлению: инвестируйте в успех'
+  description: >-
+    Эффективное обучение управлению — прямой путь к росту компании. Узнайте, как
+    развить лидерские качества, повысить мотивацию команды и достичь новых
+    бизнес-целей.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '5.0'
+    reviewCount: 433
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': 'https://butlerspb-blog.netlify.app/blog/obuchenie-upravleniyu/'
 ---
 # Обучение управлению: Как из хорошего специалиста вырасти в сильного руководителя
 

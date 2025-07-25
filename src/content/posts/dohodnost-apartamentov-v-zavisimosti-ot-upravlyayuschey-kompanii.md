@@ -1,10 +1,45 @@
 ---
-title: "Доходность апартаментов в зависимости от управляющей компании"
-description: "Выбор управляющей компании — ключевой фактор, влияющий на доходность ваших апартаментов. В новой статье блога ButlerSPB мы подробно разбираем, как разные подходы к управлению влияют на прибыль инвестора, на что обратить внимание при выборе УК и какие показатели отличают профессионалов от новичков. Узнайте, как максимизировать ваш пассивный доход от недвижимости."
-pubDate: "2025-07-23T12:04:47.481Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Доходность апартаментов в зависимости от управляющей компании","description":"Выбор управляющей компании — ключевой фактор, влияющий на доходность ваших апартаментов. В новой статье блога ButlerSPB мы подробно разбираем, как разные подходы к управлению влияют на прибыль инвестора, на что обратить внимание при выборе УК и какие показатели отличают профессионалов от новичков. Узнайте, как максимизировать ваш пассивный доход от недвижимости.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.8","reviewCount":620,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/dohodnost-apartamentov-v-zavisimosti-ot-upravlyayuschey-kompanii/"}}
+title: Доходность апартаментов в зависимости от управляющей компании
+description: >-
+  Выбор управляющей компании — ключевой фактор, влияющий на доходность ваших
+  апартаментов. В новой статье блога ButlerSPB мы подробно разбираем, как разные
+  подходы к управлению влияют на прибыль инвестора, на что обратить внимание при
+  выборе УК и какие показатели отличают профессионалов от новичков. Узнайте, как
+  максимизировать ваш пассивный доход от недвижимости.
+pubDate: '2025-07-23T12:04:47.481Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: Доходность апартаментов в зависимости от управляющей компании
+  description: >-
+    Выбор управляющей компании — ключевой фактор, влияющий на доходность ваших
+    апартаментов. В новой статье блога ButlerSPB мы подробно разбираем, как
+    разные подходы к управлению влияют на прибыль инвестора, на что обратить
+    внимание при выборе УК и какие показатели отличают профессионалов от
+    новичков. Узнайте, как максимизировать ваш пассивный доход от недвижимости.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '5.0'
+    reviewCount: 480
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/dohodnost-apartamentov-v-zavisimosti-ot-upravlyayuschey-kompanii/
 ---
 
 # Как управляющая компания влияет на доходность ваших апартаментов: Полный гайд для инвестора

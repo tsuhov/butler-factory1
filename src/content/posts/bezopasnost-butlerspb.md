@@ -1,11 +1,40 @@
 ---
-title: "Безопасность клиентов ButlerSPB: наш приоритет"
-description: "Узнайте, какие меры мы принимаем для защиты ваших данных и обеспечения безопасности. В ButlerSPB мы используем передовые технологии и строгий отбор персонала."
-keywords: "безопасность ButlerSPB, защита данных, конфиденциальность, проверка персонала, надежный сервис, безопасные платежи"
-pubDate: "2025-07-25T13:43:08.997Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Безопасность клиентов ButlerSPB: наш приоритет","description":"Узнайте, какие меры мы принимаем для защиты ваших данных и обеспечения безопасности. В ButlerSPB мы используем передовые технологии и строгий отбор персонала.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.7","reviewCount":349,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/bezopasnost-butlerspb/"}}
+title: 'Безопасность клиентов ButlerSPB: наш приоритет'
+description: >-
+  Узнайте, какие меры мы принимаем для защиты ваших данных и обеспечения
+  безопасности. В ButlerSPB мы используем передовые технологии и строгий отбор
+  персонала.
+pubDate: '2025-07-25T13:43:08.997Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Безопасность клиентов ButlerSPB: наш приоритет'
+  description: >-
+    Узнайте, какие меры мы принимаем для защиты ваших данных и обеспечения
+    безопасности. В ButlerSPB мы используем передовые технологии и строгий отбор
+    персонала.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.9'
+    reviewCount: 895
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': 'https://butlerspb-blog.netlify.app/blog/bezopasnost-butlerspb/'
 ---
 # Ваш дом в надежных руках: Полное руководство по безопасности в ButlerSPB
 

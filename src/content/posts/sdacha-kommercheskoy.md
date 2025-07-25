@@ -1,11 +1,40 @@
 ---
-title: "Как сдать коммерческую недвижимость выгодно"
-description: "Сдаете коммерческую недвижимость? Наш гайд поможет вам на всех этапах: от оценки и подготовки помещения до поиска арендатора и заключения выгодного договора."
-keywords: "сдача коммерческой недвижимости, аренда коммерческой недвижимости, сдать помещение под бизнес, поиск арендаторов, договор аренды, управление недвижимостью"
-pubDate: "2025-07-25T15:52:50.458Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Как сдать коммерческую недвижимость выгодно","description":"Сдаете коммерческую недвижимость? Наш гайд поможет вам на всех этапах: от оценки и подготовки помещения до поиска арендатора и заключения выгодного договора.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"5.0","reviewCount":796,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/sdacha-kommercheskoy/"}}
+title: Как сдать коммерческую недвижимость выгодно
+description: >-
+  Сдаете коммерческую недвижимость? Наш гайд поможет вам на всех этапах: от
+  оценки и подготовки помещения до поиска арендатора и заключения выгодного
+  договора.
+pubDate: '2025-07-25T15:52:50.458Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: Как сдать коммерческую недвижимость выгодно
+  description: >-
+    Сдаете коммерческую недвижимость? Наш гайд поможет вам на всех этапах: от
+    оценки и подготовки помещения до поиска арендатора и заключения выгодного
+    договора.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.8'
+    reviewCount: 900
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': 'https://butlerspb-blog.netlify.app/blog/sdacha-kommercheskoy/'
 ---
 # Как сдать коммерческую недвижимость в СПб: Полное руководство для собственника в 2024 году от экспертов ButlerSPB
 

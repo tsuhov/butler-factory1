@@ -1,11 +1,40 @@
 ---
-title: "Обмен вторички: как выгодно продать и купить"
-description: "Планируете обмен вторичной квартиры в СПб? Эксперты из ButlerSPB расскажут о всех подводных камнях, помогут найти лучший вариант и провести сделку безопасно."
-keywords: "обмен вторички, обмен квартиры, вторичное жилье, недвижимость спб, продать квартиру, купить квартиру, риэлтор"
-pubDate: "2025-07-25T16:27:20.035Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Обмен вторички: как выгодно продать и купить","description":"Планируете обмен вторичной квартиры в СПб? Эксперты из ButlerSPB расскажут о всех подводных камнях, помогут найти лучший вариант и провести сделку безопасно.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.7","reviewCount":372,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/obmen-vtorichki/"}}
+title: 'Обмен вторички: как выгодно продать и купить'
+description: >-
+  Планируете обмен вторичной квартиры в СПб? Эксперты из ButlerSPB расскажут о
+  всех подводных камнях, помогут найти лучший вариант и провести сделку
+  безопасно.
+pubDate: '2025-07-25T16:27:20.035Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Обмен вторички: как выгодно продать и купить'
+  description: >-
+    Планируете обмен вторичной квартиры в СПб? Эксперты из ButlerSPB расскажут о
+    всех подводных камнях, помогут найти лучший вариант и провести сделку
+    безопасно.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.8'
+    reviewCount: 733
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': 'https://butlerspb-blog.netlify.app/blog/obmen-vtorichki/'
 ---
 # Обмен вторички: полное руководство по альтернативным сделкам в Санкт-Петербурге от ButlerSPB
 

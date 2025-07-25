@@ -1,10 +1,45 @@
 ---
-title: "Типы коммерческих помещений: что выгоднее покупать для сдачи в аренду"
-description: "Планируете инвестировать в коммерческую недвижимость, но не знаете, с чего начать? В новой статье блога ButlerSPB подробно разбираем основные типы помещений: от офисов и стрит-ритейла до складов и ПСН. Анализируем доходность, риски, сроки окупаемости и даем практические советы по выбору самого выгодного объекта для вашего арендного бизнеса."
-pubDate: "2025-07-22T13:59:23.367Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Типы коммерческих помещений: что выгоднее покупать для сдачи в аренду","description":"Планируете инвестировать в коммерческую недвижимость, но не знаете, с чего начать? В новой статье блога ButlerSPB подробно разбираем основные типы помещений: от офисов и стрит-ритейла до складов и ПСН. Анализируем доходность, риски, сроки окупаемости и даем практические советы по выбору самого выгодного объекта для вашего арендного бизнеса.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":602,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/tipy-kommercheskih-pomescheniy-chto-vygodnee-pokupat-dlya-sdachi-v-arendu/"}}
+title: 'Типы коммерческих помещений: что выгоднее покупать для сдачи в аренду'
+description: >-
+  Планируете инвестировать в коммерческую недвижимость, но не знаете, с чего
+  начать? В новой статье блога ButlerSPB подробно разбираем основные типы
+  помещений: от офисов и стрит-ритейла до складов и ПСН. Анализируем доходность,
+  риски, сроки окупаемости и даем практические советы по выбору самого выгодного
+  объекта для вашего арендного бизнеса.
+pubDate: '2025-07-22T13:59:23.367Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Типы коммерческих помещений: что выгоднее покупать для сдачи в аренду'
+  description: >-
+    Планируете инвестировать в коммерческую недвижимость, но не знаете, с чего
+    начать? В новой статье блога ButlerSPB подробно разбираем основные типы
+    помещений: от офисов и стрит-ритейла до складов и ПСН. Анализируем
+    доходность, риски, сроки окупаемости и даем практические советы по выбору
+    самого выгодного объекта для вашего арендного бизнеса.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.8'
+    reviewCount: 782
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/tipy-kommercheskih-pomescheniy-chto-vygodnee-pokupat-dlya-sdachi-v-arendu/
 ---
 
 # Типы коммерческих помещений: полный гид для инвестора. Что выгоднее покупать для сдачи в аренду?

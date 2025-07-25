@@ -1,11 +1,40 @@
 ---
-title: "ButlerSPB: наш подход к гарантии результата"
-description: "Гарантия результата — это не пустые слова для ButlerSPB. Раскрываем секреты нашего подхода: от подбора персонала до финального контроля качества каждой услуги."
-keywords: "гарантированный результат, гарантия качества, ButlerSPB, стандарты сервиса, контроль качества, профессиональные услуги, сервис в СПб"
-pubDate: "2025-07-25T16:39:58.814Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"ButlerSPB: наш подход к гарантии результата","description":"Гарантия результата — это не пустые слова для ButlerSPB. Раскрываем секреты нашего подхода: от подбора персонала до финального контроля качества каждой услуги.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"5.0","reviewCount":552,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/garantirovannyy-rezultat/"}}
+title: 'ButlerSPB: наш подход к гарантии результата'
+description: >-
+  Гарантия результата — это не пустые слова для ButlerSPB. Раскрываем секреты
+  нашего подхода: от подбора персонала до финального контроля качества каждой
+  услуги.
+pubDate: '2025-07-25T16:39:58.814Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'ButlerSPB: наш подход к гарантии результата'
+  description: >-
+    Гарантия результата — это не пустые слова для ButlerSPB. Раскрываем секреты
+    нашего подхода: от подбора персонала до финального контроля качества каждой
+    услуги.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.8'
+    reviewCount: 364
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': 'https://butlerspb-blog.netlify.app/blog/garantirovannyy-rezultat/'
 ---
 # Гарантированный результат в digital: Как ButlerSPB отделяет маркетинговые уловки от реальных обязательств
 

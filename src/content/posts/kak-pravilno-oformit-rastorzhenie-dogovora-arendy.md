@@ -1,10 +1,49 @@
 ---
-title: "Как правильно расторгнуть договор аренды: пошаговая инструкция от ButlerSPB"
-description: "Завершение арендных отношений — важный этап, который требует юридически грамотного подхода как со стороны арендатора, так и арендодателя. В этой статье блога ButlerSPB мы подробно расскажем, как правильно оформить расторжение договора аренды: какие существуют основания, как составить уведомление и соглашение о расторжении, и на что обратить особое внимание при подписании акта приема-передачи. Следуйте нашей инструкции, чтобы избежать финансовых потерь и споров."
-pubDate: "2025-07-22T11:35:52.327Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Как правильно расторгнуть договор аренды: пошаговая инструкция от ButlerSPB","description":"Завершение арендных отношений — важный этап, который требует юридически грамотного подхода как со стороны арендатора, так и арендодателя. В этой статье блога ButlerSPB мы подробно расскажем, как правильно оформить расторжение договора аренды: какие существуют основания, как составить уведомление и соглашение о расторжении, и на что обратить особое внимание при подписании акта приема-передачи. Следуйте нашей инструкции, чтобы избежать финансовых потерь и споров.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.8","reviewCount":882,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/kak-pravilno-oformit-rastorzhenie-dogovora-arendy/"}}
+title: 'Как правильно расторгнуть договор аренды: пошаговая инструкция от ButlerSPB'
+description: >-
+  Завершение арендных отношений — важный этап, который требует юридически
+  грамотного подхода как со стороны арендатора, так и арендодателя. В этой
+  статье блога ButlerSPB мы подробно расскажем, как правильно оформить
+  расторжение договора аренды: какие существуют основания, как составить
+  уведомление и соглашение о расторжении, и на что обратить особое внимание при
+  подписании акта приема-передачи. Следуйте нашей инструкции, чтобы избежать
+  финансовых потерь и споров.
+pubDate: '2025-07-22T11:35:52.327Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Как правильно расторгнуть договор аренды: пошаговая инструкция от ButlerSPB'
+  description: >-
+    Завершение арендных отношений — важный этап, который требует юридически
+    грамотного подхода как со стороны арендатора, так и арендодателя. В этой
+    статье блога ButlerSPB мы подробно расскажем, как правильно оформить
+    расторжение договора аренды: какие существуют основания, как составить
+    уведомление и соглашение о расторжении, и на что обратить особое внимание
+    при подписании акта приема-передачи. Следуйте нашей инструкции, чтобы
+    избежать финансовых потерь и споров.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.8'
+    reviewCount: 865
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/kak-pravilno-oformit-rastorzhenie-dogovora-arendy/
 ---
 
 # Как расторгнуть договор аренды квартиры в 2024 году: пошаговая инструкция для арендатора и арендодателя

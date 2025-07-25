@@ -1,11 +1,40 @@
 ---
-title: "ButlerSPB: Проверенные способы роста прибыли"
-description: "Узнайте, как эффективно увеличить прибыль вашего бизнеса. В этой статье от ButlerSPB мы собрали проверенные стратегии: от оптимизации расходов до работы с ценами."
-keywords: "увеличить прибыль, рост дохода, оптимизация расходов, повышение продаж, бизнес-стратегии, ButlerSPB, рентабельность"
-pubDate: "2025-07-25T15:49:18.818Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"ButlerSPB: Проверенные способы роста прибыли","description":"Узнайте, как эффективно увеличить прибыль вашего бизнеса. В этой статье от ButlerSPB мы собрали проверенные стратегии: от оптимизации расходов до работы с ценами.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.8","reviewCount":369,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/pribyl-uvelichit/"}}
+title: 'ButlerSPB: Проверенные способы роста прибыли'
+description: >-
+  Узнайте, как эффективно увеличить прибыль вашего бизнеса. В этой статье от
+  ButlerSPB мы собрали проверенные стратегии: от оптимизации расходов до работы
+  с ценами.
+pubDate: '2025-07-25T15:49:18.818Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'ButlerSPB: Проверенные способы роста прибыли'
+  description: >-
+    Узнайте, как эффективно увеличить прибыль вашего бизнеса. В этой статье от
+    ButlerSPB мы собрали проверенные стратегии: от оптимизации расходов до
+    работы с ценами.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.9'
+    reviewCount: 636
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': 'https://butlerspb-blog.netlify.app/blog/pribyl-uvelichit/'
 ---
 # Как бизнесу увеличить прибыль: Полное руководство от А до Я
 

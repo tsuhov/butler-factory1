@@ -1,10 +1,49 @@
 ---
-title: "Обмен квартиры на частный дом в Ленобласти: подводные камни"
-description: "Мечтаете сменить городскую суету на простор и тишину частного дома в Ленинградской области? Обмен квартиры на дом — это не просто смена адреса, а сложный процесс со множеством юридических и бытовых нюансов. В новой статье блога ButlerSPB разбираем главные 'подводные камни' такой сделки: от правильной оценки объектов до проверки коммуникаций и документов на землю. Узнайте, как совершить выгодный и безопасный обмен и избежать дорогостоящих ошибок."
-pubDate: "2025-07-22T16:17:40.662Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Обмен квартиры на частный дом в Ленобласти: подводные камни","description":"Мечтаете сменить городскую суету на простор и тишину частного дома в Ленинградской области? Обмен квартиры на дом — это не просто смена адреса, а сложный процесс со множеством юридических и бытовых нюансов. В новой статье блога ButlerSPB разбираем главные 'подводные камни' такой сделки: от правильной оценки объектов до проверки коммуникаций и документов на землю. Узнайте, как совершить выгодный и безопасный обмен и избежать дорогостоящих ошибок.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":409,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/obmen-kvartiry-na-chastnyy-dom-v-lenoblasti-podvodnye-kamni/"}}
+title: 'Обмен квартиры на частный дом в Ленобласти: подводные камни'
+description: >-
+  Мечтаете сменить городскую суету на простор и тишину частного дома в
+  Ленинградской области? Обмен квартиры на дом — это не просто смена адреса, а
+  сложный процесс со множеством юридических и бытовых нюансов. В новой статье
+  блога ButlerSPB разбираем главные 'подводные камни' такой сделки: от
+  правильной оценки объектов до проверки коммуникаций и документов на землю.
+  Узнайте, как совершить выгодный и безопасный обмен и избежать дорогостоящих
+  ошибок.
+pubDate: '2025-07-22T16:17:40.662Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Обмен квартиры на частный дом в Ленобласти: подводные камни'
+  description: >-
+    Мечтаете сменить городскую суету на простор и тишину частного дома в
+    Ленинградской области? Обмен квартиры на дом — это не просто смена адреса, а
+    сложный процесс со множеством юридических и бытовых нюансов. В новой статье
+    блога ButlerSPB разбираем главные 'подводные камни' такой сделки: от
+    правильной оценки объектов до проверки коммуникаций и документов на землю.
+    Узнайте, как совершить выгодный и безопасный обмен и избежать дорогостоящих
+    ошибок.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.7'
+    reviewCount: 422
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/obmen-kvartiry-na-chastnyy-dom-v-lenoblasti-podvodnye-kamni/
 ---
 
 # Обмен квартиры на дом в Ленобласти: все подводные камни и пошаговый план от экспертов ButlerSPB

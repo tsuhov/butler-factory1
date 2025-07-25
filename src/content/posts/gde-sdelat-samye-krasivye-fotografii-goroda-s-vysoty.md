@@ -1,10 +1,47 @@
 ---
-title: "Петербург с высоты: лучшие локации для незабываемых фотографий"
-description: "Санкт-Петербург прекрасен с любого ракурса, но вид на его крыши, шпили и каналы с высоты птичьего полета — это нечто особенное. Команда ButlerSPB подготовила для вас гид по лучшим смотровым площадкам, ресторанам с панорамными видами и секретным руфтоп-барам, где вы сможете сделать не только потрясающие кадры, но и сохранить в памяти уникальные моменты. Откройте для себя город с новой, захватывающей перспективы!"
-pubDate: "2025-07-22T11:49:36.330Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Петербург с высоты: лучшие локации для незабываемых фотографий","description":"Санкт-Петербург прекрасен с любого ракурса, но вид на его крыши, шпили и каналы с высоты птичьего полета — это нечто особенное. Команда ButlerSPB подготовила для вас гид по лучшим смотровым площадкам, ресторанам с панорамными видами и секретным руфтоп-барам, где вы сможете сделать не только потрясающие кадры, но и сохранить в памяти уникальные моменты. Откройте для себя город с новой, захватывающей перспективы!","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":360,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/gde-sdelat-samye-krasivye-fotografii-goroda-s-vysoty/"}}
+title: 'Петербург с высоты: лучшие локации для незабываемых фотографий'
+description: >-
+  Санкт-Петербург прекрасен с любого ракурса, но вид на его крыши, шпили и
+  каналы с высоты птичьего полета — это нечто особенное. Команда ButlerSPB
+  подготовила для вас гид по лучшим смотровым площадкам, ресторанам с
+  панорамными видами и секретным руфтоп-барам, где вы сможете сделать не только
+  потрясающие кадры, но и сохранить в памяти уникальные моменты. Откройте для
+  себя город с новой, захватывающей перспективы!
+pubDate: '2025-07-22T11:49:36.330Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Петербург с высоты: лучшие локации для незабываемых фотографий'
+  description: >-
+    Санкт-Петербург прекрасен с любого ракурса, но вид на его крыши, шпили и
+    каналы с высоты птичьего полета — это нечто особенное. Команда ButlerSPB
+    подготовила для вас гид по лучшим смотровым площадкам, ресторанам с
+    панорамными видами и секретным руфтоп-барам, где вы сможете сделать не
+    только потрясающие кадры, но и сохранить в памяти уникальные моменты.
+    Откройте для себя город с новой, захватывающей перспективы!
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.8'
+    reviewCount: 484
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/gde-sdelat-samye-krasivye-fotografii-goroda-s-vysoty/
 ---
 
 # Петербург на ладони: гид по лучшим местам для фото с высоты

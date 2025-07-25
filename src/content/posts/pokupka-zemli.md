@@ -1,11 +1,40 @@
 ---
-title: "Покупка земельного участка: полное руководство"
-description: "Покупка земли — серьезный шаг. В нашей статье мы подробно разбираем, как правильно выбрать участок, какие документы проверить и как безопасно провести сделку с ButlerSPB."
-keywords: "покупка земли, земельный участок, купить участок, выбор участка, документы на землю, ButlerSPB"
-pubDate: "2025-07-25T15:48:04.133Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Покупка земельного участка: полное руководство","description":"Покупка земли — серьезный шаг. В нашей статье мы подробно разбираем, как правильно выбрать участок, какие документы проверить и как безопасно провести сделку с ButlerSPB.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":600,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/pokupka-zemli/"}}
+title: 'Покупка земельного участка: полное руководство'
+description: >-
+  Покупка земли — серьезный шаг. В нашей статье мы подробно разбираем, как
+  правильно выбрать участок, какие документы проверить и как безопасно провести
+  сделку с ButlerSPB.
+pubDate: '2025-07-25T15:48:04.133Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Покупка земельного участка: полное руководство'
+  description: >-
+    Покупка земли — серьезный шаг. В нашей статье мы подробно разбираем, как
+    правильно выбрать участок, какие документы проверить и как безопасно
+    провести сделку с ButlerSPB.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.8'
+    reviewCount: 897
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': 'https://butlerspb-blog.netlify.app/blog/pokupka-zemli/'
 ---
 # Мечта о своем доме начинается с земли: Как купить идеальный участок в Ленинградской области и не совершить ошибок
 

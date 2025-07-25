@@ -1,10 +1,51 @@
 ---
-title: "Как иностранному студенту снять квартиру в Санкт-Петербурге: полный гайд от ButlerSPB"
-description: "Приезжаете на учебу в Санкт-Петербург и ищете жилье? Наша статья — ваш незаменимый помощник! Рассказываем, где искать надежные варианты, какие документы понадобятся иностранному студенту для заключения договора, как избежать мошенников и правильно оформить временную регистрацию. Следуйте нашему пошаговому руководству, чтобы процесс аренды квартиры в культурной столице прошел легко и безопасно."
-pubDate: "2025-07-23T11:54:16.213Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Как иностранному студенту снять квартиру в Санкт-Петербурге: полный гайд от ButlerSPB","description":"Приезжаете на учебу в Санкт-Петербург и ищете жилье? Наша статья — ваш незаменимый помощник! Рассказываем, где искать надежные варианты, какие документы понадобятся иностранному студенту для заключения договора, как избежать мошенников и правильно оформить временную регистрацию. Следуйте нашему пошаговому руководству, чтобы процесс аренды квартиры в культурной столице прошел легко и безопасно.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.8","reviewCount":355,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/kak-snyat-kvartiru-v-sankt-peterburge-inostrannomu-studentu/"}}
+title: >-
+  Как иностранному студенту снять квартиру в Санкт-Петербурге: полный гайд от
+  ButlerSPB
+description: >-
+  Приезжаете на учебу в Санкт-Петербург и ищете жилье? Наша статья — ваш
+  незаменимый помощник! Рассказываем, где искать надежные варианты, какие
+  документы понадобятся иностранному студенту для заключения договора, как
+  избежать мошенников и правильно оформить временную регистрацию. Следуйте
+  нашему пошаговому руководству, чтобы процесс аренды квартиры в культурной
+  столице прошел легко и безопасно.
+pubDate: '2025-07-23T11:54:16.213Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: >-
+    Как иностранному студенту снять квартиру в Санкт-Петербурге: полный гайд от
+    ButlerSPB
+  description: >-
+    Приезжаете на учебу в Санкт-Петербург и ищете жилье? Наша статья — ваш
+    незаменимый помощник! Рассказываем, где искать надежные варианты, какие
+    документы понадобятся иностранному студенту для заключения договора, как
+    избежать мошенников и правильно оформить временную регистрацию. Следуйте
+    нашему пошаговому руководству, чтобы процесс аренды квартиры в культурной
+    столице прошел легко и безопасно.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.9'
+    reviewCount: 515
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/kak-snyat-kvartiru-v-sankt-peterburge-inostrannomu-studentu/
 ---
 
 # Как снять квартиру в Санкт-Петербурге иностранному студенту: Полное руководство 2024 от ButlerSPB

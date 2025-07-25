@@ -1,11 +1,40 @@
 ---
-title: "Батлер для вашего дома: роскошь и комфорт"
-description: "Современный батлер — это не просто прислуга, а личный помощник для дома, бизнеса или особого мероприятия. Узнайте, как услуги ButlerSPB экономят ваше время."
-keywords: "услуги батлера, батлер спб, личный помощник, дворецкий, управление домом, элитный сервис"
-pubDate: "2025-07-24T13:05:31.316Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Батлер для вашего дома: роскошь и комфорт","description":"Современный батлер — это не просто прислуга, а личный помощник для дома, бизнеса или особого мероприятия. Узнайте, как услуги ButlerSPB экономят ваше время.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"5.0","reviewCount":773,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/batler-dlya/"}}
+title: 'Батлер для вашего дома: роскошь и комфорт'
+description: >-
+  Современный батлер — это не просто прислуга, а личный помощник для дома,
+  бизнеса или особого мероприятия. Узнайте, как услуги ButlerSPB экономят ваше
+  время.
+pubDate: '2025-07-24T13:05:31.316Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Батлер для вашего дома: роскошь и комфорт'
+  description: >-
+    Современный батлер — это не просто прислуга, а личный помощник для дома,
+    бизнеса или особого мероприятия. Узнайте, как услуги ButlerSPB экономят ваше
+    время.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.8'
+    reviewCount: 560
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': 'https://butlerspb-blog.netlify.app/blog/batler-dlya/'
 ---
 # Батлер для... Кого? Зачем? И как нанять идеального специалиста в Санкт-Петербурге
 

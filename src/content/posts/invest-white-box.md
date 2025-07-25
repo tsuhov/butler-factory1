@@ -1,11 +1,40 @@
 ---
-title: "Инвест White Box: гайд для инвестора в СПб"
-description: "Что такое отделка white box и почему это выгодная инвестиция? Разбираем плюсы для инвестора в Петербурге: экономия времени, денег и полная свобода для дизайна."
-keywords: "инвест white box, инвестиции в недвижимость, квартира с предчистовой отделкой, ButlerSPB, недвижимость СПб, выгодные инвестиции, ремонт квартиры"
-pubDate: "2025-07-25T14:12:59.311Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Инвест White Box: гайд для инвестора в СПб","description":"Что такое отделка white box и почему это выгодная инвестиция? Разбираем плюсы для инвестора в Петербурге: экономия времени, денег и полная свобода для дизайна.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":595,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/invest-white-box/"}}
+title: 'Инвест White Box: гайд для инвестора в СПб'
+description: >-
+  Что такое отделка white box и почему это выгодная инвестиция? Разбираем плюсы
+  для инвестора в Петербурге: экономия времени, денег и полная свобода для
+  дизайна.
+pubDate: '2025-07-25T14:12:59.311Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Инвест White Box: гайд для инвестора в СПб'
+  description: >-
+    Что такое отделка white box и почему это выгодная инвестиция? Разбираем
+    плюсы для инвестора в Петербурге: экономия времени, денег и полная свобода
+    для дизайна.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.8'
+    reviewCount: 849
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': 'https://butlerspb-blog.netlify.app/blog/invest-white-box/'
 ---
 # Инвест White Box: Стратегия, которая экономит деньги и приумножает капитал инвестора в Санкт-Петербурге
 

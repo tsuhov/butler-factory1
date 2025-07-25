@@ -1,11 +1,40 @@
 ---
-title: "Первый платеж за аренду: что в него входит?"
-description: "Готовитесь к переезду? Разбираем состав первого платежа при аренде жилья: плата за месяц, страховой депозит и комиссия. Команда ButlerSPB поможет во всем разобраться."
-keywords: "первый платеж, аренда квартиры, залог, страховой депозит, снять квартиру, договор аренды, ButlerSPB"
-pubDate: "2025-07-25T14:02:17.795Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Первый платеж за аренду: что в него входит?","description":"Готовитесь к переезду? Разбираем состав первого платежа при аренде жилья: плата за месяц, страховой депозит и комиссия. Команда ButlerSPB поможет во всем разобраться.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":407,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/pervyy-platezh/"}}
+title: 'Первый платеж за аренду: что в него входит?'
+description: >-
+  Готовитесь к переезду? Разбираем состав первого платежа при аренде жилья:
+  плата за месяц, страховой депозит и комиссия. Команда ButlerSPB поможет во
+  всем разобраться.
+pubDate: '2025-07-25T14:02:17.795Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Первый платеж за аренду: что в него входит?'
+  description: >-
+    Готовитесь к переезду? Разбираем состав первого платежа при аренде жилья:
+    плата за месяц, страховой депозит и комиссия. Команда ButlerSPB поможет во
+    всем разобраться.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.9'
+    reviewCount: 895
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': 'https://butlerspb-blog.netlify.app/blog/pervyy-platezh/'
 ---
 # Первый платеж при аренде квартиры: Ваш полный гид по сделке в Санкт-Петербурге
 

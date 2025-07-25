@@ -1,11 +1,41 @@
 ---
-title: "Как самозанятому купить квартиру в ипотеку?"
-description: "Самозанятость — не приговор для ипотеки. Рассказываем, как подтвердить доход, какие документы собрать и на что обратить внимание при выборе банка. ButlerSPB."
-keywords: "ипотека для самозанятых, купить квартиру самозанятому, справка о доходах, недвижимость, ButlerSPB, жилье в ипотеку, одобрение ипотеки"
-pubDate: "2025-07-24T12:08:55.171Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Как самозанятому купить квартиру в ипотеку?","description":"Самозанятость — не приговор для ипотеки. Рассказываем, как подтвердить доход, какие документы собрать и на что обратить внимание при выборе банка. ButlerSPB.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.8","reviewCount":884,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/kak-kupit-kvartiru-esli-vy-samozanyatyy/"}}
+title: Как самозанятому купить квартиру в ипотеку?
+description: >-
+  Самозанятость — не приговор для ипотеки. Рассказываем, как подтвердить доход,
+  какие документы собрать и на что обратить внимание при выборе банка.
+  ButlerSPB.
+pubDate: '2025-07-24T12:08:55.171Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: Как самозанятому купить квартиру в ипотеку?
+  description: >-
+    Самозанятость — не приговор для ипотеки. Рассказываем, как подтвердить
+    доход, какие документы собрать и на что обратить внимание при выборе банка.
+    ButlerSPB.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.8'
+    reviewCount: 586
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/kak-kupit-kvartiru-esli-vy-samozanyatyy/
 ---
 # Как самозанятому купить квартиру в 2024 году: полная инструкция по ипотеке и документам
 

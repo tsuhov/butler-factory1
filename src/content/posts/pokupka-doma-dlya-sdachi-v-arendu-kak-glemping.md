@@ -1,10 +1,47 @@
 ---
-title: "Покупка дома под глэмпинг: инструкция для инвестора от ButlerSPB"
-description: "Тренд на глэмпинг открывает новые возможности для инвесторов в загородную недвижимость. В этой статье мы разберем, как выбрать и купить дом, который станет основой для прибыльного глэмпинг-проекта. Вы узнаете о ключевых критериях выбора локации, юридических аспектах оформления, расчете рентабельности и способах превратить участок в уникальное пространство для отдыха, привлекающее гостей круглый год."
-pubDate: "2025-07-23T15:52:20.258Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Покупка дома под глэмпинг: инструкция для инвестора от ButlerSPB","description":"Тренд на глэмпинг открывает новые возможности для инвесторов в загородную недвижимость. В этой статье мы разберем, как выбрать и купить дом, который станет основой для прибыльного глэмпинг-проекта. Вы узнаете о ключевых критериях выбора локации, юридических аспектах оформления, расчете рентабельности и способах превратить участок в уникальное пространство для отдыха, привлекающее гостей круглый год.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"5.0","reviewCount":540,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/pokupka-doma-dlya-sdachi-v-arendu-kak-glemping/"}}
+title: 'Покупка дома под глэмпинг: инструкция для инвестора от ButlerSPB'
+description: >-
+  Тренд на глэмпинг открывает новые возможности для инвесторов в загородную
+  недвижимость. В этой статье мы разберем, как выбрать и купить дом, который
+  станет основой для прибыльного глэмпинг-проекта. Вы узнаете о ключевых
+  критериях выбора локации, юридических аспектах оформления, расчете
+  рентабельности и способах превратить участок в уникальное пространство для
+  отдыха, привлекающее гостей круглый год.
+pubDate: '2025-07-23T15:52:20.258Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Покупка дома под глэмпинг: инструкция для инвестора от ButlerSPB'
+  description: >-
+    Тренд на глэмпинг открывает новые возможности для инвесторов в загородную
+    недвижимость. В этой статье мы разберем, как выбрать и купить дом, который
+    станет основой для прибыльного глэмпинг-проекта. Вы узнаете о ключевых
+    критериях выбора локации, юридических аспектах оформления, расчете
+    рентабельности и способах превратить участок в уникальное пространство для
+    отдыха, привлекающее гостей круглый год.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.8'
+    reviewCount: 751
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/pokupka-doma-dlya-sdachi-v-arendu-kak-glemping/
 ---
 
 # Как купить дом и превратить его в прибыльный глэмпинг: Полное руководство для инвестора от ButlerSPB

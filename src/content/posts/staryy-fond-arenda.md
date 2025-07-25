@@ -1,11 +1,38 @@
 ---
-title: "Аренда в старом фонде: шарм и риски Петербурга"
-description: "Мечтаете жить в квартире с историей? Аренда в старом фонде Петербурга манит атмосферой, но таит риски. ButlerSPB расскажет, как найти идеальный вариант."
-keywords: "старый фонд, аренда квартиры, снять квартиру спб, дореволюционный дом, исторический центр, недвижимость петербурга"
-pubDate: "2025-07-25T14:02:41.712Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Аренда в старом фонде: шарм и риски Петербурга","description":"Мечтаете жить в квартире с историей? Аренда в старом фонде Петербурга манит атмосферой, но таит риски. ButlerSPB расскажет, как найти идеальный вариант.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":477,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/staryy-fond-arenda/"}}
+title: 'Аренда в старом фонде: шарм и риски Петербурга'
+description: >-
+  Мечтаете жить в квартире с историей? Аренда в старом фонде Петербурга манит
+  атмосферой, но таит риски. ButlerSPB расскажет, как найти идеальный вариант.
+pubDate: '2025-07-25T14:02:41.712Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Аренда в старом фонде: шарм и риски Петербурга'
+  description: >-
+    Мечтаете жить в квартире с историей? Аренда в старом фонде Петербурга манит
+    атмосферой, но таит риски. ButlerSPB расскажет, как найти идеальный вариант.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.9'
+    reviewCount: 818
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': 'https://butlerspb-blog.netlify.app/blog/staryy-fond-arenda/'
 ---
 # Аренда в старом фонде Петербурга: Романтика с парадного входа или квест на выживание?
 

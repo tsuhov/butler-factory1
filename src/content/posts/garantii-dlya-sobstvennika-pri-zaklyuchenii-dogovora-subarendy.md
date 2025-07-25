@@ -1,10 +1,47 @@
 ---
-title: "Субаренда: как собственнику защитить свои интересы и получить гарантии?"
-description: "Передача недвижимости в субаренду — распространенная практика, но для собственника она сопряжена с рисками. В новой статье блога ButlerSPB разбираемся, какие юридические и финансовые гарантии должен предоставить арендатор, как правильно оформить согласие на субаренду и какие пункты обязательно включить в основной договор, чтобы обезопасить свое имущество и доход."
-pubDate: "2025-07-23T12:04:31.634Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Субаренда: как собственнику защитить свои интересы и получить гарантии?","description":"Передача недвижимости в субаренду — распространенная практика, но для собственника она сопряжена с рисками. В новой статье блога ButlerSPB разбираемся, какие юридические и финансовые гарантии должен предоставить арендатор, как правильно оформить согласие на субаренду и какие пункты обязательно включить в основной договор, чтобы обезопасить свое имущество и доход.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":655,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/garantii-dlya-sobstvennika-pri-zaklyuchenii-dogovora-subarendy/"}}
+title: 'Субаренда: как собственнику защитить свои интересы и получить гарантии?'
+description: >-
+  Передача недвижимости в субаренду — распространенная практика, но для
+  собственника она сопряжена с рисками. В новой статье блога ButlerSPB
+  разбираемся, какие юридические и финансовые гарантии должен предоставить
+  арендатор, как правильно оформить согласие на субаренду и какие пункты
+  обязательно включить в основной договор, чтобы обезопасить свое имущество и
+  доход.
+pubDate: '2025-07-23T12:04:31.634Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Субаренда: как собственнику защитить свои интересы и получить гарантии?'
+  description: >-
+    Передача недвижимости в субаренду — распространенная практика, но для
+    собственника она сопряжена с рисками. В новой статье блога ButlerSPB
+    разбираемся, какие юридические и финансовые гарантии должен предоставить
+    арендатор, как правильно оформить согласие на субаренду и какие пункты
+    обязательно включить в основной договор, чтобы обезопасить свое имущество и
+    доход.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.9'
+    reviewCount: 626
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/garantii-dlya-sobstvennika-pri-zaklyuchenii-dogovora-subarendy/
 ---
 
 # Субаренда: Как собственнику не потерять деньги и контроль? Полное руководство по гарантиям и защите

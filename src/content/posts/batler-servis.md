@@ -1,11 +1,40 @@
 ---
-title: "Батлер сервис ButlerSPB: ваш личный помощник"
-description: "Современный батлер сервис — это не просто дворецкий, а персональный ассистент высшего класса. Мы в ButlerSPB расскажем о тонкостях профессии и ее преимуществах."
-keywords: "батлер сервис, услуги батлера, персональный ассистент, консьерж сервис, ButlerSPB, элитный сервис, СПб"
-pubDate: "2025-07-25T15:42:17.991Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Батлер сервис ButlerSPB: ваш личный помощник","description":"Современный батлер сервис — это не просто дворецкий, а персональный ассистент высшего класса. Мы в ButlerSPB расскажем о тонкостях профессии и ее преимуществах.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"5.0","reviewCount":601,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/batler-servis/"}}
+title: 'Батлер сервис ButlerSPB: ваш личный помощник'
+description: >-
+  Современный батлер сервис — это не просто дворецкий, а персональный ассистент
+  высшего класса. Мы в ButlerSPB расскажем о тонкостях профессии и ее
+  преимуществах.
+pubDate: '2025-07-25T15:42:17.991Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Батлер сервис ButlerSPB: ваш личный помощник'
+  description: >-
+    Современный батлер сервис — это не просто дворецкий, а персональный
+    ассистент высшего класса. Мы в ButlerSPB расскажем о тонкостях профессии и
+    ее преимуществах.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '5.0'
+    reviewCount: 788
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': 'https://butlerspb-blog.netlify.app/blog/batler-servis/'
 ---
 # Батлер-сервис: современная роскошь или незаменимый помощник в реалиях мегаполиса?
 

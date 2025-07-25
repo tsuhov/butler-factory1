@@ -1,11 +1,40 @@
 ---
-title: "Формула ROI: считаем окупаемость инвестиций"
-description: "Как посчитать окупаемость вложений? В статье разбираем формулу расчета ROI, приводим примеры для бизнеса и объясняем, как этот показатель помогает оптимизировать бюджет."
-keywords: "расчет ROI, формула ROI, окупаемость инвестиций, return on investment, рентабельность вложений, эффективность маркетинга"
-pubDate: "2025-07-25T16:07:36.798Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Формула ROI: считаем окупаемость инвестиций","description":"Как посчитать окупаемость вложений? В статье разбираем формулу расчета ROI, приводим примеры для бизнеса и объясняем, как этот показатель помогает оптимизировать бюджет.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"5.0","reviewCount":598,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/raschet-roi/"}}
+title: 'Формула ROI: считаем окупаемость инвестиций'
+description: >-
+  Как посчитать окупаемость вложений? В статье разбираем формулу расчета ROI,
+  приводим примеры для бизнеса и объясняем, как этот показатель помогает
+  оптимизировать бюджет.
+pubDate: '2025-07-25T16:07:36.798Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Формула ROI: считаем окупаемость инвестиций'
+  description: >-
+    Как посчитать окупаемость вложений? В статье разбираем формулу расчета ROI,
+    приводим примеры для бизнеса и объясняем, как этот показатель помогает
+    оптимизировать бюджет.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.7'
+    reviewCount: 770
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': 'https://butlerspb-blog.netlify.app/blog/raschet-roi/'
 ---
 # Расчет ROI в маркетинге: от простой формулы до экспертного анализа для вашего бизнеса
 

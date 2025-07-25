@@ -1,11 +1,39 @@
 ---
-title: "Простой способ поддерживать чистоту в доме"
-description: "Забудьте о стрессе из-за беспорядка. Откройте для себя простой и эффективный метод поддержания чистоты, который освободит ваше время для более важных дел."
-keywords: "простой способ, уборка квартиры, поддержание порядка, делегирование дел, лайфхаки для дома, клининг спб, ButlerSPB"
-pubDate: "2025-07-25T13:30:01.338Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Простой способ поддерживать чистоту в доме","description":"Забудьте о стрессе из-за беспорядка. Откройте для себя простой и эффективный метод поддержания чистоты, который освободит ваше время для более важных дел.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"5.0","reviewCount":696,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/prostoy-sposob/"}}
+title: Простой способ поддерживать чистоту в доме
+description: >-
+  Забудьте о стрессе из-за беспорядка. Откройте для себя простой и эффективный
+  метод поддержания чистоты, который освободит ваше время для более важных дел.
+pubDate: '2025-07-25T13:30:01.338Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: Простой способ поддерживать чистоту в доме
+  description: >-
+    Забудьте о стрессе из-за беспорядка. Откройте для себя простой и эффективный
+    метод поддержания чистоты, который освободит ваше время для более важных
+    дел.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.8'
+    reviewCount: 436
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': 'https://butlerspb-blog.netlify.app/blog/prostoy-sposob/'
 ---
 # Простой способ поддерживать идеальную чистоту: система уборки за 15 минут в день от экспертов ButlerSPB
 

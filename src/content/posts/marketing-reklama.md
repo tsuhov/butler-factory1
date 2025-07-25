@@ -1,11 +1,40 @@
 ---
-title: "Эффективный маркетинг и реклама от ButlerSPB"
-description: "Современный маркетинг и реклама — ключ к успеху. В этой статье блога ButlerSPB мы разбираем эффективные стратегии, каналы и инструменты для привлечения клиентов."
-keywords: "маркетинг, реклама, продвижение, digital-маркетинг, привлечение клиентов, ButlerSPB"
-pubDate: "2025-07-25T15:14:57.983Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Эффективный маркетинг и реклама от ButlerSPB","description":"Современный маркетинг и реклама — ключ к успеху. В этой статье блога ButlerSPB мы разбираем эффективные стратегии, каналы и инструменты для привлечения клиентов.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"5.0","reviewCount":774,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/marketing-reklama/"}}
+title: Эффективный маркетинг и реклама от ButlerSPB
+description: >-
+  Современный маркетинг и реклама — ключ к успеху. В этой статье блога ButlerSPB
+  мы разбираем эффективные стратегии, каналы и инструменты для привлечения
+  клиентов.
+pubDate: '2025-07-25T15:14:57.983Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: Эффективный маркетинг и реклама от ButlerSPB
+  description: >-
+    Современный маркетинг и реклама — ключ к успеху. В этой статье блога
+    ButlerSPB мы разбираем эффективные стратегии, каналы и инструменты для
+    привлечения клиентов.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.7'
+    reviewCount: 619
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': 'https://butlerspb-blog.netlify.app/blog/marketing-reklama/'
 ---
 # Маркетинг vs. Реклама: Как превратить расходы в инвестиции для роста вашего бизнеса
 

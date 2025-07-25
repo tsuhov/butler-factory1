@@ -1,10 +1,51 @@
 ---
-title: "Ваша безопасность — наш приоритет: гид от ButlerSPB по поведению в общественных местах и транспорте"
-description: "Ежедневно мы находимся в окружении сотен людей: в метро, торговых центрах, на вокзалах и в парках. В новой статье блога ButlerSPB мы собрали ключевые рекомендации, которые помогут вам чувствовать себя уверенно и защищенно в любой ситуации. Узнайте, как избежать карманных краж, правильно вести себя в толпе и что делать в случае возникновения нештатной ситуации в общественном транспорте."
-pubDate: "2025-07-22T11:44:27.530Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Ваша безопасность — наш приоритет: гид от ButlerSPB по поведению в общественных местах и транспорте","description":"Ежедневно мы находимся в окружении сотен людей: в метро, торговых центрах, на вокзалах и в парках. В новой статье блога ButlerSPB мы собрали ключевые рекомендации, которые помогут вам чувствовать себя уверенно и защищенно в любой ситуации. Узнайте, как избежать карманных краж, правильно вести себя в толпе и что делать в случае возникновения нештатной ситуации в общественном транспорте.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":714,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/pravila-bezopasnosti-v-obschestvennyh-mestah-i-transporte/"}}
+title: >-
+  Ваша безопасность — наш приоритет: гид от ButlerSPB по поведению в
+  общественных местах и транспорте
+description: >-
+  Ежедневно мы находимся в окружении сотен людей: в метро, торговых центрах, на
+  вокзалах и в парках. В новой статье блога ButlerSPB мы собрали ключевые
+  рекомендации, которые помогут вам чувствовать себя уверенно и защищенно в
+  любой ситуации. Узнайте, как избежать карманных краж, правильно вести себя в
+  толпе и что делать в случае возникновения нештатной ситуации в общественном
+  транспорте.
+pubDate: '2025-07-22T11:44:27.530Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: >-
+    Ваша безопасность — наш приоритет: гид от ButlerSPB по поведению в
+    общественных местах и транспорте
+  description: >-
+    Ежедневно мы находимся в окружении сотен людей: в метро, торговых центрах,
+    на вокзалах и в парках. В новой статье блога ButlerSPB мы собрали ключевые
+    рекомендации, которые помогут вам чувствовать себя уверенно и защищенно в
+    любой ситуации. Узнайте, как избежать карманных краж, правильно вести себя в
+    толпе и что делать в случае возникновения нештатной ситуации в общественном
+    транспорте.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.8'
+    reviewCount: 638
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/pravila-bezopasnosti-v-obschestvennyh-mestah-i-transporte/
 ---
 
 # Ваш гид по безопасности в большом городе: Как сохранять спокойствие и контроль в Санкт-Петербурге

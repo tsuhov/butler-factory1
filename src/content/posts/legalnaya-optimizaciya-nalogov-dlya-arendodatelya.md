@@ -1,10 +1,51 @@
 ---
-title: "Как арендодателю платить меньше налогов: легальные способы оптимизации от ButlerSPB"
-description: "Сдача квартиры в аренду — это бизнес, и налоги являются его неотъемлемой частью. В нашей новой статье мы подробно разбираем все законные способы налоговой оптимизации для собственников жилья в России. Сравниваем НДФЛ, самозанятость, патент и УСН для ИП, помогаем рассчитать, какой режим выгоднее именно вам, и делимся советами, как сэкономить деньги и избежать проблем с ФНС."
-pubDate: "2025-07-22T13:49:14.338Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Как арендодателю платить меньше налогов: легальные способы оптимизации от ButlerSPB","description":"Сдача квартиры в аренду — это бизнес, и налоги являются его неотъемлемой частью. В нашей новой статье мы подробно разбираем все законные способы налоговой оптимизации для собственников жилья в России. Сравниваем НДФЛ, самозанятость, патент и УСН для ИП, помогаем рассчитать, какой режим выгоднее именно вам, и делимся советами, как сэкономить деньги и избежать проблем с ФНС.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":746,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/legalnaya-optimizaciya-nalogov-dlya-arendodatelya/"}}
+title: >-
+  Как арендодателю платить меньше налогов: легальные способы оптимизации от
+  ButlerSPB
+description: >-
+  Сдача квартиры в аренду — это бизнес, и налоги являются его неотъемлемой
+  частью. В нашей новой статье мы подробно разбираем все законные способы
+  налоговой оптимизации для собственников жилья в России. Сравниваем НДФЛ,
+  самозанятость, патент и УСН для ИП, помогаем рассчитать, какой режим выгоднее
+  именно вам, и делимся советами, как сэкономить деньги и избежать проблем с
+  ФНС.
+pubDate: '2025-07-22T13:49:14.338Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: >-
+    Как арендодателю платить меньше налогов: легальные способы оптимизации от
+    ButlerSPB
+  description: >-
+    Сдача квартиры в аренду — это бизнес, и налоги являются его неотъемлемой
+    частью. В нашей новой статье мы подробно разбираем все законные способы
+    налоговой оптимизации для собственников жилья в России. Сравниваем НДФЛ,
+    самозанятость, патент и УСН для ИП, помогаем рассчитать, какой режим
+    выгоднее именно вам, и делимся советами, как сэкономить деньги и избежать
+    проблем с ФНС.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.7'
+    reviewCount: 863
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/legalnaya-optimizaciya-nalogov-dlya-arendodatelya/
 ---
 
 # Как арендодателю платить меньше налогов и спать спокойно: полное руководство по легальной оптимизации

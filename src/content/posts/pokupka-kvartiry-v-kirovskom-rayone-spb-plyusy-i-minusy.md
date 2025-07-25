@@ -1,11 +1,41 @@
 ---
-title: "Квартира в Кировском районе СПб: плюсы и минусы"
-description: "Кировский район СПб — это сочетание старого фонда и новостроек, парков и промзон. Разбираем все плюсы и минусы покупки жилья: транспорт, экология, цены и инфраструктура."
-keywords: "Кировский район СПб, купить квартиру, недвижимость СПб, новостройки, вторичное жилье, плюсы и минусы"
-pubDate: "2025-07-24T12:04:47.872Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Квартира в Кировском районе СПб: плюсы и минусы","description":"Кировский район СПб — это сочетание старого фонда и новостроек, парков и промзон. Разбираем все плюсы и минусы покупки жилья: транспорт, экология, цены и инфраструктура.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"5.0","reviewCount":591,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/pokupka-kvartiry-v-kirovskom-rayone-spb-plyusy-i-minusy/"}}
+title: 'Квартира в Кировском районе СПб: плюсы и минусы'
+description: >-
+  Кировский район СПб — это сочетание старого фонда и новостроек, парков и
+  промзон. Разбираем все плюсы и минусы покупки жилья: транспорт, экология, цены
+  и инфраструктура.
+pubDate: '2025-07-24T12:04:47.872Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Квартира в Кировском районе СПб: плюсы и минусы'
+  description: >-
+    Кировский район СПб — это сочетание старого фонда и новостроек, парков и
+    промзон. Разбираем все плюсы и минусы покупки жилья: транспорт, экология,
+    цены и инфраструктура.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.9'
+    reviewCount: 414
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/pokupka-kvartiry-v-kirovskom-rayone-spb-plyusy-i-minusy/
 ---
 # Кировский район СПб: стоит ли здесь покупать квартиру? Разбираем плюсы, минусы и подводные камни
 

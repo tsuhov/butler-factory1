@@ -1,10 +1,43 @@
 ---
-title: "Карты лояльности: как превратить случайных посетителей в постоянных гостей"
-description: "В новой статье блога ButlerSPB разбираемся, как создать и внедрить эффективную программу лояльности. Пошаговое руководство по выбору типа карт, разработке механики начисления бонусов и анализу результатов для увеличения прибыли и удержания клиентов."
-pubDate: "2025-07-22T11:29:27.823Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Карты лояльности: как превратить случайных посетителей в постоянных гостей","description":"В новой статье блога ButlerSPB разбираемся, как создать и внедрить эффективную программу лояльности. Пошаговое руководство по выбору типа карт, разработке механики начисления бонусов и анализу результатов для увеличения прибыли и удержания клиентов.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.8","reviewCount":778,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/sozdanie-kart-loyalnosti-dlya-postoyannyh-gostey/"}}
+title: 'Карты лояльности: как превратить случайных посетителей в постоянных гостей'
+description: >-
+  В новой статье блога ButlerSPB разбираемся, как создать и внедрить эффективную
+  программу лояльности. Пошаговое руководство по выбору типа карт, разработке
+  механики начисления бонусов и анализу результатов для увеличения прибыли и
+  удержания клиентов.
+pubDate: '2025-07-22T11:29:27.823Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Карты лояльности: как превратить случайных посетителей в постоянных гостей'
+  description: >-
+    В новой статье блога ButlerSPB разбираемся, как создать и внедрить
+    эффективную программу лояльности. Пошаговое руководство по выбору типа карт,
+    разработке механики начисления бонусов и анализу результатов для увеличения
+    прибыли и удержания клиентов.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.8'
+    reviewCount: 826
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/sozdanie-kart-loyalnosti-dlya-postoyannyh-gostey/
 ---
 
 # Как превратить случайных посетителей в преданных поклонников: Создаем программу лояльности, которая действительно работает

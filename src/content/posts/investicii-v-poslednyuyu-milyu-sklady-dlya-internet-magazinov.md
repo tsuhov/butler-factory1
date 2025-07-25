@@ -1,10 +1,47 @@
 ---
-title: "Инвестиции в 'последнюю милю': склады для интернет-магазинов"
-description: "Эпоха e-commerce диктует новые требования к логистике. Скорость доставки становится главным конкурентным преимуществом, а склады 'последней мили' — ключевым активом. В новой статье блога ButlerSPB анализируем, почему фулфилмент-центры и дарксторы в черте города являются одним из самых перспективных направлений для инвестиций, какие форматы складов востребованы сегодня и как они меняют городской ландшафт."
-pubDate: "2025-07-23T12:24:25.385Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Инвестиции в 'последнюю милю': склады для интернет-магазинов","description":"Эпоха e-commerce диктует новые требования к логистике. Скорость доставки становится главным конкурентным преимуществом, а склады 'последней мили' — ключевым активом. В новой статье блога ButlerSPB анализируем, почему фулфилмент-центры и дарксторы в черте города являются одним из самых перспективных направлений для инвестиций, какие форматы складов востребованы сегодня и как они меняют городской ландшафт.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":788,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/investicii-v-poslednyuyu-milyu-sklady-dlya-internet-magazinov/"}}
+title: 'Инвестиции в ''последнюю милю'': склады для интернет-магазинов'
+description: >-
+  Эпоха e-commerce диктует новые требования к логистике. Скорость доставки
+  становится главным конкурентным преимуществом, а склады 'последней мили' —
+  ключевым активом. В новой статье блога ButlerSPB анализируем, почему
+  фулфилмент-центры и дарксторы в черте города являются одним из самых
+  перспективных направлений для инвестиций, какие форматы складов востребованы
+  сегодня и как они меняют городской ландшафт.
+pubDate: '2025-07-23T12:24:25.385Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Инвестиции в ''последнюю милю'': склады для интернет-магазинов'
+  description: >-
+    Эпоха e-commerce диктует новые требования к логистике. Скорость доставки
+    становится главным конкурентным преимуществом, а склады 'последней мили' —
+    ключевым активом. В новой статье блога ButlerSPB анализируем, почему
+    фулфилмент-центры и дарксторы в черте города являются одним из самых
+    перспективных направлений для инвестиций, какие форматы складов востребованы
+    сегодня и как они меняют городской ландшафт.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.8'
+    reviewCount: 496
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/investicii-v-poslednyuyu-milyu-sklady-dlya-internet-magazinov/
 ---
 
 # Инвестиции в "последнюю милю": Полное руководство по складам для современного e-commerce

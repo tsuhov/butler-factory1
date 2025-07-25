@@ -1,10 +1,49 @@
 ---
-title: "Агентский договор на аренду: права и обязанности сторон"
-description: "Агентский договор на аренду — ключевой документ, регулирующий отношения между собственником недвижимости (принципалом) и агентом. В новой статье блога ButlerSPB подробно разбираем, какие права и обязанности возникают у каждой стороны, на какие пункты в договоре стоит обратить особое внимание и как защитить свои интересы при сдаче квартиры через посредника. Узнайте всё о юридических тонкостях, чтобы сделать сотрудничество максимально эффективным и безопасным."
-pubDate: "2025-07-23T12:09:01.361Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Агентский договор на аренду: права и обязанности сторон","description":"Агентский договор на аренду — ключевой документ, регулирующий отношения между собственником недвижимости (принципалом) и агентом. В новой статье блога ButlerSPB подробно разбираем, какие права и обязанности возникают у каждой стороны, на какие пункты в договоре стоит обратить особое внимание и как защитить свои интересы при сдаче квартиры через посредника. Узнайте всё о юридических тонкостях, чтобы сделать сотрудничество максимально эффективным и безопасным.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":396,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/agentskiy-dogovor-na-arendu-prava-i-obyazannosti-storon/"}}
+title: 'Агентский договор на аренду: права и обязанности сторон'
+description: >-
+  Агентский договор на аренду — ключевой документ, регулирующий отношения между
+  собственником недвижимости (принципалом) и агентом. В новой статье блога
+  ButlerSPB подробно разбираем, какие права и обязанности возникают у каждой
+  стороны, на какие пункты в договоре стоит обратить особое внимание и как
+  защитить свои интересы при сдаче квартиры через посредника. Узнайте всё о
+  юридических тонкостях, чтобы сделать сотрудничество максимально эффективным и
+  безопасным.
+pubDate: '2025-07-23T12:09:01.361Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Агентский договор на аренду: права и обязанности сторон'
+  description: >-
+    Агентский договор на аренду — ключевой документ, регулирующий отношения
+    между собственником недвижимости (принципалом) и агентом. В новой статье
+    блога ButlerSPB подробно разбираем, какие права и обязанности возникают у
+    каждой стороны, на какие пункты в договоре стоит обратить особое внимание и
+    как защитить свои интересы при сдаче квартиры через посредника. Узнайте всё
+    о юридических тонкостях, чтобы сделать сотрудничество максимально
+    эффективным и безопасным.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '5.0'
+    reviewCount: 872
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/agentskiy-dogovor-na-arendu-prava-i-obyazannosti-storon/
 ---
 
 # Агентский договор на аренду недвижимости: полное руководство по правам и обязанностям сторон

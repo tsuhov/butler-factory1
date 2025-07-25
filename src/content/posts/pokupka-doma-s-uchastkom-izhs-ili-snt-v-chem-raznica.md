@@ -1,10 +1,45 @@
 ---
-title: "ИЖС или СНТ: какой участок выбрать для дома? Разбираем отличия с ButlerSPB"
-description: "Планируете покупку загородного дома, но не знаете, что лучше — участок ИЖС или СНТ? В этой статье эксперты ButlerSPB подробно разбирают ключевые различия: от возможности постоянной регистрации и качества инфраструктуры до размеров налогов и юридических нюансов. Поможем сделать правильный выбор и избежать подводных камней при покупке недвижимости вашей мечты."
-pubDate: "2025-07-23T22:11:58.926Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"ИЖС или СНТ: какой участок выбрать для дома? Разбираем отличия с ButlerSPB","description":"Планируете покупку загородного дома, но не знаете, что лучше — участок ИЖС или СНТ? В этой статье эксперты ButlerSPB подробно разбирают ключевые различия: от возможности постоянной регистрации и качества инфраструктуры до размеров налогов и юридических нюансов. Поможем сделать правильный выбор и избежать подводных камней при покупке недвижимости вашей мечты.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.7","reviewCount":409,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/pokupka-doma-s-uchastkom-izhs-ili-snt-v-chem-raznica/"}}
+title: 'ИЖС или СНТ: какой участок выбрать для дома? Разбираем отличия с ButlerSPB'
+description: >-
+  Планируете покупку загородного дома, но не знаете, что лучше — участок ИЖС или
+  СНТ? В этой статье эксперты ButlerSPB подробно разбирают ключевые различия: от
+  возможности постоянной регистрации и качества инфраструктуры до размеров
+  налогов и юридических нюансов. Поможем сделать правильный выбор и избежать
+  подводных камней при покупке недвижимости вашей мечты.
+pubDate: '2025-07-23T22:11:58.926Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'ИЖС или СНТ: какой участок выбрать для дома? Разбираем отличия с ButlerSPB'
+  description: >-
+    Планируете покупку загородного дома, но не знаете, что лучше — участок ИЖС
+    или СНТ? В этой статье эксперты ButlerSPB подробно разбирают ключевые
+    различия: от возможности постоянной регистрации и качества инфраструктуры до
+    размеров налогов и юридических нюансов. Поможем сделать правильный выбор и
+    избежать подводных камней при покупке недвижимости вашей мечты.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.7'
+    reviewCount: 554
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/pokupka-doma-s-uchastkom-izhs-ili-snt-v-chem-raznica/
 ---
 
 # ИЖС или СНТ: Полный гид по выбору участка для дома мечты в 2024 году

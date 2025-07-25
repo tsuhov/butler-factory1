@@ -1,10 +1,45 @@
 ---
-title: "Инвестиции в студию или в однокомнатную квартиру в СПб: что выгоднее?"
-description: "Планируете купить недвижимость в Санкт-Петербурге для сдачи в аренду, но не можете выбрать между студией и однушкой? Эксперты ButlerSPB разбирают плюсы и минусы каждого варианта. В статье мы сравним порог входа, потенциальную доходность, ликвидность и портрет арендатора для обоих типов квартир, чтобы помочь вам сделать правильный инвестиционный выбор."
-pubDate: "2025-07-22T20:17:17.442Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Инвестиции в студию или в однокомнатную квартиру в СПб: что выгоднее?","description":"Планируете купить недвижимость в Санкт-Петербурге для сдачи в аренду, но не можете выбрать между студией и однушкой? Эксперты ButlerSPB разбирают плюсы и минусы каждого варианта. В статье мы сравним порог входа, потенциальную доходность, ликвидность и портрет арендатора для обоих типов квартир, чтобы помочь вам сделать правильный инвестиционный выбор.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.7","reviewCount":724,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/investicii-v-studiyu-ili-v-odnokomnatnuyu-kvartiru-v-spb-chto-vygodnee/"}}
+title: 'Инвестиции в студию или в однокомнатную квартиру в СПб: что выгоднее?'
+description: >-
+  Планируете купить недвижимость в Санкт-Петербурге для сдачи в аренду, но не
+  можете выбрать между студией и однушкой? Эксперты ButlerSPB разбирают плюсы и
+  минусы каждого варианта. В статье мы сравним порог входа, потенциальную
+  доходность, ликвидность и портрет арендатора для обоих типов квартир, чтобы
+  помочь вам сделать правильный инвестиционный выбор.
+pubDate: '2025-07-22T20:17:17.442Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Инвестиции в студию или в однокомнатную квартиру в СПб: что выгоднее?'
+  description: >-
+    Планируете купить недвижимость в Санкт-Петербурге для сдачи в аренду, но не
+    можете выбрать между студией и однушкой? Эксперты ButlerSPB разбирают плюсы
+    и минусы каждого варианта. В статье мы сравним порог входа, потенциальную
+    доходность, ликвидность и портрет арендатора для обоих типов квартир, чтобы
+    помочь вам сделать правильный инвестиционный выбор.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.7'
+    reviewCount: 890
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/investicii-v-studiyu-ili-v-odnokomnatnuyu-kvartiru-v-spb-chto-vygodnee/
 ---
 
 # Студия или однушка в СПб для инвестиций: что выгоднее? Полный разбор для инвестора

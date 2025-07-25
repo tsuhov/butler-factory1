@@ -1,10 +1,47 @@
 ---
-title: "Семейный отдых в Санкт-Петербурге: гид по лучшим местам для детей от ButlerSPB"
-description: "Планируете поездку в Северную столицу всей семьей? Мы в ButlerSPB знаем, как сделать ее незабываемой! В нашей статье мы собрали самые интересные и увлекательные места Санкт-Петербурга, которые понравятся и детям, и взрослым: от интерактивных музеев и парков развлечений до уютных кафе и живописных парков для прогулок."
-pubDate: "2025-07-22T11:47:50.568Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Семейный отдых в Санкт-Петербурге: гид по лучшим местам для детей от ButlerSPB","description":"Планируете поездку в Северную столицу всей семьей? Мы в ButlerSPB знаем, как сделать ее незабываемой! В нашей статье мы собрали самые интересные и увлекательные места Санкт-Петербурга, которые понравятся и детям, и взрослым: от интерактивных музеев и парков развлечений до уютных кафе и живописных парков для прогулок.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.8","reviewCount":842,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/semeynyy-otdyh-v-sankt-peterburge-kuda-shodit-s-detmi/"}}
+title: 'Семейный отдых в Санкт-Петербурге: гид по лучшим местам для детей от ButlerSPB'
+description: >-
+  Планируете поездку в Северную столицу всей семьей? Мы в ButlerSPB знаем, как
+  сделать ее незабываемой! В нашей статье мы собрали самые интересные и
+  увлекательные места Санкт-Петербурга, которые понравятся и детям, и взрослым:
+  от интерактивных музеев и парков развлечений до уютных кафе и живописных
+  парков для прогулок.
+pubDate: '2025-07-22T11:47:50.568Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: >-
+    Семейный отдых в Санкт-Петербурге: гид по лучшим местам для детей от
+    ButlerSPB
+  description: >-
+    Планируете поездку в Северную столицу всей семьей? Мы в ButlerSPB знаем, как
+    сделать ее незабываемой! В нашей статье мы собрали самые интересные и
+    увлекательные места Санкт-Петербурга, которые понравятся и детям, и
+    взрослым: от интерактивных музеев и парков развлечений до уютных кафе и
+    живописных парков для прогулок.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '5.0'
+    reviewCount: 659
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/semeynyy-otdyh-v-sankt-peterburge-kuda-shodit-s-detmi/
 ---
 
 # Санкт-Петербург с детьми: полный гид по семейному отдыху от А до Я

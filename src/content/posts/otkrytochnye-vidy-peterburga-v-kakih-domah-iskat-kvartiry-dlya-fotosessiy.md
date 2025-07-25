@@ -1,10 +1,43 @@
 ---
-title: "«Открыточные» виды Петербурга: в каких домах искать квартиры для фотосессий"
-description: "Мечтаете о фотосессии на фоне Исаакиевского собора или разводных мостов прямо из окна? Команда ButlerSPB подготовила гид по самым фотогеничным домам Петербурга. Рассказываем, в каких зданиях и на каких улицах искать квартиры с теми самыми «открыточными» панорамами для ваших идеальных снимков."
-pubDate: "2025-07-23T10:39:43.712Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"«Открыточные» виды Петербурга: в каких домах искать квартиры для фотосессий","description":"Мечтаете о фотосессии на фоне Исаакиевского собора или разводных мостов прямо из окна? Команда ButlerSPB подготовила гид по самым фотогеничным домам Петербурга. Рассказываем, в каких зданиях и на каких улицах искать квартиры с теми самыми «открыточными» панорамами для ваших идеальных снимков.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.8","reviewCount":470,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/otkrytochnye-vidy-peterburga-v-kakih-domah-iskat-kvartiry-dlya-fotosessiy/"}}
+title: '«Открыточные» виды Петербурга: в каких домах искать квартиры для фотосессий'
+description: >-
+  Мечтаете о фотосессии на фоне Исаакиевского собора или разводных мостов прямо
+  из окна? Команда ButlerSPB подготовила гид по самым фотогеничным домам
+  Петербурга. Рассказываем, в каких зданиях и на каких улицах искать квартиры с
+  теми самыми «открыточными» панорамами для ваших идеальных снимков.
+pubDate: '2025-07-23T10:39:43.712Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: '«Открыточные» виды Петербурга: в каких домах искать квартиры для фотосессий'
+  description: >-
+    Мечтаете о фотосессии на фоне Исаакиевского собора или разводных мостов
+    прямо из окна? Команда ButlerSPB подготовила гид по самым фотогеничным домам
+    Петербурга. Рассказываем, в каких зданиях и на каких улицах искать квартиры
+    с теми самыми «открыточными» панорамами для ваших идеальных снимков.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.9'
+    reviewCount: 497
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/otkrytochnye-vidy-peterburga-v-kakih-domah-iskat-kvartiry-dlya-fotosessiy/
 ---
 
 # "Открыточные" виды Петербурга: в каких домах искать идеальную квартиру для фотосессий

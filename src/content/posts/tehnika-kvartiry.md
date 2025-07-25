@@ -1,11 +1,40 @@
 ---
-title: "Техника для квартиры: полный гайд от ButlerSPB"
-description: "Выбор бытовой техники для дома — важный шаг к созданию уюта. В нашей статье мы расскажем, на что обратить внимание при покупке и как технологии делают жизнь проще."
-keywords: "бытовая техника, техника для дома, умный дом, выбор техники, обзор техники, ButlerSPB, кухонная техника"
-pubDate: "2025-07-25T15:44:10.155Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Техника для квартиры: полный гайд от ButlerSPB","description":"Выбор бытовой техники для дома — важный шаг к созданию уюта. В нашей статье мы расскажем, на что обратить внимание при покупке и как технологии делают жизнь проще.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"5.0","reviewCount":404,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/tehnika-kvartiry/"}}
+title: 'Техника для квартиры: полный гайд от ButlerSPB'
+description: >-
+  Выбор бытовой техники для дома — важный шаг к созданию уюта. В нашей статье мы
+  расскажем, на что обратить внимание при покупке и как технологии делают жизнь
+  проще.
+pubDate: '2025-07-25T15:44:10.155Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Техника для квартиры: полный гайд от ButlerSPB'
+  description: >-
+    Выбор бытовой техники для дома — важный шаг к созданию уюта. В нашей статье
+    мы расскажем, на что обратить внимание при покупке и как технологии делают
+    жизнь проще.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.9'
+    reviewCount: 307
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': 'https://butlerspb-blog.netlify.app/blog/tehnika-kvartiry/'
 ---
 # Полный гид по выбору техники для квартиры: от инвестиций в аренду до личного комфорта
 

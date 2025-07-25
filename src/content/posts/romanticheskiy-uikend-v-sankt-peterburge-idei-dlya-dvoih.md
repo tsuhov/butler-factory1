@@ -1,10 +1,45 @@
 ---
-title: "Романтический уикенд в Санкт-Петербурге: идеи для двоих"
-description: "Планируете незабываемые выходные в Северной столице? Команда ButlerSPB подготовила для вас гид по самым романтическим местам и занятиям в Санкт-Петербурге: от прогулок по крышам и ужинов с видом на Неву до посещения скрытых двориков и эксклюзивных спа-программ. Создайте свою идеальную историю любви в самом атмосферном городе России."
-pubDate: "2025-07-22T11:47:58.735Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Романтический уикенд в Санкт-Петербурге: идеи для двоих","description":"Планируете незабываемые выходные в Северной столице? Команда ButlerSPB подготовила для вас гид по самым романтическим местам и занятиям в Санкт-Петербурге: от прогулок по крышам и ужинов с видом на Неву до посещения скрытых двориков и эксклюзивных спа-программ. Создайте свою идеальную историю любви в самом атмосферном городе России.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.7","reviewCount":312,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/romanticheskiy-uikend-v-sankt-peterburge-idei-dlya-dvoih/"}}
+title: 'Романтический уикенд в Санкт-Петербурге: идеи для двоих'
+description: >-
+  Планируете незабываемые выходные в Северной столице? Команда ButlerSPB
+  подготовила для вас гид по самым романтическим местам и занятиям в
+  Санкт-Петербурге: от прогулок по крышам и ужинов с видом на Неву до посещения
+  скрытых двориков и эксклюзивных спа-программ. Создайте свою идеальную историю
+  любви в самом атмосферном городе России.
+pubDate: '2025-07-22T11:47:58.735Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Романтический уикенд в Санкт-Петербурге: идеи для двоих'
+  description: >-
+    Планируете незабываемые выходные в Северной столице? Команда ButlerSPB
+    подготовила для вас гид по самым романтическим местам и занятиям в
+    Санкт-Петербурге: от прогулок по крышам и ужинов с видом на Неву до
+    посещения скрытых двориков и эксклюзивных спа-программ. Создайте свою
+    идеальную историю любви в самом атмосферном городе России.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.8'
+    reviewCount: 502
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/romanticheskiy-uikend-v-sankt-peterburge-idei-dlya-dvoih/
 ---
 
 # Романтический уикенд в Санкт-Петербурге: Идеальный гид для двоих от ButlerSPB

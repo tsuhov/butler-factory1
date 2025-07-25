@@ -1,11 +1,40 @@
 ---
-title: "Аренда батлера посуточно: роскошь и удобство"
-description: "Узнайте, как аренда батлера на сутки может преобразить ваше мероприятие или отдых. ButlerSPB предлагает элитный сервис для тех, кто ценит безупречность во всем."
-keywords: "батлер аренда посуточно, услуги батлера, дворецкий на день, элитный сервис, личный помощник, ButlerSPB"
-pubDate: "2025-07-24T13:04:34.047Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Аренда батлера посуточно: роскошь и удобство","description":"Узнайте, как аренда батлера на сутки может преобразить ваше мероприятие или отдых. ButlerSPB предлагает элитный сервис для тех, кто ценит безупречность во всем.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":848,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/batler-arenda-posutochno/"}}
+title: 'Аренда батлера посуточно: роскошь и удобство'
+description: >-
+  Узнайте, как аренда батлера на сутки может преобразить ваше мероприятие или
+  отдых. ButlerSPB предлагает элитный сервис для тех, кто ценит безупречность во
+  всем.
+pubDate: '2025-07-24T13:04:34.047Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Аренда батлера посуточно: роскошь и удобство'
+  description: >-
+    Узнайте, как аренда батлера на сутки может преобразить ваше мероприятие или
+    отдых. ButlerSPB предлагает элитный сервис для тех, кто ценит безупречность
+    во всем.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.7'
+    reviewCount: 788
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': 'https://butlerspb-blog.netlify.app/blog/batler-arenda-posutochno/'
 ---
 # Аренда батлера посуточно в Санкт-Петербурге: Ваш ключ к безупречному дню с ButlerSPB
 

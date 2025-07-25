@@ -1,10 +1,47 @@
 ---
-title: "Как ButlerSPB находит и обучает лучших мастеров для обслуживания ваших квартир"
-description: "Качество сервиса напрямую зависит от команды. В новой статье блога ButlerSPB мы делимся инсайтами: где искать квалифицированных технических специалистов, как проводить многоэтапный отбор и почему непрерывное обучение — ключ к безупречному обслуживанию квартир. Раскрываем секреты создания команды профессионалов, которым можно доверять."
-pubDate: "2025-07-22T11:11:56.097Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Как ButlerSPB находит и обучает лучших мастеров для обслуживания ваших квартир","description":"Качество сервиса напрямую зависит от команды. В новой статье блога ButlerSPB мы делимся инсайтами: где искать квалифицированных технических специалистов, как проводить многоэтапный отбор и почему непрерывное обучение — ключ к безупречному обслуживанию квартир. Раскрываем секреты создания команды профессионалов, которым можно доверять.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.7","reviewCount":528,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/poisk-i-obuchenie-tehnicheskogo-personala-dlya-obsluzhivaniya-kvartir/"}}
+title: Как ButlerSPB находит и обучает лучших мастеров для обслуживания ваших квартир
+description: >-
+  Качество сервиса напрямую зависит от команды. В новой статье блога ButlerSPB
+  мы делимся инсайтами: где искать квалифицированных технических специалистов,
+  как проводить многоэтапный отбор и почему непрерывное обучение — ключ к
+  безупречному обслуживанию квартир. Раскрываем секреты создания команды
+  профессионалов, которым можно доверять.
+pubDate: '2025-07-22T11:11:56.097Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: >-
+    Как ButlerSPB находит и обучает лучших мастеров для обслуживания ваших
+    квартир
+  description: >-
+    Качество сервиса напрямую зависит от команды. В новой статье блога ButlerSPB
+    мы делимся инсайтами: где искать квалифицированных технических специалистов,
+    как проводить многоэтапный отбор и почему непрерывное обучение — ключ к
+    безупречному обслуживанию квартир. Раскрываем секреты создания команды
+    профессионалов, которым можно доверять.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.8'
+    reviewCount: 476
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/poisk-i-obuchenie-tehnicheskogo-personala-dlya-obsluzhivaniya-kvartir/
 ---
 
 # Как собрать команду мечты для ваших апартаментов: Полное руководство по поиску и обучению техперсонала от ButlerSPB

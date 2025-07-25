@@ -1,11 +1,41 @@
 ---
-title: "Однушка в евродвушку: как влияет на аренду"
-description: "Превращение однушки в евродвушку может серьезно увеличить доход от аренды. Разбираем, как грамотная перепланировка повышает привлекательность жилья и ставку."
-keywords: "перепланировка, евродвушка, аренда квартиры, однокомнатная квартира, доходность, инвестиции в недвижимость, ButlerSPB"
-pubDate: "2025-07-24T12:07:20.639Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Однушка в евродвушку: как влияет на аренду","description":"Превращение однушки в евродвушку может серьезно увеличить доход от аренды. Разбираем, как грамотная перепланировка повышает привлекательность жилья и ставку.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":534,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/kak-pereplanirovka-odnokomnatnoy-kvartiry-v-evrodvushku-vliyaet-na-arendu/"}}
+title: 'Однушка в евродвушку: как влияет на аренду'
+description: >-
+  Превращение однушки в евродвушку может серьезно увеличить доход от аренды.
+  Разбираем, как грамотная перепланировка повышает привлекательность жилья и
+  ставку.
+pubDate: '2025-07-24T12:07:20.639Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Однушка в евродвушку: как влияет на аренду'
+  description: >-
+    Превращение однушки в евродвушку может серьезно увеличить доход от аренды.
+    Разбираем, как грамотная перепланировка повышает привлекательность жилья и
+    ставку.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.7'
+    reviewCount: 870
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/kak-pereplanirovka-odnokomnatnoy-kvartiry-v-evrodvushku-vliyaet-na-arendu/
 ---
 # Однушка vs Евродвушка: Как перепланировка увеличивает доход от аренды на 20-40% в СПб?
 

@@ -1,10 +1,47 @@
 ---
-title: "Аренда квартиры на первом этаже: инструкция для арендатора"
-description: "Квартиры на первом этаже часто вызывают споры: одни видят в них сплошные минусы, другие — уникальные преимущества. В новой статье блога ButlerSPB мы объективно разбираем все особенности аренды такого жилья. Вы узнаете, как сэкономить на аренде, для кого первый этаж станет идеальным выбором, и на какие неочевидные моменты (безопасность, шум, приватность) стоит обратить внимание при заключении договора."
-pubDate: "2025-07-23T12:13:41.771Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Аренда квартиры на первом этаже: инструкция для арендатора","description":"Квартиры на первом этаже часто вызывают споры: одни видят в них сплошные минусы, другие — уникальные преимущества. В новой статье блога ButlerSPB мы объективно разбираем все особенности аренды такого жилья. Вы узнаете, как сэкономить на аренде, для кого первый этаж станет идеальным выбором, и на какие неочевидные моменты (безопасность, шум, приватность) стоит обратить внимание при заключении договора.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.7","reviewCount":803,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/osobennosti-arendy-kvartiry-na-pervom-etazhe/"}}
+title: 'Аренда квартиры на первом этаже: инструкция для арендатора'
+description: >-
+  Квартиры на первом этаже часто вызывают споры: одни видят в них сплошные
+  минусы, другие — уникальные преимущества. В новой статье блога ButlerSPB мы
+  объективно разбираем все особенности аренды такого жилья. Вы узнаете, как
+  сэкономить на аренде, для кого первый этаж станет идеальным выбором, и на
+  какие неочевидные моменты (безопасность, шум, приватность) стоит обратить
+  внимание при заключении договора.
+pubDate: '2025-07-23T12:13:41.771Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Аренда квартиры на первом этаже: инструкция для арендатора'
+  description: >-
+    Квартиры на первом этаже часто вызывают споры: одни видят в них сплошные
+    минусы, другие — уникальные преимущества. В новой статье блога ButlerSPB мы
+    объективно разбираем все особенности аренды такого жилья. Вы узнаете, как
+    сэкономить на аренде, для кого первый этаж станет идеальным выбором, и на
+    какие неочевидные моменты (безопасность, шум, приватность) стоит обратить
+    внимание при заключении договора.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.8'
+    reviewCount: 323
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/osobennosti-arendy-kvartiry-na-pervom-etazhe/
 ---
 
 # Первый этаж: приговор или находка? Полный гид по аренде от экспертов ButlerSPB

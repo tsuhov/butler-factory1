@@ -1,10 +1,47 @@
 ---
-title: "Страхование квартиры, сдаваемой в аренду: от чего защищает полис"
-description: "Сдаете квартиру и беспокоитесь о сохранности имущества и ремонта? Страховой полис — ваш главный инструмент защиты от непредвиденных ситуаций, от пожара и потопа до недобросовестных действий жильцов. В новой статье блога ButlerSPB подробно разбираем, какие риски покрывает страховка для сдаваемой квартиры, какие виды полисов существуют и почему это выгодная инвестиция в ваше спокойствие."
-pubDate: "2025-07-23T12:17:42.627Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Страхование квартиры, сдаваемой в аренду: от чего защищает полис","description":"Сдаете квартиру и беспокоитесь о сохранности имущества и ремонта? Страховой полис — ваш главный инструмент защиты от непредвиденных ситуаций, от пожара и потопа до недобросовестных действий жильцов. В новой статье блога ButlerSPB подробно разбираем, какие риски покрывает страховка для сдаваемой квартиры, какие виды полисов существуют и почему это выгодная инвестиция в ваше спокойствие.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":556,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/strahovanie-kvartiry-sdavaemoy-v-arendu-ot-chego-zaschischaet-polis/"}}
+title: 'Страхование квартиры, сдаваемой в аренду: от чего защищает полис'
+description: >-
+  Сдаете квартиру и беспокоитесь о сохранности имущества и ремонта? Страховой
+  полис — ваш главный инструмент защиты от непредвиденных ситуаций, от пожара и
+  потопа до недобросовестных действий жильцов. В новой статье блога ButlerSPB
+  подробно разбираем, какие риски покрывает страховка для сдаваемой квартиры,
+  какие виды полисов существуют и почему это выгодная инвестиция в ваше
+  спокойствие.
+pubDate: '2025-07-23T12:17:42.627Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Страхование квартиры, сдаваемой в аренду: от чего защищает полис'
+  description: >-
+    Сдаете квартиру и беспокоитесь о сохранности имущества и ремонта? Страховой
+    полис — ваш главный инструмент защиты от непредвиденных ситуаций, от пожара
+    и потопа до недобросовестных действий жильцов. В новой статье блога
+    ButlerSPB подробно разбираем, какие риски покрывает страховка для сдаваемой
+    квартиры, какие виды полисов существуют и почему это выгодная инвестиция в
+    ваше спокойствие.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.8'
+    reviewCount: 878
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/strahovanie-kvartiry-sdavaemoy-v-arendu-ot-chego-zaschischaet-polis/
 ---
 
 # Страхование квартиры, сдаваемой в аренду: полный гид для собственника от А до Я

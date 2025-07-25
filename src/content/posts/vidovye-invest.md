@@ -1,11 +1,40 @@
 ---
-title: "Видовые квартиры: ключ к успешным инвестициям"
-description: "Инвестирование в видовые квартиры в Петербурге — это не только престиж, но и высокая ликвидность. ButlerSPB расскажет, как выбрать объект и максимизировать доход."
-keywords: "видовые квартиры, инвестиции в недвижимость, купить квартиру спб, butlerspb, панорамный вид, доходная недвижимость"
-pubDate: "2025-07-25T14:15:31.457Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Видовые квартиры: ключ к успешным инвестициям","description":"Инвестирование в видовые квартиры в Петербурге — это не только престиж, но и высокая ликвидность. ButlerSPB расскажет, как выбрать объект и максимизировать доход.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"5.0","reviewCount":853,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/vidovye-invest/"}}
+title: 'Видовые квартиры: ключ к успешным инвестициям'
+description: >-
+  Инвестирование в видовые квартиры в Петербурге — это не только престиж, но и
+  высокая ликвидность. ButlerSPB расскажет, как выбрать объект и максимизировать
+  доход.
+pubDate: '2025-07-25T14:15:31.457Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Видовые квартиры: ключ к успешным инвестициям'
+  description: >-
+    Инвестирование в видовые квартиры в Петербурге — это не только престиж, но и
+    высокая ликвидность. ButlerSPB расскажет, как выбрать объект и
+    максимизировать доход.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.9'
+    reviewCount: 564
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': 'https://butlerspb-blog.netlify.app/blog/vidovye-invest/'
 ---
 # Видовые инвест в Санкт-Петербурге: Ваш гид по самому ценному активу на рынке элитной недвижимости
 

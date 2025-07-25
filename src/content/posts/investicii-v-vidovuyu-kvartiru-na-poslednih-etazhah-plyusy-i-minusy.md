@@ -1,10 +1,43 @@
 ---
-title: "Инвестиции в видовую квартиру на последних этажах: плюсы и минусы"
-description: "Квартиры на верхних этажах всегда ассоциируются с престижем, тишиной и захватывающими панорамами. Но являются ли они выгодной инвестицией? Команда ButlerSPB разбирает все «за» и «против» покупки видовой недвижимости под крышей, чтобы вы могли принять взвешенное решение."
-pubDate: "2025-07-23T11:07:56.680Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Инвестиции в видовую квартиру на последних этажах: плюсы и минусы","description":"Квартиры на верхних этажах всегда ассоциируются с престижем, тишиной и захватывающими панорамами. Но являются ли они выгодной инвестицией? Команда ButlerSPB разбирает все «за» и «против» покупки видовой недвижимости под крышей, чтобы вы могли принять взвешенное решение.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":681,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/investicii-v-vidovuyu-kvartiru-na-poslednih-etazhah-plyusy-i-minusy/"}}
+title: 'Инвестиции в видовую квартиру на последних этажах: плюсы и минусы'
+description: >-
+  Квартиры на верхних этажах всегда ассоциируются с престижем, тишиной и
+  захватывающими панорамами. Но являются ли они выгодной инвестицией? Команда
+  ButlerSPB разбирает все «за» и «против» покупки видовой недвижимости под
+  крышей, чтобы вы могли принять взвешенное решение.
+pubDate: '2025-07-23T11:07:56.680Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Инвестиции в видовую квартиру на последних этажах: плюсы и минусы'
+  description: >-
+    Квартиры на верхних этажах всегда ассоциируются с престижем, тишиной и
+    захватывающими панорамами. Но являются ли они выгодной инвестицией? Команда
+    ButlerSPB разбирает все «за» и «против» покупки видовой недвижимости под
+    крышей, чтобы вы могли принять взвешенное решение.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.9'
+    reviewCount: 711
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/investicii-v-vidovuyu-kvartiru-na-poslednih-etazhah-plyusy-i-minusy/
 ---
 
 # Инвестиции в видовую квартиру на последних этажах: полный разбор плюсов и минусов для инвестора в Санкт-Петербурге

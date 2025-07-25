@@ -1,11 +1,40 @@
 ---
-title: "Гид по управлению финансами от ButlerSPB"
-description: "Узнайте, как эффективно управлять финансами компании. В нашей статье от ButlerSPB мы разбираем основы бюджетирования, планирования и финансовой оптимизации."
-keywords: "управление финансами, бюджетирование, финансовое планирование, оптимизация расходов, финансовый учет, ButlerSPB"
-pubDate: "2025-07-25T15:47:36.147Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Гид по управлению финансами от ButlerSPB","description":"Узнайте, как эффективно управлять финансами компании. В нашей статье от ButlerSPB мы разбираем основы бюджетирования, планирования и финансовой оптимизации.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":900,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/upravlenie-finansami/"}}
+title: Гид по управлению финансами от ButlerSPB
+description: >-
+  Узнайте, как эффективно управлять финансами компании. В нашей статье от
+  ButlerSPB мы разбираем основы бюджетирования, планирования и финансовой
+  оптимизации.
+pubDate: '2025-07-25T15:47:36.147Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: Гид по управлению финансами от ButlerSPB
+  description: >-
+    Узнайте, как эффективно управлять финансами компании. В нашей статье от
+    ButlerSPB мы разбираем основы бюджетирования, планирования и финансовой
+    оптимизации.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.7'
+    reviewCount: 483
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': 'https://butlerspb-blog.netlify.app/blog/upravlenie-finansami/'
 ---
 # Управление финансами в бизнесе: пошаговое руководство для руководителя
 

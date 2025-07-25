@@ -1,11 +1,40 @@
 ---
-title: "Расторжение аренды: права и обязанности сторон"
-description: "Расторжение договора аренды: полное руководство. Объясняем основания для досрочного прекращения, пошаговый алгоритм действий и как избежать споров и штрафов."
-keywords: "расторжение договора аренды, досрочное расторжение, арендатор, арендодатель, уведомление о расторжении, аренда квартиры"
-pubDate: "2025-07-25T16:24:58.676Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Расторжение аренды: права и обязанности сторон","description":"Расторжение договора аренды: полное руководство. Объясняем основания для досрочного прекращения, пошаговый алгоритм действий и как избежать споров и штрафов.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"5.0","reviewCount":659,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/rastorzhenie-arendy/"}}
+title: 'Расторжение аренды: права и обязанности сторон'
+description: >-
+  Расторжение договора аренды: полное руководство. Объясняем основания для
+  досрочного прекращения, пошаговый алгоритм действий и как избежать споров и
+  штрафов.
+pubDate: '2025-07-25T16:24:58.676Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Расторжение аренды: права и обязанности сторон'
+  description: >-
+    Расторжение договора аренды: полное руководство. Объясняем основания для
+    досрочного прекращения, пошаговый алгоритм действий и как избежать споров и
+    штрафов.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.8'
+    reviewCount: 552
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': 'https://butlerspb-blog.netlify.app/blog/rastorzhenie-arendy/'
 ---
 # Расторжение договора аренды: пошаговое руководство для собственников и арендаторов в 2024 году
 

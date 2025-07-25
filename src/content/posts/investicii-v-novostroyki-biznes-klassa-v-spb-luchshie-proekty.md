@@ -1,10 +1,45 @@
 ---
-title: "Инвестиции в новостройки бизнес-класса в СПб: лучшие проекты для вложений"
-description: "Команда ButlerSPB подготовила экспертный обзор самых перспективных новостроек бизнес-класса в Санкт-Петербурге для инвесторов. Анализируем локации, инфраструктуру, потенциал роста стоимости и ликвидность объектов. Узнайте, в какие проекты стоит вкладывать деньги прямо сейчас для получения максимальной доходности."
-pubDate: "2025-07-23T13:43:16.220Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Инвестиции в новостройки бизнес-класса в СПб: лучшие проекты для вложений","description":"Команда ButlerSPB подготовила экспертный обзор самых перспективных новостроек бизнес-класса в Санкт-Петербурге для инвесторов. Анализируем локации, инфраструктуру, потенциал роста стоимости и ликвидность объектов. Узнайте, в какие проекты стоит вкладывать деньги прямо сейчас для получения максимальной доходности.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.8","reviewCount":406,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/investicii-v-novostroyki-biznes-klassa-v-spb-luchshie-proekty/"}}
+title: 'Инвестиции в новостройки бизнес-класса в СПб: лучшие проекты для вложений'
+description: >-
+  Команда ButlerSPB подготовила экспертный обзор самых перспективных новостроек
+  бизнес-класса в Санкт-Петербурге для инвесторов. Анализируем локации,
+  инфраструктуру, потенциал роста стоимости и ликвидность объектов. Узнайте, в
+  какие проекты стоит вкладывать деньги прямо сейчас для получения максимальной
+  доходности.
+pubDate: '2025-07-23T13:43:16.220Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Инвестиции в новостройки бизнес-класса в СПб: лучшие проекты для вложений'
+  description: >-
+    Команда ButlerSPB подготовила экспертный обзор самых перспективных
+    новостроек бизнес-класса в Санкт-Петербурге для инвесторов. Анализируем
+    локации, инфраструктуру, потенциал роста стоимости и ликвидность объектов.
+    Узнайте, в какие проекты стоит вкладывать деньги прямо сейчас для получения
+    максимальной доходности.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '5.0'
+    reviewCount: 842
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/investicii-v-novostroyki-biznes-klassa-v-spb-luchshie-proekty/
 ---
 
 # Инвестиции в новостройки бизнес-класса в СПб: лучшие проекты для вашего капитала

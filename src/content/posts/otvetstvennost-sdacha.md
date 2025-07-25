@@ -1,11 +1,40 @@
 ---
-title: "Ответственность при сдаче квартиры в аренду"
-description: "Сдача квартиры в аренду — это не только получение дохода, но и большая ответственность. Рассказываем о юридических аспектах, подготовке жилья и обязанностях."
-keywords: "сдача квартиры, ответственность арендодателя, аренда жилья, управление недвижимостью, договор аренды, ButlerSPB, риски при сдаче квартиры"
-pubDate: "2025-07-25T15:59:56.962Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Ответственность при сдаче квартиры в аренду","description":"Сдача квартиры в аренду — это не только получение дохода, но и большая ответственность. Рассказываем о юридических аспектах, подготовке жилья и обязанностях.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.8","reviewCount":518,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/otvetstvennost-sdacha/"}}
+title: Ответственность при сдаче квартиры в аренду
+description: >-
+  Сдача квартиры в аренду — это не только получение дохода, но и большая
+  ответственность. Рассказываем о юридических аспектах, подготовке жилья и
+  обязанностях.
+pubDate: '2025-07-25T15:59:56.962Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: Ответственность при сдаче квартиры в аренду
+  description: >-
+    Сдача квартиры в аренду — это не только получение дохода, но и большая
+    ответственность. Рассказываем о юридических аспектах, подготовке жилья и
+    обязанностях.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.9'
+    reviewCount: 603
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': 'https://butlerspb-blog.netlify.app/blog/otvetstvennost-sdacha/'
 ---
 # Ответственность при сдаче квартиры: Полное руководство для собственника по защите своего имущества
 

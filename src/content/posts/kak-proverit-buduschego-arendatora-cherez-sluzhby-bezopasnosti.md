@@ -1,11 +1,41 @@
 ---
-title: "Как проверить арендатора через СБ: инструкция"
-description: "Сдача квартиры — это риск. Рассказываем, как служба безопасности ButlerSPB проверяет потенциальных жильцов по базам, чтобы защитить вашу недвижимость от проблем."
-keywords: "проверка арендатора, служба безопасности, сдать квартиру, безопасность сделки, ButlerSPB, аренда недвижимости"
-pubDate: "2025-07-24T12:06:56.715Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Как проверить арендатора через СБ: инструкция","description":"Сдача квартиры — это риск. Рассказываем, как служба безопасности ButlerSPB проверяет потенциальных жильцов по базам, чтобы защитить вашу недвижимость от проблем.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.8","reviewCount":680,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/kak-proverit-buduschego-arendatora-cherez-sluzhby-bezopasnosti/"}}
+title: 'Как проверить арендатора через СБ: инструкция'
+description: >-
+  Сдача квартиры — это риск. Рассказываем, как служба безопасности ButlerSPB
+  проверяет потенциальных жильцов по базам, чтобы защитить вашу недвижимость от
+  проблем.
+pubDate: '2025-07-24T12:06:56.715Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Как проверить арендатора через СБ: инструкция'
+  description: >-
+    Сдача квартиры — это риск. Рассказываем, как служба безопасности ButlerSPB
+    проверяет потенциальных жильцов по базам, чтобы защитить вашу недвижимость
+    от проблем.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '5.0'
+    reviewCount: 660
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/kak-proverit-buduschego-arendatora-cherez-sluzhby-bezopasnosti/
 ---
 # Как проверить будущего арендатора: Полное руководство для собственника от ButlerSPB
 

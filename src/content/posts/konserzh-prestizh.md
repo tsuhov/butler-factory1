@@ -1,11 +1,40 @@
 ---
-title: "Консьерж-сервис класса люкс от ButlerSPB"
-description: "Откройте мир эксклюзивных возможностей с престижным консьерж-сервисом от ButlerSPB. Мы предлагаем индивидуальный подход и безупречно решаем любые задачи."
-keywords: "консьерж-сервис, элитный консьерж, ButlerSPB, лайфстайл-менеджмент, персональный ассистент, премиум услуги"
-pubDate: "2025-07-24T13:13:25.267Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Консьерж-сервис класса люкс от ButlerSPB","description":"Откройте мир эксклюзивных возможностей с престижным консьерж-сервисом от ButlerSPB. Мы предлагаем индивидуальный подход и безупречно решаем любые задачи.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"5.0","reviewCount":767,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/konserzh-prestizh/"}}
+title: Консьерж-сервис класса люкс от ButlerSPB
+description: >-
+  Откройте мир эксклюзивных возможностей с престижным консьерж-сервисом от
+  ButlerSPB. Мы предлагаем индивидуальный подход и безупречно решаем любые
+  задачи.
+pubDate: '2025-07-24T13:13:25.267Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: Консьерж-сервис класса люкс от ButlerSPB
+  description: >-
+    Откройте мир эксклюзивных возможностей с престижным консьерж-сервисом от
+    ButlerSPB. Мы предлагаем индивидуальный подход и безупречно решаем любые
+    задачи.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.9'
+    reviewCount: 705
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': 'https://butlerspb-blog.netlify.app/blog/konserzh-prestizh/'
 ---
 # Консьерж «Престиж»: Ваш новый стандарт жизни, где время работает на вас
 

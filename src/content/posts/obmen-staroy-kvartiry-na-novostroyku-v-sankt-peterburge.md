@@ -1,10 +1,49 @@
 ---
-title: "Обмен старой квартиры на новостройку в Санкт-Петербурге: инструкция и подводные камни от ButlerSPB"
-description: "Мечтаете переехать в современный жилой комплекс, но не знаете, с чего начать продажу старой квартиры? В этой статье мы подробно разбираем программу trade-in в СПб: как она работает, какие застройщики ее предлагают, и как избежать рисков. Узнайте, как с помощью экспертов ButlerSPB провести выгодную и безопасную сделку по обмену жилья."
-pubDate: "2025-07-21T23:42:20.634Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Обмен старой квартиры на новостройку в Санкт-Петербурге: инструкция и подводные камни от ButlerSPB","description":"Мечтаете переехать в современный жилой комплекс, но не знаете, с чего начать продажу старой квартиры? В этой статье мы подробно разбираем программу trade-in в СПб: как она работает, какие застройщики ее предлагают, и как избежать рисков. Узнайте, как с помощью экспертов ButlerSPB провести выгодную и безопасную сделку по обмену жилья.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"5.0","reviewCount":428,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/obmen-staroy-kvartiry-na-novostroyku-v-sankt-peterburge/"}}
+title: >-
+  Обмен старой квартиры на новостройку в Санкт-Петербурге: инструкция и
+  подводные камни от ButlerSPB
+description: >-
+  Мечтаете переехать в современный жилой комплекс, но не знаете, с чего начать
+  продажу старой квартиры? В этой статье мы подробно разбираем программу
+  trade-in в СПб: как она работает, какие застройщики ее предлагают, и как
+  избежать рисков. Узнайте, как с помощью экспертов ButlerSPB провести выгодную
+  и безопасную сделку по обмену жилья.
+pubDate: '2025-07-21T23:42:20.634Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: >-
+    Обмен старой квартиры на новостройку в Санкт-Петербурге: инструкция и
+    подводные камни от ButlerSPB
+  description: >-
+    Мечтаете переехать в современный жилой комплекс, но не знаете, с чего начать
+    продажу старой квартиры? В этой статье мы подробно разбираем программу
+    trade-in в СПб: как она работает, какие застройщики ее предлагают, и как
+    избежать рисков. Узнайте, как с помощью экспертов ButlerSPB провести
+    выгодную и безопасную сделку по обмену жилья.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '5.0'
+    reviewCount: 851
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/obmen-staroy-kvartiry-na-novostroyku-v-sankt-peterburge/
 ---
 
 # Обмен старой квартиры на новостройку в СПб: Пошаговый план 2024

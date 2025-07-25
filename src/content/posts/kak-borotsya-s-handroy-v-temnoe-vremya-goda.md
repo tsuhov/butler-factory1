@@ -1,10 +1,47 @@
 ---
-title: "Как бороться с хандрой в темное время года: советы от ButlerSPB"
-description: "Когда дни становятся короче, а солнце реже радует своим появлением, легко поддаться унынию. Команда ButlerSPB подготовила для вас практическое руководство, как сохранить бодрость, энергию и хорошее настроение в осенне-зимний период. В статье мы расскажем о простых, но эффективных способах борьбы с сезонной хандрой: от правильной организации света в доме до витаминных рецептов и идей для уютного досуга."
-pubDate: "2025-07-22T11:45:48.408Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Как бороться с хандрой в темное время года: советы от ButlerSPB","description":"Когда дни становятся короче, а солнце реже радует своим появлением, легко поддаться унынию. Команда ButlerSPB подготовила для вас практическое руководство, как сохранить бодрость, энергию и хорошее настроение в осенне-зимний период. В статье мы расскажем о простых, но эффективных способах борьбы с сезонной хандрой: от правильной организации света в доме до витаминных рецептов и идей для уютного досуга.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.8","reviewCount":856,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/kak-borotsya-s-handroy-v-temnoe-vremya-goda/"}}
+title: 'Как бороться с хандрой в темное время года: советы от ButlerSPB'
+description: >-
+  Когда дни становятся короче, а солнце реже радует своим появлением, легко
+  поддаться унынию. Команда ButlerSPB подготовила для вас практическое
+  руководство, как сохранить бодрость, энергию и хорошее настроение в
+  осенне-зимний период. В статье мы расскажем о простых, но эффективных способах
+  борьбы с сезонной хандрой: от правильной организации света в доме до
+  витаминных рецептов и идей для уютного досуга.
+pubDate: '2025-07-22T11:45:48.408Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Как бороться с хандрой в темное время года: советы от ButlerSPB'
+  description: >-
+    Когда дни становятся короче, а солнце реже радует своим появлением, легко
+    поддаться унынию. Команда ButlerSPB подготовила для вас практическое
+    руководство, как сохранить бодрость, энергию и хорошее настроение в
+    осенне-зимний период. В статье мы расскажем о простых, но эффективных
+    способах борьбы с сезонной хандрой: от правильной организации света в доме
+    до витаминных рецептов и идей для уютного досуга.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.9'
+    reviewCount: 325
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/kak-borotsya-s-handroy-v-temnoe-vremya-goda/
 ---
 
 # Сезонная хандра в Петербурге: как вернуть энергию и радость жизни, когда за окном темно

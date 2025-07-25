@@ -1,11 +1,40 @@
 ---
-title: "Услуга посуточной помощи от компании ButlerSPB"
-description: "Нужна помощь на один или несколько дней? ButlerSPB предлагает услугу посуточной помощи для решения бытовых, организационных и личных задач. Гарантия качества!"
-keywords: "посуточная помощь, помощник на день, услуги батлера, ButlerSPB, личный ассистент, помощь по дому, временный помощник"
-pubDate: "2025-07-24T13:39:35.092Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Услуга посуточной помощи от компании ButlerSPB","description":"Нужна помощь на один или несколько дней? ButlerSPB предлагает услугу посуточной помощи для решения бытовых, организационных и личных задач. Гарантия качества!","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":757,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/posutochnaya-pomosch/"}}
+title: Услуга посуточной помощи от компании ButlerSPB
+description: >-
+  Нужна помощь на один или несколько дней? ButlerSPB предлагает услугу
+  посуточной помощи для решения бытовых, организационных и личных задач.
+  Гарантия качества!
+pubDate: '2025-07-24T13:39:35.092Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: Услуга посуточной помощи от компании ButlerSPB
+  description: >-
+    Нужна помощь на один или несколько дней? ButlerSPB предлагает услугу
+    посуточной помощи для решения бытовых, организационных и личных задач.
+    Гарантия качества!
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.9'
+    reviewCount: 812
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': 'https://butlerspb-blog.netlify.app/blog/posutochnaya-pomosch/'
 ---
 # Когда один день решает всё: что такое посуточная помощь и как она спасет вашу репутацию и нервы
 

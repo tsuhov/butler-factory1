@@ -1,11 +1,39 @@
 ---
-title: "Из чего складывается стоимость квартиры в СПб?"
-description: "Планируете покупку жилья? Узнайте, какие факторы влияют на конечную стоимость квартиры в Санкт-Петербурге: от района и метража до года постройки и ремонта."
-keywords: "стоимость квартиры, цена на жилье спб, купить квартиру, оценка недвижимости, факторы цены, рынок недвижимости, ButlerSPB"
-pubDate: "2025-07-25T16:25:33.048Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Из чего складывается стоимость квартиры в СПб?","description":"Планируете покупку жилья? Узнайте, какие факторы влияют на конечную стоимость квартиры в Санкт-Петербурге: от района и метража до года постройки и ремонта.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.8","reviewCount":369,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/stoimost-kvartiry/"}}
+title: Из чего складывается стоимость квартиры в СПб?
+description: >-
+  Планируете покупку жилья? Узнайте, какие факторы влияют на конечную стоимость
+  квартиры в Санкт-Петербурге: от района и метража до года постройки и ремонта.
+pubDate: '2025-07-25T16:25:33.048Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: Из чего складывается стоимость квартиры в СПб?
+  description: >-
+    Планируете покупку жилья? Узнайте, какие факторы влияют на конечную
+    стоимость квартиры в Санкт-Петербурге: от района и метража до года постройки
+    и ремонта.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.7'
+    reviewCount: 372
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': 'https://butlerspb-blog.netlify.app/blog/stoimost-kvartiry/'
 ---
 # Сколько на самом деле стоит квартира в Санкт-Петербурге: Полный разбор цен в 2024 году
 

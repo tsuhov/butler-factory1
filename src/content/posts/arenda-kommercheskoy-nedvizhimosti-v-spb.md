@@ -1,10 +1,45 @@
 ---
-title: "Аренда коммерческой недвижимости в СПб: полное руководство от ButlerSPB"
-description: "Планируете арендовать офис, склад или торговое помещение в Санкт-Петербурге? В нашей новой статье эксперты ButlerSPB делятся советами по выбору локации, анализу объектов и юридическим тонкостям заключения договора. Узнайте, как найти идеальное пространство для вашего бизнеса и избежать распространенных ошибок."
-pubDate: "2025-07-21T23:02:35.890Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Аренда коммерческой недвижимости в СПб: полное руководство от ButlerSPB","description":"Планируете арендовать офис, склад или торговое помещение в Санкт-Петербурге? В нашей новой статье эксперты ButlerSPB делятся советами по выбору локации, анализу объектов и юридическим тонкостям заключения договора. Узнайте, как найти идеальное пространство для вашего бизнеса и избежать распространенных ошибок.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.8","reviewCount":501,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/arenda-kommercheskoy-nedvizhimosti-v-spb/"}}
+title: 'Аренда коммерческой недвижимости в СПб: полное руководство от ButlerSPB'
+description: >-
+  Планируете арендовать офис, склад или торговое помещение в Санкт-Петербурге? В
+  нашей новой статье эксперты ButlerSPB делятся советами по выбору локации,
+  анализу объектов и юридическим тонкостям заключения договора. Узнайте, как
+  найти идеальное пространство для вашего бизнеса и избежать распространенных
+  ошибок.
+pubDate: '2025-07-21T23:02:35.890Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Аренда коммерческой недвижимости в СПб: полное руководство от ButlerSPB'
+  description: >-
+    Планируете арендовать офис, склад или торговое помещение в Санкт-Петербурге?
+    В нашей новой статье эксперты ButlerSPB делятся советами по выбору локации,
+    анализу объектов и юридическим тонкостям заключения договора. Узнайте, как
+    найти идеальное пространство для вашего бизнеса и избежать распространенных
+    ошибок.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.7'
+    reviewCount: 356
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/arenda-kommercheskoy-nedvizhimosti-v-spb/
 ---
 
 # Аренда коммерческой недвижимости в СПб: Полное руководство для вашего бизнеса в 2024 году

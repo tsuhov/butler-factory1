@@ -1,11 +1,40 @@
 ---
-title: "Отели против апартаментов: что лучше выбрать?"
-description: "Выбираете, где остановиться в Петербурге? Сравниваем плюсы и минусы отелей и апартаментов. Узнайте, какой вариант обеспечит комфорт, свободу и лучший сервис."
-keywords: "отели против апартаментов, аренда апартаментов СПБ, снять квартиру посуточно, проживание в Петербурге, ButlerSPB, что лучше отель или квартира"
-pubDate: "2025-07-25T16:00:01.555Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Отели против апартаментов: что лучше выбрать?","description":"Выбираете, где остановиться в Петербурге? Сравниваем плюсы и минусы отелей и апартаментов. Узнайте, какой вариант обеспечит комфорт, свободу и лучший сервис.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.8","reviewCount":621,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/oteli-protiv/"}}
+title: 'Отели против апартаментов: что лучше выбрать?'
+description: >-
+  Выбираете, где остановиться в Петербурге? Сравниваем плюсы и минусы отелей и
+  апартаментов. Узнайте, какой вариант обеспечит комфорт, свободу и лучший
+  сервис.
+pubDate: '2025-07-25T16:00:01.555Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Отели против апартаментов: что лучше выбрать?'
+  description: >-
+    Выбираете, где остановиться в Петербурге? Сравниваем плюсы и минусы отелей и
+    апартаментов. Узнайте, какой вариант обеспечит комфорт, свободу и лучший
+    сервис.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.8'
+    reviewCount: 301
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': 'https://butlerspb-blog.netlify.app/blog/oteli-protiv/'
 ---
 # Отель против квартиры: полный гид по выбору идеального жилья в Санкт-Петербурге
 

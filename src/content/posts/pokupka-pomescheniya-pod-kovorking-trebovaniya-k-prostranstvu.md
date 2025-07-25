@@ -1,11 +1,39 @@
 ---
-title: "Как выбрать помещение для коворкинга: критерии"
-description: "Планируете открыть коворкинг? Рассказываем, как выбрать идеальное помещение: от локации и площади до инженерии и зонирования. Чек-лист от ButlerSPB."
-keywords: "коворкинг, покупка помещения, коммерческая недвижимость, требования к пространству, открыть коворкинг, ButlerSPB"
-pubDate: "2025-07-24T12:02:42.730Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Как выбрать помещение для коворкинга: критерии","description":"Планируете открыть коворкинг? Рассказываем, как выбрать идеальное помещение: от локации и площади до инженерии и зонирования. Чек-лист от ButlerSPB.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.8","reviewCount":697,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/pokupka-pomescheniya-pod-kovorking-trebovaniya-k-prostranstvu/"}}
+title: 'Как выбрать помещение для коворкинга: критерии'
+description: >-
+  Планируете открыть коворкинг? Рассказываем, как выбрать идеальное помещение:
+  от локации и площади до инженерии и зонирования. Чек-лист от ButlerSPB.
+pubDate: '2025-07-24T12:02:42.730Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Как выбрать помещение для коворкинга: критерии'
+  description: >-
+    Планируете открыть коворкинг? Рассказываем, как выбрать идеальное помещение:
+    от локации и площади до инженерии и зонирования. Чек-лист от ButlerSPB.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.7'
+    reviewCount: 553
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/pokupka-pomescheniya-pod-kovorking-trebovaniya-k-prostranstvu/
 ---
 # Как выбрать и купить идеальное помещение под коворкинг: полный гид по требованиям
 

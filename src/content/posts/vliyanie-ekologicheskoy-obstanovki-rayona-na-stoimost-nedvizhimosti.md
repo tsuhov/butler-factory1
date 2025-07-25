@@ -1,10 +1,40 @@
 ---
-title: "Экология района как фактор цены: на что обратить внимание при покупке"
-description: "ButlerSPB рассказывает, как парки, промзоны и качество воздуха влияют на цену недвижимости. Узнайте, на какие экологические факторы стоит обратить внимание."
-pubDate: "2025-07-23T23:28:52.228Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Экология района как фактор цены: на что обратить внимание при покупке","description":"ButlerSPB рассказывает, как парки, промзоны и качество воздуха влияют на цену недвижимости. Узнайте, на какие экологические факторы стоит обратить внимание.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":606,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/vliyanie-ekologicheskoy-obstanovki-rayona-na-stoimost-nedvizhimosti/"}}
+title: 'Экология района как фактор цены: на что обратить внимание при покупке'
+description: >-
+  ButlerSPB рассказывает, как парки, промзоны и качество воздуха влияют на цену
+  недвижимости. Узнайте, на какие экологические факторы стоит обратить внимание.
+pubDate: '2025-07-23T23:28:52.228Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Экология района как фактор цены: на что обратить внимание при покупке'
+  description: >-
+    ButlerSPB рассказывает, как парки, промзоны и качество воздуха влияют на
+    цену недвижимости. Узнайте, на какие экологические факторы стоит обратить
+    внимание.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '5.0'
+    reviewCount: 874
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/vliyanie-ekologicheskoy-obstanovki-rayona-na-stoimost-nedvizhimosti/
 ---
 
 # Экология района как фактор цены: на что обратить внимание при покупке

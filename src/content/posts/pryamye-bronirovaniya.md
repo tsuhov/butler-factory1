@@ -1,11 +1,38 @@
 ---
-title: "Прямые бронирования: как сэкономить на жилье"
-description: "Бронируя жилье напрямую через ButlerSPB, вы избегаете скрытых комиссий и переплат. Получите лучшую цену, гарантию брони и персональный подход от нас."
-keywords: "прямое бронирование, аренда без посредников, ButlerSPB, апартаменты в СПб, снять квартиру посуточно, экономия на жилье, отель без комиссии"
-pubDate: "2025-07-25T16:11:13.874Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Прямые бронирования: как сэкономить на жилье","description":"Бронируя жилье напрямую через ButlerSPB, вы избегаете скрытых комиссий и переплат. Получите лучшую цену, гарантию брони и персональный подход от нас.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"5.0","reviewCount":726,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/pryamye-bronirovaniya/"}}
+title: 'Прямые бронирования: как сэкономить на жилье'
+description: >-
+  Бронируя жилье напрямую через ButlerSPB, вы избегаете скрытых комиссий и
+  переплат. Получите лучшую цену, гарантию брони и персональный подход от нас.
+pubDate: '2025-07-25T16:11:13.874Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Прямые бронирования: как сэкономить на жилье'
+  description: >-
+    Бронируя жилье напрямую через ButlerSPB, вы избегаете скрытых комиссий и
+    переплат. Получите лучшую цену, гарантию брони и персональный подход от нас.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.7'
+    reviewCount: 726
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': 'https://butlerspb-blog.netlify.app/blog/pryamye-bronirovaniya/'
 ---
 # Прямые бронирования: Ваш путь к независимости от OTA и росту прибыли
 

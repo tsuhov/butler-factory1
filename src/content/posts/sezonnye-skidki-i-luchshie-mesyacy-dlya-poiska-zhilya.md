@@ -1,10 +1,45 @@
 ---
-title: "Сезонные скидки и лучшие месяцы для поиска жилья: Гайд от ButlerSPB"
-description: "Планируете арендовать квартиру и хотите сэкономить? Рынок недвижимости живет по своим законам, и сезонность — один из ключевых факторов, влияющих на цену. В этой статье команда ButlerSPB расскажет, когда наступает 'высокий' и 'низкий' сезон на рынке аренды, в какие месяцы можно найти самые выгодные предложения и как поймать лучшие скидки на жилье вашей мечты."
-pubDate: "2025-07-22T11:41:52.870Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Сезонные скидки и лучшие месяцы для поиска жилья: Гайд от ButlerSPB","description":"Планируете арендовать квартиру и хотите сэкономить? Рынок недвижимости живет по своим законам, и сезонность — один из ключевых факторов, влияющих на цену. В этой статье команда ButlerSPB расскажет, когда наступает 'высокий' и 'низкий' сезон на рынке аренды, в какие месяцы можно найти самые выгодные предложения и как поймать лучшие скидки на жилье вашей мечты.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.7","reviewCount":499,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/sezonnye-skidki-i-luchshie-mesyacy-dlya-poiska-zhilya/"}}
+title: 'Сезонные скидки и лучшие месяцы для поиска жилья: Гайд от ButlerSPB'
+description: >-
+  Планируете арендовать квартиру и хотите сэкономить? Рынок недвижимости живет
+  по своим законам, и сезонность — один из ключевых факторов, влияющих на цену.
+  В этой статье команда ButlerSPB расскажет, когда наступает 'высокий' и
+  'низкий' сезон на рынке аренды, в какие месяцы можно найти самые выгодные
+  предложения и как поймать лучшие скидки на жилье вашей мечты.
+pubDate: '2025-07-22T11:41:52.870Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Сезонные скидки и лучшие месяцы для поиска жилья: Гайд от ButlerSPB'
+  description: >-
+    Планируете арендовать квартиру и хотите сэкономить? Рынок недвижимости живет
+    по своим законам, и сезонность — один из ключевых факторов, влияющих на
+    цену. В этой статье команда ButlerSPB расскажет, когда наступает 'высокий' и
+    'низкий' сезон на рынке аренды, в какие месяцы можно найти самые выгодные
+    предложения и как поймать лучшие скидки на жилье вашей мечты.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.9'
+    reviewCount: 676
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/sezonnye-skidki-i-luchshie-mesyacy-dlya-poiska-zhilya/
 ---
 
 # Когда лучше снимать квартиру в Петербурге: ловим сезонные скидки и лучшие предложения

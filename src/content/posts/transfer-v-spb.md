@@ -1,11 +1,40 @@
 ---
-title: "Заказать трансфер в СПб: комфорт и сервис"
-description: "Компания ButlerSPB предлагает заказать комфортный трансфер в Санкт-Петербурге. Встретим в аэропорту Пулково, на вокзале и доставим в отель. Гарантия комфорта."
-keywords: "трансфер спб, заказать трансфер, трансфер в аэропорт, butler spb, пулково, такси в аэропорт, встреча на вокзале"
-pubDate: "2025-07-25T15:47:02.192Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Заказать трансфер в СПб: комфорт и сервис","description":"Компания ButlerSPB предлагает заказать комфортный трансфер в Санкт-Петербурге. Встретим в аэропорту Пулково, на вокзале и доставим в отель. Гарантия комфорта.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.8","reviewCount":803,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/transfer-v-spb/"}}
+title: 'Заказать трансфер в СПб: комфорт и сервис'
+description: >-
+  Компания ButlerSPB предлагает заказать комфортный трансфер в Санкт-Петербурге.
+  Встретим в аэропорту Пулково, на вокзале и доставим в отель. Гарантия
+  комфорта.
+pubDate: '2025-07-25T15:47:02.192Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Заказать трансфер в СПб: комфорт и сервис'
+  description: >-
+    Компания ButlerSPB предлагает заказать комфортный трансфер в
+    Санкт-Петербурге. Встретим в аэропорту Пулково, на вокзале и доставим в
+    отель. Гарантия комфорта.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '5.0'
+    reviewCount: 823
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': 'https://butlerspb-blog.netlify.app/blog/transfer-v-spb/'
 ---
 # Трансфер в Санкт-Петербурге: Ваш гид по комфортным и безопасным поездкам с ButlerSPB
 

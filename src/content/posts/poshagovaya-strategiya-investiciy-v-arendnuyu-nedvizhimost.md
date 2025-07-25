@@ -1,10 +1,47 @@
 ---
-title: "Инвестиции в арендную недвижимость: пошаговая стратегия от экспертов ButlerSPB"
-description: "Планируете получать стабильный пассивный доход от сдачи жилья в аренду? В нашей новой статье мы разбираем весь процесс по шагам: от анализа рынка и выбора ликвидного объекта до расчета рентабельности, юридического оформления и эффективного управления. Практическое руководство для начинающих и опытных инвесторов от ButlerSPB."
-pubDate: "2025-07-22T13:42:47.517Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Инвестиции в арендную недвижимость: пошаговая стратегия от экспертов ButlerSPB","description":"Планируете получать стабильный пассивный доход от сдачи жилья в аренду? В нашей новой статье мы разбираем весь процесс по шагам: от анализа рынка и выбора ликвидного объекта до расчета рентабельности, юридического оформления и эффективного управления. Практическое руководство для начинающих и опытных инвесторов от ButlerSPB.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.8","reviewCount":474,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/poshagovaya-strategiya-investiciy-v-arendnuyu-nedvizhimost/"}}
+title: 'Инвестиции в арендную недвижимость: пошаговая стратегия от экспертов ButlerSPB'
+description: >-
+  Планируете получать стабильный пассивный доход от сдачи жилья в аренду? В
+  нашей новой статье мы разбираем весь процесс по шагам: от анализа рынка и
+  выбора ликвидного объекта до расчета рентабельности, юридического оформления и
+  эффективного управления. Практическое руководство для начинающих и опытных
+  инвесторов от ButlerSPB.
+pubDate: '2025-07-22T13:42:47.517Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: >-
+    Инвестиции в арендную недвижимость: пошаговая стратегия от экспертов
+    ButlerSPB
+  description: >-
+    Планируете получать стабильный пассивный доход от сдачи жилья в аренду? В
+    нашей новой статье мы разбираем весь процесс по шагам: от анализа рынка и
+    выбора ликвидного объекта до расчета рентабельности, юридического оформления
+    и эффективного управления. Практическое руководство для начинающих и опытных
+    инвесторов от ButlerSPB.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.7'
+    reviewCount: 303
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/poshagovaya-strategiya-investiciy-v-arendnuyu-nedvizhimost/
 ---
 
 # 7 шагов к пассивному доходу: Полное руководство по инвестициям в арендную недвижимость в 2024 году

@@ -1,10 +1,46 @@
 ---
-title: "Как правильно принять квартиру у собственника: чек-лист"
-description: "Переезд в новую квартиру – это волнительно, но важно не упустить детали при приемке жилья. Чтобы защитить себя от будущих споров с владельцем и непредвиденных расходов, команда ButlerSPB подготовила исчерпывающий чек-лист. Узнайте, на что обратить внимание при осмотре, как правильно зафиксировать состояние квартиры и какие документы проверить перед подписанием акта."
-pubDate: "2025-07-22T11:40:17.036Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Как правильно принять квартиру у собственника: чек-лист","description":"Переезд в новую квартиру – это волнительно, но важно не упустить детали при приемке жилья. Чтобы защитить себя от будущих споров с владельцем и непредвиденных расходов, команда ButlerSPB подготовила исчерпывающий чек-лист. Узнайте, на что обратить внимание при осмотре, как правильно зафиксировать состояние квартиры и какие документы проверить перед подписанием акта.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.8","reviewCount":872,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/kak-pravilno-prinyat-kvartiru-u-sobstvennika-chek-list/"}}
+title: 'Как правильно принять квартиру у собственника: чек-лист'
+description: >-
+  Переезд в новую квартиру – это волнительно, но важно не упустить детали при
+  приемке жилья. Чтобы защитить себя от будущих споров с владельцем и
+  непредвиденных расходов, команда ButlerSPB подготовила исчерпывающий чек-лист.
+  Узнайте, на что обратить внимание при осмотре, как правильно зафиксировать
+  состояние квартиры и какие документы проверить перед подписанием акта.
+pubDate: '2025-07-22T11:40:17.036Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Как правильно принять квартиру у собственника: чек-лист'
+  description: >-
+    Переезд в новую квартиру – это волнительно, но важно не упустить детали при
+    приемке жилья. Чтобы защитить себя от будущих споров с владельцем и
+    непредвиденных расходов, команда ButlerSPB подготовила исчерпывающий
+    чек-лист. Узнайте, на что обратить внимание при осмотре, как правильно
+    зафиксировать состояние квартиры и какие документы проверить перед
+    подписанием акта.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.9'
+    reviewCount: 857
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/kak-pravilno-prinyat-kvartiru-u-sobstvennika-chek-list/
 ---
 
 # Как правильно принять квартиру у собственника: Полный чек-лист от экспертов по управлению недвижимостью

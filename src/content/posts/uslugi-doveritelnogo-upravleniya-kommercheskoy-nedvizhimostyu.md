@@ -1,10 +1,49 @@
 ---
-title: "Доверительное управление коммерческой недвижимостью от ButlerSPB: как превратить актив в стабильный пассивный доход"
-description: "Узнайте все о преимуществах доверительного управления коммерческой недвижимостью. В нашей новой статье блога ButlerSPB мы подробно рассказываем, как наша команда берет на себя все заботы — от поиска надежных арендаторов до полного технического и юридического сопровождения объекта, обеспечивая вам максимальную прибыль и спокойствие."
-pubDate: "2025-07-21T23:48:25.489Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Доверительное управление коммерческой недвижимостью от ButlerSPB: как превратить актив в стабильный пассивный доход","description":"Узнайте все о преимуществах доверительного управления коммерческой недвижимостью. В нашей новой статье блога ButlerSPB мы подробно рассказываем, как наша команда берет на себя все заботы — от поиска надежных арендаторов до полного технического и юридического сопровождения объекта, обеспечивая вам максимальную прибыль и спокойствие.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":526,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/uslugi-doveritelnogo-upravleniya-kommercheskoy-nedvizhimostyu/"}}
+title: >-
+  Доверительное управление коммерческой недвижимостью от ButlerSPB: как
+  превратить актив в стабильный пассивный доход
+description: >-
+  Узнайте все о преимуществах доверительного управления коммерческой
+  недвижимостью. В нашей новой статье блога ButlerSPB мы подробно рассказываем,
+  как наша команда берет на себя все заботы — от поиска надежных арендаторов до
+  полного технического и юридического сопровождения объекта, обеспечивая вам
+  максимальную прибыль и спокойствие.
+pubDate: '2025-07-21T23:48:25.489Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: >-
+    Доверительное управление коммерческой недвижимостью от ButlerSPB: как
+    превратить актив в стабильный пассивный доход
+  description: >-
+    Узнайте все о преимуществах доверительного управления коммерческой
+    недвижимостью. В нашей новой статье блога ButlerSPB мы подробно
+    рассказываем, как наша команда берет на себя все заботы — от поиска надежных
+    арендаторов до полного технического и юридического сопровождения объекта,
+    обеспечивая вам максимальную прибыль и спокойствие.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.9'
+    reviewCount: 646
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/uslugi-doveritelnogo-upravleniya-kommercheskoy-nedvizhimostyu/
 ---
 
 # Доверительное управление коммерческой недвижимостью: Как превратить вашу собственность в стабильный пассивный доход

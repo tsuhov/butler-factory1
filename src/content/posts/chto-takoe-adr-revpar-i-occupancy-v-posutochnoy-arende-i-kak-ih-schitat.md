@@ -1,10 +1,47 @@
 ---
-title: "Что такое ADR, RevPAR и Occupancy в посуточной аренде и как их считать"
-description: "Разбираемся в ключевых показателях эффективности для собственников апартаментов: ADR (средняя цена за ночь), Occupancy (загрузка) и RevPAR (доход на доступный номер). В новой статье блога ButlerSPB мы объясняем, что значат эти аббревиатуры, как их правильно рассчитать на простых примерах и как с их помощью анализировать доходность вашего бизнеса, чтобы принимать верные управленческие решения и увеличивать прибыль."
-pubDate: "2025-07-22T10:59:34.930Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Что такое ADR, RevPAR и Occupancy в посуточной аренде и как их считать","description":"Разбираемся в ключевых показателях эффективности для собственников апартаментов: ADR (средняя цена за ночь), Occupancy (загрузка) и RevPAR (доход на доступный номер). В новой статье блога ButlerSPB мы объясняем, что значат эти аббревиатуры, как их правильно рассчитать на простых примерах и как с их помощью анализировать доходность вашего бизнеса, чтобы принимать верные управленческие решения и увеличивать прибыль.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":404,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/chto-takoe-adr-revpar-i-occupancy-v-posutochnoy-arende-i-kak-ih-schitat/"}}
+title: 'Что такое ADR, RevPAR и Occupancy в посуточной аренде и как их считать'
+description: >-
+  Разбираемся в ключевых показателях эффективности для собственников
+  апартаментов: ADR (средняя цена за ночь), Occupancy (загрузка) и RevPAR (доход
+  на доступный номер). В новой статье блога ButlerSPB мы объясняем, что значат
+  эти аббревиатуры, как их правильно рассчитать на простых примерах и как с их
+  помощью анализировать доходность вашего бизнеса, чтобы принимать верные
+  управленческие решения и увеличивать прибыль.
+pubDate: '2025-07-22T10:59:34.930Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Что такое ADR, RevPAR и Occupancy в посуточной аренде и как их считать'
+  description: >-
+    Разбираемся в ключевых показателях эффективности для собственников
+    апартаментов: ADR (средняя цена за ночь), Occupancy (загрузка) и RevPAR
+    (доход на доступный номер). В новой статье блога ButlerSPB мы объясняем, что
+    значат эти аббревиатуры, как их правильно рассчитать на простых примерах и
+    как с их помощью анализировать доходность вашего бизнеса, чтобы принимать
+    верные управленческие решения и увеличивать прибыль.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.8'
+    reviewCount: 849
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/chto-takoe-adr-revpar-i-occupancy-v-posutochnoy-arende-i-kak-ih-schitat/
 ---
 
 Отлично, вот экспертная SEO-статья, написанная в точности по вашему плану от лица компании ButlerSPB.

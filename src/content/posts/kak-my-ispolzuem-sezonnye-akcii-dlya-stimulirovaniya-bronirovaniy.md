@@ -1,10 +1,45 @@
 ---
-title: "Сезонные акции как ключ к успеху: опыт ButlerSPB по увеличению бронирований"
-description: "В блоге ButlerSPB делимся проверенными стратегиями использования сезонных предложений. Узнайте, как мы планируем акции на праздники, 'низкий' сезон и специальные события в Санкт-Петербурге, чтобы максимизировать загрузку наших апартаментов и радовать гостей приятными бонусами. Рассказываем о конкретных примерах и результатах."
-pubDate: "2025-07-22T11:22:48.396Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Сезонные акции как ключ к успеху: опыт ButlerSPB по увеличению бронирований","description":"В блоге ButlerSPB делимся проверенными стратегиями использования сезонных предложений. Узнайте, как мы планируем акции на праздники, 'низкий' сезон и специальные события в Санкт-Петербурге, чтобы максимизировать загрузку наших апартаментов и радовать гостей приятными бонусами. Рассказываем о конкретных примерах и результатах.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"5.0","reviewCount":732,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/kak-my-ispolzuem-sezonnye-akcii-dlya-stimulirovaniya-bronirovaniy/"}}
+title: 'Сезонные акции как ключ к успеху: опыт ButlerSPB по увеличению бронирований'
+description: >-
+  В блоге ButlerSPB делимся проверенными стратегиями использования сезонных
+  предложений. Узнайте, как мы планируем акции на праздники, 'низкий' сезон и
+  специальные события в Санкт-Петербурге, чтобы максимизировать загрузку наших
+  апартаментов и радовать гостей приятными бонусами. Рассказываем о конкретных
+  примерах и результатах.
+pubDate: '2025-07-22T11:22:48.396Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Сезонные акции как ключ к успеху: опыт ButlerSPB по увеличению бронирований'
+  description: >-
+    В блоге ButlerSPB делимся проверенными стратегиями использования сезонных
+    предложений. Узнайте, как мы планируем акции на праздники, 'низкий' сезон и
+    специальные события в Санкт-Петербурге, чтобы максимизировать загрузку наших
+    апартаментов и радовать гостей приятными бонусами. Рассказываем о конкретных
+    примерах и результатах.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '5.0'
+    reviewCount: 688
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/kak-my-ispolzuem-sezonnye-akcii-dlya-stimulirovaniya-bronirovaniy/
 ---
 
 # Как мы в ButlerSPB используем сезонные акции, чтобы ваши апартаменты бронировали круглый год

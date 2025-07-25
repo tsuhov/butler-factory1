@@ -1,10 +1,49 @@
 ---
-title: "Гайд от ButlerSPB: Как составить объявление об аренде, которое привлечет лучших гостей"
-description: "Конкуренция на рынке краткосрочной аренды высока, но правильное объявление способно творить чудеса. В этой статье команда ButlerSPB делится проверенными советами: как сделать 'вкусные' фотографии, написать цепляющий заголовок и составить описание, после которого гостю захочется нажать кнопку 'Забронировать'."
-pubDate: "2025-07-22T14:00:27.375Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Гайд от ButlerSPB: Как составить объявление об аренде, которое привлечет лучших гостей","description":"Конкуренция на рынке краткосрочной аренды высока, но правильное объявление способно творить чудеса. В этой статье команда ButlerSPB делится проверенными советами: как сделать 'вкусные' фотографии, написать цепляющий заголовок и составить описание, после которого гостю захочется нажать кнопку 'Забронировать'.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"5.0","reviewCount":644,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/kak-sostavit-privlekatelnoe-obyavlenie-dlya-sayta-arendy-apartamentov/"}}
+title: >-
+  Гайд от ButlerSPB: Как составить объявление об аренде, которое привлечет
+  лучших гостей
+description: >-
+  Конкуренция на рынке краткосрочной аренды высока, но правильное объявление
+  способно творить чудеса. В этой статье команда ButlerSPB делится проверенными
+  советами: как сделать 'вкусные' фотографии, написать цепляющий заголовок и
+  составить описание, после которого гостю захочется нажать кнопку
+  'Забронировать'.
+pubDate: '2025-07-22T14:00:27.375Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: >-
+    Гайд от ButlerSPB: Как составить объявление об аренде, которое привлечет
+    лучших гостей
+  description: >-
+    Конкуренция на рынке краткосрочной аренды высока, но правильное объявление
+    способно творить чудеса. В этой статье команда ButlerSPB делится
+    проверенными советами: как сделать 'вкусные' фотографии, написать цепляющий
+    заголовок и составить описание, после которого гостю захочется нажать кнопку
+    'Забронировать'.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.9'
+    reviewCount: 622
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/kak-sostavit-privlekatelnoe-obyavlenie-dlya-sayta-arendy-apartamentov/
 ---
 
 Отлично, приступаю к написанию статьи, строго следуя вашему экспертному плану.

@@ -1,11 +1,40 @@
 ---
-title: "Наследие Петербурга: ключ к культурному коду"
-description: "Санкт-Петербург – живой музей под открытым небом. ButlerSPB расскажет, почему сохранение его уникального культурного наследия так важно для будущих поколений."
-keywords: "культурное наследие, Санкт-Петербург, история, архитектура, достопримечательности, сохранение наследия, ButlerSPB"
-pubDate: "2025-07-25T16:30:01.169Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Наследие Петербурга: ключ к культурному коду","description":"Санкт-Петербург – живой музей под открытым небом. ButlerSPB расскажет, почему сохранение его уникального культурного наследия так важно для будущих поколений.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":529,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/kulturnoe-nasledie/"}}
+title: 'Наследие Петербурга: ключ к культурному коду'
+description: >-
+  Санкт-Петербург – живой музей под открытым небом. ButlerSPB расскажет, почему
+  сохранение его уникального культурного наследия так важно для будущих
+  поколений.
+pubDate: '2025-07-25T16:30:01.169Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Наследие Петербурга: ключ к культурному коду'
+  description: >-
+    Санкт-Петербург – живой музей под открытым небом. ButlerSPB расскажет,
+    почему сохранение его уникального культурного наследия так важно для будущих
+    поколений.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '5.0'
+    reviewCount: 730
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': 'https://butlerspb-blog.netlify.app/blog/kulturnoe-nasledie/'
 ---
 # Культурное наследие России: За гранью путеводителей. Эксклюзивный взгляд от ButlerSPB
 

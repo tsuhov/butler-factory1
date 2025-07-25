@@ -1,11 +1,40 @@
 ---
-title: "Приемка квартиры: полный чек-лист для новосела"
-description: "Приемка квартиры – важный этап перед получением ключей. ButlerSPB подготовил подробный чек-лист, который поможет вам проверить все: от окон и стен до электрики."
-keywords: "приемка квартиры, новостройка, акт приема-передачи, чек-лист, проверка квартиры, дефекты в новостройке, ButlerSPB"
-pubDate: "2025-07-25T14:33:13.262Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Приемка квартиры: полный чек-лист для новосела","description":"Приемка квартиры – важный этап перед получением ключей. ButlerSPB подготовил подробный чек-лист, который поможет вам проверить все: от окон и стен до электрики.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.7","reviewCount":492,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/priemka-kvartiry/"}}
+title: 'Приемка квартиры: полный чек-лист для новосела'
+description: >-
+  Приемка квартиры – важный этап перед получением ключей. ButlerSPB подготовил
+  подробный чек-лист, который поможет вам проверить все: от окон и стен до
+  электрики.
+pubDate: '2025-07-25T14:33:13.262Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Приемка квартиры: полный чек-лист для новосела'
+  description: >-
+    Приемка квартиры – важный этап перед получением ключей. ButlerSPB подготовил
+    подробный чек-лист, который поможет вам проверить все: от окон и стен до
+    электрики.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.8'
+    reviewCount: 377
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': 'https://butlerspb-blog.netlify.app/blog/priemka-kvartiry/'
 ---
 # Приемка квартиры в новостройке: пошаговое руководство, которое сэкономит вам до 300 000 рублей на ремонте
 

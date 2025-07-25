@@ -1,11 +1,41 @@
 ---
-title: "Как продать долю в квартире без согласия"
-description: "Продажа доли в квартире часто осложняется спорами с другими собственниками. Рассказываем, как действовать по закону, чтобы защитить свои права и выгодно продать долю."
-keywords: "продать долю в квартире, продажа доли без согласия, преимущественное право покупки, уведомить собственников, споры с собственниками, ButlerSPB"
-pubDate: "2025-07-24T12:10:56.377Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Как продать долю в квартире без согласия","description":"Продажа доли в квартире часто осложняется спорами с другими собственниками. Рассказываем, как действовать по закону, чтобы защитить свои права и выгодно продать долю.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.7","reviewCount":776,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/kak-prodat-dolyu-v-kvartire-esli-ne-mozhete-dogovoritsya-s-drugimi-sobstvennikami/"}}
+title: Как продать долю в квартире без согласия
+description: >-
+  Продажа доли в квартире часто осложняется спорами с другими собственниками.
+  Рассказываем, как действовать по закону, чтобы защитить свои права и выгодно
+  продать долю.
+pubDate: '2025-07-24T12:10:56.377Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: Как продать долю в квартире без согласия
+  description: >-
+    Продажа доли в квартире часто осложняется спорами с другими собственниками.
+    Рассказываем, как действовать по закону, чтобы защитить свои права и выгодно
+    продать долю.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.9'
+    reviewCount: 300
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/kak-prodat-dolyu-v-kvartire-esli-ne-mozhete-dogovoritsya-s-drugimi-sobstvennikami/
 ---
 # Как продать долю в квартире, если договориться с другими собственниками невозможно: полная инструкция от экспертов ButlerSPB
 

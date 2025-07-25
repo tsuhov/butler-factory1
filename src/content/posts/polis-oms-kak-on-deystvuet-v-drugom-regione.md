@@ -1,10 +1,45 @@
 ---
-title: "Полис ОМС: как он действует в другом регионе"
-description: "Планируете поездку в другой город или переезд? Ваш полис ОМС — это ключ к бесплатной медицинской помощи на всей территории России. В новой статье блога ButlerSPB мы подробно разбираем, на какие услуги вы можете рассчитывать вдали от дома, как действовать, если вам отказывают в лечении, и к чему нужно быть готовым при обращении в поликлинику в другом регионе."
-pubDate: "2025-07-22T11:43:43.713Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Полис ОМС: как он действует в другом регионе","description":"Планируете поездку в другой город или переезд? Ваш полис ОМС — это ключ к бесплатной медицинской помощи на всей территории России. В новой статье блога ButlerSPB мы подробно разбираем, на какие услуги вы можете рассчитывать вдали от дома, как действовать, если вам отказывают в лечении, и к чему нужно быть готовым при обращении в поликлинику в другом регионе.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.8","reviewCount":330,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/polis-oms-kak-on-deystvuet-v-drugom-regione/"}}
+title: 'Полис ОМС: как он действует в другом регионе'
+description: >-
+  Планируете поездку в другой город или переезд? Ваш полис ОМС — это ключ к
+  бесплатной медицинской помощи на всей территории России. В новой статье блога
+  ButlerSPB мы подробно разбираем, на какие услуги вы можете рассчитывать вдали
+  от дома, как действовать, если вам отказывают в лечении, и к чему нужно быть
+  готовым при обращении в поликлинику в другом регионе.
+pubDate: '2025-07-22T11:43:43.713Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Полис ОМС: как он действует в другом регионе'
+  description: >-
+    Планируете поездку в другой город или переезд? Ваш полис ОМС — это ключ к
+    бесплатной медицинской помощи на всей территории России. В новой статье
+    блога ButlerSPB мы подробно разбираем, на какие услуги вы можете
+    рассчитывать вдали от дома, как действовать, если вам отказывают в лечении,
+    и к чему нужно быть готовым при обращении в поликлинику в другом регионе.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.8'
+    reviewCount: 594
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/polis-oms-kak-on-deystvuet-v-drugom-regione/
 ---
 
 # Полис ОМС в другом регионе: полная инструкция, как получить медицинскую помощь по всей России

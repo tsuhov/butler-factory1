@@ -1,11 +1,40 @@
 ---
-title: "Ключевые задачи консьержа в современном мире"
-description: "От встречи гостей и приёма почты до организации досуга и выполнения личных поручений. Разбираем основные задачи и функции современного консьержа в нашем блоге."
-keywords: "задачи консьержа, обязанности консьержа, консьерж-сервис, личный помощник, услуги консьержа, ButlerSPB"
-pubDate: "2025-07-24T22:01:18.227Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Ключевые задачи консьержа в современном мире","description":"От встречи гостей и приёма почты до организации досуга и выполнения личных поручений. Разбираем основные задачи и функции современного консьержа в нашем блоге.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"5.0","reviewCount":614,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/zadachi-konserzha/"}}
+title: Ключевые задачи консьержа в современном мире
+description: >-
+  От встречи гостей и приёма почты до организации досуга и выполнения личных
+  поручений. Разбираем основные задачи и функции современного консьержа в нашем
+  блоге.
+pubDate: '2025-07-24T22:01:18.227Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: Ключевые задачи консьержа в современном мире
+  description: >-
+    От встречи гостей и приёма почты до организации досуга и выполнения личных
+    поручений. Разбираем основные задачи и функции современного консьержа в
+    нашем блоге.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.7'
+    reviewCount: 626
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': 'https://butlerspb-blog.netlify.app/blog/zadachi-konserzha/'
 ---
 # Задачи современного консьержа: Ваш ключ к безупречному стилю жизни в Санкт-Петербурге
 

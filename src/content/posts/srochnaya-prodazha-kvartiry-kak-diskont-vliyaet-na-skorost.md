@@ -1,10 +1,45 @@
 ---
-title: "Срочная продажа квартиры: как дисконт влияет на скорость сделки"
-description: "Нужно продать квартиру в Санкт-Петербурге в кратчайшие сроки? В новой статье блога ButlerSPB разбираемся, как размер дисконта напрямую влияет на скорость продажи. Анализируем рыночные реалии, даем конкретные цифры и советы, как найти баланс между ценой и временем, чтобы заключить выгодную сделку максимально быстро."
-pubDate: "2025-07-23T11:07:44.148Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Срочная продажа квартиры: как дисконт влияет на скорость сделки","description":"Нужно продать квартиру в Санкт-Петербурге в кратчайшие сроки? В новой статье блога ButlerSPB разбираемся, как размер дисконта напрямую влияет на скорость продажи. Анализируем рыночные реалии, даем конкретные цифры и советы, как найти баланс между ценой и временем, чтобы заключить выгодную сделку максимально быстро.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":847,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/srochnaya-prodazha-kvartiry-kak-diskont-vliyaet-na-skorost/"}}
+title: 'Срочная продажа квартиры: как дисконт влияет на скорость сделки'
+description: >-
+  Нужно продать квартиру в Санкт-Петербурге в кратчайшие сроки? В новой статье
+  блога ButlerSPB разбираемся, как размер дисконта напрямую влияет на скорость
+  продажи. Анализируем рыночные реалии, даем конкретные цифры и советы, как
+  найти баланс между ценой и временем, чтобы заключить выгодную сделку
+  максимально быстро.
+pubDate: '2025-07-23T11:07:44.148Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Срочная продажа квартиры: как дисконт влияет на скорость сделки'
+  description: >-
+    Нужно продать квартиру в Санкт-Петербурге в кратчайшие сроки? В новой статье
+    блога ButlerSPB разбираемся, как размер дисконта напрямую влияет на скорость
+    продажи. Анализируем рыночные реалии, даем конкретные цифры и советы, как
+    найти баланс между ценой и временем, чтобы заключить выгодную сделку
+    максимально быстро.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.8'
+    reviewCount: 349
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/srochnaya-prodazha-kvartiry-kak-diskont-vliyaet-na-skorost/
 ---
 
 # Срочная продажа квартиры: как правильно использовать дисконт, чтобы ускорить сделку

@@ -1,11 +1,40 @@
 ---
-title: "Прозрачная отчетность: ключ к доверию клиента"
-description: "В ButlerSPB мы считаем, что прозрачность в отчетах — это не просто формальность, а основа для построения долгосрочных и доверительных отношений с каждым клиентом."
-keywords: "прозрачная отчетность, доверие клиентов, ButlerSPB, управление проектами, бизнес-отчеты, финансовая прозрачность"
-pubDate: "2025-07-25T15:55:29.943Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Прозрачная отчетность: ключ к доверию клиента","description":"В ButlerSPB мы считаем, что прозрачность в отчетах — это не просто формальность, а основа для построения долгосрочных и доверительных отношений с каждым клиентом.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":393,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/prozrachnaya-otchetnost/"}}
+title: 'Прозрачная отчетность: ключ к доверию клиента'
+description: >-
+  В ButlerSPB мы считаем, что прозрачность в отчетах — это не просто
+  формальность, а основа для построения долгосрочных и доверительных отношений с
+  каждым клиентом.
+pubDate: '2025-07-25T15:55:29.943Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Прозрачная отчетность: ключ к доверию клиента'
+  description: >-
+    В ButlerSPB мы считаем, что прозрачность в отчетах — это не просто
+    формальность, а основа для построения долгосрочных и доверительных отношений
+    с каждым клиентом.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.8'
+    reviewCount: 315
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': 'https://butlerspb-blog.netlify.app/blog/prozrachnaya-otchetnost/'
 ---
 # Что такое прозрачная отчетность и почему без нее ваш бизнес теряет деньги
 

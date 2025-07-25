@@ -1,10 +1,51 @@
 ---
-title: "Индексация арендной платы для коммерческой недвижимости: что нужно знать собственнику и арендатору"
-description: "Индексация арендной платы — ключевой механизм в долгосрочных договорах аренды коммерческих помещений, защищающий интересы как арендодателя, так и арендатора от инфляции и изменений на рынке. В новой статье блога ButlerSPB мы подробно разбираем, какие существуют виды индексации, как правильно сформулировать соответствующий пункт в договоре, и как найти баланс, который сделает сотрудничество предсказуемым и взаимовыгодным."
-pubDate: "2025-07-23T10:44:12.636Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Индексация арендной платы для коммерческой недвижимости: что нужно знать собственнику и арендатору","description":"Индексация арендной платы — ключевой механизм в долгосрочных договорах аренды коммерческих помещений, защищающий интересы как арендодателя, так и арендатора от инфляции и изменений на рынке. В новой статье блога ButlerSPB мы подробно разбираем, какие существуют виды индексации, как правильно сформулировать соответствующий пункт в договоре, и как найти баланс, который сделает сотрудничество предсказуемым и взаимовыгодным.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":644,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/indeksaciya-arendnoy-platy-dlya-kommercheskoy-nedvizhimosti/"}}
+title: >-
+  Индексация арендной платы для коммерческой недвижимости: что нужно знать
+  собственнику и арендатору
+description: >-
+  Индексация арендной платы — ключевой механизм в долгосрочных договорах аренды
+  коммерческих помещений, защищающий интересы как арендодателя, так и арендатора
+  от инфляции и изменений на рынке. В новой статье блога ButlerSPB мы подробно
+  разбираем, какие существуют виды индексации, как правильно сформулировать
+  соответствующий пункт в договоре, и как найти баланс, который сделает
+  сотрудничество предсказуемым и взаимовыгодным.
+pubDate: '2025-07-23T10:44:12.636Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: >-
+    Индексация арендной платы для коммерческой недвижимости: что нужно знать
+    собственнику и арендатору
+  description: >-
+    Индексация арендной платы — ключевой механизм в долгосрочных договорах
+    аренды коммерческих помещений, защищающий интересы как арендодателя, так и
+    арендатора от инфляции и изменений на рынке. В новой статье блога ButlerSPB
+    мы подробно разбираем, какие существуют виды индексации, как правильно
+    сформулировать соответствующий пункт в договоре, и как найти баланс, который
+    сделает сотрудничество предсказуемым и взаимовыгодным.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.9'
+    reviewCount: 312
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/indeksaciya-arendnoy-platy-dlya-kommercheskoy-nedvizhimosti/
 ---
 
 # Индексация арендной платы для коммерческой недвижимости: от правовых основ до практики применения

@@ -1,11 +1,40 @@
 ---
-title: "Круглосуточная помощь и поддержка от ButlerSPB"
-description: "Сервис ButlerSPB предлагает круглосуточную помощь в Санкт-Петербурге. Наша команда готова решить любую вашу задачу 24/7, днем и ночью. Доверьте свои заботы нам!"
-keywords: "круглосуточная помощь, сервис 24/7, консьерж-сервис, личный помощник, ButlerSPB, помощь в СПб, срочные поручения"
-pubDate: "2025-07-25T16:37:36.512Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Круглосуточная помощь и поддержка от ButlerSPB","description":"Сервис ButlerSPB предлагает круглосуточную помощь в Санкт-Петербурге. Наша команда готова решить любую вашу задачу 24/7, днем и ночью. Доверьте свои заботы нам!","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":391,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/pomosch-kruglosutochnaya/"}}
+title: Круглосуточная помощь и поддержка от ButlerSPB
+description: >-
+  Сервис ButlerSPB предлагает круглосуточную помощь в Санкт-Петербурге. Наша
+  команда готова решить любую вашу задачу 24/7, днем и ночью. Доверьте свои
+  заботы нам!
+pubDate: '2025-07-25T16:37:36.512Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: Круглосуточная помощь и поддержка от ButlerSPB
+  description: >-
+    Сервис ButlerSPB предлагает круглосуточную помощь в Санкт-Петербурге. Наша
+    команда готова решить любую вашу задачу 24/7, днем и ночью. Доверьте свои
+    заботы нам!
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '5.0'
+    reviewCount: 389
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': 'https://butlerspb-blog.netlify.app/blog/pomosch-kruglosutochnaya/'
 ---
 # Круглосуточная помощь в Санкт-Петербурге: Как ваш личный консьерж решает любую задачу 24/7
 

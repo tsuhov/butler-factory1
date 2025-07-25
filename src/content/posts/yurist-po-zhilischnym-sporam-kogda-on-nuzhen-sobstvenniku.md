@@ -1,10 +1,45 @@
 ---
-title: "Юрист по жилищным спорам: когда он нужен собственнику"
-description: "Владение недвижимостью может привести к сложным ситуациям: от споров с соседями и управляющей компанией до проблем с выселением арендаторов. В новой статье блога ButlerSPB разбираем, в каких случаях собственнику не обойтись без квалифицированной юридической помощи и как юрист по жилищным спорам поможет защитить ваши права и имущество."
-pubDate: "2025-07-23T11:45:16.155Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Юрист по жилищным спорам: когда он нужен собственнику","description":"Владение недвижимостью может привести к сложным ситуациям: от споров с соседями и управляющей компанией до проблем с выселением арендаторов. В новой статье блога ButlerSPB разбираем, в каких случаях собственнику не обойтись без квалифицированной юридической помощи и как юрист по жилищным спорам поможет защитить ваши права и имущество.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.7","reviewCount":809,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/yurist-po-zhilischnym-sporam-kogda-on-nuzhen-sobstvenniku/"}}
+title: 'Юрист по жилищным спорам: когда он нужен собственнику'
+description: >-
+  Владение недвижимостью может привести к сложным ситуациям: от споров с
+  соседями и управляющей компанией до проблем с выселением арендаторов. В новой
+  статье блога ButlerSPB разбираем, в каких случаях собственнику не обойтись без
+  квалифицированной юридической помощи и как юрист по жилищным спорам поможет
+  защитить ваши права и имущество.
+pubDate: '2025-07-23T11:45:16.155Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Юрист по жилищным спорам: когда он нужен собственнику'
+  description: >-
+    Владение недвижимостью может привести к сложным ситуациям: от споров с
+    соседями и управляющей компанией до проблем с выселением арендаторов. В
+    новой статье блога ButlerSPB разбираем, в каких случаях собственнику не
+    обойтись без квалифицированной юридической помощи и как юрист по жилищным
+    спорам поможет защитить ваши права и имущество.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '5.0'
+    reviewCount: 556
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/yurist-po-zhilischnym-sporam-kogda-on-nuzhen-sobstvenniku/
 ---
 
 # Проблемы с арендаторами, соседями или УК? Разбираемся, когда собственнику нужен юрист по жилищным спорам

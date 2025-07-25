@@ -1,11 +1,41 @@
 ---
-title: "Элитная недвижимость и иностранные арендаторы"
-description: "Управление элитной недвижимостью для иностранных арендаторов требует особого подхода. Обсуждаем юридические тонкости, культурные различия и эффективные стратегии."
-keywords: "управление недвижимостью, элитная недвижимость, иностранные арендаторы, аренда в спб, сдать квартиру иностранцу, доверительное управление"
-pubDate: "2025-07-24T12:06:26.662Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Элитная недвижимость и иностранные арендаторы","description":"Управление элитной недвижимостью для иностранных арендаторов требует особого подхода. Обсуждаем юридические тонкости, культурные различия и эффективные стратегии.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":307,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/upravlenie-elitnoy-nedvizhimostyu-kak-rabotat-s-inostrannymi-arendatorami/"}}
+title: Элитная недвижимость и иностранные арендаторы
+description: >-
+  Управление элитной недвижимостью для иностранных арендаторов требует особого
+  подхода. Обсуждаем юридические тонкости, культурные различия и эффективные
+  стратегии.
+pubDate: '2025-07-24T12:06:26.662Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: Элитная недвижимость и иностранные арендаторы
+  description: >-
+    Управление элитной недвижимостью для иностранных арендаторов требует особого
+    подхода. Обсуждаем юридические тонкости, культурные различия и эффективные
+    стратегии.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.8'
+    reviewCount: 819
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/upravlenie-elitnoy-nedvizhimostyu-kak-rabotat-s-inostrannymi-arendatorami/
 ---
 # Управление элитной недвижимостью: Полное руководство по работе с иностранными арендаторами от ButlerSPB
 

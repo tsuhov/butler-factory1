@@ -1,11 +1,39 @@
 ---
-title: "Куда поехать в отпуск: лучшие идеи от ButlerSPB"
-description: "Ищете вдохновение для следующего путешествия? ButlerSPB собрал для вас лучшие направления для отдыха: от экзотических пляжей до уютных европейских городов."
-keywords: "куда поехать, путешествия, отпуск, лучшие направления, идеи для отдыха, туризм, ButlerSPB"
-pubDate: "2025-07-25T16:02:09.775Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Куда поехать в отпуск: лучшие идеи от ButlerSPB","description":"Ищете вдохновение для следующего путешествия? ButlerSPB собрал для вас лучшие направления для отдыха: от экзотических пляжей до уютных европейских городов.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":789,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/kuda-poehat/"}}
+title: 'Куда поехать в отпуск: лучшие идеи от ButlerSPB'
+description: >-
+  Ищете вдохновение для следующего путешествия? ButlerSPB собрал для вас лучшие
+  направления для отдыха: от экзотических пляжей до уютных европейских городов.
+pubDate: '2025-07-25T16:02:09.775Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Куда поехать в отпуск: лучшие идеи от ButlerSPB'
+  description: >-
+    Ищете вдохновение для следующего путешествия? ButlerSPB собрал для вас
+    лучшие направления для отдыха: от экзотических пляжей до уютных европейских
+    городов.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '5.0'
+    reviewCount: 528
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': 'https://butlerspb-blog.netlify.app/blog/kuda-poehat/'
 ---
 # Куда поехать в 2024 году: 15+ идей для отпуска и гениальный план от экспертов ButlerSPB
 

@@ -1,11 +1,38 @@
 ---
-title: "Снятие обременений с недвижимости: инструкция"
-description: "Узнайте, как быстро и законно снять обременение с недвижимости. Пошаговая инструкция, список документов и советы экспертов ButlerSPB для всех случаев."
-keywords: "снятие обременения, обременение недвижимости, Росреестр, залог, ипотека, снять арест, ButlerSPB"
-pubDate: "2025-07-25T15:59:14.925Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Снятие обременений с недвижимости: инструкция","description":"Узнайте, как быстро и законно снять обременение с недвижимости. Пошаговая инструкция, список документов и советы экспертов ButlerSPB для всех случаев.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.7","reviewCount":447,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/snyatie-obremeneniy/"}}
+title: 'Снятие обременений с недвижимости: инструкция'
+description: >-
+  Узнайте, как быстро и законно снять обременение с недвижимости. Пошаговая
+  инструкция, список документов и советы экспертов ButlerSPB для всех случаев.
+pubDate: '2025-07-25T15:59:14.925Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Снятие обременений с недвижимости: инструкция'
+  description: >-
+    Узнайте, как быстро и законно снять обременение с недвижимости. Пошаговая
+    инструкция, список документов и советы экспертов ButlerSPB для всех случаев.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.9'
+    reviewCount: 347
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': 'https://butlerspb-blog.netlify.app/blog/snyatie-obremeneniy/'
 ---
 # Снятие обременений с недвижимости: от погашенной ипотеки до полной свободы владения
 

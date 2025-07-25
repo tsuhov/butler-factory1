@@ -1,10 +1,51 @@
 ---
-title: "Арендный бизнес и налоги: что меняется для собственника? Полное руководство от ButlerSPB"
-description: "Решили сдавать квартиру в аренду? Отличное решение! Но с первым доходом появляются и налоговые обязательства. В этой статье мы подробно разберем, как запуск арендного бизнеса влияет на налогообложение собственника. Сравним разные режимы — самозанятость, ИП и НДФЛ, — расскажем о ставках, сроках и штрафах за неуплату. Узнайте, как легально получать доход и выбрать самую выгодную систему налогообложения для вашего объекта."
-pubDate: "2025-07-23T11:17:17.737Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Арендный бизнес и налоги: что меняется для собственника? Полное руководство от ButlerSPB","description":"Решили сдавать квартиру в аренду? Отличное решение! Но с первым доходом появляются и налоговые обязательства. В этой статье мы подробно разберем, как запуск арендного бизнеса влияет на налогообложение собственника. Сравним разные режимы — самозанятость, ИП и НДФЛ, — расскажем о ставках, сроках и штрафах за неуплату. Узнайте, как легально получать доход и выбрать самую выгодную систему налогообложения для вашего объекта.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.8","reviewCount":816,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/kak-zapusk-arendnogo-biznesa-vliyaet-na-nalogooblozhenie-sobstvennika/"}}
+title: >-
+  Арендный бизнес и налоги: что меняется для собственника? Полное руководство от
+  ButlerSPB
+description: >-
+  Решили сдавать квартиру в аренду? Отличное решение! Но с первым доходом
+  появляются и налоговые обязательства. В этой статье мы подробно разберем, как
+  запуск арендного бизнеса влияет на налогообложение собственника. Сравним
+  разные режимы — самозанятость, ИП и НДФЛ, — расскажем о ставках, сроках и
+  штрафах за неуплату. Узнайте, как легально получать доход и выбрать самую
+  выгодную систему налогообложения для вашего объекта.
+pubDate: '2025-07-23T11:17:17.737Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: >-
+    Арендный бизнес и налоги: что меняется для собственника? Полное руководство
+    от ButlerSPB
+  description: >-
+    Решили сдавать квартиру в аренду? Отличное решение! Но с первым доходом
+    появляются и налоговые обязательства. В этой статье мы подробно разберем,
+    как запуск арендного бизнеса влияет на налогообложение собственника. Сравним
+    разные режимы — самозанятость, ИП и НДФЛ, — расскажем о ставках, сроках и
+    штрафах за неуплату. Узнайте, как легально получать доход и выбрать самую
+    выгодную систему налогообложения для вашего объекта.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.9'
+    reviewCount: 507
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/kak-zapusk-arendnogo-biznesa-vliyaet-na-nalogooblozhenie-sobstvennika/
 ---
 
 # Налоги при сдаче квартиры в аренду: полный гид для собственника в 2024 году

@@ -1,11 +1,40 @@
 ---
-title: "Управление консьержем: стандарты ButlerSPB"
-description: "Эффективное управление консьерж-службой — залог безупречного сервиса. В этой статье мы раскроем секреты подбора, обучения и мотивации персонала от ButlerSPB."
-keywords: "управление консьержем, консьерж-сервис, гостиничный бизнес, обучение персонала, стандарты сервиса, ButlerSPB"
-pubDate: "2025-07-24T13:13:51.399Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Управление консьержем: стандарты ButlerSPB","description":"Эффективное управление консьерж-службой — залог безупречного сервиса. В этой статье мы раскроем секреты подбора, обучения и мотивации персонала от ButlerSPB.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":561,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/upravlenie-konserzhem/"}}
+title: 'Управление консьержем: стандарты ButlerSPB'
+description: >-
+  Эффективное управление консьерж-службой — залог безупречного сервиса. В этой
+  статье мы раскроем секреты подбора, обучения и мотивации персонала от
+  ButlerSPB.
+pubDate: '2025-07-24T13:13:51.399Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Управление консьержем: стандарты ButlerSPB'
+  description: >-
+    Эффективное управление консьерж-службой — залог безупречного сервиса. В этой
+    статье мы раскроем секреты подбора, обучения и мотивации персонала от
+    ButlerSPB.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.9'
+    reviewCount: 395
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': 'https://butlerspb-blog.netlify.app/blog/upravlenie-konserzhem/'
 ---
 # Управление консьержем: Как превратить ресепшн в центр первоклассного сервиса и повысить стоимость вашей недвижимости
 

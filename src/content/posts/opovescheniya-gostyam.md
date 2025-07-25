@@ -1,11 +1,40 @@
 ---
-title: "Оповещения гостям: как держать их в курсе"
-description: "Узнайте, как эффективно информировать гостей о важных событиях: от времени заезда до специальных предложений. ButlerSPB делится секретами идеальной коммуникации."
-keywords: "оповещения гостям, коммуникация с гостями, управление гостеприимством, ButlerSPB, автоматизация отелей, уведомления для гостей, сервис для гостей"
-pubDate: "2025-07-25T16:06:08.896Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Оповещения гостям: как держать их в курсе","description":"Узнайте, как эффективно информировать гостей о важных событиях: от времени заезда до специальных предложений. ButlerSPB делится секретами идеальной коммуникации.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"5.0","reviewCount":381,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/opovescheniya-gostyam/"}}
+title: 'Оповещения гостям: как держать их в курсе'
+description: >-
+  Узнайте, как эффективно информировать гостей о важных событиях: от времени
+  заезда до специальных предложений. ButlerSPB делится секретами идеальной
+  коммуникации.
+pubDate: '2025-07-25T16:06:08.896Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Оповещения гостям: как держать их в курсе'
+  description: >-
+    Узнайте, как эффективно информировать гостей о важных событиях: от времени
+    заезда до специальных предложений. ButlerSPB делится секретами идеальной
+    коммуникации.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '5.0'
+    reviewCount: 471
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': 'https://butlerspb-blog.netlify.app/blog/opovescheniya-gostyam/'
 ---
 # Оповещения гостям: Как повысить рейтинг, автоматизировать рутину и освободить 10+ часов в неделю
 

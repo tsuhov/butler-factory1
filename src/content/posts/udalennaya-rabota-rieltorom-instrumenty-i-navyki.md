@@ -1,10 +1,45 @@
 ---
-title: "Удаленная работа риэлтором: инструменты и навыки для успеха"
-description: "Рынок недвижимости стремительно переходит в онлайн. В новой статье блога ButlerSPB мы подробно разбираем, какие цифровые инструменты и профессиональные навыки необходимы современному риэлтору для эффективной удаленной работы. Узнайте, как оставаться продуктивным, находить клиентов и заключать сделки, работая из любой точки мира."
-pubDate: "2025-07-23T10:47:40.139Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Удаленная работа риэлтором: инструменты и навыки для успеха","description":"Рынок недвижимости стремительно переходит в онлайн. В новой статье блога ButlerSPB мы подробно разбираем, какие цифровые инструменты и профессиональные навыки необходимы современному риэлтору для эффективной удаленной работы. Узнайте, как оставаться продуктивным, находить клиентов и заключать сделки, работая из любой точки мира.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.7","reviewCount":553,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/udalennaya-rabota-rieltorom-instrumenty-i-navyki/"}}
+title: 'Удаленная работа риэлтором: инструменты и навыки для успеха'
+description: >-
+  Рынок недвижимости стремительно переходит в онлайн. В новой статье блога
+  ButlerSPB мы подробно разбираем, какие цифровые инструменты и профессиональные
+  навыки необходимы современному риэлтору для эффективной удаленной работы.
+  Узнайте, как оставаться продуктивным, находить клиентов и заключать сделки,
+  работая из любой точки мира.
+pubDate: '2025-07-23T10:47:40.139Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Удаленная работа риэлтором: инструменты и навыки для успеха'
+  description: >-
+    Рынок недвижимости стремительно переходит в онлайн. В новой статье блога
+    ButlerSPB мы подробно разбираем, какие цифровые инструменты и
+    профессиональные навыки необходимы современному риэлтору для эффективной
+    удаленной работы. Узнайте, как оставаться продуктивным, находить клиентов и
+    заключать сделки, работая из любой точки мира.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.8'
+    reviewCount: 854
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/udalennaya-rabota-rieltorom-instrumenty-i-navyki/
 ---
 
 # Удаленная работа риэлтором: Как стать успешным специалистом, не выходя из дома

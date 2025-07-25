@@ -1,11 +1,40 @@
 ---
-title: "Поддерживающая и генеральная уборка: разница"
-description: "Поддерживающая уборка — это регулярное наведение порядка. Генеральная — глубокая чистка всех зон. Блог ButlerSPB поможет разобраться, какая услуга нужна именно вам."
-keywords: "генеральная уборка, поддерживающая уборка, клининг, разница, уборка квартиры, ButlerSPB, СПб"
-pubDate: "2025-07-25T15:10:03.539Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Поддерживающая и генеральная уборка: разница","description":"Поддерживающая уборка — это регулярное наведение порядка. Генеральная — глубокая чистка всех зон. Блог ButlerSPB поможет разобраться, какая услуга нужна именно вам.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.8","reviewCount":784,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/raznica-v-chem/"}}
+title: 'Поддерживающая и генеральная уборка: разница'
+description: >-
+  Поддерживающая уборка — это регулярное наведение порядка. Генеральная —
+  глубокая чистка всех зон. Блог ButlerSPB поможет разобраться, какая услуга
+  нужна именно вам.
+pubDate: '2025-07-25T15:10:03.539Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Поддерживающая и генеральная уборка: разница'
+  description: >-
+    Поддерживающая уборка — это регулярное наведение порядка. Генеральная —
+    глубокая чистка всех зон. Блог ButlerSPB поможет разобраться, какая услуга
+    нужна именно вам.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.9'
+    reviewCount: 392
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': 'https://butlerspb-blog.netlify.app/blog/raznica-v-chem/'
 ---
 # Генеральная, поддерживающая или после ремонта: разбираемся в видах уборки и выбираем подходящую
 

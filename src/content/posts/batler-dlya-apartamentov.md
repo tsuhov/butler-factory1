@@ -1,11 +1,40 @@
 ---
-title: "Батлер для апартаментов: новый уровень комфорта"
-description: "Услуга батлера для апартаментов от ButlerSPB — это персональный помощник, который возьмет на себя все бытовые заботы и организационные вопросы в Санкт-Петербурге."
-keywords: "батлер, услуги батлера, батлер для апартаментов, персональный помощник, консьерж-сервис, ButlerSPB, элитный сервис"
-pubDate: "2025-07-24T13:06:58.734Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Батлер для апартаментов: новый уровень комфорта","description":"Услуга батлера для апартаментов от ButlerSPB — это персональный помощник, который возьмет на себя все бытовые заботы и организационные вопросы в Санкт-Петербурге.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"5.0","reviewCount":356,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/batler-dlya-apartamentov/"}}
+title: 'Батлер для апартаментов: новый уровень комфорта'
+description: >-
+  Услуга батлера для апартаментов от ButlerSPB — это персональный помощник,
+  который возьмет на себя все бытовые заботы и организационные вопросы в
+  Санкт-Петербурге.
+pubDate: '2025-07-24T13:06:58.734Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Батлер для апартаментов: новый уровень комфорта'
+  description: >-
+    Услуга батлера для апартаментов от ButlerSPB — это персональный помощник,
+    который возьмет на себя все бытовые заботы и организационные вопросы в
+    Санкт-Петербурге.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '5.0'
+    reviewCount: 736
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': 'https://butlerspb-blog.netlify.app/blog/batler-dlya-apartamentov/'
 ---
 # Услуги батлера для апартаментов: Как делегировать рутину и вернуть себе самое ценное — время
 

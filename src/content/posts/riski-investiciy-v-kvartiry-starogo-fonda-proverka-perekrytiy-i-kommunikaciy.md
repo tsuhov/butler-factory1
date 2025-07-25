@@ -1,10 +1,48 @@
 ---
-title: "Риски инвестиций в квартиры старого фонда: проверка перекрытий и коммуникаций"
-description: "Планируете инвестировать в квартиру в историческом здании? Старый фонд манит своей атмосферой, но таит серьезные риски. В новой статье блога ButlerSPB разбираем, как грамотно оценить состояние перекрытий и изношенных инженерных сетей, чтобы не столкнуться с дорогостоящим ремонтом. Узнайте, на что обратить внимание при осмотре и какие экспертизы необходимы для безопасной сделки."
-pubDate: "2025-07-22T22:07:08.214Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Риски инвестиций в квартиры старого фонда: проверка перекрытий и коммуникаций","description":"Планируете инвестировать в квартиру в историческом здании? Старый фонд манит своей атмосферой, но таит серьезные риски. В новой статье блога ButlerSPB разбираем, как грамотно оценить состояние перекрытий и изношенных инженерных сетей, чтобы не столкнуться с дорогостоящим ремонтом. Узнайте, на что обратить внимание при осмотре и какие экспертизы необходимы для безопасной сделки.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":864,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/riski-investiciy-v-kvartiry-starogo-fonda-proverka-perekrytiy-i-kommunikaciy/"}}
+title: 'Риски инвестиций в квартиры старого фонда: проверка перекрытий и коммуникаций'
+description: >-
+  Планируете инвестировать в квартиру в историческом здании? Старый фонд манит
+  своей атмосферой, но таит серьезные риски. В новой статье блога ButlerSPB
+  разбираем, как грамотно оценить состояние перекрытий и изношенных инженерных
+  сетей, чтобы не столкнуться с дорогостоящим ремонтом. Узнайте, на что обратить
+  внимание при осмотре и какие экспертизы необходимы для безопасной сделки.
+pubDate: '2025-07-22T22:07:08.214Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: >-
+    Риски инвестиций в квартиры старого фонда: проверка перекрытий и
+    коммуникаций
+  description: >-
+    Планируете инвестировать в квартиру в историческом здании? Старый фонд манит
+    своей атмосферой, но таит серьезные риски. В новой статье блога ButlerSPB
+    разбираем, как грамотно оценить состояние перекрытий и изношенных инженерных
+    сетей, чтобы не столкнуться с дорогостоящим ремонтом. Узнайте, на что
+    обратить внимание при осмотре и какие экспертизы необходимы для безопасной
+    сделки.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.9'
+    reviewCount: 732
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/riski-investiciy-v-kvartiry-starogo-fonda-proverka-perekrytiy-i-kommunikaciy/
 ---
 
 # Главные риски старого фонда: Полный гайд по проверке перекрытий и коммуникаций перед покупкой

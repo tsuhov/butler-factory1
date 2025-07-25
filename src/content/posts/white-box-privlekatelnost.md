@@ -1,11 +1,40 @@
 ---
-title: "White box: идеальный старт для вашего ремонта"
-description: "Отделка White box — популярный выбор для новостроек. Она позволяет избежать самых сложных и грязных этапов ремонта, оставляя простор для вашего дизайна. Идеальный баланс!"
-keywords: "white box, предчистовая отделка, ремонт квартиры, новостройка, дизайн интерьера, ButlerSPB"
-pubDate: "2025-07-25T14:12:46.618Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"White box: идеальный старт для вашего ремонта","description":"Отделка White box — популярный выбор для новостроек. Она позволяет избежать самых сложных и грязных этапов ремонта, оставляя простор для вашего дизайна. Идеальный баланс!","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":463,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/white-box-privlekatelnost/"}}
+title: 'White box: идеальный старт для вашего ремонта'
+description: >-
+  Отделка White box — популярный выбор для новостроек. Она позволяет избежать
+  самых сложных и грязных этапов ремонта, оставляя простор для вашего дизайна.
+  Идеальный баланс!
+pubDate: '2025-07-25T14:12:46.618Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'White box: идеальный старт для вашего ремонта'
+  description: >-
+    Отделка White box — популярный выбор для новостроек. Она позволяет избежать
+    самых сложных и грязных этапов ремонта, оставляя простор для вашего дизайна.
+    Идеальный баланс!
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.9'
+    reviewCount: 726
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': 'https://butlerspb-blog.netlify.app/blog/white-box-privlekatelnost/'
 ---
 # White Box: Идеальный компромисс для новосела или маркетинговая уловка? Разбираемся с экспертами ButlerSPB
 

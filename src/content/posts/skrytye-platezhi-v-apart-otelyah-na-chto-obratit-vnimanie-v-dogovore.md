@@ -1,10 +1,45 @@
 ---
-title: "Скрытые платежи в апарт-отелях: на что обратить внимание в договоре."
-description: "Выбирая апарт-отель, хочется быть уверенным в конечной стоимости проживания. Однако, за привлекательной ценой могут скрываться дополнительные расходы. В новой статье блога ButlerSPB разбираемся, какие пункты договора аренды требуют особого внимания, чтобы избежать неприятных сюрпризов в виде счетов за уборку, коммунальные услуги или другие неочевидные сервисы."
-pubDate: "2025-07-23T10:41:36.193Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Скрытые платежи в апарт-отелях: на что обратить внимание в договоре.","description":"Выбирая апарт-отель, хочется быть уверенным в конечной стоимости проживания. Однако, за привлекательной ценой могут скрываться дополнительные расходы. В новой статье блога ButlerSPB разбираемся, какие пункты договора аренды требуют особого внимания, чтобы избежать неприятных сюрпризов в виде счетов за уборку, коммунальные услуги или другие неочевидные сервисы.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.8","reviewCount":859,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/skrytye-platezhi-v-apart-otelyah-na-chto-obratit-vnimanie-v-dogovore/"}}
+title: 'Скрытые платежи в апарт-отелях: на что обратить внимание в договоре.'
+description: >-
+  Выбирая апарт-отель, хочется быть уверенным в конечной стоимости проживания.
+  Однако, за привлекательной ценой могут скрываться дополнительные расходы. В
+  новой статье блога ButlerSPB разбираемся, какие пункты договора аренды требуют
+  особого внимания, чтобы избежать неприятных сюрпризов в виде счетов за уборку,
+  коммунальные услуги или другие неочевидные сервисы.
+pubDate: '2025-07-23T10:41:36.193Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Скрытые платежи в апарт-отелях: на что обратить внимание в договоре.'
+  description: >-
+    Выбирая апарт-отель, хочется быть уверенным в конечной стоимости проживания.
+    Однако, за привлекательной ценой могут скрываться дополнительные расходы. В
+    новой статье блога ButlerSPB разбираемся, какие пункты договора аренды
+    требуют особого внимания, чтобы избежать неприятных сюрпризов в виде счетов
+    за уборку, коммунальные услуги или другие неочевидные сервисы.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.7'
+    reviewCount: 818
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/skrytye-platezhi-v-apart-otelyah-na-chto-obratit-vnimanie-v-dogovore/
 ---
 
 # Скрытые платежи в апарт-отелях: Полный гайд по договору от ButlerSPB

@@ -1,11 +1,40 @@
 ---
-title: "Искусство сервиса: принципы работы ButlerSPB"
-description: "Узнайте, что делает сервис ButlerSPB по-настоящему профессиональным. Мы говорим о наших стандартах, внимании к деталям и индивидуальном подходе к каждому клиенту в СПб."
-keywords: "профессиональный сервис, качество обслуживания, стандарты сервиса, клиентский сервис, ButlerSPB, сервис в СПб"
-pubDate: "2025-07-25T16:16:16.786Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Искусство сервиса: принципы работы ButlerSPB","description":"Узнайте, что делает сервис ButlerSPB по-настоящему профессиональным. Мы говорим о наших стандартах, внимании к деталям и индивидуальном подходе к каждому клиенту в СПб.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.8","reviewCount":884,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/professionalnyy-servis/"}}
+title: 'Искусство сервиса: принципы работы ButlerSPB'
+description: >-
+  Узнайте, что делает сервис ButlerSPB по-настоящему профессиональным. Мы
+  говорим о наших стандартах, внимании к деталям и индивидуальном подходе к
+  каждому клиенту в СПб.
+pubDate: '2025-07-25T16:16:16.786Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Искусство сервиса: принципы работы ButlerSPB'
+  description: >-
+    Узнайте, что делает сервис ButlerSPB по-настоящему профессиональным. Мы
+    говорим о наших стандартах, внимании к деталям и индивидуальном подходе к
+    каждому клиенту в СПб.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.8'
+    reviewCount: 381
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': 'https://butlerspb-blog.netlify.app/blog/professionalnyy-servis/'
 ---
 # Профессиональный сервис: не просто услуга, а философия. Как отличить экспертов от дилетантов
 

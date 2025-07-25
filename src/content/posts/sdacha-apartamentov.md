@@ -1,11 +1,40 @@
 ---
-title: "Сдача апартаментов: максимизируем ваш доход"
-description: "Хотите выгодно сдать апартаменты? Наша статья поможет подготовить объект, установить верную цену и найти идеальных арендаторов для стабильного пассивного дохода."
-keywords: "сдача апартаментов, аренда жилья, управление недвижимостью, доходная недвижимость, поиск арендаторов, пассивный доход"
-pubDate: "2025-07-25T15:10:05.024Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Сдача апартаментов: максимизируем ваш доход","description":"Хотите выгодно сдать апартаменты? Наша статья поможет подготовить объект, установить верную цену и найти идеальных арендаторов для стабильного пассивного дохода.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":335,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/sdacha-apartamentov/"}}
+title: 'Сдача апартаментов: максимизируем ваш доход'
+description: >-
+  Хотите выгодно сдать апартаменты? Наша статья поможет подготовить объект,
+  установить верную цену и найти идеальных арендаторов для стабильного
+  пассивного дохода.
+pubDate: '2025-07-25T15:10:05.024Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Сдача апартаментов: максимизируем ваш доход'
+  description: >-
+    Хотите выгодно сдать апартаменты? Наша статья поможет подготовить объект,
+    установить верную цену и найти идеальных арендаторов для стабильного
+    пассивного дохода.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.9'
+    reviewCount: 878
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': 'https://butlerspb-blog.netlify.app/blog/sdacha-apartamentov/'
 ---
 # Как выгодно сдать апартаменты в Санкт-Петербурге: полное руководство для собственника в 2024 году
 

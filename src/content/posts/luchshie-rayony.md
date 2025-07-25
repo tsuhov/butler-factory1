@@ -1,11 +1,40 @@
 ---
-title: "Лучшие районы СПб для жизни: топ от ButlerSPB"
-description: "Ищете идеальный район для жизни в Санкт-Петербурге? Наш гид от ButlerSPB поможет выбрать лучшую локацию. Рассматриваем инфраструктуру, цены и атмосферу."
-keywords: "лучшие районы спб, где жить в петербурге, недвижимость спб, рейтинг районов, переезд в спб, ButlerSPB"
-pubDate: "2025-07-25T14:00:26.558Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Лучшие районы СПб для жизни: топ от ButlerSPB","description":"Ищете идеальный район для жизни в Санкт-Петербурге? Наш гид от ButlerSPB поможет выбрать лучшую локацию. Рассматриваем инфраструктуру, цены и атмосферу.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":461,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/luchshie-rayony/"}}
+title: 'Лучшие районы СПб для жизни: топ от ButlerSPB'
+description: >-
+  Ищете идеальный район для жизни в Санкт-Петербурге? Наш гид от ButlerSPB
+  поможет выбрать лучшую локацию. Рассматриваем инфраструктуру, цены и
+  атмосферу.
+pubDate: '2025-07-25T14:00:26.558Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Лучшие районы СПб для жизни: топ от ButlerSPB'
+  description: >-
+    Ищете идеальный район для жизни в Санкт-Петербурге? Наш гид от ButlerSPB
+    поможет выбрать лучшую локацию. Рассматриваем инфраструктуру, цены и
+    атмосферу.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.8'
+    reviewCount: 314
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': 'https://butlerspb-blog.netlify.app/blog/luchshie-rayony/'
 ---
 # Лучшие районы Санкт-Петербурга для жизни: Рейтинг и обзор от экспертов ButlerSPB
 

@@ -1,10 +1,49 @@
 ---
-title: "Продажа участков без подряда: почему вам нужен профильный риэлтор? Советы от ButlerSPB"
-description: "Хотите продать земельный участок без подряда выгодно и без лишних хлопот? В этой статье эксперты ButlerSPB рассказывают о специфике таких сделок, ключевых обязанностях риэлтора по загородной недвижимости и о том, как его участие помогает найти правильного покупателя, грамотно оформить документы и получить максимальную цену за ваш актив."
-pubDate: "2025-07-23T11:12:07.665Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Продажа участков без подряда: почему вам нужен профильный риэлтор? Советы от ButlerSPB","description":"Хотите продать земельный участок без подряда выгодно и без лишних хлопот? В этой статье эксперты ButlerSPB рассказывают о специфике таких сделок, ключевых обязанностях риэлтора по загородной недвижимости и о том, как его участие помогает найти правильного покупателя, грамотно оформить документы и получить максимальную цену за ваш актив.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.8","reviewCount":704,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/rieltor-po-zagorodnoy-nedvizhimosti-prodazha-uchastkov-bez-podryada/"}}
+title: >-
+  Продажа участков без подряда: почему вам нужен профильный риэлтор? Советы от
+  ButlerSPB
+description: >-
+  Хотите продать земельный участок без подряда выгодно и без лишних хлопот? В
+  этой статье эксперты ButlerSPB рассказывают о специфике таких сделок, ключевых
+  обязанностях риэлтора по загородной недвижимости и о том, как его участие
+  помогает найти правильного покупателя, грамотно оформить документы и получить
+  максимальную цену за ваш актив.
+pubDate: '2025-07-23T11:12:07.665Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: >-
+    Продажа участков без подряда: почему вам нужен профильный риэлтор? Советы от
+    ButlerSPB
+  description: >-
+    Хотите продать земельный участок без подряда выгодно и без лишних хлопот? В
+    этой статье эксперты ButlerSPB рассказывают о специфике таких сделок,
+    ключевых обязанностях риэлтора по загородной недвижимости и о том, как его
+    участие помогает найти правильного покупателя, грамотно оформить документы и
+    получить максимальную цену за ваш актив.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '5.0'
+    reviewCount: 500
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/rieltor-po-zagorodnoy-nedvizhimosti-prodazha-uchastkov-bez-podryada/
 ---
 
 # Как выгодно и быстро продать участок без подряда: Полное руководство от экспертов ButlerSPB

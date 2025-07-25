@@ -1,10 +1,50 @@
 ---
-title: "Как подготовить участок загородного дома к сдаче в аренду: чек-лист от ButlerSPB"
-description: "Ухоженный и безопасный участок — залог успешной сдачи загородного дома в аренду. В нашей новой статье мы, команда ButlerSPB, делимся профессиональными советами и полным чек-листом по подготовке придомовой территории. Узнайте, как повысить привлекательность вашей собственности для арендаторов, начиная от стрижки газона и заканчивая организацией зоны барбекю."
-pubDate: "2025-07-23T12:22:06.083Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Как подготовить участок загородного дома к сдаче в аренду: чек-лист от ButlerSPB","description":"Ухоженный и безопасный участок — залог успешной сдачи загородного дома в аренду. В нашей новой статье мы, команда ButlerSPB, делимся профессиональными советами и полным чек-листом по подготовке придомовой территории. Узнайте, как повысить привлекательность вашей собственности для арендаторов, начиная от стрижки газона и заканчивая организацией зоны барбекю.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":715,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/kak-podgotovit-uchastok-zagorodnogo-doma-k-sdache-v-arendu/"}}
+title: >-
+  Как подготовить участок загородного дома к сдаче в аренду: чек-лист от
+  ButlerSPB
+description: >-
+  Ухоженный и безопасный участок — залог успешной сдачи загородного дома в
+  аренду. В нашей новой статье мы, команда ButlerSPB, делимся профессиональными
+  советами и полным чек-листом по подготовке придомовой территории. Узнайте, как
+  повысить привлекательность вашей собственности для арендаторов, начиная от
+  стрижки газона и заканчивая организацией зоны барбекю.
+pubDate: '2025-07-23T12:22:06.083Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: >-
+    Как подготовить участок загородного дома к сдаче в аренду: чек-лист от
+    ButlerSPB
+  description: >-
+    Ухоженный и безопасный участок — залог успешной сдачи загородного дома в
+    аренду. В нашей новой статье мы, команда ButlerSPB, делимся
+    профессиональными советами и полным чек-листом по подготовке придомовой
+    территории. Узнайте, как повысить привлекательность вашей собственности для
+    арендаторов, начиная от стрижки газона и заканчивая организацией зоны
+    барбекю.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.7'
+    reviewCount: 748
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/kak-podgotovit-uchastok-zagorodnogo-doma-k-sdache-v-arendu/
 ---
 
 # Как подготовить участок загородного дома к сдаче в аренду: полное руководство от экспертов ButlerSPB

@@ -1,10 +1,47 @@
 ---
-title: "ButlerSPB: Мы работаем на результат, а не на процесс"
-description: "В мире бизнеса легко увязнуть в рутине и бесконечных задачах. В ButlerSPB мы придерживаемся иного подхода. Наш главный принцип — фокус на конечной цели клиента. В этой статье мы расскажем, как наша команда строит работу, чтобы каждое действие приносило измеримую пользу вашему бизнесу, почему для нас важны не отчеты о проделанной работе, а реальные достижения, и как такой подход помогает нам выстраивать долгосрочные и успешные партнерские отношения."
-pubDate: "2025-07-22T01:10:50.837Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"ButlerSPB: Мы работаем на результат, а не на процесс","description":"В мире бизнеса легко увязнуть в рутине и бесконечных задачах. В ButlerSPB мы придерживаемся иного подхода. Наш главный принцип — фокус на конечной цели клиента. В этой статье мы расскажем, как наша команда строит работу, чтобы каждое действие приносило измеримую пользу вашему бизнесу, почему для нас важны не отчеты о проделанной работе, а реальные достижения, и как такой подход помогает нам выстраивать долгосрочные и успешные партнерские отношения.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":462,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/my-rabotaem-na-rezultat/"}}
+title: 'ButlerSPB: Мы работаем на результат, а не на процесс'
+description: >-
+  В мире бизнеса легко увязнуть в рутине и бесконечных задачах. В ButlerSPB мы
+  придерживаемся иного подхода. Наш главный принцип — фокус на конечной цели
+  клиента. В этой статье мы расскажем, как наша команда строит работу, чтобы
+  каждое действие приносило измеримую пользу вашему бизнесу, почему для нас
+  важны не отчеты о проделанной работе, а реальные достижения, и как такой
+  подход помогает нам выстраивать долгосрочные и успешные партнерские отношения.
+pubDate: '2025-07-22T01:10:50.837Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'ButlerSPB: Мы работаем на результат, а не на процесс'
+  description: >-
+    В мире бизнеса легко увязнуть в рутине и бесконечных задачах. В ButlerSPB мы
+    придерживаемся иного подхода. Наш главный принцип — фокус на конечной цели
+    клиента. В этой статье мы расскажем, как наша команда строит работу, чтобы
+    каждое действие приносило измеримую пользу вашему бизнесу, почему для нас
+    важны не отчеты о проделанной работе, а реальные достижения, и как такой
+    подход помогает нам выстраивать долгосрочные и успешные партнерские
+    отношения.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.7'
+    reviewCount: 326
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': 'https://butlerspb-blog.netlify.app/blog/my-rabotaem-na-rezultat/'
 ---
 
 # "Работаем на результат": не просто слова, а система. Как мы в ButlerSPB добиваемся идеальной чистоты

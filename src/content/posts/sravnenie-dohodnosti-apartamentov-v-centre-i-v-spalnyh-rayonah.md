@@ -1,10 +1,51 @@
 ---
-title: "Что выгоднее для инвестора: апартаменты в центре или в спальном районе? Сравниваем доходность с ButlerSPB"
-description: "Выбор локации — ключевой фактор успеха при инвестициях в апартаменты. Шумный и туристический центр или тихий и стабильный спальный район — что принесет больше прибыли? В этой статье команда ButlerSPB анализирует все аспекты: от стоимости покупки и расходов на содержание до потенциального дохода от аренды, уровня загрузки и ликвидности объекта. Разбираем реальные кейсы и помогаем принять взвешенное инвестиционное решение."
-pubDate: "2025-07-23T12:13:17.354Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Что выгоднее для инвестора: апартаменты в центре или в спальном районе? Сравниваем доходность с ButlerSPB","description":"Выбор локации — ключевой фактор успеха при инвестициях в апартаменты. Шумный и туристический центр или тихий и стабильный спальный район — что принесет больше прибыли? В этой статье команда ButlerSPB анализирует все аспекты: от стоимости покупки и расходов на содержание до потенциального дохода от аренды, уровня загрузки и ликвидности объекта. Разбираем реальные кейсы и помогаем принять взвешенное инвестиционное решение.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.8","reviewCount":787,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/sravnenie-dohodnosti-apartamentov-v-centre-i-v-spalnyh-rayonah/"}}
+title: >-
+  Что выгоднее для инвестора: апартаменты в центре или в спальном районе?
+  Сравниваем доходность с ButlerSPB
+description: >-
+  Выбор локации — ключевой фактор успеха при инвестициях в апартаменты. Шумный и
+  туристический центр или тихий и стабильный спальный район — что принесет
+  больше прибыли? В этой статье команда ButlerSPB анализирует все аспекты: от
+  стоимости покупки и расходов на содержание до потенциального дохода от аренды,
+  уровня загрузки и ликвидности объекта. Разбираем реальные кейсы и помогаем
+  принять взвешенное инвестиционное решение.
+pubDate: '2025-07-23T12:13:17.354Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: >-
+    Что выгоднее для инвестора: апартаменты в центре или в спальном районе?
+    Сравниваем доходность с ButlerSPB
+  description: >-
+    Выбор локации — ключевой фактор успеха при инвестициях в апартаменты. Шумный
+    и туристический центр или тихий и стабильный спальный район — что принесет
+    больше прибыли? В этой статье команда ButlerSPB анализирует все аспекты: от
+    стоимости покупки и расходов на содержание до потенциального дохода от
+    аренды, уровня загрузки и ликвидности объекта. Разбираем реальные кейсы и
+    помогаем принять взвешенное инвестиционное решение.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.9'
+    reviewCount: 521
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/sravnenie-dohodnosti-apartamentov-v-centre-i-v-spalnyh-rayonah/
 ---
 
 # Что выгоднее инвестору: апартаменты в центре Петербурга или в спальном районе?

@@ -1,11 +1,40 @@
 ---
-title: "Налоги на аренду апартаментов: что нужно знать"
-description: "Сдача апартаментов в аренду обязывает платить налоги. В статье разбираем все варианты: НДФЛ для физлиц, налог для самозанятых и УСН для ИП. Выберите свой!"
-keywords: "налоги на аренду, сдача апартаментов, НДФЛ, самозанятость, ИП, арендный бизнес, ButlerSPB"
-pubDate: "2025-07-24T12:09:22.324Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Налоги на аренду апартаментов: что нужно знать","description":"Сдача апартаментов в аренду обязывает платить налоги. В статье разбираем все варианты: НДФЛ для физлиц, налог для самозанятых и УСН для ИП. Выберите свой!","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":582,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/nalogi-pri-sdache-v-arendu-apartamentov/"}}
+title: 'Налоги на аренду апартаментов: что нужно знать'
+description: >-
+  Сдача апартаментов в аренду обязывает платить налоги. В статье разбираем все
+  варианты: НДФЛ для физлиц, налог для самозанятых и УСН для ИП. Выберите свой!
+pubDate: '2025-07-24T12:09:22.324Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Налоги на аренду апартаментов: что нужно знать'
+  description: >-
+    Сдача апартаментов в аренду обязывает платить налоги. В статье разбираем все
+    варианты: НДФЛ для физлиц, налог для самозанятых и УСН для ИП. Выберите
+    свой!
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.9'
+    reviewCount: 647
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/nalogi-pri-sdache-v-arendu-apartamentov/
 ---
 # Налоги при сдаче апартаментов: полное руководство по выбору режима и легальной экономии
 

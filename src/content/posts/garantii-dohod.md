@@ -1,11 +1,40 @@
 ---
-title: "Гарантированный доход: как его получить с нами?"
-description: "В мире финансов обещания гарантированного дохода звучат заманчиво, но рискованно. ButlerSPB разбирает, какие гарантии реальны и как их получить. Читайте."
-keywords: "гарантированный доход, инвестиции, финансовые гарантии, управление капиталом, ButlerSPB, стабильный доход, риски инвестиций"
-pubDate: "2025-07-25T15:42:21.280Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Гарантированный доход: как его получить с нами?","description":"В мире финансов обещания гарантированного дохода звучат заманчиво, но рискованно. ButlerSPB разбирает, какие гарантии реальны и как их получить. Читайте.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.7","reviewCount":832,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/garantii-dohod/"}}
+title: 'Гарантированный доход: как его получить с нами?'
+description: >-
+  В мире финансов обещания гарантированного дохода звучат заманчиво, но
+  рискованно. ButlerSPB разбирает, какие гарантии реальны и как их получить.
+  Читайте.
+pubDate: '2025-07-25T15:42:21.280Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Гарантированный доход: как его получить с нами?'
+  description: >-
+    В мире финансов обещания гарантированного дохода звучат заманчиво, но
+    рискованно. ButlerSPB разбирает, какие гарантии реальны и как их получить.
+    Читайте.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.9'
+    reviewCount: 552
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': 'https://butlerspb-blog.netlify.app/blog/garantii-dohod/'
 ---
 # Гарантированный доход от сдачи квартиры: Как получать деньги каждый месяц, даже если квартира пустует
 

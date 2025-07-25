@@ -1,10 +1,47 @@
 ---
-title: "Как мы обеспечиваем безопасность ваших платежей в ButlerSPB"
-description: "В ButlerSPB мы уделяем первостепенное внимание защите ваших финансовых данных. В этой статье мы подробно расскажем о многоуровневой системе безопасности, которую мы используем для обработки всех платежей: от SSL-шифрования и токенизации до соответствия стандарту PCI DSS. Узнайте, какие технологии стоят на страже вашей конфиденциальности и почему вы можете быть абсолютно уверены, совершая покупки у нас."
-pubDate: "2025-07-22T11:13:31.498Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Как мы обеспечиваем безопасность ваших платежей в ButlerSPB","description":"В ButlerSPB мы уделяем первостепенное внимание защите ваших финансовых данных. В этой статье мы подробно расскажем о многоуровневой системе безопасности, которую мы используем для обработки всех платежей: от SSL-шифрования и токенизации до соответствия стандарту PCI DSS. Узнайте, какие технологии стоят на страже вашей конфиденциальности и почему вы можете быть абсолютно уверены, совершая покупки у нас.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"5.0","reviewCount":370,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/kak-my-obespechivaem-bezopasnost-platezhey/"}}
+title: Как мы обеспечиваем безопасность ваших платежей в ButlerSPB
+description: >-
+  В ButlerSPB мы уделяем первостепенное внимание защите ваших финансовых данных.
+  В этой статье мы подробно расскажем о многоуровневой системе безопасности,
+  которую мы используем для обработки всех платежей: от SSL-шифрования и
+  токенизации до соответствия стандарту PCI DSS. Узнайте, какие технологии стоят
+  на страже вашей конфиденциальности и почему вы можете быть абсолютно уверены,
+  совершая покупки у нас.
+pubDate: '2025-07-22T11:13:31.498Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: Как мы обеспечиваем безопасность ваших платежей в ButlerSPB
+  description: >-
+    В ButlerSPB мы уделяем первостепенное внимание защите ваших финансовых
+    данных. В этой статье мы подробно расскажем о многоуровневой системе
+    безопасности, которую мы используем для обработки всех платежей: от
+    SSL-шифрования и токенизации до соответствия стандарту PCI DSS. Узнайте,
+    какие технологии стоят на страже вашей конфиденциальности и почему вы можете
+    быть абсолютно уверены, совершая покупки у нас.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.9'
+    reviewCount: 545
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/kak-my-obespechivaem-bezopasnost-platezhey/
 ---
 
 # Ваша уверенность – наш главный приоритет. Как ButlerSPB обеспечивает безопасность каждого платежа

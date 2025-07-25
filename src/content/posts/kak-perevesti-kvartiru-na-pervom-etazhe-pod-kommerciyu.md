@@ -1,10 +1,47 @@
 ---
-title: "Как перевести квартиру на первом этаже под коммерцию: пошаговая инструкция от ButlerSPB"
-description: "Планируете открыть бизнес в помещении на первом этаже? Рассказываем, как законно перевести жилую квартиру в нежилой фонд, какие документы собрать, куда обращаться и какие подводные камни вас ждут. Подробный гайд от экспертов ButlerSPB."
-pubDate: "2025-07-22T15:36:48.520Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Как перевести квартиру на первом этаже под коммерцию: пошаговая инструкция от ButlerSPB","description":"Планируете открыть бизнес в помещении на первом этаже? Рассказываем, как законно перевести жилую квартиру в нежилой фонд, какие документы собрать, куда обращаться и какие подводные камни вас ждут. Подробный гайд от экспертов ButlerSPB.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.7","reviewCount":702,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/kak-perevesti-kvartiru-na-pervom-etazhe-pod-kommerciyu/"}}
+title: >-
+  Как перевести квартиру на первом этаже под коммерцию: пошаговая инструкция от
+  ButlerSPB
+description: >-
+  Планируете открыть бизнес в помещении на первом этаже? Рассказываем, как
+  законно перевести жилую квартиру в нежилой фонд, какие документы собрать, куда
+  обращаться и какие подводные камни вас ждут. Подробный гайд от экспертов
+  ButlerSPB.
+pubDate: '2025-07-22T15:36:48.520Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: >-
+    Как перевести квартиру на первом этаже под коммерцию: пошаговая инструкция
+    от ButlerSPB
+  description: >-
+    Планируете открыть бизнес в помещении на первом этаже? Рассказываем, как
+    законно перевести жилую квартиру в нежилой фонд, какие документы собрать,
+    куда обращаться и какие подводные камни вас ждут. Подробный гайд от
+    экспертов ButlerSPB.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.7'
+    reviewCount: 546
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/kak-perevesti-kvartiru-na-pervom-etazhe-pod-kommerciyu/
 ---
 
 # Как перевести квартиру на первом этаже под коммерцию: Полное руководство 2024 от ButlerSPB

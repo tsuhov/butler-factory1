@@ -1,10 +1,51 @@
 ---
-title: "Как выбрать агентство по продаже загородной недвижимости в СПб: гид от ButlerSPB"
-description: "Рынок загородной недвижимости Санкт-Петербурга и Ленинградской области полон предложений и подводных камней. Продажа или покупка дома — это серьезный шаг, требующий экспертных знаний. В этой статье мы, команда ButlerSPB, расскажем об основных критериях выбора надежного агентства, о том, какие услуги должен предоставлять профессиональный риэлтор и как избежать ошибок, чтобы ваша сделка была не только безопасной, но и максимально выгодной."
-pubDate: "2025-07-21T21:45:55.715Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Как выбрать агентство по продаже загородной недвижимости в СПб: гид от ButlerSPB","description":"Рынок загородной недвижимости Санкт-Петербурга и Ленинградской области полон предложений и подводных камней. Продажа или покупка дома — это серьезный шаг, требующий экспертных знаний. В этой статье мы, команда ButlerSPB, расскажем об основных критериях выбора надежного агентства, о том, какие услуги должен предоставлять профессиональный риэлтор и как избежать ошибок, чтобы ваша сделка была не только безопасной, но и максимально выгодной.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":802,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/agentstvo-po-prodazhe-zagorodnoy-nedvizhimosti-v-spb/"}}
+title: >-
+  Как выбрать агентство по продаже загородной недвижимости в СПб: гид от
+  ButlerSPB
+description: >-
+  Рынок загородной недвижимости Санкт-Петербурга и Ленинградской области полон
+  предложений и подводных камней. Продажа или покупка дома — это серьезный шаг,
+  требующий экспертных знаний. В этой статье мы, команда ButlerSPB, расскажем об
+  основных критериях выбора надежного агентства, о том, какие услуги должен
+  предоставлять профессиональный риэлтор и как избежать ошибок, чтобы ваша
+  сделка была не только безопасной, но и максимально выгодной.
+pubDate: '2025-07-21T21:45:55.715Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: >-
+    Как выбрать агентство по продаже загородной недвижимости в СПб: гид от
+    ButlerSPB
+  description: >-
+    Рынок загородной недвижимости Санкт-Петербурга и Ленинградской области полон
+    предложений и подводных камней. Продажа или покупка дома — это серьезный
+    шаг, требующий экспертных знаний. В этой статье мы, команда ButlerSPB,
+    расскажем об основных критериях выбора надежного агентства, о том, какие
+    услуги должен предоставлять профессиональный риэлтор и как избежать ошибок,
+    чтобы ваша сделка была не только безопасной, но и максимально выгодной.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.8'
+    reviewCount: 563
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/agentstvo-po-prodazhe-zagorodnoy-nedvizhimosti-v-spb/
 ---
 
 # Ваш ключ к успешной продаже загородной недвижимости в Санкт-Петербурге: Почему стоит выбрать профильное агентство

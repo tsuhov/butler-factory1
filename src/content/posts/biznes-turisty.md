@@ -1,11 +1,40 @@
 ---
-title: "Бизнес-туризм: идеальный сервис от ButlerSPB"
-description: "Деловые путешественники ценят время и комфорт. ButlerSPB предлагает сервис для продуктивных поездок: подбор апартаментов, трансфер и организация досуга в СПб."
-keywords: "бизнес туризм, деловая поездка, командировка в СПб, аренда апартаментов, консьерж-сервис, ButlerSPB, корпоративные клиенты"
-pubDate: "2025-07-25T15:14:24.295Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Бизнес-туризм: идеальный сервис от ButlerSPB","description":"Деловые путешественники ценят время и комфорт. ButlerSPB предлагает сервис для продуктивных поездок: подбор апартаментов, трансфер и организация досуга в СПб.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.8","reviewCount":388,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/biznes-turisty/"}}
+title: 'Бизнес-туризм: идеальный сервис от ButlerSPB'
+description: >-
+  Деловые путешественники ценят время и комфорт. ButlerSPB предлагает сервис для
+  продуктивных поездок: подбор апартаментов, трансфер и организация досуга в
+  СПб.
+pubDate: '2025-07-25T15:14:24.295Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Бизнес-туризм: идеальный сервис от ButlerSPB'
+  description: >-
+    Деловые путешественники ценят время и комфорт. ButlerSPB предлагает сервис
+    для продуктивных поездок: подбор апартаментов, трансфер и организация досуга
+    в СПб.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.8'
+    reviewCount: 388
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': 'https://butlerspb-blog.netlify.app/blog/biznes-turisty/'
 ---
 # Бизнес-туристы в Санкт-Петербурге: Как организовать идеальную поездку и не отвлекаться от главного
 

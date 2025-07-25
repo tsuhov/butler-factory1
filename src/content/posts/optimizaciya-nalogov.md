@@ -1,11 +1,38 @@
 ---
-title: "Законная оптимизация налогов для вашего бизнеса"
-description: "Как законно снизить налоговую нагрузку на бизнес? Эксперты ButlerSPB делятся проверенными методами и стратегиями налоговой оптимизации и планирования."
-keywords: "оптимизация налогов, налоговое планирование, снижение налогов, законная оптимизация, налоги для бизнеса, налоговый консалтинг, ButlerSPB"
-pubDate: "2025-07-25T14:51:06.985Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Законная оптимизация налогов для вашего бизнеса","description":"Как законно снизить налоговую нагрузку на бизнес? Эксперты ButlerSPB делятся проверенными методами и стратегиями налоговой оптимизации и планирования.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.7","reviewCount":606,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/optimizaciya-nalogov/"}}
+title: Законная оптимизация налогов для вашего бизнеса
+description: >-
+  Как законно снизить налоговую нагрузку на бизнес? Эксперты ButlerSPB делятся
+  проверенными методами и стратегиями налоговой оптимизации и планирования.
+pubDate: '2025-07-25T14:51:06.985Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: Законная оптимизация налогов для вашего бизнеса
+  description: >-
+    Как законно снизить налоговую нагрузку на бизнес? Эксперты ButlerSPB делятся
+    проверенными методами и стратегиями налоговой оптимизации и планирования.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.7'
+    reviewCount: 705
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': 'https://butlerspb-blog.netlify.app/blog/optimizaciya-nalogov/'
 ---
 # Законная оптимизация налогов: как снизить налоговую нагрузку на бизнес без рисков
 

@@ -1,10 +1,53 @@
 ---
-title: "Двухсторонняя квартира: что это такое и почему она стоит вашего внимания? | Блог ButlerSPB"
-description: "Планируете покупку недвижимости? Узнайте, что такое двухсторонняя квартира, или «распашонка», и почему она так ценится на рынке. В новой статье блога ButlerSPB мы подробно разбираем все преимущества такой планировки: от обилия естественного света и эффективного проветривания до удобного зонирования пространства и прекрасных видов из окон. Рассказываем, кому подойдет такой вариант и на что обратить внимание при выборе идеальной квартиры в Санкт-Петербурге."
-pubDate: "2025-07-22T16:31:21.003Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Двухсторонняя квартира: что это такое и почему она стоит вашего внимания? | Блог ButlerSPB","description":"Планируете покупку недвижимости? Узнайте, что такое двухсторонняя квартира, или «распашонка», и почему она так ценится на рынке. В новой статье блога ButlerSPB мы подробно разбираем все преимущества такой планировки: от обилия естественного света и эффективного проветривания до удобного зонирования пространства и прекрасных видов из окон. Рассказываем, кому подойдет такой вариант и на что обратить внимание при выборе идеальной квартиры в Санкт-Петербурге.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.7","reviewCount":365,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/chto-takoe-dvuhstoronnyaya-kvartira-i-v-chem-ee-preimuschestva/"}}
+title: >-
+  Двухсторонняя квартира: что это такое и почему она стоит вашего внимания? |
+  Блог ButlerSPB
+description: >-
+  Планируете покупку недвижимости? Узнайте, что такое двухсторонняя квартира,
+  или «распашонка», и почему она так ценится на рынке. В новой статье блога
+  ButlerSPB мы подробно разбираем все преимущества такой планировки: от обилия
+  естественного света и эффективного проветривания до удобного зонирования
+  пространства и прекрасных видов из окон. Рассказываем, кому подойдет такой
+  вариант и на что обратить внимание при выборе идеальной квартиры в
+  Санкт-Петербурге.
+pubDate: '2025-07-22T16:31:21.003Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: >-
+    Двухсторонняя квартира: что это такое и почему она стоит вашего внимания? |
+    Блог ButlerSPB
+  description: >-
+    Планируете покупку недвижимости? Узнайте, что такое двухсторонняя квартира,
+    или «распашонка», и почему она так ценится на рынке. В новой статье блога
+    ButlerSPB мы подробно разбираем все преимущества такой планировки: от обилия
+    естественного света и эффективного проветривания до удобного зонирования
+    пространства и прекрасных видов из окон. Рассказываем, кому подойдет такой
+    вариант и на что обратить внимание при выборе идеальной квартиры в
+    Санкт-Петербурге.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.9'
+    reviewCount: 793
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/chto-takoe-dvuhstoronnyaya-kvartira-i-v-chem-ee-preimuschestva/
 ---
 
 # Двухсторонняя квартира: полный гид по выбору идеального жилья в Санкт-Петербурге

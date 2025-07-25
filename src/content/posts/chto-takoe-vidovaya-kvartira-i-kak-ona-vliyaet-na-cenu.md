@@ -1,10 +1,47 @@
 ---
-title: "Что такое видовая квартира и как она влияет на цену"
-description: "Панорамный вид на город, реку или парк — мечта многих покупателей недвижимости. В новой статье блога ButlerSPB разбираемся, что официально считается видовой квартирой, какие характеристики влияют на наценку за вид и насколько может вырасти стоимость объекта благодаря красивому пейзажу за окном. Анализируем, всегда ли оправдана такая переплата и на что обратить внимание при выборе."
-pubDate: "2025-07-22T16:27:31.268Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Что такое видовая квартира и как она влияет на цену","description":"Панорамный вид на город, реку или парк — мечта многих покупателей недвижимости. В новой статье блога ButlerSPB разбираемся, что официально считается видовой квартирой, какие характеристики влияют на наценку за вид и насколько может вырасти стоимость объекта благодаря красивому пейзажу за окном. Анализируем, всегда ли оправдана такая переплата и на что обратить внимание при выборе.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.8","reviewCount":800,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/chto-takoe-vidovaya-kvartira-i-kak-ona-vliyaet-na-cenu/"}}
+title: Что такое видовая квартира и как она влияет на цену
+description: >-
+  Панорамный вид на город, реку или парк — мечта многих покупателей
+  недвижимости. В новой статье блога ButlerSPB разбираемся, что официально
+  считается видовой квартирой, какие характеристики влияют на наценку за вид и
+  насколько может вырасти стоимость объекта благодаря красивому пейзажу за
+  окном. Анализируем, всегда ли оправдана такая переплата и на что обратить
+  внимание при выборе.
+pubDate: '2025-07-22T16:27:31.268Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: Что такое видовая квартира и как она влияет на цену
+  description: >-
+    Панорамный вид на город, реку или парк — мечта многих покупателей
+    недвижимости. В новой статье блога ButlerSPB разбираемся, что официально
+    считается видовой квартирой, какие характеристики влияют на наценку за вид и
+    насколько может вырасти стоимость объекта благодаря красивому пейзажу за
+    окном. Анализируем, всегда ли оправдана такая переплата и на что обратить
+    внимание при выборе.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.8'
+    reviewCount: 526
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/chto-takoe-vidovaya-kvartira-i-kak-ona-vliyaet-na-cenu/
 ---
 
 # Видовая квартира: что это такое и как уникальный вид формирует цену на недвижимость в Петербурге

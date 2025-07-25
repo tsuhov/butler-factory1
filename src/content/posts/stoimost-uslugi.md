@@ -1,11 +1,40 @@
 ---
-title: "Стоимость услуг ButlerSPB: что на нее влияет?"
-description: "ButlerSPB предлагает услуги премиум-класса. Узнайте, как мы рассчитываем стоимость, какие факторы учитываем, и почему высокое качество оправдывает свою цену."
-keywords: "стоимость услуг, ценообразование, цена услуги, ButlerSPB, услуги в СПб, факторы стоимости, премиум услуги"
-pubDate: "2025-07-25T16:38:20.141Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Стоимость услуг ButlerSPB: что на нее влияет?","description":"ButlerSPB предлагает услуги премиум-класса. Узнайте, как мы рассчитываем стоимость, какие факторы учитываем, и почему высокое качество оправдывает свою цену.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.7","reviewCount":494,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/stoimost-uslugi/"}}
+title: 'Стоимость услуг ButlerSPB: что на нее влияет?'
+description: >-
+  ButlerSPB предлагает услуги премиум-класса. Узнайте, как мы рассчитываем
+  стоимость, какие факторы учитываем, и почему высокое качество оправдывает свою
+  цену.
+pubDate: '2025-07-25T16:38:20.141Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Стоимость услуг ButlerSPB: что на нее влияет?'
+  description: >-
+    ButlerSPB предлагает услуги премиум-класса. Узнайте, как мы рассчитываем
+    стоимость, какие факторы учитываем, и почему высокое качество оправдывает
+    свою цену.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.8'
+    reviewCount: 583
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': 'https://butlerspb-blog.netlify.app/blog/stoimost-uslugi/'
 ---
 # За что вы на самом деле платите? Разбираем стоимость премиум-услуг на примере ButlerSPB
 

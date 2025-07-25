@@ -1,11 +1,40 @@
 ---
-title: "Новое строительство: главные тренды 2024 года"
-description: "Анализируем ключевые тенденции на рынке нового строительства. Экспертное мнение от ButlerSPB о перспективных проектах, изменении цен и советах для инвесторов."
-keywords: "новое строительство, новостройки, купить квартиру в новостройке, инвестиции в недвижимость, тренды строительства, ButlerSPB"
-pubDate: "2025-07-25T16:36:23.021Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Новое строительство: главные тренды 2024 года","description":"Анализируем ключевые тенденции на рынке нового строительства. Экспертное мнение от ButlerSPB о перспективных проектах, изменении цен и советах для инвесторов.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"5.0","reviewCount":428,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/novoe-stroitelstvo/"}}
+title: 'Новое строительство: главные тренды 2024 года'
+description: >-
+  Анализируем ключевые тенденции на рынке нового строительства. Экспертное
+  мнение от ButlerSPB о перспективных проектах, изменении цен и советах для
+  инвесторов.
+pubDate: '2025-07-25T16:36:23.021Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Новое строительство: главные тренды 2024 года'
+  description: >-
+    Анализируем ключевые тенденции на рынке нового строительства. Экспертное
+    мнение от ButlerSPB о перспективных проектах, изменении цен и советах для
+    инвесторов.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '5.0'
+    reviewCount: 665
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': 'https://butlerspb-blog.netlify.app/blog/novoe-stroitelstvo/'
 ---
 # Новостройки Санкт-Петербурга: Как выбрать и купить квартиру в 2024 году без рисков. Полный гид от ButlerSPB.
 

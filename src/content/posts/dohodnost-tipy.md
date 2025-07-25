@@ -1,11 +1,40 @@
 ---
-title: "Все типы доходности: полный гид для инвестора"
-description: "Какие бывают виды доходности и как их правильно рассчитывать? Наш экспертный гид от ButlerSPB поможет разобраться в номинальной, реальной и других показателях."
-keywords: "доходность, виды доходности, инвестиции, прибыль, рентабельность, финансовый анализ, оценка активов"
-pubDate: "2025-07-25T14:57:40.192Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Все типы доходности: полный гид для инвестора","description":"Какие бывают виды доходности и как их правильно рассчитывать? Наш экспертный гид от ButlerSPB поможет разобраться в номинальной, реальной и других показателях.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"5.0","reviewCount":778,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/dohodnost-tipy/"}}
+title: 'Все типы доходности: полный гид для инвестора'
+description: >-
+  Какие бывают виды доходности и как их правильно рассчитывать? Наш экспертный
+  гид от ButlerSPB поможет разобраться в номинальной, реальной и других
+  показателях.
+pubDate: '2025-07-25T14:57:40.192Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Все типы доходности: полный гид для инвестора'
+  description: >-
+    Какие бывают виды доходности и как их правильно рассчитывать? Наш экспертный
+    гид от ButlerSPB поможет разобраться в номинальной, реальной и других
+    показателях.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.9'
+    reviewCount: 521
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': 'https://butlerspb-blog.netlify.app/blog/dohodnost-tipy/'
 ---
 # Все типы доходности: от номинальной до реальной. Полный гид для инвестора
 

@@ -1,11 +1,39 @@
 ---
-title: "Комиссия риэлтора: сколько и за что платить?"
-description: "Узнайте, из чего складывается комиссия риэлтора, какой процент от сделки она составляет и какие услуги входят в стоимость. ButlerSPB раскрывает все нюансы."
-keywords: "комиссия риэлтора, стоимость услуг риэлтора, процент риэлтора, агентское вознаграждение, ButlerSPB, сделка с недвижимостью"
-pubDate: "2025-07-25T14:50:52.487Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Комиссия риэлтора: сколько и за что платить?","description":"Узнайте, из чего складывается комиссия риэлтора, какой процент от сделки она составляет и какие услуги входят в стоимость. ButlerSPB раскрывает все нюансы.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":553,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/komissiya-rieltora/"}}
+title: 'Комиссия риэлтора: сколько и за что платить?'
+description: >-
+  Узнайте, из чего складывается комиссия риэлтора, какой процент от сделки она
+  составляет и какие услуги входят в стоимость. ButlerSPB раскрывает все нюансы.
+pubDate: '2025-07-25T14:50:52.487Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Комиссия риэлтора: сколько и за что платить?'
+  description: >-
+    Узнайте, из чего складывается комиссия риэлтора, какой процент от сделки она
+    составляет и какие услуги входят в стоимость. ButlerSPB раскрывает все
+    нюансы.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.7'
+    reviewCount: 676
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': 'https://butlerspb-blog.netlify.app/blog/komissiya-rieltora/'
 ---
 # Комиссия риэлтора в 2024 году: за что вы платите на самом деле и как это работает в СПб?
 

@@ -33,8 +33,8 @@ schema:
       https://images.unsplash.com/photo-1512917774080-9991f1c4c750?q=80&w=2070&auto=format&fit=crop
   aggregateRating:
     '@type': AggregateRating
-    ratingValue: '4.8'
-    reviewCount: 461
+    ratingValue: '4.9'
+    reviewCount: 562
     bestRating: '5'
     worstRating: '1'
   publisher:

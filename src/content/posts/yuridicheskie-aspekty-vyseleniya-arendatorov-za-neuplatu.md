@@ -1,10 +1,45 @@
 ---
-title: "Выселение арендатора за неуплату: пошаговый юридический гайд от ButlerSPB"
-description: "Столкнулись с недобросовестным арендатором? В нашей новой статье мы подробно разбираем, как законно выселить жильца за неуплату аренды. Вы узнаете о правовых основаниях, процедуре досудебного урегулирования, правилах составления иска и ключевых моментах судебного процесса. Защитите свою собственность и права, действуя грамотно и в рамках закона."
-pubDate: "2025-07-23T10:48:14.672Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Выселение арендатора за неуплату: пошаговый юридический гайд от ButlerSPB","description":"Столкнулись с недобросовестным арендатором? В нашей новой статье мы подробно разбираем, как законно выселить жильца за неуплату аренды. Вы узнаете о правовых основаниях, процедуре досудебного урегулирования, правилах составления иска и ключевых моментах судебного процесса. Защитите свою собственность и права, действуя грамотно и в рамках закона.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":814,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/yuridicheskie-aspekty-vyseleniya-arendatorov-za-neuplatu/"}}
+title: 'Выселение арендатора за неуплату: пошаговый юридический гайд от ButlerSPB'
+description: >-
+  Столкнулись с недобросовестным арендатором? В нашей новой статье мы подробно
+  разбираем, как законно выселить жильца за неуплату аренды. Вы узнаете о
+  правовых основаниях, процедуре досудебного урегулирования, правилах
+  составления иска и ключевых моментах судебного процесса. Защитите свою
+  собственность и права, действуя грамотно и в рамках закона.
+pubDate: '2025-07-23T10:48:14.672Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Выселение арендатора за неуплату: пошаговый юридический гайд от ButlerSPB'
+  description: >-
+    Столкнулись с недобросовестным арендатором? В нашей новой статье мы подробно
+    разбираем, как законно выселить жильца за неуплату аренды. Вы узнаете о
+    правовых основаниях, процедуре досудебного урегулирования, правилах
+    составления иска и ключевых моментах судебного процесса. Защитите свою
+    собственность и права, действуя грамотно и в рамках закона.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '5.0'
+    reviewCount: 504
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/yuridicheskie-aspekty-vyseleniya-arendatorov-za-neuplatu/
 ---
 
 # Как законно выселить арендатора за неуплату в 2024 году: пошаговая инструкция для собственника

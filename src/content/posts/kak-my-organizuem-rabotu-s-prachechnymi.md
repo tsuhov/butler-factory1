@@ -1,10 +1,45 @@
 ---
-title: "За кулисами ButlerSPB: Как мы организуем работу с прачечными"
-description: "В этой статье мы приоткроем завесу тайны и расскажем, как в ButlerSPB выстроена работа с прачечными-партнерами. Узнайте о наших строгих критериях отбора, многоступенчатой системе контроля качества и отлаженной логистике, которые позволяют нам гарантировать безупречную чистоту и своевременную доставку ваших вещей."
-pubDate: "2025-07-22T11:11:31.903Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"За кулисами ButlerSPB: Как мы организуем работу с прачечными","description":"В этой статье мы приоткроем завесу тайны и расскажем, как в ButlerSPB выстроена работа с прачечными-партнерами. Узнайте о наших строгих критериях отбора, многоступенчатой системе контроля качества и отлаженной логистике, которые позволяют нам гарантировать безупречную чистоту и своевременную доставку ваших вещей.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"5.0","reviewCount":637,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/kak-my-organizuem-rabotu-s-prachechnymi/"}}
+title: 'За кулисами ButlerSPB: Как мы организуем работу с прачечными'
+description: >-
+  В этой статье мы приоткроем завесу тайны и расскажем, как в ButlerSPB
+  выстроена работа с прачечными-партнерами. Узнайте о наших строгих критериях
+  отбора, многоступенчатой системе контроля качества и отлаженной логистике,
+  которые позволяют нам гарантировать безупречную чистоту и своевременную
+  доставку ваших вещей.
+pubDate: '2025-07-22T11:11:31.903Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'За кулисами ButlerSPB: Как мы организуем работу с прачечными'
+  description: >-
+    В этой статье мы приоткроем завесу тайны и расскажем, как в ButlerSPB
+    выстроена работа с прачечными-партнерами. Узнайте о наших строгих критериях
+    отбора, многоступенчатой системе контроля качества и отлаженной логистике,
+    которые позволяют нам гарантировать безупречную чистоту и своевременную
+    доставку ваших вещей.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.8'
+    reviewCount: 537
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/kak-my-organizuem-rabotu-s-prachechnymi/
 ---
 
 # Больше чем стирка: Как мы построили систему работы с прачечными, которая экономит ваши нервы и деньги

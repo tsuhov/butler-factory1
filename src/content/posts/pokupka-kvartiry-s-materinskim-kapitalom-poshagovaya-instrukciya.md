@@ -1,10 +1,45 @@
 ---
-title: "Покупка квартиры с материнским капиталом: пошаговая инструкция от ButlerSPB"
-description: "Материнский капитал — отличная возможность улучшить жилищные условия. Но как правильно им распорядиться при покупке квартиры? В нашей новой статье от ButlerSPB вы найдете подробную пошаговую инструкцию: от получения сертификата до регистрации права собственности. Разбираем все нюансы, чтобы ваша сделка прошла гладко и безопасно."
-pubDate: "2025-07-23T11:34:30.892Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Покупка квартиры с материнским капиталом: пошаговая инструкция от ButlerSPB","description":"Материнский капитал — отличная возможность улучшить жилищные условия. Но как правильно им распорядиться при покупке квартиры? В нашей новой статье от ButlerSPB вы найдете подробную пошаговую инструкцию: от получения сертификата до регистрации права собственности. Разбираем все нюансы, чтобы ваша сделка прошла гладко и безопасно.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.8","reviewCount":723,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/pokupka-kvartiry-s-materinskim-kapitalom-poshagovaya-instrukciya/"}}
+title: 'Покупка квартиры с материнским капиталом: пошаговая инструкция от ButlerSPB'
+description: >-
+  Материнский капитал — отличная возможность улучшить жилищные условия. Но как
+  правильно им распорядиться при покупке квартиры? В нашей новой статье от
+  ButlerSPB вы найдете подробную пошаговую инструкцию: от получения сертификата
+  до регистрации права собственности. Разбираем все нюансы, чтобы ваша сделка
+  прошла гладко и безопасно.
+pubDate: '2025-07-23T11:34:30.892Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Покупка квартиры с материнским капиталом: пошаговая инструкция от ButlerSPB'
+  description: >-
+    Материнский капитал — отличная возможность улучшить жилищные условия. Но как
+    правильно им распорядиться при покупке квартиры? В нашей новой статье от
+    ButlerSPB вы найдете подробную пошаговую инструкцию: от получения
+    сертификата до регистрации права собственности. Разбираем все нюансы, чтобы
+    ваша сделка прошла гладко и безопасно.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.7'
+    reviewCount: 736
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/pokupka-kvartiry-s-materinskim-kapitalom-poshagovaya-instrukciya/
 ---
 
 # Покупка квартиры с материнским капиталом: полная пошаговая инструкция 2024

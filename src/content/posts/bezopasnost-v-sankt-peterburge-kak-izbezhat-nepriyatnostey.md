@@ -1,10 +1,50 @@
 ---
-title: "Безопасность в Санкт-Петербурге: как избежать неприятностей и наслаждаться городом на все 100%"
-description: "Команда ButlerSPB хочет, чтобы ваше пребывание в Северной столице было исключительно приятным. Мы подготовили гид по основным правилам безопасности: как уберечься от карманников в туристических местах, распознать популярные схемы мошенничества и безопасно передвигаться по городу днем и ночью. Наши советы помогут вам наслаждаться красотой Петербурга без лишних волнений."
-pubDate: "2025-07-22T11:45:06.503Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Безопасность в Санкт-Петербурге: как избежать неприятностей и наслаждаться городом на все 100%","description":"Команда ButlerSPB хочет, чтобы ваше пребывание в Северной столице было исключительно приятным. Мы подготовили гид по основным правилам безопасности: как уберечься от карманников в туристических местах, распознать популярные схемы мошенничества и безопасно передвигаться по городу днем и ночью. Наши советы помогут вам наслаждаться красотой Петербурга без лишних волнений.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":333,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/bezopasnost-v-sankt-peterburge-kak-izbezhat-nepriyatnostey/"}}
+title: >-
+  Безопасность в Санкт-Петербурге: как избежать неприятностей и наслаждаться
+  городом на все 100%
+description: >-
+  Команда ButlerSPB хочет, чтобы ваше пребывание в Северной столице было
+  исключительно приятным. Мы подготовили гид по основным правилам безопасности:
+  как уберечься от карманников в туристических местах, распознать популярные
+  схемы мошенничества и безопасно передвигаться по городу днем и ночью. Наши
+  советы помогут вам наслаждаться красотой Петербурга без лишних волнений.
+pubDate: '2025-07-22T11:45:06.503Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: >-
+    Безопасность в Санкт-Петербурге: как избежать неприятностей и наслаждаться
+    городом на все 100%
+  description: >-
+    Команда ButlerSPB хочет, чтобы ваше пребывание в Северной столице было
+    исключительно приятным. Мы подготовили гид по основным правилам
+    безопасности: как уберечься от карманников в туристических местах,
+    распознать популярные схемы мошенничества и безопасно передвигаться по
+    городу днем и ночью. Наши советы помогут вам наслаждаться красотой
+    Петербурга без лишних волнений.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '5.0'
+    reviewCount: 624
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/bezopasnost-v-sankt-peterburge-kak-izbezhat-nepriyatnostey/
 ---
 
 # Безопасность в Санкт-Петербурге: Как наслаждаться городом и избежать неприятностей

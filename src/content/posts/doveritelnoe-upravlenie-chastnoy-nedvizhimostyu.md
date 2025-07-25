@@ -1,10 +1,49 @@
 ---
-title: "Доверительное управление недвижимостью: как получать пассивный доход без хлопот. Гайд от ButlerSPB"
-description: "Владеете квартирой, но нет времени или желания заниматься ее сдачей в аренду? Узнайте, как доверительное управление от ButlerSPB превращает вашу недвижимость в стабильный источник пассивного дохода. В статье разбираем все этапы: от поиска и заселения жильцов до решения юридических и бытовых вопросов. Превратите свои квадратные метры в актив, который работает на вас."
-pubDate: "2025-07-22T00:32:31.458Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Доверительное управление недвижимостью: как получать пассивный доход без хлопот. Гайд от ButlerSPB","description":"Владеете квартирой, но нет времени или желания заниматься ее сдачей в аренду? Узнайте, как доверительное управление от ButlerSPB превращает вашу недвижимость в стабильный источник пассивного дохода. В статье разбираем все этапы: от поиска и заселения жильцов до решения юридических и бытовых вопросов. Превратите свои квадратные метры в актив, который работает на вас.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":404,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/doveritelnoe-upravlenie-chastnoy-nedvizhimostyu/"}}
+title: >-
+  Доверительное управление недвижимостью: как получать пассивный доход без
+  хлопот. Гайд от ButlerSPB
+description: >-
+  Владеете квартирой, но нет времени или желания заниматься ее сдачей в аренду?
+  Узнайте, как доверительное управление от ButlerSPB превращает вашу
+  недвижимость в стабильный источник пассивного дохода. В статье разбираем все
+  этапы: от поиска и заселения жильцов до решения юридических и бытовых
+  вопросов. Превратите свои квадратные метры в актив, который работает на вас.
+pubDate: '2025-07-22T00:32:31.458Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: >-
+    Доверительное управление недвижимостью: как получать пассивный доход без
+    хлопот. Гайд от ButlerSPB
+  description: >-
+    Владеете квартирой, но нет времени или желания заниматься ее сдачей в
+    аренду? Узнайте, как доверительное управление от ButlerSPB превращает вашу
+    недвижимость в стабильный источник пассивного дохода. В статье разбираем все
+    этапы: от поиска и заселения жильцов до решения юридических и бытовых
+    вопросов. Превратите свои квадратные метры в актив, который работает на вас.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '5.0'
+    reviewCount: 700
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/doveritelnoe-upravlenie-chastnoy-nedvizhimostyu/
 ---
 
 # Доверительное управление частной недвижимостью: Гарантия вашего спокойствия и дохода в Санкт-Петербурге

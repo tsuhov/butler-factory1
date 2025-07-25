@@ -1,11 +1,40 @@
 ---
-title: "Страхование объекта: как защитить имущество"
-description: "Страхование недвижимости — ключевой шаг для защиты ваших инвестиций. Узнайте, какие риски покрывает полис, как выбрать компанию и правильно оформить договор."
-keywords: "страхование недвижимости, защита имущества, страховой полис, страховые риски, ButlerSPB, недвижимость СПб"
-pubDate: "2025-07-25T15:43:39.293Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Страхование объекта: как защитить имущество","description":"Страхование недвижимости — ключевой шаг для защиты ваших инвестиций. Узнайте, какие риски покрывает полис, как выбрать компанию и правильно оформить договор.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":542,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/strahovanie-obekta/"}}
+title: 'Страхование объекта: как защитить имущество'
+description: >-
+  Страхование недвижимости — ключевой шаг для защиты ваших инвестиций. Узнайте,
+  какие риски покрывает полис, как выбрать компанию и правильно оформить
+  договор.
+pubDate: '2025-07-25T15:43:39.293Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Страхование объекта: как защитить имущество'
+  description: >-
+    Страхование недвижимости — ключевой шаг для защиты ваших инвестиций.
+    Узнайте, какие риски покрывает полис, как выбрать компанию и правильно
+    оформить договор.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.9'
+    reviewCount: 856
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': 'https://butlerspb-blog.netlify.app/blog/strahovanie-obekta/'
 ---
 # Страхование объекта недвижимости: Полный гид по защите вашей собственности в Петербурге
 

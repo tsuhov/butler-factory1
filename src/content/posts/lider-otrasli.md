@@ -1,11 +1,39 @@
 ---
-title: "Статус лидера отрасли: Путь компании ButlerSPB"
-description: "В новой статье блога ButlerSPB мы делимся ключевыми стратегиями и принципами, которые помогли нам занять ведущие позиции. Узнайте, что нужно для успеха."
-keywords: "лидер отрасли, ButlerSPB, стратегия бизнеса, успех в бизнесе, конкурентное преимущество, развитие компании, инновации"
-pubDate: "2025-07-24T21:37:55.223Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Статус лидера отрасли: Путь компании ButlerSPB","description":"В новой статье блога ButlerSPB мы делимся ключевыми стратегиями и принципами, которые помогли нам занять ведущие позиции. Узнайте, что нужно для успеха.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.7","reviewCount":351,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/lider-otrasli/"}}
+title: 'Статус лидера отрасли: Путь компании ButlerSPB'
+description: >-
+  В новой статье блога ButlerSPB мы делимся ключевыми стратегиями и принципами,
+  которые помогли нам занять ведущие позиции. Узнайте, что нужно для успеха.
+pubDate: '2025-07-24T21:37:55.223Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Статус лидера отрасли: Путь компании ButlerSPB'
+  description: >-
+    В новой статье блога ButlerSPB мы делимся ключевыми стратегиями и
+    принципами, которые помогли нам занять ведущие позиции. Узнайте, что нужно
+    для успеха.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.8'
+    reviewCount: 794
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': 'https://butlerspb-blog.netlify.app/blog/lider-otrasli/'
 ---
 # Как стать лидером отрасли: комплексная стратегия для амбициозного бизнеса
 

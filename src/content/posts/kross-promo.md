@@ -1,11 +1,39 @@
 ---
-title: "Кросс-промо от ButlerSPB: увеличиваем охват"
-description: "Узнайте, как кросс-промо помогает расширить клиентскую базу без больших бюджетов. ButlerSPB делится секретами успешного партнерства и взаимного пиара."
-keywords: "кросс-промо, партнерский маркетинг, коллаборация, взаимный пиар, продвижение бизнеса, привлечение клиентов"
-pubDate: "2025-07-25T16:13:13.575Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Кросс-промо от ButlerSPB: увеличиваем охват","description":"Узнайте, как кросс-промо помогает расширить клиентскую базу без больших бюджетов. ButlerSPB делится секретами успешного партнерства и взаимного пиара.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":719,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/kross-promo/"}}
+title: 'Кросс-промо от ButlerSPB: увеличиваем охват'
+description: >-
+  Узнайте, как кросс-промо помогает расширить клиентскую базу без больших
+  бюджетов. ButlerSPB делится секретами успешного партнерства и взаимного пиара.
+pubDate: '2025-07-25T16:13:13.575Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Кросс-промо от ButlerSPB: увеличиваем охват'
+  description: >-
+    Узнайте, как кросс-промо помогает расширить клиентскую базу без больших
+    бюджетов. ButlerSPB делится секретами успешного партнерства и взаимного
+    пиара.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.9'
+    reviewCount: 386
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': 'https://butlerspb-blog.netlify.app/blog/kross-promo/'
 ---
 # Кросс-промо: Как найти партнеров и привлечь новых клиентов, не раздувая бюджет
 

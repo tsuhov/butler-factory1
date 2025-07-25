@@ -1,11 +1,40 @@
 ---
-title: "Регулярные платежи: автоматизация и удобство"
-description: "Узнайте, как регулярные платежи упрощают управление финансами. Автоматизируйте оплату счетов, подписок и услуг с ButlerSPB для экономии времени и контроля расходов."
-keywords: "регулярные платежи, автоплатеж, рекуррентные платежи, автоматизация оплат, управление финансами, ButlerSPB"
-pubDate: "2025-07-25T16:31:39.378Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Регулярные платежи: автоматизация и удобство","description":"Узнайте, как регулярные платежи упрощают управление финансами. Автоматизируйте оплату счетов, подписок и услуг с ButlerSPB для экономии времени и контроля расходов.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":421,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/regulyarnye-platezhi/"}}
+title: 'Регулярные платежи: автоматизация и удобство'
+description: >-
+  Узнайте, как регулярные платежи упрощают управление финансами. Автоматизируйте
+  оплату счетов, подписок и услуг с ButlerSPB для экономии времени и контроля
+  расходов.
+pubDate: '2025-07-25T16:31:39.378Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Регулярные платежи: автоматизация и удобство'
+  description: >-
+    Узнайте, как регулярные платежи упрощают управление финансами.
+    Автоматизируйте оплату счетов, подписок и услуг с ButlerSPB для экономии
+    времени и контроля расходов.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.9'
+    reviewCount: 486
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': 'https://butlerspb-blog.netlify.app/blog/regulyarnye-platezhi/'
 ---
 # Регулярные платежи: полный гид по автосписаниям для бизнеса и частных лиц
 

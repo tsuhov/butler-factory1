@@ -1,10 +1,45 @@
 ---
-title: "Аренда квартиры под фотостудию: требования к помещению"
-description: "Планируете превратить арендованную квартиру в фотостудию? Команда ButlerSPB рассказывает, на что обратить внимание при выборе объекта: от высоты потолков и естественного освещения до мощности электросети и возможностей для зонирования. Наш гайд поможет найти идеальное пространство для ваших творческих проектов."
-pubDate: "2025-07-23T12:02:05.295Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Аренда квартиры под фотостудию: требования к помещению","description":"Планируете превратить арендованную квартиру в фотостудию? Команда ButlerSPB рассказывает, на что обратить внимание при выборе объекта: от высоты потолков и естественного освещения до мощности электросети и возможностей для зонирования. Наш гайд поможет найти идеальное пространство для ваших творческих проектов.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.7","reviewCount":440,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/arenda-kvartiry-pod-fotostudiyu-trebovaniya-k-pomescheniyu/"}}
+title: 'Аренда квартиры под фотостудию: требования к помещению'
+description: >-
+  Планируете превратить арендованную квартиру в фотостудию? Команда ButlerSPB
+  рассказывает, на что обратить внимание при выборе объекта: от высоты потолков
+  и естественного освещения до мощности электросети и возможностей для
+  зонирования. Наш гайд поможет найти идеальное пространство для ваших
+  творческих проектов.
+pubDate: '2025-07-23T12:02:05.295Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Аренда квартиры под фотостудию: требования к помещению'
+  description: >-
+    Планируете превратить арендованную квартиру в фотостудию? Команда ButlerSPB
+    рассказывает, на что обратить внимание при выборе объекта: от высоты
+    потолков и естественного освещения до мощности электросети и возможностей
+    для зонирования. Наш гайд поможет найти идеальное пространство для ваших
+    творческих проектов.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.8'
+    reviewCount: 602
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/arenda-kvartiry-pod-fotostudiyu-trebovaniya-k-pomescheniyu/
 ---
 
 # Аренда квартиры под фотостудию: Полный гайд по требованиям к помещению в СПб

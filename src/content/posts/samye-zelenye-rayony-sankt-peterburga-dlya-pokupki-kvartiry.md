@@ -1,10 +1,49 @@
 ---
-title: "Самые зеленые районы Санкт-Петербурга для покупки квартиры: рейтинг от ButlerSPB"
-description: "Устали от городского шума и серого асфальта? Мечтаете жить в Петербурге, но при этом наслаждаться природой? Команда ButlerSPB подготовила для вас обзор самых зеленых районов города, где парки и скверы находятся в шаговой доступности. Рассказываем, где искать идеальную квартиру рядом с природой и на что обратить внимание при выборе."
-pubDate: "2025-07-23T11:12:06.858Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Самые зеленые районы Санкт-Петербурга для покупки квартиры: рейтинг от ButlerSPB","description":"Устали от городского шума и серого асфальта? Мечтаете жить в Петербурге, но при этом наслаждаться природой? Команда ButlerSPB подготовила для вас обзор самых зеленых районов города, где парки и скверы находятся в шаговой доступности. Рассказываем, где искать идеальную квартиру рядом с природой и на что обратить внимание при выборе.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.8","reviewCount":413,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/samye-zelenye-rayony-sankt-peterburga-dlya-pokupki-kvartiry/"}}
+title: >-
+  Самые зеленые районы Санкт-Петербурга для покупки квартиры: рейтинг от
+  ButlerSPB
+description: >-
+  Устали от городского шума и серого асфальта? Мечтаете жить в Петербурге, но
+  при этом наслаждаться природой? Команда ButlerSPB подготовила для вас обзор
+  самых зеленых районов города, где парки и скверы находятся в шаговой
+  доступности. Рассказываем, где искать идеальную квартиру рядом с природой и на
+  что обратить внимание при выборе.
+pubDate: '2025-07-23T11:12:06.858Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: >-
+    Самые зеленые районы Санкт-Петербурга для покупки квартиры: рейтинг от
+    ButlerSPB
+  description: >-
+    Устали от городского шума и серого асфальта? Мечтаете жить в Петербурге, но
+    при этом наслаждаться природой? Команда ButlerSPB подготовила для вас обзор
+    самых зеленых районов города, где парки и скверы находятся в шаговой
+    доступности. Рассказываем, где искать идеальную квартиру рядом с природой и
+    на что обратить внимание при выборе.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '5.0'
+    reviewCount: 455
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/samye-zelenye-rayony-sankt-peterburga-dlya-pokupki-kvartiry/
 ---
 
 # Самые зеленые районы Санкт-Петербурга: где купить квартиру для комфортной жизни

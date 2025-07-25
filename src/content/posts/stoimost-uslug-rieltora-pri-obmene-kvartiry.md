@@ -1,10 +1,46 @@
 ---
-title: "Стоимость услуг риэлтора при обмене квартиры: полный разбор от ButlerSPB"
-description: "Планируете обмен квартиры и интересуетесь, во сколько обойдутся услуги риэлтора? В нашей новой статье подробно разбираем, из чего складывается комиссия специалиста при проведении альтернативной сделки. Рассказываем, какие факторы влияют на цену, что входит в стандартный пакет услуг и как прозрачно формируется итоговая стоимость работы с агентством недвижимости ButlerSPB."
-pubDate: "2025-07-23T11:47:29.223Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Стоимость услуг риэлтора при обмене квартиры: полный разбор от ButlerSPB","description":"Планируете обмен квартиры и интересуетесь, во сколько обойдутся услуги риэлтора? В нашей новой статье подробно разбираем, из чего складывается комиссия специалиста при проведении альтернативной сделки. Рассказываем, какие факторы влияют на цену, что входит в стандартный пакет услуг и как прозрачно формируется итоговая стоимость работы с агентством недвижимости ButlerSPB.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":762,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/stoimost-uslug-rieltora-pri-obmene-kvartiry/"}}
+title: 'Стоимость услуг риэлтора при обмене квартиры: полный разбор от ButlerSPB'
+description: >-
+  Планируете обмен квартиры и интересуетесь, во сколько обойдутся услуги
+  риэлтора? В нашей новой статье подробно разбираем, из чего складывается
+  комиссия специалиста при проведении альтернативной сделки. Рассказываем, какие
+  факторы влияют на цену, что входит в стандартный пакет услуг и как прозрачно
+  формируется итоговая стоимость работы с агентством недвижимости ButlerSPB.
+pubDate: '2025-07-23T11:47:29.223Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Стоимость услуг риэлтора при обмене квартиры: полный разбор от ButlerSPB'
+  description: >-
+    Планируете обмен квартиры и интересуетесь, во сколько обойдутся услуги
+    риэлтора? В нашей новой статье подробно разбираем, из чего складывается
+    комиссия специалиста при проведении альтернативной сделки. Рассказываем,
+    какие факторы влияют на цену, что входит в стандартный пакет услуг и как
+    прозрачно формируется итоговая стоимость работы с агентством недвижимости
+    ButlerSPB.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.9'
+    reviewCount: 646
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/stoimost-uslug-rieltora-pri-obmene-kvartiry/
 ---
 
 # Обмен квартиры: из чего складывается стоимость услуг риэлтора? Объясняют эксперты ButlerSPB

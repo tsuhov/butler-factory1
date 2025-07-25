@@ -1,10 +1,45 @@
 ---
-title: "Ремонт в квартире старого фонда: замена электрики и сантехники"
-description: "Капитальный ремонт в старом фонде — это всегда вызов, особенно когда речь заходит о замене инженерных сетей. В новой статье блога ButlerSPB разбираем ключевые этапы и скрытые риски при замене электрики и сантехники в петербургских квартирах. Узнайте, как избежать типичных ошибок, обеспечить безопасность и создать надежную основу для будущего комфорта в вашем доме."
-pubDate: "2025-07-23T22:13:57.628Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Ремонт в квартире старого фонда: замена электрики и сантехники","description":"Капитальный ремонт в старом фонде — это всегда вызов, особенно когда речь заходит о замене инженерных сетей. В новой статье блога ButlerSPB разбираем ключевые этапы и скрытые риски при замене электрики и сантехники в петербургских квартирах. Узнайте, как избежать типичных ошибок, обеспечить безопасность и создать надежную основу для будущего комфорта в вашем доме.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.8","reviewCount":312,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/remont-v-kvartire-starogo-fonda-zamena-elektriki-i-santehniki/"}}
+title: 'Ремонт в квартире старого фонда: замена электрики и сантехники'
+description: >-
+  Капитальный ремонт в старом фонде — это всегда вызов, особенно когда речь
+  заходит о замене инженерных сетей. В новой статье блога ButlerSPB разбираем
+  ключевые этапы и скрытые риски при замене электрики и сантехники в
+  петербургских квартирах. Узнайте, как избежать типичных ошибок, обеспечить
+  безопасность и создать надежную основу для будущего комфорта в вашем доме.
+pubDate: '2025-07-23T22:13:57.628Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Ремонт в квартире старого фонда: замена электрики и сантехники'
+  description: >-
+    Капитальный ремонт в старом фонде — это всегда вызов, особенно когда речь
+    заходит о замене инженерных сетей. В новой статье блога ButlerSPB разбираем
+    ключевые этапы и скрытые риски при замене электрики и сантехники в
+    петербургских квартирах. Узнайте, как избежать типичных ошибок, обеспечить
+    безопасность и создать надежную основу для будущего комфорта в вашем доме.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.9'
+    reviewCount: 588
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/remont-v-kvartire-starogo-fonda-zamena-elektriki-i-santehniki/
 ---
 
 # Ремонт в квартире старого фонда: полное руководство по замене электрики и сантехники

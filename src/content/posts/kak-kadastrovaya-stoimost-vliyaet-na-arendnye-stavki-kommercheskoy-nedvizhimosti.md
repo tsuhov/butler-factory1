@@ -1,10 +1,47 @@
 ---
-title: "Кадастровая стоимость и аренда коммерческой недвижимости: прямая зависимость"
-description: "Многие собственники и арендаторы не видят прямой связи между кадастровой стоимостью и арендной ставкой. Однако эта связь существует и напрямую влияет на финансовые потоки бизнеса. В новой статье блога ButlerSPB мы разбираем, как кадастровая стоимость формирует налоговую базу собственника, как эти налоги закладываются в арендную плату и что нужно знать обеим сторонам для выгодного сотрудничества."
-pubDate: "2025-07-23T12:11:15.728Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Кадастровая стоимость и аренда коммерческой недвижимости: прямая зависимость","description":"Многие собственники и арендаторы не видят прямой связи между кадастровой стоимостью и арендной ставкой. Однако эта связь существует и напрямую влияет на финансовые потоки бизнеса. В новой статье блога ButlerSPB мы разбираем, как кадастровая стоимость формирует налоговую базу собственника, как эти налоги закладываются в арендную плату и что нужно знать обеим сторонам для выгодного сотрудничества.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.8","reviewCount":363,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/kak-kadastrovaya-stoimost-vliyaet-na-arendnye-stavki-kommercheskoy-nedvizhimosti/"}}
+title: 'Кадастровая стоимость и аренда коммерческой недвижимости: прямая зависимость'
+description: >-
+  Многие собственники и арендаторы не видят прямой связи между кадастровой
+  стоимостью и арендной ставкой. Однако эта связь существует и напрямую влияет
+  на финансовые потоки бизнеса. В новой статье блога ButlerSPB мы разбираем, как
+  кадастровая стоимость формирует налоговую базу собственника, как эти налоги
+  закладываются в арендную плату и что нужно знать обеим сторонам для выгодного
+  сотрудничества.
+pubDate: '2025-07-23T12:11:15.728Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Кадастровая стоимость и аренда коммерческой недвижимости: прямая зависимость'
+  description: >-
+    Многие собственники и арендаторы не видят прямой связи между кадастровой
+    стоимостью и арендной ставкой. Однако эта связь существует и напрямую влияет
+    на финансовые потоки бизнеса. В новой статье блога ButlerSPB мы разбираем,
+    как кадастровая стоимость формирует налоговую базу собственника, как эти
+    налоги закладываются в арендную плату и что нужно знать обеим сторонам для
+    выгодного сотрудничества.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.8'
+    reviewCount: 558
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/kak-kadastrovaya-stoimost-vliyaet-na-arendnye-stavki-kommercheskoy-nedvizhimosti/
 ---
 
 # Кадастровая стоимость и аренда: Скрытый рычаг, который управляет вашими расходами

@@ -1,10 +1,51 @@
 ---
-title: "Сопровождение продажи квартиры риэлтором в СПб: Полное руководство от ButlerSPB"
-description: "Планируете продать квартиру в Санкт-Петербурге? В этой статье эксперты ButlerSPB подробно разбирают все этапы сопровождения сделки: от правильной оценки объекта и предпродажной подготовки до ведения переговоров и безопасного проведения расчетов. Узнайте, как профессиональный риэлтор поможет сэкономить ваше время, продать недвижимость по максимальной рыночной цене и избежать юридических рисков."
-pubDate: "2025-07-21T23:03:05.991Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Сопровождение продажи квартиры риэлтором в СПб: Полное руководство от ButlerSPB","description":"Планируете продать квартиру в Санкт-Петербурге? В этой статье эксперты ButlerSPB подробно разбирают все этапы сопровождения сделки: от правильной оценки объекта и предпродажной подготовки до ведения переговоров и безопасного проведения расчетов. Узнайте, как профессиональный риэлтор поможет сэкономить ваше время, продать недвижимость по максимальной рыночной цене и избежать юридических рисков.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":513,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/soprovozhdenie-prodazhi-kvartiry-rieltorom-v-spb/"}}
+title: >-
+  Сопровождение продажи квартиры риэлтором в СПб: Полное руководство от
+  ButlerSPB
+description: >-
+  Планируете продать квартиру в Санкт-Петербурге? В этой статье эксперты
+  ButlerSPB подробно разбирают все этапы сопровождения сделки: от правильной
+  оценки объекта и предпродажной подготовки до ведения переговоров и безопасного
+  проведения расчетов. Узнайте, как профессиональный риэлтор поможет сэкономить
+  ваше время, продать недвижимость по максимальной рыночной цене и избежать
+  юридических рисков.
+pubDate: '2025-07-21T23:03:05.991Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: >-
+    Сопровождение продажи квартиры риэлтором в СПб: Полное руководство от
+    ButlerSPB
+  description: >-
+    Планируете продать квартиру в Санкт-Петербурге? В этой статье эксперты
+    ButlerSPB подробно разбирают все этапы сопровождения сделки: от правильной
+    оценки объекта и предпродажной подготовки до ведения переговоров и
+    безопасного проведения расчетов. Узнайте, как профессиональный риэлтор
+    поможет сэкономить ваше время, продать недвижимость по максимальной рыночной
+    цене и избежать юридических рисков.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '5.0'
+    reviewCount: 447
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/soprovozhdenie-prodazhi-kvartiry-rieltorom-v-spb/
 ---
 
 # Как продать квартиру в СПб выгодно и безопасно: Полное руководство по сопровождению сделки от А до Я

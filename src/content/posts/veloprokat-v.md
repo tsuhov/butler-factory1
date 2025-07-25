@@ -1,11 +1,39 @@
 ---
-title: "Велопрокат в Петербурге от ButlerSPB: гид"
-description: "Ищете велопрокат в СПб? Наш гид от ButlerSPB поможет выбрать лучший велосипед, расскажет о тарифах и предложит самые живописные маршруты для вашей прогулки."
-keywords: "велопрокат спб, аренда велосипеда, прокат велосипедов петербург, butlerspb, велопрогулка, велосипедные маршруты"
-pubDate: "2025-07-25T15:56:51.783Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Велопрокат в Петербурге от ButlerSPB: гид","description":"Ищете велопрокат в СПб? Наш гид от ButlerSPB поможет выбрать лучший велосипед, расскажет о тарифах и предложит самые живописные маршруты для вашей прогулки.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"5.0","reviewCount":550,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/veloprokat-v/"}}
+title: 'Велопрокат в Петербурге от ButlerSPB: гид'
+description: >-
+  Ищете велопрокат в СПб? Наш гид от ButlerSPB поможет выбрать лучший велосипед,
+  расскажет о тарифах и предложит самые живописные маршруты для вашей прогулки.
+pubDate: '2025-07-25T15:56:51.783Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Велопрокат в Петербурге от ButlerSPB: гид'
+  description: >-
+    Ищете велопрокат в СПб? Наш гид от ButlerSPB поможет выбрать лучший
+    велосипед, расскажет о тарифах и предложит самые живописные маршруты для
+    вашей прогулки.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.8'
+    reviewCount: 506
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': 'https://butlerspb-blog.netlify.app/blog/veloprokat-v/'
 ---
 # Ваш идеальный день на велосипеде: Полный гид по велопрокату в Санкт-Петербурге
 

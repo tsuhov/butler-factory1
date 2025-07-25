@@ -1,10 +1,49 @@
 ---
-title: "Как выбрать управляющую компанию для посуточной сдачи квартиры в СПб: гид для собственника от ButlerSPB"
-description: "Передача квартиры в управление для посуточной аренды — серьезный шаг. В нашей новой статье мы подробно разбираем ключевые критерии выбора надежного партнера в Санкт-Петербурге: от размера комиссии и прозрачности отчетов до качества уборки и работы с отзывами. Узнайте, на что обратить внимание, чтобы ваша недвижимость приносила максимальный доход без лишних хлопот."
-pubDate: "2025-07-22T16:20:53.871Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Как выбрать управляющую компанию для посуточной сдачи квартиры в СПб: гид для собственника от ButlerSPB","description":"Передача квартиры в управление для посуточной аренды — серьезный шаг. В нашей новой статье мы подробно разбираем ключевые критерии выбора надежного партнера в Санкт-Петербурге: от размера комиссии и прозрачности отчетов до качества уборки и работы с отзывами. Узнайте, на что обратить внимание, чтобы ваша недвижимость приносила максимальный доход без лишних хлопот.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.7","reviewCount":892,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/kak-vybrat-upravlyayuschuyu-kompaniyu-dlya-posutochnoy-sdachi-kvartiry-v-spb/"}}
+title: >-
+  Как выбрать управляющую компанию для посуточной сдачи квартиры в СПб: гид для
+  собственника от ButlerSPB
+description: >-
+  Передача квартиры в управление для посуточной аренды — серьезный шаг. В нашей
+  новой статье мы подробно разбираем ключевые критерии выбора надежного партнера
+  в Санкт-Петербурге: от размера комиссии и прозрачности отчетов до качества
+  уборки и работы с отзывами. Узнайте, на что обратить внимание, чтобы ваша
+  недвижимость приносила максимальный доход без лишних хлопот.
+pubDate: '2025-07-22T16:20:53.871Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: >-
+    Как выбрать управляющую компанию для посуточной сдачи квартиры в СПб: гид
+    для собственника от ButlerSPB
+  description: >-
+    Передача квартиры в управление для посуточной аренды — серьезный шаг. В
+    нашей новой статье мы подробно разбираем ключевые критерии выбора надежного
+    партнера в Санкт-Петербурге: от размера комиссии и прозрачности отчетов до
+    качества уборки и работы с отзывами. Узнайте, на что обратить внимание,
+    чтобы ваша недвижимость приносила максимальный доход без лишних хлопот.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.8'
+    reviewCount: 572
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/kak-vybrat-upravlyayuschuyu-kompaniyu-dlya-posutochnoy-sdachi-kvartiry-v-spb/
 ---
 
 # Как выбрать управляющую компанию для посуточной сдачи квартиры в СПб: Полное руководство для собственника

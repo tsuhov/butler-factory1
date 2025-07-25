@@ -1,10 +1,47 @@
 ---
-title: "Межевание земельного участка: когда это обязательно и почему это важно"
-description: "Планируете купить, продать, разделить или построить дом на земельном участке? В новой статье для блога ButlerSPB разбираемся, в каких ситуациях закон требует обязательного межевания, а когда эта процедура — залог вашего спокойствия и безопасности. Узнайте, как установить точные границы своей собственности, избежать споров с соседями и без проблем совершать любые сделки с недвижимостью."
-pubDate: "2025-07-23T12:06:54.603Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Межевание земельного участка: когда это обязательно и почему это важно","description":"Планируете купить, продать, разделить или построить дом на земельном участке? В новой статье для блога ButlerSPB разбираемся, в каких ситуациях закон требует обязательного межевания, а когда эта процедура — залог вашего спокойствия и безопасности. Узнайте, как установить точные границы своей собственности, избежать споров с соседями и без проблем совершать любые сделки с недвижимостью.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"5.0","reviewCount":637,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/mezhevanie-zemelnogo-uchastka-kogda-eto-obyazatelno/"}}
+title: 'Межевание земельного участка: когда это обязательно и почему это важно'
+description: >-
+  Планируете купить, продать, разделить или построить дом на земельном участке?
+  В новой статье для блога ButlerSPB разбираемся, в каких ситуациях закон
+  требует обязательного межевания, а когда эта процедура — залог вашего
+  спокойствия и безопасности. Узнайте, как установить точные границы своей
+  собственности, избежать споров с соседями и без проблем совершать любые сделки
+  с недвижимостью.
+pubDate: '2025-07-23T12:06:54.603Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Межевание земельного участка: когда это обязательно и почему это важно'
+  description: >-
+    Планируете купить, продать, разделить или построить дом на земельном
+    участке? В новой статье для блога ButlerSPB разбираемся, в каких ситуациях
+    закон требует обязательного межевания, а когда эта процедура — залог вашего
+    спокойствия и безопасности. Узнайте, как установить точные границы своей
+    собственности, избежать споров с соседями и без проблем совершать любые
+    сделки с недвижимостью.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.9'
+    reviewCount: 764
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/mezhevanie-zemelnogo-uchastka-kogda-eto-obyazatelno/
 ---
 
 # Межевание земельного участка: когда это действительно обязательно?

@@ -1,11 +1,40 @@
 ---
-title: "Аванс при заказе услуг: гарантия и риски"
-description: "Разбираемся, зачем компании просят аванс при заказе услуг. В статье мы расскажем, как авансовый платеж страхует исполнителя и какие гарантии он дает клиенту."
-keywords: "аванс, предоплата, задаток, договор на оказание услуг, гарантии для клиента, риски, оплата услуг"
-pubDate: "2025-07-25T16:38:07.199Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Аванс при заказе услуг: гарантия и риски","description":"Разбираемся, зачем компании просят аванс при заказе услуг. В статье мы расскажем, как авансовый платеж страхует исполнителя и какие гарантии он дает клиенту.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"5.0","reviewCount":891,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/avans-pri/"}}
+title: 'Аванс при заказе услуг: гарантия и риски'
+description: >-
+  Разбираемся, зачем компании просят аванс при заказе услуг. В статье мы
+  расскажем, как авансовый платеж страхует исполнителя и какие гарантии он дает
+  клиенту.
+pubDate: '2025-07-25T16:38:07.199Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Аванс при заказе услуг: гарантия и риски'
+  description: >-
+    Разбираемся, зачем компании просят аванс при заказе услуг. В статье мы
+    расскажем, как авансовый платеж страхует исполнителя и какие гарантии он
+    дает клиенту.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '5.0'
+    reviewCount: 654
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': 'https://butlerspb-blog.netlify.app/blog/avans-pri/'
 ---
 # Аванс при покупке квартиры: полное руководство по безопасной сделке от экспертов ButlerSPB
 

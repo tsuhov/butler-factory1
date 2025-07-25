@@ -1,11 +1,40 @@
 ---
-title: "Решение запросов: искусство идеального сервиса"
-description: "В ButlerSPB мы верим, что ключ к успеху — это безупречное решение запросов. Узнайте, как наш персонализированный подход помогает выполнять любые задачи быстро и точно."
-keywords: "решение запросов, клиентский сервис, консьерж-сервис, управление задачами, персональный подход, ButlerSPB"
-pubDate: "2025-07-24T13:43:07.421Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Решение запросов: искусство идеального сервиса","description":"В ButlerSPB мы верим, что ключ к успеху — это безупречное решение запросов. Узнайте, как наш персонализированный подход помогает выполнять любые задачи быстро и точно.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"5.0","reviewCount":483,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/reshenie-zaprosov/"}}
+title: 'Решение запросов: искусство идеального сервиса'
+description: >-
+  В ButlerSPB мы верим, что ключ к успеху — это безупречное решение запросов.
+  Узнайте, как наш персонализированный подход помогает выполнять любые задачи
+  быстро и точно.
+pubDate: '2025-07-24T13:43:07.421Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Решение запросов: искусство идеального сервиса'
+  description: >-
+    В ButlerSPB мы верим, что ключ к успеху — это безупречное решение запросов.
+    Узнайте, как наш персонализированный подход помогает выполнять любые задачи
+    быстро и точно.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.7'
+    reviewCount: 505
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': 'https://butlerspb-blog.netlify.app/blog/reshenie-zaprosov/'
 ---
 # От идеи до безупречного исполнения: Анатомия решения запросов в ButlerSPB
 

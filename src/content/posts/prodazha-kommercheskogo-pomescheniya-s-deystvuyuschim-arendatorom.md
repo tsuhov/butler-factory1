@@ -1,10 +1,51 @@
 ---
-title: "Готовый арендный бизнес: как выгодно продать коммерческое помещение с действующим арендатором"
-description: "Продажа коммерческого помещения с арендатором — это не просто сделка с недвижимостью, а продажа готового бизнеса, приносящего стабильный доход. Для инвестора это привлекательная возможность получать прибыль с первого дня владения. В этой статье эксперты ButlerSPB разбирают ключевые преимущества, потенциальные риски и пошаговый алгоритм успешной продажи такого объекта: от правильной оценки до юридических тонкостей оформления договора."
-pubDate: "2025-07-23T10:46:10.747Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Готовый арендный бизнес: как выгодно продать коммерческое помещение с действующим арендатором","description":"Продажа коммерческого помещения с арендатором — это не просто сделка с недвижимостью, а продажа готового бизнеса, приносящего стабильный доход. Для инвестора это привлекательная возможность получать прибыль с первого дня владения. В этой статье эксперты ButlerSPB разбирают ключевые преимущества, потенциальные риски и пошаговый алгоритм успешной продажи такого объекта: от правильной оценки до юридических тонкостей оформления договора.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":339,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/prodazha-kommercheskogo-pomescheniya-s-deystvuyuschim-arendatorom/"}}
+title: >-
+  Готовый арендный бизнес: как выгодно продать коммерческое помещение с
+  действующим арендатором
+description: >-
+  Продажа коммерческого помещения с арендатором — это не просто сделка с
+  недвижимостью, а продажа готового бизнеса, приносящего стабильный доход. Для
+  инвестора это привлекательная возможность получать прибыль с первого дня
+  владения. В этой статье эксперты ButlerSPB разбирают ключевые преимущества,
+  потенциальные риски и пошаговый алгоритм успешной продажи такого объекта: от
+  правильной оценки до юридических тонкостей оформления договора.
+pubDate: '2025-07-23T10:46:10.747Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: >-
+    Готовый арендный бизнес: как выгодно продать коммерческое помещение с
+    действующим арендатором
+  description: >-
+    Продажа коммерческого помещения с арендатором — это не просто сделка с
+    недвижимостью, а продажа готового бизнеса, приносящего стабильный доход. Для
+    инвестора это привлекательная возможность получать прибыль с первого дня
+    владения. В этой статье эксперты ButlerSPB разбирают ключевые преимущества,
+    потенциальные риски и пошаговый алгоритм успешной продажи такого объекта: от
+    правильной оценки до юридических тонкостей оформления договора.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.7'
+    reviewCount: 344
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/prodazha-kommercheskogo-pomescheniya-s-deystvuyuschim-arendatorom/
 ---
 
 # Как выгодно продать коммерческое помещение с арендатором: Полное руководство от экспертов ButlerSPB

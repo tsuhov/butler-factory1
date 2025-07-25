@@ -1,11 +1,40 @@
 ---
-title: "Что такое кадастровая стоимость недвижимости?"
-description: "Кадастровая стоимость – это установленная государством цена недвижимости для расчета налогов. Узнайте, как она формируется, от чего зависит и как ее можно оспорить."
-keywords: "кадастровая стоимость, оценка недвижимости, налог на имущество, Росреестр, оспорить кадастровую стоимость, недвижимость, кадастровый номер"
-pubDate: "2025-07-25T14:35:25.165Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Что такое кадастровая стоимость недвижимости?","description":"Кадастровая стоимость – это установленная государством цена недвижимости для расчета налогов. Узнайте, как она формируется, от чего зависит и как ее можно оспорить.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.8","reviewCount":449,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/kadastrovaya-stoimost/"}}
+title: Что такое кадастровая стоимость недвижимости?
+description: >-
+  Кадастровая стоимость – это установленная государством цена недвижимости для
+  расчета налогов. Узнайте, как она формируется, от чего зависит и как ее можно
+  оспорить.
+pubDate: '2025-07-25T14:35:25.165Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: Что такое кадастровая стоимость недвижимости?
+  description: >-
+    Кадастровая стоимость – это установленная государством цена недвижимости для
+    расчета налогов. Узнайте, как она формируется, от чего зависит и как ее
+    можно оспорить.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.8'
+    reviewCount: 499
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': 'https://butlerspb-blog.netlify.app/blog/kadastrovaya-stoimost/'
 ---
 # Кадастровая стоимость в 2024 году: что это, как узнать и снизить налог на недвижимость в Санкт-Петербурге
 

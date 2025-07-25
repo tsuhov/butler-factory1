@@ -1,11 +1,40 @@
 ---
-title: "ButlerSPB: доступный консьерж-сервис для вас"
-description: "ButlerSPB разрушает стереотип, что консьерж — это услуга для избранных. Узнайте, как наш доступный сервис поможет экономить время и решать любые бытовые задачи."
-keywords: "доступный консьерж, консьерж-сервис спб, личный ассистент, ButlerSPB, экономия времени, решение бытовых задач, услуги консьержа"
-pubDate: "2025-07-24T13:39:53.660Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"ButlerSPB: доступный консьерж-сервис для вас","description":"ButlerSPB разрушает стереотип, что консьерж — это услуга для избранных. Узнайте, как наш доступный сервис поможет экономить время и решать любые бытовые задачи.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"5.0","reviewCount":577,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/dostupnyy-konserzh/"}}
+title: 'ButlerSPB: доступный консьерж-сервис для вас'
+description: >-
+  ButlerSPB разрушает стереотип, что консьерж — это услуга для избранных.
+  Узнайте, как наш доступный сервис поможет экономить время и решать любые
+  бытовые задачи.
+pubDate: '2025-07-24T13:39:53.660Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'ButlerSPB: доступный консьерж-сервис для вас'
+  description: >-
+    ButlerSPB разрушает стереотип, что консьерж — это услуга для избранных.
+    Узнайте, как наш доступный сервис поможет экономить время и решать любые
+    бытовые задачи.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.8'
+    reviewCount: 836
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': 'https://butlerspb-blog.netlify.app/blog/dostupnyy-konserzh/'
 ---
 # Доступный консьерж: Как перестать все делать самому и начать жить в Петербурге
 

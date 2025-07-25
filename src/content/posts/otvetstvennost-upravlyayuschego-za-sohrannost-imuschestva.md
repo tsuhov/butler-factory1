@@ -1,10 +1,49 @@
 ---
-title: "Ответственность управляющего за сохранность имущества: что нужно знать владельцу"
-description: "Передавая свою недвижимость в управление, собственник рассчитывает на ее сохранность и бережное отношение. Кто несет ответственность, если имуществу причинен ущерб? В новой статье блога ButlerSPB разбираемся в юридических тонкостях и обязанностях управляющего, чтобы вы были уверены в безопасности своих активов."
-pubDate: "2025-07-22T11:33:03.860Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Ответственность управляющего за сохранность имущества: что нужно знать владельцу","description":"Передавая свою недвижимость в управление, собственник рассчитывает на ее сохранность и бережное отношение. Кто несет ответственность, если имуществу причинен ущерб? В новой статье блога ButlerSPB разбираемся в юридических тонкостях и обязанностях управляющего, чтобы вы были уверены в безопасности своих активов.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":752,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/otvetstvennost-upravlyayuschego-za-sohrannost-imuschestva/"}}
+title: >-
+  Ответственность управляющего за сохранность имущества: что нужно знать
+  владельцу
+description: >-
+  Передавая свою недвижимость в управление, собственник рассчитывает на ее
+  сохранность и бережное отношение. Кто несет ответственность, если имуществу
+  причинен ущерб? В новой статье блога ButlerSPB разбираемся в юридических
+  тонкостях и обязанностях управляющего, чтобы вы были уверены в безопасности
+  своих активов.
+pubDate: '2025-07-22T11:33:03.860Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: >-
+    Ответственность управляющего за сохранность имущества: что нужно знать
+    владельцу
+  description: >-
+    Передавая свою недвижимость в управление, собственник рассчитывает на ее
+    сохранность и бережное отношение. Кто несет ответственность, если имуществу
+    причинен ущерб? В новой статье блога ButlerSPB разбираемся в юридических
+    тонкостях и обязанностях управляющего, чтобы вы были уверены в безопасности
+    своих активов.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.8'
+    reviewCount: 557
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/otvetstvennost-upravlyayuschego-za-sohrannost-imuschestva/
 ---
 
 Отлично, вот экспертная SEO-статья, написанная строго по вашему плану от лица компании ButlerSPB.

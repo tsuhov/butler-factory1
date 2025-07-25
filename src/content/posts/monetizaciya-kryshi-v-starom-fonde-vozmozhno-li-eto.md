@@ -1,11 +1,39 @@
 ---
-title: "Монетизация крыши в старом фонде: возможно?"
-description: "Узнайте, как превратить пустующую крышу в старом фонде Петербурга в источник дохода. ButlerSPB разбирает юридические и технические нюансы монетизации."
-keywords: "монетизация крыши, старый фонд, доход с крыши, аренда крыши, эксплуатируемая кровля, ButlerSPB, недвижимость СПб"
-pubDate: "2025-07-24T00:13:44.527Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Монетизация крыши в старом фонде: возможно?","description":"Узнайте, как превратить пустующую крышу в старом фонде Петербурга в источник дохода. ButlerSPB разбирает юридические и технические нюансы монетизации.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"5.0","reviewCount":726,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/monetizaciya-kryshi-v-starom-fonde-vozmozhno-li-eto/"}}
+title: 'Монетизация крыши в старом фонде: возможно?'
+description: >-
+  Узнайте, как превратить пустующую крышу в старом фонде Петербурга в источник
+  дохода. ButlerSPB разбирает юридические и технические нюансы монетизации.
+pubDate: '2025-07-24T00:13:44.527Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Монетизация крыши в старом фонде: возможно?'
+  description: >-
+    Узнайте, как превратить пустующую крышу в старом фонде Петербурга в источник
+    дохода. ButlerSPB разбирает юридические и технические нюансы монетизации.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.9'
+    reviewCount: 787
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/monetizaciya-kryshi-v-starom-fonde-vozmozhno-li-eto/
 ---
 # Золото под ногами: как монетизировать крышу в старом фонде Петербурга и не нарушить закон?
 

@@ -1,10 +1,51 @@
 ---
-title: "Передача недвижимости в доверительное управление: ключевые этапы регистрации договора"
-description: "Планируете передать квартиру, дом или коммерческое помещение в доверительное управление? Эксперты ButlerSPB подготовили подробное руководство по государственной регистрации договора. В статье разбираем полный пакет документов для Росреестра, сроки процедуры и юридические тонкости, которые помогут собственнику защитить свои активы и права. Узнайте, как оформить все правильно с первого раза."
-pubDate: "2025-07-22T00:36:41.973Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Передача недвижимости в доверительное управление: ключевые этапы регистрации договора","description":"Планируете передать квартиру, дом или коммерческое помещение в доверительное управление? Эксперты ButlerSPB подготовили подробное руководство по государственной регистрации договора. В статье разбираем полный пакет документов для Росреестра, сроки процедуры и юридические тонкости, которые помогут собственнику защитить свои активы и права. Узнайте, как оформить все правильно с первого раза.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.8","reviewCount":688,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/peredacha-nedvizhimosti-v-doveritelnoe-upravlenie-registraciya/"}}
+title: >-
+  Передача недвижимости в доверительное управление: ключевые этапы регистрации
+  договора
+description: >-
+  Планируете передать квартиру, дом или коммерческое помещение в доверительное
+  управление? Эксперты ButlerSPB подготовили подробное руководство по
+  государственной регистрации договора. В статье разбираем полный пакет
+  документов для Росреестра, сроки процедуры и юридические тонкости, которые
+  помогут собственнику защитить свои активы и права. Узнайте, как оформить все
+  правильно с первого раза.
+pubDate: '2025-07-22T00:36:41.973Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: >-
+    Передача недвижимости в доверительное управление: ключевые этапы регистрации
+    договора
+  description: >-
+    Планируете передать квартиру, дом или коммерческое помещение в доверительное
+    управление? Эксперты ButlerSPB подготовили подробное руководство по
+    государственной регистрации договора. В статье разбираем полный пакет
+    документов для Росреестра, сроки процедуры и юридические тонкости, которые
+    помогут собственнику защитить свои активы и права. Узнайте, как оформить все
+    правильно с первого раза.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.8'
+    reviewCount: 573
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/peredacha-nedvizhimosti-v-doveritelnoe-upravlenie-registraciya/
 ---
 
 # Регистрация договора доверительного управления недвижимостью: пошаговая инструкция от экспертов ButlerSPB

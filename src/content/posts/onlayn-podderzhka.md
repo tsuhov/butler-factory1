@@ -1,11 +1,40 @@
 ---
-title: "Ваша онлайн поддержка от компании ButlerSPB"
-description: "Узнайте, как качественная онлайн поддержка ButlerSPB помогает решать ваши вопросы в реальном времени. Мы ценим каждого клиента и предлагаем быстрые решения."
-keywords: "онлайн поддержка, поддержка клиентов, ButlerSPB, служба поддержки, клиентский сервис, помощь онлайн, чат поддержки"
-pubDate: "2025-07-25T16:22:14.682Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Ваша онлайн поддержка от компании ButlerSPB","description":"Узнайте, как качественная онлайн поддержка ButlerSPB помогает решать ваши вопросы в реальном времени. Мы ценим каждого клиента и предлагаем быстрые решения.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.8","reviewCount":740,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/onlayn-podderzhka/"}}
+title: Ваша онлайн поддержка от компании ButlerSPB
+description: >-
+  Узнайте, как качественная онлайн поддержка ButlerSPB помогает решать ваши
+  вопросы в реальном времени. Мы ценим каждого клиента и предлагаем быстрые
+  решения.
+pubDate: '2025-07-25T16:22:14.682Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: Ваша онлайн поддержка от компании ButlerSPB
+  description: >-
+    Узнайте, как качественная онлайн поддержка ButlerSPB помогает решать ваши
+    вопросы в реальном времени. Мы ценим каждого клиента и предлагаем быстрые
+    решения.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.8'
+    reviewCount: 625
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': 'https://butlerspb-blog.netlify.app/blog/onlayn-podderzhka/'
 ---
 # Онлайн-поддержка: Как превратить клиентский сервис из затрат в двигатель роста вашего бизнеса
 

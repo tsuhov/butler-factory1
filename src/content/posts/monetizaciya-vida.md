@@ -1,11 +1,39 @@
 ---
-title: "Монетизация вида: как заработать на пейзаже?"
-description: "Уникальный вид из окна — не просто приятный бонус, а реальный актив. ButlerSPB расскажет, как повысить стоимость аренды или продажи вашей недвижимости."
-keywords: "монетизация вида, видовая квартира, инвестиции в недвижимость, арендный бизнес, недвижимость спб, butlerspb"
-pubDate: "2025-07-25T14:15:19.051Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Монетизация вида: как заработать на пейзаже?","description":"Уникальный вид из окна — не просто приятный бонус, а реальный актив. ButlerSPB расскажет, как повысить стоимость аренды или продажи вашей недвижимости.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"5.0","reviewCount":375,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/monetizaciya-vida/"}}
+title: 'Монетизация вида: как заработать на пейзаже?'
+description: >-
+  Уникальный вид из окна — не просто приятный бонус, а реальный актив. ButlerSPB
+  расскажет, как повысить стоимость аренды или продажи вашей недвижимости.
+pubDate: '2025-07-25T14:15:19.051Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Монетизация вида: как заработать на пейзаже?'
+  description: >-
+    Уникальный вид из окна — не просто приятный бонус, а реальный актив.
+    ButlerSPB расскажет, как повысить стоимость аренды или продажи вашей
+    недвижимости.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.8'
+    reviewCount: 534
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': 'https://butlerspb-blog.netlify.app/blog/monetizaciya-vida/'
 ---
 # Вид из окна — ваш самый недооцененный актив. Руководство по монетизации от ButlerSPB
 

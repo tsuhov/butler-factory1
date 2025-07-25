@@ -1,10 +1,49 @@
 ---
-title: "Потеряли ключи от съемной квартиры? Без паники! Пошаговая инструкция от ButlerSPB"
-description: "Потеря ключей от арендованного жилья – неприятность, которая может случиться с каждым. В нашей статье мы подробно разбираем, что делать в первую очередь, как правильно сообщить хозяину, кто несет расходы по замене замка и как избежать конфликтов. Полезные советы и четкий план действий для арендаторов от команды ButlerSPB."
-pubDate: "2025-07-22T11:40:22.685Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Потеряли ключи от съемной квартиры? Без паники! Пошаговая инструкция от ButlerSPB","description":"Потеря ключей от арендованного жилья – неприятность, которая может случиться с каждым. В нашей статье мы подробно разбираем, что делать в первую очередь, как правильно сообщить хозяину, кто несет расходы по замене замка и как избежать конфликтов. Полезные советы и четкий план действий для арендаторов от команды ButlerSPB.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.7","reviewCount":374,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/chto-delat-esli-vy-poteryali-klyuchi-ot-semnoy-kvartiry/"}}
+title: >-
+  Потеряли ключи от съемной квартиры? Без паники! Пошаговая инструкция от
+  ButlerSPB
+description: >-
+  Потеря ключей от арендованного жилья – неприятность, которая может случиться с
+  каждым. В нашей статье мы подробно разбираем, что делать в первую очередь, как
+  правильно сообщить хозяину, кто несет расходы по замене замка и как избежать
+  конфликтов. Полезные советы и четкий план действий для арендаторов от команды
+  ButlerSPB.
+pubDate: '2025-07-22T11:40:22.685Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: >-
+    Потеряли ключи от съемной квартиры? Без паники! Пошаговая инструкция от
+    ButlerSPB
+  description: >-
+    Потеря ключей от арендованного жилья – неприятность, которая может случиться
+    с каждым. В нашей статье мы подробно разбираем, что делать в первую очередь,
+    как правильно сообщить хозяину, кто несет расходы по замене замка и как
+    избежать конфликтов. Полезные советы и четкий план действий для арендаторов
+    от команды ButlerSPB.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.7'
+    reviewCount: 746
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/chto-delat-esli-vy-poteryali-klyuchi-ot-semnoy-kvartiry/
 ---
 
 # Что делать, если вы потеряли ключи от съемной квартиры?

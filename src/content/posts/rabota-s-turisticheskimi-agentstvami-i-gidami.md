@@ -1,10 +1,49 @@
 ---
-title: "Сотрудничество с ButlerSPB: новые возможности для туристических агентств и гидов"
-description: "Узнайте, как партнерство с консьерж-сервисом ButlerSPB может повысить ваш доход и расширить спектр услуг для ваших клиентов в Санкт-Петербурге. В статье мы раскрываем все преимущества сотрудничества: от выгодной комиссионной программы до доступа к эксклюзивным предложениям и безупречному сервису для ваших туристов."
-pubDate: "2025-07-22T11:20:36.014Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Сотрудничество с ButlerSPB: новые возможности для туристических агентств и гидов","description":"Узнайте, как партнерство с консьерж-сервисом ButlerSPB может повысить ваш доход и расширить спектр услуг для ваших клиентов в Санкт-Петербурге. В статье мы раскрываем все преимущества сотрудничества: от выгодной комиссионной программы до доступа к эксклюзивным предложениям и безупречному сервису для ваших туристов.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":566,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/rabota-s-turisticheskimi-agentstvami-i-gidami/"}}
+title: >-
+  Сотрудничество с ButlerSPB: новые возможности для туристических агентств и
+  гидов
+description: >-
+  Узнайте, как партнерство с консьерж-сервисом ButlerSPB может повысить ваш
+  доход и расширить спектр услуг для ваших клиентов в Санкт-Петербурге. В статье
+  мы раскрываем все преимущества сотрудничества: от выгодной комиссионной
+  программы до доступа к эксклюзивным предложениям и безупречному сервису для
+  ваших туристов.
+pubDate: '2025-07-22T11:20:36.014Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: >-
+    Сотрудничество с ButlerSPB: новые возможности для туристических агентств и
+    гидов
+  description: >-
+    Узнайте, как партнерство с консьерж-сервисом ButlerSPB может повысить ваш
+    доход и расширить спектр услуг для ваших клиентов в Санкт-Петербурге. В
+    статье мы раскрываем все преимущества сотрудничества: от выгодной
+    комиссионной программы до доступа к эксклюзивным предложениям и безупречному
+    сервису для ваших туристов.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.8'
+    reviewCount: 671
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/rabota-s-turisticheskimi-agentstvami-i-gidami/
 ---
 
 # Как бизнесу в Санкт-Петербурге выстроить прибыльное партнерство с туристическими агентствами и гидами

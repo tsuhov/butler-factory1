@@ -1,11 +1,39 @@
 ---
-title: "Профилактика от ButlerSPB: залог порядка"
-description: "Узнайте, как превентивные меры помогают экономить время и деньги, предотвращая поломки и дорогостоящий ремонт. ButlerSPB делится секретами ухода за домом."
-keywords: "превентивные меры, профилактика, ButlerSPB, уход за домом, обслуживание, предотвращение проблем, уборка"
-pubDate: "2025-07-25T16:17:41.657Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Профилактика от ButlerSPB: залог порядка","description":"Узнайте, как превентивные меры помогают экономить время и деньги, предотвращая поломки и дорогостоящий ремонт. ButlerSPB делится секретами ухода за домом.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"5.0","reviewCount":646,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/preventivnye-mery/"}}
+title: 'Профилактика от ButlerSPB: залог порядка'
+description: >-
+  Узнайте, как превентивные меры помогают экономить время и деньги, предотвращая
+  поломки и дорогостоящий ремонт. ButlerSPB делится секретами ухода за домом.
+pubDate: '2025-07-25T16:17:41.657Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Профилактика от ButlerSPB: залог порядка'
+  description: >-
+    Узнайте, как превентивные меры помогают экономить время и деньги,
+    предотвращая поломки и дорогостоящий ремонт. ButlerSPB делится секретами
+    ухода за домом.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.7'
+    reviewCount: 414
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': 'https://butlerspb-blog.netlify.app/blog/preventivnye-mery/'
 ---
 # Превентивные меры для вашего дома: Инвестиция в спокойствие, а не борьба с хаосом
 

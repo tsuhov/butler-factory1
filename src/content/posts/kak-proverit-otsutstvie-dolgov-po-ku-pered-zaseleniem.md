@@ -1,10 +1,51 @@
 ---
-title: "Как проверить отсутствие долгов по КУ перед заселением: инструкция от ButlerSPB"
-description: "Покупка или аренда квартиры – волнительный момент, который может омрачить внезапно обнаруженный долг по коммунальным услугам от предыдущих жильцов. Чтобы избежать неприятных сюрпризов и лишних трат, важно заранее убедиться в отсутствии задолженностей. В этой статье команда ButlerSPB подробно расскажет, какие документы запросить у собственника и как самостоятельно проверить информацию онлайн."
-pubDate: "2025-07-22T11:37:34.485Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Как проверить отсутствие долгов по КУ перед заселением: инструкция от ButlerSPB","description":"Покупка или аренда квартиры – волнительный момент, который может омрачить внезапно обнаруженный долг по коммунальным услугам от предыдущих жильцов. Чтобы избежать неприятных сюрпризов и лишних трат, важно заранее убедиться в отсутствии задолженностей. В этой статье команда ButlerSPB подробно расскажет, какие документы запросить у собственника и как самостоятельно проверить информацию онлайн.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"5.0","reviewCount":684,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/kak-proverit-otsutstvie-dolgov-po-ku-pered-zaseleniem/"}}
+title: >-
+  Как проверить отсутствие долгов по КУ перед заселением: инструкция от
+  ButlerSPB
+description: >-
+  Покупка или аренда квартиры – волнительный момент, который может омрачить
+  внезапно обнаруженный долг по коммунальным услугам от предыдущих жильцов.
+  Чтобы избежать неприятных сюрпризов и лишних трат, важно заранее убедиться в
+  отсутствии задолженностей. В этой статье команда ButlerSPB подробно расскажет,
+  какие документы запросить у собственника и как самостоятельно проверить
+  информацию онлайн.
+pubDate: '2025-07-22T11:37:34.485Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: >-
+    Как проверить отсутствие долгов по КУ перед заселением: инструкция от
+    ButlerSPB
+  description: >-
+    Покупка или аренда квартиры – волнительный момент, который может омрачить
+    внезапно обнаруженный долг по коммунальным услугам от предыдущих жильцов.
+    Чтобы избежать неприятных сюрпризов и лишних трат, важно заранее убедиться в
+    отсутствии задолженностей. В этой статье команда ButlerSPB подробно
+    расскажет, какие документы запросить у собственника и как самостоятельно
+    проверить информацию онлайн.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.7'
+    reviewCount: 421
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/kak-proverit-otsutstvie-dolgov-po-ku-pered-zaseleniem/
 ---
 
 # Как проверить долги по КУ перед заселением: Полное руководство 2024

@@ -1,10 +1,51 @@
 ---
-title: "Скачать договор доверительного управления недвижимостью: образец 2024 и инструкция по составлению"
-description: "Хотите передать недвижимость в доверительное управление? Скачайте актуальный на 2024 год образец договора, подготовленный экспертами ButlerSPB. В нашей статье вы найдете не только готовый для скачивания шаблон, но и подробный разбор ключевых пунктов: права и обязанности сторон, срок действия, размер вознаграждения и ответственность. Обезопасьте свою собственность с юридически грамотным документом."
-pubDate: "2025-07-22T00:53:52.028Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Скачать договор доверительного управления недвижимостью: образец 2024 и инструкция по составлению","description":"Хотите передать недвижимость в доверительное управление? Скачайте актуальный на 2024 год образец договора, подготовленный экспертами ButlerSPB. В нашей статье вы найдете не только готовый для скачивания шаблон, но и подробный разбор ключевых пунктов: права и обязанности сторон, срок действия, размер вознаграждения и ответственность. Обезопасьте свою собственность с юридически грамотным документом.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":400,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/skachat-dogovor-doveritelnogo-upravleniya-nedvizhimostyu/"}}
+title: >-
+  Скачать договор доверительного управления недвижимостью: образец 2024 и
+  инструкция по составлению
+description: >-
+  Хотите передать недвижимость в доверительное управление? Скачайте актуальный
+  на 2024 год образец договора, подготовленный экспертами ButlerSPB. В нашей
+  статье вы найдете не только готовый для скачивания шаблон, но и подробный
+  разбор ключевых пунктов: права и обязанности сторон, срок действия, размер
+  вознаграждения и ответственность. Обезопасьте свою собственность с юридически
+  грамотным документом.
+pubDate: '2025-07-22T00:53:52.028Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: >-
+    Скачать договор доверительного управления недвижимостью: образец 2024 и
+    инструкция по составлению
+  description: >-
+    Хотите передать недвижимость в доверительное управление? Скачайте актуальный
+    на 2024 год образец договора, подготовленный экспертами ButlerSPB. В нашей
+    статье вы найдете не только готовый для скачивания шаблон, но и подробный
+    разбор ключевых пунктов: права и обязанности сторон, срок действия, размер
+    вознаграждения и ответственность. Обезопасьте свою собственность с
+    юридически грамотным документом.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '5.0'
+    reviewCount: 737
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/skachat-dogovor-doveritelnogo-upravleniya-nedvizhimostyu/
 ---
 
 # Скачать договор доверительного управления недвижимостью: образец 2024 + полный разбор от экспертов ButlerSPB

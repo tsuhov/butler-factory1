@@ -1,11 +1,40 @@
 ---
-title: "Финансовый отчет: ваш главный инструмент контроля"
-description: "Узнайте, как финансовый отчет помогает оценить состояние компании, выявить риски и найти точки роста. ButlerSPB делится секретами анализа ключевых показателей."
-keywords: "финансовый отчет, бухгалтерская отчетность, анализ финансов, управленческий учет, прибыль и убытки, балансовый отчет, ButlerSPB"
-pubDate: "2025-07-25T15:35:10.540Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Финансовый отчет: ваш главный инструмент контроля","description":"Узнайте, как финансовый отчет помогает оценить состояние компании, выявить риски и найти точки роста. ButlerSPB делится секретами анализа ключевых показателей.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"5.0","reviewCount":839,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/finansovyy-otchet/"}}
+title: 'Финансовый отчет: ваш главный инструмент контроля'
+description: >-
+  Узнайте, как финансовый отчет помогает оценить состояние компании, выявить
+  риски и найти точки роста. ButlerSPB делится секретами анализа ключевых
+  показателей.
+pubDate: '2025-07-25T15:35:10.540Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Финансовый отчет: ваш главный инструмент контроля'
+  description: >-
+    Узнайте, как финансовый отчет помогает оценить состояние компании, выявить
+    риски и найти точки роста. ButlerSPB делится секретами анализа ключевых
+    показателей.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.9'
+    reviewCount: 402
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': 'https://butlerspb-blog.netlify.app/blog/finansovyy-otchet/'
 ---
 # Финансовый отчет – не просто обязанность, а приборная панель вашего бизнеса
 

@@ -1,11 +1,39 @@
 ---
-title: "Гид по выбору идеальных апартаментов в СПб"
-description: "Ищете идеальное жилье в Санкт-Петербурге? Наш гид поможет вам разобраться во всех тонкостях выбора элитных апартаментов. Узнайте, на что обратить внимание."
-keywords: "апартаменты спб, аренда жилья, элитная недвижимость, гид по петербургу, выбор квартиры, ButlerSPB"
-pubDate: "2025-07-25T15:45:57.492Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Гид по выбору идеальных апартаментов в СПб","description":"Ищете идеальное жилье в Санкт-Петербурге? Наш гид поможет вам разобраться во всех тонкостях выбора элитных апартаментов. Узнайте, на что обратить внимание.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.8","reviewCount":764,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/gid-po/"}}
+title: Гид по выбору идеальных апартаментов в СПб
+description: >-
+  Ищете идеальное жилье в Санкт-Петербурге? Наш гид поможет вам разобраться во
+  всех тонкостях выбора элитных апартаментов. Узнайте, на что обратить внимание.
+pubDate: '2025-07-25T15:45:57.492Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: Гид по выбору идеальных апартаментов в СПб
+  description: >-
+    Ищете идеальное жилье в Санкт-Петербурге? Наш гид поможет вам разобраться во
+    всех тонкостях выбора элитных апартаментов. Узнайте, на что обратить
+    внимание.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.9'
+    reviewCount: 689
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': 'https://butlerspb-blog.netlify.app/blog/gid-po/'
 ---
 # Ваш эксклюзивный гид по панорамным ресторанам Петербурга: от Невы до крыш Петроградки
 

@@ -1,11 +1,40 @@
 ---
-title: "Система управления: ключ к успеху компании"
-description: "Узнайте, как построить надежную систему управления, которая оптимизирует процессы и повысит продуктивность. ButlerSPB делится советами по созданию и внедрению."
-keywords: "система управления, менеджмент, управление компанией, бизнес-процессы, эффективность, ButlerSPB"
-pubDate: "2025-07-25T15:35:17.490Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Система управления: ключ к успеху компании","description":"Узнайте, как построить надежную систему управления, которая оптимизирует процессы и повысит продуктивность. ButlerSPB делится советами по созданию и внедрению.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.8","reviewCount":767,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/sistema-upravleniya/"}}
+title: 'Система управления: ключ к успеху компании'
+description: >-
+  Узнайте, как построить надежную систему управления, которая оптимизирует
+  процессы и повысит продуктивность. ButlerSPB делится советами по созданию и
+  внедрению.
+pubDate: '2025-07-25T15:35:17.490Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Система управления: ключ к успеху компании'
+  description: >-
+    Узнайте, как построить надежную систему управления, которая оптимизирует
+    процессы и повысит продуктивность. ButlerSPB делится советами по созданию и
+    внедрению.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.9'
+    reviewCount: 307
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': 'https://butlerspb-blog.netlify.app/blog/sistema-upravleniya/'
 ---
 # Система управления компанией: как навести порядок в бизнесе и перестать "тушить пожары"
 

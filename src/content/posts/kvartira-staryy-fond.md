@@ -1,11 +1,39 @@
 ---
-title: "Старый фонд СПб: очарование и подводные камни"
-description: "Квартиры в старом фонде Петербурга манят историей и атмосферой. Но за высокими потолками и лепниной скрываются риски. Разбираем все плюсы и минусы покупки."
-keywords: "старый фонд, квартира в спб, недвижимость петербург, покупка квартиры, исторический центр, ремонт в старом фонде, дореволюционный дом"
-pubDate: "2025-07-25T14:02:28.137Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Старый фонд СПб: очарование и подводные камни","description":"Квартиры в старом фонде Петербурга манят историей и атмосферой. Но за высокими потолками и лепниной скрываются риски. Разбираем все плюсы и минусы покупки.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.7","reviewCount":757,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/kvartira-staryy-fond/"}}
+title: 'Старый фонд СПб: очарование и подводные камни'
+description: >-
+  Квартиры в старом фонде Петербурга манят историей и атмосферой. Но за высокими
+  потолками и лепниной скрываются риски. Разбираем все плюсы и минусы покупки.
+pubDate: '2025-07-25T14:02:28.137Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Старый фонд СПб: очарование и подводные камни'
+  description: >-
+    Квартиры в старом фонде Петербурга манят историей и атмосферой. Но за
+    высокими потолками и лепниной скрываются риски. Разбираем все плюсы и минусы
+    покупки.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.8'
+    reviewCount: 606
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': 'https://butlerspb-blog.netlify.app/blog/kvartira-staryy-fond/'
 ---
 # Квартира в старом фонде Петербурга: от мечты до ключей — полный гид для покупателя
 

@@ -1,11 +1,40 @@
 ---
-title: "Обмен рисками: стратегия для вашего бизнеса"
-description: "Узнайте, как эффективный обмен рисками может стать ключом к стабильности и росту. ButlerSPB поможет разработать стратегию для защиты вашего бизнеса от потерь."
-keywords: "обмен рисками, управление рисками, страхование, минимизация потерь, бизнес-стратегия, финансовая безопасность, ButlerSPB"
-pubDate: "2025-07-25T14:57:29.380Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Обмен рисками: стратегия для вашего бизнеса","description":"Узнайте, как эффективный обмен рисками может стать ключом к стабильности и росту. ButlerSPB поможет разработать стратегию для защиты вашего бизнеса от потерь.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":447,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/obmen-riski/"}}
+title: 'Обмен рисками: стратегия для вашего бизнеса'
+description: >-
+  Узнайте, как эффективный обмен рисками может стать ключом к стабильности и
+  росту. ButlerSPB поможет разработать стратегию для защиты вашего бизнеса от
+  потерь.
+pubDate: '2025-07-25T14:57:29.380Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Обмен рисками: стратегия для вашего бизнеса'
+  description: >-
+    Узнайте, как эффективный обмен рисками может стать ключом к стабильности и
+    росту. ButlerSPB поможет разработать стратегию для защиты вашего бизнеса от
+    потерь.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.7'
+    reviewCount: 396
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': 'https://butlerspb-blog.netlify.app/blog/obmen-riski/'
 ---
 # Обмен риски: Стратегия сильных. Как передать угрозы и сфокусироваться на главном
 

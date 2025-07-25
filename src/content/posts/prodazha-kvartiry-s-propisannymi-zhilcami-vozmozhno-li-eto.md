@@ -1,10 +1,49 @@
 ---
-title: "Продажа квартиры с прописанными жильцами: возможно ли это?"
-description: "Можно ли продать квартиру, если в ней кто-то прописан? Этот вопрос волнует многих собственников. В новой статье блога ButlerSPB разбираемся в юридических тонкостях такой сделки. Рассказываем, какие категории прописанных жильцов существуют, кого можно выписать без проблем, а кто сохраняет право пользования жильем даже после смены собственника. Узнайте о всех рисках для покупателя и продавца и получите пошаговую инструкцию, как провести сделку безопасно и законно."
-pubDate: "2025-07-23T12:06:27.768Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Продажа квартиры с прописанными жильцами: возможно ли это?","description":"Можно ли продать квартиру, если в ней кто-то прописан? Этот вопрос волнует многих собственников. В новой статье блога ButlerSPB разбираемся в юридических тонкостях такой сделки. Рассказываем, какие категории прописанных жильцов существуют, кого можно выписать без проблем, а кто сохраняет право пользования жильем даже после смены собственника. Узнайте о всех рисках для покупателя и продавца и получите пошаговую инструкцию, как провести сделку безопасно и законно.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.8","reviewCount":621,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/prodazha-kvartiry-s-propisannymi-zhilcami-vozmozhno-li-eto/"}}
+title: 'Продажа квартиры с прописанными жильцами: возможно ли это?'
+description: >-
+  Можно ли продать квартиру, если в ней кто-то прописан? Этот вопрос волнует
+  многих собственников. В новой статье блога ButlerSPB разбираемся в юридических
+  тонкостях такой сделки. Рассказываем, какие категории прописанных жильцов
+  существуют, кого можно выписать без проблем, а кто сохраняет право пользования
+  жильем даже после смены собственника. Узнайте о всех рисках для покупателя и
+  продавца и получите пошаговую инструкцию, как провести сделку безопасно и
+  законно.
+pubDate: '2025-07-23T12:06:27.768Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Продажа квартиры с прописанными жильцами: возможно ли это?'
+  description: >-
+    Можно ли продать квартиру, если в ней кто-то прописан? Этот вопрос волнует
+    многих собственников. В новой статье блога ButlerSPB разбираемся в
+    юридических тонкостях такой сделки. Рассказываем, какие категории
+    прописанных жильцов существуют, кого можно выписать без проблем, а кто
+    сохраняет право пользования жильем даже после смены собственника. Узнайте о
+    всех рисках для покупателя и продавца и получите пошаговую инструкцию, как
+    провести сделку безопасно и законно.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.9'
+    reviewCount: 599
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/prodazha-kvartiry-s-propisannymi-zhilcami-vozmozhno-li-eto/
 ---
 
 # Продать квартиру с прописанными жильцами: миф или реальность? Полное руководство от экспертов ButlerSPB

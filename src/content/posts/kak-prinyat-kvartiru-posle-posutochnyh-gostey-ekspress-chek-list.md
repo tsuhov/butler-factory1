@@ -1,10 +1,47 @@
 ---
-title: "Как принять квартиру после посуточных гостей: экспресс-чек-лист"
-description: "Прием квартиры после выезда гостей — ответственный этап в посуточной аренде. Чтобы ничего не упустить, сэкономить время и избежать неприятных сюрпризов, воспользуйтесь нашим экспресс-чек-листом. Команда ButlerSPB делится профессиональными советами, которые помогут быстро и эффективно проверить состояние жилья, зафиксировать возможные повреждения и подготовить квартиру к заезду следующих гостей."
-pubDate: "2025-07-23T11:47:27.265Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Как принять квартиру после посуточных гостей: экспресс-чек-лист","description":"Прием квартиры после выезда гостей — ответственный этап в посуточной аренде. Чтобы ничего не упустить, сэкономить время и избежать неприятных сюрпризов, воспользуйтесь нашим экспресс-чек-листом. Команда ButlerSPB делится профессиональными советами, которые помогут быстро и эффективно проверить состояние жилья, зафиксировать возможные повреждения и подготовить квартиру к заезду следующих гостей.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":708,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/kak-prinyat-kvartiru-posle-posutochnyh-gostey-ekspress-chek-list/"}}
+title: 'Как принять квартиру после посуточных гостей: экспресс-чек-лист'
+description: >-
+  Прием квартиры после выезда гостей — ответственный этап в посуточной аренде.
+  Чтобы ничего не упустить, сэкономить время и избежать неприятных сюрпризов,
+  воспользуйтесь нашим экспресс-чек-листом. Команда ButlerSPB делится
+  профессиональными советами, которые помогут быстро и эффективно проверить
+  состояние жилья, зафиксировать возможные повреждения и подготовить квартиру к
+  заезду следующих гостей.
+pubDate: '2025-07-23T11:47:27.265Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Как принять квартиру после посуточных гостей: экспресс-чек-лист'
+  description: >-
+    Прием квартиры после выезда гостей — ответственный этап в посуточной аренде.
+    Чтобы ничего не упустить, сэкономить время и избежать неприятных сюрпризов,
+    воспользуйтесь нашим экспресс-чек-листом. Команда ButlerSPB делится
+    профессиональными советами, которые помогут быстро и эффективно проверить
+    состояние жилья, зафиксировать возможные повреждения и подготовить квартиру
+    к заезду следующих гостей.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.9'
+    reviewCount: 626
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/kak-prinyat-kvartiru-posle-posutochnyh-gostey-ekspress-chek-list/
 ---
 
 # Как принять квартиру после посуточных гостей: полный экспресс-чек-лист для собственника

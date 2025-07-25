@@ -1,10 +1,47 @@
 ---
-title: "Где кипит жизнь Петербурга: обзор популярных групп и городских форумов"
-description: "Хотите быть в курсе всех событий Санкт-Петербурга, найти полезные контакты или просто пообщаться с соседями? Мы в ButlerSPB подготовили для вас подборку самых активных и полезных сообществ в социальных сетях и на городских форумах. Узнайте, где обсуждают новости вашего района, делятся анонсами бесплатных мероприятий и находят проверенных мастеров. Этот гид поможет вам стать частью онлайн-жизни Северной столицы."
-pubDate: "2025-07-22T11:46:15.345Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Где кипит жизнь Петербурга: обзор популярных групп и городских форумов","description":"Хотите быть в курсе всех событий Санкт-Петербурга, найти полезные контакты или просто пообщаться с соседями? Мы в ButlerSPB подготовили для вас подборку самых активных и полезных сообществ в социальных сетях и на городских форумах. Узнайте, где обсуждают новости вашего района, делятся анонсами бесплатных мероприятий и находят проверенных мастеров. Этот гид поможет вам стать частью онлайн-жизни Северной столицы.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":877,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/populyarnye-gruppy-v-socialnyh-setyah-i-gorodskie-forumy/"}}
+title: 'Где кипит жизнь Петербурга: обзор популярных групп и городских форумов'
+description: >-
+  Хотите быть в курсе всех событий Санкт-Петербурга, найти полезные контакты или
+  просто пообщаться с соседями? Мы в ButlerSPB подготовили для вас подборку
+  самых активных и полезных сообществ в социальных сетях и на городских форумах.
+  Узнайте, где обсуждают новости вашего района, делятся анонсами бесплатных
+  мероприятий и находят проверенных мастеров. Этот гид поможет вам стать частью
+  онлайн-жизни Северной столицы.
+pubDate: '2025-07-22T11:46:15.345Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Где кипит жизнь Петербурга: обзор популярных групп и городских форумов'
+  description: >-
+    Хотите быть в курсе всех событий Санкт-Петербурга, найти полезные контакты
+    или просто пообщаться с соседями? Мы в ButlerSPB подготовили для вас
+    подборку самых активных и полезных сообществ в социальных сетях и на
+    городских форумах. Узнайте, где обсуждают новости вашего района, делятся
+    анонсами бесплатных мероприятий и находят проверенных мастеров. Этот гид
+    поможет вам стать частью онлайн-жизни Северной столицы.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.8'
+    reviewCount: 709
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/populyarnye-gruppy-v-socialnyh-setyah-i-gorodskie-forumy/
 ---
 
 # Главные сообщества Санкт-Петербурга: Полный гид по группам VK, Telegram-каналам и форумам в 2024 году

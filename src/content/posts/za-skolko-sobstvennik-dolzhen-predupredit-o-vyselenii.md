@@ -1,10 +1,45 @@
 ---
-title: "За сколько собственник должен предупредить о выселении: права и сроки"
-description: "Планируете расторгнуть договор аренды? В новой статье блога ButlerSPB разбираем, за какой срок собственник обязан уведомить арендатора о выселении по закону. Анализируем различия для краткосрочных и долгосрочных договоров, роль письменного уведомления и как обеим сторонам защитить свои права и избежать конфликтов."
-pubDate: "2025-07-22T11:40:32.283Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"За сколько собственник должен предупредить о выселении: права и сроки","description":"Планируете расторгнуть договор аренды? В новой статье блога ButlerSPB разбираем, за какой срок собственник обязан уведомить арендатора о выселении по закону. Анализируем различия для краткосрочных и долгосрочных договоров, роль письменного уведомления и как обеим сторонам защитить свои права и избежать конфликтов.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"5.0","reviewCount":701,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/za-skolko-sobstvennik-dolzhen-predupredit-o-vyselenii/"}}
+title: 'За сколько собственник должен предупредить о выселении: права и сроки'
+description: >-
+  Планируете расторгнуть договор аренды? В новой статье блога ButlerSPB
+  разбираем, за какой срок собственник обязан уведомить арендатора о выселении
+  по закону. Анализируем различия для краткосрочных и долгосрочных договоров,
+  роль письменного уведомления и как обеим сторонам защитить свои права и
+  избежать конфликтов.
+pubDate: '2025-07-22T11:40:32.283Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'За сколько собственник должен предупредить о выселении: права и сроки'
+  description: >-
+    Планируете расторгнуть договор аренды? В новой статье блога ButlerSPB
+    разбираем, за какой срок собственник обязан уведомить арендатора о выселении
+    по закону. Анализируем различия для краткосрочных и долгосрочных договоров,
+    роль письменного уведомления и как обеим сторонам защитить свои права и
+    избежать конфликтов.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.7'
+    reviewCount: 389
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/za-skolko-sobstvennik-dolzhen-predupredit-o-vyselenii/
 ---
 
 # За сколько собственник должен предупредить о выселении: Полное руководство по закону РФ (2024)

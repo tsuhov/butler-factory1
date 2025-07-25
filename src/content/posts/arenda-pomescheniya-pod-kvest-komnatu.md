@@ -1,10 +1,45 @@
 ---
-title: "Как выбрать помещение под квест-комнату: полное руководство от ButlerSPB"
-description: "Планируете открыть свою квест-комнату? Успех начинается с правильного помещения. В новой статье блога ButlerSPB мы разбираем все нюансы: от выбора локации и технических требований (электричество, вентиляция, звукоизоляция) до юридических тонкостей аренды. Узнайте, как найти идеальное пространство для вашего квеста и избежать распространенных ошибок."
-pubDate: "2025-07-23T12:11:52.009Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Как выбрать помещение под квест-комнату: полное руководство от ButlerSPB","description":"Планируете открыть свою квест-комнату? Успех начинается с правильного помещения. В новой статье блога ButlerSPB мы разбираем все нюансы: от выбора локации и технических требований (электричество, вентиляция, звукоизоляция) до юридических тонкостей аренды. Узнайте, как найти идеальное пространство для вашего квеста и избежать распространенных ошибок.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":598,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/arenda-pomescheniya-pod-kvest-komnatu/"}}
+title: 'Как выбрать помещение под квест-комнату: полное руководство от ButlerSPB'
+description: >-
+  Планируете открыть свою квест-комнату? Успех начинается с правильного
+  помещения. В новой статье блога ButlerSPB мы разбираем все нюансы: от выбора
+  локации и технических требований (электричество, вентиляция, звукоизоляция) до
+  юридических тонкостей аренды. Узнайте, как найти идеальное пространство для
+  вашего квеста и избежать распространенных ошибок.
+pubDate: '2025-07-23T12:11:52.009Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Как выбрать помещение под квест-комнату: полное руководство от ButlerSPB'
+  description: >-
+    Планируете открыть свою квест-комнату? Успех начинается с правильного
+    помещения. В новой статье блога ButlerSPB мы разбираем все нюансы: от выбора
+    локации и технических требований (электричество, вентиляция, звукоизоляция)
+    до юридических тонкостей аренды. Узнайте, как найти идеальное пространство
+    для вашего квеста и избежать распространенных ошибок.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.7'
+    reviewCount: 383
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/arenda-pomescheniya-pod-kvest-komnatu/
 ---
 
 # Как выбрать и арендовать идеальное помещение под квест-комнату: Полное руководство для предпринимателя в Санкт-Петербурге

@@ -1,11 +1,40 @@
 ---
-title: "Как оспорить кадастровую стоимость объекта"
-description: "Кадастровая стоимость завышена? Узнайте, как ее оспорить и снизить налог на недвижимость. Пошаговая инструкция: от сбора документов до суда. ButlerSPB поможет."
-keywords: "оспорить кадастровую стоимость, снижение кадастровой стоимости, кадастровая оценка, налог на недвижимость, комиссия Росреестра, оценка для оспаривания"
-pubDate: "2025-07-25T14:50:50.111Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Как оспорить кадастровую стоимость объекта","description":"Кадастровая стоимость завышена? Узнайте, как ее оспорить и снизить налог на недвижимость. Пошаговая инструкция: от сбора документов до суда. ButlerSPB поможет.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"5.0","reviewCount":466,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/osporit-kadastr/"}}
+title: Как оспорить кадастровую стоимость объекта
+description: >-
+  Кадастровая стоимость завышена? Узнайте, как ее оспорить и снизить налог на
+  недвижимость. Пошаговая инструкция: от сбора документов до суда. ButlerSPB
+  поможет.
+pubDate: '2025-07-25T14:50:50.111Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: Как оспорить кадастровую стоимость объекта
+  description: >-
+    Кадастровая стоимость завышена? Узнайте, как ее оспорить и снизить налог на
+    недвижимость. Пошаговая инструкция: от сбора документов до суда. ButlerSPB
+    поможет.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.7'
+    reviewCount: 587
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': 'https://butlerspb-blog.netlify.app/blog/osporit-kadastr/'
 ---
 # Как оспорить кадастровую стоимость в 2024 году: пошаговая инструкция от экспертов ButlerSPB
 

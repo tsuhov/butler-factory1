@@ -1,10 +1,47 @@
 ---
-title: "Субаренда квартир в СПб: юридические риски и выгоды"
-description: "Планируете сдать в субаренду квартиру в Санкт-Петербурге? Это может быть выгодно, но сопряжено с серьезными юридическими рисками. В новой статье блога ButlerSPB мы подробно разбираем, как правильно оформить субаренду, получить согласие собственника и составить грамотный договор. Узнайте всё о выгодах, подводных камнях и ответственности сторон, чтобы сделать процесс безопасным и прибыльным."
-pubDate: "2025-07-22T13:55:26.701Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Субаренда квартир в СПб: юридические риски и выгоды","description":"Планируете сдать в субаренду квартиру в Санкт-Петербурге? Это может быть выгодно, но сопряжено с серьезными юридическими рисками. В новой статье блога ButlerSPB мы подробно разбираем, как правильно оформить субаренду, получить согласие собственника и составить грамотный договор. Узнайте всё о выгодах, подводных камнях и ответственности сторон, чтобы сделать процесс безопасным и прибыльным.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":633,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/subarenda-kvartir-v-spb-yuridicheskie-riski-i-vygody/"}}
+title: 'Субаренда квартир в СПб: юридические риски и выгоды'
+description: >-
+  Планируете сдать в субаренду квартиру в Санкт-Петербурге? Это может быть
+  выгодно, но сопряжено с серьезными юридическими рисками. В новой статье блога
+  ButlerSPB мы подробно разбираем, как правильно оформить субаренду, получить
+  согласие собственника и составить грамотный договор. Узнайте всё о выгодах,
+  подводных камнях и ответственности сторон, чтобы сделать процесс безопасным и
+  прибыльным.
+pubDate: '2025-07-22T13:55:26.701Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Субаренда квартир в СПб: юридические риски и выгоды'
+  description: >-
+    Планируете сдать в субаренду квартиру в Санкт-Петербурге? Это может быть
+    выгодно, но сопряжено с серьезными юридическими рисками. В новой статье
+    блога ButlerSPB мы подробно разбираем, как правильно оформить субаренду,
+    получить согласие собственника и составить грамотный договор. Узнайте всё о
+    выгодах, подводных камнях и ответственности сторон, чтобы сделать процесс
+    безопасным и прибыльным.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.7'
+    reviewCount: 384
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/subarenda-kvartir-v-spb-yuridicheskie-riski-i-vygody/
 ---
 
 # Субаренда квартир в Санкт-Петербурге: подробный разбор юридических рисков и выгод

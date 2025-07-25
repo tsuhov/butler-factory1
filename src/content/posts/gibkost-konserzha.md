@@ -1,11 +1,40 @@
 ---
-title: "Гибкость консьержа: ключ к идеальному сервису"
-description: "Гибкость — ключевое качество консьержа от ButlerSPB. Мы готовы решать любые нестандартные задачи и адаптироваться под ваши уникальные потребности и график."
-keywords: "консьерж-сервис, гибкость, ButlerSPB, индивидуальный подход, нестандартные задачи, персональный ассистент"
-pubDate: "2025-07-24T13:43:34.338Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Гибкость консьержа: ключ к идеальному сервису","description":"Гибкость — ключевое качество консьержа от ButlerSPB. Мы готовы решать любые нестандартные задачи и адаптироваться под ваши уникальные потребности и график.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.7","reviewCount":783,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/gibkost-konserzha/"}}
+title: 'Гибкость консьержа: ключ к идеальному сервису'
+description: >-
+  Гибкость — ключевое качество консьержа от ButlerSPB. Мы готовы решать любые
+  нестандартные задачи и адаптироваться под ваши уникальные потребности и
+  график.
+pubDate: '2025-07-24T13:43:34.338Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Гибкость консьержа: ключ к идеальному сервису'
+  description: >-
+    Гибкость — ключевое качество консьержа от ButlerSPB. Мы готовы решать любые
+    нестандартные задачи и адаптироваться под ваши уникальные потребности и
+    график.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.7'
+    reviewCount: 760
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': 'https://butlerspb-blog.netlify.app/blog/gibkost-konserzha/'
 ---
 # Искусство гибкости: Когда ваш консьерж говорит «Да» там, где другие говорят «Невозможно»
 

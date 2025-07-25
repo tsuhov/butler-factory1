@@ -1,11 +1,38 @@
 ---
-title: "Анализ работы склада: повышаем эффективность"
-description: "Анализ склада помогает выявить неэффективные процессы, оптимизировать запасы и сократить издержки. Узнайте, какие метрики важны для улучшения логистики."
-keywords: "анализ склада, складская логистика, оптимизация склада, управление запасами, эффективность склада, аудит склада, ButlerSPB"
-pubDate: "2025-07-25T14:50:32.654Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Анализ работы склада: повышаем эффективность","description":"Анализ склада помогает выявить неэффективные процессы, оптимизировать запасы и сократить издержки. Узнайте, какие метрики важны для улучшения логистики.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"5.0","reviewCount":863,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/analiz-skladov/"}}
+title: 'Анализ работы склада: повышаем эффективность'
+description: >-
+  Анализ склада помогает выявить неэффективные процессы, оптимизировать запасы и
+  сократить издержки. Узнайте, какие метрики важны для улучшения логистики.
+pubDate: '2025-07-25T14:50:32.654Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Анализ работы склада: повышаем эффективность'
+  description: >-
+    Анализ склада помогает выявить неэффективные процессы, оптимизировать запасы
+    и сократить издержки. Узнайте, какие метрики важны для улучшения логистики.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.8'
+    reviewCount: 436
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': 'https://butlerspb-blog.netlify.app/blog/analiz-skladov/'
 ---
 # Как провести анализ склада: пошаговое руководство от А до Я
 

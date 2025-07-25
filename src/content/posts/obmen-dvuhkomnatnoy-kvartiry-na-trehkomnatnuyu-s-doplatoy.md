@@ -1,10 +1,49 @@
 ---
-title: "Обмен двухкомнатной квартиры на трехкомнатную с доплатой: пошаговое руководство от ButlerSPB"
-description: "Думаете о расширении жилплощади? В нашей статье мы подробно разбираем все нюансы обмена двухкомнатной квартиры на трехкомнатную с доплатой. Узнайте, как правильно оценить свою недвижимость, рассчитать размер доплаты, найти подходящий вариант и безопасно провести сделку. Эксперты ButlerSPB делятся советами и рассказывают о подводных камнях процесса."
-pubDate: "2025-07-23T11:12:14.788Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Обмен двухкомнатной квартиры на трехкомнатную с доплатой: пошаговое руководство от ButlerSPB","description":"Думаете о расширении жилплощади? В нашей статье мы подробно разбираем все нюансы обмена двухкомнатной квартиры на трехкомнатную с доплатой. Узнайте, как правильно оценить свою недвижимость, рассчитать размер доплаты, найти подходящий вариант и безопасно провести сделку. Эксперты ButlerSPB делятся советами и рассказывают о подводных камнях процесса.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":659,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/obmen-dvuhkomnatnoy-kvartiry-na-trehkomnatnuyu-s-doplatoy/"}}
+title: >-
+  Обмен двухкомнатной квартиры на трехкомнатную с доплатой: пошаговое
+  руководство от ButlerSPB
+description: >-
+  Думаете о расширении жилплощади? В нашей статье мы подробно разбираем все
+  нюансы обмена двухкомнатной квартиры на трехкомнатную с доплатой. Узнайте, как
+  правильно оценить свою недвижимость, рассчитать размер доплаты, найти
+  подходящий вариант и безопасно провести сделку. Эксперты ButlerSPB делятся
+  советами и рассказывают о подводных камнях процесса.
+pubDate: '2025-07-23T11:12:14.788Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: >-
+    Обмен двухкомнатной квартиры на трехкомнатную с доплатой: пошаговое
+    руководство от ButlerSPB
+  description: >-
+    Думаете о расширении жилплощади? В нашей статье мы подробно разбираем все
+    нюансы обмена двухкомнатной квартиры на трехкомнатную с доплатой. Узнайте,
+    как правильно оценить свою недвижимость, рассчитать размер доплаты, найти
+    подходящий вариант и безопасно провести сделку. Эксперты ButlerSPB делятся
+    советами и рассказывают о подводных камнях процесса.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.9'
+    reviewCount: 892
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/obmen-dvuhkomnatnoy-kvartiry-na-trehkomnatnuyu-s-doplatoy/
 ---
 
 # Как обменять двухкомнатную квартиру на трехкомнатную с доплатой: Полное руководство 2024 от ButlerSPB

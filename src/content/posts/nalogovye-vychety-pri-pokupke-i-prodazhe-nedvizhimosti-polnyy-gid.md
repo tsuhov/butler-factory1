@@ -1,10 +1,45 @@
 ---
-title: "Налоговые вычеты при покупке и продаже недвижимости: полный гид."
-description: "Планируете сделку с недвижимостью? Узнайте, как вернуть до 650 000 рублей от государства! В новом гиде от блога ButlerSPB мы подробно разбираем все о налоговых вычетах при покупке и продаже жилья. Рассказываем, кому положен вычет, какие документы собрать, как рассчитать сумму и подать декларацию. Полезная инструкция для каждого, кто хочет сэкономить на налогах."
-pubDate: "2025-07-23T16:32:58.353Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Налоговые вычеты при покупке и продаже недвижимости: полный гид.","description":"Планируете сделку с недвижимостью? Узнайте, как вернуть до 650 000 рублей от государства! В новом гиде от блога ButlerSPB мы подробно разбираем все о налоговых вычетах при покупке и продаже жилья. Рассказываем, кому положен вычет, какие документы собрать, как рассчитать сумму и подать декларацию. Полезная инструкция для каждого, кто хочет сэкономить на налогах.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.7","reviewCount":859,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/nalogovye-vychety-pri-pokupke-i-prodazhe-nedvizhimosti-polnyy-gid/"}}
+title: 'Налоговые вычеты при покупке и продаже недвижимости: полный гид.'
+description: >-
+  Планируете сделку с недвижимостью? Узнайте, как вернуть до 650 000 рублей от
+  государства! В новом гиде от блога ButlerSPB мы подробно разбираем все о
+  налоговых вычетах при покупке и продаже жилья. Рассказываем, кому положен
+  вычет, какие документы собрать, как рассчитать сумму и подать декларацию.
+  Полезная инструкция для каждого, кто хочет сэкономить на налогах.
+pubDate: '2025-07-23T16:32:58.353Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Налоговые вычеты при покупке и продаже недвижимости: полный гид.'
+  description: >-
+    Планируете сделку с недвижимостью? Узнайте, как вернуть до 650 000 рублей от
+    государства! В новом гиде от блога ButlerSPB мы подробно разбираем все о
+    налоговых вычетах при покупке и продаже жилья. Рассказываем, кому положен
+    вычет, какие документы собрать, как рассчитать сумму и подать декларацию.
+    Полезная инструкция для каждого, кто хочет сэкономить на налогах.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.9'
+    reviewCount: 856
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/nalogovye-vychety-pri-pokupke-i-prodazhe-nedvizhimosti-polnyy-gid/
 ---
 
 # Налоговые вычеты при покупке и продаже недвижимости: полный гид 2024

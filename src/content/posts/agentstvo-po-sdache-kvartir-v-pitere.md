@@ -26,8 +26,8 @@ schema:
       https://images.unsplash.com/photo-1600607687939-ce8a6c25118c?q=80&w=2070&auto=format&fit=crop
   aggregateRating:
     '@type': AggregateRating
-    ratingValue: '4.8'
-    reviewCount: 422
+    ratingValue: '4.9'
+    reviewCount: 545
     bestRating: '5'
     worstRating: '1'
   publisher:

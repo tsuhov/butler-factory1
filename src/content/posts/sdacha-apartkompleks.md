@@ -1,11 +1,40 @@
 ---
-title: "Сдача апарт-комплекса: от проекта до дохода"
-description: "Планируете сдавать апарт-комплекс? В статье разбираем ключевые этапы: подготовка, маркетинг, работа с арендаторами. Узнайте, как максимизировать прибыль."
-keywords: "сдача апарт-комплекса, управление недвижимостью, арендный бизнес, доходная недвижимость, инвестиции, апарт-отель, ButlerSPB"
-pubDate: "2025-07-25T14:17:38.889Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Сдача апарт-комплекса: от проекта до дохода","description":"Планируете сдавать апарт-комплекс? В статье разбираем ключевые этапы: подготовка, маркетинг, работа с арендаторами. Узнайте, как максимизировать прибыль.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":886,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/sdacha-apartkompleks/"}}
+title: 'Сдача апарт-комплекса: от проекта до дохода'
+description: >-
+  Планируете сдавать апарт-комплекс? В статье разбираем ключевые этапы:
+  подготовка, маркетинг, работа с арендаторами. Узнайте, как максимизировать
+  прибыль.
+pubDate: '2025-07-25T14:17:38.889Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Сдача апарт-комплекса: от проекта до дохода'
+  description: >-
+    Планируете сдавать апарт-комплекс? В статье разбираем ключевые этапы:
+    подготовка, маркетинг, работа с арендаторами. Узнайте, как максимизировать
+    прибыль.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '5.0'
+    reviewCount: 604
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': 'https://butlerspb-blog.netlify.app/blog/sdacha-apartkompleks/'
 ---
 # Как сдать апарт-комплекс целиком: Стратегия, подводные камни и полное сопровождение от ButlerSPB
 

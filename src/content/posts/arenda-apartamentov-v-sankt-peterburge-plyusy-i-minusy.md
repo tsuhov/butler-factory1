@@ -1,10 +1,45 @@
 ---
-title: "Аренда апартаментов в Санкт-Петербурге: плюсы и минусы"
-description: "Планируете поездку в Северную столицу и стоите перед выбором: отель или апартаменты? Команда ButlerSPB подробно разбирает все преимущества и недостатки краткосрочной аренды апартаментов в Петербурге. В нашей статье вы найдете честный анализ, который поможет сделать правильный выбор для комфортного и незабываемого отдыха."
-pubDate: "2025-07-22T11:37:54.456Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Аренда апартаментов в Санкт-Петербурге: плюсы и минусы","description":"Планируете поездку в Северную столицу и стоите перед выбором: отель или апартаменты? Команда ButlerSPB подробно разбирает все преимущества и недостатки краткосрочной аренды апартаментов в Петербурге. В нашей статье вы найдете честный анализ, который поможет сделать правильный выбор для комфортного и незабываемого отдыха.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.8","reviewCount":467,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/arenda-apartamentov-v-sankt-peterburge-plyusy-i-minusy/"}}
+title: 'Аренда апартаментов в Санкт-Петербурге: плюсы и минусы'
+description: >-
+  Планируете поездку в Северную столицу и стоите перед выбором: отель или
+  апартаменты? Команда ButlerSPB подробно разбирает все преимущества и
+  недостатки краткосрочной аренды апартаментов в Петербурге. В нашей статье вы
+  найдете честный анализ, который поможет сделать правильный выбор для
+  комфортного и незабываемого отдыха.
+pubDate: '2025-07-22T11:37:54.456Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Аренда апартаментов в Санкт-Петербурге: плюсы и минусы'
+  description: >-
+    Планируете поездку в Северную столицу и стоите перед выбором: отель или
+    апартаменты? Команда ButlerSPB подробно разбирает все преимущества и
+    недостатки краткосрочной аренды апартаментов в Петербурге. В нашей статье вы
+    найдете честный анализ, который поможет сделать правильный выбор для
+    комфортного и незабываемого отдыха.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.7'
+    reviewCount: 597
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/arenda-apartamentov-v-sankt-peterburge-plyusy-i-minusy/
 ---
 
 # Аренда апартаментов в Петербурге: Полный гид по плюсам, минусам и подводным камням

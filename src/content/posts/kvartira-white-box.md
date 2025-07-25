@@ -1,11 +1,40 @@
 ---
-title: "Квартира white box: что это и кому подойдет?"
-description: "Квартира с отделкой white box – это идеальный холст для вашего дизайна. Рассказываем, что входит в предчистовую отделку, какие плюсы она дает и кому подходит."
-keywords: "white box, предчистовая отделка, ремонт квартиры, новостройка, дизайн интерьера, черновая отделка, ButlerSPB"
-pubDate: "2025-07-25T14:13:02.179Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Квартира white box: что это и кому подойдет?","description":"Квартира с отделкой white box – это идеальный холст для вашего дизайна. Рассказываем, что входит в предчистовую отделку, какие плюсы она дает и кому подходит.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":863,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/kvartira-white-box/"}}
+title: 'Квартира white box: что это и кому подойдет?'
+description: >-
+  Квартира с отделкой white box – это идеальный холст для вашего дизайна.
+  Рассказываем, что входит в предчистовую отделку, какие плюсы она дает и кому
+  подходит.
+pubDate: '2025-07-25T14:13:02.179Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Квартира white box: что это и кому подойдет?'
+  description: >-
+    Квартира с отделкой white box – это идеальный холст для вашего дизайна.
+    Рассказываем, что входит в предчистовую отделку, какие плюсы она дает и кому
+    подходит.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.8'
+    reviewCount: 892
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': 'https://butlerspb-blog.netlify.app/blog/kvartira-white-box/'
 ---
 # White Box: Идеальный холст для дизайнера или кот в мешке? Полное руководство от ButlerSPB
 

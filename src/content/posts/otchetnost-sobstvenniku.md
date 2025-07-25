@@ -1,11 +1,40 @@
 ---
-title: "Отчетность для собственника: ключ к контролю"
-description: "Как сделать отчеты для собственника понятными и полезными? ButlerSPB делится опытом составления ключевых отчетов, которые помогают видеть реальную картину бизнеса."
-keywords: "отчетность собственнику, управленческий учет, финансовый отчет, контроль бизнеса, отчет для владельца, ButlerSPB"
-pubDate: "2025-07-25T15:14:07.897Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Отчетность для собственника: ключ к контролю","description":"Как сделать отчеты для собственника понятными и полезными? ButlerSPB делится опытом составления ключевых отчетов, которые помогают видеть реальную картину бизнеса.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"5.0","reviewCount":776,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/otchetnost-sobstvenniku/"}}
+title: 'Отчетность для собственника: ключ к контролю'
+description: >-
+  Как сделать отчеты для собственника понятными и полезными? ButlerSPB делится
+  опытом составления ключевых отчетов, которые помогают видеть реальную картину
+  бизнеса.
+pubDate: '2025-07-25T15:14:07.897Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Отчетность для собственника: ключ к контролю'
+  description: >-
+    Как сделать отчеты для собственника понятными и полезными? ButlerSPB делится
+    опытом составления ключевых отчетов, которые помогают видеть реальную
+    картину бизнеса.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '5.0'
+    reviewCount: 618
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': 'https://butlerspb-blog.netlify.app/blog/otchetnost-sobstvenniku/'
 ---
 # Отчетность для собственника: Как перестать "тушить пожары" и начать управлять бизнесом на основе цифр
 

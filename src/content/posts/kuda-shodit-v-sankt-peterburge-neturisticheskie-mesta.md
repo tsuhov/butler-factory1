@@ -1,10 +1,45 @@
 ---
-title: "Куда сходить в Санкт-Петербурге: нетуристические места"
-description: "Устали от толп туристов на Невском и бесконечных очередей в Эрмитаж? Команда ButlerSPB подготовила для вас гид по нетривиальным местам Санкт-Петербурга, которые любят сами петербуржцы. Откройте для себя скрытые дворики, концептуальные бары, арт-пространства и секретные смотровые площадки, чтобы увидеть настоящий, живой город и почувствовать его уникальную атмосферу."
-pubDate: "2025-07-22T13:14:48.686Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Куда сходить в Санкт-Петербурге: нетуристические места","description":"Устали от толп туристов на Невском и бесконечных очередей в Эрмитаж? Команда ButlerSPB подготовила для вас гид по нетривиальным местам Санкт-Петербурга, которые любят сами петербуржцы. Откройте для себя скрытые дворики, концептуальные бары, арт-пространства и секретные смотровые площадки, чтобы увидеть настоящий, живой город и почувствовать его уникальную атмосферу.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.8","reviewCount":826,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/kuda-shodit-v-sankt-peterburge-neturisticheskie-mesta/"}}
+title: 'Куда сходить в Санкт-Петербурге: нетуристические места'
+description: >-
+  Устали от толп туристов на Невском и бесконечных очередей в Эрмитаж? Команда
+  ButlerSPB подготовила для вас гид по нетривиальным местам Санкт-Петербурга,
+  которые любят сами петербуржцы. Откройте для себя скрытые дворики,
+  концептуальные бары, арт-пространства и секретные смотровые площадки, чтобы
+  увидеть настоящий, живой город и почувствовать его уникальную атмосферу.
+pubDate: '2025-07-22T13:14:48.686Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Куда сходить в Санкт-Петербурге: нетуристические места'
+  description: >-
+    Устали от толп туристов на Невском и бесконечных очередей в Эрмитаж? Команда
+    ButlerSPB подготовила для вас гид по нетривиальным местам Санкт-Петербурга,
+    которые любят сами петербуржцы. Откройте для себя скрытые дворики,
+    концептуальные бары, арт-пространства и секретные смотровые площадки, чтобы
+    увидеть настоящий, живой город и почувствовать его уникальную атмосферу.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '5.0'
+    reviewCount: 329
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/kuda-shodit-v-sankt-peterburge-neturisticheskie-mesta/
 ---
 
 # Петербург для своих: Полный гид по нетуристическим местам, о которых вам не расскажут в путеводителях

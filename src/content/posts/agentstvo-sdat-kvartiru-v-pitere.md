@@ -1,10 +1,46 @@
 ---
-title: "Как сдать квартиру в Питере через агентство: полное руководство от ButlerSPB"
-description: "Думаете сдать квартиру в Санкт-Петербурге и ищете надежное агентство? В нашей статье мы подробно разбираем, как работает рынок аренды в СПб, какие преимущества дает собственнику работа через профессионалов и почему доверительное управление от ButlerSPB — это не просто сдача квартиры, а гарантия вашего спокойствия и стабильного дохода. Узнайте, как мы находим лучших жильцов, берем на себя всю рутину и защищаем ваши интересы."
-pubDate: "2025-07-22T10:13:01.864Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Как сдать квартиру в Питере через агентство: полное руководство от ButlerSPB","description":"Думаете сдать квартиру в Санкт-Петербурге и ищете надежное агентство? В нашей статье мы подробно разбираем, как работает рынок аренды в СПб, какие преимущества дает собственнику работа через профессионалов и почему доверительное управление от ButlerSPB — это не просто сдача квартиры, а гарантия вашего спокойствия и стабильного дохода. Узнайте, как мы находим лучших жильцов, берем на себя всю рутину и защищаем ваши интересы.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.8","reviewCount":794,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/agentstvo-sdat-kvartiru-v-pitere/"}}
+title: 'Как сдать квартиру в Питере через агентство: полное руководство от ButlerSPB'
+description: >-
+  Думаете сдать квартиру в Санкт-Петербурге и ищете надежное агентство? В нашей
+  статье мы подробно разбираем, как работает рынок аренды в СПб, какие
+  преимущества дает собственнику работа через профессионалов и почему
+  доверительное управление от ButlerSPB — это не просто сдача квартиры, а
+  гарантия вашего спокойствия и стабильного дохода. Узнайте, как мы находим
+  лучших жильцов, берем на себя всю рутину и защищаем ваши интересы.
+pubDate: '2025-07-22T10:13:01.864Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Как сдать квартиру в Питере через агентство: полное руководство от ButlerSPB'
+  description: >-
+    Думаете сдать квартиру в Санкт-Петербурге и ищете надежное агентство? В
+    нашей статье мы подробно разбираем, как работает рынок аренды в СПб, какие
+    преимущества дает собственнику работа через профессионалов и почему
+    доверительное управление от ButlerSPB — это не просто сдача квартиры, а
+    гарантия вашего спокойствия и стабильного дохода. Узнайте, как мы находим
+    лучших жильцов, берем на себя всю рутину и защищаем ваши интересы.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.8'
+    reviewCount: 349
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': 'https://butlerspb-blog.netlify.app/blog/agentstvo-sdat-kvartiru-v-pitere/'
 ---
 
 # Как сдать квартиру в Питере через агентство: Полное руководство для собственника

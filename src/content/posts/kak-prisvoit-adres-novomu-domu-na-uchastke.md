@@ -1,11 +1,41 @@
 ---
-title: "Как присвоить адрес новому дому на участке"
-description: "Узнайте, как присвоить адрес новому дому на вашем участке. Пошаговая инструкция от ButlerSPB: какие документы собрать и куда подать заявление для регистрации."
-keywords: "присвоение адреса, адрес дома, регистрация дома, новый дом на участке, почтовый адрес, адресация объекта"
-pubDate: "2025-07-24T12:11:29.490Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Как присвоить адрес новому дому на участке","description":"Узнайте, как присвоить адрес новому дому на вашем участке. Пошаговая инструкция от ButlerSPB: какие документы собрать и куда подать заявление для регистрации.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.7","reviewCount":787,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/kak-prisvoit-adres-novomu-domu-na-uchastke/"}}
+title: Как присвоить адрес новому дому на участке
+description: >-
+  Узнайте, как присвоить адрес новому дому на вашем участке. Пошаговая
+  инструкция от ButlerSPB: какие документы собрать и куда подать заявление для
+  регистрации.
+pubDate: '2025-07-24T12:11:29.490Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: Как присвоить адрес новому дому на участке
+  description: >-
+    Узнайте, как присвоить адрес новому дому на вашем участке. Пошаговая
+    инструкция от ButlerSPB: какие документы собрать и куда подать заявление для
+    регистрации.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.8'
+    reviewCount: 403
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/kak-prisvoit-adres-novomu-domu-na-uchastke/
 ---
 # Как присвоить адрес новому дому: пошаговая инструкция 2024 для владельцев участков в СПб и ЛО
 

@@ -1,10 +1,46 @@
 ---
-title: "Покупка квартиры в Адмиралтейском районе: старый фонд и новая элита"
-description: "Мечтаете о квартире в историческом центре Петербурга? Адмиралтейский район предлагает уникальный выбор: от аристократичных квартир в домах старого фонда с высокими потолками и лепниной до ультрасовременных апартаментов в элитных новостройках. В новой статье блога ButlerSPB разбираемся в особенностях, плюсах и минусах каждого варианта, чтобы помочь вам сделать правильный выбор."
-pubDate: "2025-07-23T11:14:54.681Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Покупка квартиры в Адмиралтейском районе: старый фонд и новая элита","description":"Мечтаете о квартире в историческом центре Петербурга? Адмиралтейский район предлагает уникальный выбор: от аристократичных квартир в домах старого фонда с высокими потолками и лепниной до ультрасовременных апартаментов в элитных новостройках. В новой статье блога ButlerSPB разбираемся в особенностях, плюсах и минусах каждого варианта, чтобы помочь вам сделать правильный выбор.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.8","reviewCount":631,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/pokupka-kvartiry-v-admiralteyskom-rayone-staryy-fond-i-novaya-elita/"}}
+title: 'Покупка квартиры в Адмиралтейском районе: старый фонд и новая элита'
+description: >-
+  Мечтаете о квартире в историческом центре Петербурга? Адмиралтейский район
+  предлагает уникальный выбор: от аристократичных квартир в домах старого фонда
+  с высокими потолками и лепниной до ультрасовременных апартаментов в элитных
+  новостройках. В новой статье блога ButlerSPB разбираемся в особенностях,
+  плюсах и минусах каждого варианта, чтобы помочь вам сделать правильный выбор.
+pubDate: '2025-07-23T11:14:54.681Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Покупка квартиры в Адмиралтейском районе: старый фонд и новая элита'
+  description: >-
+    Мечтаете о квартире в историческом центре Петербурга? Адмиралтейский район
+    предлагает уникальный выбор: от аристократичных квартир в домах старого
+    фонда с высокими потолками и лепниной до ультрасовременных апартаментов в
+    элитных новостройках. В новой статье блога ButlerSPB разбираемся в
+    особенностях, плюсах и минусах каждого варианта, чтобы помочь вам сделать
+    правильный выбор.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.7'
+    reviewCount: 709
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/pokupka-kvartiry-v-admiralteyskom-rayone-staryy-fond-i-novaya-elita/
 ---
 
 # Покупка квартиры в Адмиралтейском районе: Душа старого фонда или комфорт новой элиты?

@@ -1,10 +1,47 @@
 ---
-title: "Управление посуточной арендой квартир: отзывы владельцев и как выбрать надежную компанию"
-description: "Планируете передать квартиру в управление для посуточной аренды? В блоге ButlerSPB разбираем реальные отзывы владельцев, рассказываем, на что обращать внимание при выборе управляющей компании и как отличить настоящие комментарии от поддельных."
-pubDate: "2025-07-22T00:08:26.347Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Управление посуточной арендой квартир: отзывы владельцев и как выбрать надежную компанию","description":"Планируете передать квартиру в управление для посуточной аренды? В блоге ButlerSPB разбираем реальные отзывы владельцев, рассказываем, на что обращать внимание при выборе управляющей компании и как отличить настоящие комментарии от поддельных.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":552,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/upravlenie-posutochnoy-arendoy-kvartir-otzyvy/"}}
+title: >-
+  Управление посуточной арендой квартир: отзывы владельцев и как выбрать
+  надежную компанию
+description: >-
+  Планируете передать квартиру в управление для посуточной аренды? В блоге
+  ButlerSPB разбираем реальные отзывы владельцев, рассказываем, на что обращать
+  внимание при выборе управляющей компании и как отличить настоящие комментарии
+  от поддельных.
+pubDate: '2025-07-22T00:08:26.347Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: >-
+    Управление посуточной арендой квартир: отзывы владельцев и как выбрать
+    надежную компанию
+  description: >-
+    Планируете передать квартиру в управление для посуточной аренды? В блоге
+    ButlerSPB разбираем реальные отзывы владельцев, рассказываем, на что
+    обращать внимание при выборе управляющей компании и как отличить настоящие
+    комментарии от поддельных.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '5.0'
+    reviewCount: 625
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/upravlenie-posutochnoy-arendoy-kvartir-otzyvy/
 ---
 
 # Управление посуточной арендой квартир: Реальные отзывы владельцев и как выбрать лучшую компанию в СПб

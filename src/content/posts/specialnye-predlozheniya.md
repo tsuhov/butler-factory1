@@ -1,11 +1,40 @@
 ---
-title: "Выгодные предложения и акции от ButlerSPB"
-description: "Узнайте о наших эксклюзивных специальных предложениях! ButlerSPB предлагает уникальные скидки и акции на наши услуги. Экономьте с нами без компромиссов в качестве."
-keywords: "специальные предложения, акции, скидки, ButlerSPB, выгодные услуги, промокоды, эксклюзивные предложения"
-pubDate: "2025-07-25T16:09:04.631Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Выгодные предложения и акции от ButlerSPB","description":"Узнайте о наших эксклюзивных специальных предложениях! ButlerSPB предлагает уникальные скидки и акции на наши услуги. Экономьте с нами без компромиссов в качестве.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"5.0","reviewCount":537,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/specialnye-predlozheniya/"}}
+title: Выгодные предложения и акции от ButlerSPB
+description: >-
+  Узнайте о наших эксклюзивных специальных предложениях! ButlerSPB предлагает
+  уникальные скидки и акции на наши услуги. Экономьте с нами без компромиссов в
+  качестве.
+pubDate: '2025-07-25T16:09:04.631Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: Выгодные предложения и акции от ButlerSPB
+  description: >-
+    Узнайте о наших эксклюзивных специальных предложениях! ButlerSPB предлагает
+    уникальные скидки и акции на наши услуги. Экономьте с нами без компромиссов
+    в качестве.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.9'
+    reviewCount: 313
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': 'https://butlerspb-blog.netlify.app/blog/specialnye-predlozheniya/'
 ---
 # Эксклюзивные возможности: Как получить максимум от премиум-сервиса ButlerSPB с нашими специальными предложениями
 

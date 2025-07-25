@@ -1,11 +1,38 @@
 ---
-title: "Конфликты с соседями: как их разрешить?"
-description: "Шум, мусор, споры из-за парковки — частые причины ссор с соседями. В статье ButlerSPB мы разбираем, как действовать по закону и договориться мирно."
-keywords: "конфликты с соседями, шумные соседи, закон о тишине, ссора с соседями, как договориться с соседями, права жильцов"
-pubDate: "2025-07-25T15:54:52.137Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Конфликты с соседями: как их разрешить?","description":"Шум, мусор, споры из-за парковки — частые причины ссор с соседями. В статье ButlerSPB мы разбираем, как действовать по закону и договориться мирно.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":571,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/konflikty-sosedi/"}}
+title: 'Конфликты с соседями: как их разрешить?'
+description: >-
+  Шум, мусор, споры из-за парковки — частые причины ссор с соседями. В статье
+  ButlerSPB мы разбираем, как действовать по закону и договориться мирно.
+pubDate: '2025-07-25T15:54:52.137Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Конфликты с соседями: как их разрешить?'
+  description: >-
+    Шум, мусор, споры из-за парковки — частые причины ссор с соседями. В статье
+    ButlerSPB мы разбираем, как действовать по закону и договориться мирно.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '5.0'
+    reviewCount: 748
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': 'https://butlerspb-blog.netlify.app/blog/konflikty-sosedi/'
 ---
 # Соседские войны: пошаговая инструкция от экспертов по управлению недвижимостью ButlerSPB
 

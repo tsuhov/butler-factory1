@@ -1,11 +1,40 @@
 ---
-title: "Системы оповещения от ButlerSPB: ваш гид"
-description: "Эффективная система оповещения — ключ к безопасности. Рассказываем о типах систем, нормах проектирования и монтажа, а также даем советы по выбору оборудования."
-keywords: "система оповещения, СОУЭ, монтаж оповещения, проектирование, безопасность, ButlerSPB, пожарная безопасность"
-pubDate: "2025-07-25T16:18:47.202Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Системы оповещения от ButlerSPB: ваш гид","description":"Эффективная система оповещения — ключ к безопасности. Рассказываем о типах систем, нормах проектирования и монтажа, а также даем советы по выбору оборудования.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.8","reviewCount":689,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/sistema-opovescheniya/"}}
+title: 'Системы оповещения от ButlerSPB: ваш гид'
+description: >-
+  Эффективная система оповещения — ключ к безопасности. Рассказываем о типах
+  систем, нормах проектирования и монтажа, а также даем советы по выбору
+  оборудования.
+pubDate: '2025-07-25T16:18:47.202Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Системы оповещения от ButlerSPB: ваш гид'
+  description: >-
+    Эффективная система оповещения — ключ к безопасности. Рассказываем о типах
+    систем, нормах проектирования и монтажа, а также даем советы по выбору
+    оборудования.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.9'
+    reviewCount: 607
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': 'https://butlerspb-blog.netlify.app/blog/sistema-opovescheniya/'
 ---
 # Система оповещения и управления эвакуацией (СОУЭ) на объекте: от проекта до обслуживания
 

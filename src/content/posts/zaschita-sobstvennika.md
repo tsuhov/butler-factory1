@@ -1,11 +1,40 @@
 ---
-title: "Защита собственника: ключевые аспекты и риски"
-description: "Узнайте, как эффективно защитить свою собственность от посягательств. ButlerSPB делится опытом по предотвращению рисков, связанных с арендой и управлением."
-keywords: "защита собственника, права собственника, недвижимость, управление недвижимостью, юридическая защита, риски аренды, ButlerSPB"
-pubDate: "2025-07-25T14:37:41.782Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Защита собственника: ключевые аспекты и риски","description":"Узнайте, как эффективно защитить свою собственность от посягательств. ButlerSPB делится опытом по предотвращению рисков, связанных с арендой и управлением.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":651,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/zaschita-sobstvennika/"}}
+title: 'Защита собственника: ключевые аспекты и риски'
+description: >-
+  Узнайте, как эффективно защитить свою собственность от посягательств.
+  ButlerSPB делится опытом по предотвращению рисков, связанных с арендой и
+  управлением.
+pubDate: '2025-07-25T14:37:41.782Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Защита собственника: ключевые аспекты и риски'
+  description: >-
+    Узнайте, как эффективно защитить свою собственность от посягательств.
+    ButlerSPB делится опытом по предотвращению рисков, связанных с арендой и
+    управлением.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.9'
+    reviewCount: 810
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': 'https://butlerspb-blog.netlify.app/blog/zaschita-sobstvennika/'
 ---
 # Защита собственника: Полное руководство по безопасной сдаче квартиры в аренду
 

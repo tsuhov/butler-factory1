@@ -1,10 +1,49 @@
 ---
-title: "Обмен квартиры на дом с доплатой в Санкт-Петербурге: полное руководство от ButlerSPB"
-description: "Мечтаете переехать из городской квартиры в просторный дом в Ленинградской области? Узнайте все об обмене недвижимости с доплатой. В нашей статье мы подробно разбираем этапы сделки, юридические аспекты, способы оценки объектов и расчета доплаты. Эксперты ButlerSPB делятся советами, как найти идеальный дом и безопасно провести обмен."
-pubDate: "2025-07-21T23:17:30.392Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Обмен квартиры на дом с доплатой в Санкт-Петербурге: полное руководство от ButlerSPB","description":"Мечтаете переехать из городской квартиры в просторный дом в Ленинградской области? Узнайте все об обмене недвижимости с доплатой. В нашей статье мы подробно разбираем этапы сделки, юридические аспекты, способы оценки объектов и расчета доплаты. Эксперты ButlerSPB делятся советами, как найти идеальный дом и безопасно провести обмен.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"5.0","reviewCount":811,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/obmen-kvartiry-na-dom-s-doplatoy-v-sankt-peterburge/"}}
+title: >-
+  Обмен квартиры на дом с доплатой в Санкт-Петербурге: полное руководство от
+  ButlerSPB
+description: >-
+  Мечтаете переехать из городской квартиры в просторный дом в Ленинградской
+  области? Узнайте все об обмене недвижимости с доплатой. В нашей статье мы
+  подробно разбираем этапы сделки, юридические аспекты, способы оценки объектов
+  и расчета доплаты. Эксперты ButlerSPB делятся советами, как найти идеальный
+  дом и безопасно провести обмен.
+pubDate: '2025-07-21T23:17:30.392Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: >-
+    Обмен квартиры на дом с доплатой в Санкт-Петербурге: полное руководство от
+    ButlerSPB
+  description: >-
+    Мечтаете переехать из городской квартиры в просторный дом в Ленинградской
+    области? Узнайте все об обмене недвижимости с доплатой. В нашей статье мы
+    подробно разбираем этапы сделки, юридические аспекты, способы оценки
+    объектов и расчета доплаты. Эксперты ButlerSPB делятся советами, как найти
+    идеальный дом и безопасно провести обмен.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '5.0'
+    reviewCount: 783
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/obmen-kvartiry-na-dom-s-doplatoy-v-sankt-peterburge/
 ---
 
 # Обмен квартиры на дом с доплатой в Санкт-Петербурге: от мечты до ключей за 6 шагов

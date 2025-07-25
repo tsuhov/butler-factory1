@@ -1,11 +1,40 @@
 ---
-title: "Взаимодействие с собственником: ключ к успеху"
-description: "Успешное управление недвижимостью строится на доверии. В ButlerSPB мы ценим открытый диалог с каждым собственником, обеспечивая полную прозрачность и оперативность."
-keywords: "взаимодействие с собственником, управление недвижимостью, ButlerSPB, доверительное управление, коммуникация с владельцем, отчетность для собственника"
-pubDate: "2025-07-25T16:08:35.624Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Взаимодействие с собственником: ключ к успеху","description":"Успешное управление недвижимостью строится на доверии. В ButlerSPB мы ценим открытый диалог с каждым собственником, обеспечивая полную прозрачность и оперативность.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.8","reviewCount":700,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/vzaimodeystvie-sobstvennik/"}}
+title: 'Взаимодействие с собственником: ключ к успеху'
+description: >-
+  Успешное управление недвижимостью строится на доверии. В ButlerSPB мы ценим
+  открытый диалог с каждым собственником, обеспечивая полную прозрачность и
+  оперативность.
+pubDate: '2025-07-25T16:08:35.624Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Взаимодействие с собственником: ключ к успеху'
+  description: >-
+    Успешное управление недвижимостью строится на доверии. В ButlerSPB мы ценим
+    открытый диалог с каждым собственником, обеспечивая полную прозрачность и
+    оперативность.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.8'
+    reviewCount: 728
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': 'https://butlerspb-blog.netlify.app/blog/vzaimodeystvie-sobstvennik/'
 ---
 # Взаимодействие собственника и управляющей компании: как построить прозрачное и выгодное партнерство
 

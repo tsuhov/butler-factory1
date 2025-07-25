@@ -1,10 +1,49 @@
 ---
-title: "Выбор управляющей компании для апартаментов: на что смотреть в первую очередь"
-description: "Инвестиции в апартаменты могут приносить стабильный доход, но только при грамотном управлении. В новой статье блога ButlerSPB рассказываем, как не ошибиться с выбором управляющей компании. Разбираем ключевые критерии: от репутации и опыта на рынке до прозрачности тарифов и набора услуг. Узнайте, какие вопросы задать потенциальному партнеру, чтобы доверить свою недвижимость в надежные руки."
-pubDate: "2025-07-23T14:11:01.807Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Выбор управляющей компании для апартаментов: на что смотреть в первую очередь","description":"Инвестиции в апартаменты могут приносить стабильный доход, но только при грамотном управлении. В новой статье блога ButlerSPB рассказываем, как не ошибиться с выбором управляющей компании. Разбираем ключевые критерии: от репутации и опыта на рынке до прозрачности тарифов и набора услуг. Узнайте, какие вопросы задать потенциальному партнеру, чтобы доверить свою недвижимость в надежные руки.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.8","reviewCount":813,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/vybor-upravlyayuschey-kompanii-dlya-apartamentov-na-chto-smotret-v-pervuyu-ochered/"}}
+title: 'Выбор управляющей компании для апартаментов: на что смотреть в первую очередь'
+description: >-
+  Инвестиции в апартаменты могут приносить стабильный доход, но только при
+  грамотном управлении. В новой статье блога ButlerSPB рассказываем, как не
+  ошибиться с выбором управляющей компании. Разбираем ключевые критерии: от
+  репутации и опыта на рынке до прозрачности тарифов и набора услуг. Узнайте,
+  какие вопросы задать потенциальному партнеру, чтобы доверить свою недвижимость
+  в надежные руки.
+pubDate: '2025-07-23T14:11:01.807Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: >-
+    Выбор управляющей компании для апартаментов: на что смотреть в первую
+    очередь
+  description: >-
+    Инвестиции в апартаменты могут приносить стабильный доход, но только при
+    грамотном управлении. В новой статье блога ButlerSPB рассказываем, как не
+    ошибиться с выбором управляющей компании. Разбираем ключевые критерии: от
+    репутации и опыта на рынке до прозрачности тарифов и набора услуг. Узнайте,
+    какие вопросы задать потенциальному партнеру, чтобы доверить свою
+    недвижимость в надежные руки.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.9'
+    reviewCount: 462
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/vybor-upravlyayuschey-kompanii-dlya-apartamentov-na-chto-smotret-v-pervuyu-ochered/
 ---
 
 # **Выбор управляющей компании для апартаментов: на что смотреть в первую очередь**

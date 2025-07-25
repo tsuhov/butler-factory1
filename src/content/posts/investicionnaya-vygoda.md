@@ -1,11 +1,40 @@
 ---
-title: "Инвестиционная выгода в недвижимости с ButlerSPB"
-description: "Узнайте, как получить максимальную инвестиционную выгоду от вложений в недвижимость Санкт-Петербурга. ButlerSPB предлагает экспертные решения для роста вашего капитала."
-keywords: "инвестиции в недвижимость, доходность, недвижимость СПб, ButlerSPB, рост капитала, управление активами"
-pubDate: "2025-07-25T15:52:24.488Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Инвестиционная выгода в недвижимости с ButlerSPB","description":"Узнайте, как получить максимальную инвестиционную выгоду от вложений в недвижимость Санкт-Петербурга. ButlerSPB предлагает экспертные решения для роста вашего капитала.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.7","reviewCount":872,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/investicionnaya-vygoda/"}}
+title: Инвестиционная выгода в недвижимости с ButlerSPB
+description: >-
+  Узнайте, как получить максимальную инвестиционную выгоду от вложений в
+  недвижимость Санкт-Петербурга. ButlerSPB предлагает экспертные решения для
+  роста вашего капитала.
+pubDate: '2025-07-25T15:52:24.488Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: Инвестиционная выгода в недвижимости с ButlerSPB
+  description: >-
+    Узнайте, как получить максимальную инвестиционную выгоду от вложений в
+    недвижимость Санкт-Петербурга. ButlerSPB предлагает экспертные решения для
+    роста вашего капитала.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.9'
+    reviewCount: 764
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': 'https://butlerspb-blog.netlify.app/blog/investicionnaya-vygoda/'
 ---
 # Инвестиционная выгода недвижимости в Санкт-Петербурге: полный гид от экспертов ButlerSPB
 

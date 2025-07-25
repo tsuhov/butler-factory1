@@ -1,11 +1,39 @@
 ---
-title: "Инвестиционная цель: как ее правильно ставить"
-description: "Правильно поставленная инвестиционная цель – это ваш компас в мире финансов. В нашей статье блога ButlerSPB мы разберем, как четко сформулировать свои цели."
-keywords: "инвестиционная цель, финансовое планирование, постановка целей, инвестиции, личные финансы, стратегия инвестирования, ButlerSPB"
-pubDate: "2025-07-25T15:51:30.800Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Инвестиционная цель: как ее правильно ставить","description":"Правильно поставленная инвестиционная цель – это ваш компас в мире финансов. В нашей статье блога ButlerSPB мы разберем, как четко сформулировать свои цели.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.7","reviewCount":828,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/invest-cel/"}}
+title: 'Инвестиционная цель: как ее правильно ставить'
+description: >-
+  Правильно поставленная инвестиционная цель – это ваш компас в мире финансов. В
+  нашей статье блога ButlerSPB мы разберем, как четко сформулировать свои цели.
+pubDate: '2025-07-25T15:51:30.800Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Инвестиционная цель: как ее правильно ставить'
+  description: >-
+    Правильно поставленная инвестиционная цель – это ваш компас в мире финансов.
+    В нашей статье блога ButlerSPB мы разберем, как четко сформулировать свои
+    цели.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.8'
+    reviewCount: 766
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': 'https://butlerspb-blog.netlify.app/blog/invest-cel/'
 ---
 # Инвестиционная цель: Ваш компас в мире финансов. Как поставить ее правильно и достичь желаемого
 

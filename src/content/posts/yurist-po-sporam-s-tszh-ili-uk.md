@@ -1,11 +1,38 @@
 ---
-title: "Юрист по спорам с ТСЖ или УК от ButlerSPB"
-description: "Неправомерные начисления, некачественные услуги? Юрист ButlerSPB поможет в спорах с ТСЖ или УК. Защитим ваши права и добьемся справедливости в суде."
-keywords: "юрист по ТСЖ, споры с УК, жилищный юрист, суд с управляющей компанией, защита прав собственников, ButlerSPB"
-pubDate: "2025-07-24T12:09:28.219Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Юрист по спорам с ТСЖ или УК от ButlerSPB","description":"Неправомерные начисления, некачественные услуги? Юрист ButlerSPB поможет в спорах с ТСЖ или УК. Защитим ваши права и добьемся справедливости в суде.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.8","reviewCount":737,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/yurist-po-sporam-s-tszh-ili-uk/"}}
+title: Юрист по спорам с ТСЖ или УК от ButlerSPB
+description: >-
+  Неправомерные начисления, некачественные услуги? Юрист ButlerSPB поможет в
+  спорах с ТСЖ или УК. Защитим ваши права и добьемся справедливости в суде.
+pubDate: '2025-07-24T12:09:28.219Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: Юрист по спорам с ТСЖ или УК от ButlerSPB
+  description: >-
+    Неправомерные начисления, некачественные услуги? Юрист ButlerSPB поможет в
+    спорах с ТСЖ или УК. Защитим ваши права и добьемся справедливости в суде.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.8'
+    reviewCount: 657
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': 'https://butlerspb-blog.netlify.app/blog/yurist-po-sporam-s-tszh-ili-uk/'
 ---
 # Юрист по спорам с ТСЖ и УК в Санкт-Петербурге: пошаговая инструкция, как защитить свои права
 

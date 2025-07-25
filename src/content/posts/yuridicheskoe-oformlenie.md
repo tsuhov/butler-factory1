@@ -1,11 +1,40 @@
 ---
-title: "Юридическое оформление бизнеса: гайд от ButlerSPB"
-description: "Правильное юридическое оформление — залог успешного старта вашего бизнеса. Эксперты ButlerSPB разбирают ключевые этапы регистрации, выбор формы и налогов."
-keywords: "юридическое оформление, регистрация бизнеса, регистрация ип, регистрация ооо, выбор налогообложения, правовая поддержка, ButlerSPB"
-pubDate: "2025-07-25T16:22:20.762Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Юридическое оформление бизнеса: гайд от ButlerSPB","description":"Правильное юридическое оформление — залог успешного старта вашего бизнеса. Эксперты ButlerSPB разбирают ключевые этапы регистрации, выбор формы и налогов.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":631,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/yuridicheskoe-oformlenie/"}}
+title: 'Юридическое оформление бизнеса: гайд от ButlerSPB'
+description: >-
+  Правильное юридическое оформление — залог успешного старта вашего бизнеса.
+  Эксперты ButlerSPB разбирают ключевые этапы регистрации, выбор формы и
+  налогов.
+pubDate: '2025-07-25T16:22:20.762Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Юридическое оформление бизнеса: гайд от ButlerSPB'
+  description: >-
+    Правильное юридическое оформление — залог успешного старта вашего бизнеса.
+    Эксперты ButlerSPB разбирают ключевые этапы регистрации, выбор формы и
+    налогов.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.7'
+    reviewCount: 364
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': 'https://butlerspb-blog.netlify.app/blog/yuridicheskoe-oformlenie/'
 ---
 # Юридическое оформление бизнеса в СПб: Полный гид от экспертов ButlerSPB
 

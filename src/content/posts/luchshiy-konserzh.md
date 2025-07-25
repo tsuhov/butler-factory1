@@ -1,11 +1,39 @@
 ---
-title: "Как стать лучшим консьержем: советы ButlerSPB"
-description: "Какими качествами обладает идеальный консьерж? ButlerSPB делится секретами: от безупречного сервиса и предугадывания желаний до решения самых сложных задач."
-keywords: "лучший консьерж, консьерж-сервис, ButlerSPB, услуги консьержа, идеальный сервис, профессиональный консьерж, консьерж спб"
-pubDate: "2025-07-25T14:10:38.341Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Как стать лучшим консьержем: советы ButlerSPB","description":"Какими качествами обладает идеальный консьерж? ButlerSPB делится секретами: от безупречного сервиса и предугадывания желаний до решения самых сложных задач.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":712,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/luchshiy-konserzh/"}}
+title: 'Как стать лучшим консьержем: советы ButlerSPB'
+description: >-
+  Какими качествами обладает идеальный консьерж? ButlerSPB делится секретами: от
+  безупречного сервиса и предугадывания желаний до решения самых сложных задач.
+pubDate: '2025-07-25T14:10:38.341Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Как стать лучшим консьержем: советы ButlerSPB'
+  description: >-
+    Какими качествами обладает идеальный консьерж? ButlerSPB делится секретами:
+    от безупречного сервиса и предугадывания желаний до решения самых сложных
+    задач.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.7'
+    reviewCount: 667
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': 'https://butlerspb-blog.netlify.app/blog/luchshiy-konserzh/'
 ---
 # Что делает консьержа лучшим? Полный гид от экспертов ButlerSPB
 

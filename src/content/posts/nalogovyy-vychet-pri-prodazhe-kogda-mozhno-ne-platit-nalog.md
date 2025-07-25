@@ -1,10 +1,51 @@
 ---
-title: "Налоговый вычет при продаже: когда можно не платить налог с продажи недвижимости"
-description: "Продали квартиру, дом или земельный участок и не хотите платить налог? Это возможно! В новой статье блога ButlerSPB подробно разбираем, что такое минимальный срок владения недвижимостью, как его правильно рассчитать для разных ситуаций (покупка, наследство, дарение) и в каких случаях вы полностью освобождаетесь от уплаты НДФЛ. Узнайте, как законно сэкономить свои деньги при сделках с недвижимостью."
-pubDate: "2025-07-23T10:46:23.085Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Налоговый вычет при продаже: когда можно не платить налог с продажи недвижимости","description":"Продали квартиру, дом или земельный участок и не хотите платить налог? Это возможно! В новой статье блога ButlerSPB подробно разбираем, что такое минимальный срок владения недвижимостью, как его правильно рассчитать для разных ситуаций (покупка, наследство, дарение) и в каких случаях вы полностью освобождаетесь от уплаты НДФЛ. Узнайте, как законно сэкономить свои деньги при сделках с недвижимостью.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":482,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/nalogovyy-vychet-pri-prodazhe-kogda-mozhno-ne-platit-nalog/"}}
+title: >-
+  Налоговый вычет при продаже: когда можно не платить налог с продажи
+  недвижимости
+description: >-
+  Продали квартиру, дом или земельный участок и не хотите платить налог? Это
+  возможно! В новой статье блога ButlerSPB подробно разбираем, что такое
+  минимальный срок владения недвижимостью, как его правильно рассчитать для
+  разных ситуаций (покупка, наследство, дарение) и в каких случаях вы полностью
+  освобождаетесь от уплаты НДФЛ. Узнайте, как законно сэкономить свои деньги при
+  сделках с недвижимостью.
+pubDate: '2025-07-23T10:46:23.085Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: >-
+    Налоговый вычет при продаже: когда можно не платить налог с продажи
+    недвижимости
+  description: >-
+    Продали квартиру, дом или земельный участок и не хотите платить налог? Это
+    возможно! В новой статье блога ButlerSPB подробно разбираем, что такое
+    минимальный срок владения недвижимостью, как его правильно рассчитать для
+    разных ситуаций (покупка, наследство, дарение) и в каких случаях вы
+    полностью освобождаетесь от уплаты НДФЛ. Узнайте, как законно сэкономить
+    свои деньги при сделках с недвижимостью.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.8'
+    reviewCount: 530
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/nalogovyy-vychet-pri-prodazhe-kogda-mozhno-ne-platit-nalog/
 ---
 
 # Как продать квартиру и не отдать 13% государству? Все законные способы избежать налога

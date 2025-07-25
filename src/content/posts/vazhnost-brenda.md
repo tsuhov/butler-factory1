@@ -1,11 +1,40 @@
 ---
-title: "ButlerSPB: о важности создания сильного бренда"
-description: "Сильный бренд — не просто логотип, а репутация и доверие. Узнайте из статьи нашего блога, как он помогает выделиться, привлечь клиентов и увеличить прибыль."
-keywords: "бренд, брендинг, важность бренда, сильный бренд, лояльность клиентов, узнаваемость, репутация"
-pubDate: "2025-07-25T16:14:34.516Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"ButlerSPB: о важности создания сильного бренда","description":"Сильный бренд — не просто логотип, а репутация и доверие. Узнайте из статьи нашего блога, как он помогает выделиться, привлечь клиентов и увеличить прибыль.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":513,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/vazhnost-brenda/"}}
+title: 'ButlerSPB: о важности создания сильного бренда'
+description: >-
+  Сильный бренд — не просто логотип, а репутация и доверие. Узнайте из статьи
+  нашего блога, как он помогает выделиться, привлечь клиентов и увеличить
+  прибыль.
+pubDate: '2025-07-25T16:14:34.516Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'ButlerSPB: о важности создания сильного бренда'
+  description: >-
+    Сильный бренд — не просто логотип, а репутация и доверие. Узнайте из статьи
+    нашего блога, как он помогает выделиться, привлечь клиентов и увеличить
+    прибыль.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.8'
+    reviewCount: 613
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': 'https://butlerspb-blog.netlify.app/blog/vazhnost-brenda/'
 ---
 # Важность бренда: Как перестать конкурировать ценой и построить бизнес, который любят клиенты
 

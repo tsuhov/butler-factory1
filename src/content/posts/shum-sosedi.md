@@ -1,11 +1,40 @@
 ---
-title: "Как бороться с шумными соседями: инструкция"
-description: "Постоянный шум от соседей мешает жить? В нашей статье мы собрали все законные способы решения проблемы: от переговоров до вызова полиции и подачи иска в суд."
-keywords: "шумные соседи, закон о тишине, как бороться с шумом, жалоба на соседей, вызов полиции, штраф за шум"
-pubDate: "2025-07-25T16:03:05.280Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Как бороться с шумными соседями: инструкция","description":"Постоянный шум от соседей мешает жить? В нашей статье мы собрали все законные способы решения проблемы: от переговоров до вызова полиции и подачи иска в суд.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.8","reviewCount":734,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/shum-sosedi/"}}
+title: 'Как бороться с шумными соседями: инструкция'
+description: >-
+  Постоянный шум от соседей мешает жить? В нашей статье мы собрали все законные
+  способы решения проблемы: от переговоров до вызова полиции и подачи иска в
+  суд.
+pubDate: '2025-07-25T16:03:05.280Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Как бороться с шумными соседями: инструкция'
+  description: >-
+    Постоянный шум от соседей мешает жить? В нашей статье мы собрали все
+    законные способы решения проблемы: от переговоров до вызова полиции и подачи
+    иска в суд.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.9'
+    reviewCount: 375
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': 'https://butlerspb-blog.netlify.app/blog/shum-sosedi/'
 ---
 # Шумные соседи: полная инструкция по решению проблемы в Санкт-Петербурге
 

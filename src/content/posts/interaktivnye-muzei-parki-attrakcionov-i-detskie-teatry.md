@@ -1,10 +1,49 @@
 ---
-title: "Семейный Петербург: лучшие интерактивные музеи, парки аттракционов и детские театры"
-description: "Планируете культурный и веселый отдых с детьми в Санкт-Петербурге? Команда ButlerSPB подготовила для вас гид по самым захватывающим местам для всей семьи. В нашей статье вы найдете подборку лучших интерактивных музеев, где можно все трогать руками, головокружительных парков аттракционов и волшебных детских театров, которые подарят незабываемые впечатления вашим малышам."
-pubDate: "2025-07-22T11:48:25.101Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Семейный Петербург: лучшие интерактивные музеи, парки аттракционов и детские театры","description":"Планируете культурный и веселый отдых с детьми в Санкт-Петербурге? Команда ButlerSPB подготовила для вас гид по самым захватывающим местам для всей семьи. В нашей статье вы найдете подборку лучших интерактивных музеев, где можно все трогать руками, головокружительных парков аттракционов и волшебных детских театров, которые подарят незабываемые впечатления вашим малышам.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"5.0","reviewCount":324,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/interaktivnye-muzei-parki-attrakcionov-i-detskie-teatry/"}}
+title: >-
+  Семейный Петербург: лучшие интерактивные музеи, парки аттракционов и детские
+  театры
+description: >-
+  Планируете культурный и веселый отдых с детьми в Санкт-Петербурге? Команда
+  ButlerSPB подготовила для вас гид по самым захватывающим местам для всей
+  семьи. В нашей статье вы найдете подборку лучших интерактивных музеев, где
+  можно все трогать руками, головокружительных парков аттракционов и волшебных
+  детских театров, которые подарят незабываемые впечатления вашим малышам.
+pubDate: '2025-07-22T11:48:25.101Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: >-
+    Семейный Петербург: лучшие интерактивные музеи, парки аттракционов и детские
+    театры
+  description: >-
+    Планируете культурный и веселый отдых с детьми в Санкт-Петербурге? Команда
+    ButlerSPB подготовила для вас гид по самым захватывающим местам для всей
+    семьи. В нашей статье вы найдете подборку лучших интерактивных музеев, где
+    можно все трогать руками, головокружительных парков аттракционов и волшебных
+    детских театров, которые подарят незабываемые впечатления вашим малышам.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '5.0'
+    reviewCount: 603
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/interaktivnye-muzei-parki-attrakcionov-i-detskie-teatry/
 ---
 
 # Семейный Петербург: Ваш экспертный гид по лучшим развлечениям для детей

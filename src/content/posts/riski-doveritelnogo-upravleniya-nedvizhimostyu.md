@@ -1,10 +1,51 @@
 ---
-title: "Главные риски доверительного управления недвижимостью: как защитить свой доход и имущество"
-description: "Передача квартиры в доверительное управление — удобный способ получать пассивный доход, но он сопряжен с определенными рисками. Недобросовестные управляющие, порча имущества, юридические тонкости и скрытые платежи могут превратить выгодную инвестицию в источник проблем. В этой статье блога ButlerSPB мы разбираем основные 'подводные камни' и даем практические советы, как выбрать надежного партнера и защитить свои активы."
-pubDate: "2025-07-22T09:26:49.236Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Главные риски доверительного управления недвижимостью: как защитить свой доход и имущество","description":"Передача квартиры в доверительное управление — удобный способ получать пассивный доход, но он сопряжен с определенными рисками. Недобросовестные управляющие, порча имущества, юридические тонкости и скрытые платежи могут превратить выгодную инвестицию в источник проблем. В этой статье блога ButlerSPB мы разбираем основные 'подводные камни' и даем практические советы, как выбрать надежного партнера и защитить свои активы.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.8","reviewCount":427,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/riski-doveritelnogo-upravleniya-nedvizhimostyu/"}}
+title: >-
+  Главные риски доверительного управления недвижимостью: как защитить свой доход
+  и имущество
+description: >-
+  Передача квартиры в доверительное управление — удобный способ получать
+  пассивный доход, но он сопряжен с определенными рисками. Недобросовестные
+  управляющие, порча имущества, юридические тонкости и скрытые платежи могут
+  превратить выгодную инвестицию в источник проблем. В этой статье блога
+  ButlerSPB мы разбираем основные 'подводные камни' и даем практические советы,
+  как выбрать надежного партнера и защитить свои активы.
+pubDate: '2025-07-22T09:26:49.236Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: >-
+    Главные риски доверительного управления недвижимостью: как защитить свой
+    доход и имущество
+  description: >-
+    Передача квартиры в доверительное управление — удобный способ получать
+    пассивный доход, но он сопряжен с определенными рисками. Недобросовестные
+    управляющие, порча имущества, юридические тонкости и скрытые платежи могут
+    превратить выгодную инвестицию в источник проблем. В этой статье блога
+    ButlerSPB мы разбираем основные 'подводные камни' и даем практические
+    советы, как выбрать надежного партнера и защитить свои активы.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.9'
+    reviewCount: 311
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/riski-doveritelnogo-upravleniya-nedvizhimostyu/
 ---
 
 # Доверительное управление недвижимостью: Полный разбор рисков для собственника

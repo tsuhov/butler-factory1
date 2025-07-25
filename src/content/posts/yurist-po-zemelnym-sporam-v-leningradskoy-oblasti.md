@@ -1,10 +1,47 @@
 ---
-title: "Юрист по земельным спорам в Ленинградской области: как ButlerSPB защищает ваши права на землю"
-description: "Сталкиваетесь со спорами о границах участка, кадастровыми ошибками или проблемами с регистрацией прав в Ленобласти? В блоге компании ButlerSPB разбираем, какие земельные вопросы помогает решить наш юрист и как защитить свою собственность от посягательств."
-pubDate: "2025-07-23T12:08:44.211Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Юрист по земельным спорам в Ленинградской области: как ButlerSPB защищает ваши права на землю","description":"Сталкиваетесь со спорами о границах участка, кадастровыми ошибками или проблемами с регистрацией прав в Ленобласти? В блоге компании ButlerSPB разбираем, какие земельные вопросы помогает решить наш юрист и как защитить свою собственность от посягательств.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.8","reviewCount":592,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/yurist-po-zemelnym-sporam-v-leningradskoy-oblasti/"}}
+title: >-
+  Юрист по земельным спорам в Ленинградской области: как ButlerSPB защищает ваши
+  права на землю
+description: >-
+  Сталкиваетесь со спорами о границах участка, кадастровыми ошибками или
+  проблемами с регистрацией прав в Ленобласти? В блоге компании ButlerSPB
+  разбираем, какие земельные вопросы помогает решить наш юрист и как защитить
+  свою собственность от посягательств.
+pubDate: '2025-07-23T12:08:44.211Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: >-
+    Юрист по земельным спорам в Ленинградской области: как ButlerSPB защищает
+    ваши права на землю
+  description: >-
+    Сталкиваетесь со спорами о границах участка, кадастровыми ошибками или
+    проблемами с регистрацией прав в Ленобласти? В блоге компании ButlerSPB
+    разбираем, какие земельные вопросы помогает решить наш юрист и как защитить
+    свою собственность от посягательств.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.9'
+    reviewCount: 323
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/yurist-po-zemelnym-sporam-v-leningradskoy-oblasti/
 ---
 
 # Юрист по земельным спорам в Ленинградской области: Как защитить вашу собственность

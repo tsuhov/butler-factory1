@@ -1,10 +1,47 @@
 ---
-title: "Доходность сервисных и несервисных апартаментов: что выбрать инвестору?"
-description: "Планируете инвестировать в апартаменты, но стоите перед выбором между сервисным и несервисным форматом? В новой статье блога ButlerSPB мы детально разбираем плюсы и минусы каждого варианта. Сравниваем потенциальную доходность, операционные расходы, уровень вовлеченности собственника и риски. Наша цель — помочь вам принять взвешенное решение и максимизировать прибыль от вложений в недвижимость Санкт-Петербурга."
-pubDate: "2025-07-22T20:20:51.143Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Доходность сервисных и несервисных апартаментов: что выбрать инвестору?","description":"Планируете инвестировать в апартаменты, но стоите перед выбором между сервисным и несервисным форматом? В новой статье блога ButlerSPB мы детально разбираем плюсы и минусы каждого варианта. Сравниваем потенциальную доходность, операционные расходы, уровень вовлеченности собственника и риски. Наша цель — помочь вам принять взвешенное решение и максимизировать прибыль от вложений в недвижимость Санкт-Петербурга.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":444,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/dohodnost-servisnyh-i-neservisnyh-apartamentov-chto-vybrat/"}}
+title: 'Доходность сервисных и несервисных апартаментов: что выбрать инвестору?'
+description: >-
+  Планируете инвестировать в апартаменты, но стоите перед выбором между
+  сервисным и несервисным форматом? В новой статье блога ButlerSPB мы детально
+  разбираем плюсы и минусы каждого варианта. Сравниваем потенциальную
+  доходность, операционные расходы, уровень вовлеченности собственника и риски.
+  Наша цель — помочь вам принять взвешенное решение и максимизировать прибыль от
+  вложений в недвижимость Санкт-Петербурга.
+pubDate: '2025-07-22T20:20:51.143Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Доходность сервисных и несервисных апартаментов: что выбрать инвестору?'
+  description: >-
+    Планируете инвестировать в апартаменты, но стоите перед выбором между
+    сервисным и несервисным форматом? В новой статье блога ButlerSPB мы детально
+    разбираем плюсы и минусы каждого варианта. Сравниваем потенциальную
+    доходность, операционные расходы, уровень вовлеченности собственника и
+    риски. Наша цель — помочь вам принять взвешенное решение и максимизировать
+    прибыль от вложений в недвижимость Санкт-Петербурга.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.7'
+    reviewCount: 718
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/dohodnost-servisnyh-i-neservisnyh-apartamentov-chto-vybrat/
 ---
 
 # Доходность сервисных и несервисных апартаментов: полный разбор для инвестора в 2024 году

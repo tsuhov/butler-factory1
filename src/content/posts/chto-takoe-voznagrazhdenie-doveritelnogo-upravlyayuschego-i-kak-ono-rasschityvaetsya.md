@@ -1,10 +1,47 @@
 ---
-title: "Вознаграждение доверительного управляющего: что это, виды и способы расчета"
-description: "В статье для блога ButlerSPB разбираемся, что такое вознаграждение доверительного управляющего и за что именно он получает деньги. Рассказываем о самых распространенных формах вознаграждения: фиксированная сумма, процент от стоимости активов или от полученного дохода. Приводим примеры расчетов и объясняем, на что обратить внимание в договоре, чтобы условия были прозрачными и выгодными для вас."
-pubDate: "2025-07-22T11:33:39.389Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Вознаграждение доверительного управляющего: что это, виды и способы расчета","description":"В статье для блога ButlerSPB разбираемся, что такое вознаграждение доверительного управляющего и за что именно он получает деньги. Рассказываем о самых распространенных формах вознаграждения: фиксированная сумма, процент от стоимости активов или от полученного дохода. Приводим примеры расчетов и объясняем, на что обратить внимание в договоре, чтобы условия были прозрачными и выгодными для вас.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.7","reviewCount":330,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/chto-takoe-voznagrazhdenie-doveritelnogo-upravlyayuschego-i-kak-ono-rasschityvaetsya/"}}
+title: 'Вознаграждение доверительного управляющего: что это, виды и способы расчета'
+description: >-
+  В статье для блога ButlerSPB разбираемся, что такое вознаграждение
+  доверительного управляющего и за что именно он получает деньги. Рассказываем о
+  самых распространенных формах вознаграждения: фиксированная сумма, процент от
+  стоимости активов или от полученного дохода. Приводим примеры расчетов и
+  объясняем, на что обратить внимание в договоре, чтобы условия были прозрачными
+  и выгодными для вас.
+pubDate: '2025-07-22T11:33:39.389Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Вознаграждение доверительного управляющего: что это, виды и способы расчета'
+  description: >-
+    В статье для блога ButlerSPB разбираемся, что такое вознаграждение
+    доверительного управляющего и за что именно он получает деньги. Рассказываем
+    о самых распространенных формах вознаграждения: фиксированная сумма, процент
+    от стоимости активов или от полученного дохода. Приводим примеры расчетов и
+    объясняем, на что обратить внимание в договоре, чтобы условия были
+    прозрачными и выгодными для вас.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.8'
+    reviewCount: 458
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/chto-takoe-voznagrazhdenie-doveritelnogo-upravlyayuschego-i-kak-ono-rasschityvaetsya/
 ---
 
 # Вознаграждение доверительного управляющего: полный гид по расчету, тарифам и скрытым платежам

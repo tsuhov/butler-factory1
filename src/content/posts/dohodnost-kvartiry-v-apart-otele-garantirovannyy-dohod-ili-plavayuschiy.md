@@ -1,10 +1,47 @@
 ---
-title: "Доходность квартиры в апарт-отеле: гарантированный доход или плавающий?"
-description: "Инвестиции в апарт-отели привлекают многих, но перед покупкой юнита встает ключевой вопрос: какую программу доходности выбрать? Гарантированный доход обещает стабильность, а плавающий — потенциально более высокую прибыль. В этой статье команда ButlerSPB разбирает плюсы и минусы каждого варианта, помогает оценить риски и рассказывает, какой тип доходности подойдет именно вам, чтобы ваши вложения работали максимально эффективно."
-pubDate: "2025-07-23T11:09:53.999Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Доходность квартиры в апарт-отеле: гарантированный доход или плавающий?","description":"Инвестиции в апарт-отели привлекают многих, но перед покупкой юнита встает ключевой вопрос: какую программу доходности выбрать? Гарантированный доход обещает стабильность, а плавающий — потенциально более высокую прибыль. В этой статье команда ButlerSPB разбирает плюсы и минусы каждого варианта, помогает оценить риски и рассказывает, какой тип доходности подойдет именно вам, чтобы ваши вложения работали максимально эффективно.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":457,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/dohodnost-kvartiry-v-apart-otele-garantirovannyy-dohod-ili-plavayuschiy/"}}
+title: 'Доходность квартиры в апарт-отеле: гарантированный доход или плавающий?'
+description: >-
+  Инвестиции в апарт-отели привлекают многих, но перед покупкой юнита встает
+  ключевой вопрос: какую программу доходности выбрать? Гарантированный доход
+  обещает стабильность, а плавающий — потенциально более высокую прибыль. В этой
+  статье команда ButlerSPB разбирает плюсы и минусы каждого варианта, помогает
+  оценить риски и рассказывает, какой тип доходности подойдет именно вам, чтобы
+  ваши вложения работали максимально эффективно.
+pubDate: '2025-07-23T11:09:53.999Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Доходность квартиры в апарт-отеле: гарантированный доход или плавающий?'
+  description: >-
+    Инвестиции в апарт-отели привлекают многих, но перед покупкой юнита встает
+    ключевой вопрос: какую программу доходности выбрать? Гарантированный доход
+    обещает стабильность, а плавающий — потенциально более высокую прибыль. В
+    этой статье команда ButlerSPB разбирает плюсы и минусы каждого варианта,
+    помогает оценить риски и рассказывает, какой тип доходности подойдет именно
+    вам, чтобы ваши вложения работали максимально эффективно.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.8'
+    reviewCount: 494
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/dohodnost-kvartiry-v-apart-otele-garantirovannyy-dohod-ili-plavayuschiy/
 ---
 
 # Гарантированный или плавающий доход в апарт-отеле: какой путь к прибыли выбрать инвестору?

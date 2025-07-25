@@ -1,11 +1,39 @@
 ---
-title: "Сервис посуточной аренды жилья от ButlerSPB"
-description: "Ищете идеальное жилье для короткой поездки? ButlerSPB предлагает удобный сервис посуточной аренды квартир с гарантией чистоты, комфорта и безопасности."
-keywords: "посуточная аренда, снять квартиру посуточно, аренда квартир спб, краткосрочная аренда, ButlerSPB, сервис аренды"
-pubDate: "2025-07-24T13:38:24.336Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Сервис посуточной аренды жилья от ButlerSPB","description":"Ищете идеальное жилье для короткой поездки? ButlerSPB предлагает удобный сервис посуточной аренды квартир с гарантией чистоты, комфорта и безопасности.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":715,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/servis-dlyaarendy-postuochno/"}}
+title: Сервис посуточной аренды жилья от ButlerSPB
+description: >-
+  Ищете идеальное жилье для короткой поездки? ButlerSPB предлагает удобный
+  сервис посуточной аренды квартир с гарантией чистоты, комфорта и безопасности.
+pubDate: '2025-07-24T13:38:24.336Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: Сервис посуточной аренды жилья от ButlerSPB
+  description: >-
+    Ищете идеальное жилье для короткой поездки? ButlerSPB предлагает удобный
+    сервис посуточной аренды квартир с гарантией чистоты, комфорта и
+    безопасности.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '5.0'
+    reviewCount: 883
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': 'https://butlerspb-blog.netlify.app/blog/servis-dlyaarendy-postuochno/'
 ---
 # Выбираем лучший сервис для аренды посуточно: от Авито до апартаментов с гостиничным обслуживанием
 

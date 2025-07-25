@@ -1,11 +1,40 @@
 ---
-title: "Коммерческая недвижимость: гайд от ButlerSPB"
-description: "ButlerSPB представляет полный гид по коммерческой недвижимости. Узнайте все о видах объектов, секретах выгодных инвестиций и критериях выбора идеального помещения."
-keywords: "коммерческая недвижимость, аренда, покупка, инвестиции, ButlerSPB, нежилой фонд, спб"
-pubDate: "2025-07-25T14:50:34.411Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Коммерческая недвижимость: гайд от ButlerSPB","description":"ButlerSPB представляет полный гид по коммерческой недвижимости. Узнайте все о видах объектов, секретах выгодных инвестиций и критериях выбора идеального помещения.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.8","reviewCount":552,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/kommercheskaya-nedvizhimost/"}}
+title: 'Коммерческая недвижимость: гайд от ButlerSPB'
+description: >-
+  ButlerSPB представляет полный гид по коммерческой недвижимости. Узнайте все о
+  видах объектов, секретах выгодных инвестиций и критериях выбора идеального
+  помещения.
+pubDate: '2025-07-25T14:50:34.411Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Коммерческая недвижимость: гайд от ButlerSPB'
+  description: >-
+    ButlerSPB представляет полный гид по коммерческой недвижимости. Узнайте все
+    о видах объектов, секретах выгодных инвестиций и критериях выбора идеального
+    помещения.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.7'
+    reviewCount: 416
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': 'https://butlerspb-blog.netlify.app/blog/kommercheskaya-nedvizhimost/'
 ---
 # Полное руководство по коммерческой недвижимости в Санкт-Петербурге: от выбора до выгодной сделки
 

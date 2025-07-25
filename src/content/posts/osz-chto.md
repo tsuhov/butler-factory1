@@ -1,11 +1,40 @@
 ---
-title: "Что такое ОСЗ: полное руководство от ButlerSPB"
-description: "В нашей статье мы подробно разбираем, что такое ОСЗ. Узнайте все про отдельно стоящие здания, их преимущества, особенности эксплуатации и управления объектом."
-keywords: "ОСЗ, отдельно стоящее здание, коммерческая недвижимость, управление недвижимостью, эксплуатация зданий, аренда осз"
-pubDate: "2025-07-25T14:57:21.395Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Что такое ОСЗ: полное руководство от ButlerSPB","description":"В нашей статье мы подробно разбираем, что такое ОСЗ. Узнайте все про отдельно стоящие здания, их преимущества, особенности эксплуатации и управления объектом.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.8","reviewCount":345,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/osz-chto/"}}
+title: 'Что такое ОСЗ: полное руководство от ButlerSPB'
+description: >-
+  В нашей статье мы подробно разбираем, что такое ОСЗ. Узнайте все про отдельно
+  стоящие здания, их преимущества, особенности эксплуатации и управления
+  объектом.
+pubDate: '2025-07-25T14:57:21.395Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Что такое ОСЗ: полное руководство от ButlerSPB'
+  description: >-
+    В нашей статье мы подробно разбираем, что такое ОСЗ. Узнайте все про
+    отдельно стоящие здания, их преимущества, особенности эксплуатации и
+    управления объектом.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.8'
+    reviewCount: 780
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': 'https://butlerspb-blog.netlify.app/blog/osz-chto/'
 ---
 # Что такое ОСЗ? Полный гид по отдельно стоящим зданиям для бизнеса и инвесторов
 

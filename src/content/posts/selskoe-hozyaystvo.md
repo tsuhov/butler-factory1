@@ -1,11 +1,40 @@
 ---
-title: "Развитие сельского хозяйства: взгляд ButlerSPB"
-description: "Компания ButlerSPB анализирует ключевые тренды современного агропрома. Откройте для себя мир точного земледелия, биотехнологий и устойчивых методов ведения хозяйства."
-keywords: "сельское хозяйство, агротехнологии, инновации в АПК, ButlerSPB, точное земледелие, устойчивое развитие"
-pubDate: "2025-07-25T16:27:08.208Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Развитие сельского хозяйства: взгляд ButlerSPB","description":"Компания ButlerSPB анализирует ключевые тренды современного агропрома. Откройте для себя мир точного земледелия, биотехнологий и устойчивых методов ведения хозяйства.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.7","reviewCount":786,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/selskoe-hozyaystvo/"}}
+title: 'Развитие сельского хозяйства: взгляд ButlerSPB'
+description: >-
+  Компания ButlerSPB анализирует ключевые тренды современного агропрома.
+  Откройте для себя мир точного земледелия, биотехнологий и устойчивых методов
+  ведения хозяйства.
+pubDate: '2025-07-25T16:27:08.208Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Развитие сельского хозяйства: взгляд ButlerSPB'
+  description: >-
+    Компания ButlerSPB анализирует ключевые тренды современного агропрома.
+    Откройте для себя мир точного земледелия, биотехнологий и устойчивых методов
+    ведения хозяйства.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '5.0'
+    reviewCount: 349
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': 'https://butlerspb-blog.netlify.app/blog/selskoe-hozyaystvo/'
 ---
 # Современное сельское хозяйство: Ключевая роль логистики и ВЭД в успехе на российском и мировом рынках
 

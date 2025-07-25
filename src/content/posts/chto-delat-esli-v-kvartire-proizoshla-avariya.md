@@ -1,10 +1,47 @@
 ---
-title: "Что делать, если в квартире произошла авария: пошаговая инструкция от ButlerSPB"
-description: "Прорвало трубу, погас свет или запахло газом? Без паники! В нашей новой статье мы подробно рассказываем, как действовать в экстренных ситуациях, куда звонить и как минимизировать ущерб. Четкий план действий от экспертов ButlerSPB для вашей безопасности и сохранения имущества."
-pubDate: "2025-07-22T11:35:35.197Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Что делать, если в квартире произошла авария: пошаговая инструкция от ButlerSPB","description":"Прорвало трубу, погас свет или запахло газом? Без паники! В нашей новой статье мы подробно рассказываем, как действовать в экстренных ситуациях, куда звонить и как минимизировать ущерб. Четкий план действий от экспертов ButlerSPB для вашей безопасности и сохранения имущества.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"5.0","reviewCount":335,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/chto-delat-esli-v-kvartire-proizoshla-avariya/"}}
+title: >-
+  Что делать, если в квартире произошла авария: пошаговая инструкция от
+  ButlerSPB
+description: >-
+  Прорвало трубу, погас свет или запахло газом? Без паники! В нашей новой статье
+  мы подробно рассказываем, как действовать в экстренных ситуациях, куда звонить
+  и как минимизировать ущерб. Четкий план действий от экспертов ButlerSPB для
+  вашей безопасности и сохранения имущества.
+pubDate: '2025-07-22T11:35:35.197Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: >-
+    Что делать, если в квартире произошла авария: пошаговая инструкция от
+    ButlerSPB
+  description: >-
+    Прорвало трубу, погас свет или запахло газом? Без паники! В нашей новой
+    статье мы подробно рассказываем, как действовать в экстренных ситуациях,
+    куда звонить и как минимизировать ущерб. Четкий план действий от экспертов
+    ButlerSPB для вашей безопасности и сохранения имущества.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '5.0'
+    reviewCount: 311
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/chto-delat-esli-v-kvartire-proizoshla-avariya/
 ---
 
 # Авария в квартире: пошаговая инструкция от ButlerSPB, как спасти имущество и нервы

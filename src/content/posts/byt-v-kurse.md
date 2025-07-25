@@ -1,11 +1,40 @@
 ---
-title: "Как оставаться в курсе событий с ButlerSPB."
-description: "В современном мире важно фильтровать информацию. ButlerSPB поможет вам оставаться в курсе ключевых новостей и трендов, экономя ваше время. Узнайте больше."
-keywords: "быть в курсе, новости, тренды, информация, ButlerSPB, консьерж-сервис, СПб"
-pubDate: "2025-07-24T21:38:01.430Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Как оставаться в курсе событий с ButlerSPB.","description":"В современном мире важно фильтровать информацию. ButlerSPB поможет вам оставаться в курсе ключевых новостей и трендов, экономя ваше время. Узнайте больше.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.7","reviewCount":459,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/byt-v-kurse/"}}
+title: Как оставаться в курсе событий с ButlerSPB.
+description: >-
+  В современном мире важно фильтровать информацию. ButlerSPB поможет вам
+  оставаться в курсе ключевых новостей и трендов, экономя ваше время. Узнайте
+  больше.
+pubDate: '2025-07-24T21:38:01.430Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: Как оставаться в курсе событий с ButlerSPB.
+  description: >-
+    В современном мире важно фильтровать информацию. ButlerSPB поможет вам
+    оставаться в курсе ключевых новостей и трендов, экономя ваше время. Узнайте
+    больше.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.9'
+    reviewCount: 669
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': 'https://butlerspb-blog.netlify.app/blog/byt-v-kurse/'
 ---
 # Искусство быть в курсе: Стратегия управления информацией для современного жителя Петербурга
 

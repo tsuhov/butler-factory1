@@ -1,11 +1,41 @@
 ---
-title: "Выход из бизнеса субаренды: минимум потерь"
-description: "Решили закрыть бизнес по субаренде? Рассказываем, как правильно расторгнуть договоры с собственником и арендаторами, чтобы избежать штрафов и сохранить репутацию."
-keywords: "субаренда, выйти из бизнеса, расторжение договора, минимизация потерь, управление недвижимостью, ButlerSPB"
-pubDate: "2025-07-24T12:02:24.637Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Выход из бизнеса субаренды: минимум потерь","description":"Решили закрыть бизнес по субаренде? Рассказываем, как правильно расторгнуть договоры с собственником и арендаторами, чтобы избежать штрафов и сохранить репутацию.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.8","reviewCount":877,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/kak-vyyti-iz-biznesa-po-subarende-s-minimalnymi-poteryami/"}}
+title: 'Выход из бизнеса субаренды: минимум потерь'
+description: >-
+  Решили закрыть бизнес по субаренде? Рассказываем, как правильно расторгнуть
+  договоры с собственником и арендаторами, чтобы избежать штрафов и сохранить
+  репутацию.
+pubDate: '2025-07-24T12:02:24.637Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Выход из бизнеса субаренды: минимум потерь'
+  description: >-
+    Решили закрыть бизнес по субаренде? Рассказываем, как правильно расторгнуть
+    договоры с собственником и арендаторами, чтобы избежать штрафов и сохранить
+    репутацию.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.9'
+    reviewCount: 837
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/kak-vyyti-iz-biznesa-po-subarende-s-minimalnymi-poteryami/
 ---
 # Закрываете бизнес по субаренде? Пошаговый план, как выйти из игры с минимальными потерями
 

@@ -1,10 +1,46 @@
 ---
-title: "Новостройки без отделки: экономия или головная боль?"
-description: "Покупка квартиры без отделки манит возможностью сэкономить и создать интерьер мечты с нуля. Но так ли это на самом деле? В новой статье блога ButlerSPB разбираем все плюсы и минусы квартир в черновой и предчистовой отделке. Рассказываем, какие подводные камни вас ждут, как оценить реальный бюджет на ремонт и кому такой вариант подойдет идеально, а кому лучше его избегать."
-pubDate: "2025-07-23T11:54:19.496Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Новостройки без отделки: экономия или головная боль?","description":"Покупка квартиры без отделки манит возможностью сэкономить и создать интерьер мечты с нуля. Но так ли это на самом деле? В новой статье блога ButlerSPB разбираем все плюсы и минусы квартир в черновой и предчистовой отделке. Рассказываем, какие подводные камни вас ждут, как оценить реальный бюджет на ремонт и кому такой вариант подойдет идеально, а кому лучше его избегать.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.8","reviewCount":510,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/novostroyki-bez-otdelki-ekonomiya-ili-golovnaya-bol/"}}
+title: 'Новостройки без отделки: экономия или головная боль?'
+description: >-
+  Покупка квартиры без отделки манит возможностью сэкономить и создать интерьер
+  мечты с нуля. Но так ли это на самом деле? В новой статье блога ButlerSPB
+  разбираем все плюсы и минусы квартир в черновой и предчистовой отделке.
+  Рассказываем, какие подводные камни вас ждут, как оценить реальный бюджет на
+  ремонт и кому такой вариант подойдет идеально, а кому лучше его избегать.
+pubDate: '2025-07-23T11:54:19.496Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Новостройки без отделки: экономия или головная боль?'
+  description: >-
+    Покупка квартиры без отделки манит возможностью сэкономить и создать
+    интерьер мечты с нуля. Но так ли это на самом деле? В новой статье блога
+    ButlerSPB разбираем все плюсы и минусы квартир в черновой и предчистовой
+    отделке. Рассказываем, какие подводные камни вас ждут, как оценить реальный
+    бюджет на ремонт и кому такой вариант подойдет идеально, а кому лучше его
+    избегать.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.7'
+    reviewCount: 397
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/novostroyki-bez-otdelki-ekonomiya-ili-golovnaya-bol/
 ---
 
 # Новостройки без отделки: экономия или головная боль? Полный разбор для будущих новоселов

@@ -1,10 +1,44 @@
 ---
-title: "Тепло и уют: почему растет спрос на аренду загородных домов с камином?"
-description: "Камин в загородном доме — это не просто источник тепла, а символ уюта, романтики и статуса. В новой статье блога ButlerSPB мы анализируем, почему спрос на аренду домов с камином в Санкт-Петербурге и Ленинградской области неуклонно растет. Разбираемся в причинах популярности, сезонных пиках и даем советы арендаторам и владельцам недвижимости."
-pubDate: "2025-07-23T11:53:57.563Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Тепло и уют: почему растет спрос на аренду загородных домов с камином?","description":"Камин в загородном доме — это не просто источник тепла, а символ уюта, романтики и статуса. В новой статье блога ButlerSPB мы анализируем, почему спрос на аренду домов с камином в Санкт-Петербурге и Ленинградской области неуклонно растет. Разбираемся в причинах популярности, сезонных пиках и даем советы арендаторам и владельцам недвижимости.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.7","reviewCount":815,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/spros-na-arendu-domov-s-kaminom/"}}
+title: 'Тепло и уют: почему растет спрос на аренду загородных домов с камином?'
+description: >-
+  Камин в загородном доме — это не просто источник тепла, а символ уюта,
+  романтики и статуса. В новой статье блога ButlerSPB мы анализируем, почему
+  спрос на аренду домов с камином в Санкт-Петербурге и Ленинградской области
+  неуклонно растет. Разбираемся в причинах популярности, сезонных пиках и даем
+  советы арендаторам и владельцам недвижимости.
+pubDate: '2025-07-23T11:53:57.563Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Тепло и уют: почему растет спрос на аренду загородных домов с камином?'
+  description: >-
+    Камин в загородном доме — это не просто источник тепла, а символ уюта,
+    романтики и статуса. В новой статье блога ButlerSPB мы анализируем, почему
+    спрос на аренду домов с камином в Санкт-Петербурге и Ленинградской области
+    неуклонно растет. Разбираемся в причинах популярности, сезонных пиках и даем
+    советы арендаторам и владельцам недвижимости.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '5.0'
+    reviewCount: 797
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': 'https://butlerspb-blog.netlify.app/blog/spros-na-arendu-domov-s-kaminom/'
 ---
 
 # Магия живого огня: Почему спрос на аренду домов с камином не угасает

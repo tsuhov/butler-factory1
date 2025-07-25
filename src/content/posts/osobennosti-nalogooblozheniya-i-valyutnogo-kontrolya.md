@@ -1,10 +1,47 @@
 ---
-title: "Особенности налогообложения и валютного контроля"
-description: "Ведете бизнес с зарубежными партнерами или получаете доход в валюте? Правила налогообложения и валютного контроля полны нюансов, а их несоблюдение чревато серьезными штрафами. В новой статье блога ButlerSPB разбираем ключевые аспекты: как правильно отчитываться перед налоговой и банком, какие операции подлежат обязательному контролю и как избежать типичных ошибок. Узнайте, как защитить свой бизнес и финансы от непредвиденных рисков."
-pubDate: "2025-07-22T11:31:36.850Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Особенности налогообложения и валютного контроля","description":"Ведете бизнес с зарубежными партнерами или получаете доход в валюте? Правила налогообложения и валютного контроля полны нюансов, а их несоблюдение чревато серьезными штрафами. В новой статье блога ButlerSPB разбираем ключевые аспекты: как правильно отчитываться перед налоговой и банком, какие операции подлежат обязательному контролю и как избежать типичных ошибок. Узнайте, как защитить свой бизнес и финансы от непредвиденных рисков.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":486,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/osobennosti-nalogooblozheniya-i-valyutnogo-kontrolya/"}}
+title: Особенности налогообложения и валютного контроля
+description: >-
+  Ведете бизнес с зарубежными партнерами или получаете доход в валюте? Правила
+  налогообложения и валютного контроля полны нюансов, а их несоблюдение чревато
+  серьезными штрафами. В новой статье блога ButlerSPB разбираем ключевые
+  аспекты: как правильно отчитываться перед налоговой и банком, какие операции
+  подлежат обязательному контролю и как избежать типичных ошибок. Узнайте, как
+  защитить свой бизнес и финансы от непредвиденных рисков.
+pubDate: '2025-07-22T11:31:36.850Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: Особенности налогообложения и валютного контроля
+  description: >-
+    Ведете бизнес с зарубежными партнерами или получаете доход в валюте? Правила
+    налогообложения и валютного контроля полны нюансов, а их несоблюдение
+    чревато серьезными штрафами. В новой статье блога ButlerSPB разбираем
+    ключевые аспекты: как правильно отчитываться перед налоговой и банком, какие
+    операции подлежат обязательному контролю и как избежать типичных ошибок.
+    Узнайте, как защитить свой бизнес и финансы от непредвиденных рисков.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '5.0'
+    reviewCount: 850
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/osobennosti-nalogooblozheniya-i-valyutnogo-kontrolya/
 ---
 
 # Налогообложение и валютный контроль в 2024: Полное руководство для участников ВЭД

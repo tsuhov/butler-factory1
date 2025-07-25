@@ -1,10 +1,47 @@
 ---
-title: "Виды нежилых зданий: административные, промышленные, торговые"
-description: "В мире коммерческой недвижимости существует множество типов зданий, каждое из которых имеет свое уникальное предназначение. В новой статье блога ButlerSPB мы подробно рассмотрим три основных вида нежилых объектов: административные, промышленные и торговые. Вы узнаете об их ключевых характеристиках, функциональных особенностях и требованиях к эксплуатации, что поможет лучше понять структуру современного городского ландшафта."
-pubDate: "2025-07-23T11:49:45.994Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Виды нежилых зданий: административные, промышленные, торговые","description":"В мире коммерческой недвижимости существует множество типов зданий, каждое из которых имеет свое уникальное предназначение. В новой статье блога ButlerSPB мы подробно рассмотрим три основных вида нежилых объектов: административные, промышленные и торговые. Вы узнаете об их ключевых характеристиках, функциональных особенностях и требованиях к эксплуатации, что поможет лучше понять структуру современного городского ландшафта.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.7","reviewCount":667,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/vidy-nezhilyh-zdaniy-administrativnye-promyshlennye-torgovye/"}}
+title: 'Виды нежилых зданий: административные, промышленные, торговые'
+description: >-
+  В мире коммерческой недвижимости существует множество типов зданий, каждое из
+  которых имеет свое уникальное предназначение. В новой статье блога ButlerSPB
+  мы подробно рассмотрим три основных вида нежилых объектов: административные,
+  промышленные и торговые. Вы узнаете об их ключевых характеристиках,
+  функциональных особенностях и требованиях к эксплуатации, что поможет лучше
+  понять структуру современного городского ландшафта.
+pubDate: '2025-07-23T11:49:45.994Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Виды нежилых зданий: административные, промышленные, торговые'
+  description: >-
+    В мире коммерческой недвижимости существует множество типов зданий, каждое
+    из которых имеет свое уникальное предназначение. В новой статье блога
+    ButlerSPB мы подробно рассмотрим три основных вида нежилых объектов:
+    административные, промышленные и торговые. Вы узнаете об их ключевых
+    характеристиках, функциональных особенностях и требованиях к эксплуатации,
+    что поможет лучше понять структуру современного городского ландшафта.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.8'
+    reviewCount: 722
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/vidy-nezhilyh-zdaniy-administrativnye-promyshlennye-torgovye/
 ---
 
 # Виды нежилых зданий: от офиса до завода. Полный разбор от экспертов ButlerSPB

@@ -1,11 +1,40 @@
 ---
-title: "Подводные камни студенчества: главные риски"
-description: "Студенчество – это не только лекции и вечеринки, но и вызовы. Разбираем основные риски: от академической неуспеваемости до финансовых трудностей и выгорания."
-keywords: "риски студентов, студенческая жизнь, проблемы в учебе, финансовые трудности, академический отпуск, выгорание, ButlerSPB"
-pubDate: "2025-07-25T14:55:10.622Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Подводные камни студенчества: главные риски","description":"Студенчество – это не только лекции и вечеринки, но и вызовы. Разбираем основные риски: от академической неуспеваемости до финансовых трудностей и выгорания.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":404,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/riski-studenty/"}}
+title: 'Подводные камни студенчества: главные риски'
+description: >-
+  Студенчество – это не только лекции и вечеринки, но и вызовы. Разбираем
+  основные риски: от академической неуспеваемости до финансовых трудностей и
+  выгорания.
+pubDate: '2025-07-25T14:55:10.622Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Подводные камни студенчества: главные риски'
+  description: >-
+    Студенчество – это не только лекции и вечеринки, но и вызовы. Разбираем
+    основные риски: от академической неуспеваемости до финансовых трудностей и
+    выгорания.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.8'
+    reviewCount: 837
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': 'https://butlerspb-blog.netlify.app/blog/riski-studenty/'
 ---
 # Студент в большом городе: 7 главных рисков и как их обойти в Санкт-Петербурге
 

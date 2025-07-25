@@ -1,10 +1,53 @@
 ---
-title: "Сохранность вашего имущества под контролем: как управляющая компания ButlerSPB защищает вашу недвижимость"
-description: "Владение недвижимостью — это большая ответственность. В новой статье блога ButlerSPB мы подробно рассказываем о комплексе мер, которые мы предпринимаем для защиты вашей собственности: от круглосуточного видеонаблюдения и систем контроля доступа до регулярных технических осмотров, страхования и оперативного реагирования на любые нештатные ситуации. Узнайте, как профессиональный подход к управлению обеспечивает ваше спокойствие и сохранность ваших инвестиций."
-pubDate: "2025-07-23T12:13:05.859Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Сохранность вашего имущества под контролем: как управляющая компания ButlerSPB защищает вашу недвижимость","description":"Владение недвижимостью — это большая ответственность. В новой статье блога ButlerSPB мы подробно рассказываем о комплексе мер, которые мы предпринимаем для защиты вашей собственности: от круглосуточного видеонаблюдения и систем контроля доступа до регулярных технических осмотров, страхования и оперативного реагирования на любые нештатные ситуации. Узнайте, как профессиональный подход к управлению обеспечивает ваше спокойствие и сохранность ваших инвестиций.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.8","reviewCount":862,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/kak-upravlyayuschaya-kompaniya-obespechivaet-sohrannost-imuschestva/"}}
+title: >-
+  Сохранность вашего имущества под контролем: как управляющая компания ButlerSPB
+  защищает вашу недвижимость
+description: >-
+  Владение недвижимостью — это большая ответственность. В новой статье блога
+  ButlerSPB мы подробно рассказываем о комплексе мер, которые мы предпринимаем
+  для защиты вашей собственности: от круглосуточного видеонаблюдения и систем
+  контроля доступа до регулярных технических осмотров, страхования и
+  оперативного реагирования на любые нештатные ситуации. Узнайте, как
+  профессиональный подход к управлению обеспечивает ваше спокойствие и
+  сохранность ваших инвестиций.
+pubDate: '2025-07-23T12:13:05.859Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: >-
+    Сохранность вашего имущества под контролем: как управляющая компания
+    ButlerSPB защищает вашу недвижимость
+  description: >-
+    Владение недвижимостью — это большая ответственность. В новой статье блога
+    ButlerSPB мы подробно рассказываем о комплексе мер, которые мы предпринимаем
+    для защиты вашей собственности: от круглосуточного видеонаблюдения и систем
+    контроля доступа до регулярных технических осмотров, страхования и
+    оперативного реагирования на любые нештатные ситуации. Узнайте, как
+    профессиональный подход к управлению обеспечивает ваше спокойствие и
+    сохранность ваших инвестиций.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.8'
+    reviewCount: 571
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/kak-upravlyayuschaya-kompaniya-obespechivaet-sohrannost-imuschestva/
 ---
 
 # Как управляющая компания обеспечивает сохранность вашего имущества: полный чек-лист от экспертов ButlerSPB

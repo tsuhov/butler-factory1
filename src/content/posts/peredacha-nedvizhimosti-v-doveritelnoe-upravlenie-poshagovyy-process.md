@@ -1,10 +1,49 @@
 ---
-title: "Передача недвижимости в доверительное управление: пошаговый процесс"
-description: "Хотите получать стабильный доход от своей недвижимости, но нет времени или возможности заниматься этим самостоятельно? Передача квартиры или коммерческого помещения в доверительное управление — ваше решение. В этой статье команда ButlerSPB подготовила подробную пошаговую инструкцию: от выбора надежной управляющей компании до заключения договора и контроля его исполнения. Узнайте, как защитить свои интересы и сделать процесс максимально прозрачным и выгодным."
-pubDate: "2025-07-21T23:59:58.188Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Передача недвижимости в доверительное управление: пошаговый процесс","description":"Хотите получать стабильный доход от своей недвижимости, но нет времени или возможности заниматься этим самостоятельно? Передача квартиры или коммерческого помещения в доверительное управление — ваше решение. В этой статье команда ButlerSPB подготовила подробную пошаговую инструкцию: от выбора надежной управляющей компании до заключения договора и контроля его исполнения. Узнайте, как защитить свои интересы и сделать процесс максимально прозрачным и выгодным.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"5.0","reviewCount":438,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/peredacha-nedvizhimosti-v-doveritelnoe-upravlenie-poshagovyy-process/"}}
+title: 'Передача недвижимости в доверительное управление: пошаговый процесс'
+description: >-
+  Хотите получать стабильный доход от своей недвижимости, но нет времени или
+  возможности заниматься этим самостоятельно? Передача квартиры или
+  коммерческого помещения в доверительное управление — ваше решение. В этой
+  статье команда ButlerSPB подготовила подробную пошаговую инструкцию: от выбора
+  надежной управляющей компании до заключения договора и контроля его
+  исполнения. Узнайте, как защитить свои интересы и сделать процесс максимально
+  прозрачным и выгодным.
+pubDate: '2025-07-21T23:59:58.188Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Передача недвижимости в доверительное управление: пошаговый процесс'
+  description: >-
+    Хотите получать стабильный доход от своей недвижимости, но нет времени или
+    возможности заниматься этим самостоятельно? Передача квартиры или
+    коммерческого помещения в доверительное управление — ваше решение. В этой
+    статье команда ButlerSPB подготовила подробную пошаговую инструкцию: от
+    выбора надежной управляющей компании до заключения договора и контроля его
+    исполнения. Узнайте, как защитить свои интересы и сделать процесс
+    максимально прозрачным и выгодным.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '5.0'
+    reviewCount: 785
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/peredacha-nedvizhimosti-v-doveritelnoe-upravlenie-poshagovyy-process/
 ---
 
 # Передача недвижимости в доверительное управление: Пошаговый процесс от А до Я

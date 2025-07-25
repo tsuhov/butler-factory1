@@ -1,10 +1,45 @@
 ---
-title: "Долгосрочная или посуточная аренда в СПб: сравниваем доходность и затраты"
-description: "Выбираете, как выгоднее сдавать квартиру в Санкт-Петербурге? Команда ButlerSPB подготовила подробный анализ двух стратегий: долгосрочной и посуточной аренды. В статье мы разбираем потенциальную доходность, уровень затрат, риски и вовлеченность собственника для каждого варианта. Узнайте, какой тип аренды принесет максимальную прибыль именно вашей недвижимости."
-pubDate: "2025-07-23T11:09:54.818Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Долгосрочная или посуточная аренда в СПб: сравниваем доходность и затраты","description":"Выбираете, как выгоднее сдавать квартиру в Санкт-Петербурге? Команда ButlerSPB подготовила подробный анализ двух стратегий: долгосрочной и посуточной аренды. В статье мы разбираем потенциальную доходность, уровень затрат, риски и вовлеченность собственника для каждого варианта. Узнайте, какой тип аренды принесет максимальную прибыль именно вашей недвижимости.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"5.0","reviewCount":803,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/dolgosrochnaya-ili-posutochnaya-arenda-v-spb-sravnivaem-dohodnost-i-zatraty/"}}
+title: 'Долгосрочная или посуточная аренда в СПб: сравниваем доходность и затраты'
+description: >-
+  Выбираете, как выгоднее сдавать квартиру в Санкт-Петербурге? Команда ButlerSPB
+  подготовила подробный анализ двух стратегий: долгосрочной и посуточной аренды.
+  В статье мы разбираем потенциальную доходность, уровень затрат, риски и
+  вовлеченность собственника для каждого варианта. Узнайте, какой тип аренды
+  принесет максимальную прибыль именно вашей недвижимости.
+pubDate: '2025-07-23T11:09:54.818Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Долгосрочная или посуточная аренда в СПб: сравниваем доходность и затраты'
+  description: >-
+    Выбираете, как выгоднее сдавать квартиру в Санкт-Петербурге? Команда
+    ButlerSPB подготовила подробный анализ двух стратегий: долгосрочной и
+    посуточной аренды. В статье мы разбираем потенциальную доходность, уровень
+    затрат, риски и вовлеченность собственника для каждого варианта. Узнайте,
+    какой тип аренды принесет максимальную прибыль именно вашей недвижимости.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.9'
+    reviewCount: 461
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/dolgosrochnaya-ili-posutochnaya-arenda-v-spb-sravnivaem-dohodnost-i-zatraty/
 ---
 
 # Долгосрочная или посуточная аренда в СПб: полный гид по доходности, затратам и рискам

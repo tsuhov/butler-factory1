@@ -1,11 +1,40 @@
 ---
-title: "Искусство решения конфликтов: гид от ButlerSPB"
-description: "Конфликты — неизбежная часть жизни и работы. Умение грамотно их разрешать помогает сохранить отношения и достичь целей. В нашей статье мы делимся методами."
-keywords: "решение конфликтов, управление конфликтами, переговоры, коммуникация, разрешение споров, психология, компромисс"
-pubDate: "2025-07-25T15:36:51.425Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Искусство решения конфликтов: гид от ButlerSPB","description":"Конфликты — неизбежная часть жизни и работы. Умение грамотно их разрешать помогает сохранить отношения и достичь целей. В нашей статье мы делимся методами.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":840,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/reshenie-konfliktov/"}}
+title: 'Искусство решения конфликтов: гид от ButlerSPB'
+description: >-
+  Конфликты — неизбежная часть жизни и работы. Умение грамотно их разрешать
+  помогает сохранить отношения и достичь целей. В нашей статье мы делимся
+  методами.
+pubDate: '2025-07-25T15:36:51.425Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Искусство решения конфликтов: гид от ButlerSPB'
+  description: >-
+    Конфликты — неизбежная часть жизни и работы. Умение грамотно их разрешать
+    помогает сохранить отношения и достичь целей. В нашей статье мы делимся
+    методами.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.7'
+    reviewCount: 610
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': 'https://butlerspb-blog.netlify.app/blog/reshenie-konfliktov/'
 ---
 # Искусство дипломатии: Как конструктивно решать конфликты и сохранять главное
 

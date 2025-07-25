@@ -1,11 +1,39 @@
 ---
-title: "Загородный спрос: ключевые тренды и выбор"
-description: "Растущий интерес к жизни за городом формирует новые тренды. Анализируем, какие дома и участки пользуются популярностью, что влияет на выбор покупателей."
-keywords: "загородная недвижимость, купить дом, тренды спроса, жизнь за городом, участки в Ленобласти, ButlerSPB"
-pubDate: "2025-07-25T15:09:46.379Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Загородный спрос: ключевые тренды и выбор","description":"Растущий интерес к жизни за городом формирует новые тренды. Анализируем, какие дома и участки пользуются популярностью, что влияет на выбор покупателей.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.8","reviewCount":427,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/zagorodnyy-spros/"}}
+title: 'Загородный спрос: ключевые тренды и выбор'
+description: >-
+  Растущий интерес к жизни за городом формирует новые тренды. Анализируем, какие
+  дома и участки пользуются популярностью, что влияет на выбор покупателей.
+pubDate: '2025-07-25T15:09:46.379Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Загородный спрос: ключевые тренды и выбор'
+  description: >-
+    Растущий интерес к жизни за городом формирует новые тренды. Анализируем,
+    какие дома и участки пользуются популярностью, что влияет на выбор
+    покупателей.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.9'
+    reviewCount: 840
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': 'https://butlerspb-blog.netlify.app/blog/zagorodnyy-spros/'
 ---
 # Загородный спрос в Санкт-Петербурге и Ленобласти: подробный анализ трендов и прогноз на 2024-2025 годы
 

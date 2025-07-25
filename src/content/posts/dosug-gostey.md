@@ -1,11 +1,40 @@
 ---
-title: "Досуг гостей: идеи и организация от ButlerSPB"
-description: "Как сделать пребывание ваших гостей незабываемым? ButlerSPB предлагает эксклюзивные решения для организации досуга в Петербурге: от культурных программ до гастротуров."
-keywords: "досуг гостей, развлечения в спб, ButlerSPB, чем занять гостей, организация мероприятий, идеи для досуга, консьерж-сервис"
-pubDate: "2025-07-24T13:37:56.056Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Досуг гостей: идеи и организация от ButlerSPB","description":"Как сделать пребывание ваших гостей незабываемым? ButlerSPB предлагает эксклюзивные решения для организации досуга в Петербурге: от культурных программ до гастротуров.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"5.0","reviewCount":706,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/dosug-gostey/"}}
+title: 'Досуг гостей: идеи и организация от ButlerSPB'
+description: >-
+  Как сделать пребывание ваших гостей незабываемым? ButlerSPB предлагает
+  эксклюзивные решения для организации досуга в Петербурге: от культурных
+  программ до гастротуров.
+pubDate: '2025-07-24T13:37:56.056Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Досуг гостей: идеи и организация от ButlerSPB'
+  description: >-
+    Как сделать пребывание ваших гостей незабываемым? ButlerSPB предлагает
+    эксклюзивные решения для организации досуга в Петербурге: от культурных
+    программ до гастротуров.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.8'
+    reviewCount: 424
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': 'https://butlerspb-blog.netlify.app/blog/dosug-gostey/'
 ---
 # Как организовать идеальный досуг для гостей в Санкт-Петербурге: Полный гид от классики до эксклюзива
 

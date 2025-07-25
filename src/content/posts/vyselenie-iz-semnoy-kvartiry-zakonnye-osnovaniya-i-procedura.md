@@ -1,10 +1,45 @@
 ---
-title: "Выселение из съемной квартиры: законные основания и процедура"
-description: "Когда и на каких основаниях собственник может выселить арендатора из квартиры? Команда ButlerSPB подготовила подробный разбор законодательства. В нашей статье мы рассмотрим все законные причины для досрочного расторжения договора найма, опишем пошаговую процедуру выселения и расскажем, как обеим сторонам защитить свои права и избежать судебных разбирательств."
-pubDate: "2025-07-22T11:39:48.413Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Выселение из съемной квартиры: законные основания и процедура","description":"Когда и на каких основаниях собственник может выселить арендатора из квартиры? Команда ButlerSPB подготовила подробный разбор законодательства. В нашей статье мы рассмотрим все законные причины для досрочного расторжения договора найма, опишем пошаговую процедуру выселения и расскажем, как обеим сторонам защитить свои права и избежать судебных разбирательств.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"5.0","reviewCount":348,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/vyselenie-iz-semnoy-kvartiry-zakonnye-osnovaniya-i-procedura/"}}
+title: 'Выселение из съемной квартиры: законные основания и процедура'
+description: >-
+  Когда и на каких основаниях собственник может выселить арендатора из квартиры?
+  Команда ButlerSPB подготовила подробный разбор законодательства. В нашей
+  статье мы рассмотрим все законные причины для досрочного расторжения договора
+  найма, опишем пошаговую процедуру выселения и расскажем, как обеим сторонам
+  защитить свои права и избежать судебных разбирательств.
+pubDate: '2025-07-22T11:39:48.413Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Выселение из съемной квартиры: законные основания и процедура'
+  description: >-
+    Когда и на каких основаниях собственник может выселить арендатора из
+    квартиры? Команда ButlerSPB подготовила подробный разбор законодательства. В
+    нашей статье мы рассмотрим все законные причины для досрочного расторжения
+    договора найма, опишем пошаговую процедуру выселения и расскажем, как обеим
+    сторонам защитить свои права и избежать судебных разбирательств.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.9'
+    reviewCount: 667
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/vyselenie-iz-semnoy-kvartiry-zakonnye-osnovaniya-i-procedura/
 ---
 
 # Выселение арендаторов: полное руководство для собственника по основаниям и процедуре

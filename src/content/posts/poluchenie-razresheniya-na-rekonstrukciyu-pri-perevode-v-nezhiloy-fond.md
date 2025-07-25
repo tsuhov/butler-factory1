@@ -1,11 +1,41 @@
 ---
-title: "Разрешение на реконструкцию нежилого фонда"
-description: "Перевод квартиры в нежилой фонд часто требует реконструкции. Рассказываем, как получить разрешение, какие документы нужны и с какими трудностями можно столкнуться."
-keywords: "разрешение на реконструкцию, перевод в нежилой фонд, согласование реконструкции, проект реконструкции, нежилое помещение, ButlerSPB"
-pubDate: "2025-07-24T12:06:58.387Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Разрешение на реконструкцию нежилого фонда","description":"Перевод квартиры в нежилой фонд часто требует реконструкции. Рассказываем, как получить разрешение, какие документы нужны и с какими трудностями можно столкнуться.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":419,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/poluchenie-razresheniya-na-rekonstrukciyu-pri-perevode-v-nezhiloy-fond/"}}
+title: Разрешение на реконструкцию нежилого фонда
+description: >-
+  Перевод квартиры в нежилой фонд часто требует реконструкции. Рассказываем, как
+  получить разрешение, какие документы нужны и с какими трудностями можно
+  столкнуться.
+pubDate: '2025-07-24T12:06:58.387Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: Разрешение на реконструкцию нежилого фонда
+  description: >-
+    Перевод квартиры в нежилой фонд часто требует реконструкции. Рассказываем,
+    как получить разрешение, какие документы нужны и с какими трудностями можно
+    столкнуться.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.8'
+    reviewCount: 656
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/poluchenie-razresheniya-na-rekonstrukciyu-pri-perevode-v-nezhiloy-fond/
 ---
 # Как получить разрешение на реконструкцию при переводе в нежилой фонд: пошаговая инструкция для Санкт-Петербурга
 

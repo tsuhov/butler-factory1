@@ -1,11 +1,40 @@
 ---
-title: "Ключевые риски: как защитить свой бизнес"
-description: "Любой бизнес подвержен рискам: финансовым, операционным, репутационным. Эксперты ButlerSPB рассказывают, как вовремя выявить главные угрозы и минимизировать их."
-keywords: "управление рисками, ключевые риски, бизнес-риски, оценка рисков, минимизация рисков, ButlerSPB"
-pubDate: "2025-07-25T16:23:04.619Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Ключевые риски: как защитить свой бизнес","description":"Любой бизнес подвержен рискам: финансовым, операционным, репутационным. Эксперты ButlerSPB рассказывают, как вовремя выявить главные угрозы и минимизировать их.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.7","reviewCount":606,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/klyuchevye-riski/"}}
+title: 'Ключевые риски: как защитить свой бизнес'
+description: >-
+  Любой бизнес подвержен рискам: финансовым, операционным, репутационным.
+  Эксперты ButlerSPB рассказывают, как вовремя выявить главные угрозы и
+  минимизировать их.
+pubDate: '2025-07-25T16:23:04.619Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Ключевые риски: как защитить свой бизнес'
+  description: >-
+    Любой бизнес подвержен рискам: финансовым, операционным, репутационным.
+    Эксперты ButlerSPB рассказывают, как вовремя выявить главные угрозы и
+    минимизировать их.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.9'
+    reviewCount: 648
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': 'https://butlerspb-blog.netlify.app/blog/klyuchevye-riski/'
 ---
 # Ключевые риски бизнеса: Полный гид по выявлению, оценке и управлению для руководителя
 

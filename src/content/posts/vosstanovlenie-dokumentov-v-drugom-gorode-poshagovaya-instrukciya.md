@@ -1,10 +1,47 @@
 ---
-title: "Восстановление документов в другом городе: пошаговая инструкция"
-description: "Потеряли паспорт, СНИЛС или водительское удостоверение в чужом городе? Без паники! В новой статье блога ButlerSPB мы подготовили подробную пошаговую инструкцию, которая поможет вам быстро восстановить любые документы, находясь вдали от дома. Рассказываем, куда обращаться, какие заявления подавать и как сэкономить время и нервы. А если на бюрократию нет сил — доверьте эту задачу нам!"
-pubDate: "2025-07-22T11:44:21.939Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Восстановление документов в другом городе: пошаговая инструкция","description":"Потеряли паспорт, СНИЛС или водительское удостоверение в чужом городе? Без паники! В новой статье блога ButlerSPB мы подготовили подробную пошаговую инструкцию, которая поможет вам быстро восстановить любые документы, находясь вдали от дома. Рассказываем, куда обращаться, какие заявления подавать и как сэкономить время и нервы. А если на бюрократию нет сил — доверьте эту задачу нам!","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.8","reviewCount":545,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/vosstanovlenie-dokumentov-v-drugom-gorode-poshagovaya-instrukciya/"}}
+title: 'Восстановление документов в другом городе: пошаговая инструкция'
+description: >-
+  Потеряли паспорт, СНИЛС или водительское удостоверение в чужом городе? Без
+  паники! В новой статье блога ButlerSPB мы подготовили подробную пошаговую
+  инструкцию, которая поможет вам быстро восстановить любые документы, находясь
+  вдали от дома. Рассказываем, куда обращаться, какие заявления подавать и как
+  сэкономить время и нервы. А если на бюрократию нет сил — доверьте эту задачу
+  нам!
+pubDate: '2025-07-22T11:44:21.939Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Восстановление документов в другом городе: пошаговая инструкция'
+  description: >-
+    Потеряли паспорт, СНИЛС или водительское удостоверение в чужом городе? Без
+    паники! В новой статье блога ButlerSPB мы подготовили подробную пошаговую
+    инструкцию, которая поможет вам быстро восстановить любые документы,
+    находясь вдали от дома. Рассказываем, куда обращаться, какие заявления
+    подавать и как сэкономить время и нервы. А если на бюрократию нет сил —
+    доверьте эту задачу нам!
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '5.0'
+    reviewCount: 353
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/vosstanovlenie-dokumentov-v-drugom-gorode-poshagovaya-instrukciya/
 ---
 
 # Восстановление документов в другом городе: пошаговая инструкция от экспертов ButlerSPB

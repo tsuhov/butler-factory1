@@ -1,11 +1,40 @@
 ---
-title: "Знания ButlerSPB: ключ к безупречному сервису"
-description: "В ButlerSPB мы верим, что глубокие знания – это фундамент исключительного сервиса. Наша команда постоянно совершенствует свои навыки, чтобы предлагать вам лучшие решения."
-keywords: "ButlerSPB, экспертиза, база знаний, профессионализм, сервис в спб, качество услуг"
-pubDate: "2025-07-24T22:01:28.134Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Знания ButlerSPB: ключ к безупречному сервису","description":"В ButlerSPB мы верим, что глубокие знания – это фундамент исключительного сервиса. Наша команда постоянно совершенствует свои навыки, чтобы предлагать вам лучшие решения.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":702,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/znaniya-butlerspb/"}}
+title: 'Знания ButlerSPB: ключ к безупречному сервису'
+description: >-
+  В ButlerSPB мы верим, что глубокие знания – это фундамент исключительного
+  сервиса. Наша команда постоянно совершенствует свои навыки, чтобы предлагать
+  вам лучшие решения.
+pubDate: '2025-07-24T22:01:28.134Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Знания ButlerSPB: ключ к безупречному сервису'
+  description: >-
+    В ButlerSPB мы верим, что глубокие знания – это фундамент исключительного
+    сервиса. Наша команда постоянно совершенствует свои навыки, чтобы предлагать
+    вам лучшие решения.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.7'
+    reviewCount: 322
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': 'https://butlerspb-blog.netlify.app/blog/znaniya-butlerspb/'
 ---
 # Знания ButlerSPB: За кулисами идеальной чистоты
 

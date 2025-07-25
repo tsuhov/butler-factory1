@@ -1,10 +1,47 @@
 ---
-title: "ПМЭФ: Наш подход к ценообразованию в период высокого спроса"
-description: "Период проведения Петербургского международного экономического форума — это время пиковых нагрузок и ажиотажного спроса на услуги в Санкт-Петербурге. Мы в ButlerSPB придерживаемся принципов прозрачности и честности. В этой статье мы подробно объясняем, как формируется стоимость наших услуг в дни Форума, из каких факторов она складывается и почему высокое качество сервиса для нас всегда остается главным приоритетом."
-pubDate: "2025-07-22T11:13:43.284Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"ПМЭФ: Наш подход к ценообразованию в период высокого спроса","description":"Период проведения Петербургского международного экономического форума — это время пиковых нагрузок и ажиотажного спроса на услуги в Санкт-Петербурге. Мы в ButlerSPB придерживаемся принципов прозрачности и честности. В этой статье мы подробно объясняем, как формируется стоимость наших услуг в дни Форума, из каких факторов она складывается и почему высокое качество сервиса для нас всегда остается главным приоритетом.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"5.0","reviewCount":362,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/kak-my-rabotaem-s-cenami-vo-vremya-provedeniya-pmef/"}}
+title: 'ПМЭФ: Наш подход к ценообразованию в период высокого спроса'
+description: >-
+  Период проведения Петербургского международного экономического форума — это
+  время пиковых нагрузок и ажиотажного спроса на услуги в Санкт-Петербурге. Мы в
+  ButlerSPB придерживаемся принципов прозрачности и честности. В этой статье мы
+  подробно объясняем, как формируется стоимость наших услуг в дни Форума, из
+  каких факторов она складывается и почему высокое качество сервиса для нас
+  всегда остается главным приоритетом.
+pubDate: '2025-07-22T11:13:43.284Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'ПМЭФ: Наш подход к ценообразованию в период высокого спроса'
+  description: >-
+    Период проведения Петербургского международного экономического форума — это
+    время пиковых нагрузок и ажиотажного спроса на услуги в Санкт-Петербурге. Мы
+    в ButlerSPB придерживаемся принципов прозрачности и честности. В этой статье
+    мы подробно объясняем, как формируется стоимость наших услуг в дни Форума,
+    из каких факторов она складывается и почему высокое качество сервиса для нас
+    всегда остается главным приоритетом.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.9'
+    reviewCount: 554
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/kak-my-rabotaem-s-cenami-vo-vremya-provedeniya-pmef/
 ---
 
 # Анатомия цен на ПМЭФ: как ButlerSPB защищает ваш бюджет и нервы

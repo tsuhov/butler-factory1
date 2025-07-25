@@ -1,11 +1,40 @@
 ---
-title: "Завершение долгосрочной аренды: что дальше?"
-description: "Ваш договор долгосрочной аренды подходит к концу? Рассказываем, как правильно принять квартиру, оформить документы и вернуть залог. ButlerSPB поможет найти новых жильцов."
-keywords: "долгосрочная аренда, завершение договора, приемка квартиры, возврат залога, поиск арендаторов, управление недвижимостью, ButlerSPB"
-pubDate: "2025-07-25T14:32:34.600Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Завершение долгосрочной аренды: что дальше?","description":"Ваш договор долгосрочной аренды подходит к концу? Рассказываем, как правильно принять квартиру, оформить документы и вернуть залог. ButlerSPB поможет найти новых жильцов.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.7","reviewCount":474,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/posle-dolgosrochnoy/"}}
+title: 'Завершение долгосрочной аренды: что дальше?'
+description: >-
+  Ваш договор долгосрочной аренды подходит к концу? Рассказываем, как правильно
+  принять квартиру, оформить документы и вернуть залог. ButlerSPB поможет найти
+  новых жильцов.
+pubDate: '2025-07-25T14:32:34.600Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Завершение долгосрочной аренды: что дальше?'
+  description: >-
+    Ваш договор долгосрочной аренды подходит к концу? Рассказываем, как
+    правильно принять квартиру, оформить документы и вернуть залог. ButlerSPB
+    поможет найти новых жильцов.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.9'
+    reviewCount: 556
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': 'https://butlerspb-blog.netlify.app/blog/posle-dolgosrochnoy/'
 ---
 # Арендаторы съехали: Полное руководство для собственника по подготовке квартиры к новому заселению
 

@@ -1,10 +1,49 @@
 ---
-title: "Покупка квартиры во Фрунзенском районе СПб: полный гид по инфраструктуре, ценам и новостройкам"
-description: "Планируете купить квартиру во Фрунзенском районе Санкт-Петербурга? Команда ButlerSPB подготовила подробный обзор района: разбираем транспортную доступность, парки, социальные объекты, а также анализируем актуальные цены на вторичное жилье и новостройки. Узнайте все плюсы и минусы жизни в Купчино, чтобы сделать правильный выбор."
-pubDate: "2025-07-23T12:21:41.067Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Покупка квартиры во Фрунзенском районе СПб: полный гид по инфраструктуре, ценам и новостройкам","description":"Планируете купить квартиру во Фрунзенском районе Санкт-Петербурга? Команда ButlerSPB подготовила подробный обзор района: разбираем транспортную доступность, парки, социальные объекты, а также анализируем актуальные цены на вторичное жилье и новостройки. Узнайте все плюсы и минусы жизни в Купчино, чтобы сделать правильный выбор.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":429,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/pokupka-kvartiry-vo-frunzenskom-rayone-spb-infrastruktura-i-ceny/"}}
+title: >-
+  Покупка квартиры во Фрунзенском районе СПб: полный гид по инфраструктуре,
+  ценам и новостройкам
+description: >-
+  Планируете купить квартиру во Фрунзенском районе Санкт-Петербурга? Команда
+  ButlerSPB подготовила подробный обзор района: разбираем транспортную
+  доступность, парки, социальные объекты, а также анализируем актуальные цены на
+  вторичное жилье и новостройки. Узнайте все плюсы и минусы жизни в Купчино,
+  чтобы сделать правильный выбор.
+pubDate: '2025-07-23T12:21:41.067Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: >-
+    Покупка квартиры во Фрунзенском районе СПб: полный гид по инфраструктуре,
+    ценам и новостройкам
+  description: >-
+    Планируете купить квартиру во Фрунзенском районе Санкт-Петербурга? Команда
+    ButlerSPB подготовила подробный обзор района: разбираем транспортную
+    доступность, парки, социальные объекты, а также анализируем актуальные цены
+    на вторичное жилье и новостройки. Узнайте все плюсы и минусы жизни в
+    Купчино, чтобы сделать правильный выбор.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.9'
+    reviewCount: 318
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/pokupka-kvartiry-vo-frunzenskom-rayone-spb-infrastruktura-i-ceny/
 ---
 
 # Фрунзенский район: стоит ли здесь покупать квартиру? Обзор цен, инфраструктуры и подводных камней от экспертов ButlerSPB

@@ -1,10 +1,47 @@
 ---
-title: "Инвестиции в недвижимость Петербурга: лучшие районы для вложений в 2024 году"
-description: "Команда ButlerSPB подготовила экспертный анализ районов Санкт-Петербурга для выгодных инвестиций в недвижимость. В статье мы разбираем ключевые факторы: транспортную доступность, инфраструктуру, потенциал роста стоимости и доходность от аренды. Сравниваем престижный центр, развивающиеся спальные районы и перспективные пригороды, чтобы вы могли сделать правильный выбор и приумножить свой капитал."
-pubDate: "2025-07-22T13:42:38.753Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Инвестиции в недвижимость Петербурга: лучшие районы для вложений в 2024 году","description":"Команда ButlerSPB подготовила экспертный анализ районов Санкт-Петербурга для выгодных инвестиций в недвижимость. В статье мы разбираем ключевые факторы: транспортную доступность, инфраструктуру, потенциал роста стоимости и доходность от аренды. Сравниваем престижный центр, развивающиеся спальные районы и перспективные пригороды, чтобы вы могли сделать правильный выбор и приумножить свой капитал.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":411,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/kakie-rayony-spb-vybrat-dlya-investiciy-v-nedvizhimost/"}}
+title: 'Инвестиции в недвижимость Петербурга: лучшие районы для вложений в 2024 году'
+description: >-
+  Команда ButlerSPB подготовила экспертный анализ районов Санкт-Петербурга для
+  выгодных инвестиций в недвижимость. В статье мы разбираем ключевые факторы:
+  транспортную доступность, инфраструктуру, потенциал роста стоимости и
+  доходность от аренды. Сравниваем престижный центр, развивающиеся спальные
+  районы и перспективные пригороды, чтобы вы могли сделать правильный выбор и
+  приумножить свой капитал.
+pubDate: '2025-07-22T13:42:38.753Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Инвестиции в недвижимость Петербурга: лучшие районы для вложений в 2024 году'
+  description: >-
+    Команда ButlerSPB подготовила экспертный анализ районов Санкт-Петербурга для
+    выгодных инвестиций в недвижимость. В статье мы разбираем ключевые факторы:
+    транспортную доступность, инфраструктуру, потенциал роста стоимости и
+    доходность от аренды. Сравниваем престижный центр, развивающиеся спальные
+    районы и перспективные пригороды, чтобы вы могли сделать правильный выбор и
+    приумножить свой капитал.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.9'
+    reviewCount: 445
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/kakie-rayony-spb-vybrat-dlya-investiciy-v-nedvizhimost/
 ---
 
 # Инвестиции в недвижимость СПб: ТОП районов 2024-2025 для максимальной доходности | Аналитика ButlerSPB

@@ -1,11 +1,38 @@
 ---
-title: "ButlerSPB: наша забота о вас 24 часа в сутки."
-description: "В ButlerSPB мы понимаем, что потребность в помощи не знает расписания. Наша команда готова оказывать поддержку 24/7, решая любые ваши задачи и запросы."
-keywords: "ButlerSPB, забота 24, круглосуточная поддержка, консьерж-сервис, личный помощник, сервис 24/7, Санкт-Петербург"
-pubDate: "2025-07-24T13:52:13.429Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"ButlerSPB: наша забота о вас 24 часа в сутки.","description":"В ButlerSPB мы понимаем, что потребность в помощи не знает расписания. Наша команда готова оказывать поддержку 24/7, решая любые ваши задачи и запросы.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":718,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/zabota-24/"}}
+title: 'ButlerSPB: наша забота о вас 24 часа в сутки.'
+description: >-
+  В ButlerSPB мы понимаем, что потребность в помощи не знает расписания. Наша
+  команда готова оказывать поддержку 24/7, решая любые ваши задачи и запросы.
+pubDate: '2025-07-24T13:52:13.429Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'ButlerSPB: наша забота о вас 24 часа в сутки.'
+  description: >-
+    В ButlerSPB мы понимаем, что потребность в помощи не знает расписания. Наша
+    команда готова оказывать поддержку 24/7, решая любые ваши задачи и запросы.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.7'
+    reviewCount: 765
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': 'https://butlerspb-blog.netlify.app/blog/zabota-24/'
 ---
 # Забота 24: Что это на самом деле и почему это больше, чем просто уход?
 

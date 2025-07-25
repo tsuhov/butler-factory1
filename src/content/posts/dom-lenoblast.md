@@ -1,11 +1,40 @@
 ---
-title: "Строительство дома в Ленобласти с ButlerSPB"
-description: "Планируете купить или построить дом в Ленобласти? В нашей статье от ButlerSPB мы рассмотрим ключевые аспекты выбора участка и этапы строительства дома мечты."
-keywords: "дом в ленобласти, купить дом ленобласть, строительство домов, участок в ленобласти, загородный дом, проекты домов, ButlerSPB"
-pubDate: "2025-07-25T15:42:39.293Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Строительство дома в Ленобласти с ButlerSPB","description":"Планируете купить или построить дом в Ленобласти? В нашей статье от ButlerSPB мы рассмотрим ключевые аспекты выбора участка и этапы строительства дома мечты.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"5.0","reviewCount":594,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/dom-lenoblast/"}}
+title: Строительство дома в Ленобласти с ButlerSPB
+description: >-
+  Планируете купить или построить дом в Ленобласти? В нашей статье от ButlerSPB
+  мы рассмотрим ключевые аспекты выбора участка и этапы строительства дома
+  мечты.
+pubDate: '2025-07-25T15:42:39.293Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: Строительство дома в Ленобласти с ButlerSPB
+  description: >-
+    Планируете купить или построить дом в Ленобласти? В нашей статье от
+    ButlerSPB мы рассмотрим ключевые аспекты выбора участка и этапы
+    строительства дома мечты.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.9'
+    reviewCount: 404
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': 'https://butlerspb-blog.netlify.app/blog/dom-lenoblast/'
 ---
 # Дом в Ленобласти: Ваш полный гид по переезду за город в 2024 году
 

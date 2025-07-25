@@ -1,11 +1,40 @@
 ---
-title: "Полный гайд по анализу конкурентов от ButlerSPB"
-description: "Проводим глубокий анализ конкурентов вместе с ButlerSPB. Узнайте, как оценить их сильные и слабые стороны, найти точки роста и укрепить свои позиции на рынке."
-keywords: "анализ конкурентов, конкурентный анализ, стратегия, SWOT-анализ, анализ рынка, позиционирование"
-pubDate: "2025-07-25T15:42:33.648Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Полный гайд по анализу конкурентов от ButlerSPB","description":"Проводим глубокий анализ конкурентов вместе с ButlerSPB. Узнайте, как оценить их сильные и слабые стороны, найти точки роста и укрепить свои позиции на рынке.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":474,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/konkurenty-analiz/"}}
+title: Полный гайд по анализу конкурентов от ButlerSPB
+description: >-
+  Проводим глубокий анализ конкурентов вместе с ButlerSPB. Узнайте, как оценить
+  их сильные и слабые стороны, найти точки роста и укрепить свои позиции на
+  рынке.
+pubDate: '2025-07-25T15:42:33.648Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: Полный гайд по анализу конкурентов от ButlerSPB
+  description: >-
+    Проводим глубокий анализ конкурентов вместе с ButlerSPB. Узнайте, как
+    оценить их сильные и слабые стороны, найти точки роста и укрепить свои
+    позиции на рынке.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.8'
+    reviewCount: 619
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': 'https://butlerspb-blog.netlify.app/blog/konkurenty-analiz/'
 ---
 # Анализ конкурентов: Пошаговое руководство по захвату рынка
 

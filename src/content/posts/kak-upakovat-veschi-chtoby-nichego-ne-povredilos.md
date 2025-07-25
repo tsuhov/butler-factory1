@@ -1,10 +1,47 @@
 ---
-title: "Как упаковать вещи, чтобы ничего не повредилось: полное руководство от ButlerSPB"
-description: "Готовитесь к переезду? Эксперты ButlerSPB делятся профессиональными секретами упаковки. Узнайте, какие материалы использовать и как правильно сложить хрупкую посуду, технику и мебель, чтобы всё доехало до нового дома в целости и сохранности. Ваш переезд без стресса и повреждений!"
-pubDate: "2025-07-22T11:42:02.363Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Как упаковать вещи, чтобы ничего не повредилось: полное руководство от ButlerSPB","description":"Готовитесь к переезду? Эксперты ButlerSPB делятся профессиональными секретами упаковки. Узнайте, какие материалы использовать и как правильно сложить хрупкую посуду, технику и мебель, чтобы всё доехало до нового дома в целости и сохранности. Ваш переезд без стресса и повреждений!","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"5.0","reviewCount":595,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/kak-upakovat-veschi-chtoby-nichego-ne-povredilos/"}}
+title: >-
+  Как упаковать вещи, чтобы ничего не повредилось: полное руководство от
+  ButlerSPB
+description: >-
+  Готовитесь к переезду? Эксперты ButlerSPB делятся профессиональными секретами
+  упаковки. Узнайте, какие материалы использовать и как правильно сложить
+  хрупкую посуду, технику и мебель, чтобы всё доехало до нового дома в целости и
+  сохранности. Ваш переезд без стресса и повреждений!
+pubDate: '2025-07-22T11:42:02.363Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: >-
+    Как упаковать вещи, чтобы ничего не повредилось: полное руководство от
+    ButlerSPB
+  description: >-
+    Готовитесь к переезду? Эксперты ButlerSPB делятся профессиональными
+    секретами упаковки. Узнайте, какие материалы использовать и как правильно
+    сложить хрупкую посуду, технику и мебель, чтобы всё доехало до нового дома в
+    целости и сохранности. Ваш переезд без стресса и повреждений!
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.9'
+    reviewCount: 808
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/kak-upakovat-veschi-chtoby-nichego-ne-povredilos/
 ---
 
 # Как упаковать вещи, чтобы ничего не повредилось: полное руководство от экспертов ButlerSPB

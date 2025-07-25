@@ -1,11 +1,40 @@
 ---
-title: "Инновационный сервис от ButlerSPB в Петербурге"
-description: "ButlerSPB с гордостью представляет революционное решение для вашего комфорта. Наш новый сервис объединяет персональный подход и технологии для решения задач."
-keywords: "инновационный сервис, ButlerSPB, консьерж-сервис, персональный ассистент, технологии, услуги, СПб"
-pubDate: "2025-07-24T22:01:10.543Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Инновационный сервис от ButlerSPB в Петербурге","description":"ButlerSPB с гордостью представляет революционное решение для вашего комфорта. Наш новый сервис объединяет персональный подход и технологии для решения задач.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.8","reviewCount":509,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/innovacionnyy-servis/"}}
+title: Инновационный сервис от ButlerSPB в Петербурге
+description: >-
+  ButlerSPB с гордостью представляет революционное решение для вашего комфорта.
+  Наш новый сервис объединяет персональный подход и технологии для решения
+  задач.
+pubDate: '2025-07-24T22:01:10.543Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: Инновационный сервис от ButlerSPB в Петербурге
+  description: >-
+    ButlerSPB с гордостью представляет революционное решение для вашего
+    комфорта. Наш новый сервис объединяет персональный подход и технологии для
+    решения задач.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.8'
+    reviewCount: 892
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': 'https://butlerspb-blog.netlify.app/blog/innovacionnyy-servis/'
 ---
 # Инновации на службе вашего комфорта: новый стандарт премиального сервиса от ButlerSPB
 

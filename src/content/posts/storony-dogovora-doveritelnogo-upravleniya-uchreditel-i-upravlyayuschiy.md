@@ -1,10 +1,43 @@
 ---
-title: "Стороны договора доверительного управления: учредитель и управляющий"
-description: "Ключевые участники договора доверительного управления — учредитель и управляющий. В новой статье для блога ButlerSPB мы детально анализируем их правовой статус, функции и ответственность, чтобы вы могли заключить сделку с полным пониманием процесса."
-pubDate: "2025-07-22T11:33:16.070Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Стороны договора доверительного управления: учредитель и управляющий","description":"Ключевые участники договора доверительного управления — учредитель и управляющий. В новой статье для блога ButlerSPB мы детально анализируем их правовой статус, функции и ответственность, чтобы вы могли заключить сделку с полным пониманием процесса.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":725,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/storony-dogovora-doveritelnogo-upravleniya-uchreditel-i-upravlyayuschiy/"}}
+title: 'Стороны договора доверительного управления: учредитель и управляющий'
+description: >-
+  Ключевые участники договора доверительного управления — учредитель и
+  управляющий. В новой статье для блога ButlerSPB мы детально анализируем их
+  правовой статус, функции и ответственность, чтобы вы могли заключить сделку с
+  полным пониманием процесса.
+pubDate: '2025-07-22T11:33:16.070Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Стороны договора доверительного управления: учредитель и управляющий'
+  description: >-
+    Ключевые участники договора доверительного управления — учредитель и
+    управляющий. В новой статье для блога ButlerSPB мы детально анализируем их
+    правовой статус, функции и ответственность, чтобы вы могли заключить сделку
+    с полным пониманием процесса.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.8'
+    reviewCount: 605
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/storony-dogovora-doveritelnogo-upravleniya-uchreditel-i-upravlyayuschiy/
 ---
 
 # Стороны договора доверительного управления: Полный гид по ролям, правам и ответственности

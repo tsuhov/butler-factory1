@@ -1,11 +1,40 @@
 ---
-title: "Сервис доверия: как ButlerSPB его создает?"
-description: "В ButlerSPB мы убеждены, что доверие – это основа безупречного сервиса. Узнайте, на каких принципах строится наша работа и почему клиенты доверяют нам самое ценное."
-keywords: "сервис доверия, ButlerSPB, доверие клиентов, стандарты качества, надежный сервис, гарантии, консьерж-сервис"
-pubDate: "2025-07-24T13:48:34.000Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Сервис доверия: как ButlerSPB его создает?","description":"В ButlerSPB мы убеждены, что доверие – это основа безупречного сервиса. Узнайте, на каких принципах строится наша работа и почему клиенты доверяют нам самое ценное.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.8","reviewCount":699,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/servis-doveriya/"}}
+title: 'Сервис доверия: как ButlerSPB его создает?'
+description: >-
+  В ButlerSPB мы убеждены, что доверие – это основа безупречного сервиса.
+  Узнайте, на каких принципах строится наша работа и почему клиенты доверяют нам
+  самое ценное.
+pubDate: '2025-07-24T13:48:34.000Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Сервис доверия: как ButlerSPB его создает?'
+  description: >-
+    В ButlerSPB мы убеждены, что доверие – это основа безупречного сервиса.
+    Узнайте, на каких принципах строится наша работа и почему клиенты доверяют
+    нам самое ценное.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.7'
+    reviewCount: 407
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': 'https://butlerspb-blog.netlify.app/blog/servis-doveriya/'
 ---
 # Сервис доверия: Как выбрать надежного партнера, а не просто исполнителя
 

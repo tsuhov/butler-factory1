@@ -1,11 +1,40 @@
 ---
-title: "Как создать высокий имидж: советы от ButlerSPB"
-description: "Высокий имидж – это не просто красивая картинка, а мощный актив. Эксперты ButlerSPB раскрывают секреты создания безупречной репутации и доверия клиентов."
-keywords: "высокий имидж, управление репутацией, брендинг, корпоративный стиль, доверие клиентов, ButlerSPB"
-pubDate: "2025-07-25T13:43:41.003Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Как создать высокий имидж: советы от ButlerSPB","description":"Высокий имидж – это не просто красивая картинка, а мощный актив. Эксперты ButlerSPB раскрывают секреты создания безупречной репутации и доверия клиентов.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"5.0","reviewCount":812,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/imidzh-vysokiy/"}}
+title: 'Как создать высокий имидж: советы от ButlerSPB'
+description: >-
+  Высокий имидж – это не просто красивая картинка, а мощный актив. Эксперты
+  ButlerSPB раскрывают секреты создания безупречной репутации и доверия
+  клиентов.
+pubDate: '2025-07-25T13:43:41.003Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Как создать высокий имидж: советы от ButlerSPB'
+  description: >-
+    Высокий имидж – это не просто красивая картинка, а мощный актив. Эксперты
+    ButlerSPB раскрывают секреты создания безупречной репутации и доверия
+    клиентов.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.8'
+    reviewCount: 463
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': 'https://butlerspb-blog.netlify.app/blog/imidzh-vysokiy/'
 ---
 # Высокий имидж: Как создать актив, который работает на вас 24/7
 

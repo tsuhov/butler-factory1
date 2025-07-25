@@ -1,11 +1,39 @@
 ---
-title: "Качественный консьерж: стандарт ButlerSPB"
-description: "Настоящий профессиональный консьерж – это не просто дежурный, а гарант вашего комфорта и безопасности. Узнайте, какими качествами он должен обладать."
-keywords: "консьерж, консьерж-сервис, ButlerSPB, элитный сервис, безопасность, комфорт"
-pubDate: "2025-07-24T13:40:54.796Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Качественный консьерж: стандарт ButlerSPB","description":"Настоящий профессиональный консьерж – это не просто дежурный, а гарант вашего комфорта и безопасности. Узнайте, какими качествами он должен обладать.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":435,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/kachestvennyy-konserzh/"}}
+title: 'Качественный консьерж: стандарт ButlerSPB'
+description: >-
+  Настоящий профессиональный консьерж – это не просто дежурный, а гарант вашего
+  комфорта и безопасности. Узнайте, какими качествами он должен обладать.
+pubDate: '2025-07-24T13:40:54.796Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Качественный консьерж: стандарт ButlerSPB'
+  description: >-
+    Настоящий профессиональный консьерж – это не просто дежурный, а гарант
+    вашего комфорта и безопасности. Узнайте, какими качествами он должен
+    обладать.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.8'
+    reviewCount: 638
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': 'https://butlerspb-blog.netlify.app/blog/kachestvennyy-konserzh/'
 ---
 # Качественный консьерж: как отличить элитный сервис от формальности и почему это — лучшая инвестиция в ваш комфорт и статус
 

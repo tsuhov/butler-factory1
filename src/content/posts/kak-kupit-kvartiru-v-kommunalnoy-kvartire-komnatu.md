@@ -1,10 +1,47 @@
 ---
-title: "Покупка комнаты в коммунальной квартире: пошаговое руководство от ButlerSPB"
-description: "Комната в коммуналке — доступный старт на рынке недвижимости Петербурга. Однако такая сделка имеет множество юридических тонкостей, главная из которых — право преимущественной покупки соседями. В нашей статье мы подробно разбираем все этапы: от поиска объекта и переговоров с соседями до проверки документов и безопасного заключения договора. Узнайте, как избежать рисков и стать собственником комнаты без лишних проблем."
-pubDate: "2025-07-23T11:34:32.633Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Покупка комнаты в коммунальной квартире: пошаговое руководство от ButlerSPB","description":"Комната в коммуналке — доступный старт на рынке недвижимости Петербурга. Однако такая сделка имеет множество юридических тонкостей, главная из которых — право преимущественной покупки соседями. В нашей статье мы подробно разбираем все этапы: от поиска объекта и переговоров с соседями до проверки документов и безопасного заключения договора. Узнайте, как избежать рисков и стать собственником комнаты без лишних проблем.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":623,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/kak-kupit-kvartiru-v-kommunalnoy-kvartire-komnatu/"}}
+title: 'Покупка комнаты в коммунальной квартире: пошаговое руководство от ButlerSPB'
+description: >-
+  Комната в коммуналке — доступный старт на рынке недвижимости Петербурга.
+  Однако такая сделка имеет множество юридических тонкостей, главная из которых
+  — право преимущественной покупки соседями. В нашей статье мы подробно
+  разбираем все этапы: от поиска объекта и переговоров с соседями до проверки
+  документов и безопасного заключения договора. Узнайте, как избежать рисков и
+  стать собственником комнаты без лишних проблем.
+pubDate: '2025-07-23T11:34:32.633Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Покупка комнаты в коммунальной квартире: пошаговое руководство от ButlerSPB'
+  description: >-
+    Комната в коммуналке — доступный старт на рынке недвижимости Петербурга.
+    Однако такая сделка имеет множество юридических тонкостей, главная из
+    которых — право преимущественной покупки соседями. В нашей статье мы
+    подробно разбираем все этапы: от поиска объекта и переговоров с соседями до
+    проверки документов и безопасного заключения договора. Узнайте, как избежать
+    рисков и стать собственником комнаты без лишних проблем.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '5.0'
+    reviewCount: 756
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/kak-kupit-kvartiru-v-kommunalnoy-kvartire-komnatu/
 ---
 
 # Как купить комнату в коммунальной квартире: Полное руководство по сделке в Санкт-Петербурге

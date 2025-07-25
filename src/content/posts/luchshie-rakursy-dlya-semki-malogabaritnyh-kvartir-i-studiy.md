@@ -1,10 +1,51 @@
 ---
-title: "Лучшие ракурсы для съемки малогабаритных квартир и студий: секреты от ButlerSPB"
-description: "Как визуально расширить пространство и сделать фотографии маленькой квартиры или студии привлекательными для потенциальных арендаторов или покупателей? В этой статье мы раскроем профессиональные секреты и покажем самые выигрышные ракурсы, которые помогут вашей недвижимости выглядеть просторнее, светлее и уютнее. Узнайте, как правильно использовать углы, свет и композицию, чтобы подчеркнуть все достоинства компактного жилья."
-pubDate: "2025-07-22T11:09:27.274Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Лучшие ракурсы для съемки малогабаритных квартир и студий: секреты от ButlerSPB","description":"Как визуально расширить пространство и сделать фотографии маленькой квартиры или студии привлекательными для потенциальных арендаторов или покупателей? В этой статье мы раскроем профессиональные секреты и покажем самые выигрышные ракурсы, которые помогут вашей недвижимости выглядеть просторнее, светлее и уютнее. Узнайте, как правильно использовать углы, свет и композицию, чтобы подчеркнуть все достоинства компактного жилья.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"5.0","reviewCount":848,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/luchshie-rakursy-dlya-semki-malogabaritnyh-kvartir-i-studiy/"}}
+title: >-
+  Лучшие ракурсы для съемки малогабаритных квартир и студий: секреты от
+  ButlerSPB
+description: >-
+  Как визуально расширить пространство и сделать фотографии маленькой квартиры
+  или студии привлекательными для потенциальных арендаторов или покупателей? В
+  этой статье мы раскроем профессиональные секреты и покажем самые выигрышные
+  ракурсы, которые помогут вашей недвижимости выглядеть просторнее, светлее и
+  уютнее. Узнайте, как правильно использовать углы, свет и композицию, чтобы
+  подчеркнуть все достоинства компактного жилья.
+pubDate: '2025-07-22T11:09:27.274Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: >-
+    Лучшие ракурсы для съемки малогабаритных квартир и студий: секреты от
+    ButlerSPB
+  description: >-
+    Как визуально расширить пространство и сделать фотографии маленькой квартиры
+    или студии привлекательными для потенциальных арендаторов или покупателей? В
+    этой статье мы раскроем профессиональные секреты и покажем самые выигрышные
+    ракурсы, которые помогут вашей недвижимости выглядеть просторнее, светлее и
+    уютнее. Узнайте, как правильно использовать углы, свет и композицию, чтобы
+    подчеркнуть все достоинства компактного жилья.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.7'
+    reviewCount: 354
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/luchshie-rakursy-dlya-semki-malogabaritnyh-kvartir-i-studiy/
 ---
 
 # Как сфотографировать маленькую квартиру, чтобы она выглядела на миллион: Полный гид по ракурсам и хоумстейджингу

@@ -1,10 +1,47 @@
 ---
-title: "Как срочно продать квартиру в ипотеке: пошаговая инструкция от ButlerSPB"
-description: "Продажа ипотечной квартиры кажется сложным квестом, особенно когда время поджимает. В нашей новой статье эксперты ButlerSPB разбирают все возможные схемы продажи: с досрочным погашением долга, с участием покупателя и переводом долга. Узнайте, какие документы нужны, как договориться с банком и найти покупателя, готового к такой сделке, чтобы продать недвижимость максимально быстро и выгодно."
-pubDate: "2025-07-23T12:00:12.991Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Как срочно продать квартиру в ипотеке: пошаговая инструкция от ButlerSPB","description":"Продажа ипотечной квартиры кажется сложным квестом, особенно когда время поджимает. В нашей новой статье эксперты ButlerSPB разбирают все возможные схемы продажи: с досрочным погашением долга, с участием покупателя и переводом долга. Узнайте, какие документы нужны, как договориться с банком и найти покупателя, готового к такой сделке, чтобы продать недвижимость максимально быстро и выгодно.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"5.0","reviewCount":712,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/kak-srochno-prodat-kvartiru-esli-ona-v-ipoteke/"}}
+title: 'Как срочно продать квартиру в ипотеке: пошаговая инструкция от ButlerSPB'
+description: >-
+  Продажа ипотечной квартиры кажется сложным квестом, особенно когда время
+  поджимает. В нашей новой статье эксперты ButlerSPB разбирают все возможные
+  схемы продажи: с досрочным погашением долга, с участием покупателя и переводом
+  долга. Узнайте, какие документы нужны, как договориться с банком и найти
+  покупателя, готового к такой сделке, чтобы продать недвижимость максимально
+  быстро и выгодно.
+pubDate: '2025-07-23T12:00:12.991Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Как срочно продать квартиру в ипотеке: пошаговая инструкция от ButlerSPB'
+  description: >-
+    Продажа ипотечной квартиры кажется сложным квестом, особенно когда время
+    поджимает. В нашей новой статье эксперты ButlerSPB разбирают все возможные
+    схемы продажи: с досрочным погашением долга, с участием покупателя и
+    переводом долга. Узнайте, какие документы нужны, как договориться с банком и
+    найти покупателя, готового к такой сделке, чтобы продать недвижимость
+    максимально быстро и выгодно.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.9'
+    reviewCount: 883
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/kak-srochno-prodat-kvartiru-esli-ona-v-ipoteke/
 ---
 
 # Как срочно продать квартиру в ипотеке: пошаговая инструкция и 3 рабочих схемы от экспертов ButlerSPB

@@ -1,11 +1,40 @@
 ---
-title: "Рынок апартаментов: анализ от ButlerSPB"
-description: "Анализируем рынок апартаментов в Санкт-Петербурге. Эксперты ButlerSPB рассказывают о ключевых трендах, доходности и рисках для инвесторов в 2024 году."
-keywords: "апартаменты, инвестиции в недвижимость, рынок апартаментов, купить апартаменты спб, доходность, нежилой фонд"
-pubDate: "2025-07-25T14:17:14.820Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Рынок апартаментов: анализ от ButlerSPB","description":"Анализируем рынок апартаментов в Санкт-Петербурге. Эксперты ButlerSPB рассказывают о ключевых трендах, доходности и рисках для инвесторов в 2024 году.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"5.0","reviewCount":417,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/rynok-apartamentov/"}}
+title: 'Рынок апартаментов: анализ от ButlerSPB'
+description: >-
+  Анализируем рынок апартаментов в Санкт-Петербурге. Эксперты ButlerSPB
+  рассказывают о ключевых трендах, доходности и рисках для инвесторов в 2024
+  году.
+pubDate: '2025-07-25T14:17:14.820Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Рынок апартаментов: анализ от ButlerSPB'
+  description: >-
+    Анализируем рынок апартаментов в Санкт-Петербурге. Эксперты ButlerSPB
+    рассказывают о ключевых трендах, доходности и рисках для инвесторов в 2024
+    году.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '5.0'
+    reviewCount: 806
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': 'https://butlerspb-blog.netlify.app/blog/rynok-apartamentov/'
 ---
 # Рынок апартаментов в 2024 году: подробный гид для инвестора
 

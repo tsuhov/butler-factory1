@@ -1,11 +1,40 @@
 ---
-title: "Районы апартаментов: где лучше жить в СПб?"
-description: "Выбор района для апартаментов в Санкт-Петербурге — важное решение. Наш гид поможет разобраться в инфраструктуре, транспорте и атмосфере каждого уголка города."
-keywords: "апартаменты спб, выбор района, недвижимость петербург, лучшие районы спб, аренда апартаментов, ButlerSPB, инфраструктура районов"
-pubDate: "2025-07-25T15:35:04.164Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Районы апартаментов: где лучше жить в СПб?","description":"Выбор района для апартаментов в Санкт-Петербурге — важное решение. Наш гид поможет разобраться в инфраструктуре, транспорте и атмосфере каждого уголка города.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.8","reviewCount":461,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/rayony-apartamentov/"}}
+title: 'Районы апартаментов: где лучше жить в СПб?'
+description: >-
+  Выбор района для апартаментов в Санкт-Петербурге — важное решение. Наш гид
+  поможет разобраться в инфраструктуре, транспорте и атмосфере каждого уголка
+  города.
+pubDate: '2025-07-25T15:35:04.164Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Районы апартаментов: где лучше жить в СПб?'
+  description: >-
+    Выбор района для апартаментов в Санкт-Петербурге — важное решение. Наш гид
+    поможет разобраться в инфраструктуре, транспорте и атмосфере каждого уголка
+    города.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.7'
+    reviewCount: 689
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': 'https://butlerspb-blog.netlify.app/blog/rayony-apartamentov/'
 ---
 # Как выбрать район для аренды апартаментов в СПб: полный гид от экспертов ButlerSPB
 

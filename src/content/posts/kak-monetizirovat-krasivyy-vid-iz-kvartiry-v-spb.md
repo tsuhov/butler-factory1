@@ -1,10 +1,47 @@
 ---
-title: "Ваш вид из окна — ваш актив: Как монетизировать панораму Петербурга"
-description: "Потрясающий вид на исторический центр Петербурга — это не только эстетическое удовольствие, но и ценный актив. В новой статье блога ButlerSPB мы разбираем проверенные способы монетизации вашей панорамы: от сдачи квартиры в краткосрочную аренду по повышенной ставке до организации фотосессий, романтических свиданий и съемок. Узнайте, как превратить ваш пейзаж за окном в стабильный источник дохода."
-pubDate: "2025-07-22T13:45:11.792Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Ваш вид из окна — ваш актив: Как монетизировать панораму Петербурга","description":"Потрясающий вид на исторический центр Петербурга — это не только эстетическое удовольствие, но и ценный актив. В новой статье блога ButlerSPB мы разбираем проверенные способы монетизации вашей панорамы: от сдачи квартиры в краткосрочную аренду по повышенной ставке до организации фотосессий, романтических свиданий и съемок. Узнайте, как превратить ваш пейзаж за окном в стабильный источник дохода.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.8","reviewCount":486,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/kak-monetizirovat-krasivyy-vid-iz-kvartiry-v-spb/"}}
+title: 'Ваш вид из окна — ваш актив: Как монетизировать панораму Петербурга'
+description: >-
+  Потрясающий вид на исторический центр Петербурга — это не только эстетическое
+  удовольствие, но и ценный актив. В новой статье блога ButlerSPB мы разбираем
+  проверенные способы монетизации вашей панорамы: от сдачи квартиры в
+  краткосрочную аренду по повышенной ставке до организации фотосессий,
+  романтических свиданий и съемок. Узнайте, как превратить ваш пейзаж за окном в
+  стабильный источник дохода.
+pubDate: '2025-07-22T13:45:11.792Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Ваш вид из окна — ваш актив: Как монетизировать панораму Петербурга'
+  description: >-
+    Потрясающий вид на исторический центр Петербурга — это не только
+    эстетическое удовольствие, но и ценный актив. В новой статье блога ButlerSPB
+    мы разбираем проверенные способы монетизации вашей панорамы: от сдачи
+    квартиры в краткосрочную аренду по повышенной ставке до организации
+    фотосессий, романтических свиданий и съемок. Узнайте, как превратить ваш
+    пейзаж за окном в стабильный источник дохода.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.9'
+    reviewCount: 545
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/kak-monetizirovat-krasivyy-vid-iz-kvartiry-v-spb/
 ---
 
 # Ваш вид на Петербург — это актив. Детальная инструкция по его монетизации

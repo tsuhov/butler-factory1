@@ -1,10 +1,49 @@
 ---
-title: "Обмен квартиры в центре СПб на дом в пригороде: пошаговый план"
-description: "Мечтаете сменить суету центрального района Санкт-Петербурга на спокойствие и простор загородного дома? В новой статье блога ButlerSPB мы подготовили для вас детальное руководство по обмену городской квартиры на дом в пригороде. Вы узнаете о всех этапах: от правильной оценки вашей недвижимости и подбора идеального дома до юридических тонкостей сделки и лайфхаков для переезда. Сделайте шаг к мечте уверенно и без рисков вместе с нашими экспертными советами."
-pubDate: "2025-07-23T10:41:59.894Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Обмен квартиры в центре СПб на дом в пригороде: пошаговый план","description":"Мечтаете сменить суету центрального района Санкт-Петербурга на спокойствие и простор загородного дома? В новой статье блога ButlerSPB мы подготовили для вас детальное руководство по обмену городской квартиры на дом в пригороде. Вы узнаете о всех этапах: от правильной оценки вашей недвижимости и подбора идеального дома до юридических тонкостей сделки и лайфхаков для переезда. Сделайте шаг к мечте уверенно и без рисков вместе с нашими экспертными советами.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":649,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/obmen-kvartiry-v-centre-spb-na-dom-v-prigorode-poshagovyy-plan/"}}
+title: 'Обмен квартиры в центре СПб на дом в пригороде: пошаговый план'
+description: >-
+  Мечтаете сменить суету центрального района Санкт-Петербурга на спокойствие и
+  простор загородного дома? В новой статье блога ButlerSPB мы подготовили для
+  вас детальное руководство по обмену городской квартиры на дом в пригороде. Вы
+  узнаете о всех этапах: от правильной оценки вашей недвижимости и подбора
+  идеального дома до юридических тонкостей сделки и лайфхаков для переезда.
+  Сделайте шаг к мечте уверенно и без рисков вместе с нашими экспертными
+  советами.
+pubDate: '2025-07-23T10:41:59.894Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Обмен квартиры в центре СПб на дом в пригороде: пошаговый план'
+  description: >-
+    Мечтаете сменить суету центрального района Санкт-Петербурга на спокойствие и
+    простор загородного дома? В новой статье блога ButlerSPB мы подготовили для
+    вас детальное руководство по обмену городской квартиры на дом в пригороде.
+    Вы узнаете о всех этапах: от правильной оценки вашей недвижимости и подбора
+    идеального дома до юридических тонкостей сделки и лайфхаков для переезда.
+    Сделайте шаг к мечте уверенно и без рисков вместе с нашими экспертными
+    советами.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.9'
+    reviewCount: 456
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/obmen-kvartiry-v-centre-spb-na-dom-v-prigorode-poshagovyy-plan/
 ---
 
 # Обмен квартиры в центре СПб на дом в пригороде: пошаговый план от экспертов

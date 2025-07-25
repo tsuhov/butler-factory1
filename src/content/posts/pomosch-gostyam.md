@@ -1,11 +1,40 @@
 ---
-title: "Идеальный прием: помощь гостям от ButlerSPB"
-description: "Узнайте, как команда ButlerSPB обеспечивает исключительный сервис для ваших гостей. От встречи в аэропорту до решения бытовых вопросов — мы создаем комфорт."
-keywords: "помощь гостям, ButlerSPB, консьерж-сервис, гостеприимство, сервис для гостей, комфорт, встреча гостей"
-pubDate: "2025-07-24T13:06:45.553Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Идеальный прием: помощь гостям от ButlerSPB","description":"Узнайте, как команда ButlerSPB обеспечивает исключительный сервис для ваших гостей. От встречи в аэропорту до решения бытовых вопросов — мы создаем комфорт.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.8","reviewCount":897,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/pomosch-gostyam/"}}
+title: 'Идеальный прием: помощь гостям от ButlerSPB'
+description: >-
+  Узнайте, как команда ButlerSPB обеспечивает исключительный сервис для ваших
+  гостей. От встречи в аэропорту до решения бытовых вопросов — мы создаем
+  комфорт.
+pubDate: '2025-07-24T13:06:45.553Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Идеальный прием: помощь гостям от ButlerSPB'
+  description: >-
+    Узнайте, как команда ButlerSPB обеспечивает исключительный сервис для ваших
+    гостей. От встречи в аэропорту до решения бытовых вопросов — мы создаем
+    комфорт.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.8'
+    reviewCount: 430
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': 'https://butlerspb-blog.netlify.app/blog/pomosch-gostyam/'
 ---
 # Помощь гостям в Петербурге: Как ButlerSPB превращает вашу поездку в безупречный отдых
 

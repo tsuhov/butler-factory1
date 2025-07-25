@@ -1,10 +1,46 @@
 ---
-title: "Акт приема-передачи квартиры: что делать, если обнаружены недостатки"
-description: "Принимаете квартиру от застройщика и нашли дефекты? Не спешите подписывать акт! В новой статье блога ButlerSPB мы подробно разбираем, как правильно действовать: как грамотно составить дефектный акт, какие сроки есть у застройщика на устранение недостатков и как добиться компенсации. Защитите свои права и получите ключи от квартиры своей мечты без неприятных сюрпризов."
-pubDate: "2025-07-23T12:13:54.408Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Акт приема-передачи квартиры: что делать, если обнаружены недостатки","description":"Принимаете квартиру от застройщика и нашли дефекты? Не спешите подписывать акт! В новой статье блога ButlerSPB мы подробно разбираем, как правильно действовать: как грамотно составить дефектный акт, какие сроки есть у застройщика на устранение недостатков и как добиться компенсации. Защитите свои права и получите ключи от квартиры своей мечты без неприятных сюрпризов.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":825,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/akt-priema-peredachi-kvartiry-chto-delat-esli-obnaruzheny-nedostatki/"}}
+title: 'Акт приема-передачи квартиры: что делать, если обнаружены недостатки'
+description: >-
+  Принимаете квартиру от застройщика и нашли дефекты? Не спешите подписывать
+  акт! В новой статье блога ButlerSPB мы подробно разбираем, как правильно
+  действовать: как грамотно составить дефектный акт, какие сроки есть у
+  застройщика на устранение недостатков и как добиться компенсации. Защитите
+  свои права и получите ключи от квартиры своей мечты без неприятных сюрпризов.
+pubDate: '2025-07-23T12:13:54.408Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Акт приема-передачи квартиры: что делать, если обнаружены недостатки'
+  description: >-
+    Принимаете квартиру от застройщика и нашли дефекты? Не спешите подписывать
+    акт! В новой статье блога ButlerSPB мы подробно разбираем, как правильно
+    действовать: как грамотно составить дефектный акт, какие сроки есть у
+    застройщика на устранение недостатков и как добиться компенсации. Защитите
+    свои права и получите ключи от квартиры своей мечты без неприятных
+    сюрпризов.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '5.0'
+    reviewCount: 448
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/akt-priema-peredachi-kvartiry-chto-delat-esli-obnaruzheny-nedostatki/
 ---
 
 # Акт приема-передачи квартиры с недостатками: полное руководство по защите ваших прав и денег

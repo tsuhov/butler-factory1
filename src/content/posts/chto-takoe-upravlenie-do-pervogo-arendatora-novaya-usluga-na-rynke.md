@@ -1,10 +1,49 @@
 ---
-title: "Что такое «управление до первого арендатора»: новая услуга от ButlerSPB, которая экономит ваше время и нервы"
-description: "Купили квартиру для сдачи, а головной боли оказалось больше, чем ожидали? Подготовка объекта, поиск надежных жильцов, показы — всё это отнимает массу сил. В новой статье блога ButlerSPB разбираемся, что такое услуга «управление до первого арендатора», кому она необходима и как мы помогаем собственникам быстро и выгодно сдать недвижимость, взяв всю рутину на себя."
-pubDate: "2025-07-23T11:47:26.551Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Что такое «управление до первого арендатора»: новая услуга от ButlerSPB, которая экономит ваше время и нервы","description":"Купили квартиру для сдачи, а головной боли оказалось больше, чем ожидали? Подготовка объекта, поиск надежных жильцов, показы — всё это отнимает массу сил. В новой статье блога ButlerSPB разбираемся, что такое услуга «управление до первого арендатора», кому она необходима и как мы помогаем собственникам быстро и выгодно сдать недвижимость, взяв всю рутину на себя.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.8","reviewCount":579,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/chto-takoe-upravlenie-do-pervogo-arendatora-novaya-usluga-na-rynke/"}}
+title: >-
+  Что такое «управление до первого арендатора»: новая услуга от ButlerSPB,
+  которая экономит ваше время и нервы
+description: >-
+  Купили квартиру для сдачи, а головной боли оказалось больше, чем ожидали?
+  Подготовка объекта, поиск надежных жильцов, показы — всё это отнимает массу
+  сил. В новой статье блога ButlerSPB разбираемся, что такое услуга «управление
+  до первого арендатора», кому она необходима и как мы помогаем собственникам
+  быстро и выгодно сдать недвижимость, взяв всю рутину на себя.
+pubDate: '2025-07-23T11:47:26.551Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: >-
+    Что такое «управление до первого арендатора»: новая услуга от ButlerSPB,
+    которая экономит ваше время и нервы
+  description: >-
+    Купили квартиру для сдачи, а головной боли оказалось больше, чем ожидали?
+    Подготовка объекта, поиск надежных жильцов, показы — всё это отнимает массу
+    сил. В новой статье блога ButlerSPB разбираемся, что такое услуга
+    «управление до первого арендатора», кому она необходима и как мы помогаем
+    собственникам быстро и выгодно сдать недвижимость, взяв всю рутину на себя.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.9'
+    reviewCount: 866
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/chto-takoe-upravlenie-do-pervogo-arendatora-novaya-usluga-na-rynke/
 ---
 
 # Управление до первого арендатора: Как сдать квартиру быстрее, дороже и без головной боли

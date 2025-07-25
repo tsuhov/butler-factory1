@@ -1,11 +1,40 @@
 ---
-title: "Апарт-отели СПб: полный гид от ButlerSPB"
-description: "Апарт-отель в СПб — комфорт квартиры и сервис отеля. ButlerSPB поможет разобраться в особенностях и выбрать лучший вариант для незабываемой поездки в Питер."
-keywords: "апарт-отель спб, апартаменты санкт-петербург, снять апартаменты спб, аренда апартаментов, отель с кухней спб, жилье в питере"
-pubDate: "2025-07-25T14:53:10.223Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Апарт-отели СПб: полный гид от ButlerSPB","description":"Апарт-отель в СПб — комфорт квартиры и сервис отеля. ButlerSPB поможет разобраться в особенностях и выбрать лучший вариант для незабываемой поездки в Питер.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.7","reviewCount":691,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/apart-otel-spb/"}}
+title: 'Апарт-отели СПб: полный гид от ButlerSPB'
+description: >-
+  Апарт-отель в СПб — комфорт квартиры и сервис отеля. ButlerSPB поможет
+  разобраться в особенностях и выбрать лучший вариант для незабываемой поездки в
+  Питер.
+pubDate: '2025-07-25T14:53:10.223Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Апарт-отели СПб: полный гид от ButlerSPB'
+  description: >-
+    Апарт-отель в СПб — комфорт квартиры и сервис отеля. ButlerSPB поможет
+    разобраться в особенностях и выбрать лучший вариант для незабываемой поездки
+    в Питер.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.8'
+    reviewCount: 484
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': 'https://butlerspb-blog.netlify.app/blog/apart-otel-spb/'
 ---
 # Апарт-отель в Санкт-Петербурге: полный гид по выбору вашего идеального дома вдали от дома
 

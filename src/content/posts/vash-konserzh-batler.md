@@ -1,11 +1,40 @@
 ---
-title: "Ваш личный консьерж-батлер от ButlerSPB"
-description: "Узнайте, как современный консьерж-батлер изменит вашу жизнь, взяв на себя рутинные задачи и организацию досуга. ButlerSPB предлагает эксклюзивный сервис."
-keywords: "консьерж сервис, услуги батлера, личный помощник, ButlerSPB, персональный ассистент, элитный сервис, лайфстайл менеджмент"
-pubDate: "2025-07-24T13:07:02.284Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Ваш личный консьерж-батлер от ButlerSPB","description":"Узнайте, как современный консьерж-батлер изменит вашу жизнь, взяв на себя рутинные задачи и организацию досуга. ButlerSPB предлагает эксклюзивный сервис.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.7","reviewCount":714,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/vash-konserzh-batler/"}}
+title: Ваш личный консьерж-батлер от ButlerSPB
+description: >-
+  Узнайте, как современный консьерж-батлер изменит вашу жизнь, взяв на себя
+  рутинные задачи и организацию досуга. ButlerSPB предлагает эксклюзивный
+  сервис.
+pubDate: '2025-07-24T13:07:02.284Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: Ваш личный консьерж-батлер от ButlerSPB
+  description: >-
+    Узнайте, как современный консьерж-батлер изменит вашу жизнь, взяв на себя
+    рутинные задачи и организацию досуга. ButlerSPB предлагает эксклюзивный
+    сервис.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.8'
+    reviewCount: 521
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': 'https://butlerspb-blog.netlify.app/blog/vash-konserzh-batler/'
 ---
 # Ваш Консьерж-Батлер: Больше, чем просто помощник. Искусство управления стилем жизни в Санкт-Петербурге.
 

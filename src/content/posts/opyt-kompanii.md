@@ -1,11 +1,40 @@
 ---
-title: "Ключевые вехи и опыт компании ButlerSPB"
-description: "Делимся многолетним опытом компании ButlerSPB. Рассказываем о нашем пути, знаковых проектах и вызовах, которые сделали нас сильнее и помогли достичь успеха."
-keywords: "опыт компании, ButlerSPB, история успеха, достижения компании, развитие бизнеса, кейсы компании"
-pubDate: "2025-07-25T16:19:40.159Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Ключевые вехи и опыт компании ButlerSPB","description":"Делимся многолетним опытом компании ButlerSPB. Рассказываем о нашем пути, знаковых проектах и вызовах, которые сделали нас сильнее и помогли достичь успеха.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.8","reviewCount":725,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/opyt-kompanii/"}}
+title: Ключевые вехи и опыт компании ButlerSPB
+description: >-
+  Делимся многолетним опытом компании ButlerSPB. Рассказываем о нашем пути,
+  знаковых проектах и вызовах, которые сделали нас сильнее и помогли достичь
+  успеха.
+pubDate: '2025-07-25T16:19:40.159Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: Ключевые вехи и опыт компании ButlerSPB
+  description: >-
+    Делимся многолетним опытом компании ButlerSPB. Рассказываем о нашем пути,
+    знаковых проектах и вызовах, которые сделали нас сильнее и помогли достичь
+    успеха.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.8'
+    reviewCount: 723
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': 'https://butlerspb-blog.netlify.app/blog/opyt-kompanii/'
 ---
 # Что скрывается за фразой «опыт компании»? Наш подход в ButlerSPB
 

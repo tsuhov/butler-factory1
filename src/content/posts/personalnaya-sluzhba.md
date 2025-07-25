@@ -1,11 +1,40 @@
 ---
-title: "Персональная служба: ваш комфорт – наша забота"
-description: "Узнайте, что такое настоящая персональная служба с ButlerSPB. Мы предлагаем эксклюзивный подход, предугадывая ваши желания для безупречного сервиса и комфорта."
-keywords: "персональная служба, консьерж-сервис, дворецкий, эксклюзивный сервис, индивидуальный подход, ButlerSPB"
-pubDate: "2025-07-24T13:13:04.988Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Персональная служба: ваш комфорт – наша забота","description":"Узнайте, что такое настоящая персональная служба с ButlerSPB. Мы предлагаем эксклюзивный подход, предугадывая ваши желания для безупречного сервиса и комфорта.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"5.0","reviewCount":775,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/personalnaya-sluzhba/"}}
+title: 'Персональная служба: ваш комфорт – наша забота'
+description: >-
+  Узнайте, что такое настоящая персональная служба с ButlerSPB. Мы предлагаем
+  эксклюзивный подход, предугадывая ваши желания для безупречного сервиса и
+  комфорта.
+pubDate: '2025-07-24T13:13:04.988Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Персональная служба: ваш комфорт – наша забота'
+  description: >-
+    Узнайте, что такое настоящая персональная служба с ButlerSPB. Мы предлагаем
+    эксклюзивный подход, предугадывая ваши желания для безупречного сервиса и
+    комфорта.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.8'
+    reviewCount: 362
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': 'https://butlerspb-blog.netlify.app/blog/personalnaya-sluzhba/'
 ---
 # Персональная служба в СПб: Как вернуть себе самое ценное — время
 

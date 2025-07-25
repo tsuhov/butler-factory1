@@ -1,10 +1,45 @@
 ---
-title: "Как интересно провести время в городе, не выходя на улицу: гид от ButlerSPB"
-description: "Петербуржская погода застала врасплох? Не беда! Это отличный повод устроить незабываемый день, не покидая уюта собственной квартиры. Команда ButlerSPB подготовила для вас подборку идей: от организации домашнего кинотеатра и спа-салона до кулинарных экспериментов и виртуальных путешествий по лучшим музеям мира. Откройте для себя мир развлечений в четырех стенах!"
-pubDate: "2025-07-22T11:48:05.353Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Как интересно провести время в городе, не выходя на улицу: гид от ButlerSPB","description":"Петербуржская погода застала врасплох? Не беда! Это отличный повод устроить незабываемый день, не покидая уюта собственной квартиры. Команда ButlerSPB подготовила для вас подборку идей: от организации домашнего кинотеатра и спа-салона до кулинарных экспериментов и виртуальных путешествий по лучшим музеям мира. Откройте для себя мир развлечений в четырех стенах!","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":487,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/kak-interesno-provesti-vremya-v-gorode-ne-vyhodya-na-ulicu/"}}
+title: 'Как интересно провести время в городе, не выходя на улицу: гид от ButlerSPB'
+description: >-
+  Петербуржская погода застала врасплох? Не беда! Это отличный повод устроить
+  незабываемый день, не покидая уюта собственной квартиры. Команда ButlerSPB
+  подготовила для вас подборку идей: от организации домашнего кинотеатра и
+  спа-салона до кулинарных экспериментов и виртуальных путешествий по лучшим
+  музеям мира. Откройте для себя мир развлечений в четырех стенах!
+pubDate: '2025-07-22T11:48:05.353Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Как интересно провести время в городе, не выходя на улицу: гид от ButlerSPB'
+  description: >-
+    Петербуржская погода застала врасплох? Не беда! Это отличный повод устроить
+    незабываемый день, не покидая уюта собственной квартиры. Команда ButlerSPB
+    подготовила для вас подборку идей: от организации домашнего кинотеатра и
+    спа-салона до кулинарных экспериментов и виртуальных путешествий по лучшим
+    музеям мира. Откройте для себя мир развлечений в четырех стенах!
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '5.0'
+    reviewCount: 733
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/kak-interesno-provesti-vremya-v-gorode-ne-vyhodya-na-ulicu/
 ---
 
 # Не выходя на улицу: 15+ идей, как роскошно и интересно провести время в Петербурге в помещении

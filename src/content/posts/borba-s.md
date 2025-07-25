@@ -1,11 +1,39 @@
 ---
-title: "Эффективная борьба с плесенью в квартире"
-description: "Плесень в доме – это не просто косметический дефект, а серьезная угроза для здоровья. Узнайте о причинах ее появления и самых эффективных методах борьбы."
-keywords: "борьба с плесенью, как убрать плесень, грибок в ванной, удаление плесени, ButlerSPB, клининг, уборка квартиры"
-pubDate: "2025-07-25T16:02:16.023Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Эффективная борьба с плесенью в квартире","description":"Плесень в доме – это не просто косметический дефект, а серьезная угроза для здоровья. Узнайте о причинах ее появления и самых эффективных методах борьбы.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.8","reviewCount":531,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/borba-s/"}}
+title: Эффективная борьба с плесенью в квартире
+description: >-
+  Плесень в доме – это не просто косметический дефект, а серьезная угроза для
+  здоровья. Узнайте о причинах ее появления и самых эффективных методах борьбы.
+pubDate: '2025-07-25T16:02:16.023Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: Эффективная борьба с плесенью в квартире
+  description: >-
+    Плесень в доме – это не просто косметический дефект, а серьезная угроза для
+    здоровья. Узнайте о причинах ее появления и самых эффективных методах
+    борьбы.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.8'
+    reviewCount: 861
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': 'https://butlerspb-blog.netlify.app/blog/borba-s/'
 ---
 # Борьба с [Проблемой] в квартире: полное руководство от экспертов ButlerSPB
 

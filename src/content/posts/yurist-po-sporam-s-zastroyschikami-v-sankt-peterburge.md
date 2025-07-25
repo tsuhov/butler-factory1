@@ -1,10 +1,47 @@
 ---
-title: "Юрист по спорам с застройщиками в Санкт-Петербурге: как защитить свои права"
-description: "Покупка квартиры в новостройке СПб обернулась проблемами? Застройщик срывает сроки, вы обнаружили строительные дефекты или вам навязывают невыгодные условия? Юристы компании ButlerSPB рассказывают, как действовать в споре с застройщиком: от правильной приемки квартиры и составления претензии до взыскания неустойки и полной стоимости жилья через суд. Узнайте, как защитить свои инвестиции и добиться справедливости."
-pubDate: "2025-07-23T22:08:05.168Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Юрист по спорам с застройщиками в Санкт-Петербурге: как защитить свои права","description":"Покупка квартиры в новостройке СПб обернулась проблемами? Застройщик срывает сроки, вы обнаружили строительные дефекты или вам навязывают невыгодные условия? Юристы компании ButlerSPB рассказывают, как действовать в споре с застройщиком: от правильной приемки квартиры и составления претензии до взыскания неустойки и полной стоимости жилья через суд. Узнайте, как защитить свои инвестиции и добиться справедливости.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"5.0","reviewCount":764,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/yurist-po-sporam-s-zastroyschikami-v-sankt-peterburge/"}}
+title: 'Юрист по спорам с застройщиками в Санкт-Петербурге: как защитить свои права'
+description: >-
+  Покупка квартиры в новостройке СПб обернулась проблемами? Застройщик срывает
+  сроки, вы обнаружили строительные дефекты или вам навязывают невыгодные
+  условия? Юристы компании ButlerSPB рассказывают, как действовать в споре с
+  застройщиком: от правильной приемки квартиры и составления претензии до
+  взыскания неустойки и полной стоимости жилья через суд. Узнайте, как защитить
+  свои инвестиции и добиться справедливости.
+pubDate: '2025-07-23T22:08:05.168Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Юрист по спорам с застройщиками в Санкт-Петербурге: как защитить свои права'
+  description: >-
+    Покупка квартиры в новостройке СПб обернулась проблемами? Застройщик срывает
+    сроки, вы обнаружили строительные дефекты или вам навязывают невыгодные
+    условия? Юристы компании ButlerSPB рассказывают, как действовать в споре с
+    застройщиком: от правильной приемки квартиры и составления претензии до
+    взыскания неустойки и полной стоимости жилья через суд. Узнайте, как
+    защитить свои инвестиции и добиться справедливости.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.7'
+    reviewCount: 456
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/yurist-po-sporam-s-zastroyschikami-v-sankt-peterburge/
 ---
 
 # Профессиональный юрист по спорам с застройщиками в Санкт-Петербурге: Как защитить свои права и взыскать до 1 000 000 ₽

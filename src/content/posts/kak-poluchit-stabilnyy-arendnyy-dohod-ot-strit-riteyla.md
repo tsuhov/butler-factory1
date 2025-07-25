@@ -1,10 +1,49 @@
 ---
-title: "Как получить стабильный арендный доход от стрит-ритейла"
-description: "Стрит-ритейл — один из самых привлекательных активов для инвесторов в недвижимость. Но как превратить квадратные метры в источник стабильного пассивного дохода? В новой статье блога ButlerSPB мы разбираем ключевые факторы успеха: от выбора ликвидного объекта и анализа трафика до составления грамотного договора аренды и работы с арендаторами. Узнайте, как избежать типичных ошибок и обеспечить максимальную доходность вашего коммерческого помещения."
-pubDate: "2025-07-22T13:49:44.805Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Как получить стабильный арендный доход от стрит-ритейла","description":"Стрит-ритейл — один из самых привлекательных активов для инвесторов в недвижимость. Но как превратить квадратные метры в источник стабильного пассивного дохода? В новой статье блога ButlerSPB мы разбираем ключевые факторы успеха: от выбора ликвидного объекта и анализа трафика до составления грамотного договора аренды и работы с арендаторами. Узнайте, как избежать типичных ошибок и обеспечить максимальную доходность вашего коммерческого помещения.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.8","reviewCount":701,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/kak-poluchit-stabilnyy-arendnyy-dohod-ot-strit-riteyla/"}}
+title: Как получить стабильный арендный доход от стрит-ритейла
+description: >-
+  Стрит-ритейл — один из самых привлекательных активов для инвесторов в
+  недвижимость. Но как превратить квадратные метры в источник стабильного
+  пассивного дохода? В новой статье блога ButlerSPB мы разбираем ключевые
+  факторы успеха: от выбора ликвидного объекта и анализа трафика до составления
+  грамотного договора аренды и работы с арендаторами. Узнайте, как избежать
+  типичных ошибок и обеспечить максимальную доходность вашего коммерческого
+  помещения.
+pubDate: '2025-07-22T13:49:44.805Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: Как получить стабильный арендный доход от стрит-ритейла
+  description: >-
+    Стрит-ритейл — один из самых привлекательных активов для инвесторов в
+    недвижимость. Но как превратить квадратные метры в источник стабильного
+    пассивного дохода? В новой статье блога ButlerSPB мы разбираем ключевые
+    факторы успеха: от выбора ликвидного объекта и анализа трафика до
+    составления грамотного договора аренды и работы с арендаторами. Узнайте, как
+    избежать типичных ошибок и обеспечить максимальную доходность вашего
+    коммерческого помещения.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.9'
+    reviewCount: 683
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/kak-poluchit-stabilnyy-arendnyy-dohod-ot-strit-riteyla/
 ---
 
 # Стабильный доход от стрит-ритейла в 2024: Полный гайд от экспертов ButlerSPB

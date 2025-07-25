@@ -1,10 +1,45 @@
 ---
-title: "Управление доходным домом: современный подход к старому бизнесу."
-description: "Доходный дом — это не просто наследие прошлого, а перспективный актив. В нашей новой статье для блога ButlerSPB мы разбираем, как современные технологии, грамотный маркетинг и профессиональный сервис превращают управление такой недвижимостью в успешный и прибыльный бизнес. Откройте для себя новый взгляд на старый формат инвестиций."
-pubDate: "2025-07-23T11:34:55.070Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Управление доходным домом: современный подход к старому бизнесу.","description":"Доходный дом — это не просто наследие прошлого, а перспективный актив. В нашей новой статье для блога ButlerSPB мы разбираем, как современные технологии, грамотный маркетинг и профессиональный сервис превращают управление такой недвижимостью в успешный и прибыльный бизнес. Откройте для себя новый взгляд на старый формат инвестиций.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":667,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/upravlenie-dohodnym-domom-sovremennyy-podhod-k-staromu-biznesu/"}}
+title: 'Управление доходным домом: современный подход к старому бизнесу.'
+description: >-
+  Доходный дом — это не просто наследие прошлого, а перспективный актив. В нашей
+  новой статье для блога ButlerSPB мы разбираем, как современные технологии,
+  грамотный маркетинг и профессиональный сервис превращают управление такой
+  недвижимостью в успешный и прибыльный бизнес. Откройте для себя новый взгляд
+  на старый формат инвестиций.
+pubDate: '2025-07-23T11:34:55.070Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Управление доходным домом: современный подход к старому бизнесу.'
+  description: >-
+    Доходный дом — это не просто наследие прошлого, а перспективный актив. В
+    нашей новой статье для блога ButlerSPB мы разбираем, как современные
+    технологии, грамотный маркетинг и профессиональный сервис превращают
+    управление такой недвижимостью в успешный и прибыльный бизнес. Откройте для
+    себя новый взгляд на старый формат инвестиций.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.8'
+    reviewCount: 651
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/upravlenie-dohodnym-domom-sovremennyy-podhod-k-staromu-biznesu/
 ---
 
 # **Управление доходным домом: Современный подход к вековому бизнесу**

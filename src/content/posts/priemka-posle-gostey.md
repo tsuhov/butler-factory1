@@ -1,11 +1,40 @@
 ---
-title: "Приемка квартиры после гостей: чек-лист"
-description: "Приемка квартиры после гостей — важный этап. Наш чек-лист поможет вам проверить состояние имущества, выявить возможные повреждения и подготовить жилье к новым гостям."
-keywords: "приемка квартиры, после гостей, чек-лист приемки, уборка после выезда, управление недвижимостью, посуточная аренда, ButlerSPB"
-pubDate: "2025-07-25T14:33:00.068Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Приемка квартиры после гостей: чек-лист","description":"Приемка квартиры после гостей — важный этап. Наш чек-лист поможет вам проверить состояние имущества, выявить возможные повреждения и подготовить жилье к новым гостям.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":887,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/priemka-posle-gostey/"}}
+title: 'Приемка квартиры после гостей: чек-лист'
+description: >-
+  Приемка квартиры после гостей — важный этап. Наш чек-лист поможет вам
+  проверить состояние имущества, выявить возможные повреждения и подготовить
+  жилье к новым гостям.
+pubDate: '2025-07-25T14:33:00.068Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Приемка квартиры после гостей: чек-лист'
+  description: >-
+    Приемка квартиры после гостей — важный этап. Наш чек-лист поможет вам
+    проверить состояние имущества, выявить возможные повреждения и подготовить
+    жилье к новым гостям.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.9'
+    reviewCount: 876
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': 'https://butlerspb-blog.netlify.app/blog/priemka-posle-gostey/'
 ---
 # Приемка квартиры после гостей: Экспертный чек-лист, который спасет ваши нервы и бюджет
 

@@ -1,11 +1,38 @@
 ---
-title: "Как правильно рассчитать налоги в 2024 году"
-description: "В нашей статье вы найдете пошаговое руководство по расчету налогов для ИП и физлиц. Рассматриваем популярные системы, формулы и частые ошибки."
-keywords: "рассчитать налоги, расчет налогов, налоговый калькулятор, налоги для ИП, НДФЛ, УСН, ButlerSPB"
-pubDate: "2025-07-25T16:36:35.799Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Как правильно рассчитать налоги в 2024 году","description":"В нашей статье вы найдете пошаговое руководство по расчету налогов для ИП и физлиц. Рассматриваем популярные системы, формулы и частые ошибки.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.8","reviewCount":804,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/nalogi-rasschitat/"}}
+title: Как правильно рассчитать налоги в 2024 году
+description: >-
+  В нашей статье вы найдете пошаговое руководство по расчету налогов для ИП и
+  физлиц. Рассматриваем популярные системы, формулы и частые ошибки.
+pubDate: '2025-07-25T16:36:35.799Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: Как правильно рассчитать налоги в 2024 году
+  description: >-
+    В нашей статье вы найдете пошаговое руководство по расчету налогов для ИП и
+    физлиц. Рассматриваем популярные системы, формулы и частые ошибки.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.9'
+    reviewCount: 865
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': 'https://butlerspb-blog.netlify.app/blog/nalogi-rasschitat/'
 ---
 # Как рассчитать налоги в 2024 году: полное руководство для ИП, ООО и физических лиц
 

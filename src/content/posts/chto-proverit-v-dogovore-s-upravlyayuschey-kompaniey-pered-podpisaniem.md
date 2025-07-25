@@ -1,10 +1,49 @@
 ---
-title: "Что проверить в договоре с управляющей компанией перед подписанием."
-description: "Подписание договора с управляющей компанией — важный шаг для каждого собственника. От его условий зависит комфорт проживания, размер коммунальных платежей и сохранность вашего имущества. Чтобы избежать неприятных сюрпризов, скрытых комиссий и некачественных услуг, необходимо внимательно изучить каждый пункт. В этой статье команда ButlerSPB рассказывает, на какие ключевые моменты в договоре с УК стоит обратить особое внимание, чтобы защитить свои права и деньги."
-pubDate: "2025-07-23T16:32:57.034Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Что проверить в договоре с управляющей компанией перед подписанием.","description":"Подписание договора с управляющей компанией — важный шаг для каждого собственника. От его условий зависит комфорт проживания, размер коммунальных платежей и сохранность вашего имущества. Чтобы избежать неприятных сюрпризов, скрытых комиссий и некачественных услуг, необходимо внимательно изучить каждый пункт. В этой статье команда ButlerSPB рассказывает, на какие ключевые моменты в договоре с УК стоит обратить особое внимание, чтобы защитить свои права и деньги.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"5.0","reviewCount":327,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/chto-proverit-v-dogovore-s-upravlyayuschey-kompaniey-pered-podpisaniem/"}}
+title: Что проверить в договоре с управляющей компанией перед подписанием.
+description: >-
+  Подписание договора с управляющей компанией — важный шаг для каждого
+  собственника. От его условий зависит комфорт проживания, размер коммунальных
+  платежей и сохранность вашего имущества. Чтобы избежать неприятных сюрпризов,
+  скрытых комиссий и некачественных услуг, необходимо внимательно изучить каждый
+  пункт. В этой статье команда ButlerSPB рассказывает, на какие ключевые моменты
+  в договоре с УК стоит обратить особое внимание, чтобы защитить свои права и
+  деньги.
+pubDate: '2025-07-23T16:32:57.034Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: Что проверить в договоре с управляющей компанией перед подписанием.
+  description: >-
+    Подписание договора с управляющей компанией — важный шаг для каждого
+    собственника. От его условий зависит комфорт проживания, размер коммунальных
+    платежей и сохранность вашего имущества. Чтобы избежать неприятных
+    сюрпризов, скрытых комиссий и некачественных услуг, необходимо внимательно
+    изучить каждый пункт. В этой статье команда ButlerSPB рассказывает, на какие
+    ключевые моменты в договоре с УК стоит обратить особое внимание, чтобы
+    защитить свои права и деньги.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.7'
+    reviewCount: 464
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/chto-proverit-v-dogovore-s-upravlyayuschey-kompaniey-pered-podpisaniem/
 ---
 
 # Что проверить в договоре с управляющей компанией: Полное руководство от экспертов ButlerSPB

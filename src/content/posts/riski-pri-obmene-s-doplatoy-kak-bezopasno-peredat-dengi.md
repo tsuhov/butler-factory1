@@ -1,11 +1,41 @@
 ---
-title: "Обмен с доплатой: риски и передача денег"
-description: "Обмен квартиры с доплатой – сложная сделка. ButlerSPB расскажет о главных рисках и способах безопасной передачи денег: ячейка, аккредитив и другие нюансы."
-keywords: "обмен с доплатой, безопасность сделки, передача денег, риски при обмене, аккредитив, банковская ячейка"
-pubDate: "2025-07-24T12:04:51.240Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Обмен с доплатой: риски и передача денег","description":"Обмен квартиры с доплатой – сложная сделка. ButlerSPB расскажет о главных рисках и способах безопасной передачи денег: ячейка, аккредитив и другие нюансы.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"5.0","reviewCount":697,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/riski-pri-obmene-s-doplatoy-kak-bezopasno-peredat-dengi/"}}
+title: 'Обмен с доплатой: риски и передача денег'
+description: >-
+  Обмен квартиры с доплатой – сложная сделка. ButlerSPB расскажет о главных
+  рисках и способах безопасной передачи денег: ячейка, аккредитив и другие
+  нюансы.
+pubDate: '2025-07-24T12:04:51.240Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Обмен с доплатой: риски и передача денег'
+  description: >-
+    Обмен квартиры с доплатой – сложная сделка. ButlerSPB расскажет о главных
+    рисках и способах безопасной передачи денег: ячейка, аккредитив и другие
+    нюансы.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.9'
+    reviewCount: 588
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/riski-pri-obmene-s-doplatoy-kak-bezopasno-peredat-dengi/
 ---
 # Риски при обмене квартиры с доплатой: как безопасно передать деньги
 

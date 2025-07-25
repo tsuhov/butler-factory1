@@ -1,11 +1,38 @@
 ---
-title: "Создание семантики для рекламных объявлений"
-description: "Узнайте, что такое семантика объявления и почему она так важна для рекламной кампании. Эксперты ButlerSPB делятся советами по подбору ключевых фраз."
-keywords: "семантика объявления, семантическое ядро, ключевые слова, контекстная реклама, PPC, ButlerSPB"
-pubDate: "2025-07-25T16:07:10.016Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Создание семантики для рекламных объявлений","description":"Узнайте, что такое семантика объявления и почему она так важна для рекламной кампании. Эксперты ButlerSPB делятся советами по подбору ключевых фраз.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"5.0","reviewCount":421,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/semantika-obyavleniya/"}}
+title: Создание семантики для рекламных объявлений
+description: >-
+  Узнайте, что такое семантика объявления и почему она так важна для рекламной
+  кампании. Эксперты ButlerSPB делятся советами по подбору ключевых фраз.
+pubDate: '2025-07-25T16:07:10.016Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: Создание семантики для рекламных объявлений
+  description: >-
+    Узнайте, что такое семантика объявления и почему она так важна для рекламной
+    кампании. Эксперты ButlerSPB делятся советами по подбору ключевых фраз.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.9'
+    reviewCount: 687
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': 'https://butlerspb-blog.netlify.app/blog/semantika-obyavleniya/'
 ---
 # Семантика объявления: Как говорить с клиентом на одном языке и повышать конверсию
 

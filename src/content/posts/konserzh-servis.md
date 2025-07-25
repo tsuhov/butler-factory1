@@ -1,11 +1,39 @@
 ---
-title: "Консьерж-сервис ButlerSPB: ваш личный помощник"
-description: "Узнайте, как консьерж-сервис от ButlerSPB может упростить вашу жизнь. Мы берем на себя рутинные и сложные задачи, освобождая ваше время для самого важного."
-keywords: "консьерж сервис, личный помощник, ButlerSPB, лайфстайл менеджмент, персональный ассистент, элитные услуги, консьерж спб"
-pubDate: "2025-07-25T15:39:28.190Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Консьерж-сервис ButlerSPB: ваш личный помощник","description":"Узнайте, как консьерж-сервис от ButlerSPB может упростить вашу жизнь. Мы берем на себя рутинные и сложные задачи, освобождая ваше время для самого важного.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.8","reviewCount":529,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/konserzh-servis/"}}
+title: 'Консьерж-сервис ButlerSPB: ваш личный помощник'
+description: >-
+  Узнайте, как консьерж-сервис от ButlerSPB может упростить вашу жизнь. Мы берем
+  на себя рутинные и сложные задачи, освобождая ваше время для самого важного.
+pubDate: '2025-07-25T15:39:28.190Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Консьерж-сервис ButlerSPB: ваш личный помощник'
+  description: >-
+    Узнайте, как консьерж-сервис от ButlerSPB может упростить вашу жизнь. Мы
+    берем на себя рутинные и сложные задачи, освобождая ваше время для самого
+    важного.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.8'
+    reviewCount: 454
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': 'https://butlerspb-blog.netlify.app/blog/konserzh-servis/'
 ---
 # Консьерж-сервис: Не просто услуга, а ваш личный ключ к Санкт-Петербургу и миру
 

@@ -1,11 +1,40 @@
 ---
-title: "Доверенный управляющий: ключ к вашему спокойствию"
-description: "Что делает доверенный управляющий? Это эксперт, который берет на себя все заботы по вашим активам, от недвижимости до финансов, гарантируя вам покой и выгоду."
-keywords: "доверенный управляющий, управление имуществом, доверительное управление, управление активами, консьерж-сервис, ButlerSPB"
-pubDate: "2025-07-25T15:48:14.404Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Доверенный управляющий: ключ к вашему спокойствию","description":"Что делает доверенный управляющий? Это эксперт, который берет на себя все заботы по вашим активам, от недвижимости до финансов, гарантируя вам покой и выгоду.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":605,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/doverennyy-upravlyayuschiy/"}}
+title: 'Доверенный управляющий: ключ к вашему спокойствию'
+description: >-
+  Что делает доверенный управляющий? Это эксперт, который берет на себя все
+  заботы по вашим активам, от недвижимости до финансов, гарантируя вам покой и
+  выгоду.
+pubDate: '2025-07-25T15:48:14.404Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Доверенный управляющий: ключ к вашему спокойствию'
+  description: >-
+    Что делает доверенный управляющий? Это эксперт, который берет на себя все
+    заботы по вашим активам, от недвижимости до финансов, гарантируя вам покой и
+    выгоду.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.9'
+    reviewCount: 848
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': 'https://butlerspb-blog.netlify.app/blog/doverennyy-upravlyayuschiy/'
 ---
 # Доверенный управляющий: Ваш ключ к спокойствию и стабильному доходу от недвижимости
 

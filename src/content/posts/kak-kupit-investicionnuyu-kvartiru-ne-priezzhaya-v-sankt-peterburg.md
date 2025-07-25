@@ -1,10 +1,51 @@
 ---
-title: "Как купить инвестиционную квартиру в Санкт-Петербурге, не приезжая в город: пошаговая инструкция от ButlerSPB"
-description: "Мечтаете инвестировать в недвижимость культурной столицы, но живете в другом городе? Это не проблема! В нашей новой статье команда ButlerSPB подробно рассказывает, как проходит дистанционная покупка квартиры в Санкт-Петербурге: от онлайн-подбора объекта и видеопоказов до электронной регистрации сделки. Узнайте, как безопасно вложить деньги и стать владельцем ликвидной недвижимости, не тратя время и средства на поездку."
-pubDate: "2025-07-23T12:02:45.016Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Как купить инвестиционную квартиру в Санкт-Петербурге, не приезжая в город: пошаговая инструкция от ButlerSPB","description":"Мечтаете инвестировать в недвижимость культурной столицы, но живете в другом городе? Это не проблема! В нашей новой статье команда ButlerSPB подробно рассказывает, как проходит дистанционная покупка квартиры в Санкт-Петербурге: от онлайн-подбора объекта и видеопоказов до электронной регистрации сделки. Узнайте, как безопасно вложить деньги и стать владельцем ликвидной недвижимости, не тратя время и средства на поездку.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":624,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/kak-kupit-investicionnuyu-kvartiru-ne-priezzhaya-v-sankt-peterburg/"}}
+title: >-
+  Как купить инвестиционную квартиру в Санкт-Петербурге, не приезжая в город:
+  пошаговая инструкция от ButlerSPB
+description: >-
+  Мечтаете инвестировать в недвижимость культурной столицы, но живете в другом
+  городе? Это не проблема! В нашей новой статье команда ButlerSPB подробно
+  рассказывает, как проходит дистанционная покупка квартиры в Санкт-Петербурге:
+  от онлайн-подбора объекта и видеопоказов до электронной регистрации сделки.
+  Узнайте, как безопасно вложить деньги и стать владельцем ликвидной
+  недвижимости, не тратя время и средства на поездку.
+pubDate: '2025-07-23T12:02:45.016Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: >-
+    Как купить инвестиционную квартиру в Санкт-Петербурге, не приезжая в город:
+    пошаговая инструкция от ButlerSPB
+  description: >-
+    Мечтаете инвестировать в недвижимость культурной столицы, но живете в другом
+    городе? Это не проблема! В нашей новой статье команда ButlerSPB подробно
+    рассказывает, как проходит дистанционная покупка квартиры в
+    Санкт-Петербурге: от онлайн-подбора объекта и видеопоказов до электронной
+    регистрации сделки. Узнайте, как безопасно вложить деньги и стать владельцем
+    ликвидной недвижимости, не тратя время и средства на поездку.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.7'
+    reviewCount: 801
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/kak-kupit-investicionnuyu-kvartiru-ne-priezzhaya-v-sankt-peterburg/
 ---
 
 # Как купить инвестиционную квартиру в Санкт-Петербурге, не выходя из дома: Полное руководство по удаленной сделке

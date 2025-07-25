@@ -1,11 +1,41 @@
 ---
-title: "Продажа офисного блока: гайд от ButlerSPB"
-description: "Планируете продажу офисного блока в бизнес-центре? Эксперты ButlerSPB рассказывают, как правильно оценить объект, подготовить его и найти покупателя быстро."
-keywords: "продать офис, офисный блок, бизнес-центр, коммерческая недвижимость, продажа офиса спб, ButlerSPB"
-pubDate: "2025-07-24T12:09:30.101Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Продажа офисного блока: гайд от ButlerSPB","description":"Планируете продажу офисного блока в бизнес-центре? Эксперты ButlerSPB рассказывают, как правильно оценить объект, подготовить его и найти покупателя быстро.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.8","reviewCount":400,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/prodazha-ofisnogo-bloka-v-biznes-centre/"}}
+title: 'Продажа офисного блока: гайд от ButlerSPB'
+description: >-
+  Планируете продажу офисного блока в бизнес-центре? Эксперты ButlerSPB
+  рассказывают, как правильно оценить объект, подготовить его и найти покупателя
+  быстро.
+pubDate: '2025-07-24T12:09:30.101Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Продажа офисного блока: гайд от ButlerSPB'
+  description: >-
+    Планируете продажу офисного блока в бизнес-центре? Эксперты ButlerSPB
+    рассказывают, как правильно оценить объект, подготовить его и найти
+    покупателя быстро.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.8'
+    reviewCount: 427
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/prodazha-ofisnogo-bloka-v-biznes-centre/
 ---
 # Как выгодно и быстро продать офисный блок в бизнес-центре: Полное руководство от А до Я
 

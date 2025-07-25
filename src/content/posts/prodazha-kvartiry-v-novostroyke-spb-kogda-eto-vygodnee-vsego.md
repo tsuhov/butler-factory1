@@ -1,10 +1,47 @@
 ---
-title: "Продажа квартиры в новостройке СПб: когда это выгоднее всего."
-description: "Планируете продать квартиру в новостройке Санкт-Петербурга? Команда ButlerSPB разбирает ключевой вопрос: когда это делать, чтобы получить максимальную прибыль. В статье анализируем плюсы и минусы продажи на разных этапах: от котлована до сдачи дома и после ремонта. Рассказываем о влиянии рыночных циклов, налоговых последствиях и о том, как готовность инфраструктуры района влияет на финальную цену."
-pubDate: "2025-07-22T13:52:43.993Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Продажа квартиры в новостройке СПб: когда это выгоднее всего.","description":"Планируете продать квартиру в новостройке Санкт-Петербурга? Команда ButlerSPB разбирает ключевой вопрос: когда это делать, чтобы получить максимальную прибыль. В статье анализируем плюсы и минусы продажи на разных этапах: от котлована до сдачи дома и после ремонта. Рассказываем о влиянии рыночных циклов, налоговых последствиях и о том, как готовность инфраструктуры района влияет на финальную цену.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.8","reviewCount":384,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/prodazha-kvartiry-v-novostroyke-spb-kogda-eto-vygodnee-vsego/"}}
+title: 'Продажа квартиры в новостройке СПб: когда это выгоднее всего.'
+description: >-
+  Планируете продать квартиру в новостройке Санкт-Петербурга? Команда ButlerSPB
+  разбирает ключевой вопрос: когда это делать, чтобы получить максимальную
+  прибыль. В статье анализируем плюсы и минусы продажи на разных этапах: от
+  котлована до сдачи дома и после ремонта. Рассказываем о влиянии рыночных
+  циклов, налоговых последствиях и о том, как готовность инфраструктуры района
+  влияет на финальную цену.
+pubDate: '2025-07-22T13:52:43.993Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Продажа квартиры в новостройке СПб: когда это выгоднее всего.'
+  description: >-
+    Планируете продать квартиру в новостройке Санкт-Петербурга? Команда
+    ButlerSPB разбирает ключевой вопрос: когда это делать, чтобы получить
+    максимальную прибыль. В статье анализируем плюсы и минусы продажи на разных
+    этапах: от котлована до сдачи дома и после ремонта. Рассказываем о влиянии
+    рыночных циклов, налоговых последствиях и о том, как готовность
+    инфраструктуры района влияет на финальную цену.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.8'
+    reviewCount: 654
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/prodazha-kvartiry-v-novostroyke-spb-kogda-eto-vygodnee-vsego/
 ---
 
 # Продажа квартиры в новостройке СПб: когда это выгоднее всего? Полный гайд для инвестора и собственника

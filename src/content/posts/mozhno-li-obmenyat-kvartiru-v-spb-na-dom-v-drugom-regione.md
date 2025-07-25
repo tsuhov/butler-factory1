@@ -1,10 +1,43 @@
 ---
-title: "Обмен квартиры в СПб на дом в другом регионе: инструкция от ButlerSPB"
-description: "Мечтаете переехать из Санкт-Петербурга в уютный дом в другом регионе? Узнайте, как правильно организовать обмен недвижимости, какие юридические и финансовые нюансы учесть, и как избежать рисков. Пошаговый план и советы экспертов ButlerSPB для выгодной и безопасной сделки."
-pubDate: "2025-07-23T11:30:09.606Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Обмен квартиры в СПб на дом в другом регионе: инструкция от ButlerSPB","description":"Мечтаете переехать из Санкт-Петербурга в уютный дом в другом регионе? Узнайте, как правильно организовать обмен недвижимости, какие юридические и финансовые нюансы учесть, и как избежать рисков. Пошаговый план и советы экспертов ButlerSPB для выгодной и безопасной сделки.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":567,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/mozhno-li-obmenyat-kvartiru-v-spb-na-dom-v-drugom-regione/"}}
+title: 'Обмен квартиры в СПб на дом в другом регионе: инструкция от ButlerSPB'
+description: >-
+  Мечтаете переехать из Санкт-Петербурга в уютный дом в другом регионе? Узнайте,
+  как правильно организовать обмен недвижимости, какие юридические и финансовые
+  нюансы учесть, и как избежать рисков. Пошаговый план и советы экспертов
+  ButlerSPB для выгодной и безопасной сделки.
+pubDate: '2025-07-23T11:30:09.606Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Обмен квартиры в СПб на дом в другом регионе: инструкция от ButlerSPB'
+  description: >-
+    Мечтаете переехать из Санкт-Петербурга в уютный дом в другом регионе?
+    Узнайте, как правильно организовать обмен недвижимости, какие юридические и
+    финансовые нюансы учесть, и как избежать рисков. Пошаговый план и советы
+    экспертов ButlerSPB для выгодной и безопасной сделки.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '5.0'
+    reviewCount: 396
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/mozhno-li-obmenyat-kvartiru-v-spb-na-dom-v-drugom-regione/
 ---
 
 # Как обменять квартиру в СПб на дом в другом регионе: пошаговая инструкция 2024

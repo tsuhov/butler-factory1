@@ -1,11 +1,39 @@
 ---
-title: "Батлер консультирует: уроки гостеприимства."
-description: "Наши эксперты из ButlerSPB делятся профессиональными советами. Узнайте, как организовать идеальный прием, удивить гостей безупречным этикетом и сервисом."
-keywords: "услуги батлера, этикет, гостеприимство, ButlerSPB, советы батлера, консьерж-сервис, организация мероприятий"
-pubDate: "2025-07-25T13:30:12.238Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Батлер консультирует: уроки гостеприимства.","description":"Наши эксперты из ButlerSPB делятся профессиональными советами. Узнайте, как организовать идеальный прием, удивить гостей безупречным этикетом и сервисом.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.8","reviewCount":813,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/batler-konsultiruet/"}}
+title: 'Батлер консультирует: уроки гостеприимства.'
+description: >-
+  Наши эксперты из ButlerSPB делятся профессиональными советами. Узнайте, как
+  организовать идеальный прием, удивить гостей безупречным этикетом и сервисом.
+pubDate: '2025-07-25T13:30:12.238Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Батлер консультирует: уроки гостеприимства.'
+  description: >-
+    Наши эксперты из ButlerSPB делятся профессиональными советами. Узнайте, как
+    организовать идеальный прием, удивить гостей безупречным этикетом и
+    сервисом.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.8'
+    reviewCount: 683
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': 'https://butlerspb-blog.netlify.app/blog/batler-konsultiruet/'
 ---
 # Батлер консультирует: Как превратить управление домом из хаоса в систему безупречного порядка
 

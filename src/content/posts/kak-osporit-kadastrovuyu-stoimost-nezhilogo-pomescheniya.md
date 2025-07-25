@@ -1,10 +1,49 @@
 ---
-title: "Как оспорить кадастровую стоимость нежилого помещения: пошаговая инструкция от ButlerSPB"
-description: "Завышенная кадастровая стоимость нежилого помещения ведет к переплате налога на имущество. Эксперты ButlerSPB рассказывают, как собственнику снизить налоговую нагрузку, оспорив оценку. В статье вы найдете подробный алгоритм действий: от подготовки отчета об оценке до обращения в комиссию Росреестра или суд."
-pubDate: "2025-07-23T12:19:34.299Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Как оспорить кадастровую стоимость нежилого помещения: пошаговая инструкция от ButlerSPB","description":"Завышенная кадастровая стоимость нежилого помещения ведет к переплате налога на имущество. Эксперты ButlerSPB рассказывают, как собственнику снизить налоговую нагрузку, оспорив оценку. В статье вы найдете подробный алгоритм действий: от подготовки отчета об оценке до обращения в комиссию Росреестра или суд.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.8","reviewCount":653,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/kak-osporit-kadastrovuyu-stoimost-nezhilogo-pomescheniya/"}}
+title: >-
+  Как оспорить кадастровую стоимость нежилого помещения: пошаговая инструкция от
+  ButlerSPB
+description: >-
+  Завышенная кадастровая стоимость нежилого помещения ведет к переплате налога
+  на имущество. Эксперты ButlerSPB рассказывают, как собственнику снизить
+  налоговую нагрузку, оспорив оценку. В статье вы найдете подробный алгоритм
+  действий: от подготовки отчета об оценке до обращения в комиссию Росреестра
+  или суд.
+pubDate: '2025-07-23T12:19:34.299Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: >-
+    Как оспорить кадастровую стоимость нежилого помещения: пошаговая инструкция
+    от ButlerSPB
+  description: >-
+    Завышенная кадастровая стоимость нежилого помещения ведет к переплате налога
+    на имущество. Эксперты ButlerSPB рассказывают, как собственнику снизить
+    налоговую нагрузку, оспорив оценку. В статье вы найдете подробный алгоритм
+    действий: от подготовки отчета об оценке до обращения в комиссию Росреестра
+    или суд.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.8'
+    reviewCount: 556
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/kak-osporit-kadastrovuyu-stoimost-nezhilogo-pomescheniya/
 ---
 
 # Как оспорить кадастровую стоимость нежилого помещения: полное руководство 2024

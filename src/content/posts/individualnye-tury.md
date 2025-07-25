@@ -1,11 +1,39 @@
 ---
-title: "Индивидуальные туры с ButlerSPB: эксклюзив"
-description: "Забудьте о стандартных маршрутах! Индивидуальные туры от ButlerSPB — это путешествие, созданное специально для вас с учетом всех пожеланий и интересов."
-keywords: "индивидуальные туры, эксклюзивный отдых, персональный маршрут, ButlerSPB, туры на заказ, VIP-туризм, гид по СПб"
-pubDate: "2025-07-24T13:44:44.825Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Индивидуальные туры с ButlerSPB: эксклюзив","description":"Забудьте о стандартных маршрутах! Индивидуальные туры от ButlerSPB — это путешествие, созданное специально для вас с учетом всех пожеланий и интересов.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.7","reviewCount":438,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/individualnye-tury/"}}
+title: 'Индивидуальные туры с ButlerSPB: эксклюзив'
+description: >-
+  Забудьте о стандартных маршрутах! Индивидуальные туры от ButlerSPB — это
+  путешествие, созданное специально для вас с учетом всех пожеланий и интересов.
+pubDate: '2025-07-24T13:44:44.825Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Индивидуальные туры с ButlerSPB: эксклюзив'
+  description: >-
+    Забудьте о стандартных маршрутах! Индивидуальные туры от ButlerSPB — это
+    путешествие, созданное специально для вас с учетом всех пожеланий и
+    интересов.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '5.0'
+    reviewCount: 564
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': 'https://butlerspb-blog.netlify.app/blog/individualnye-tury/'
 ---
 # Индивидуальные туры: Как создать путешествие мечты, отказавшись от шаблонов
 

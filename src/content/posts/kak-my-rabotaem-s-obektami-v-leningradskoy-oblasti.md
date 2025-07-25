@@ -1,10 +1,52 @@
 ---
-title: "Недвижимость в Ленинградской области: как ButlerSPB обеспечивает безупречный сервис за городом"
-description: "Управление загородной недвижимостью в Ленобласти имеет свою специфику, требующую особого подхода и внимания. В этой статье мы подробно рассказываем, как команда ButlerSPB организует работу на удаленных объектах: от регулярных инспекций и подготовки дома к сезону до контроля подрядчиков и оперативного решения любых бытовых задач. Узнайте, как наш системный подход гарантирует безопасность и идеальное состояние вашей собственности, даже когда вы далеко."
-pubDate: "2025-07-22T11:29:21.844Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Недвижимость в Ленинградской области: как ButlerSPB обеспечивает безупречный сервис за городом","description":"Управление загородной недвижимостью в Ленобласти имеет свою специфику, требующую особого подхода и внимания. В этой статье мы подробно рассказываем, как команда ButlerSPB организует работу на удаленных объектах: от регулярных инспекций и подготовки дома к сезону до контроля подрядчиков и оперативного решения любых бытовых задач. Узнайте, как наш системный подход гарантирует безопасность и идеальное состояние вашей собственности, даже когда вы далеко.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.8","reviewCount":436,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/kak-my-rabotaem-s-obektami-v-leningradskoy-oblasti/"}}
+title: >-
+  Недвижимость в Ленинградской области: как ButlerSPB обеспечивает безупречный
+  сервис за городом
+description: >-
+  Управление загородной недвижимостью в Ленобласти имеет свою специфику,
+  требующую особого подхода и внимания. В этой статье мы подробно рассказываем,
+  как команда ButlerSPB организует работу на удаленных объектах: от регулярных
+  инспекций и подготовки дома к сезону до контроля подрядчиков и оперативного
+  решения любых бытовых задач. Узнайте, как наш системный подход гарантирует
+  безопасность и идеальное состояние вашей собственности, даже когда вы далеко.
+pubDate: '2025-07-22T11:29:21.844Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: >-
+    Недвижимость в Ленинградской области: как ButlerSPB обеспечивает безупречный
+    сервис за городом
+  description: >-
+    Управление загородной недвижимостью в Ленобласти имеет свою специфику,
+    требующую особого подхода и внимания. В этой статье мы подробно
+    рассказываем, как команда ButlerSPB организует работу на удаленных объектах:
+    от регулярных инспекций и подготовки дома к сезону до контроля подрядчиков и
+    оперативного решения любых бытовых задач. Узнайте, как наш системный подход
+    гарантирует безопасность и идеальное состояние вашей собственности, даже
+    когда вы далеко.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.8'
+    reviewCount: 739
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/kak-my-rabotaem-s-obektami-v-leningradskoy-oblasti/
 ---
 
 # Как мы работаем с объектами в Ленинградской области: Полное руководство для собственников от ButlerSPB

@@ -1,11 +1,40 @@
 ---
-title: "Праздники и доходы: как заработать больше?"
-description: "Праздничный сезон — отличное время для роста доходов. Узнайте, как правильно подготовиться, какие услуги предложить и как привлечь больше клиентов в этот период."
-keywords: "праздники, доход, заработок, сезонный бизнес, увеличение прибыли, праздничный сезон, ButlerSPB"
-pubDate: "2025-07-25T16:10:05.011Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Праздники и доходы: как заработать больше?","description":"Праздничный сезон — отличное время для роста доходов. Узнайте, как правильно подготовиться, какие услуги предложить и как привлечь больше клиентов в этот период.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.8","reviewCount":526,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/prazdniki-dohody/"}}
+title: 'Праздники и доходы: как заработать больше?'
+description: >-
+  Праздничный сезон — отличное время для роста доходов. Узнайте, как правильно
+  подготовиться, какие услуги предложить и как привлечь больше клиентов в этот
+  период.
+pubDate: '2025-07-25T16:10:05.011Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Праздники и доходы: как заработать больше?'
+  description: >-
+    Праздничный сезон — отличное время для роста доходов. Узнайте, как правильно
+    подготовиться, какие услуги предложить и как привлечь больше клиентов в этот
+    период.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.8'
+    reviewCount: 872
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': 'https://butlerspb-blog.netlify.app/blog/prazdniki-dohody/'
 ---
 # Как превратить праздники в золотую жилу: полное руководство по максимизации дохода от посуточной аренды в Петербурге
 

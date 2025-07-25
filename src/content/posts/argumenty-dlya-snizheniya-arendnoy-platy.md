@@ -1,10 +1,45 @@
 ---
-title: "Как договориться о снижении арендной платы: рабочие аргументы для арендатора"
-description: "Стоимость аренды жилья не всегда является константой. В новой статье блога ButlerSPB мы разбираем, в каких случаях и как можно договориться с собственником о снижении платы. Узнайте, какие аргументы работают, как правильно подготовиться к переговорам и на что ссылаться, чтобы добиться выгодных для вас условий."
-pubDate: "2025-07-22T11:38:04.165Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Как договориться о снижении арендной платы: рабочие аргументы для арендатора","description":"Стоимость аренды жилья не всегда является константой. В новой статье блога ButlerSPB мы разбираем, в каких случаях и как можно договориться с собственником о снижении платы. Узнайте, какие аргументы работают, как правильно подготовиться к переговорам и на что ссылаться, чтобы добиться выгодных для вас условий.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.7","reviewCount":470,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/argumenty-dlya-snizheniya-arendnoy-platy/"}}
+title: 'Как договориться о снижении арендной платы: рабочие аргументы для арендатора'
+description: >-
+  Стоимость аренды жилья не всегда является константой. В новой статье блога
+  ButlerSPB мы разбираем, в каких случаях и как можно договориться с
+  собственником о снижении платы. Узнайте, какие аргументы работают, как
+  правильно подготовиться к переговорам и на что ссылаться, чтобы добиться
+  выгодных для вас условий.
+pubDate: '2025-07-22T11:38:04.165Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Как договориться о снижении арендной платы: рабочие аргументы для арендатора'
+  description: >-
+    Стоимость аренды жилья не всегда является константой. В новой статье блога
+    ButlerSPB мы разбираем, в каких случаях и как можно договориться с
+    собственником о снижении платы. Узнайте, какие аргументы работают, как
+    правильно подготовиться к переговорам и на что ссылаться, чтобы добиться
+    выгодных для вас условий.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.8'
+    reviewCount: 396
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/argumenty-dlya-snizheniya-arendnoy-platy/
 ---
 
 # Как снизить арендную плату: Экспертное руководство по переговорам с арендодателем

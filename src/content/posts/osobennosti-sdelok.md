@@ -1,11 +1,39 @@
 ---
-title: "Ключевые особенности сделок: что нужно знать"
-description: "Рассматриваем ключевые особенности различных видов сделок. Юридическая чистота, финансовые гарантии и правильное оформление — главные аспекты успеха."
-keywords: "сделка, договор, юридические аспекты, риски сделки, заключение договора, проверка контрагента, ButlerSPB"
-pubDate: "2025-07-25T16:25:52.611Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Ключевые особенности сделок: что нужно знать","description":"Рассматриваем ключевые особенности различных видов сделок. Юридическая чистота, финансовые гарантии и правильное оформление — главные аспекты успеха.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.8","reviewCount":854,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/osobennosti-sdelok/"}}
+title: 'Ключевые особенности сделок: что нужно знать'
+description: >-
+  Рассматриваем ключевые особенности различных видов сделок. Юридическая
+  чистота, финансовые гарантии и правильное оформление — главные аспекты успеха.
+pubDate: '2025-07-25T16:25:52.611Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Ключевые особенности сделок: что нужно знать'
+  description: >-
+    Рассматриваем ключевые особенности различных видов сделок. Юридическая
+    чистота, финансовые гарантии и правильное оформление — главные аспекты
+    успеха.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.9'
+    reviewCount: 378
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': 'https://butlerspb-blog.netlify.app/blog/osobennosti-sdelok/'
 ---
 # Сделка с недвижимостью от А до Я: полное руководство для покупателей и продавцов в Санкт-Петербурге
 

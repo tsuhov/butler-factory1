@@ -1,10 +1,47 @@
 ---
-title: "Доверительное управление недвижимостью: подробный гид от ButlerSPB"
-description: "Хотите получать стабильный доход от аренды, не тратя на это время и силы? Доверительное управление — ваше решение. В статье от ButlerSPB мы подробно разбираем, что это за услуга, как заключается договор, какие обязанности берет на себя управляющая компания и как это помогает собственнику зарабатывать без лишних хлопот. Узнайте все о плюсах, юридических тонкостях и критериях выбора надежного партнера для вашей недвижимости."
-pubDate: "2025-07-22T00:21:43.686Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Доверительное управление недвижимостью: подробный гид от ButlerSPB","description":"Хотите получать стабильный доход от аренды, не тратя на это время и силы? Доверительное управление — ваше решение. В статье от ButlerSPB мы подробно разбираем, что это за услуга, как заключается договор, какие обязанности берет на себя управляющая компания и как это помогает собственнику зарабатывать без лишних хлопот. Узнайте все о плюсах, юридических тонкостях и критериях выбора надежного партнера для вашей недвижимости.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"5.0","reviewCount":315,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/kak-rabotaet-doveritelnoe-upravlenie-nedvizhimostyu/"}}
+title: 'Доверительное управление недвижимостью: подробный гид от ButlerSPB'
+description: >-
+  Хотите получать стабильный доход от аренды, не тратя на это время и силы?
+  Доверительное управление — ваше решение. В статье от ButlerSPB мы подробно
+  разбираем, что это за услуга, как заключается договор, какие обязанности берет
+  на себя управляющая компания и как это помогает собственнику зарабатывать без
+  лишних хлопот. Узнайте все о плюсах, юридических тонкостях и критериях выбора
+  надежного партнера для вашей недвижимости.
+pubDate: '2025-07-22T00:21:43.686Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Доверительное управление недвижимостью: подробный гид от ButlerSPB'
+  description: >-
+    Хотите получать стабильный доход от аренды, не тратя на это время и силы?
+    Доверительное управление — ваше решение. В статье от ButlerSPB мы подробно
+    разбираем, что это за услуга, как заключается договор, какие обязанности
+    берет на себя управляющая компания и как это помогает собственнику
+    зарабатывать без лишних хлопот. Узнайте все о плюсах, юридических тонкостях
+    и критериях выбора надежного партнера для вашей недвижимости.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.9'
+    reviewCount: 696
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/kak-rabotaet-doveritelnoe-upravlenie-nedvizhimostyu/
 ---
 
 # Как работает доверительное управление недвижимостью: Пошаговый гид от экспертов ButlerSPB

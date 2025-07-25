@@ -1,11 +1,40 @@
 ---
-title: "Как управлять апартаментами: советы от ButlerSPB"
-description: "Управление апартаментами – сложный процесс. Мы расскажем, как найти арендаторов, оптимизировать расходы и увеличить доходность. Советы от экспертов ButlerSPB."
-keywords: "управление апартаментами, сдача апартаментов в аренду, доверительное управление, доходность апартаментов, ButlerSPB, управление недвижимостью спб"
-pubDate: "2025-07-25T14:59:19.002Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Как управлять апартаментами: советы от ButlerSPB","description":"Управление апартаментами – сложный процесс. Мы расскажем, как найти арендаторов, оптимизировать расходы и увеличить доходность. Советы от экспертов ButlerSPB.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":804,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/apartamenty-upravlyat/"}}
+title: 'Как управлять апартаментами: советы от ButlerSPB'
+description: >-
+  Управление апартаментами – сложный процесс. Мы расскажем, как найти
+  арендаторов, оптимизировать расходы и увеличить доходность. Советы от
+  экспертов ButlerSPB.
+pubDate: '2025-07-25T14:59:19.002Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Как управлять апартаментами: советы от ButlerSPB'
+  description: >-
+    Управление апартаментами – сложный процесс. Мы расскажем, как найти
+    арендаторов, оптимизировать расходы и увеличить доходность. Советы от
+    экспертов ButlerSPB.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.9'
+    reviewCount: 664
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': 'https://butlerspb-blog.netlify.app/blog/apartamenty-upravlyat/'
 ---
 # Управление апартаментами: от головной боли к стабильному доходу. Полное руководство для собственника.
 

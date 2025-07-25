@@ -1,10 +1,43 @@
 ---
-title: "Что такое стрит-ритейл простыми словами: гид для инвестора от ButlerSPB"
-description: "Разбираемся в понятии стрит-ритейла: что это за формат коммерческой недвижимости, какие у него преимущества и риски для инвестора. В нашем гиде вы узнаете, как выбрать ликвидный объект, оценить его потенциал и создать стабильный арендный бизнес."
-pubDate: "2025-07-22T16:21:24.852Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Что такое стрит-ритейл простыми словами: гид для инвестора от ButlerSPB","description":"Разбираемся в понятии стрит-ритейла: что это за формат коммерческой недвижимости, какие у него преимущества и риски для инвестора. В нашем гиде вы узнаете, как выбрать ликвидный объект, оценить его потенциал и создать стабильный арендный бизнес.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":828,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/chto-takoe-strit-riteyl-prostymi-slovami-gid-dlya-investora/"}}
+title: 'Что такое стрит-ритейл простыми словами: гид для инвестора от ButlerSPB'
+description: >-
+  Разбираемся в понятии стрит-ритейла: что это за формат коммерческой
+  недвижимости, какие у него преимущества и риски для инвестора. В нашем гиде вы
+  узнаете, как выбрать ликвидный объект, оценить его потенциал и создать
+  стабильный арендный бизнес.
+pubDate: '2025-07-22T16:21:24.852Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Что такое стрит-ритейл простыми словами: гид для инвестора от ButlerSPB'
+  description: >-
+    Разбираемся в понятии стрит-ритейла: что это за формат коммерческой
+    недвижимости, какие у него преимущества и риски для инвестора. В нашем гиде
+    вы узнаете, как выбрать ликвидный объект, оценить его потенциал и создать
+    стабильный арендный бизнес.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '5.0'
+    reviewCount: 780
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/chto-takoe-strit-riteyl-prostymi-slovami-gid-dlya-investora/
 ---
 
 # Что такое стрит-ритейл простыми словами: гид для инвестора

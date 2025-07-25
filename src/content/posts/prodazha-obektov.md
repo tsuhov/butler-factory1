@@ -1,11 +1,40 @@
 ---
-title: "Профессиональная продажа объектов от ButlerSPB"
-description: "ButlerSPB предлагает полный спектр услуг по продаже вашей недвижимости. Мы обеспечиваем профессиональную оценку, маркетинг и юридическое сопровождение сделки."
-keywords: "продажа объектов, недвижимость спб, продать квартиру, агентство недвижимости, butlerspb, оценка недвижимости, юридическое сопровождение"
-pubDate: "2025-07-25T16:31:17.255Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Профессиональная продажа объектов от ButlerSPB","description":"ButlerSPB предлагает полный спектр услуг по продаже вашей недвижимости. Мы обеспечиваем профессиональную оценку, маркетинг и юридическое сопровождение сделки.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":512,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/prodazha-obektov/"}}
+title: Профессиональная продажа объектов от ButlerSPB
+description: >-
+  ButlerSPB предлагает полный спектр услуг по продаже вашей недвижимости. Мы
+  обеспечиваем профессиональную оценку, маркетинг и юридическое сопровождение
+  сделки.
+pubDate: '2025-07-25T16:31:17.255Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: Профессиональная продажа объектов от ButlerSPB
+  description: >-
+    ButlerSPB предлагает полный спектр услуг по продаже вашей недвижимости. Мы
+    обеспечиваем профессиональную оценку, маркетинг и юридическое сопровождение
+    сделки.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.9'
+    reviewCount: 811
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': 'https://butlerspb-blog.netlify.app/blog/prodazha-obektov/'
 ---
 # Как выгодно и безопасно продать квартиру в Санкт-Петербурге: Полное руководство от экспертов ButlerSPB
 

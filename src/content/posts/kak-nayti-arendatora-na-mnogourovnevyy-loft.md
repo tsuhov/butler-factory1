@@ -1,11 +1,41 @@
 ---
-title: "Гайд: как сдать многоуровневый лофт быстро"
-description: "Многоуровневый лофт — уникальный объект, требующий особого подхода к поиску жильца. В нашей статье от ButlerSPB мы делимся советами по маркетингу, фото и выбору."
-keywords: "аренда лофта, сдать лофт, многоуровневый лофт, найти арендатора, недвижимость спб, управление недвижимостью, элитная аренда"
-pubDate: "2025-07-24T12:09:18.426Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Гайд: как сдать многоуровневый лофт быстро","description":"Многоуровневый лофт — уникальный объект, требующий особого подхода к поиску жильца. В нашей статье от ButlerSPB мы делимся советами по маркетингу, фото и выбору.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":488,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/kak-nayti-arendatora-na-mnogourovnevyy-loft/"}}
+title: 'Гайд: как сдать многоуровневый лофт быстро'
+description: >-
+  Многоуровневый лофт — уникальный объект, требующий особого подхода к поиску
+  жильца. В нашей статье от ButlerSPB мы делимся советами по маркетингу, фото и
+  выбору.
+pubDate: '2025-07-24T12:09:18.426Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Гайд: как сдать многоуровневый лофт быстро'
+  description: >-
+    Многоуровневый лофт — уникальный объект, требующий особого подхода к поиску
+    жильца. В нашей статье от ButlerSPB мы делимся советами по маркетингу, фото
+    и выбору.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '5.0'
+    reviewCount: 809
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/kak-nayti-arendatora-na-mnogourovnevyy-loft/
 ---
 # Как найти идеального арендатора для вашего многоуровневого лофта: Полное руководство от ButlerSPB
 

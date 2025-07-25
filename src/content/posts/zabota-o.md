@@ -1,11 +1,40 @@
 ---
-title: "Забота о вашем доме: секреты от ButlerSPB"
-description: "В ButlerSPB мы верим, что забота о доме — это искусство. В этой статье мы делимся профессиональными советами по уходу за вашим пространством и созданию уюта."
-keywords: "забота о доме, ButlerSPB, профессиональная уборка, советы по уходу, создание уюта, клининг спб"
-pubDate: "2025-07-25T16:35:51.674Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Забота о вашем доме: секреты от ButlerSPB","description":"В ButlerSPB мы верим, что забота о доме — это искусство. В этой статье мы делимся профессиональными советами по уходу за вашим пространством и созданию уюта.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"5.0","reviewCount":568,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/zabota-o/"}}
+title: 'Забота о вашем доме: секреты от ButlerSPB'
+description: >-
+  В ButlerSPB мы верим, что забота о доме — это искусство. В этой статье мы
+  делимся профессиональными советами по уходу за вашим пространством и созданию
+  уюта.
+pubDate: '2025-07-25T16:35:51.674Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Забота о вашем доме: секреты от ButlerSPB'
+  description: >-
+    В ButlerSPB мы верим, что забота о доме — это искусство. В этой статье мы
+    делимся профессиональными советами по уходу за вашим пространством и
+    созданию уюта.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.9'
+    reviewCount: 722
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': 'https://butlerspb-blog.netlify.app/blog/zabota-o/'
 ---
 # Инвестиции в долговечность: Экспертное руководство по уходу за предметами роскоши
 

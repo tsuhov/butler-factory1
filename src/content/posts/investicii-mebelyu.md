@@ -1,11 +1,39 @@
 ---
-title: "Инвестиции в мебель: гайд от ButlerSPB"
-description: "Рассматриваем мебель не как трату, а как вложение. Эксперты ButlerSPB делятся советами по выбору предметов, которые со временем только вырастут в цене."
-keywords: "инвестиции в мебель, дизайнерская мебель, антиквариат, долговечная мебель, ButlerSPB, вложение денег, ценные породы дерева"
-pubDate: "2025-07-25T14:52:27.887Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Инвестиции в мебель: гайд от ButlerSPB","description":"Рассматриваем мебель не как трату, а как вложение. Эксперты ButlerSPB делятся советами по выбору предметов, которые со временем только вырастут в цене.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.7","reviewCount":537,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/investicii-mebelyu/"}}
+title: 'Инвестиции в мебель: гайд от ButlerSPB'
+description: >-
+  Рассматриваем мебель не как трату, а как вложение. Эксперты ButlerSPB делятся
+  советами по выбору предметов, которые со временем только вырастут в цене.
+pubDate: '2025-07-25T14:52:27.887Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Инвестиции в мебель: гайд от ButlerSPB'
+  description: >-
+    Рассматриваем мебель не как трату, а как вложение. Эксперты ButlerSPB
+    делятся советами по выбору предметов, которые со временем только вырастут в
+    цене.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.7'
+    reviewCount: 657
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': 'https://butlerspb-blog.netlify.app/blog/investicii-mebelyu/'
 ---
 # Инвестиции в мебель: Ваш гид по созданию интерьера, который растет в цене
 

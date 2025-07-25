@@ -1,11 +1,40 @@
 ---
-title: "Корпоративные клиенты: ключ к успеху ButlerSPB"
-description: "Узнайте, почему ведущие компании Санкт-Петербурга доверяют ButlerSPB. Мы предлагаем индивидуальный подход, высокий стандарт сервиса и эксклюзивные условия."
-keywords: "корпоративные клиенты, b2b, ButlerSPB, обслуживание бизнеса, сервис для компаний, корпоративное обслуживание, партнерство"
-pubDate: "2025-07-25T15:37:36.955Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Корпоративные клиенты: ключ к успеху ButlerSPB","description":"Узнайте, почему ведущие компании Санкт-Петербурга доверяют ButlerSPB. Мы предлагаем индивидуальный подход, высокий стандарт сервиса и эксклюзивные условия.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.7","reviewCount":725,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/korporativnye-klienty/"}}
+title: 'Корпоративные клиенты: ключ к успеху ButlerSPB'
+description: >-
+  Узнайте, почему ведущие компании Санкт-Петербурга доверяют ButlerSPB. Мы
+  предлагаем индивидуальный подход, высокий стандарт сервиса и эксклюзивные
+  условия.
+pubDate: '2025-07-25T15:37:36.955Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Корпоративные клиенты: ключ к успеху ButlerSPB'
+  description: >-
+    Узнайте, почему ведущие компании Санкт-Петербурга доверяют ButlerSPB. Мы
+    предлагаем индивидуальный подход, высокий стандарт сервиса и эксклюзивные
+    условия.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.8'
+    reviewCount: 566
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': 'https://butlerspb-blog.netlify.app/blog/korporativnye-klienty/'
 ---
 # Ваши корпоративные клиенты – ваш главный актив. Как сделать их лояльность абсолютной?
 

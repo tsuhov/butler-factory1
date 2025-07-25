@@ -1,11 +1,40 @@
 ---
-title: "Страхование ответственности управляющей компании"
-description: "Как полис страхования ответственности УК защищает собственников от ущерба? Это ваша финансовая гарантия компенсации при заливе или другом вреде по вине УК."
-keywords: "страхование ответственности, управляющая компания, ButlerSPB, собственник, возмещение ущерба, ответственность ук, залив квартиры"
-pubDate: "2025-07-24T12:02:32.206Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Страхование ответственности управляющей компании","description":"Как полис страхования ответственности УК защищает собственников от ущерба? Это ваша финансовая гарантия компенсации при заливе или другом вреде по вине УК.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.8","reviewCount":407,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/strahovanie-otvetstvennosti-upravlyayuschey-kompanii-pered-sobstvennikom/"}}
+title: Страхование ответственности управляющей компании
+description: >-
+  Как полис страхования ответственности УК защищает собственников от ущерба? Это
+  ваша финансовая гарантия компенсации при заливе или другом вреде по вине УК.
+pubDate: '2025-07-24T12:02:32.206Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: Страхование ответственности управляющей компании
+  description: >-
+    Как полис страхования ответственности УК защищает собственников от ущерба?
+    Это ваша финансовая гарантия компенсации при заливе или другом вреде по вине
+    УК.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.8'
+    reviewCount: 483
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/strahovanie-otvetstvennosti-upravlyayuschey-kompanii-pered-sobstvennikom/
 ---
 # Страхование ответственности УК: Ваша гарантия спокойствия и финансовой безопасности
 

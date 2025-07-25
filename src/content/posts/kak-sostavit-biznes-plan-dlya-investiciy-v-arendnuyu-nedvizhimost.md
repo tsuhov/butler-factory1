@@ -1,10 +1,49 @@
 ---
-title: "Бизнес-план для инвестиций в арендную недвижимость: пошаговое руководство от ButlerSPB"
-description: "Хотите, чтобы ваши инвестиции в недвижимость приносили стабильный доход? Ключ к успеху — грамотный бизнес-план. В этой статье мы подробно разберем, как составить документ, который поможет оценить рентабельность объекта, спрогнозировать доходы и расходы, и убедить инвесторов в перспективности вашего проекта."
-pubDate: "2025-07-23T22:07:39.467Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Бизнес-план для инвестиций в арендную недвижимость: пошаговое руководство от ButlerSPB","description":"Хотите, чтобы ваши инвестиции в недвижимость приносили стабильный доход? Ключ к успеху — грамотный бизнес-план. В этой статье мы подробно разберем, как составить документ, который поможет оценить рентабельность объекта, спрогнозировать доходы и расходы, и убедить инвесторов в перспективности вашего проекта.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":334,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/kak-sostavit-biznes-plan-dlya-investiciy-v-arendnuyu-nedvizhimost/"}}
+title: >-
+  Бизнес-план для инвестиций в арендную недвижимость: пошаговое руководство от
+  ButlerSPB
+description: >-
+  Хотите, чтобы ваши инвестиции в недвижимость приносили стабильный доход? Ключ
+  к успеху — грамотный бизнес-план. В этой статье мы подробно разберем, как
+  составить документ, который поможет оценить рентабельность объекта,
+  спрогнозировать доходы и расходы, и убедить инвесторов в перспективности
+  вашего проекта.
+pubDate: '2025-07-23T22:07:39.467Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: >-
+    Бизнес-план для инвестиций в арендную недвижимость: пошаговое руководство от
+    ButlerSPB
+  description: >-
+    Хотите, чтобы ваши инвестиции в недвижимость приносили стабильный доход?
+    Ключ к успеху — грамотный бизнес-план. В этой статье мы подробно разберем,
+    как составить документ, который поможет оценить рентабельность объекта,
+    спрогнозировать доходы и расходы, и убедить инвесторов в перспективности
+    вашего проекта.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.9'
+    reviewCount: 682
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/kak-sostavit-biznes-plan-dlya-investiciy-v-arendnuyu-nedvizhimost/
 ---
 
 # Как составить бизнес-план для инвестиций в арендную недвижимость: Полное руководство для инвестора

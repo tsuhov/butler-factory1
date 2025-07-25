@@ -1,10 +1,47 @@
 ---
-title: "Что такое квартира со вторым светом: всё о тренде на простор и свет"
-description: "В этой статье блога ButlerSPB мы подробно разбираем, что такое «второй свет» в квартире. Вы узнаете об особенностях такой планировки, её неоспоримых преимуществах, таких как обилие естественного освещения и визуальный простор, а также о потенциальных недостатках и способах их решения. Мы расскажем, кому идеально подойдут квартиры со вторым светом и на что обратить внимание при выборе такой недвижимости в Санкт-Петербурге."
-pubDate: "2025-07-23T12:08:59.614Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Что такое квартира со вторым светом: всё о тренде на простор и свет","description":"В этой статье блога ButlerSPB мы подробно разбираем, что такое «второй свет» в квартире. Вы узнаете об особенностях такой планировки, её неоспоримых преимуществах, таких как обилие естественного освещения и визуальный простор, а также о потенциальных недостатках и способах их решения. Мы расскажем, кому идеально подойдут квартиры со вторым светом и на что обратить внимание при выборе такой недвижимости в Санкт-Петербурге.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":509,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/chto-takoe-kvartira-so-vtorym-svetom/"}}
+title: 'Что такое квартира со вторым светом: всё о тренде на простор и свет'
+description: >-
+  В этой статье блога ButlerSPB мы подробно разбираем, что такое «второй свет» в
+  квартире. Вы узнаете об особенностях такой планировки, её неоспоримых
+  преимуществах, таких как обилие естественного освещения и визуальный простор,
+  а также о потенциальных недостатках и способах их решения. Мы расскажем, кому
+  идеально подойдут квартиры со вторым светом и на что обратить внимание при
+  выборе такой недвижимости в Санкт-Петербурге.
+pubDate: '2025-07-23T12:08:59.614Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Что такое квартира со вторым светом: всё о тренде на простор и свет'
+  description: >-
+    В этой статье блога ButlerSPB мы подробно разбираем, что такое «второй свет»
+    в квартире. Вы узнаете об особенностях такой планировки, её неоспоримых
+    преимуществах, таких как обилие естественного освещения и визуальный
+    простор, а также о потенциальных недостатках и способах их решения. Мы
+    расскажем, кому идеально подойдут квартиры со вторым светом и на что
+    обратить внимание при выборе такой недвижимости в Санкт-Петербурге.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.8'
+    reviewCount: 776
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/chto-takoe-kvartira-so-vtorym-svetom/
 ---
 
 # Квартира со вторым светом: что это, кому подходит и почему это признак элитного жилья

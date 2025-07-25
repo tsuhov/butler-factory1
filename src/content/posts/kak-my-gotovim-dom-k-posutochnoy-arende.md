@@ -1,10 +1,45 @@
 ---
-title: "Как мы готовим дом к посуточной аренде: полный чек-лист от ButlerSPB"
-description: "В этой статье команда ButlerSPB делится своим профессиональным опытом и подробным чек-листом по подготовке недвижимости к посуточной аренде. Узнайте, как генеральная уборка, правильный набор удобств, внимание к деталям и создание уютной атмосферы помогают повысить рейтинг вашего объекта, получать восторженные отзывы и увеличивать доход."
-pubDate: "2025-07-22T11:29:22.822Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Как мы готовим дом к посуточной аренде: полный чек-лист от ButlerSPB","description":"В этой статье команда ButlerSPB делится своим профессиональным опытом и подробным чек-листом по подготовке недвижимости к посуточной аренде. Узнайте, как генеральная уборка, правильный набор удобств, внимание к деталям и создание уютной атмосферы помогают повысить рейтинг вашего объекта, получать восторженные отзывы и увеличивать доход.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"5.0","reviewCount":476,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/kak-my-gotovim-dom-k-posutochnoy-arende/"}}
+title: 'Как мы готовим дом к посуточной аренде: полный чек-лист от ButlerSPB'
+description: >-
+  В этой статье команда ButlerSPB делится своим профессиональным опытом и
+  подробным чек-листом по подготовке недвижимости к посуточной аренде. Узнайте,
+  как генеральная уборка, правильный набор удобств, внимание к деталям и
+  создание уютной атмосферы помогают повысить рейтинг вашего объекта, получать
+  восторженные отзывы и увеличивать доход.
+pubDate: '2025-07-22T11:29:22.822Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Как мы готовим дом к посуточной аренде: полный чек-лист от ButlerSPB'
+  description: >-
+    В этой статье команда ButlerSPB делится своим профессиональным опытом и
+    подробным чек-листом по подготовке недвижимости к посуточной аренде.
+    Узнайте, как генеральная уборка, правильный набор удобств, внимание к
+    деталям и создание уютной атмосферы помогают повысить рейтинг вашего
+    объекта, получать восторженные отзывы и увеличивать доход.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.9'
+    reviewCount: 382
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/kak-my-gotovim-dom-k-posutochnoy-arende/
 ---
 
 # Пошаговая подготовка дома к посуточной аренде: Проверенная система ButlerSPB для максимального дохода

@@ -1,11 +1,39 @@
 ---
-title: "Апарт-доходность: полный гайд от ButlerSPB"
-description: "ButlerSPB анализирует доходность апартаментов. В статье мы раскрываем формулу расчета чистой прибыли, говорим о скрытых расходах и сезонных колебаниях."
-keywords: "доходность апартаментов, инвестиции в недвижимость, апарт-отель, расчет прибыли, пассивный доход, управляющая компания"
-pubDate: "2025-07-25T14:52:58.753Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Апарт-доходность: полный гайд от ButlerSPB","description":"ButlerSPB анализирует доходность апартаментов. В статье мы раскрываем формулу расчета чистой прибыли, говорим о скрытых расходах и сезонных колебаниях.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"5.0","reviewCount":399,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/apart-dohodnost/"}}
+title: 'Апарт-доходность: полный гайд от ButlerSPB'
+description: >-
+  ButlerSPB анализирует доходность апартаментов. В статье мы раскрываем формулу
+  расчета чистой прибыли, говорим о скрытых расходах и сезонных колебаниях.
+pubDate: '2025-07-25T14:52:58.753Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Апарт-доходность: полный гайд от ButlerSPB'
+  description: >-
+    ButlerSPB анализирует доходность апартаментов. В статье мы раскрываем
+    формулу расчета чистой прибыли, говорим о скрытых расходах и сезонных
+    колебаниях.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.7'
+    reviewCount: 403
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': 'https://butlerspb-blog.netlify.app/blog/apart-dohodnost/'
 ---
 # Доходность апартаментов в 2024 году: Полный гид по расчету и увеличению прибыли в Санкт-Петербурге
 

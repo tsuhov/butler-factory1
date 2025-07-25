@@ -1,10 +1,45 @@
 ---
-title: "Как продать ипотечную квартиру: пошаговая инструкция от ButlerSPB"
-description: "Продажа квартиры с непогашенной ипотекой кажется сложной задачей, но это возможно. В нашей статье мы подробно разбираем все легальные способы продажи ипотечного жилья: от досрочного погашения кредита до сделки с участием банка. Узнайте, какие документы понадобятся, как найти покупателя и безопасно провести сделку, чтобы не потерять деньги и время."
-pubDate: "2025-07-23T22:15:49.147Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Как продать ипотечную квартиру: пошаговая инструкция от ButlerSPB","description":"Продажа квартиры с непогашенной ипотекой кажется сложной задачей, но это возможно. В нашей статье мы подробно разбираем все легальные способы продажи ипотечного жилья: от досрочного погашения кредита до сделки с участием банка. Узнайте, какие документы понадобятся, как найти покупателя и безопасно провести сделку, чтобы не потерять деньги и время.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.7","reviewCount":752,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/prodazha-kvartiry-s-dolgami-po-ipoteke/"}}
+title: 'Как продать ипотечную квартиру: пошаговая инструкция от ButlerSPB'
+description: >-
+  Продажа квартиры с непогашенной ипотекой кажется сложной задачей, но это
+  возможно. В нашей статье мы подробно разбираем все легальные способы продажи
+  ипотечного жилья: от досрочного погашения кредита до сделки с участием банка.
+  Узнайте, какие документы понадобятся, как найти покупателя и безопасно
+  провести сделку, чтобы не потерять деньги и время.
+pubDate: '2025-07-23T22:15:49.147Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Как продать ипотечную квартиру: пошаговая инструкция от ButlerSPB'
+  description: >-
+    Продажа квартиры с непогашенной ипотекой кажется сложной задачей, но это
+    возможно. В нашей статье мы подробно разбираем все легальные способы продажи
+    ипотечного жилья: от досрочного погашения кредита до сделки с участием
+    банка. Узнайте, какие документы понадобятся, как найти покупателя и
+    безопасно провести сделку, чтобы не потерять деньги и время.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.8'
+    reviewCount: 381
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/prodazha-kvartiry-s-dolgami-po-ipoteke/
 ---
 
 # Продажа квартиры с долгами по ипотеке: полное руководство для собственника

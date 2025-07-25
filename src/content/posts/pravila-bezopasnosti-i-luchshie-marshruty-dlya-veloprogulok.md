@@ -1,10 +1,48 @@
 ---
-title: "Крути педали безопасно: Гид по веломаршрутам Петербурга от ButlerSPB"
-description: "Планируете велопрогулку по Санкт-Петербургу? Команда ButlerSPB подготовила для вас гид по самым живописным и безопасным маршрутам города. В нашей статье вы найдете ключевые правила безопасности на дороге, советы по выбору экипировки и подборку проверенных веломаршрутов для любого уровня подготовки — от спокойных поездок по паркам до увлекательных заездов по пригородам. Готовьте свой велосипед, а мы подскажем, как сделать вашу поездку комфортной и незабываемой!"
-pubDate: "2025-07-22T13:07:12.621Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Крути педали безопасно: Гид по веломаршрутам Петербурга от ButlerSPB","description":"Планируете велопрогулку по Санкт-Петербургу? Команда ButlerSPB подготовила для вас гид по самым живописным и безопасным маршрутам города. В нашей статье вы найдете ключевые правила безопасности на дороге, советы по выбору экипировки и подборку проверенных веломаршрутов для любого уровня подготовки — от спокойных поездок по паркам до увлекательных заездов по пригородам. Готовьте свой велосипед, а мы подскажем, как сделать вашу поездку комфортной и незабываемой!","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.7","reviewCount":585,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/pravila-bezopasnosti-i-luchshie-marshruty-dlya-veloprogulok/"}}
+title: 'Крути педали безопасно: Гид по веломаршрутам Петербурга от ButlerSPB'
+description: >-
+  Планируете велопрогулку по Санкт-Петербургу? Команда ButlerSPB подготовила для
+  вас гид по самым живописным и безопасным маршрутам города. В нашей статье вы
+  найдете ключевые правила безопасности на дороге, советы по выбору экипировки и
+  подборку проверенных веломаршрутов для любого уровня подготовки — от спокойных
+  поездок по паркам до увлекательных заездов по пригородам. Готовьте свой
+  велосипед, а мы подскажем, как сделать вашу поездку комфортной и незабываемой!
+pubDate: '2025-07-22T13:07:12.621Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Крути педали безопасно: Гид по веломаршрутам Петербурга от ButlerSPB'
+  description: >-
+    Планируете велопрогулку по Санкт-Петербургу? Команда ButlerSPB подготовила
+    для вас гид по самым живописным и безопасным маршрутам города. В нашей
+    статье вы найдете ключевые правила безопасности на дороге, советы по выбору
+    экипировки и подборку проверенных веломаршрутов для любого уровня подготовки
+    — от спокойных поездок по паркам до увлекательных заездов по пригородам.
+    Готовьте свой велосипед, а мы подскажем, как сделать вашу поездку комфортной
+    и незабываемой!
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '5.0'
+    reviewCount: 849
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/pravila-bezopasnosti-i-luchshie-marshruty-dlya-veloprogulok/
 ---
 
 # Велопрогулки по Петербургу: Гид по лучшим маршрутам и правилам безопасности

@@ -1,11 +1,38 @@
 ---
-title: "Консьерж-сервис в Петербурге от ButlerSPB"
-description: "Услуги консьержа в СПб от ButlerSPB. Поможем с бронированием отелей, заказом билетов, организацией досуга. Ваш комфорт и время – наша главная забота."
-keywords: "консьерж-сервис, услуги консьержа, ButlerSPB, личный помощник, консьерж спб, организация досуга"
-pubDate: "2025-07-25T16:03:29.975Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Консьерж-сервис в Петербурге от ButlerSPB","description":"Услуги консьержа в СПб от ButlerSPB. Поможем с бронированием отелей, заказом билетов, организацией досуга. Ваш комфорт и время – наша главная забота.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.8","reviewCount":663,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/konserzh-v/"}}
+title: Консьерж-сервис в Петербурге от ButlerSPB
+description: >-
+  Услуги консьержа в СПб от ButlerSPB. Поможем с бронированием отелей, заказом
+  билетов, организацией досуга. Ваш комфорт и время – наша главная забота.
+pubDate: '2025-07-25T16:03:29.975Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: Консьерж-сервис в Петербурге от ButlerSPB
+  description: >-
+    Услуги консьержа в СПб от ButlerSPB. Поможем с бронированием отелей, заказом
+    билетов, организацией досуга. Ваш комфорт и время – наша главная забота.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.7'
+    reviewCount: 580
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': 'https://butlerspb-blog.netlify.app/blog/konserzh-v/'
 ---
 # Консьерж в Санкт-Петербурге: Как получить максимум от города, доверив рутину профессионалам
 

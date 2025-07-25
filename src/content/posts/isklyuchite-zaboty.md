@@ -1,11 +1,38 @@
 ---
-title: "Исключите заботы: ButlerSPB на страже уюта."
-description: "Ежедневные хлопоты отнимают время и силы? Узнайте, как делегировать рутину и освободить жизнь для важных моментов. ButlerSPB берет заботы на себя."
-keywords: "ButlerSPB, консьерж-сервис, личный помощник, делегирование задач, управление временем, жизнь без забот"
-pubDate: "2025-07-24T13:47:12.562Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Исключите заботы: ButlerSPB на страже уюта.","description":"Ежедневные хлопоты отнимают время и силы? Узнайте, как делегировать рутину и освободить жизнь для важных моментов. ButlerSPB берет заботы на себя.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.8","reviewCount":590,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/isklyuchite-zaboty/"}}
+title: 'Исключите заботы: ButlerSPB на страже уюта.'
+description: >-
+  Ежедневные хлопоты отнимают время и силы? Узнайте, как делегировать рутину и
+  освободить жизнь для важных моментов. ButlerSPB берет заботы на себя.
+pubDate: '2025-07-24T13:47:12.562Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Исключите заботы: ButlerSPB на страже уюта.'
+  description: >-
+    Ежедневные хлопоты отнимают время и силы? Узнайте, как делегировать рутину и
+    освободить жизнь для важных моментов. ButlerSPB берет заботы на себя.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.7'
+    reviewCount: 625
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': 'https://butlerspb-blog.netlify.app/blog/isklyuchite-zaboty/'
 ---
 # Исключите заботы: Как профессиональный консьерж-сервис в СПб освобождает ваше время для главного
 

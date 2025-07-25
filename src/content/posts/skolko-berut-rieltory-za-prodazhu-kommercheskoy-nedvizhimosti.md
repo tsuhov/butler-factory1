@@ -1,10 +1,49 @@
 ---
-title: "Сколько берут риэлторы за продажу коммерческой недвижимости: полный разбор от ButlerSPB"
-description: "Планируете продать офис, склад или торговое помещение? Узнайте, из чего складывается комиссия риэлтора и какие факторы на нее влияют. В блоге ButlerSPB мы подробно разбираем стандартные процентные ставки, скрытые платежи и объясняем, почему профессиональный подход к продаже коммерческой недвижимости экономит ваши деньги и время."
-pubDate: "2025-07-23T11:30:26.953Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Сколько берут риэлторы за продажу коммерческой недвижимости: полный разбор от ButlerSPB","description":"Планируете продать офис, склад или торговое помещение? Узнайте, из чего складывается комиссия риэлтора и какие факторы на нее влияют. В блоге ButlerSPB мы подробно разбираем стандартные процентные ставки, скрытые платежи и объясняем, почему профессиональный подход к продаже коммерческой недвижимости экономит ваши деньги и время.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.7","reviewCount":668,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/skolko-berut-rieltory-za-prodazhu-kommercheskoy-nedvizhimosti/"}}
+title: >-
+  Сколько берут риэлторы за продажу коммерческой недвижимости: полный разбор от
+  ButlerSPB
+description: >-
+  Планируете продать офис, склад или торговое помещение? Узнайте, из чего
+  складывается комиссия риэлтора и какие факторы на нее влияют. В блоге
+  ButlerSPB мы подробно разбираем стандартные процентные ставки, скрытые платежи
+  и объясняем, почему профессиональный подход к продаже коммерческой
+  недвижимости экономит ваши деньги и время.
+pubDate: '2025-07-23T11:30:26.953Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: >-
+    Сколько берут риэлторы за продажу коммерческой недвижимости: полный разбор
+    от ButlerSPB
+  description: >-
+    Планируете продать офис, склад или торговое помещение? Узнайте, из чего
+    складывается комиссия риэлтора и какие факторы на нее влияют. В блоге
+    ButlerSPB мы подробно разбираем стандартные процентные ставки, скрытые
+    платежи и объясняем, почему профессиональный подход к продаже коммерческой
+    недвижимости экономит ваши деньги и время.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.7'
+    reviewCount: 635
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/skolko-berut-rieltory-za-prodazhu-kommercheskoy-nedvizhimosti/
 ---
 
 # Сколько стоит продать коммерческую недвижимость через риэлтора: полный разбор комиссии в 2024 году

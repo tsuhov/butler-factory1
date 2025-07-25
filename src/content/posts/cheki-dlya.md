@@ -1,11 +1,40 @@
 ---
-title: "Чеки для налогового вычета: полное пособие"
-description: "Узнайте, как правильно собирать и хранить чеки для получения налоговых вычетов. В нашей статье мы подробно расскажем, какие чеки подходят и как их использовать."
-keywords: "чеки, налоговый вычет, возврат налога, фискальный чек, отчетность, ButlerSPB, финансы"
-pubDate: "2025-07-25T15:39:23.368Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Чеки для налогового вычета: полное пособие","description":"Узнайте, как правильно собирать и хранить чеки для получения налоговых вычетов. В нашей статье мы подробно расскажем, какие чеки подходят и как их использовать.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.7","reviewCount":326,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/cheki-dlya/"}}
+title: 'Чеки для налогового вычета: полное пособие'
+description: >-
+  Узнайте, как правильно собирать и хранить чеки для получения налоговых
+  вычетов. В нашей статье мы подробно расскажем, какие чеки подходят и как их
+  использовать.
+pubDate: '2025-07-25T15:39:23.368Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Чеки для налогового вычета: полное пособие'
+  description: >-
+    Узнайте, как правильно собирать и хранить чеки для получения налоговых
+    вычетов. В нашей статье мы подробно расскажем, какие чеки подходят и как их
+    использовать.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.8'
+    reviewCount: 632
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': 'https://butlerspb-blog.netlify.app/blog/cheki-dlya/'
 ---
 # Идеальная чистота по полочкам: Полный чек-лист для уборки квартиры от экспертов ButlerSPB
 

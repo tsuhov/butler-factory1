@@ -1,10 +1,53 @@
 ---
-title: "Email-рассылка для базы постоянных гостей: о чем писать, чтобы письма открывали"
-description: "Поддержание связи с постоянными гостями — ключ к росту лояльности и повторным бронированиям. Но что именно писать в письмах, чтобы их ждали, а не отправляли в спам? В новой статье блога ButlerSPB делимся проверенными идеями для email-рассылок: от эксклюзивных предложений и анонсов до полезных гидов по городу и новостей вашей компании. Узнайте, как превратить рассылку в ценный инструмент для удержания гостей и построить вокруг вашего бренда лояльное комьюнити."
-pubDate: "2025-07-22T11:02:14.699Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Email-рассылка для базы постоянных гостей: о чем писать, чтобы письма открывали","description":"Поддержание связи с постоянными гостями — ключ к росту лояльности и повторным бронированиям. Но что именно писать в письмах, чтобы их ждали, а не отправляли в спам? В новой статье блога ButlerSPB делимся проверенными идеями для email-рассылок: от эксклюзивных предложений и анонсов до полезных гидов по городу и новостей вашей компании. Узнайте, как превратить рассылку в ценный инструмент для удержания гостей и построить вокруг вашего бренда лояльное комьюнити.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.7","reviewCount":519,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/email-rassylka-dlya-bazy-postoyannyh-gostey-o-chem-pisat/"}}
+title: >-
+  Email-рассылка для базы постоянных гостей: о чем писать, чтобы письма
+  открывали
+description: >-
+  Поддержание связи с постоянными гостями — ключ к росту лояльности и повторным
+  бронированиям. Но что именно писать в письмах, чтобы их ждали, а не отправляли
+  в спам? В новой статье блога ButlerSPB делимся проверенными идеями для
+  email-рассылок: от эксклюзивных предложений и анонсов до полезных гидов по
+  городу и новостей вашей компании. Узнайте, как превратить рассылку в ценный
+  инструмент для удержания гостей и построить вокруг вашего бренда лояльное
+  комьюнити.
+pubDate: '2025-07-22T11:02:14.699Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: >-
+    Email-рассылка для базы постоянных гостей: о чем писать, чтобы письма
+    открывали
+  description: >-
+    Поддержание связи с постоянными гостями — ключ к росту лояльности и
+    повторным бронированиям. Но что именно писать в письмах, чтобы их ждали, а
+    не отправляли в спам? В новой статье блога ButlerSPB делимся проверенными
+    идеями для email-рассылок: от эксклюзивных предложений и анонсов до полезных
+    гидов по городу и новостей вашей компании. Узнайте, как превратить рассылку
+    в ценный инструмент для удержания гостей и построить вокруг вашего бренда
+    лояльное комьюнити.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '5.0'
+    reviewCount: 354
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/email-rassylka-dlya-bazy-postoyannyh-gostey-o-chem-pisat/
 ---
 
 # Email-рассылка для базы постоянных гостей: 15+ идей и готовых шаблонов, которые заставят их вернуться

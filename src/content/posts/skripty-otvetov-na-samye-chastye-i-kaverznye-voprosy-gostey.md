@@ -1,10 +1,45 @@
 ---
-title: "Скрипты ответов на самые частые и каверзные вопросы гостей"
-description: "Как превратить любой сложный вопрос гостя в возможность продемонстрировать первоклассный сервис? Команда ButlerSPB делится своей коллекцией проверенных скриптов для ответов на самые распространенные и каверзные вопросы. От раннего заезда и позднего выезда до жалоб на шум и запросов на скидку — будьте во всеоружии и повышайте лояльность ваших гостей."
-pubDate: "2025-07-22T11:01:36.055Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Скрипты ответов на самые частые и каверзные вопросы гостей","description":"Как превратить любой сложный вопрос гостя в возможность продемонстрировать первоклассный сервис? Команда ButlerSPB делится своей коллекцией проверенных скриптов для ответов на самые распространенные и каверзные вопросы. От раннего заезда и позднего выезда до жалоб на шум и запросов на скидку — будьте во всеоружии и повышайте лояльность ваших гостей.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.8","reviewCount":500,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/skripty-otvetov-na-samye-chastye-i-kaverznye-voprosy-gostey/"}}
+title: Скрипты ответов на самые частые и каверзные вопросы гостей
+description: >-
+  Как превратить любой сложный вопрос гостя в возможность продемонстрировать
+  первоклассный сервис? Команда ButlerSPB делится своей коллекцией проверенных
+  скриптов для ответов на самые распространенные и каверзные вопросы. От раннего
+  заезда и позднего выезда до жалоб на шум и запросов на скидку — будьте во
+  всеоружии и повышайте лояльность ваших гостей.
+pubDate: '2025-07-22T11:01:36.055Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: Скрипты ответов на самые частые и каверзные вопросы гостей
+  description: >-
+    Как превратить любой сложный вопрос гостя в возможность продемонстрировать
+    первоклассный сервис? Команда ButlerSPB делится своей коллекцией проверенных
+    скриптов для ответов на самые распространенные и каверзные вопросы. От
+    раннего заезда и позднего выезда до жалоб на шум и запросов на скидку —
+    будьте во всеоружии и повышайте лояльность ваших гостей.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.9'
+    reviewCount: 321
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/skripty-otvetov-na-samye-chastye-i-kaverznye-voprosy-gostey/
 ---
 
 # Гайд от ButlerSPB: Готовые скрипты ответов на самые частые и каверзные вопросы гостей

@@ -1,10 +1,47 @@
 ---
-title: "Доверительное управление недвижимостью: как получать доход, не тратя время"
-description: "Владение недвижимостью — это ценный актив, но его самостоятельное управление отнимает много времени и сил. В новой статье блога ButlerSPB мы подробно разбираем, что такое доверительное управление, какие задачи оно помогает решить собственнику (от поиска арендаторов до технического обслуживания) и как превратить вашу квартиру или коммерческое помещение в стабильный источник пассивного дохода, доверив все хлопоты профессионалам."
-pubDate: "2025-07-22T00:51:56.830Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Доверительное управление недвижимостью: как получать доход, не тратя время","description":"Владение недвижимостью — это ценный актив, но его самостоятельное управление отнимает много времени и сил. В новой статье блога ButlerSPB мы подробно разбираем, что такое доверительное управление, какие задачи оно помогает решить собственнику (от поиска арендаторов до технического обслуживания) и как превратить вашу квартиру или коммерческое помещение в стабильный источник пассивного дохода, доверив все хлопоты профессионалам.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.8","reviewCount":377,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/doveritelnoe-upravlenie-obektom-nedvizhimosti/"}}
+title: 'Доверительное управление недвижимостью: как получать доход, не тратя время'
+description: >-
+  Владение недвижимостью — это ценный актив, но его самостоятельное управление
+  отнимает много времени и сил. В новой статье блога ButlerSPB мы подробно
+  разбираем, что такое доверительное управление, какие задачи оно помогает
+  решить собственнику (от поиска арендаторов до технического обслуживания) и как
+  превратить вашу квартиру или коммерческое помещение в стабильный источник
+  пассивного дохода, доверив все хлопоты профессионалам.
+pubDate: '2025-07-22T00:51:56.830Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Доверительное управление недвижимостью: как получать доход, не тратя время'
+  description: >-
+    Владение недвижимостью — это ценный актив, но его самостоятельное управление
+    отнимает много времени и сил. В новой статье блога ButlerSPB мы подробно
+    разбираем, что такое доверительное управление, какие задачи оно помогает
+    решить собственнику (от поиска арендаторов до технического обслуживания) и
+    как превратить вашу квартиру или коммерческое помещение в стабильный
+    источник пассивного дохода, доверив все хлопоты профессионалам.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.8'
+    reviewCount: 398
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/doveritelnoe-upravlenie-obektom-nedvizhimosti/
 ---
 
 # Доверительное управление недвижимостью: Полное руководство для собственника в Санкт-Петербурге

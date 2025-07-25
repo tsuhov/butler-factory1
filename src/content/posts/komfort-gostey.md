@@ -1,11 +1,39 @@
 ---
-title: "Создаем комфорт для гостей: советы экспертов"
-description: "Узнайте, как превратить пребывание ваших гостей в незабываемый опыт. В этой статье мы раскроем секреты создания идеального уюта и комфорта в апартаментах."
-keywords: "комфорт гостей, гостеприимство, управление апартаментами, сервис для гостей, ButlerSPB, аренда жилья"
-pubDate: "2025-07-25T15:59:23.089Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Создаем комфорт для гостей: советы экспертов","description":"Узнайте, как превратить пребывание ваших гостей в незабываемый опыт. В этой статье мы раскроем секреты создания идеального уюта и комфорта в апартаментах.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"5.0","reviewCount":732,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/komfort-gostey/"}}
+title: 'Создаем комфорт для гостей: советы экспертов'
+description: >-
+  Узнайте, как превратить пребывание ваших гостей в незабываемый опыт. В этой
+  статье мы раскроем секреты создания идеального уюта и комфорта в апартаментах.
+pubDate: '2025-07-25T15:59:23.089Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Создаем комфорт для гостей: советы экспертов'
+  description: >-
+    Узнайте, как превратить пребывание ваших гостей в незабываемый опыт. В этой
+    статье мы раскроем секреты создания идеального уюта и комфорта в
+    апартаментах.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.9'
+    reviewCount: 480
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': 'https://butlerspb-blog.netlify.app/blog/komfort-gostey/'
 ---
 # Комфорт гостя: от идеальной чистоты до мелочей, которые решают всё. Стандарты гостеприимства ButlerSPB
 

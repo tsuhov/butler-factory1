@@ -1,11 +1,39 @@
 ---
-title: "Эффективная складская логистика с ButlerSPB"
-description: "Узнайте, как оптимизировать процессы на складе, сократить издержки и повысить эффективность. ButlerSPB делится секретами успешной складской логистики."
-keywords: "складская логистика, управление складом, оптимизация склада, хранение товаров, WMS, фулфилмент, ButlerSPB"
-pubDate: "2025-07-25T16:28:08.748Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Эффективная складская логистика с ButlerSPB","description":"Узнайте, как оптимизировать процессы на складе, сократить издержки и повысить эффективность. ButlerSPB делится секретами успешной складской логистики.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.8","reviewCount":399,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/skladskaya-logistika/"}}
+title: Эффективная складская логистика с ButlerSPB
+description: >-
+  Узнайте, как оптимизировать процессы на складе, сократить издержки и повысить
+  эффективность. ButlerSPB делится секретами успешной складской логистики.
+pubDate: '2025-07-25T16:28:08.748Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: Эффективная складская логистика с ButlerSPB
+  description: >-
+    Узнайте, как оптимизировать процессы на складе, сократить издержки и
+    повысить эффективность. ButlerSPB делится секретами успешной складской
+    логистики.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '5.0'
+    reviewCount: 553
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': 'https://butlerspb-blog.netlify.app/blog/skladskaya-logistika/'
 ---
 # Ваша складская логистика "съедает" прибыль? Разбираем процессы, находим ошибки и оптимизируем расходы
 

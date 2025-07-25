@@ -1,11 +1,39 @@
 ---
-title: "Доходность классов активов: что выбрать?"
-description: "ButlerSPB анализирует доходность ключевых классов активов: акций, облигаций и недвижимости. Помогаем разобраться, куда выгоднее инвестировать для прибыли."
-keywords: "классы активов, доходность инвестиций, инвестиционный портфель, акции, облигации, недвижимость, ButlerSPB"
-pubDate: "2025-07-25T16:02:05.515Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Доходность классов активов: что выбрать?","description":"ButlerSPB анализирует доходность ключевых классов активов: акций, облигаций и недвижимости. Помогаем разобраться, куда выгоднее инвестировать для прибыли.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.8","reviewCount":612,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/dohodnost-klassy/"}}
+title: 'Доходность классов активов: что выбрать?'
+description: >-
+  ButlerSPB анализирует доходность ключевых классов активов: акций, облигаций и
+  недвижимости. Помогаем разобраться, куда выгоднее инвестировать для прибыли.
+pubDate: '2025-07-25T16:02:05.515Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Доходность классов активов: что выбрать?'
+  description: >-
+    ButlerSPB анализирует доходность ключевых классов активов: акций, облигаций
+    и недвижимости. Помогаем разобраться, куда выгоднее инвестировать для
+    прибыли.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.8'
+    reviewCount: 718
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': 'https://butlerspb-blog.netlify.app/blog/dohodnost-klassy/'
 ---
 # Классы доходности: Секретное оружие инвестора для максимизации прибыли от апартаментов
 

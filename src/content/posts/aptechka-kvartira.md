@@ -1,11 +1,40 @@
 ---
-title: "Аптечка для квартиры: полный список от ButlerSPB"
-description: "Правильно собранная домашняя аптечка — залог вашего спокойствия. ButlerSPB подготовил полный чеклист необходимых медикаментов и средств для оказания первой помощи."
-keywords: "домашняя аптечка, состав аптечки, список лекарств, первая помощь, аптечка для дома, что должно быть в аптечке, ButlerSPB"
-pubDate: "2025-07-25T15:57:17.946Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Аптечка для квартиры: полный список от ButlerSPB","description":"Правильно собранная домашняя аптечка — залог вашего спокойствия. ButlerSPB подготовил полный чеклист необходимых медикаментов и средств для оказания первой помощи.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":795,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/aptechka-kvartira/"}}
+title: 'Аптечка для квартиры: полный список от ButlerSPB'
+description: >-
+  Правильно собранная домашняя аптечка — залог вашего спокойствия. ButlerSPB
+  подготовил полный чеклист необходимых медикаментов и средств для оказания
+  первой помощи.
+pubDate: '2025-07-25T15:57:17.946Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Аптечка для квартиры: полный список от ButlerSPB'
+  description: >-
+    Правильно собранная домашняя аптечка — залог вашего спокойствия. ButlerSPB
+    подготовил полный чеклист необходимых медикаментов и средств для оказания
+    первой помощи.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '5.0'
+    reviewCount: 306
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': 'https://butlerspb-blog.netlify.app/blog/aptechka-kvartira/'
 ---
 # Идеальная домашняя аптечка: полный чек-лист от ButlerSPB. Что должно быть в каждой квартире в Петербурге?
 

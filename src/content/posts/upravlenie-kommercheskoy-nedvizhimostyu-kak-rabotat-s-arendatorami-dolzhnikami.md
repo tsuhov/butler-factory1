@@ -1,11 +1,40 @@
 ---
-title: "Арендаторы-должники: как работать с ними"
-description: "Просрочка арендной платы — частая проблема. В статье разбираем, как выстроить работу с должниками: от переговоров до юридических шагов по взысканию долга."
-keywords: "управление коммерческой недвижимостью, арендаторы-должники, взыскание задолженности, долги по аренде, договор аренды, ButlerSPB"
-pubDate: "2025-07-24T00:10:47.027Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Арендаторы-должники: как работать с ними","description":"Просрочка арендной платы — частая проблема. В статье разбираем, как выстроить работу с должниками: от переговоров до юридических шагов по взысканию долга.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.8","reviewCount":805,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/upravlenie-kommercheskoy-nedvizhimostyu-kak-rabotat-s-arendatorami-dolzhnikami/"}}
+title: 'Арендаторы-должники: как работать с ними'
+description: >-
+  Просрочка арендной платы — частая проблема. В статье разбираем, как выстроить
+  работу с должниками: от переговоров до юридических шагов по взысканию долга.
+pubDate: '2025-07-24T00:10:47.027Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Арендаторы-должники: как работать с ними'
+  description: >-
+    Просрочка арендной платы — частая проблема. В статье разбираем, как
+    выстроить работу с должниками: от переговоров до юридических шагов по
+    взысканию долга.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '5.0'
+    reviewCount: 571
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/upravlenie-kommercheskoy-nedvizhimostyu-kak-rabotat-s-arendatorami-dolzhnikami/
 ---
 # Управление коммерческой недвижимостью: пошаговая инструкция по работе с арендаторами-должниками
 

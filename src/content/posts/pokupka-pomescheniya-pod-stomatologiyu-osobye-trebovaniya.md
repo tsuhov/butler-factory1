@@ -1,11 +1,41 @@
 ---
-title: "Покупка помещения под стоматологию: главное"
-description: "Планируете купить помещение для стоматологической клиники? Рассказываем про особые требования СанПиН, важные нюансы планировки и выбор локации для бизнеса."
-keywords: "помещение под стоматологию, купить стоматологию, требования к клинике, СанПиН стоматология, коммерческая недвижимость, лицензирование стоматологии"
-pubDate: "2025-07-24T12:09:13.435Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Покупка помещения под стоматологию: главное","description":"Планируете купить помещение для стоматологической клиники? Рассказываем про особые требования СанПиН, важные нюансы планировки и выбор локации для бизнеса.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":393,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/pokupka-pomescheniya-pod-stomatologiyu-osobye-trebovaniya/"}}
+title: 'Покупка помещения под стоматологию: главное'
+description: >-
+  Планируете купить помещение для стоматологической клиники? Рассказываем про
+  особые требования СанПиН, важные нюансы планировки и выбор локации для
+  бизнеса.
+pubDate: '2025-07-24T12:09:13.435Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Покупка помещения под стоматологию: главное'
+  description: >-
+    Планируете купить помещение для стоматологической клиники? Рассказываем про
+    особые требования СанПиН, важные нюансы планировки и выбор локации для
+    бизнеса.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '5.0'
+    reviewCount: 354
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/pokupka-pomescheniya-pod-stomatologiyu-osobye-trebovaniya/
 ---
 # Покупка помещения под стоматологию: полный гид по требованиям СанПиН и юридическим нюансам
 

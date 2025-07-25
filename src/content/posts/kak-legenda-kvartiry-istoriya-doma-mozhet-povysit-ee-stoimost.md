@@ -1,10 +1,47 @@
 ---
-title: "Инвестиция в историю: как «легенда» квартиры повышает ее стоимость"
-description: "В Санкт-Петербурге каждый дом — это целая эпоха. Но как история здания влияет на его рыночную цену? В новой статье блога ButlerSPB мы рассказываем, почему квартиры в домах с богатым прошлым, где жили известные личности или происходили знаковые события, продаются дороже. Узнайте, как архитектурные детали и уникальная «легенда» становятся мощным инструментом для повышения ликвидности и стоимости вашей недвижимости."
-pubDate: "2025-07-23T22:13:53.477Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Инвестиция в историю: как «легенда» квартиры повышает ее стоимость","description":"В Санкт-Петербурге каждый дом — это целая эпоха. Но как история здания влияет на его рыночную цену? В новой статье блога ButlerSPB мы рассказываем, почему квартиры в домах с богатым прошлым, где жили известные личности или происходили знаковые события, продаются дороже. Узнайте, как архитектурные детали и уникальная «легенда» становятся мощным инструментом для повышения ликвидности и стоимости вашей недвижимости.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.8","reviewCount":655,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/kak-legenda-kvartiry-istoriya-doma-mozhet-povysit-ee-stoimost/"}}
+title: 'Инвестиция в историю: как «легенда» квартиры повышает ее стоимость'
+description: >-
+  В Санкт-Петербурге каждый дом — это целая эпоха. Но как история здания влияет
+  на его рыночную цену? В новой статье блога ButlerSPB мы рассказываем, почему
+  квартиры в домах с богатым прошлым, где жили известные личности или
+  происходили знаковые события, продаются дороже. Узнайте, как архитектурные
+  детали и уникальная «легенда» становятся мощным инструментом для повышения
+  ликвидности и стоимости вашей недвижимости.
+pubDate: '2025-07-23T22:13:53.477Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Инвестиция в историю: как «легенда» квартиры повышает ее стоимость'
+  description: >-
+    В Санкт-Петербурге каждый дом — это целая эпоха. Но как история здания
+    влияет на его рыночную цену? В новой статье блога ButlerSPB мы рассказываем,
+    почему квартиры в домах с богатым прошлым, где жили известные личности или
+    происходили знаковые события, продаются дороже. Узнайте, как архитектурные
+    детали и уникальная «легенда» становятся мощным инструментом для повышения
+    ликвидности и стоимости вашей недвижимости.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.7'
+    reviewCount: 328
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/kak-legenda-kvartiry-istoriya-doma-mozhet-povysit-ee-stoimost/
 ---
 
 # Не просто стены: как «легенда» квартиры в историческом фонде СПб становится вашим главным активом

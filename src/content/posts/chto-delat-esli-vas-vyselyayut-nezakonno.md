@@ -1,10 +1,47 @@
 ---
-title: "Что делать, если вас выселяют незаконно: инструкция от ButlerSPB"
-description: "Столкнулись с угрозой выселения и не уверены в законности действий арендодателя? Это стрессовая ситуация, но важно действовать грамотно. В этой статье блога ButlerSPB мы разбираем, какие права есть у нанимателя, как проверить основания для выселения, какие документы нужно подготовить и куда обращаться за помощью – от полиции до суда. Узнайте, как эффективно защитить себя от самоуправства."
-pubDate: "2025-07-22T11:39:45.675Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Что делать, если вас выселяют незаконно: инструкция от ButlerSPB","description":"Столкнулись с угрозой выселения и не уверены в законности действий арендодателя? Это стрессовая ситуация, но важно действовать грамотно. В этой статье блога ButlerSPB мы разбираем, какие права есть у нанимателя, как проверить основания для выселения, какие документы нужно подготовить и куда обращаться за помощью – от полиции до суда. Узнайте, как эффективно защитить себя от самоуправства.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.8","reviewCount":568,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/chto-delat-esli-vas-vyselyayut-nezakonno/"}}
+title: 'Что делать, если вас выселяют незаконно: инструкция от ButlerSPB'
+description: >-
+  Столкнулись с угрозой выселения и не уверены в законности действий
+  арендодателя? Это стрессовая ситуация, но важно действовать грамотно. В этой
+  статье блога ButlerSPB мы разбираем, какие права есть у нанимателя, как
+  проверить основания для выселения, какие документы нужно подготовить и куда
+  обращаться за помощью – от полиции до суда. Узнайте, как эффективно защитить
+  себя от самоуправства.
+pubDate: '2025-07-22T11:39:45.675Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Что делать, если вас выселяют незаконно: инструкция от ButlerSPB'
+  description: >-
+    Столкнулись с угрозой выселения и не уверены в законности действий
+    арендодателя? Это стрессовая ситуация, но важно действовать грамотно. В этой
+    статье блога ButlerSPB мы разбираем, какие права есть у нанимателя, как
+    проверить основания для выселения, какие документы нужно подготовить и куда
+    обращаться за помощью – от полиции до суда. Узнайте, как эффективно защитить
+    себя от самоуправства.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.8'
+    reviewCount: 326
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/chto-delat-esli-vas-vyselyayut-nezakonno/
 ---
 
 # Незаконное выселение из съемной квартиры: пошаговая инструкция, что делать в 2024 году

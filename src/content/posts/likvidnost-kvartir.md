@@ -1,11 +1,39 @@
 ---
-title: "Ликвидность квартиры: как быстро ее продать?"
-description: "Ликвидность квартиры — это возможность быстро и выгодно ее продать. В статье разбираем главные факторы: расположение, инфраструктура, планировка и ремонт."
-keywords: "ликвидность квартиры, продать квартиру, оценка недвижимости, инвестиции в недвижимость, факторы ликвидности, ButlerSPB"
-pubDate: "2025-07-25T16:30:29.519Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Ликвидность квартиры: как быстро ее продать?","description":"Ликвидность квартиры — это возможность быстро и выгодно ее продать. В статье разбираем главные факторы: расположение, инфраструктура, планировка и ремонт.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.8","reviewCount":561,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/likvidnost-kvartir/"}}
+title: 'Ликвидность квартиры: как быстро ее продать?'
+description: >-
+  Ликвидность квартиры — это возможность быстро и выгодно ее продать. В статье
+  разбираем главные факторы: расположение, инфраструктура, планировка и ремонт.
+pubDate: '2025-07-25T16:30:29.519Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Ликвидность квартиры: как быстро ее продать?'
+  description: >-
+    Ликвидность квартиры — это возможность быстро и выгодно ее продать. В статье
+    разбираем главные факторы: расположение, инфраструктура, планировка и
+    ремонт.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.8'
+    reviewCount: 474
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': 'https://butlerspb-blog.netlify.app/blog/likvidnost-kvartir/'
 ---
 # Ликвидность квартиры: Полный гид по оценке и выбору самого выгодного жилья в Санкт-Петербурге
 

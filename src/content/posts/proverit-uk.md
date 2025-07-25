@@ -1,11 +1,39 @@
 ---
-title: "Как проверить управляющую компанию: инструкция"
-description: "Пошаговая инструкция по проверке управляющей компании. Рассказываем, где найти лицензию, изучить отчетность и реальные отзывы, чтобы избежать проблем."
-keywords: "проверить УК, управляющая компания, ГИС ЖКХ, лицензия УК, отзывы об управляющей компании, рейтинг УК, смена УК"
-pubDate: "2025-07-25T16:23:43.828Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Как проверить управляющую компанию: инструкция","description":"Пошаговая инструкция по проверке управляющей компании. Рассказываем, где найти лицензию, изучить отчетность и реальные отзывы, чтобы избежать проблем.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.7","reviewCount":324,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/proverit-uk/"}}
+title: 'Как проверить управляющую компанию: инструкция'
+description: >-
+  Пошаговая инструкция по проверке управляющей компании. Рассказываем, где найти
+  лицензию, изучить отчетность и реальные отзывы, чтобы избежать проблем.
+pubDate: '2025-07-25T16:23:43.828Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Как проверить управляющую компанию: инструкция'
+  description: >-
+    Пошаговая инструкция по проверке управляющей компании. Рассказываем, где
+    найти лицензию, изучить отчетность и реальные отзывы, чтобы избежать
+    проблем.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.9'
+    reviewCount: 833
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': 'https://butlerspb-blog.netlify.app/blog/proverit-uk/'
 ---
 # Как проверить управляющую компанию: полное руководство для собственника
 

@@ -1,11 +1,40 @@
 ---
-title: "Законные схемы для бизнеса: работаем в белую"
-description: "Узнайте, как строить бизнес на законных основаниях. В этой статье ButlerSPB рассматривает легальные схемы работы, которые помогут избежать рисков и штрафов."
-keywords: "законные схемы, легальный бизнес, оптимизация налогов, юридическая консультация, ButlerSPB, комплаенс"
-pubDate: "2025-07-25T14:55:08.267Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Законные схемы для бизнеса: работаем в белую","description":"Узнайте, как строить бизнес на законных основаниях. В этой статье ButlerSPB рассматривает легальные схемы работы, которые помогут избежать рисков и штрафов.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.8","reviewCount":721,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/zakonnye-shemy/"}}
+title: 'Законные схемы для бизнеса: работаем в белую'
+description: >-
+  Узнайте, как строить бизнес на законных основаниях. В этой статье ButlerSPB
+  рассматривает легальные схемы работы, которые помогут избежать рисков и
+  штрафов.
+pubDate: '2025-07-25T14:55:08.267Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Законные схемы для бизнеса: работаем в белую'
+  description: >-
+    Узнайте, как строить бизнес на законных основаниях. В этой статье ButlerSPB
+    рассматривает легальные схемы работы, которые помогут избежать рисков и
+    штрафов.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.7'
+    reviewCount: 723
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': 'https://butlerspb-blog.netlify.app/blog/zakonnye-shemy/'
 ---
 # Законные схемы: Как превратить "оптимизацию" из риска в инструмент роста вашего бизнеса
 

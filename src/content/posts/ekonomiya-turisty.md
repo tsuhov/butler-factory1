@@ -1,11 +1,39 @@
 ---
-title: "Как сэкономить в Петербурге: советы туристам"
-description: "Планируете поездку в Санкт-Петербург, но бюджет ограничен? Наш блог ButlerSPB делится лайфхаками: где недорого поесть, как экономить на транспорте и музеях."
-keywords: "бюджетный туризм, сэкономить в петербурге, советы туристам, дешевые путешествия, ButlerSPB, лайфхаки для туристов"
-pubDate: "2025-07-25T15:45:49.598Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Как сэкономить в Петербурге: советы туристам","description":"Планируете поездку в Санкт-Петербург, но бюджет ограничен? Наш блог ButlerSPB делится лайфхаками: где недорого поесть, как экономить на транспорте и музеях.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.8","reviewCount":586,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/ekonomiya-turisty/"}}
+title: 'Как сэкономить в Петербурге: советы туристам'
+description: >-
+  Планируете поездку в Санкт-Петербург, но бюджет ограничен? Наш блог ButlerSPB
+  делится лайфхаками: где недорого поесть, как экономить на транспорте и музеях.
+pubDate: '2025-07-25T15:45:49.598Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Как сэкономить в Петербурге: советы туристам'
+  description: >-
+    Планируете поездку в Санкт-Петербург, но бюджет ограничен? Наш блог
+    ButlerSPB делится лайфхаками: где недорого поесть, как экономить на
+    транспорте и музеях.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '5.0'
+    reviewCount: 515
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': 'https://butlerspb-blog.netlify.app/blog/ekonomiya-turisty/'
 ---
 # Умная экономия в Петербурге: 10+ советов, как путешествовать с комфортом и без лишних трат
 

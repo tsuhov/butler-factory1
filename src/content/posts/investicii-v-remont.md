@@ -1,11 +1,40 @@
 ---
-title: "Инвестиции в ремонт: как повысить цену жилья"
-description: "Рассматриваем ремонт не как затраты, а как выгодную инвестицию. Узнайте, какие улучшения максимально увеличат стоимость вашей недвижимости перед продажей или сдачей."
-keywords: "инвестиции в ремонт, ремонт для продажи, хоумстейджинг, повысить стоимость квартиры, выгодный ремонт, ButlerSPB, ремонт спб"
-pubDate: "2025-07-25T14:54:45.662Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Инвестиции в ремонт: как повысить цену жилья","description":"Рассматриваем ремонт не как затраты, а как выгодную инвестицию. Узнайте, какие улучшения максимально увеличат стоимость вашей недвижимости перед продажей или сдачей.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":453,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/investicii-v-remont/"}}
+title: 'Инвестиции в ремонт: как повысить цену жилья'
+description: >-
+  Рассматриваем ремонт не как затраты, а как выгодную инвестицию. Узнайте, какие
+  улучшения максимально увеличат стоимость вашей недвижимости перед продажей или
+  сдачей.
+pubDate: '2025-07-25T14:54:45.662Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Инвестиции в ремонт: как повысить цену жилья'
+  description: >-
+    Рассматриваем ремонт не как затраты, а как выгодную инвестицию. Узнайте,
+    какие улучшения максимально увеличат стоимость вашей недвижимости перед
+    продажей или сдачей.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.8'
+    reviewCount: 694
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': 'https://butlerspb-blog.netlify.app/blog/investicii-v-remont/'
 ---
 # Инвестиции в ремонт: Как увеличить стоимость квартиры в Санкт-Петербурге на 20-30%?
 

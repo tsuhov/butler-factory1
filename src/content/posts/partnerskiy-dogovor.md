@@ -1,11 +1,40 @@
 ---
-title: "Партнерский договор: ключевые пункты и риски"
-description: "Партнерский договор – основа успешного сотрудничества. Узнайте, какие пункты обязательно включить, как избежать рисков и защитить свой бизнес. ButlerSPB делится опытом."
-keywords: "партнерский договор, соглашение о партнерстве, совместный бизнес, учредительный договор, права и обязанности партнеров, ButlerSPB"
-pubDate: "2025-07-25T16:13:39.693Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Партнерский договор: ключевые пункты и риски","description":"Партнерский договор – основа успешного сотрудничества. Узнайте, какие пункты обязательно включить, как избежать рисков и защитить свой бизнес. ButlerSPB делится опытом.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":694,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/partnerskiy-dogovor/"}}
+title: 'Партнерский договор: ключевые пункты и риски'
+description: >-
+  Партнерский договор – основа успешного сотрудничества. Узнайте, какие пункты
+  обязательно включить, как избежать рисков и защитить свой бизнес. ButlerSPB
+  делится опытом.
+pubDate: '2025-07-25T16:13:39.693Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Партнерский договор: ключевые пункты и риски'
+  description: >-
+    Партнерский договор – основа успешного сотрудничества. Узнайте, какие пункты
+    обязательно включить, как избежать рисков и защитить свой бизнес. ButlerSPB
+    делится опытом.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '5.0'
+    reviewCount: 808
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': 'https://butlerspb-blog.netlify.app/blog/partnerskiy-dogovor/'
 ---
 # Партнерский договор: полное руководство по составлению в 2024 году от юристов ButlerSPB
 

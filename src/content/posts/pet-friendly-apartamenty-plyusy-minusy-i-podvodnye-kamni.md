@@ -1,10 +1,45 @@
 ---
-title: "Pet-friendly апартаменты: плюсы, минусы и подводные камни от ButlerSPB"
-description: "Планируете поездку в Санкт-Петербург с любимым питомцем? Команда ButlerSPB разбирает все нюансы аренды pet-friendly апартаментов. Узнайте о преимуществах совместного путешествия, возможных дополнительных расходах, правилах проживания и скрытых 'подводных камнях', чтобы ваш отдых был максимально комфортным и без неприятных сюрпризов."
-pubDate: "2025-07-22T11:01:44.732Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Pet-friendly апартаменты: плюсы, минусы и подводные камни от ButlerSPB","description":"Планируете поездку в Санкт-Петербург с любимым питомцем? Команда ButlerSPB разбирает все нюансы аренды pet-friendly апартаментов. Узнайте о преимуществах совместного путешествия, возможных дополнительных расходах, правилах проживания и скрытых 'подводных камнях', чтобы ваш отдых был максимально комфортным и без неприятных сюрпризов.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.8","reviewCount":649,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/pet-friendly-apartamenty-plyusy-minusy-i-podvodnye-kamni/"}}
+title: 'Pet-friendly апартаменты: плюсы, минусы и подводные камни от ButlerSPB'
+description: >-
+  Планируете поездку в Санкт-Петербург с любимым питомцем? Команда ButlerSPB
+  разбирает все нюансы аренды pet-friendly апартаментов. Узнайте о преимуществах
+  совместного путешествия, возможных дополнительных расходах, правилах
+  проживания и скрытых 'подводных камнях', чтобы ваш отдых был максимально
+  комфортным и без неприятных сюрпризов.
+pubDate: '2025-07-22T11:01:44.732Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Pet-friendly апартаменты: плюсы, минусы и подводные камни от ButlerSPB'
+  description: >-
+    Планируете поездку в Санкт-Петербург с любимым питомцем? Команда ButlerSPB
+    разбирает все нюансы аренды pet-friendly апартаментов. Узнайте о
+    преимуществах совместного путешествия, возможных дополнительных расходах,
+    правилах проживания и скрытых 'подводных камнях', чтобы ваш отдых был
+    максимально комфортным и без неприятных сюрпризов.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.8'
+    reviewCount: 641
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/pet-friendly-apartamenty-plyusy-minusy-i-podvodnye-kamni/
 ---
 
 # Аренда с питомцем в СПб: как найти идеальные pet-friendly апартаменты

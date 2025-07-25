@@ -1,10 +1,47 @@
 ---
-title: "Продажа элитной недвижимости в СПб: как найти своего риэлтора."
-description: "Продажа элитной квартиры или дома в Санкт-Петербурге требует особого подхода и глубокого понимания рынка. Успех сделки во многом зависит от выбора правильного специалиста. В этой статье от ButlerSPB мы расскажем, на что обратить внимание при поиске риэлтора, какими качествами должен обладать профессионал в сегменте de luxe и как найти того, кто обеспечит конфиденциальность, выгоду и безупречный сервис."
-pubDate: "2025-07-22T13:56:31.867Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Продажа элитной недвижимости в СПб: как найти своего риэлтора.","description":"Продажа элитной квартиры или дома в Санкт-Петербурге требует особого подхода и глубокого понимания рынка. Успех сделки во многом зависит от выбора правильного специалиста. В этой статье от ButlerSPB мы расскажем, на что обратить внимание при поиске риэлтора, какими качествами должен обладать профессионал в сегменте de luxe и как найти того, кто обеспечит конфиденциальность, выгоду и безупречный сервис.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.8","reviewCount":430,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/prodazha-elitnoy-nedvizhimosti-v-spb-kak-nayti-svoego-rieltora/"}}
+title: 'Продажа элитной недвижимости в СПб: как найти своего риэлтора.'
+description: >-
+  Продажа элитной квартиры или дома в Санкт-Петербурге требует особого подхода и
+  глубокого понимания рынка. Успех сделки во многом зависит от выбора
+  правильного специалиста. В этой статье от ButlerSPB мы расскажем, на что
+  обратить внимание при поиске риэлтора, какими качествами должен обладать
+  профессионал в сегменте de luxe и как найти того, кто обеспечит
+  конфиденциальность, выгоду и безупречный сервис.
+pubDate: '2025-07-22T13:56:31.867Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Продажа элитной недвижимости в СПб: как найти своего риэлтора.'
+  description: >-
+    Продажа элитной квартиры или дома в Санкт-Петербурге требует особого подхода
+    и глубокого понимания рынка. Успех сделки во многом зависит от выбора
+    правильного специалиста. В этой статье от ButlerSPB мы расскажем, на что
+    обратить внимание при поиске риэлтора, какими качествами должен обладать
+    профессионал в сегменте de luxe и как найти того, кто обеспечит
+    конфиденциальность, выгоду и безупречный сервис.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '5.0'
+    reviewCount: 785
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/prodazha-elitnoy-nedvizhimosti-v-spb-kak-nayti-svoego-rieltora/
 ---
 
 # Ваш ключ к успешной сделке: Как выбрать риэлтора для продажи элитной недвижимости в Санкт-Петербурге

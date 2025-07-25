@@ -1,11 +1,40 @@
 ---
-title: "Выездной батлер: элитный сервис у вас дома"
-description: "Компания ButlerSPB предлагает услугу выездного батлера. Это профессиональная помощь в организации мероприятий, встрече гостей и решении бытовых задач на дому."
-keywords: "выездной батлер, дворецкий на выезд, персональный помощник, сервис на дому, ButlerSPB, организация мероприятий"
-pubDate: "2025-07-24T13:11:01.462Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Выездной батлер: элитный сервис у вас дома","description":"Компания ButlerSPB предлагает услугу выездного батлера. Это профессиональная помощь в организации мероприятий, встрече гостей и решении бытовых задач на дому.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.7","reviewCount":343,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/vyezd-batler/"}}
+title: 'Выездной батлер: элитный сервис у вас дома'
+description: >-
+  Компания ButlerSPB предлагает услугу выездного батлера. Это профессиональная
+  помощь в организации мероприятий, встрече гостей и решении бытовых задач на
+  дому.
+pubDate: '2025-07-24T13:11:01.462Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Выездной батлер: элитный сервис у вас дома'
+  description: >-
+    Компания ButlerSPB предлагает услугу выездного батлера. Это профессиональная
+    помощь в организации мероприятий, встрече гостей и решении бытовых задач на
+    дому.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.9'
+    reviewCount: 450
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': 'https://butlerspb-blog.netlify.app/blog/vyezd-batler/'
 ---
 # Выездной батлер: Ваш личный ключ к безупречному сервису и свободному времени
 

@@ -1,11 +1,40 @@
 ---
-title: "Максимальная цена: потолок цен от ButlerSPB"
-description: "Максимальная цена – это установленный государством лимит, выше которого нельзя продавать товар или услугу. ButlerSPB разбирает, как потолок цен влияет на спрос."
-keywords: "максимальная цена, потолок цен, государственное регулирование, экономика, дефицит, черный рынок, ButlerSPB"
-pubDate: "2025-07-25T16:25:08.156Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Максимальная цена: потолок цен от ButlerSPB","description":"Максимальная цена – это установленный государством лимит, выше которого нельзя продавать товар или услугу. ButlerSPB разбирает, как потолок цен влияет на спрос.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"5.0","reviewCount":736,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/maksimalnaya-cena/"}}
+title: 'Максимальная цена: потолок цен от ButlerSPB'
+description: >-
+  Максимальная цена – это установленный государством лимит, выше которого нельзя
+  продавать товар или услугу. ButlerSPB разбирает, как потолок цен влияет на
+  спрос.
+pubDate: '2025-07-25T16:25:08.156Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Максимальная цена: потолок цен от ButlerSPB'
+  description: >-
+    Максимальная цена – это установленный государством лимит, выше которого
+    нельзя продавать товар или услугу. ButlerSPB разбирает, как потолок цен
+    влияет на спрос.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '5.0'
+    reviewCount: 458
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': 'https://butlerspb-blog.netlify.app/blog/maksimalnaya-cena/'
 ---
 # Максимальная цена в отеле: Искусство продавать дорого и не терять гостей
 

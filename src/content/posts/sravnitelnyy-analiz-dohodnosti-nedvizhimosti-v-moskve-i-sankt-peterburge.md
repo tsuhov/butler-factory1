@@ -1,10 +1,51 @@
 ---
-title: "Москва vs. Санкт-Петербург: где выгоднее инвестировать в недвижимость? Сравнительный анализ доходности"
-description: "Планируете инвестировать в недвижимость, но не можете выбрать между двумя столицами? Эксперты ButlerSPB провели детальный сравнительный анализ доходности от аренды и перепродажи квартир в Москве и Санкт-Петербурге. В нашей статье мы разбираем ключевые факторы: цены, арендные ставки, сроки окупаемости и потенциал роста стоимости. Узнайте, какой город предлагает лучшие перспективы для ваших инвестиций."
-pubDate: "2025-07-23T12:23:03.864Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Москва vs. Санкт-Петербург: где выгоднее инвестировать в недвижимость? Сравнительный анализ доходности","description":"Планируете инвестировать в недвижимость, но не можете выбрать между двумя столицами? Эксперты ButlerSPB провели детальный сравнительный анализ доходности от аренды и перепродажи квартир в Москве и Санкт-Петербурге. В нашей статье мы разбираем ключевые факторы: цены, арендные ставки, сроки окупаемости и потенциал роста стоимости. Узнайте, какой город предлагает лучшие перспективы для ваших инвестиций.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.8","reviewCount":522,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/sravnitelnyy-analiz-dohodnosti-nedvizhimosti-v-moskve-i-sankt-peterburge/"}}
+title: >-
+  Москва vs. Санкт-Петербург: где выгоднее инвестировать в недвижимость?
+  Сравнительный анализ доходности
+description: >-
+  Планируете инвестировать в недвижимость, но не можете выбрать между двумя
+  столицами? Эксперты ButlerSPB провели детальный сравнительный анализ
+  доходности от аренды и перепродажи квартир в Москве и Санкт-Петербурге. В
+  нашей статье мы разбираем ключевые факторы: цены, арендные ставки, сроки
+  окупаемости и потенциал роста стоимости. Узнайте, какой город предлагает
+  лучшие перспективы для ваших инвестиций.
+pubDate: '2025-07-23T12:23:03.864Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: >-
+    Москва vs. Санкт-Петербург: где выгоднее инвестировать в недвижимость?
+    Сравнительный анализ доходности
+  description: >-
+    Планируете инвестировать в недвижимость, но не можете выбрать между двумя
+    столицами? Эксперты ButlerSPB провели детальный сравнительный анализ
+    доходности от аренды и перепродажи квартир в Москве и Санкт-Петербурге. В
+    нашей статье мы разбираем ключевые факторы: цены, арендные ставки, сроки
+    окупаемости и потенциал роста стоимости. Узнайте, какой город предлагает
+    лучшие перспективы для ваших инвестиций.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '5.0'
+    reviewCount: 799
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/sravnitelnyy-analiz-dohodnosti-nedvizhimosti-v-moskve-i-sankt-peterburge/
 ---
 
 # Москва или Питер: куда инвестировать в недвижимость? Полный сравнительный анализ доходности

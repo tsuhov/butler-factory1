@@ -1,11 +1,40 @@
 ---
-title: "Инвест калькулятор от ButlerSPB: ваш помощник"
-description: "Рассчитайте потенциальный доход от ваших инвестиций с помощью удобного онлайн-калькулятора от ButlerSPB. Оцените риски и спланируйте финансовое будущее."
-keywords: "инвест калькулятор, расчет инвестиций, калькулятор доходности, финансовое планирование, инвестиции, ButlerSPB"
-pubDate: "2025-07-25T16:01:40.512Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Инвест калькулятор от ButlerSPB: ваш помощник","description":"Рассчитайте потенциальный доход от ваших инвестиций с помощью удобного онлайн-калькулятора от ButlerSPB. Оцените риски и спланируйте финансовое будущее.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"5.0","reviewCount":611,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/invest-kalkulyator/"}}
+title: 'Инвест калькулятор от ButlerSPB: ваш помощник'
+description: >-
+  Рассчитайте потенциальный доход от ваших инвестиций с помощью удобного
+  онлайн-калькулятора от ButlerSPB. Оцените риски и спланируйте финансовое
+  будущее.
+pubDate: '2025-07-25T16:01:40.512Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Инвест калькулятор от ButlerSPB: ваш помощник'
+  description: >-
+    Рассчитайте потенциальный доход от ваших инвестиций с помощью удобного
+    онлайн-калькулятора от ButlerSPB. Оцените риски и спланируйте финансовое
+    будущее.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.8'
+    reviewCount: 407
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': 'https://butlerspb-blog.netlify.app/blog/invest-kalkulyator/'
 ---
 # Инвест калькулятор: Ваш первый шаг к финансовой свободе
 

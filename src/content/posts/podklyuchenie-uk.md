@@ -1,11 +1,38 @@
 ---
-title: "Подключение УК: пошаговый гайд от ButlerSPB"
-description: "Узнайте, как правильно выбрать и подключить управляющую компанию для вашего дома или ЖК. ButlerSPB делится пошаговой инструкцией и советами экспертов."
-keywords: "управляющая компания, подключение УК, выбор УК, смена УК, управление МКД, ButlerSPB, договор с УК"
-pubDate: "2025-07-25T16:10:45.821Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Подключение УК: пошаговый гайд от ButlerSPB","description":"Узнайте, как правильно выбрать и подключить управляющую компанию для вашего дома или ЖК. ButlerSPB делится пошаговой инструкцией и советами экспертов.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"5.0","reviewCount":471,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/podklyuchenie-uk/"}}
+title: 'Подключение УК: пошаговый гайд от ButlerSPB'
+description: >-
+  Узнайте, как правильно выбрать и подключить управляющую компанию для вашего
+  дома или ЖК. ButlerSPB делится пошаговой инструкцией и советами экспертов.
+pubDate: '2025-07-25T16:10:45.821Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Подключение УК: пошаговый гайд от ButlerSPB'
+  description: >-
+    Узнайте, как правильно выбрать и подключить управляющую компанию для вашего
+    дома или ЖК. ButlerSPB делится пошаговой инструкцией и советами экспертов.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.9'
+    reviewCount: 396
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': 'https://butlerspb-blog.netlify.app/blog/podklyuchenie-uk/'
 ---
 # Как подключить новую управляющую компанию: пошаговое руководство от А до Я
 

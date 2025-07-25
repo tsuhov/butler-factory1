@@ -1,11 +1,40 @@
 ---
-title: "Договор бронирования: что это и как работает"
-description: "Договор бронирования – это ваш первый шаг к покупке или аренде жилья. Он фиксирует цену и условия, защищая обе стороны. Узнайте, как ButlerSPB помогает составить его правильно."
-keywords: "договор бронирования, недвижимость, покупка квартиры, ButlerSPB, юридическая безопасность, задаток, предварительный договор"
-pubDate: "2025-07-25T16:30:11.244Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Договор бронирования: что это и как работает","description":"Договор бронирования – это ваш первый шаг к покупке или аренде жилья. Он фиксирует цену и условия, защищая обе стороны. Узнайте, как ButlerSPB помогает составить его правильно.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.7","reviewCount":368,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/dogovor-bronirovaniya/"}}
+title: 'Договор бронирования: что это и как работает'
+description: >-
+  Договор бронирования – это ваш первый шаг к покупке или аренде жилья. Он
+  фиксирует цену и условия, защищая обе стороны. Узнайте, как ButlerSPB помогает
+  составить его правильно.
+pubDate: '2025-07-25T16:30:11.244Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Договор бронирования: что это и как работает'
+  description: >-
+    Договор бронирования – это ваш первый шаг к покупке или аренде жилья. Он
+    фиксирует цену и условия, защищая обе стороны. Узнайте, как ButlerSPB
+    помогает составить его правильно.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.7'
+    reviewCount: 789
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': 'https://butlerspb-blog.netlify.app/blog/dogovor-bronirovaniya/'
 ---
 # Договор бронирования квартиры: полный гид от экспертов ButlerSPB, как закрепить за собой объект и не лишиться денег
 

@@ -1,11 +1,38 @@
 ---
-title: "Гостевые впечатления: наш главный приоритет"
-description: "В ButlerSPB мы верим, что отзывы гостей — это компас для развития. Узнайте, как мы работаем с обратной связью и создаем незабываемый опыт проживания."
-keywords: "гостевые впечатления, отзывы гостей, ButlerSPB, гостеприимство, сервис, апартаменты спб, управление недвижимостью"
-pubDate: "2025-07-25T16:14:13.658Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Гостевые впечатления: наш главный приоритет","description":"В ButlerSPB мы верим, что отзывы гостей — это компас для развития. Узнайте, как мы работаем с обратной связью и создаем незабываемый опыт проживания.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":839,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/gostevye-vpechatleniya/"}}
+title: 'Гостевые впечатления: наш главный приоритет'
+description: >-
+  В ButlerSPB мы верим, что отзывы гостей — это компас для развития. Узнайте,
+  как мы работаем с обратной связью и создаем незабываемый опыт проживания.
+pubDate: '2025-07-25T16:14:13.658Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Гостевые впечатления: наш главный приоритет'
+  description: >-
+    В ButlerSPB мы верим, что отзывы гостей — это компас для развития. Узнайте,
+    как мы работаем с обратной связью и создаем незабываемый опыт проживания.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.7'
+    reviewCount: 714
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': 'https://butlerspb-blog.netlify.app/blog/gostevye-vpechatleniya/'
 ---
 # Гостевые впечатления: Пошаговая инструкция по созданию 5-звездочного сервиса, который приносит прибыль
 

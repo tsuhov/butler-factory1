@@ -1,11 +1,40 @@
 ---
-title: "Самые доходные бизнес-идеи и ниши этого года"
-description: "ButlerSPB представляет подробный анализ самых прибыльных направлений для инвестиций и бизнеса. Узнайте, какие профессии и ниши принесут максимальный доход."
-keywords: "доходный бизнес, прибыльные ниши, высокооплачиваемые профессии, инвестиции, заработок, ButlerSPB, бизнес-идеи"
-pubDate: "2025-07-25T14:57:51.737Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Самые доходные бизнес-идеи и ниши этого года","description":"ButlerSPB представляет подробный анализ самых прибыльных направлений для инвестиций и бизнеса. Узнайте, какие профессии и ниши принесут максимальный доход.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":703,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/samye-dohodnye/"}}
+title: Самые доходные бизнес-идеи и ниши этого года
+description: >-
+  ButlerSPB представляет подробный анализ самых прибыльных направлений для
+  инвестиций и бизнеса. Узнайте, какие профессии и ниши принесут максимальный
+  доход.
+pubDate: '2025-07-25T14:57:51.737Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: Самые доходные бизнес-идеи и ниши этого года
+  description: >-
+    ButlerSPB представляет подробный анализ самых прибыльных направлений для
+    инвестиций и бизнеса. Узнайте, какие профессии и ниши принесут максимальный
+    доход.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.9'
+    reviewCount: 651
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': 'https://butlerspb-blog.netlify.app/blog/samye-dohodnye/'
 ---
 # Топ-15 самых доходных бизнесов в России 2024: от онлайн-услуг до производства
 

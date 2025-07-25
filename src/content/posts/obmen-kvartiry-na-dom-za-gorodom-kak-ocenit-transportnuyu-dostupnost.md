@@ -1,10 +1,47 @@
 ---
-title: "Обмен квартиры на дом за городом: как оценить транспортную доступность"
-description: "Мечтаете сменить городскую суету на спокойствие загородной жизни? Прежде чем совершить обмен, важно правильно оценить транспортную доступность вашего будущего дома. В новой статье блога ButlerSPB мы подробно разбираем ключевые факторы: время в пути до работы, наличие общественного транспорта, качество дорог, пробки и сезонные особенности. Узнайте, как сделать правильный выбор и избежать разочарований, чтобы переезд принес только радость."
-pubDate: "2025-07-23T16:18:17.010Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Обмен квартиры на дом за городом: как оценить транспортную доступность","description":"Мечтаете сменить городскую суету на спокойствие загородной жизни? Прежде чем совершить обмен, важно правильно оценить транспортную доступность вашего будущего дома. В новой статье блога ButlerSPB мы подробно разбираем ключевые факторы: время в пути до работы, наличие общественного транспорта, качество дорог, пробки и сезонные особенности. Узнайте, как сделать правильный выбор и избежать разочарований, чтобы переезд принес только радость.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.8","reviewCount":726,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/obmen-kvartiry-na-dom-za-gorodom-kak-ocenit-transportnuyu-dostupnost/"}}
+title: 'Обмен квартиры на дом за городом: как оценить транспортную доступность'
+description: >-
+  Мечтаете сменить городскую суету на спокойствие загородной жизни? Прежде чем
+  совершить обмен, важно правильно оценить транспортную доступность вашего
+  будущего дома. В новой статье блога ButlerSPB мы подробно разбираем ключевые
+  факторы: время в пути до работы, наличие общественного транспорта, качество
+  дорог, пробки и сезонные особенности. Узнайте, как сделать правильный выбор и
+  избежать разочарований, чтобы переезд принес только радость.
+pubDate: '2025-07-23T16:18:17.010Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Обмен квартиры на дом за городом: как оценить транспортную доступность'
+  description: >-
+    Мечтаете сменить городскую суету на спокойствие загородной жизни? Прежде чем
+    совершить обмен, важно правильно оценить транспортную доступность вашего
+    будущего дома. В новой статье блога ButlerSPB мы подробно разбираем ключевые
+    факторы: время в пути до работы, наличие общественного транспорта, качество
+    дорог, пробки и сезонные особенности. Узнайте, как сделать правильный выбор
+    и избежать разочарований, чтобы переезд принес только радость.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '5.0'
+    reviewCount: 713
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/obmen-kvartiry-na-dom-za-gorodom-kak-ocenit-transportnuyu-dostupnost/
 ---
 
 # Обмен квартиры на дом: Как оценить транспортную доступность и не пожалеть о переезде? Полный чек-лист от ButlerSPB.

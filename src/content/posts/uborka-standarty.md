@@ -1,11 +1,40 @@
 ---
-title: "Профессиональные стандарты уборки от ButlerSPB"
-description: "В ButlerSPB мы придерживаемся строгих стандартов уборки для гарантии идеальной чистоты. Узнайте, какие чек-листы и технологии мы используем для вашего комфорта."
-keywords: "стандарты уборки, профессиональный клининг, чек-лист уборки, качество клининга, ButlerSPB, уборка спб, клининговая компания"
-pubDate: "2025-07-25T15:54:28.319Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Профессиональные стандарты уборки от ButlerSPB","description":"В ButlerSPB мы придерживаемся строгих стандартов уборки для гарантии идеальной чистоты. Узнайте, какие чек-листы и технологии мы используем для вашего комфорта.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":505,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/uborka-standarty/"}}
+title: Профессиональные стандарты уборки от ButlerSPB
+description: >-
+  В ButlerSPB мы придерживаемся строгих стандартов уборки для гарантии идеальной
+  чистоты. Узнайте, какие чек-листы и технологии мы используем для вашего
+  комфорта.
+pubDate: '2025-07-25T15:54:28.319Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: Профессиональные стандарты уборки от ButlerSPB
+  description: >-
+    В ButlerSPB мы придерживаемся строгих стандартов уборки для гарантии
+    идеальной чистоты. Узнайте, какие чек-листы и технологии мы используем для
+    вашего комфорта.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '5.0'
+    reviewCount: 435
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': 'https://butlerspb-blog.netlify.app/blog/uborka-standarty/'
 ---
 # Стандарты уборки 2024: Как в ButlerSPB создают идеальную чистоту (ГОСТ, чек-листы и технологии)
 

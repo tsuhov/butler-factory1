@@ -1,10 +1,51 @@
 ---
-title: "Стоимость услуг риэлтора при покупке квартиры в ипотеку: полный разбор от ButlerSPB"
-description: "Планируете покупку квартиры в ипотеку и задаетесь вопросом о цене услуг риэлтора? В этой статье мы подробно разбираем, из чего складывается стоимость работы агента, какие существуют модели оплаты (фиксированная сумма или процент от сделки), и как профессиональный риэлтор от ButlerSPB помогает не только найти идеальную квартиру, но и сэкономить ваши деньги, время и нервы на всех этапах сложной ипотечной сделки."
-pubDate: "2025-07-23T11:12:11.230Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Стоимость услуг риэлтора при покупке квартиры в ипотеку: полный разбор от ButlerSPB","description":"Планируете покупку квартиры в ипотеку и задаетесь вопросом о цене услуг риэлтора? В этой статье мы подробно разбираем, из чего складывается стоимость работы агента, какие существуют модели оплаты (фиксированная сумма или процент от сделки), и как профессиональный риэлтор от ButlerSPB помогает не только найти идеальную квартиру, но и сэкономить ваши деньги, время и нервы на всех этапах сложной ипотечной сделки.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":393,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/stoimost-uslug-rieltora-pri-pokupke-kvartiry-v-ipoteku/"}}
+title: >-
+  Стоимость услуг риэлтора при покупке квартиры в ипотеку: полный разбор от
+  ButlerSPB
+description: >-
+  Планируете покупку квартиры в ипотеку и задаетесь вопросом о цене услуг
+  риэлтора? В этой статье мы подробно разбираем, из чего складывается стоимость
+  работы агента, какие существуют модели оплаты (фиксированная сумма или процент
+  от сделки), и как профессиональный риэлтор от ButlerSPB помогает не только
+  найти идеальную квартиру, но и сэкономить ваши деньги, время и нервы на всех
+  этапах сложной ипотечной сделки.
+pubDate: '2025-07-23T11:12:11.230Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: >-
+    Стоимость услуг риэлтора при покупке квартиры в ипотеку: полный разбор от
+    ButlerSPB
+  description: >-
+    Планируете покупку квартиры в ипотеку и задаетесь вопросом о цене услуг
+    риэлтора? В этой статье мы подробно разбираем, из чего складывается
+    стоимость работы агента, какие существуют модели оплаты (фиксированная сумма
+    или процент от сделки), и как профессиональный риэлтор от ButlerSPB помогает
+    не только найти идеальную квартиру, но и сэкономить ваши деньги, время и
+    нервы на всех этапах сложной ипотечной сделки.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.8'
+    reviewCount: 544
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/stoimost-uslug-rieltora-pri-pokupke-kvartiry-v-ipoteku/
 ---
 
 # Сколько стоят услуги риэлтора при покупке квартиры в ипотеку: полный гайд по ценам и выгодам

@@ -1,11 +1,40 @@
 ---
-title: "Этапы подготовки объекта к продаже: чек-лист"
-description: "Узнайте, как правильно подготовить квартиру или дом к продаже или аренде. Полный чек-лист от ButlerSPB: от генеральной уборки и мелкого ремонта до хоумстейджинга."
-keywords: "предпродажная подготовка, подготовка к аренде, хоумстейджинг, клининг, мелкий ремонт, ButlerSPB"
-pubDate: "2025-07-25T16:00:54.344Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Этапы подготовки объекта к продаже: чек-лист","description":"Узнайте, как правильно подготовить квартиру или дом к продаже или аренде. Полный чек-лист от ButlerSPB: от генеральной уборки и мелкого ремонта до хоумстейджинга.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.8","reviewCount":730,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/podgotovit-obekt/"}}
+title: 'Этапы подготовки объекта к продаже: чек-лист'
+description: >-
+  Узнайте, как правильно подготовить квартиру или дом к продаже или аренде.
+  Полный чек-лист от ButlerSPB: от генеральной уборки и мелкого ремонта до
+  хоумстейджинга.
+pubDate: '2025-07-25T16:00:54.344Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Этапы подготовки объекта к продаже: чек-лист'
+  description: >-
+    Узнайте, как правильно подготовить квартиру или дом к продаже или аренде.
+    Полный чек-лист от ButlerSPB: от генеральной уборки и мелкого ремонта до
+    хоумстейджинга.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.8'
+    reviewCount: 568
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': 'https://butlerspb-blog.netlify.app/blog/podgotovit-obekt/'
 ---
 # Подготовка объекта к выходу на рынок: Пошаговый план для собственника в Санкт-Петербурге
 

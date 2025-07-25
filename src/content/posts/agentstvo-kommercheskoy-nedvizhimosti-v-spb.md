@@ -1,10 +1,45 @@
 ---
-title: "Как выбрать агентство коммерческой недвижимости в СПБ: гид от ButlerSPB"
-description: "Поиск и выбор коммерческой недвижимости в Санкт-Петербурге — ответственная задача. В нашей новой статье мы разбираем ключевые критерии выбора надежного агентства, рассказываем о подводных камнях рынка и объясняем, почему профессиональный подход ButlerSPB экономит ваше время и деньги при аренде или покупке офиса, склада или торгового помещения."
-pubDate: "2025-07-21T23:15:16.429Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Как выбрать агентство коммерческой недвижимости в СПБ: гид от ButlerSPB","description":"Поиск и выбор коммерческой недвижимости в Санкт-Петербурге — ответственная задача. В нашей новой статье мы разбираем ключевые критерии выбора надежного агентства, рассказываем о подводных камнях рынка и объясняем, почему профессиональный подход ButlerSPB экономит ваше время и деньги при аренде или покупке офиса, склада или торгового помещения.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.7","reviewCount":346,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/agentstvo-kommercheskoy-nedvizhimosti-v-spb/"}}
+title: 'Как выбрать агентство коммерческой недвижимости в СПБ: гид от ButlerSPB'
+description: >-
+  Поиск и выбор коммерческой недвижимости в Санкт-Петербурге — ответственная
+  задача. В нашей новой статье мы разбираем ключевые критерии выбора надежного
+  агентства, рассказываем о подводных камнях рынка и объясняем, почему
+  профессиональный подход ButlerSPB экономит ваше время и деньги при аренде или
+  покупке офиса, склада или торгового помещения.
+pubDate: '2025-07-21T23:15:16.429Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Как выбрать агентство коммерческой недвижимости в СПБ: гид от ButlerSPB'
+  description: >-
+    Поиск и выбор коммерческой недвижимости в Санкт-Петербурге — ответственная
+    задача. В нашей новой статье мы разбираем ключевые критерии выбора надежного
+    агентства, рассказываем о подводных камнях рынка и объясняем, почему
+    профессиональный подход ButlerSPB экономит ваше время и деньги при аренде
+    или покупке офиса, склада или торгового помещения.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '5.0'
+    reviewCount: 413
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/agentstvo-kommercheskoy-nedvizhimosti-v-spb/
 ---
 
 # Агентство коммерческой недвижимости в Санкт-Петербурге: Ваш ключ к успешной сделке

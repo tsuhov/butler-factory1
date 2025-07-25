@@ -1,11 +1,39 @@
 ---
-title: "Таунхаус и дуплекс: ключевые отличия жилья"
-description: "Разбираемся в особенностях загородного жилья. Узнайте, что такое таунхаус и дуплекс, в чем их принципиальные отличия и какой формат подойдет именно вам."
-keywords: "таунхаус, дуплекс, отличие таунхауса от дуплекса, загородная недвижимость, выбор жилья, ButlerSPB"
-pubDate: "2025-07-24T12:11:20.119Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Таунхаус и дуплекс: ключевые отличия жилья","description":"Разбираемся в особенностях загородного жилья. Узнайте, что такое таунхаус и дуплекс, в чем их принципиальные отличия и какой формат подойдет именно вам.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":718,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/chto-takoe-taunhaus-i-chem-on-otlichaetsya-ot-dupleksa/"}}
+title: 'Таунхаус и дуплекс: ключевые отличия жилья'
+description: >-
+  Разбираемся в особенностях загородного жилья. Узнайте, что такое таунхаус и
+  дуплекс, в чем их принципиальные отличия и какой формат подойдет именно вам.
+pubDate: '2025-07-24T12:11:20.119Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Таунхаус и дуплекс: ключевые отличия жилья'
+  description: >-
+    Разбираемся в особенностях загородного жилья. Узнайте, что такое таунхаус и
+    дуплекс, в чем их принципиальные отличия и какой формат подойдет именно вам.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '5.0'
+    reviewCount: 429
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/chto-takoe-taunhaus-i-chem-on-otlichaetsya-ot-dupleksa/
 ---
 # Таунхаус или Дуплекс: Полный гид по выбору вашего идеального дома
 

@@ -1,11 +1,39 @@
 ---
-title: "Локальный консьерж в Петербурге от ButlerSPB"
-description: "Локальный консьерж от ButlerSPB — ваш личный помощник в Петербурге. Он знает город как свои пять пальцев, организует досуг, решит бытовые и бизнес-задачи."
-keywords: "локальный консьерж, консьерж-сервис, ButlerSPB, персональный ассистент, услуги консьержа в СПб, лайфстайл менеджмент"
-pubDate: "2025-07-24T13:40:25.846Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Локальный консьерж в Петербурге от ButlerSPB","description":"Локальный консьерж от ButlerSPB — ваш личный помощник в Петербурге. Он знает город как свои пять пальцев, организует досуг, решит бытовые и бизнес-задачи.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"5.0","reviewCount":471,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/lokalnyy-konserzh/"}}
+title: Локальный консьерж в Петербурге от ButlerSPB
+description: >-
+  Локальный консьерж от ButlerSPB — ваш личный помощник в Петербурге. Он знает
+  город как свои пять пальцев, организует досуг, решит бытовые и бизнес-задачи.
+pubDate: '2025-07-24T13:40:25.846Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: Локальный консьерж в Петербурге от ButlerSPB
+  description: >-
+    Локальный консьерж от ButlerSPB — ваш личный помощник в Петербурге. Он знает
+    город как свои пять пальцев, организует досуг, решит бытовые и
+    бизнес-задачи.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.7'
+    reviewCount: 331
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': 'https://butlerspb-blog.netlify.app/blog/lokalnyy-konserzh/'
 ---
 # Локальный консьерж в Санкт-Петербурге: Больше, чем помощник. Ваш главный инсайдер в городе.
 

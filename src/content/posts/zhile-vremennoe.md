@@ -1,11 +1,40 @@
 ---
-title: "Временное жилье: ваш уютный дом с ButlerSPB"
-description: "Ищете временное жилье? ButlerSPB предлагает полностью оборудованные апартаменты для краткосрочной аренды. Наслаждайтесь домашним уютом и сервисом отеля."
-keywords: "временное жилье, краткосрочная аренда, аренда апартаментов, жилье в спб, снять квартиру посуточно, ButlerSPB"
-pubDate: "2025-07-25T16:28:08.781Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Временное жилье: ваш уютный дом с ButlerSPB","description":"Ищете временное жилье? ButlerSPB предлагает полностью оборудованные апартаменты для краткосрочной аренды. Наслаждайтесь домашним уютом и сервисом отеля.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.8","reviewCount":496,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/zhile-vremennoe/"}}
+title: 'Временное жилье: ваш уютный дом с ButlerSPB'
+description: >-
+  Ищете временное жилье? ButlerSPB предлагает полностью оборудованные
+  апартаменты для краткосрочной аренды. Наслаждайтесь домашним уютом и сервисом
+  отеля.
+pubDate: '2025-07-25T16:28:08.781Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Временное жилье: ваш уютный дом с ButlerSPB'
+  description: >-
+    Ищете временное жилье? ButlerSPB предлагает полностью оборудованные
+    апартаменты для краткосрочной аренды. Наслаждайтесь домашним уютом и
+    сервисом отеля.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.8'
+    reviewCount: 889
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': 'https://butlerspb-blog.netlify.app/blog/zhile-vremennoe/'
 ---
 # Временное жилье в СПб: Как найти идеальный вариант и не ошибиться с выбором?
 

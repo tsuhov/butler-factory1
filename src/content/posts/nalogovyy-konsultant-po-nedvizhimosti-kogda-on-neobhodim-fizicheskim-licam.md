@@ -1,10 +1,45 @@
 ---
-title: "Налоговый консультант по недвижимости: когда он необходим физическим лицам"
-description: "Покупка, продажа, дарение или получение в наследство недвижимости — любая из этих операций связана с налоговыми обязательствами. В новой статье блога ButlerSPB разбираемся, в каких случаях физическому лицу стоит обратиться к налоговому консультанту, чтобы оптимизировать налоги, избежать штрафов и правильно оформить все документы."
-pubDate: "2025-07-22T14:01:48.632Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Налоговый консультант по недвижимости: когда он необходим физическим лицам","description":"Покупка, продажа, дарение или получение в наследство недвижимости — любая из этих операций связана с налоговыми обязательствами. В новой статье блога ButlerSPB разбираемся, в каких случаях физическому лицу стоит обратиться к налоговому консультанту, чтобы оптимизировать налоги, избежать штрафов и правильно оформить все документы.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.8","reviewCount":771,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/nalogovyy-konsultant-po-nedvizhimosti-kogda-on-neobhodim-fizicheskim-licam/"}}
+title: 'Налоговый консультант по недвижимости: когда он необходим физическим лицам'
+description: >-
+  Покупка, продажа, дарение или получение в наследство недвижимости — любая из
+  этих операций связана с налоговыми обязательствами. В новой статье блога
+  ButlerSPB разбираемся, в каких случаях физическому лицу стоит обратиться к
+  налоговому консультанту, чтобы оптимизировать налоги, избежать штрафов и
+  правильно оформить все документы.
+pubDate: '2025-07-22T14:01:48.632Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Налоговый консультант по недвижимости: когда он необходим физическим лицам'
+  description: >-
+    Покупка, продажа, дарение или получение в наследство недвижимости — любая из
+    этих операций связана с налоговыми обязательствами. В новой статье блога
+    ButlerSPB разбираемся, в каких случаях физическому лицу стоит обратиться к
+    налоговому консультанту, чтобы оптимизировать налоги, избежать штрафов и
+    правильно оформить все документы.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.9'
+    reviewCount: 335
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/nalogovyy-konsultant-po-nedvizhimosti-kogda-on-neobhodim-fizicheskim-licam/
 ---
 
 # Налоговый консультант по недвижимости: когда он необходим и как экономит ваши деньги

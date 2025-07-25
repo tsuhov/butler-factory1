@@ -1,11 +1,40 @@
 ---
-title: "Новые стандарты сервиса от компании ButlerSPB"
-description: "В ButlerSPB мы не просто следуем трендам, мы их создаем. Узнайте, как наши инновационные подходы и повышенные требования к качеству формируют новые стандарты."
-keywords: "новые стандарты, ButlerSPB, качество сервиса, инновации, высокий стандарт, улучшение качества"
-pubDate: "2025-07-25T13:43:30.625Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Новые стандарты сервиса от компании ButlerSPB","description":"В ButlerSPB мы не просто следуем трендам, мы их создаем. Узнайте, как наши инновационные подходы и повышенные требования к качеству формируют новые стандарты.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":613,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/novye-standarty/"}}
+title: Новые стандарты сервиса от компании ButlerSPB
+description: >-
+  В ButlerSPB мы не просто следуем трендам, мы их создаем. Узнайте, как наши
+  инновационные подходы и повышенные требования к качеству формируют новые
+  стандарты.
+pubDate: '2025-07-25T13:43:30.625Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: Новые стандарты сервиса от компании ButlerSPB
+  description: >-
+    В ButlerSPB мы не просто следуем трендам, мы их создаем. Узнайте, как наши
+    инновационные подходы и повышенные требования к качеству формируют новые
+    стандарты.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.9'
+    reviewCount: 687
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': 'https://butlerspb-blog.netlify.app/blog/novye-standarty/'
 ---
 # Забудьте всё, что вы знали о чистоте: Новые стандарты в клининге, которые меняют игру
 

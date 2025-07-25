@@ -1,11 +1,40 @@
 ---
-title: "Идеальное оснащение квартиры: чек-лист ButlerSPB"
-description: "Наш подробный чек-лист поможет вам убедиться, что ваша квартира полностью готова к приему гостей. От кухни до ванной – все детали для комфортного проживания."
-keywords: "оснащение квартиры, чек-лист для аренды, подготовка к сдаче, управление недвижимостью, ButlerSPB, квартира посуточно"
-pubDate: "2025-07-25T14:30:29.902Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Идеальное оснащение квартиры: чек-лист ButlerSPB","description":"Наш подробный чек-лист поможет вам убедиться, что ваша квартира полностью готова к приему гостей. От кухни до ванной – все детали для комфортного проживания.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":531,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/chek-list-osnascheniya/"}}
+title: 'Идеальное оснащение квартиры: чек-лист ButlerSPB'
+description: >-
+  Наш подробный чек-лист поможет вам убедиться, что ваша квартира полностью
+  готова к приему гостей. От кухни до ванной – все детали для комфортного
+  проживания.
+pubDate: '2025-07-25T14:30:29.902Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Идеальное оснащение квартиры: чек-лист ButlerSPB'
+  description: >-
+    Наш подробный чек-лист поможет вам убедиться, что ваша квартира полностью
+    готова к приему гостей. От кухни до ванной – все детали для комфортного
+    проживания.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.9'
+    reviewCount: 585
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': 'https://butlerspb-blog.netlify.app/blog/chek-list-osnascheniya/'
 ---
 # Полный чек-лист оснащения квартиры: всё, что нужно для комфортной жизни и выгодной аренды
 

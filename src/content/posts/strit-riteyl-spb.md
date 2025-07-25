@@ -1,11 +1,40 @@
 ---
-title: "Стрит-ритейл СПб: ключевые тренды и локации"
-description: "Команда ButlerSPB исследует рынок стрит-ритейла Санкт-Петербурга. В статье вы найдете анализ популярных локаций, актуальные тренды и прогноз развития сегмента."
-keywords: "стрит-ритейл спб, коммерческая недвижимость, аренда помещений спб, торговые улицы петербурга, анализ рынка, butlerspb"
-pubDate: "2025-07-25T14:35:33.545Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Стрит-ритейл СПб: ключевые тренды и локации","description":"Команда ButlerSPB исследует рынок стрит-ритейла Санкт-Петербурга. В статье вы найдете анализ популярных локаций, актуальные тренды и прогноз развития сегмента.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":577,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/strit-riteyl-spb/"}}
+title: 'Стрит-ритейл СПб: ключевые тренды и локации'
+description: >-
+  Команда ButlerSPB исследует рынок стрит-ритейла Санкт-Петербурга. В статье вы
+  найдете анализ популярных локаций, актуальные тренды и прогноз развития
+  сегмента.
+pubDate: '2025-07-25T14:35:33.545Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Стрит-ритейл СПб: ключевые тренды и локации'
+  description: >-
+    Команда ButlerSPB исследует рынок стрит-ритейла Санкт-Петербурга. В статье
+    вы найдете анализ популярных локаций, актуальные тренды и прогноз развития
+    сегмента.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '5.0'
+    reviewCount: 853
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': 'https://butlerspb-blog.netlify.app/blog/strit-riteyl-spb/'
 ---
 # Стрит-ритейл в Санкт-Петербурге: Где открыть бизнес и куда инвестировать в 2024 году?
 

@@ -1,11 +1,38 @@
 ---
-title: "Батлер-сервис от ButlerSPB: что это такое"
-description: "Современный батлер — это ваш незаменимый помощник, решающий любые задачи. Откройте для себя мир безупречного сервиса и комфорта с компанией ButlerSPB."
-keywords: "батлер услуги, персональный дворецкий, элитный сервис, консьерж-сервис, ButlerSPB, личный помощник"
-pubDate: "2025-07-24T13:06:36.840Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Батлер-сервис от ButlerSPB: что это такое","description":"Современный батлер — это ваш незаменимый помощник, решающий любые задачи. Откройте для себя мир безупречного сервиса и комфорта с компанией ButlerSPB.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.8","reviewCount":511,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/batler-uslugi/"}}
+title: 'Батлер-сервис от ButlerSPB: что это такое'
+description: >-
+  Современный батлер — это ваш незаменимый помощник, решающий любые задачи.
+  Откройте для себя мир безупречного сервиса и комфорта с компанией ButlerSPB.
+pubDate: '2025-07-24T13:06:36.840Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Батлер-сервис от ButlerSPB: что это такое'
+  description: >-
+    Современный батлер — это ваш незаменимый помощник, решающий любые задачи.
+    Откройте для себя мир безупречного сервиса и комфорта с компанией ButlerSPB.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.9'
+    reviewCount: 712
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': 'https://butlerspb-blog.netlify.app/blog/batler-uslugi/'
 ---
 # Услуги батлера: Ваш ключ к безупречному стилю жизни и абсолютному спокойствию
 

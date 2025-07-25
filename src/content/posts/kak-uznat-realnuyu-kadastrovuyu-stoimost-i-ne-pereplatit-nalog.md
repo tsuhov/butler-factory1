@@ -1,10 +1,44 @@
 ---
-title: "Как узнать реальную кадастровую стоимость и не переплатить налог"
-description: "Кадастровая стоимость вашей недвижимости напрямую влияет на размер налога. Часто она бывает завышена. В блоге ButlerSPB разбираемся, где найти актуальную кадастровую стоимость вашего объекта, как проверить ее на справедливость и что делать, если вы с ней не согласны, чтобы законно уменьшить налоговые платежи."
-pubDate: "2025-07-23T11:47:41.233Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Как узнать реальную кадастровую стоимость и не переплатить налог","description":"Кадастровая стоимость вашей недвижимости напрямую влияет на размер налога. Часто она бывает завышена. В блоге ButlerSPB разбираемся, где найти актуальную кадастровую стоимость вашего объекта, как проверить ее на справедливость и что делать, если вы с ней не согласны, чтобы законно уменьшить налоговые платежи.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":579,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/kak-uznat-realnuyu-kadastrovuyu-stoimost-i-ne-pereplatit-nalog/"}}
+title: Как узнать реальную кадастровую стоимость и не переплатить налог
+description: >-
+  Кадастровая стоимость вашей недвижимости напрямую влияет на размер налога.
+  Часто она бывает завышена. В блоге ButlerSPB разбираемся, где найти актуальную
+  кадастровую стоимость вашего объекта, как проверить ее на справедливость и что
+  делать, если вы с ней не согласны, чтобы законно уменьшить налоговые платежи.
+pubDate: '2025-07-23T11:47:41.233Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: Как узнать реальную кадастровую стоимость и не переплатить налог
+  description: >-
+    Кадастровая стоимость вашей недвижимости напрямую влияет на размер налога.
+    Часто она бывает завышена. В блоге ButlerSPB разбираемся, где найти
+    актуальную кадастровую стоимость вашего объекта, как проверить ее на
+    справедливость и что делать, если вы с ней не согласны, чтобы законно
+    уменьшить налоговые платежи.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.8'
+    reviewCount: 864
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/kak-uznat-realnuyu-kadastrovuyu-stoimost-i-ne-pereplatit-nalog/
 ---
 
 # Как узнать реальную кадастровую стоимость и не переплатить налог: полное руководство 2024 от ButlerSPB

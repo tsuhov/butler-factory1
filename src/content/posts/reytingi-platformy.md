@@ -1,11 +1,40 @@
 ---
-title: "Почему рейтинги важны для сервиса ButlerSPB"
-description: "Рейтинги — ключевой показатель качества ButlerSPB. В этой статье мы расскажем, как система оценок помогает нам становиться лучше и гарантировать высокий стандарт услуг."
-keywords: "ButlerSPB, рейтинги платформы, оценка качества, отзывы клиентов, система оценок, улучшение сервиса, сервис спб"
-pubDate: "2025-07-25T15:39:59.808Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Почему рейтинги важны для сервиса ButlerSPB","description":"Рейтинги — ключевой показатель качества ButlerSPB. В этой статье мы расскажем, как система оценок помогает нам становиться лучше и гарантировать высокий стандарт услуг.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":712,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/reytingi-platformy/"}}
+title: Почему рейтинги важны для сервиса ButlerSPB
+description: >-
+  Рейтинги — ключевой показатель качества ButlerSPB. В этой статье мы расскажем,
+  как система оценок помогает нам становиться лучше и гарантировать высокий
+  стандарт услуг.
+pubDate: '2025-07-25T15:39:59.808Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: Почему рейтинги важны для сервиса ButlerSPB
+  description: >-
+    Рейтинги — ключевой показатель качества ButlerSPB. В этой статье мы
+    расскажем, как система оценок помогает нам становиться лучше и гарантировать
+    высокий стандарт услуг.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.8'
+    reviewCount: 602
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': 'https://butlerspb-blog.netlify.app/blog/reytingi-platformy/'
 ---
 # Как рейтинг на Booking, Airbnb и Avito становится вашим главным активом (или пассивом): Полное руководство по управлению репутацией
 

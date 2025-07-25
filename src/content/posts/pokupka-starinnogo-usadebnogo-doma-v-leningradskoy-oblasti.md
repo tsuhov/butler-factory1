@@ -1,10 +1,50 @@
 ---
-title: "Покупка старинной усадьбы в Ленинградской области: от мечты к реальности с ButlerSPB"
-description: "Мечтаете о собственном родовом гнезде под Петербургом? Покупка старинного усадебного дома — это не просто сделка, а прикосновение к истории. Команда ButlerSPB рассказывает о всех подводных камнях: от проверки юридического статуса объекта культурного наследия до оценки стоимости реставрации. Наш гид поможет вам превратить мечту в реальность и избежать дорогостоящих ошибок."
-pubDate: "2025-07-23T12:20:46.181Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Покупка старинной усадьбы в Ленинградской области: от мечты к реальности с ButlerSPB","description":"Мечтаете о собственном родовом гнезде под Петербургом? Покупка старинного усадебного дома — это не просто сделка, а прикосновение к истории. Команда ButlerSPB рассказывает о всех подводных камнях: от проверки юридического статуса объекта культурного наследия до оценки стоимости реставрации. Наш гид поможет вам превратить мечту в реальность и избежать дорогостоящих ошибок.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"5.0","reviewCount":815,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/pokupka-starinnogo-usadebnogo-doma-v-leningradskoy-oblasti/"}}
+title: >-
+  Покупка старинной усадьбы в Ленинградской области: от мечты к реальности с
+  ButlerSPB
+description: >-
+  Мечтаете о собственном родовом гнезде под Петербургом? Покупка старинного
+  усадебного дома — это не просто сделка, а прикосновение к истории. Команда
+  ButlerSPB рассказывает о всех подводных камнях: от проверки юридического
+  статуса объекта культурного наследия до оценки стоимости реставрации. Наш гид
+  поможет вам превратить мечту в реальность и избежать дорогостоящих ошибок.
+pubDate: '2025-07-23T12:20:46.181Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: >-
+    Покупка старинной усадьбы в Ленинградской области: от мечты к реальности с
+    ButlerSPB
+  description: >-
+    Мечтаете о собственном родовом гнезде под Петербургом? Покупка старинного
+    усадебного дома — это не просто сделка, а прикосновение к истории. Команда
+    ButlerSPB рассказывает о всех подводных камнях: от проверки юридического
+    статуса объекта культурного наследия до оценки стоимости реставрации. Наш
+    гид поможет вам превратить мечту в реальность и избежать дорогостоящих
+    ошибок.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.8'
+    reviewCount: 351
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/pokupka-starinnogo-usadebnogo-doma-v-leningradskoy-oblasti/
 ---
 
 # Как купить старинную усадьбу в Ленинградской области: Полное руководство для инвестора и ценителя

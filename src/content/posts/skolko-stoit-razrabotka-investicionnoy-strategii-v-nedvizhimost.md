@@ -1,11 +1,40 @@
 ---
-title: "Стоимость разработки инвестстратегии в СПб"
-description: "Разбираемся, сколько стоит разработка инвестиционной стратегии в недвижимость. Факторы, влияющие на итоговую цену услуги, и что вы получаете от ButlerSPB."
-keywords: "инвестиции в недвижимость, инвестиционная стратегия, стоимость разработки стратегии, недвижимость СПб, ButlerSPB, анализ рынка, финансовый консалтинг"
-pubDate: "2025-07-24T12:11:41.698Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Стоимость разработки инвестстратегии в СПб","description":"Разбираемся, сколько стоит разработка инвестиционной стратегии в недвижимость. Факторы, влияющие на итоговую цену услуги, и что вы получаете от ButlerSPB.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"5.0","reviewCount":688,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/skolko-stoit-razrabotka-investicionnoy-strategii-v-nedvizhimost/"}}
+title: Стоимость разработки инвестстратегии в СПб
+description: >-
+  Разбираемся, сколько стоит разработка инвестиционной стратегии в недвижимость.
+  Факторы, влияющие на итоговую цену услуги, и что вы получаете от ButlerSPB.
+pubDate: '2025-07-24T12:11:41.698Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: Стоимость разработки инвестстратегии в СПб
+  description: >-
+    Разбираемся, сколько стоит разработка инвестиционной стратегии в
+    недвижимость. Факторы, влияющие на итоговую цену услуги, и что вы получаете
+    от ButlerSPB.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.8'
+    reviewCount: 414
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/skolko-stoit-razrabotka-investicionnoy-strategii-v-nedvizhimost/
 ---
 # Сколько стоит разработка инвестиционной стратегии в недвижимость: Полный разбор цен и факторов от экспертов ButlerSPB
 

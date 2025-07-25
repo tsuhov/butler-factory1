@@ -1,10 +1,51 @@
 ---
-title: "Гид по процессу передачи квартиры в управление: подробная инструкция от ButlerSPB"
-description: "Хотите получать пассивный доход от своей недвижимости, не тратя время на поиск арендаторов и решение бытовых вопросов? Передача квартиры в доверительное управление — идеальное решение. В этой статье мы, команда ButlerSPB, подробно расскажем о каждом шаге: от подготовки документов и оценки объекта до заключения договора и начала работы. Узнайте, как сделать процесс максимально простым, прозрачным и выгодным для вас."
-pubDate: "2025-07-22T13:44:57.234Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Гид по процессу передачи квартиры в управление: подробная инструкция от ButlerSPB","description":"Хотите получать пассивный доход от своей недвижимости, не тратя время на поиск арендаторов и решение бытовых вопросов? Передача квартиры в доверительное управление — идеальное решение. В этой статье мы, команда ButlerSPB, подробно расскажем о каждом шаге: от подготовки документов и оценки объекта до заключения договора и начала работы. Узнайте, как сделать процесс максимально простым, прозрачным и выгодным для вас.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.8","reviewCount":706,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/gid-po-processu-peredachi-kvartiry-v-upravlenie/"}}
+title: >-
+  Гид по процессу передачи квартиры в управление: подробная инструкция от
+  ButlerSPB
+description: >-
+  Хотите получать пассивный доход от своей недвижимости, не тратя время на поиск
+  арендаторов и решение бытовых вопросов? Передача квартиры в доверительное
+  управление — идеальное решение. В этой статье мы, команда ButlerSPB, подробно
+  расскажем о каждом шаге: от подготовки документов и оценки объекта до
+  заключения договора и начала работы. Узнайте, как сделать процесс максимально
+  простым, прозрачным и выгодным для вас.
+pubDate: '2025-07-22T13:44:57.234Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: >-
+    Гид по процессу передачи квартиры в управление: подробная инструкция от
+    ButlerSPB
+  description: >-
+    Хотите получать пассивный доход от своей недвижимости, не тратя время на
+    поиск арендаторов и решение бытовых вопросов? Передача квартиры в
+    доверительное управление — идеальное решение. В этой статье мы, команда
+    ButlerSPB, подробно расскажем о каждом шаге: от подготовки документов и
+    оценки объекта до заключения договора и начала работы. Узнайте, как сделать
+    процесс максимально простым, прозрачным и выгодным для вас.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '5.0'
+    reviewCount: 692
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/gid-po-processu-peredachi-kvartiry-v-upravlenie/
 ---
 
 # Как передать квартиру в управление: пошаговый гид для собственника

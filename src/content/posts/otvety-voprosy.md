@@ -1,11 +1,40 @@
 ---
-title: "ButlerSPB: Ответы на самые частые вопросы"
-description: "Команда ButlerSPB собрала самые частые вопросы клиентов и дала на них исчерпывающие ответы. Узнайте всё об услугах, ценах и гарантиях нашего сервиса."
-keywords: "ButlerSPB, ответы на вопросы, FAQ, частые вопросы, поддержка клиентов, сервис ButlerSPB, как это работает"
-pubDate: "2025-07-25T16:04:03.467Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"ButlerSPB: Ответы на самые частые вопросы","description":"Команда ButlerSPB собрала самые частые вопросы клиентов и дала на них исчерпывающие ответы. Узнайте всё об услугах, ценах и гарантиях нашего сервиса.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.8","reviewCount":496,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/otvety-voprosy/"}}
+title: 'ButlerSPB: Ответы на самые частые вопросы'
+description: >-
+  Команда ButlerSPB собрала самые частые вопросы клиентов и дала на них
+  исчерпывающие ответы. Узнайте всё об услугах, ценах и гарантиях нашего
+  сервиса.
+pubDate: '2025-07-25T16:04:03.467Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'ButlerSPB: Ответы на самые частые вопросы'
+  description: >-
+    Команда ButlerSPB собрала самые частые вопросы клиентов и дала на них
+    исчерпывающие ответы. Узнайте всё об услугах, ценах и гарантиях нашего
+    сервиса.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.9'
+    reviewCount: 857
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': 'https://butlerspb-blog.netlify.app/blog/otvety-voprosy/'
 ---
 # Все, что вы хотели знать о профессиональной уборке: ButlerSPB отвечает на главные вопросы
 

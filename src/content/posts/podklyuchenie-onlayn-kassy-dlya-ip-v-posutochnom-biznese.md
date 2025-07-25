@@ -1,10 +1,49 @@
 ---
-title: "Подключение онлайн-кассы для ИП в посуточном бизнесе: пошаговая инструкция от ButlerSPB"
-description: "Разбираемся в требованиях 54-ФЗ для арендодателей. В этой статье мы подробно расскажем, как индивидуальному предпринимателю, сдающему жилье посуточно, выбрать, зарегистрировать и подключить онлайн-кассу. Пошаговый гайд от выбора модели до заключения договора с ОФД, который поможет избежать штрафов и легализовать ваш арендный бизнес."
-pubDate: "2025-07-22T10:59:49.696Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Подключение онлайн-кассы для ИП в посуточном бизнесе: пошаговая инструкция от ButlerSPB","description":"Разбираемся в требованиях 54-ФЗ для арендодателей. В этой статье мы подробно расскажем, как индивидуальному предпринимателю, сдающему жилье посуточно, выбрать, зарегистрировать и подключить онлайн-кассу. Пошаговый гайд от выбора модели до заключения договора с ОФД, который поможет избежать штрафов и легализовать ваш арендный бизнес.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.8","reviewCount":725,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/podklyuchenie-onlayn-kassy-dlya-ip-v-posutochnom-biznese/"}}
+title: >-
+  Подключение онлайн-кассы для ИП в посуточном бизнесе: пошаговая инструкция от
+  ButlerSPB
+description: >-
+  Разбираемся в требованиях 54-ФЗ для арендодателей. В этой статье мы подробно
+  расскажем, как индивидуальному предпринимателю, сдающему жилье посуточно,
+  выбрать, зарегистрировать и подключить онлайн-кассу. Пошаговый гайд от выбора
+  модели до заключения договора с ОФД, который поможет избежать штрафов и
+  легализовать ваш арендный бизнес.
+pubDate: '2025-07-22T10:59:49.696Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: >-
+    Подключение онлайн-кассы для ИП в посуточном бизнесе: пошаговая инструкция
+    от ButlerSPB
+  description: >-
+    Разбираемся в требованиях 54-ФЗ для арендодателей. В этой статье мы подробно
+    расскажем, как индивидуальному предпринимателю, сдающему жилье посуточно,
+    выбрать, зарегистрировать и подключить онлайн-кассу. Пошаговый гайд от
+    выбора модели до заключения договора с ОФД, который поможет избежать штрафов
+    и легализовать ваш арендный бизнес.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.8'
+    reviewCount: 445
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/podklyuchenie-onlayn-kassy-dlya-ip-v-posutochnom-biznese/
 ---
 
 # Онлайн-касса для ИП в посуточном бизнесе: пошаговая инструкция 2024 от ButlerSPB

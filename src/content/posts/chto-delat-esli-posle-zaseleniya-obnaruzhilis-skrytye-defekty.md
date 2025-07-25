@@ -1,10 +1,51 @@
 ---
-title: "Сюрпризы после новоселья: что делать, если в квартире обнаружились скрытые дефекты"
-description: "Вы приняли квартиру, подписали акт, а через месяц заметили плесень под обоями и трещины на стенах? Это скрытые дефекты. В новой статье блога ButlerSPB мы подробно рассказываем, какие дефекты считаются скрытыми, как их правильно зафиксировать, кому и в какие сроки предъявлять претензию, и как заставить застройщика всё исправить за свой счет. Пошаговая инструкция для защиты ваших прав и денег."
-pubDate: "2025-07-22T11:42:38.882Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Сюрпризы после новоселья: что делать, если в квартире обнаружились скрытые дефекты","description":"Вы приняли квартиру, подписали акт, а через месяц заметили плесень под обоями и трещины на стенах? Это скрытые дефекты. В новой статье блога ButlerSPB мы подробно рассказываем, какие дефекты считаются скрытыми, как их правильно зафиксировать, кому и в какие сроки предъявлять претензию, и как заставить застройщика всё исправить за свой счет. Пошаговая инструкция для защиты ваших прав и денег.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":332,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/chto-delat-esli-posle-zaseleniya-obnaruzhilis-skrytye-defekty/"}}
+title: >-
+  Сюрпризы после новоселья: что делать, если в квартире обнаружились скрытые
+  дефекты
+description: >-
+  Вы приняли квартиру, подписали акт, а через месяц заметили плесень под обоями
+  и трещины на стенах? Это скрытые дефекты. В новой статье блога ButlerSPB мы
+  подробно рассказываем, какие дефекты считаются скрытыми, как их правильно
+  зафиксировать, кому и в какие сроки предъявлять претензию, и как заставить
+  застройщика всё исправить за свой счет. Пошаговая инструкция для защиты ваших
+  прав и денег.
+pubDate: '2025-07-22T11:42:38.882Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: >-
+    Сюрпризы после новоселья: что делать, если в квартире обнаружились скрытые
+    дефекты
+  description: >-
+    Вы приняли квартиру, подписали акт, а через месяц заметили плесень под
+    обоями и трещины на стенах? Это скрытые дефекты. В новой статье блога
+    ButlerSPB мы подробно рассказываем, какие дефекты считаются скрытыми, как их
+    правильно зафиксировать, кому и в какие сроки предъявлять претензию, и как
+    заставить застройщика всё исправить за свой счет. Пошаговая инструкция для
+    защиты ваших прав и денег.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '5.0'
+    reviewCount: 486
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/chto-delat-esli-posle-zaseleniya-obnaruzhilis-skrytye-defekty/
 ---
 
 # Обнаружили скрытые дефекты в квартире после покупки: кто виноват и что делать? Полное руководство от ButlerSPB

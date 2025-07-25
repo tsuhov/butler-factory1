@@ -1,11 +1,40 @@
 ---
-title: "Загородный сектор: тренды и перспективы рынка"
-description: "Спрос на загородные дома стабильно растет. Эксперты ButlerSPB анализируют ключевые тренды, дают советы по выбору идеального участка и дома для жизни и отдыха."
-keywords: "загородная недвижимость, купить дом, дом в ленобласти, тренды рынка недвижимости, ButlerSPB, инвестиции"
-pubDate: "2025-07-25T15:42:24.324Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Загородный сектор: тренды и перспективы рынка","description":"Спрос на загородные дома стабильно растет. Эксперты ButlerSPB анализируют ключевые тренды, дают советы по выбору идеального участка и дома для жизни и отдыха.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":842,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/zagorodnyy-sektor/"}}
+title: 'Загородный сектор: тренды и перспективы рынка'
+description: >-
+  Спрос на загородные дома стабильно растет. Эксперты ButlerSPB анализируют
+  ключевые тренды, дают советы по выбору идеального участка и дома для жизни и
+  отдыха.
+pubDate: '2025-07-25T15:42:24.324Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Загородный сектор: тренды и перспективы рынка'
+  description: >-
+    Спрос на загородные дома стабильно растет. Эксперты ButlerSPB анализируют
+    ключевые тренды, дают советы по выбору идеального участка и дома для жизни и
+    отдыха.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.8'
+    reviewCount: 540
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': 'https://butlerspb-blog.netlify.app/blog/zagorodnyy-sektor/'
 ---
 # Загородный сектор Ленобласти: полный гид 2024 от экспертов ButlerSPB
 

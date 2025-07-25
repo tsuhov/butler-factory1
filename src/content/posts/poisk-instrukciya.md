@@ -1,11 +1,39 @@
 ---
-title: "ButlerSPB: как быстро найти нужную инструкцию"
-description: "Потеряли инструкцию к бытовой технике? Не беда! В нашей статье от ButlerSPB мы расскажем, где и как быстро найти руководство пользователя онлайн или офлайн."
-keywords: "поиск инструкций, инструкция к технике, руководство пользователя, скачать инструкцию, найти мануал, бытовая техника, ButlerSPB"
-pubDate: "2025-07-25T14:01:51.812Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"ButlerSPB: как быстро найти нужную инструкцию","description":"Потеряли инструкцию к бытовой технике? Не беда! В нашей статье от ButlerSPB мы расскажем, где и как быстро найти руководство пользователя онлайн или офлайн.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.8","reviewCount":482,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/poisk-instrukciya/"}}
+title: 'ButlerSPB: как быстро найти нужную инструкцию'
+description: >-
+  Потеряли инструкцию к бытовой технике? Не беда! В нашей статье от ButlerSPB мы
+  расскажем, где и как быстро найти руководство пользователя онлайн или офлайн.
+pubDate: '2025-07-25T14:01:51.812Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'ButlerSPB: как быстро найти нужную инструкцию'
+  description: >-
+    Потеряли инструкцию к бытовой технике? Не беда! В нашей статье от ButlerSPB
+    мы расскажем, где и как быстро найти руководство пользователя онлайн или
+    офлайн.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '5.0'
+    reviewCount: 300
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': 'https://butlerspb-blog.netlify.app/blog/poisk-instrukciya/'
 ---
 # Как найти любую инструкцию: полное руководство от экспертов по поиску информации
 

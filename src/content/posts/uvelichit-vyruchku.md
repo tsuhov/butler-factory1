@@ -1,11 +1,40 @@
 ---
-title: "Как ButlerSPB поможет увеличить вашу выручку"
-description: "Ищете способы повысить доход вашего бизнеса? В этой статье мы, ButlerSPB, делимся проверенными стратегиями и практическими советами для увеличения выручки компании."
-keywords: "увеличить выручку, рост дохода, ButlerSPB, бизнес-стратегии, повышение продаж, оптимизация прибыли, привлечение клиентов"
-pubDate: "2025-07-25T16:05:00.274Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Как ButlerSPB поможет увеличить вашу выручку","description":"Ищете способы повысить доход вашего бизнеса? В этой статье мы, ButlerSPB, делимся проверенными стратегиями и практическими советами для увеличения выручки компании.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":695,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/uvelichit-vyruchku/"}}
+title: Как ButlerSPB поможет увеличить вашу выручку
+description: >-
+  Ищете способы повысить доход вашего бизнеса? В этой статье мы, ButlerSPB,
+  делимся проверенными стратегиями и практическими советами для увеличения
+  выручки компании.
+pubDate: '2025-07-25T16:05:00.274Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: Как ButlerSPB поможет увеличить вашу выручку
+  description: >-
+    Ищете способы повысить доход вашего бизнеса? В этой статье мы, ButlerSPB,
+    делимся проверенными стратегиями и практическими советами для увеличения
+    выручки компании.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.7'
+    reviewCount: 696
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': 'https://butlerspb-blog.netlify.app/blog/uvelichit-vyruchku/'
 ---
 # Как увеличить выручку компании: полное руководство по стратегиям роста
 

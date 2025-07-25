@@ -1,11 +1,40 @@
 ---
-title: "Раздел имущества: мирно и по закону с ButlerSPB"
-description: "Узнайте, как правильно разделить недвижимость при разводе или наследовании. ButlerSPB поможет оформить все документы, избежать судебных тяжб и защитить ваши права."
-keywords: "раздел недвижимости, раздел имущества, butler spb, соглашение о разделе, раздел дома, юрист по недвижимости, недвижимость спб"
-pubDate: "2025-07-25T16:35:59.573Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Раздел имущества: мирно и по закону с ButlerSPB","description":"Узнайте, как правильно разделить недвижимость при разводе или наследовании. ButlerSPB поможет оформить все документы, избежать судебных тяжб и защитить ваши права.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.8","reviewCount":667,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/razdel-nedvizhimosti/"}}
+title: 'Раздел имущества: мирно и по закону с ButlerSPB'
+description: >-
+  Узнайте, как правильно разделить недвижимость при разводе или наследовании.
+  ButlerSPB поможет оформить все документы, избежать судебных тяжб и защитить
+  ваши права.
+pubDate: '2025-07-25T16:35:59.573Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Раздел имущества: мирно и по закону с ButlerSPB'
+  description: >-
+    Узнайте, как правильно разделить недвижимость при разводе или наследовании.
+    ButlerSPB поможет оформить все документы, избежать судебных тяжб и защитить
+    ваши права.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '5.0'
+    reviewCount: 367
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': 'https://butlerspb-blog.netlify.app/blog/razdel-nedvizhimosti/'
 ---
 # Раздел недвижимости при разводе и не только: от мирного соглашения до суда. Инструкция от ButlerSPB
 

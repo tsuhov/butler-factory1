@@ -1,10 +1,49 @@
 ---
-title: "Как договориться о скидках: создаем партнерскую программу с лучшими заведениями Петербурга"
-description: "Хотите предложить своим клиентам эксклюзивные скидки в лучшие рестораны, спа и театры Петербурга? В новой статье блога ButlerSPB мы делимся пошаговой инструкцией, как находить потенциальных партнеров, готовиться к переговорам и заключать взаимовыгодные соглашения. Узнайте, как создать ценность для заведения и для вашего бизнеса."
-pubDate: "2025-07-22T11:01:51.402Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Как договориться о скидках: создаем партнерскую программу с лучшими заведениями Петербурга","description":"Хотите предложить своим клиентам эксклюзивные скидки в лучшие рестораны, спа и театры Петербурга? В новой статье блога ButlerSPB мы делимся пошаговой инструкцией, как находить потенциальных партнеров, готовиться к переговорам и заключать взаимовыгодные соглашения. Узнайте, как создать ценность для заведения и для вашего бизнеса.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.7","reviewCount":621,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/partnerskie-programmy-so-skidkami-v-mestnye-zavedeniya-kak-dogovoritsya/"}}
+title: >-
+  Как договориться о скидках: создаем партнерскую программу с лучшими
+  заведениями Петербурга
+description: >-
+  Хотите предложить своим клиентам эксклюзивные скидки в лучшие рестораны, спа и
+  театры Петербурга? В новой статье блога ButlerSPB мы делимся пошаговой
+  инструкцией, как находить потенциальных партнеров, готовиться к переговорам и
+  заключать взаимовыгодные соглашения. Узнайте, как создать ценность для
+  заведения и для вашего бизнеса.
+pubDate: '2025-07-22T11:01:51.402Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: >-
+    Как договориться о скидках: создаем партнерскую программу с лучшими
+    заведениями Петербурга
+  description: >-
+    Хотите предложить своим клиентам эксклюзивные скидки в лучшие рестораны, спа
+    и театры Петербурга? В новой статье блога ButlerSPB мы делимся пошаговой
+    инструкцией, как находить потенциальных партнеров, готовиться к переговорам
+    и заключать взаимовыгодные соглашения. Узнайте, как создать ценность для
+    заведения и для вашего бизнеса.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '5.0'
+    reviewCount: 677
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/partnerskie-programmy-so-skidkami-v-mestnye-zavedeniya-kak-dogovoritsya/
 ---
 
 # Как создать партнерскую программу со скидками в местные заведения: пошаговое руководство от ButlerSPB

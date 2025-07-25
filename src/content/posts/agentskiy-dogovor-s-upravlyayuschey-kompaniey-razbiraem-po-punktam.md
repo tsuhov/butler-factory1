@@ -1,10 +1,45 @@
 ---
-title: "Агентский договор с управляющей компанией: разбираем по пунктам"
-description: "Планируете сдать квартиру в управление? Агентский договор — ваш главный документ, защищающий интересы собственника. В новой статье блога ButlerSPB мы подробно разбираем каждый пункт: от прав и обязанностей сторон до размера вознаграждения и условий расторжения. Узнайте, на что обратить внимание, чтобы сотрудничество с управляющей компанией было выгодным и безопасным."
-pubDate: "2025-07-22T13:51:45.162Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Агентский договор с управляющей компанией: разбираем по пунктам","description":"Планируете сдать квартиру в управление? Агентский договор — ваш главный документ, защищающий интересы собственника. В новой статье блога ButlerSPB мы подробно разбираем каждый пункт: от прав и обязанностей сторон до размера вознаграждения и условий расторжения. Узнайте, на что обратить внимание, чтобы сотрудничество с управляющей компанией было выгодным и безопасным.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":831,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/agentskiy-dogovor-s-upravlyayuschey-kompaniey-razbiraem-po-punktam/"}}
+title: 'Агентский договор с управляющей компанией: разбираем по пунктам'
+description: >-
+  Планируете сдать квартиру в управление? Агентский договор — ваш главный
+  документ, защищающий интересы собственника. В новой статье блога ButlerSPB мы
+  подробно разбираем каждый пункт: от прав и обязанностей сторон до размера
+  вознаграждения и условий расторжения. Узнайте, на что обратить внимание, чтобы
+  сотрудничество с управляющей компанией было выгодным и безопасным.
+pubDate: '2025-07-22T13:51:45.162Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Агентский договор с управляющей компанией: разбираем по пунктам'
+  description: >-
+    Планируете сдать квартиру в управление? Агентский договор — ваш главный
+    документ, защищающий интересы собственника. В новой статье блога ButlerSPB
+    мы подробно разбираем каждый пункт: от прав и обязанностей сторон до размера
+    вознаграждения и условий расторжения. Узнайте, на что обратить внимание,
+    чтобы сотрудничество с управляющей компанией было выгодным и безопасным.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.9'
+    reviewCount: 823
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/agentskiy-dogovor-s-upravlyayuschey-kompaniey-razbiraem-po-punktam/
 ---
 
 # Агентский договор с управляющейющей компанией: разбираем по пунктам и защищаем ваши интересы

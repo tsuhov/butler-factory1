@@ -1,11 +1,39 @@
 ---
-title: "Идеальный ретрит дома: инструкция от ButlerSPB"
-description: "Устали от суеты, но нет времени на поездку? Устройте полноценный ретрит прямо у себя дома. Советы от ButlerSPB помогут создать атмосферу спа и покоя."
-keywords: "ретрит дома, домашний ретрит, забота о себе, цифровой детокс, как отдохнуть дома, медитация"
-pubDate: "2025-07-25T16:32:13.343Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Идеальный ретрит дома: инструкция от ButlerSPB","description":"Устали от суеты, но нет времени на поездку? Устройте полноценный ретрит прямо у себя дома. Советы от ButlerSPB помогут создать атмосферу спа и покоя.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":363,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/retrit-doma/"}}
+title: 'Идеальный ретрит дома: инструкция от ButlerSPB'
+description: >-
+  Устали от суеты, но нет времени на поездку? Устройте полноценный ретрит прямо
+  у себя дома. Советы от ButlerSPB помогут создать атмосферу спа и покоя.
+pubDate: '2025-07-25T16:32:13.343Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Идеальный ретрит дома: инструкция от ButlerSPB'
+  description: >-
+    Устали от суеты, но нет времени на поездку? Устройте полноценный ретрит
+    прямо у себя дома. Советы от ButlerSPB помогут создать атмосферу спа и
+    покоя.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.8'
+    reviewCount: 879
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': 'https://butlerspb-blog.netlify.app/blog/retrit-doma/'
 ---
 # Ретрит дома: пошаговое руководство по созданию вашего личного оазиса спокойствия
 

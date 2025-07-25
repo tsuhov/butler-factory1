@@ -1,10 +1,49 @@
 ---
-title: "Доверительное управление загородной недвижимостью: как получать доход от дачи без хлопот?"
-description: "Владеете загородным домом, но живете далеко или не имеете времени им заниматься? Узнайте, что такое доверительное управление от ButlerSPB. В статье мы подробно разбираем, как передать все заботы по поиску арендаторов, обслуживанию и контролю за состоянием вашей недвижимости профессионалам и превратить ее в стабильный источник пассивного дохода."
-pubDate: "2025-07-21T23:48:46.041Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Доверительное управление загородной недвижимостью: как получать доход от дачи без хлопот?","description":"Владеете загородным домом, но живете далеко или не имеете времени им заниматься? Узнайте, что такое доверительное управление от ButlerSPB. В статье мы подробно разбираем, как передать все заботы по поиску арендаторов, обслуживанию и контролю за состоянием вашей недвижимости профессионалам и превратить ее в стабильный источник пассивного дохода.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":496,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/chto-takoe-doveritelnoe-upravlenie-zagorodnoy-nedvizhimostyu/"}}
+title: >-
+  Доверительное управление загородной недвижимостью: как получать доход от дачи
+  без хлопот?
+description: >-
+  Владеете загородным домом, но живете далеко или не имеете времени им
+  заниматься? Узнайте, что такое доверительное управление от ButlerSPB. В статье
+  мы подробно разбираем, как передать все заботы по поиску арендаторов,
+  обслуживанию и контролю за состоянием вашей недвижимости профессионалам и
+  превратить ее в стабильный источник пассивного дохода.
+pubDate: '2025-07-21T23:48:46.041Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: >-
+    Доверительное управление загородной недвижимостью: как получать доход от
+    дачи без хлопот?
+  description: >-
+    Владеете загородным домом, но живете далеко или не имеете времени им
+    заниматься? Узнайте, что такое доверительное управление от ButlerSPB. В
+    статье мы подробно разбираем, как передать все заботы по поиску арендаторов,
+    обслуживанию и контролю за состоянием вашей недвижимости профессионалам и
+    превратить ее в стабильный источник пассивного дохода.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.9'
+    reviewCount: 317
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/chto-takoe-doveritelnoe-upravlenie-zagorodnoy-nedvizhimostyu/
 ---
 
 # Доверительное управление загородным домом: Как превратить актив в источник дохода без лишних забот (Гайд от ButlerSPB)

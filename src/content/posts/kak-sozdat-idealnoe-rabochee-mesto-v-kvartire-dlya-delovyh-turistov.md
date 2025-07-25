@@ -1,10 +1,51 @@
 ---
-title: "Work & Travel: Как создать идеальное рабочее место в апартаментах для деловых туристов"
-description: "Для современного бизнес-туриста квартира — это не только место для отдыха, но и полноценный офис. В новой статье блога ButlerSPB мы делимся практическими советами, как организовать в апартаментах эргономичное и функциональное рабочее пространство, которое поможет оставаться продуктивным вдали от дома. Рассказываем о важности правильного освещения, стабильного Wi-Fi, удобной мебели и создания рабочей атмосферы."
-pubDate: "2025-07-22T10:59:24.412Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Work & Travel: Как создать идеальное рабочее место в апартаментах для деловых туристов","description":"Для современного бизнес-туриста квартира — это не только место для отдыха, но и полноценный офис. В новой статье блога ButlerSPB мы делимся практическими советами, как организовать в апартаментах эргономичное и функциональное рабочее пространство, которое поможет оставаться продуктивным вдали от дома. Рассказываем о важности правильного освещения, стабильного Wi-Fi, удобной мебели и создания рабочей атмосферы.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.7","reviewCount":475,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/kak-sozdat-idealnoe-rabochee-mesto-v-kvartire-dlya-delovyh-turistov/"}}
+title: >-
+  Work & Travel: Как создать идеальное рабочее место в апартаментах для деловых
+  туристов
+description: >-
+  Для современного бизнес-туриста квартира — это не только место для отдыха, но
+  и полноценный офис. В новой статье блога ButlerSPB мы делимся практическими
+  советами, как организовать в апартаментах эргономичное и функциональное
+  рабочее пространство, которое поможет оставаться продуктивным вдали от дома.
+  Рассказываем о важности правильного освещения, стабильного Wi-Fi, удобной
+  мебели и создания рабочей атмосферы.
+pubDate: '2025-07-22T10:59:24.412Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: >-
+    Work & Travel: Как создать идеальное рабочее место в апартаментах для
+    деловых туристов
+  description: >-
+    Для современного бизнес-туриста квартира — это не только место для отдыха,
+    но и полноценный офис. В новой статье блога ButlerSPB мы делимся
+    практическими советами, как организовать в апартаментах эргономичное и
+    функциональное рабочее пространство, которое поможет оставаться продуктивным
+    вдали от дома. Рассказываем о важности правильного освещения, стабильного
+    Wi-Fi, удобной мебели и создания рабочей атмосферы.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.9'
+    reviewCount: 766
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/kak-sozdat-idealnoe-rabochee-mesto-v-kvartire-dlya-delovyh-turistov/
 ---
 
 # Идеальное рабочее место в квартире: Полный гайд для делового туриста от ButlerSPB

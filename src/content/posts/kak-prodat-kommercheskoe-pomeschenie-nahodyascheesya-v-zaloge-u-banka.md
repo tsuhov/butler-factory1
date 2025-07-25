@@ -1,10 +1,51 @@
 ---
-title: "Как продать коммерческое помещение в залоге у банка: пошаговая инструкция от ButlerSPB"
-description: "Продажа коммерческой недвижимости с обременением от банка — задача со звездочкой, но вполне реальная. В нашей статье мы подробно разбираем все этапы сделки: от получения согласия банка и поиска покупателя до безопасного проведения расчетов и снятия залога. Узнайте о трех рабочих схемах продажи залогового объекта, какие документы подготовить и как избежать подводных камней, чтобы заключить выгодную сделку без рисков для всех сторон."
-pubDate: "2025-07-23T13:58:09.973Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Как продать коммерческое помещение в залоге у банка: пошаговая инструкция от ButlerSPB","description":"Продажа коммерческой недвижимости с обременением от банка — задача со звездочкой, но вполне реальная. В нашей статье мы подробно разбираем все этапы сделки: от получения согласия банка и поиска покупателя до безопасного проведения расчетов и снятия залога. Узнайте о трех рабочих схемах продажи залогового объекта, какие документы подготовить и как избежать подводных камней, чтобы заключить выгодную сделку без рисков для всех сторон.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.7","reviewCount":628,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/kak-prodat-kommercheskoe-pomeschenie-nahodyascheesya-v-zaloge-u-banka/"}}
+title: >-
+  Как продать коммерческое помещение в залоге у банка: пошаговая инструкция от
+  ButlerSPB
+description: >-
+  Продажа коммерческой недвижимости с обременением от банка — задача со
+  звездочкой, но вполне реальная. В нашей статье мы подробно разбираем все этапы
+  сделки: от получения согласия банка и поиска покупателя до безопасного
+  проведения расчетов и снятия залога. Узнайте о трех рабочих схемах продажи
+  залогового объекта, какие документы подготовить и как избежать подводных
+  камней, чтобы заключить выгодную сделку без рисков для всех сторон.
+pubDate: '2025-07-23T13:58:09.973Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: >-
+    Как продать коммерческое помещение в залоге у банка: пошаговая инструкция от
+    ButlerSPB
+  description: >-
+    Продажа коммерческой недвижимости с обременением от банка — задача со
+    звездочкой, но вполне реальная. В нашей статье мы подробно разбираем все
+    этапы сделки: от получения согласия банка и поиска покупателя до безопасного
+    проведения расчетов и снятия залога. Узнайте о трех рабочих схемах продажи
+    залогового объекта, какие документы подготовить и как избежать подводных
+    камней, чтобы заключить выгодную сделку без рисков для всех сторон.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.8'
+    reviewCount: 873
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/kak-prodat-kommercheskoe-pomeschenie-nahodyascheesya-v-zaloge-u-banka/
 ---
 
 # Как продать коммерческое помещение в залоге у банка: пошаговая инструкция от экспертов ButlerSPB

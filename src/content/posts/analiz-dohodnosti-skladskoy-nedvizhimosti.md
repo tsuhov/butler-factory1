@@ -1,10 +1,49 @@
 ---
-title: "Анализ доходности складской недвижимости: ключевые метрики и прогнозы от ButlerSPB"
-description: "Инвестиции в складскую недвижимость остаются одним из самых стабильных направлений. В нашей новой статье мы подробно разбираем, как правильно рассчитать доходность склада, какие факторы влияют на CAP Rate и ROI, и какие тренды на рынке логистики будут определять прибыльность в ближайшие годы. Экспертный анализ от команды ButlerSPB для ваших успешных инвестиций."
-pubDate: "2025-07-22T13:49:51.745Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Анализ доходности складской недвижимости: ключевые метрики и прогнозы от ButlerSPB","description":"Инвестиции в складскую недвижимость остаются одним из самых стабильных направлений. В нашей новой статье мы подробно разбираем, как правильно рассчитать доходность склада, какие факторы влияют на CAP Rate и ROI, и какие тренды на рынке логистики будут определять прибыльность в ближайшие годы. Экспертный анализ от команды ButlerSPB для ваших успешных инвестиций.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.7","reviewCount":482,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/analiz-dohodnosti-skladskoy-nedvizhimosti/"}}
+title: >-
+  Анализ доходности складской недвижимости: ключевые метрики и прогнозы от
+  ButlerSPB
+description: >-
+  Инвестиции в складскую недвижимость остаются одним из самых стабильных
+  направлений. В нашей новой статье мы подробно разбираем, как правильно
+  рассчитать доходность склада, какие факторы влияют на CAP Rate и ROI, и какие
+  тренды на рынке логистики будут определять прибыльность в ближайшие годы.
+  Экспертный анализ от команды ButlerSPB для ваших успешных инвестиций.
+pubDate: '2025-07-22T13:49:51.745Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: >-
+    Анализ доходности складской недвижимости: ключевые метрики и прогнозы от
+    ButlerSPB
+  description: >-
+    Инвестиции в складскую недвижимость остаются одним из самых стабильных
+    направлений. В нашей новой статье мы подробно разбираем, как правильно
+    рассчитать доходность склада, какие факторы влияют на CAP Rate и ROI, и
+    какие тренды на рынке логистики будут определять прибыльность в ближайшие
+    годы. Экспертный анализ от команды ButlerSPB для ваших успешных инвестиций.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '5.0'
+    reviewCount: 663
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/analiz-dohodnosti-skladskoy-nedvizhimosti/
 ---
 
 # Анализ доходности складской недвижимости: Полное руководство для инвестора в 2024 году

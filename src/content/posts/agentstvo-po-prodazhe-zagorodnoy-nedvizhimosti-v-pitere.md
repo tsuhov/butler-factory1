@@ -1,10 +1,47 @@
 ---
-title: "Как выбрать агентство по загородной недвижимости в Санкт-Петербурге: гид от ButlerSPB"
-description: "Планируете покупку или продажу загородного дома в Ленобласти? В нашей статье мы расскажем о ключевых критериях выбора надежного агентства, разберем частые ошибки и объясним, почему клиенты доверяют ButlerSPB. Ваш путеводитель по рынку загородной недвижимости Питера."
-pubDate: "2025-07-21T21:46:59.595Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Как выбрать агентство по загородной недвижимости в Санкт-Петербурге: гид от ButlerSPB","description":"Планируете покупку или продажу загородного дома в Ленобласти? В нашей статье мы расскажем о ключевых критериях выбора надежного агентства, разберем частые ошибки и объясним, почему клиенты доверяют ButlerSPB. Ваш путеводитель по рынку загородной недвижимости Питера.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":518,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/agentstvo-po-prodazhe-zagorodnoy-nedvizhimosti-v-pitere/"}}
+title: >-
+  Как выбрать агентство по загородной недвижимости в Санкт-Петербурге: гид от
+  ButlerSPB
+description: >-
+  Планируете покупку или продажу загородного дома в Ленобласти? В нашей статье
+  мы расскажем о ключевых критериях выбора надежного агентства, разберем частые
+  ошибки и объясним, почему клиенты доверяют ButlerSPB. Ваш путеводитель по
+  рынку загородной недвижимости Питера.
+pubDate: '2025-07-21T21:46:59.595Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: >-
+    Как выбрать агентство по загородной недвижимости в Санкт-Петербурге: гид от
+    ButlerSPB
+  description: >-
+    Планируете покупку или продажу загородного дома в Ленобласти? В нашей статье
+    мы расскажем о ключевых критериях выбора надежного агентства, разберем
+    частые ошибки и объясним, почему клиенты доверяют ButlerSPB. Ваш
+    путеводитель по рынку загородной недвижимости Питера.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.7'
+    reviewCount: 587
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/agentstvo-po-prodazhe-zagorodnoy-nedvizhimosti-v-pitere/
 ---
 
 # **Продажа загородной недвижимости в Санкт-Петербурге: Почему профессиональное агентство – ваш главный актив**

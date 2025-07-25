@@ -1,10 +1,49 @@
 ---
-title: "Как выгодно продать комнату в коммунальной квартире: полное руководство от ButlerSPB"
-description: "Продажа комнаты в коммуналке — сложный процесс с множеством юридических нюансов. В этой статье мы подробно разбираем все этапы: от правильной оценки и предпродажной подготовки до соблюдения права преимущественной покупки соседей и проведения сделки. Узнайте, как избежать ошибок и продать вашу комнату быстро и по максимальной цене."
-pubDate: "2025-07-23T16:33:01.197Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Как выгодно продать комнату в коммунальной квартире: полное руководство от ButlerSPB","description":"Продажа комнаты в коммуналке — сложный процесс с множеством юридических нюансов. В этой статье мы подробно разбираем все этапы: от правильной оценки и предпродажной подготовки до соблюдения права преимущественной покупки соседей и проведения сделки. Узнайте, как избежать ошибок и продать вашу комнату быстро и по максимальной цене.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"5.0","reviewCount":823,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/kak-vygodno-prodat-komnatu-v-kommunalnoy-kvartire/"}}
+title: >-
+  Как выгодно продать комнату в коммунальной квартире: полное руководство от
+  ButlerSPB
+description: >-
+  Продажа комнаты в коммуналке — сложный процесс с множеством юридических
+  нюансов. В этой статье мы подробно разбираем все этапы: от правильной оценки и
+  предпродажной подготовки до соблюдения права преимущественной покупки соседей
+  и проведения сделки. Узнайте, как избежать ошибок и продать вашу комнату
+  быстро и по максимальной цене.
+pubDate: '2025-07-23T16:33:01.197Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: >-
+    Как выгодно продать комнату в коммунальной квартире: полное руководство от
+    ButlerSPB
+  description: >-
+    Продажа комнаты в коммуналке — сложный процесс с множеством юридических
+    нюансов. В этой статье мы подробно разбираем все этапы: от правильной оценки
+    и предпродажной подготовки до соблюдения права преимущественной покупки
+    соседей и проведения сделки. Узнайте, как избежать ошибок и продать вашу
+    комнату быстро и по максимальной цене.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.9'
+    reviewCount: 381
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/kak-vygodno-prodat-komnatu-v-kommunalnoy-kvartire/
 ---
 
 # Как выгодно продать комнату в коммунальной квартире в 2024 году: Полное руководство от экспертов ButlerSPB

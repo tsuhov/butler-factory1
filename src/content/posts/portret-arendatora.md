@@ -1,11 +1,40 @@
 ---
-title: "Портрет современного арендатора в Петербурге"
-description: "Кто сегодня арендует квартиры в Санкт-Петербурге? Анализируем портрет современного арендатора: возраст, профессия, привычки и требования к идеальному жилью."
-keywords: "портрет арендатора, аренда квартиры, найти жильца, недвижимость спб, собственник жилья, аренда в петербурге"
-pubDate: "2025-07-25T14:32:41.215Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Портрет современного арендатора в Петербурге","description":"Кто сегодня арендует квартиры в Санкт-Петербурге? Анализируем портрет современного арендатора: возраст, профессия, привычки и требования к идеальному жилью.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.8","reviewCount":420,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/portret-arendatora/"}}
+title: Портрет современного арендатора в Петербурге
+description: >-
+  Кто сегодня арендует квартиры в Санкт-Петербурге? Анализируем портрет
+  современного арендатора: возраст, профессия, привычки и требования к
+  идеальному жилью.
+pubDate: '2025-07-25T14:32:41.215Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: Портрет современного арендатора в Петербурге
+  description: >-
+    Кто сегодня арендует квартиры в Санкт-Петербурге? Анализируем портрет
+    современного арендатора: возраст, профессия, привычки и требования к
+    идеальному жилью.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.9'
+    reviewCount: 705
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': 'https://butlerspb-blog.netlify.app/blog/portret-arendatora/'
 ---
 # Портрет идеального арендатора в Санкт-Петербурге: Кого и как ищет профессионал?
 

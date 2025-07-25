@@ -1,10 +1,51 @@
 ---
-title: "Налоги при доверительном управлении жилой недвижимостью: полное руководство для собственника"
-description: "Передача квартиры в доверительное управление — удобный способ получения пассивного дохода, но как быть с налогами? В новой статье для блога ButlerSPB мы подробно разбираем все налоговые обязательства собственника. Вы узнаете, кто и когда платит НДФЛ, какие налоговые режимы (физлицо, самозанятый, ИП) можно использовать и какой из них выгоднее, а также как управляющая компания помогает с отчетностью и оптимизацией выплат."
-pubDate: "2025-07-21T23:48:48.394Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Налоги при доверительном управлении жилой недвижимостью: полное руководство для собственника","description":"Передача квартиры в доверительное управление — удобный способ получения пассивного дохода, но как быть с налогами? В новой статье для блога ButlerSPB мы подробно разбираем все налоговые обязательства собственника. Вы узнаете, кто и когда платит НДФЛ, какие налоговые режимы (физлицо, самозанятый, ИП) можно использовать и какой из них выгоднее, а также как управляющая компания помогает с отчетностью и оптимизацией выплат.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.8","reviewCount":341,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/nalogi-pri-doveritelnom-upravlenii-zhiloy-nedvizhimostyu/"}}
+title: >-
+  Налоги при доверительном управлении жилой недвижимостью: полное руководство
+  для собственника
+description: >-
+  Передача квартиры в доверительное управление — удобный способ получения
+  пассивного дохода, но как быть с налогами? В новой статье для блога ButlerSPB
+  мы подробно разбираем все налоговые обязательства собственника. Вы узнаете,
+  кто и когда платит НДФЛ, какие налоговые режимы (физлицо, самозанятый, ИП)
+  можно использовать и какой из них выгоднее, а также как управляющая компания
+  помогает с отчетностью и оптимизацией выплат.
+pubDate: '2025-07-21T23:48:48.394Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: >-
+    Налоги при доверительном управлении жилой недвижимостью: полное руководство
+    для собственника
+  description: >-
+    Передача квартиры в доверительное управление — удобный способ получения
+    пассивного дохода, но как быть с налогами? В новой статье для блога
+    ButlerSPB мы подробно разбираем все налоговые обязательства собственника. Вы
+    узнаете, кто и когда платит НДФЛ, какие налоговые режимы (физлицо,
+    самозанятый, ИП) можно использовать и какой из них выгоднее, а также как
+    управляющая компания помогает с отчетностью и оптимизацией выплат.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '5.0'
+    reviewCount: 375
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/nalogi-pri-doveritelnom-upravlenii-zhiloy-nedvizhimostyu/
 ---
 
 # Налоги при доверительном управлении жилой недвижимостью: полное руководство для собственника в 2024 году

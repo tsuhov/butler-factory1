@@ -1,10 +1,45 @@
 ---
-title: "Инвестиционный гид по новостройкам Приморского района СПб от ButlerSPB"
-description: "Полный анализ рынка первичной недвижимости Приморского района для инвесторов. В статье рассматриваем динамику цен, самые перспективные ЖК, инфраструктуру, транспортную доступность и потенциальную доходность. Эксперты ButlerSPB делятся прогнозами и дают рекомендации по выбору объекта для выгодного вложения средств в 2024 году."
-pubDate: "2025-07-23T10:39:37.017Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Инвестиционный гид по новостройкам Приморского района СПб от ButlerSPB","description":"Полный анализ рынка первичной недвижимости Приморского района для инвесторов. В статье рассматриваем динамику цен, самые перспективные ЖК, инфраструктуру, транспортную доступность и потенциальную доходность. Эксперты ButlerSPB делятся прогнозами и дают рекомендации по выбору объекта для выгодного вложения средств в 2024 году.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.7","reviewCount":812,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/analiz-rynka-novostroek-primorskogo-rayona-spb-dlya-investora/"}}
+title: Инвестиционный гид по новостройкам Приморского района СПб от ButlerSPB
+description: >-
+  Полный анализ рынка первичной недвижимости Приморского района для инвесторов.
+  В статье рассматриваем динамику цен, самые перспективные ЖК, инфраструктуру,
+  транспортную доступность и потенциальную доходность. Эксперты ButlerSPB
+  делятся прогнозами и дают рекомендации по выбору объекта для выгодного
+  вложения средств в 2024 году.
+pubDate: '2025-07-23T10:39:37.017Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: Инвестиционный гид по новостройкам Приморского района СПб от ButlerSPB
+  description: >-
+    Полный анализ рынка первичной недвижимости Приморского района для
+    инвесторов. В статье рассматриваем динамику цен, самые перспективные ЖК,
+    инфраструктуру, транспортную доступность и потенциальную доходность.
+    Эксперты ButlerSPB делятся прогнозами и дают рекомендации по выбору объекта
+    для выгодного вложения средств в 2024 году.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.8'
+    reviewCount: 681
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/analiz-rynka-novostroek-primorskogo-rayona-spb-dlya-investora/
 ---
 
 # Инвестиционный потенциал Приморского района: полный анализ рынка новостроек для инвестора

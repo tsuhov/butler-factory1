@@ -1,11 +1,39 @@
 ---
-title: "Как выбрать район для инвестквартиры в СПб"
-description: "Выбор локации — ключевой шаг при покупке квартиры для сдачи в аренду. В статье от ButlerSPB разбираем, на какие районы Санкт-Петербурга обратить внимание."
-keywords: "инвестквартира, выбор района, доходная квартира, недвижимость СПБ, ликвидность жилья, управление ButlerSPB"
-pubDate: "2025-07-25T14:00:22.275Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Как выбрать район для инвестквартиры в СПб","description":"Выбор локации — ключевой шаг при покупке квартиры для сдачи в аренду. В статье от ButlerSPB разбираем, на какие районы Санкт-Петербурга обратить внимание.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.7","reviewCount":462,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/rayon-investkvartiry/"}}
+title: Как выбрать район для инвестквартиры в СПб
+description: >-
+  Выбор локации — ключевой шаг при покупке квартиры для сдачи в аренду. В статье
+  от ButlerSPB разбираем, на какие районы Санкт-Петербурга обратить внимание.
+pubDate: '2025-07-25T14:00:22.275Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: Как выбрать район для инвестквартиры в СПб
+  description: >-
+    Выбор локации — ключевой шаг при покупке квартиры для сдачи в аренду. В
+    статье от ButlerSPB разбираем, на какие районы Санкт-Петербурга обратить
+    внимание.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '5.0'
+    reviewCount: 352
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': 'https://butlerspb-blog.netlify.app/blog/rayon-investkvartiry/'
 ---
 # Как выбрать район для инвестквартиры в СПб: полный гид по доходности и ликвидности от ButlerSPB
 

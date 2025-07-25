@@ -1,11 +1,40 @@
 ---
-title: "Налоги за рубежом: гайд для экспатов и бизнеса"
-description: "Планируете переезд или бизнес за границей? Наш гайд по налогам за рубежом поможет разобраться в ставках, резидентстве и избежать двойного налогообложения."
-keywords: "налоги за рубежом, международное налогообложение, налоговое резидентство, двойное налогообложение, налоги для экспатов, бизнес за границей"
-pubDate: "2025-07-25T16:29:45.832Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Налоги за рубежом: гайд для экспатов и бизнеса","description":"Планируете переезд или бизнес за границей? Наш гайд по налогам за рубежом поможет разобраться в ставках, резидентстве и избежать двойного налогообложения.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"5.0","reviewCount":782,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/nalogi-zarubezh/"}}
+title: 'Налоги за рубежом: гайд для экспатов и бизнеса'
+description: >-
+  Планируете переезд или бизнес за границей? Наш гайд по налогам за рубежом
+  поможет разобраться в ставках, резидентстве и избежать двойного
+  налогообложения.
+pubDate: '2025-07-25T16:29:45.832Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Налоги за рубежом: гайд для экспатов и бизнеса'
+  description: >-
+    Планируете переезд или бизнес за границей? Наш гайд по налогам за рубежом
+    поможет разобраться в ставках, резидентстве и избежать двойного
+    налогообложения.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '5.0'
+    reviewCount: 746
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': 'https://butlerspb-blog.netlify.app/blog/nalogi-zarubezh/'
 ---
 # Налоги за рубежом: Полный гид для инвестора и релоканта в 2024 году
 

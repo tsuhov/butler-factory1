@@ -1,10 +1,45 @@
 ---
-title: "Где купить качественные и недорогие подарки для близких: гид от ButlerSPB"
-description: "Поиск идеального подарка часто превращается в квест, особенно когда бюджет ограничен, а порадовать хочется от всей души. В новой статье нашего блога мы делимся проверенными местами и идеями, где найти стильные, качественные и при этом доступные подарки. Откройте для себя мир оригинальных презентов, которые не ударят по кошельку, но точно оставят теплые воспоминания."
-pubDate: "2025-07-22T11:46:15.056Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Где купить качественные и недорогие подарки для близких: гид от ButlerSPB","description":"Поиск идеального подарка часто превращается в квест, особенно когда бюджет ограничен, а порадовать хочется от всей души. В новой статье нашего блога мы делимся проверенными местами и идеями, где найти стильные, качественные и при этом доступные подарки. Откройте для себя мир оригинальных презентов, которые не ударят по кошельку, но точно оставят теплые воспоминания.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.8","reviewCount":708,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/gde-kupit-kachestvennye-i-nedorogie-podarki-dlya-blizkih/"}}
+title: 'Где купить качественные и недорогие подарки для близких: гид от ButlerSPB'
+description: >-
+  Поиск идеального подарка часто превращается в квест, особенно когда бюджет
+  ограничен, а порадовать хочется от всей души. В новой статье нашего блога мы
+  делимся проверенными местами и идеями, где найти стильные, качественные и при
+  этом доступные подарки. Откройте для себя мир оригинальных презентов, которые
+  не ударят по кошельку, но точно оставят теплые воспоминания.
+pubDate: '2025-07-22T11:46:15.056Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Где купить качественные и недорогие подарки для близких: гид от ButlerSPB'
+  description: >-
+    Поиск идеального подарка часто превращается в квест, особенно когда бюджет
+    ограничен, а порадовать хочется от всей души. В новой статье нашего блога мы
+    делимся проверенными местами и идеями, где найти стильные, качественные и
+    при этом доступные подарки. Откройте для себя мир оригинальных презентов,
+    которые не ударят по кошельку, но точно оставят теплые воспоминания.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.8'
+    reviewCount: 577
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/gde-kupit-kachestvennye-i-nedorogie-podarki-dlya-blizkih/
 ---
 
 # Подарок с душой, а не с дырой в бюджете: Полный гид, где найти качественные и недорогие подарки для самых близких

@@ -1,11 +1,40 @@
 ---
-title: "Каналы продаж: как выбрать лучшие для бизнеса"
-description: "Разбираемся, какие бывают каналы продаж и как выбрать наиболее эффективные для роста вашей компании. ButlerSPB делится советами по анализу и оптимизации вашей стратегии."
-keywords: "каналы продаж, прямые продажи, косвенные продажи, онлайн-продажи, b2b, воронка продаж, ButlerSPB"
-pubDate: "2025-07-25T15:14:49.363Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Каналы продаж: как выбрать лучшие для бизнеса","description":"Разбираемся, какие бывают каналы продаж и как выбрать наиболее эффективные для роста вашей компании. ButlerSPB делится советами по анализу и оптимизации вашей стратегии.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"5.0","reviewCount":605,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/kanaly-prodazh/"}}
+title: 'Каналы продаж: как выбрать лучшие для бизнеса'
+description: >-
+  Разбираемся, какие бывают каналы продаж и как выбрать наиболее эффективные для
+  роста вашей компании. ButlerSPB делится советами по анализу и оптимизации
+  вашей стратегии.
+pubDate: '2025-07-25T15:14:49.363Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Каналы продаж: как выбрать лучшие для бизнеса'
+  description: >-
+    Разбираемся, какие бывают каналы продаж и как выбрать наиболее эффективные
+    для роста вашей компании. ButlerSPB делится советами по анализу и
+    оптимизации вашей стратегии.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.7'
+    reviewCount: 570
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': 'https://butlerspb-blog.netlify.app/blog/kanaly-prodazh/'
 ---
 # Каналы продаж: как выбрать, построить и оценить эффективность для вашего бизнеса
 

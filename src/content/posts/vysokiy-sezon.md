@@ -1,11 +1,39 @@
 ---
-title: "Высокий сезон в Петербурге: как всё успеть"
-description: "Высокий сезон – пик туристической активности. Как насладиться лучшим временем в Петербурге без стресса и очередей? ButlerSPB делится секретами планирования."
-keywords: "высокий сезон, туризм в Петербурге, ButlerSPB, планирование отдыха, путешествия, летний отдых"
-pubDate: "2025-07-25T15:37:43.669Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Высокий сезон в Петербурге: как всё успеть","description":"Высокий сезон – пик туристической активности. Как насладиться лучшим временем в Петербурге без стресса и очередей? ButlerSPB делится секретами планирования.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.8","reviewCount":379,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/vysokiy-sezon/"}}
+title: 'Высокий сезон в Петербурге: как всё успеть'
+description: >-
+  Высокий сезон – пик туристической активности. Как насладиться лучшим временем
+  в Петербурге без стресса и очередей? ButlerSPB делится секретами планирования.
+pubDate: '2025-07-25T15:37:43.669Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Высокий сезон в Петербурге: как всё успеть'
+  description: >-
+    Высокий сезон – пик туристической активности. Как насладиться лучшим
+    временем в Петербурге без стресса и очередей? ButlerSPB делится секретами
+    планирования.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.7'
+    reviewCount: 642
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': 'https://butlerspb-blog.netlify.app/blog/vysokiy-sezon/'
 ---
 # Высокий сезон в Санкт-Петербурге: Как владельцу квартиры заработать максимум, а гостю — получить лучшие впечатления
 

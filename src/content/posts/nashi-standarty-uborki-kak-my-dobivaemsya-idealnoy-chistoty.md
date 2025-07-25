@@ -1,10 +1,47 @@
 ---
-title: "Наши стандарты уборки: как мы добиваемся идеальной чистоты"
-description: "В блоге ButlerSPB мы раскрываем секреты безупречной чистоты. Узнайте, какие строгие стандарты мы применяем в работе: от многоэтапных чек-листов и профессионального обучения сотрудников до использования сертифицированных эко-средств и современного оборудования. Мы верим, что идеальная чистота — это результат системного подхода, внимания к деталям и настоящей любви к своему делу."
-pubDate: "2025-07-22T11:09:35.121Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Наши стандарты уборки: как мы добиваемся идеальной чистоты","description":"В блоге ButlerSPB мы раскрываем секреты безупречной чистоты. Узнайте, какие строгие стандарты мы применяем в работе: от многоэтапных чек-листов и профессионального обучения сотрудников до использования сертифицированных эко-средств и современного оборудования. Мы верим, что идеальная чистота — это результат системного подхода, внимания к деталям и настоящей любви к своему делу.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":429,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/nashi-standarty-uborki-kak-my-dobivaemsya-idealnoy-chistoty/"}}
+title: 'Наши стандарты уборки: как мы добиваемся идеальной чистоты'
+description: >-
+  В блоге ButlerSPB мы раскрываем секреты безупречной чистоты. Узнайте, какие
+  строгие стандарты мы применяем в работе: от многоэтапных чек-листов и
+  профессионального обучения сотрудников до использования сертифицированных
+  эко-средств и современного оборудования. Мы верим, что идеальная чистота — это
+  результат системного подхода, внимания к деталям и настоящей любви к своему
+  делу.
+pubDate: '2025-07-22T11:09:35.121Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Наши стандарты уборки: как мы добиваемся идеальной чистоты'
+  description: >-
+    В блоге ButlerSPB мы раскрываем секреты безупречной чистоты. Узнайте, какие
+    строгие стандарты мы применяем в работе: от многоэтапных чек-листов и
+    профессионального обучения сотрудников до использования сертифицированных
+    эко-средств и современного оборудования. Мы верим, что идеальная чистота —
+    это результат системного подхода, внимания к деталям и настоящей любви к
+    своему делу.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.9'
+    reviewCount: 735
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/nashi-standarty-uborki-kak-my-dobivaemsya-idealnoy-chistoty/
 ---
 
 # Наши стандарты уборки: как мы в ButlerSPB добиваемся идеальной чистоты

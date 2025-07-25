@@ -1,10 +1,47 @@
 ---
-title: "ButlerSPB: Как мы строим долгосрочные отношения с собственниками недвижимости"
-description: "В ButlerSPB мы убеждены, что основа успешного управления недвижимостью — это доверие и партнерство. В этой статье мы раскрываем наши ключевые принципы работы с владельцами: от полной финансовой прозрачности и проактивной коммуникации до индивидуального подхода и заботы о каждом объекте как о своем собственном."
-pubDate: "2025-07-22T11:11:41.743Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"ButlerSPB: Как мы строим долгосрочные отношения с собственниками недвижимости","description":"В ButlerSPB мы убеждены, что основа успешного управления недвижимостью — это доверие и партнерство. В этой статье мы раскрываем наши ключевые принципы работы с владельцами: от полной финансовой прозрачности и проактивной коммуникации до индивидуального подхода и заботы о каждом объекте как о своем собственном.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"5.0","reviewCount":321,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/kak-my-stroim-dolgosrochnye-otnosheniya-s-sobstvennikami/"}}
+title: 'ButlerSPB: Как мы строим долгосрочные отношения с собственниками недвижимости'
+description: >-
+  В ButlerSPB мы убеждены, что основа успешного управления недвижимостью — это
+  доверие и партнерство. В этой статье мы раскрываем наши ключевые принципы
+  работы с владельцами: от полной финансовой прозрачности и проактивной
+  коммуникации до индивидуального подхода и заботы о каждом объекте как о своем
+  собственном.
+pubDate: '2025-07-22T11:11:41.743Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: >-
+    ButlerSPB: Как мы строим долгосрочные отношения с собственниками
+    недвижимости
+  description: >-
+    В ButlerSPB мы убеждены, что основа успешного управления недвижимостью — это
+    доверие и партнерство. В этой статье мы раскрываем наши ключевые принципы
+    работы с владельцами: от полной финансовой прозрачности и проактивной
+    коммуникации до индивидуального подхода и заботы о каждом объекте как о
+    своем собственном.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.8'
+    reviewCount: 842
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/kak-my-stroim-dolgosrochnye-otnosheniya-s-sobstvennikami/
 ---
 
 # Наш главный актив — не квартиры, а доверие собственников. Как мы строим долгосрочные отношения

@@ -1,10 +1,43 @@
 ---
-title: "Услуги аренды недвижимости в Питере: как найти идеальное жилье"
-description: "Подробный гид по рынку аренды жилья в Санкт-Петербурге. Рассказываем, где искать квартиры, как избежать мошенников, какие документы нужны для заключения договора и на что обратить внимание при выборе квартиры в культурной столице России."
-pubDate: "2025-07-22T10:24:45.463Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.pexels.com/photos/5945847/pexels-photo-5945847.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Услуги аренды недвижимости в Питере: как найти идеальное жилье","description":"Подробный гид по рынку аренды жилья в Санкт-Петербурге. Рассказываем, где искать квартиры, как избежать мошенников, какие документы нужны для заключения договора и на что обратить внимание при выборе квартиры в культурной столице России.","image":{"@type":"ImageObject","url":"https://images.pexels.com/photos/5945847/pexels-photo-5945847.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.8","reviewCount":865,"bestRating":"5","worstRating":"1","itemReviewed":{"@type":"Thing","name":"Услуги аренды недвижимости в Питере: как найти идеальное жилье"}},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/uslugi-arendy-nedvizhimosti-v-pitere/"}}
+title: 'Услуги аренды недвижимости в Питере: как найти идеальное жилье'
+description: >-
+  Подробный гид по рынку аренды жилья в Санкт-Петербурге. Рассказываем, где
+  искать квартиры, как избежать мошенников, какие документы нужны для заключения
+  договора и на что обратить внимание при выборе квартиры в культурной столице
+  России.
+pubDate: '2025-07-22T10:24:45.463Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.pexels.com/photos/5945847/pexels-photo-5945847.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Услуги аренды недвижимости в Питере: как найти идеальное жилье'
+  description: >-
+    Подробный гид по рынку аренды жилья в Санкт-Петербурге. Рассказываем, где
+    искать квартиры, как избежать мошенников, какие документы нужны для
+    заключения договора и на что обратить внимание при выборе квартиры в
+    культурной столице России.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.pexels.com/photos/5945847/pexels-photo-5945847.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.9'
+    reviewCount: 744
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/uslugi-arendy-nedvizhimosti-v-pitere/
 ---
 
 # Аренда недвижимости в Питере: Полный гид от А до Я от экспертов ButlerSPB

@@ -1,10 +1,49 @@
 ---
-title: "Доверительное управление или самостоятельная сдача: что выгоднее? Разбираемся вместе с ButlerSPB"
-description: "Собственник квартиры в Петербурге стоит перед выбором: сдавать жилье самостоятельно или передать в доверительное управление? В статье блога ButlerSPB разбираем плюсы и минусы каждого подхода. Сравниваем реальную доходность, временные затраты, риски и рассказываем, как профессиональное управление помогает избежать проблем и увеличить прибыль от аренды."
-pubDate: "2025-07-23T12:06:56.143Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Доверительное управление или самостоятельная сдача: что выгоднее? Разбираемся вместе с ButlerSPB","description":"Собственник квартиры в Петербурге стоит перед выбором: сдавать жилье самостоятельно или передать в доверительное управление? В статье блога ButlerSPB разбираем плюсы и минусы каждого подхода. Сравниваем реальную доходность, временные затраты, риски и рассказываем, как профессиональное управление помогает избежать проблем и увеличить прибыль от аренды.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.8","reviewCount":826,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/doveritelnoe-upravlenie-ili-samostoyatelnaya-sdacha-chto-vygodnee/"}}
+title: >-
+  Доверительное управление или самостоятельная сдача: что выгоднее? Разбираемся
+  вместе с ButlerSPB
+description: >-
+  Собственник квартиры в Петербурге стоит перед выбором: сдавать жилье
+  самостоятельно или передать в доверительное управление? В статье блога
+  ButlerSPB разбираем плюсы и минусы каждого подхода. Сравниваем реальную
+  доходность, временные затраты, риски и рассказываем, как профессиональное
+  управление помогает избежать проблем и увеличить прибыль от аренды.
+pubDate: '2025-07-23T12:06:56.143Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: >-
+    Доверительное управление или самостоятельная сдача: что выгоднее?
+    Разбираемся вместе с ButlerSPB
+  description: >-
+    Собственник квартиры в Петербурге стоит перед выбором: сдавать жилье
+    самостоятельно или передать в доверительное управление? В статье блога
+    ButlerSPB разбираем плюсы и минусы каждого подхода. Сравниваем реальную
+    доходность, временные затраты, риски и рассказываем, как профессиональное
+    управление помогает избежать проблем и увеличить прибыль от аренды.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.9'
+    reviewCount: 878
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/doveritelnoe-upravlenie-ili-samostoyatelnaya-sdacha-chto-vygodnee/
 ---
 
 # Доверительное управление или самостоятельная сдача: что на самом деле выгоднее для собственника в Петербурге?

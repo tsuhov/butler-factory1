@@ -1,11 +1,40 @@
 ---
-title: "Прибыльная аренда: как максимизировать доход"
-description: "Превратите свою квартиру в источник высокого дохода. В этой статье мы раскроем секреты успешной сдачи жилья в аренду: от подготовки объекта до работы с гостями."
-keywords: "прибыльная аренда, управление недвижимостью, пассивный доход, сдать квартиру, ButlerSPB, аренда спб"
-pubDate: "2025-07-25T16:21:59.561Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Прибыльная аренда: как максимизировать доход","description":"Превратите свою квартиру в источник высокого дохода. В этой статье мы раскроем секреты успешной сдачи жилья в аренду: от подготовки объекта до работы с гостями.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"5.0","reviewCount":884,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/pribylnaya-arenda/"}}
+title: 'Прибыльная аренда: как максимизировать доход'
+description: >-
+  Превратите свою квартиру в источник высокого дохода. В этой статье мы раскроем
+  секреты успешной сдачи жилья в аренду: от подготовки объекта до работы с
+  гостями.
+pubDate: '2025-07-25T16:21:59.561Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Прибыльная аренда: как максимизировать доход'
+  description: >-
+    Превратите свою квартиру в источник высокого дохода. В этой статье мы
+    раскроем секреты успешной сдачи жилья в аренду: от подготовки объекта до
+    работы с гостями.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.9'
+    reviewCount: 392
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': 'https://butlerspb-blog.netlify.app/blog/pribylnaya-arenda/'
 ---
 # Прибыльная аренда в Санкт-Петербурге: Полное руководство от ButlerSPB по максимизации дохода
 

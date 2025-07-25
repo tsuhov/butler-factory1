@@ -1,11 +1,40 @@
 ---
-title: "Налог на дарение недвижимости не родственнику"
-description: "При дарении недвижимости не близкому родственнику одаряемый обязан уплатить НДФЛ в размере 13% от кадастровой стоимости объекта. Кто освобожден от налога?"
-keywords: "налог на дарение, дарение недвижимости, договор дарения, НДФЛ при дарении, не близкий родственник, кадастровая стоимость, подарить квартиру"
-pubDate: "2025-07-24T00:13:41.763Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Налог на дарение недвижимости не родственнику","description":"При дарении недвижимости не близкому родственнику одаряемый обязан уплатить НДФЛ в размере 13% от кадастровой стоимости объекта. Кто освобожден от налога?","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.8","reviewCount":605,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/skolko-procentov-sostavlyaet-nalog-na-darenie-nedvizhimosti-ne-blizkomu-rodstvenniku/"}}
+title: Налог на дарение недвижимости не родственнику
+description: >-
+  При дарении недвижимости не близкому родственнику одаряемый обязан уплатить
+  НДФЛ в размере 13% от кадастровой стоимости объекта. Кто освобожден от налога?
+pubDate: '2025-07-24T00:13:41.763Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: Налог на дарение недвижимости не родственнику
+  description: >-
+    При дарении недвижимости не близкому родственнику одаряемый обязан уплатить
+    НДФЛ в размере 13% от кадастровой стоимости объекта. Кто освобожден от
+    налога?
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.8'
+    reviewCount: 711
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/skolko-procentov-sostavlyaet-nalog-na-darenie-nedvizhimosti-ne-blizkomu-rodstvenniku/
 ---
 # Налог на дарение недвижимости не близкому родственнику: полный разбор от А до Я
 

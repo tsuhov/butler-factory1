@@ -1,10 +1,47 @@
 ---
-title: "Студент снимает квартиру: взвешиваем все 'за' и 'против'"
-description: "Переезд в новый город на учебу ставит перед студентом важный выбор: общежитие или съемная квартира? Аренда манит свободой и комфортом, но пугает ответственностью и расходами. Является ли независимость достойной платой за бытовые хлопоты и финансовые обязательства? В новой статье блога ButlerSPB мы подробно разбираем все плюсы и минусы аренды жилья для студентов, даем практические советы и помогаем найти баланс между желаниями и возможностями."
-pubDate: "2025-07-22T13:46:55.295Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Студент снимает квартиру: взвешиваем все 'за' и 'против'","description":"Переезд в новый город на учебу ставит перед студентом важный выбор: общежитие или съемная квартира? Аренда манит свободой и комфортом, но пугает ответственностью и расходами. Является ли независимость достойной платой за бытовые хлопоты и финансовые обязательства? В новой статье блога ButlerSPB мы подробно разбираем все плюсы и минусы аренды жилья для студентов, даем практические советы и помогаем найти баланс между желаниями и возможностями.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.8","reviewCount":603,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/plyusy-i-minusy-arendy-kvartiry-studentami/"}}
+title: 'Студент снимает квартиру: взвешиваем все ''за'' и ''против'''
+description: >-
+  Переезд в новый город на учебу ставит перед студентом важный выбор: общежитие
+  или съемная квартира? Аренда манит свободой и комфортом, но пугает
+  ответственностью и расходами. Является ли независимость достойной платой за
+  бытовые хлопоты и финансовые обязательства? В новой статье блога ButlerSPB мы
+  подробно разбираем все плюсы и минусы аренды жилья для студентов, даем
+  практические советы и помогаем найти баланс между желаниями и возможностями.
+pubDate: '2025-07-22T13:46:55.295Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Студент снимает квартиру: взвешиваем все ''за'' и ''против'''
+  description: >-
+    Переезд в новый город на учебу ставит перед студентом важный выбор:
+    общежитие или съемная квартира? Аренда манит свободой и комфортом, но пугает
+    ответственностью и расходами. Является ли независимость достойной платой за
+    бытовые хлопоты и финансовые обязательства? В новой статье блога ButlerSPB
+    мы подробно разбираем все плюсы и минусы аренды жилья для студентов, даем
+    практические советы и помогаем найти баланс между желаниями и возможностями.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.7'
+    reviewCount: 693
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/plyusy-i-minusy-arendy-kvartiry-studentami/
 ---
 
 # Аренда квартиры для студента в СПб: Все плюсы, минусы и подводные камни

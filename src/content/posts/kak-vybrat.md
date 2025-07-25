@@ -1,11 +1,40 @@
 ---
-title: "Как выбрать клининговую компанию: 5 советов"
-description: "Выбор надежной клининговой компании – залог чистоты и уюта в вашем доме. В этой статье мы раскроем 5 ключевых критериев, которые помогут вам принять верное решение."
-keywords: "клининговая компания, выбрать клининг, уборка квартиры, профессиональная уборка, советы по выбору, ButlerSPB"
-pubDate: "2025-07-25T14:52:42.622Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Как выбрать клининговую компанию: 5 советов","description":"Выбор надежной клининговой компании – залог чистоты и уюта в вашем доме. В этой статье мы раскроем 5 ключевых критериев, которые помогут вам принять верное решение.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":647,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/kak-vybrat/"}}
+title: 'Как выбрать клининговую компанию: 5 советов'
+description: >-
+  Выбор надежной клининговой компании – залог чистоты и уюта в вашем доме. В
+  этой статье мы раскроем 5 ключевых критериев, которые помогут вам принять
+  верное решение.
+pubDate: '2025-07-25T14:52:42.622Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Как выбрать клининговую компанию: 5 советов'
+  description: >-
+    Выбор надежной клининговой компании – залог чистоты и уюта в вашем доме. В
+    этой статье мы раскроем 5 ключевых критериев, которые помогут вам принять
+    верное решение.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.8'
+    reviewCount: 656
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': 'https://butlerspb-blog.netlify.app/blog/kak-vybrat/'
 ---
 # Не просто чисто: как выбрать клининговую компанию, которой можно доверять. Гид по рынку СПб
 

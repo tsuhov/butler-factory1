@@ -1,11 +1,40 @@
 ---
-title: "Выгодные условия сотрудничества с ButlerSPB"
-description: "Узнайте о наших эксклюзивных предложениях и гибких тарифах. ButlerSPB создает индивидуальные условия для каждого клиента, гарантируя максимальную выгоду и комфорт."
-keywords: "выгодные условия, ButlerSPB, сотрудничество, специальные предложения, скидки, индивидуальный подход, тарифы"
-pubDate: "2025-07-25T15:53:56.828Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Выгодные условия сотрудничества с ButlerSPB","description":"Узнайте о наших эксклюзивных предложениях и гибких тарифах. ButlerSPB создает индивидуальные условия для каждого клиента, гарантируя максимальную выгоду и комфорт.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.8","reviewCount":859,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/vygodnye-usloviya/"}}
+title: Выгодные условия сотрудничества с ButlerSPB
+description: >-
+  Узнайте о наших эксклюзивных предложениях и гибких тарифах. ButlerSPB создает
+  индивидуальные условия для каждого клиента, гарантируя максимальную выгоду и
+  комфорт.
+pubDate: '2025-07-25T15:53:56.828Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: Выгодные условия сотрудничества с ButlerSPB
+  description: >-
+    Узнайте о наших эксклюзивных предложениях и гибких тарифах. ButlerSPB
+    создает индивидуальные условия для каждого клиента, гарантируя максимальную
+    выгоду и комфорт.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.8'
+    reviewCount: 794
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': 'https://butlerspb-blog.netlify.app/blog/vygodnye-usloviya/'
 ---
 # Выгода – это не скидка. Как получить максимум от премиум-клининга в ButlerSPB
 

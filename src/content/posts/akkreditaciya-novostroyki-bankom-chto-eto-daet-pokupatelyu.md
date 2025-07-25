@@ -1,10 +1,45 @@
 ---
-title: "Аккредитация новостройки банком: что это дает покупателю?"
-description: "Планируете покупку квартиры в новостройке и слышали об аккредитации, но не знаете, что это? В новой статье блога ButlerSPB мы подробно разбираем, почему аккредитация объекта банком — это знак качества для покупателя. Узнайте, как она снижает ваши риски, упрощает получение ипотеки и помогает выбрать действительно надежного застройщика."
-pubDate: "2025-07-23T12:00:07.959Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Аккредитация новостройки банком: что это дает покупателю?","description":"Планируете покупку квартиры в новостройке и слышали об аккредитации, но не знаете, что это? В новой статье блога ButlerSPB мы подробно разбираем, почему аккредитация объекта банком — это знак качества для покупателя. Узнайте, как она снижает ваши риски, упрощает получение ипотеки и помогает выбрать действительно надежного застройщика.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.8","reviewCount":764,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/akkreditaciya-novostroyki-bankom-chto-eto-daet-pokupatelyu/"}}
+title: 'Аккредитация новостройки банком: что это дает покупателю?'
+description: >-
+  Планируете покупку квартиры в новостройке и слышали об аккредитации, но не
+  знаете, что это? В новой статье блога ButlerSPB мы подробно разбираем, почему
+  аккредитация объекта банком — это знак качества для покупателя. Узнайте, как
+  она снижает ваши риски, упрощает получение ипотеки и помогает выбрать
+  действительно надежного застройщика.
+pubDate: '2025-07-23T12:00:07.959Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Аккредитация новостройки банком: что это дает покупателю?'
+  description: >-
+    Планируете покупку квартиры в новостройке и слышали об аккредитации, но не
+    знаете, что это? В новой статье блога ButlerSPB мы подробно разбираем,
+    почему аккредитация объекта банком — это знак качества для покупателя.
+    Узнайте, как она снижает ваши риски, упрощает получение ипотеки и помогает
+    выбрать действительно надежного застройщика.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.8'
+    reviewCount: 492
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/akkreditaciya-novostroyki-bankom-chto-eto-daet-pokupatelyu/
 ---
 
 Конечно, вот экспертная SEO-статья, написанная строго по вашему плану.

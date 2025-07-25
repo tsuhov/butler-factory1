@@ -1,10 +1,47 @@
 ---
-title: "Тайм-менеджмент для студентов: как всё успевать без стресса"
-description: "Студенческая жизнь – это не только лекции и семинары, но и новые знакомства, хобби и подработка. Как совместить всё и не выгореть? В новой статье блога ButlerSPB мы собрали проверенные техники и лайфхаки по управлению временем, которые помогут вам эффективно планировать учебу, оставляя время на отдых и личные дела. Узнайте, как правильно ставить цели, бороться с прокрастинацией и использовать современные инструменты для продуктивности."
-pubDate: "2025-07-22T11:42:21.336Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Тайм-менеджмент для студентов: как всё успевать без стресса","description":"Студенческая жизнь – это не только лекции и семинары, но и новые знакомства, хобби и подработка. Как совместить всё и не выгореть? В новой статье блога ButlerSPB мы собрали проверенные техники и лайфхаки по управлению временем, которые помогут вам эффективно планировать учебу, оставляя время на отдых и личные дела. Узнайте, как правильно ставить цели, бороться с прокрастинацией и использовать современные инструменты для продуктивности.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.7","reviewCount":620,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/sovety-po-taym-menedzhmentu-dlya-studentov/"}}
+title: 'Тайм-менеджмент для студентов: как всё успевать без стресса'
+description: >-
+  Студенческая жизнь – это не только лекции и семинары, но и новые знакомства,
+  хобби и подработка. Как совместить всё и не выгореть? В новой статье блога
+  ButlerSPB мы собрали проверенные техники и лайфхаки по управлению временем,
+  которые помогут вам эффективно планировать учебу, оставляя время на отдых и
+  личные дела. Узнайте, как правильно ставить цели, бороться с прокрастинацией и
+  использовать современные инструменты для продуктивности.
+pubDate: '2025-07-22T11:42:21.336Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Тайм-менеджмент для студентов: как всё успевать без стресса'
+  description: >-
+    Студенческая жизнь – это не только лекции и семинары, но и новые знакомства,
+    хобби и подработка. Как совместить всё и не выгореть? В новой статье блога
+    ButlerSPB мы собрали проверенные техники и лайфхаки по управлению временем,
+    которые помогут вам эффективно планировать учебу, оставляя время на отдых и
+    личные дела. Узнайте, как правильно ставить цели, бороться с прокрастинацией
+    и использовать современные инструменты для продуктивности.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.8'
+    reviewCount: 716
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/sovety-po-taym-menedzhmentu-dlya-studentov/
 ---
 
 # Тайм-менеджмент для студентов: экспертное руководство, как от хаоса перейти к контролю

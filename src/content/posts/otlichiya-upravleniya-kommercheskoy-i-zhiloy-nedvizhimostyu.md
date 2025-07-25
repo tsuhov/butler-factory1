@@ -1,10 +1,47 @@
 ---
-title: "Коммерческая vs. жилая недвижимость: ключевые отличия в управлении"
-description: "Хотя цель управления любой недвижимостью — максимизация прибыли, подходы к жилым и коммерческим объектам кардинально различаются. В новой статье блога ButlerSPB мы подробно рассматриваем ключевые аспекты: от сроков договоров аренды и взаимодействия с арендаторами до технического обслуживания и юридических тонкостей. Узнайте, какие стратегии эффективны для каждого типа объектов и как выбрать правильного партнера по управлению."
-pubDate: "2025-07-22T15:32:10.821Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Коммерческая vs. жилая недвижимость: ключевые отличия в управлении","description":"Хотя цель управления любой недвижимостью — максимизация прибыли, подходы к жилым и коммерческим объектам кардинально различаются. В новой статье блога ButlerSPB мы подробно рассматриваем ключевые аспекты: от сроков договоров аренды и взаимодействия с арендаторами до технического обслуживания и юридических тонкостей. Узнайте, какие стратегии эффективны для каждого типа объектов и как выбрать правильного партнера по управлению.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.8","reviewCount":631,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/otlichiya-upravleniya-kommercheskoy-i-zhiloy-nedvizhimostyu/"}}
+title: 'Коммерческая vs. жилая недвижимость: ключевые отличия в управлении'
+description: >-
+  Хотя цель управления любой недвижимостью — максимизация прибыли, подходы к
+  жилым и коммерческим объектам кардинально различаются. В новой статье блога
+  ButlerSPB мы подробно рассматриваем ключевые аспекты: от сроков договоров
+  аренды и взаимодействия с арендаторами до технического обслуживания и
+  юридических тонкостей. Узнайте, какие стратегии эффективны для каждого типа
+  объектов и как выбрать правильного партнера по управлению.
+pubDate: '2025-07-22T15:32:10.821Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Коммерческая vs. жилая недвижимость: ключевые отличия в управлении'
+  description: >-
+    Хотя цель управления любой недвижимостью — максимизация прибыли, подходы к
+    жилым и коммерческим объектам кардинально различаются. В новой статье блога
+    ButlerSPB мы подробно рассматриваем ключевые аспекты: от сроков договоров
+    аренды и взаимодействия с арендаторами до технического обслуживания и
+    юридических тонкостей. Узнайте, какие стратегии эффективны для каждого типа
+    объектов и как выбрать правильного партнера по управлению.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.9'
+    reviewCount: 744
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/otlichiya-upravleniya-kommercheskoy-i-zhiloy-nedvizhimostyu/
 ---
 
 # Коммерческая vs. Жилая: Ключевые отличия в управлении недвижимостью, о которых должен знать каждый собственник

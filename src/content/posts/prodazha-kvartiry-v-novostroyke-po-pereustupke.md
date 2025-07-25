@@ -1,10 +1,47 @@
 ---
-title: "Продажа квартиры в новостройке по переуступке: пошаговая инструкция от ButlerSPB"
-description: "Планируете продать квартиру в строящемся доме? Разбираемся во всех тонкостях переуступки прав требования (цессии): от получения согласия застройщика до регистрации договора и уплаты налогов. Узнайте, как провести сделку безопасно и выгодно."
-pubDate: "2025-07-23T10:46:05.609Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Продажа квартиры в новостройке по переуступке: пошаговая инструкция от ButlerSPB","description":"Планируете продать квартиру в строящемся доме? Разбираемся во всех тонкостях переуступки прав требования (цессии): от получения согласия застройщика до регистрации договора и уплаты налогов. Узнайте, как провести сделку безопасно и выгодно.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.8","reviewCount":827,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/prodazha-kvartiry-v-novostroyke-po-pereustupke/"}}
+title: >-
+  Продажа квартиры в новостройке по переуступке: пошаговая инструкция от
+  ButlerSPB
+description: >-
+  Планируете продать квартиру в строящемся доме? Разбираемся во всех тонкостях
+  переуступки прав требования (цессии): от получения согласия застройщика до
+  регистрации договора и уплаты налогов. Узнайте, как провести сделку безопасно
+  и выгодно.
+pubDate: '2025-07-23T10:46:05.609Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: >-
+    Продажа квартиры в новостройке по переуступке: пошаговая инструкция от
+    ButlerSPB
+  description: >-
+    Планируете продать квартиру в строящемся доме? Разбираемся во всех тонкостях
+    переуступки прав требования (цессии): от получения согласия застройщика до
+    регистрации договора и уплаты налогов. Узнайте, как провести сделку
+    безопасно и выгодно.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.8'
+    reviewCount: 411
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/prodazha-kvartiry-v-novostroyke-po-pereustupke/
 ---
 
 # Продажа квартиры по переуступке в 2024 году: Полное руководство для собственника в Санкт-Петербурге

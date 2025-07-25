@@ -1,10 +1,45 @@
 ---
-title: "Как сдать квартиру с животными через агентство: инструкция от ButlerSPB"
-description: "Многие собственники боятся сдавать жилье арендаторам с питомцами. В новой статье блога ButlerSPB мы развеиваем мифы и даем пошаговую инструкцию, как сдать квартиру с животными быстро, выгодно и безопасно с помощью агентства. Узнайте, как подготовить объект, составить правильный договор и какой залог поможет защитить ваше имущество."
-pubDate: "2025-07-23T15:36:26.573Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Как сдать квартиру с животными через агентство: инструкция от ButlerSPB","description":"Многие собственники боятся сдавать жилье арендаторам с питомцами. В новой статье блога ButlerSPB мы развеиваем мифы и даем пошаговую инструкцию, как сдать квартиру с животными быстро, выгодно и безопасно с помощью агентства. Узнайте, как подготовить объект, составить правильный договор и какой залог поможет защитить ваше имущество.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":368,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/kak-sdat-kvartiru-cherez-agentstvo-esli-v-ney-zhivut-zhivotnye/"}}
+title: 'Как сдать квартиру с животными через агентство: инструкция от ButlerSPB'
+description: >-
+  Многие собственники боятся сдавать жилье арендаторам с питомцами. В новой
+  статье блога ButlerSPB мы развеиваем мифы и даем пошаговую инструкцию, как
+  сдать квартиру с животными быстро, выгодно и безопасно с помощью агентства.
+  Узнайте, как подготовить объект, составить правильный договор и какой залог
+  поможет защитить ваше имущество.
+pubDate: '2025-07-23T15:36:26.573Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Как сдать квартиру с животными через агентство: инструкция от ButlerSPB'
+  description: >-
+    Многие собственники боятся сдавать жилье арендаторам с питомцами. В новой
+    статье блога ButlerSPB мы развеиваем мифы и даем пошаговую инструкцию, как
+    сдать квартиру с животными быстро, выгодно и безопасно с помощью агентства.
+    Узнайте, как подготовить объект, составить правильный договор и какой залог
+    поможет защитить ваше имущество.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.8'
+    reviewCount: 829
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/kak-sdat-kvartiru-cherez-agentstvo-esli-v-ney-zhivut-zhivotnye/
 ---
 
 # Как сдать квартиру с животными через агентство: полное руководство для собственника

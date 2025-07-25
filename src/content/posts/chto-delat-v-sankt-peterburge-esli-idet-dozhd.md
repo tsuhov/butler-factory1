@@ -1,10 +1,49 @@
 ---
-title: "Что делать в Санкт-Петербурге, если идет дождь: гид по лучшим местам от ButlerSPB"
-description: "Питерский дождь — это не повод для грусти, а возможность взглянуть на город под другим углом. Команда ButlerSPB подготовила для вас подборку идей, чем заняться в Северной столице в непогоду: от визита в необычные музеи и арт-пространства до гастрономических открытий в уютных ресторанах и релакса в спа. Превратите дождливый день в незабываемое приключение!"
-pubDate: "2025-07-22T11:48:26.589Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Что делать в Санкт-Петербурге, если идет дождь: гид по лучшим местам от ButlerSPB","description":"Питерский дождь — это не повод для грусти, а возможность взглянуть на город под другим углом. Команда ButlerSPB подготовила для вас подборку идей, чем заняться в Северной столице в непогоду: от визита в необычные музеи и арт-пространства до гастрономических открытий в уютных ресторанах и релакса в спа. Превратите дождливый день в незабываемое приключение!","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.7","reviewCount":876,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/chto-delat-v-sankt-peterburge-esli-idet-dozhd/"}}
+title: >-
+  Что делать в Санкт-Петербурге, если идет дождь: гид по лучшим местам от
+  ButlerSPB
+description: >-
+  Питерский дождь — это не повод для грусти, а возможность взглянуть на город
+  под другим углом. Команда ButlerSPB подготовила для вас подборку идей, чем
+  заняться в Северной столице в непогоду: от визита в необычные музеи и
+  арт-пространства до гастрономических открытий в уютных ресторанах и релакса в
+  спа. Превратите дождливый день в незабываемое приключение!
+pubDate: '2025-07-22T11:48:26.589Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: >-
+    Что делать в Санкт-Петербурге, если идет дождь: гид по лучшим местам от
+    ButlerSPB
+  description: >-
+    Питерский дождь — это не повод для грусти, а возможность взглянуть на город
+    под другим углом. Команда ButlerSPB подготовила для вас подборку идей, чем
+    заняться в Северной столице в непогоду: от визита в необычные музеи и
+    арт-пространства до гастрономических открытий в уютных ресторанах и релакса
+    в спа. Превратите дождливый день в незабываемое приключение!
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.9'
+    reviewCount: 679
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/chto-delat-v-sankt-peterburge-esli-idet-dozhd/
 ---
 
 # Что делать в Санкт-Петербурге в дождь: 30+ идей от экспертов ButlerSPB

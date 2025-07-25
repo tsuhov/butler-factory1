@@ -1,10 +1,46 @@
 ---
-title: "Как продать квартиру с долгами по КУ: пошаговая инструкция от ButlerSPB"
-description: "Задолженность по коммунальным услугам — не приговор для продажи квартиры. В нашей новой статье эксперты ButlerSPB подробно рассказывают о законных способах решения этой проблемы: от погашения долга из аванса покупателя до полного юридического сопровождения сделки. Узнайте, как безопасно и выгодно продать вашу недвижимость в Санкт-Петербурге, даже если на ней числятся долги."
-pubDate: "2025-07-23T12:00:10.761Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Как продать квартиру с долгами по КУ: пошаговая инструкция от ButlerSPB","description":"Задолженность по коммунальным услугам — не приговор для продажи квартиры. В нашей новой статье эксперты ButlerSPB подробно рассказывают о законных способах решения этой проблемы: от погашения долга из аванса покупателя до полного юридического сопровождения сделки. Узнайте, как безопасно и выгодно продать вашу недвижимость в Санкт-Петербурге, даже если на ней числятся долги.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.8","reviewCount":679,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/pomosch-v-prodazhe-kvartiry-s-dolgami-po-ku/"}}
+title: 'Как продать квартиру с долгами по КУ: пошаговая инструкция от ButlerSPB'
+description: >-
+  Задолженность по коммунальным услугам — не приговор для продажи квартиры. В
+  нашей новой статье эксперты ButlerSPB подробно рассказывают о законных
+  способах решения этой проблемы: от погашения долга из аванса покупателя до
+  полного юридического сопровождения сделки. Узнайте, как безопасно и выгодно
+  продать вашу недвижимость в Санкт-Петербурге, даже если на ней числятся долги.
+pubDate: '2025-07-23T12:00:10.761Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Как продать квартиру с долгами по КУ: пошаговая инструкция от ButlerSPB'
+  description: >-
+    Задолженность по коммунальным услугам — не приговор для продажи квартиры. В
+    нашей новой статье эксперты ButlerSPB подробно рассказывают о законных
+    способах решения этой проблемы: от погашения долга из аванса покупателя до
+    полного юридического сопровождения сделки. Узнайте, как безопасно и выгодно
+    продать вашу недвижимость в Санкт-Петербурге, даже если на ней числятся
+    долги.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.8'
+    reviewCount: 893
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/pomosch-v-prodazhe-kvartiry-s-dolgami-po-ku/
 ---
 
 # Как продать квартиру с долгами по коммунальным услугам: Пошаговая инструкция и помощь экспертов ButlerSPB

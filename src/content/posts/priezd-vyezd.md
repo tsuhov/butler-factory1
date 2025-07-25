@@ -1,11 +1,38 @@
 ---
-title: "Приезд и выезд в апартаменты ButlerSPB: гид"
-description: "Узнайте все о процедурах заезда и выезда в наших апартаментах. Мы расскажем, как проходит заселение, какие документы нужны и как сдать ключи при выезде."
-keywords: "приезд выезд, заселение в апартаменты, выселение, ButlerSPB, правила проживания, бесконтактное заселение"
-pubDate: "2025-07-25T16:06:16.501Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Приезд и выезд в апартаменты ButlerSPB: гид","description":"Узнайте все о процедурах заезда и выезда в наших апартаментах. Мы расскажем, как проходит заселение, какие документы нужны и как сдать ключи при выезде.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":777,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/priezd-vyezd/"}}
+title: 'Приезд и выезд в апартаменты ButlerSPB: гид'
+description: >-
+  Узнайте все о процедурах заезда и выезда в наших апартаментах. Мы расскажем,
+  как проходит заселение, какие документы нужны и как сдать ключи при выезде.
+pubDate: '2025-07-25T16:06:16.501Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Приезд и выезд в апартаменты ButlerSPB: гид'
+  description: >-
+    Узнайте все о процедурах заезда и выезда в наших апартаментах. Мы расскажем,
+    как проходит заселение, какие документы нужны и как сдать ключи при выезде.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.7'
+    reviewCount: 382
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': 'https://butlerspb-blog.netlify.app/blog/priezd-vyezd/'
 ---
 # Приезд и выезд в апартаментах Санкт-Петербурга: как сделать этот процесс идеальным
 

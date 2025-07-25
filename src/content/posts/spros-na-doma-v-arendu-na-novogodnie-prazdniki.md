@@ -1,10 +1,43 @@
 ---
-title: "Спрос на дома в аренду на новогодние праздники"
-description: "Новогодние праздники — время ажиотажного спроса на загородные дома. В нашей новой статье разбираемся, почему коттеджи разлетаются как горячие пирожки, как меняются цены и когда стоит начинать поиски. Эксперты ButlerSPB делятся инсайтами и советами по бронированию дома мечты для идеального Нового года."
-pubDate: "2025-07-23T11:14:09.200Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Спрос на дома в аренду на новогодние праздники","description":"Новогодние праздники — время ажиотажного спроса на загородные дома. В нашей новой статье разбираемся, почему коттеджи разлетаются как горячие пирожки, как меняются цены и когда стоит начинать поиски. Эксперты ButlerSPB делятся инсайтами и советами по бронированию дома мечты для идеального Нового года.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":851,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/spros-na-doma-v-arendu-na-novogodnie-prazdniki/"}}
+title: Спрос на дома в аренду на новогодние праздники
+description: >-
+  Новогодние праздники — время ажиотажного спроса на загородные дома. В нашей
+  новой статье разбираемся, почему коттеджи разлетаются как горячие пирожки, как
+  меняются цены и когда стоит начинать поиски. Эксперты ButlerSPB делятся
+  инсайтами и советами по бронированию дома мечты для идеального Нового года.
+pubDate: '2025-07-23T11:14:09.200Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: Спрос на дома в аренду на новогодние праздники
+  description: >-
+    Новогодние праздники — время ажиотажного спроса на загородные дома. В нашей
+    новой статье разбираемся, почему коттеджи разлетаются как горячие пирожки,
+    как меняются цены и когда стоит начинать поиски. Эксперты ButlerSPB делятся
+    инсайтами и советами по бронированию дома мечты для идеального Нового года.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '5.0'
+    reviewCount: 387
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/spros-na-doma-v-arendu-na-novogodnie-prazdniki/
 ---
 
 # Аренда дома на Новый год: экспертный гид по спросу, ценам и безопасному бронированию

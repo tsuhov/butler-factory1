@@ -1,10 +1,49 @@
 ---
-title: "Культурный Петербург без удара по кошельку: гид по экономии от ButlerSPB"
-description: "Мечтаете погрузиться в атмосферу культурной столицы, но боитесь, что это слишком дорого? Команда ButlerSPB развеивает мифы! В нашей новой статье мы собрали проверенные лайфхаки, которые помогут вам насладиться лучшими музеями, театрами и выставками Петербурга, не потратив целое состояние. Узнайте о днях бесплатного посещения, секретных скидках, бюджетных галереях и альтернативных культурных пространствах, которые сделают ваше путешествие незабываемым и выгодным."
-pubDate: "2025-07-22T11:45:12.916Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Культурный Петербург без удара по кошельку: гид по экономии от ButlerSPB","description":"Мечтаете погрузиться в атмосферу культурной столицы, но боитесь, что это слишком дорого? Команда ButlerSPB развеивает мифы! В нашей новой статье мы собрали проверенные лайфхаки, которые помогут вам насладиться лучшими музеями, театрами и выставками Петербурга, не потратив целое состояние. Узнайте о днях бесплатного посещения, секретных скидках, бюджетных галереях и альтернативных культурных пространствах, которые сделают ваше путешествие незабываемым и выгодным.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":803,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/kak-sekonomit-na-kulturnoy-programme-v-peterburge/"}}
+title: 'Культурный Петербург без удара по кошельку: гид по экономии от ButlerSPB'
+description: >-
+  Мечтаете погрузиться в атмосферу культурной столицы, но боитесь, что это
+  слишком дорого? Команда ButlerSPB развеивает мифы! В нашей новой статье мы
+  собрали проверенные лайфхаки, которые помогут вам насладиться лучшими музеями,
+  театрами и выставками Петербурга, не потратив целое состояние. Узнайте о днях
+  бесплатного посещения, секретных скидках, бюджетных галереях и альтернативных
+  культурных пространствах, которые сделают ваше путешествие незабываемым и
+  выгодным.
+pubDate: '2025-07-22T11:45:12.916Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Культурный Петербург без удара по кошельку: гид по экономии от ButlerSPB'
+  description: >-
+    Мечтаете погрузиться в атмосферу культурной столицы, но боитесь, что это
+    слишком дорого? Команда ButlerSPB развеивает мифы! В нашей новой статье мы
+    собрали проверенные лайфхаки, которые помогут вам насладиться лучшими
+    музеями, театрами и выставками Петербурга, не потратив целое состояние.
+    Узнайте о днях бесплатного посещения, секретных скидках, бюджетных галереях
+    и альтернативных культурных пространствах, которые сделают ваше путешествие
+    незабываемым и выгодным.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '5.0'
+    reviewCount: 375
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/kak-sekonomit-na-kulturnoy-programme-v-peterburge/
 ---
 
 # Посетить Эрмитаж за 0 рублей: Полный гид по экономии на культурной программе в Петербурге

@@ -1,10 +1,41 @@
 ---
-title: "Как проверить отчет доверительного управляющего: чек-лист инвестора"
-description: "Получили отчет от доверительного управляющего? Узнайте, как его правильно читать, на какие цифры и показатели смотреть и как вовремя распознать скрытые риски."
-pubDate: "2025-07-23T23:28:46.344Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Как проверить отчет доверительного управляющего: чек-лист инвестора","description":"Получили отчет от доверительного управляющего? Узнайте, как его правильно читать, на какие цифры и показатели смотреть и как вовремя распознать скрытые риски.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.7","reviewCount":557,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/prozrachnost-otchetov-doveritelnogo-upravlyayuschego-chto-proveryat/"}}
+title: 'Как проверить отчет доверительного управляющего: чек-лист инвестора'
+description: >-
+  Получили отчет от доверительного управляющего? Узнайте, как его правильно
+  читать, на какие цифры и показатели смотреть и как вовремя распознать скрытые
+  риски.
+pubDate: '2025-07-23T23:28:46.344Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Как проверить отчет доверительного управляющего: чек-лист инвестора'
+  description: >-
+    Получили отчет от доверительного управляющего? Узнайте, как его правильно
+    читать, на какие цифры и показатели смотреть и как вовремя распознать
+    скрытые риски.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.8'
+    reviewCount: 584
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/prozrachnost-otchetov-doveritelnogo-upravlyayuschego-chto-proveryat/
 ---
 
 # Как проверить отчет доверительного управляющего: чек-лист инвестора

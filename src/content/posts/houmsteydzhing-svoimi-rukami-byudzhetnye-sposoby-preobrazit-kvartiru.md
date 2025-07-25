@@ -1,10 +1,43 @@
 ---
-title: "Хоумстейджинг своими руками: бюджетные способы преобразить квартиру"
-description: "Готовите квартиру к продаже или аренде? Команда ButlerSPB делится проверенными и недорогими лайфхаками по хоумстейджингу. Узнайте, как с минимальными вложениями освежить интерьер, создать уют и значительно повысить привлекательность вашего объекта для будущих жильцов."
-pubDate: "2025-07-23T12:15:39.685Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Хоумстейджинг своими руками: бюджетные способы преобразить квартиру","description":"Готовите квартиру к продаже или аренде? Команда ButlerSPB делится проверенными и недорогими лайфхаками по хоумстейджингу. Узнайте, как с минимальными вложениями освежить интерьер, создать уют и значительно повысить привлекательность вашего объекта для будущих жильцов.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.8","reviewCount":598,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/houmsteydzhing-svoimi-rukami-byudzhetnye-sposoby-preobrazit-kvartiru/"}}
+title: 'Хоумстейджинг своими руками: бюджетные способы преобразить квартиру'
+description: >-
+  Готовите квартиру к продаже или аренде? Команда ButlerSPB делится проверенными
+  и недорогими лайфхаками по хоумстейджингу. Узнайте, как с минимальными
+  вложениями освежить интерьер, создать уют и значительно повысить
+  привлекательность вашего объекта для будущих жильцов.
+pubDate: '2025-07-23T12:15:39.685Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Хоумстейджинг своими руками: бюджетные способы преобразить квартиру'
+  description: >-
+    Готовите квартиру к продаже или аренде? Команда ButlerSPB делится
+    проверенными и недорогими лайфхаками по хоумстейджингу. Узнайте, как с
+    минимальными вложениями освежить интерьер, создать уют и значительно
+    повысить привлекательность вашего объекта для будущих жильцов.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.7'
+    reviewCount: 447
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/houmsteydzhing-svoimi-rukami-byudzhetnye-sposoby-preobrazit-kvartiru/
 ---
 
 # Хоумстейджинг своими руками: Как преобразить квартиру для продажи или аренды с минимальным бюджетом

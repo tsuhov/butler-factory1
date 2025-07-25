@@ -1,11 +1,40 @@
 ---
-title: "Готовность помочь: ключ к безупречному сервису"
-description: "В основе философии ButlerSPB лежит искренняя готовность помочь. Это не просто услуга, а проактивный подход к решению любых задач, предвосхищая ваши ожидания."
-keywords: "готовность помочь, сервис, клиентоориентированность, ButlerSPB, поддержка клиентов, консьерж-сервис, решение задач"
-pubDate: "2025-07-24T13:39:59.332Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Готовность помочь: ключ к безупречному сервису","description":"В основе философии ButlerSPB лежит искренняя готовность помочь. Это не просто услуга, а проактивный подход к решению любых задач, предвосхищая ваши ожидания.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.8","reviewCount":668,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/gotovnost-pomoch/"}}
+title: 'Готовность помочь: ключ к безупречному сервису'
+description: >-
+  В основе философии ButlerSPB лежит искренняя готовность помочь. Это не просто
+  услуга, а проактивный подход к решению любых задач, предвосхищая ваши
+  ожидания.
+pubDate: '2025-07-24T13:39:59.332Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Готовность помочь: ключ к безупречному сервису'
+  description: >-
+    В основе философии ButlerSPB лежит искренняя готовность помочь. Это не
+    просто услуга, а проактивный подход к решению любых задач, предвосхищая ваши
+    ожидания.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.7'
+    reviewCount: 458
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': 'https://butlerspb-blog.netlify.app/blog/gotovnost-pomoch/'
 ---
 # Готовность помочь: не просто слова, а ДНК нашего консьерж-сервиса
 

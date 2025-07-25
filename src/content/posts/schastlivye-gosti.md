@@ -1,11 +1,40 @@
 ---
-title: "ButlerSPB: создаем моменты счастья для гостей"
-description: "В ButlerSPB мы верим, что счастье гостя — это результат безупречного сервиса и внимания к мелочам. Наша цель — превзойти ожидания и создать атмосферу комфорта."
-keywords: "счастливые гости, ButlerSPB, гостеприимство, сервис для гостей, управление апартаментами, комфорт, отзывы гостей"
-pubDate: "2025-07-24T13:45:55.293Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"ButlerSPB: создаем моменты счастья для гостей","description":"В ButlerSPB мы верим, что счастье гостя — это результат безупречного сервиса и внимания к мелочам. Наша цель — превзойти ожидания и создать атмосферу комфорта.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":849,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/schastlivye-gosti/"}}
+title: 'ButlerSPB: создаем моменты счастья для гостей'
+description: >-
+  В ButlerSPB мы верим, что счастье гостя — это результат безупречного сервиса и
+  внимания к мелочам. Наша цель — превзойти ожидания и создать атмосферу
+  комфорта.
+pubDate: '2025-07-24T13:45:55.293Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'ButlerSPB: создаем моменты счастья для гостей'
+  description: >-
+    В ButlerSPB мы верим, что счастье гостя — это результат безупречного сервиса
+    и внимания к мелочам. Наша цель — превзойти ожидания и создать атмосферу
+    комфорта.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.9'
+    reviewCount: 862
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': 'https://butlerspb-blog.netlify.app/blog/schastlivye-gosti/'
 ---
 # Счастливый гость — богатый хозяин: Как ButlerSPB создает идеальный опыт для ваших постояльцев в Санкт-Петербурге
 

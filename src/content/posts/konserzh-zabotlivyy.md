@@ -1,11 +1,38 @@
 ---
-title: "Консьерж ButlerSPB: забота в каждой детали"
-description: "Узнайте, что значит настоящая забота от консьержей ButlerSPB. Мы не просто выполняем задачи, а предвосхищаем ваши желания, создавая комфорт и уют."
-keywords: "консьерж-сервис, заботливый консьерж, ButlerSPB, личный помощник, услуги консьержа, премиум сервис, консьерж спб"
-pubDate: "2025-07-24T13:45:45.274Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Консьерж ButlerSPB: забота в каждой детали","description":"Узнайте, что значит настоящая забота от консьержей ButlerSPB. Мы не просто выполняем задачи, а предвосхищаем ваши желания, создавая комфорт и уют.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"5.0","reviewCount":641,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/konserzh-zabotlivyy/"}}
+title: 'Консьерж ButlerSPB: забота в каждой детали'
+description: >-
+  Узнайте, что значит настоящая забота от консьержей ButlerSPB. Мы не просто
+  выполняем задачи, а предвосхищаем ваши желания, создавая комфорт и уют.
+pubDate: '2025-07-24T13:45:45.274Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Консьерж ButlerSPB: забота в каждой детали'
+  description: >-
+    Узнайте, что значит настоящая забота от консьержей ButlerSPB. Мы не просто
+    выполняем задачи, а предвосхищаем ваши желания, создавая комфорт и уют.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.9'
+    reviewCount: 347
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': 'https://butlerspb-blog.netlify.app/blog/konserzh-zabotlivyy/'
 ---
 # Заботливый консьерж: Ваш персональный Butler в Санкт-Петербурге, который работает на опережение
 

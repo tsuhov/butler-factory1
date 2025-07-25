@@ -1,10 +1,45 @@
 ---
-title: "Что такое встречная покупка квартиры в СПб: пошаговая инструкция и риски"
-description: "Планируете продать свою квартиру в Санкт-Петербурге, чтобы сразу купить новую? Это и есть 'встречная покупка'. В нашей статье команда ButlerSPB подробно разбирает, что это за сделка, как правильно выстроить 'цепочку' из нескольких объектов, с какими трудностями можно столкнуться и как безопасно и выгодно провести одновременную продажу и покупку жилья."
-pubDate: "2025-07-22T15:32:10.716Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Что такое встречная покупка квартиры в СПб: пошаговая инструкция и риски","description":"Планируете продать свою квартиру в Санкт-Петербурге, чтобы сразу купить новую? Это и есть 'встречная покупка'. В нашей статье команда ButlerSPB подробно разбирает, что это за сделка, как правильно выстроить 'цепочку' из нескольких объектов, с какими трудностями можно столкнуться и как безопасно и выгодно провести одновременную продажу и покупку жилья.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.8","reviewCount":327,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/chto-takoe-vstrechnaya-pokupka-pri-prodazhe-kvartiry-v-spb/"}}
+title: 'Что такое встречная покупка квартиры в СПб: пошаговая инструкция и риски'
+description: >-
+  Планируете продать свою квартиру в Санкт-Петербурге, чтобы сразу купить новую?
+  Это и есть 'встречная покупка'. В нашей статье команда ButlerSPB подробно
+  разбирает, что это за сделка, как правильно выстроить 'цепочку' из нескольких
+  объектов, с какими трудностями можно столкнуться и как безопасно и выгодно
+  провести одновременную продажу и покупку жилья.
+pubDate: '2025-07-22T15:32:10.716Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Что такое встречная покупка квартиры в СПб: пошаговая инструкция и риски'
+  description: >-
+    Планируете продать свою квартиру в Санкт-Петербурге, чтобы сразу купить
+    новую? Это и есть 'встречная покупка'. В нашей статье команда ButlerSPB
+    подробно разбирает, что это за сделка, как правильно выстроить 'цепочку' из
+    нескольких объектов, с какими трудностями можно столкнуться и как безопасно
+    и выгодно провести одновременную продажу и покупку жилья.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.8'
+    reviewCount: 509
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/chto-takoe-vstrechnaya-pokupka-pri-prodazhe-kvartiry-v-spb/
 ---
 
 # Встречная покупка квартиры в СПб: пошаговая инструкция 2024, как продать и купить жилье одновременно

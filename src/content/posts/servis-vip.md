@@ -1,11 +1,40 @@
 ---
-title: "Эксклюзивный VIP-сервис от ButlerSPB в СПб"
-description: "Узнайте, что такое настоящий VIP-сервис с ButlerSPB. Мы предоставляем эксклюзивные услуги, от личного ассистента до организации элитного отдыха и мероприятий."
-keywords: "VIP-сервис, консьерж-сервис, ButlerSPB, личный ассистент, премиум услуги, эксклюзивный сервис, Санкт-Петербург"
-pubDate: "2025-07-24T13:11:40.843Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Эксклюзивный VIP-сервис от ButlerSPB в СПб","description":"Узнайте, что такое настоящий VIP-сервис с ButlerSPB. Мы предоставляем эксклюзивные услуги, от личного ассистента до организации элитного отдыха и мероприятий.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"5.0","reviewCount":414,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/servis-vip/"}}
+title: Эксклюзивный VIP-сервис от ButlerSPB в СПб
+description: >-
+  Узнайте, что такое настоящий VIP-сервис с ButlerSPB. Мы предоставляем
+  эксклюзивные услуги, от личного ассистента до организации элитного отдыха и
+  мероприятий.
+pubDate: '2025-07-24T13:11:40.843Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: Эксклюзивный VIP-сервис от ButlerSPB в СПб
+  description: >-
+    Узнайте, что такое настоящий VIP-сервис с ButlerSPB. Мы предоставляем
+    эксклюзивные услуги, от личного ассистента до организации элитного отдыха и
+    мероприятий.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.7'
+    reviewCount: 451
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': 'https://butlerspb-blog.netlify.app/blog/servis-vip/'
 ---
 # VIP-сервис: Не Просто Роскошь, а Философия Вашего Времени
 

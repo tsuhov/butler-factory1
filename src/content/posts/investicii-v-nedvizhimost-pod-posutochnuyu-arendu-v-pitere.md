@@ -1,10 +1,49 @@
 ---
-title: "Инвестиции в недвижимость под посуточную аренду в Санкт-Петербурге: полное руководство от ButlerSPB"
-description: "Планируете инвестировать в квартиру для посуточной сдачи в Санкт-Петербурге? В этой статье команда ButlerSPB раскрывает все секреты: выбор ликвидного района, расчет доходности, юридические нюансы и как профессиональное управление помогает максимизировать прибыль и избежать простоев. Превратите свою недвижимость в стабильный источник пассивного дохода вместе с нами."
-pubDate: "2025-07-22T00:56:29.523Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Инвестиции в недвижимость под посуточную аренду в Санкт-Петербурге: полное руководство от ButlerSPB","description":"Планируете инвестировать в квартиру для посуточной сдачи в Санкт-Петербурге? В этой статье команда ButlerSPB раскрывает все секреты: выбор ликвидного района, расчет доходности, юридические нюансы и как профессиональное управление помогает максимизировать прибыль и избежать простоев. Превратите свою недвижимость в стабильный источник пассивного дохода вместе с нами.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"5.0","reviewCount":681,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/investicii-v-nedvizhimost-pod-posutochnuyu-arendu-v-pitere/"}}
+title: >-
+  Инвестиции в недвижимость под посуточную аренду в Санкт-Петербурге: полное
+  руководство от ButlerSPB
+description: >-
+  Планируете инвестировать в квартиру для посуточной сдачи в Санкт-Петербурге? В
+  этой статье команда ButlerSPB раскрывает все секреты: выбор ликвидного района,
+  расчет доходности, юридические нюансы и как профессиональное управление
+  помогает максимизировать прибыль и избежать простоев. Превратите свою
+  недвижимость в стабильный источник пассивного дохода вместе с нами.
+pubDate: '2025-07-22T00:56:29.523Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: >-
+    Инвестиции в недвижимость под посуточную аренду в Санкт-Петербурге: полное
+    руководство от ButlerSPB
+  description: >-
+    Планируете инвестировать в квартиру для посуточной сдачи в Санкт-Петербурге?
+    В этой статье команда ButlerSPB раскрывает все секреты: выбор ликвидного
+    района, расчет доходности, юридические нюансы и как профессиональное
+    управление помогает максимизировать прибыль и избежать простоев. Превратите
+    свою недвижимость в стабильный источник пассивного дохода вместе с нами.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '5.0'
+    reviewCount: 676
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/investicii-v-nedvizhimost-pod-posutochnuyu-arendu-v-pitere/
 ---
 
 # Инвестиции в посуточную аренду в Санкт-Петербурге: Пошаговое руководство для инвестора от А до Я

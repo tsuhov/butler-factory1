@@ -1,10 +1,49 @@
 ---
-title: "Покупка квартиры без отделки: как оценить стоимость «чернового» ремонта"
-description: "Квартира в новостройке без отделки — это возможность создать интерьер мечты с нуля. Но как правильно рассчитать бюджет на ремонт и не столкнуться с непредвиденными тратами? В новой статье для блога ButlerSPB мы подробно разбираем, из чего складывается стоимость черновых работ, на что обратить внимание при составлении сметы и какие подводные камни могут ждать будущего владельца. Узнайте, как превратить бетонную коробку в уютное жилье, не выходя за рамки бюджета."
-pubDate: "2025-07-23T11:32:21.677Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Покупка квартиры без отделки: как оценить стоимость «чернового» ремонта","description":"Квартира в новостройке без отделки — это возможность создать интерьер мечты с нуля. Но как правильно рассчитать бюджет на ремонт и не столкнуться с непредвиденными тратами? В новой статье для блога ButlerSPB мы подробно разбираем, из чего складывается стоимость черновых работ, на что обратить внимание при составлении сметы и какие подводные камни могут ждать будущего владельца. Узнайте, как превратить бетонную коробку в уютное жилье, не выходя за рамки бюджета.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.8","reviewCount":622,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/pokupka-kvartiry-bez-otdelki-kak-ocenit-stoimost-chernovogo-remonta/"}}
+title: 'Покупка квартиры без отделки: как оценить стоимость «чернового» ремонта'
+description: >-
+  Квартира в новостройке без отделки — это возможность создать интерьер мечты с
+  нуля. Но как правильно рассчитать бюджет на ремонт и не столкнуться с
+  непредвиденными тратами? В новой статье для блога ButlerSPB мы подробно
+  разбираем, из чего складывается стоимость черновых работ, на что обратить
+  внимание при составлении сметы и какие подводные камни могут ждать будущего
+  владельца. Узнайте, как превратить бетонную коробку в уютное жилье, не выходя
+  за рамки бюджета.
+pubDate: '2025-07-23T11:32:21.677Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Покупка квартиры без отделки: как оценить стоимость «чернового» ремонта'
+  description: >-
+    Квартира в новостройке без отделки — это возможность создать интерьер мечты
+    с нуля. Но как правильно рассчитать бюджет на ремонт и не столкнуться с
+    непредвиденными тратами? В новой статье для блога ButlerSPB мы подробно
+    разбираем, из чего складывается стоимость черновых работ, на что обратить
+    внимание при составлении сметы и какие подводные камни могут ждать будущего
+    владельца. Узнайте, как превратить бетонную коробку в уютное жилье, не
+    выходя за рамки бюджета.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.9'
+    reviewCount: 686
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/pokupka-kvartiry-bez-otdelki-kak-ocenit-stoimost-chernovogo-remonta/
 ---
 
 # Покупка квартиры без отделки: как оценить стоимость «чернового» ремонта в 2024 году

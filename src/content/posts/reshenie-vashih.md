@@ -1,11 +1,40 @@
 ---
-title: "ButlerSPB: комплексное решение ваших задач"
-description: "Ищете надежного партнера? ButlerSPB предлагает комплексные решения для вашего бизнеса. Мы берем на себя сложные задачи, чтобы вы могли сфокусироваться на главном."
-keywords: "решение задач, бизнес-услуги, ButlerSPB, аутсорсинг, консалтинг, оптимизация процессов, управление проектами"
-pubDate: "2025-07-25T13:43:16.093Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"ButlerSPB: комплексное решение ваших задач","description":"Ищете надежного партнера? ButlerSPB предлагает комплексные решения для вашего бизнеса. Мы берем на себя сложные задачи, чтобы вы могли сфокусироваться на главном.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":410,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/reshenie-vashih/"}}
+title: 'ButlerSPB: комплексное решение ваших задач'
+description: >-
+  Ищете надежного партнера? ButlerSPB предлагает комплексные решения для вашего
+  бизнеса. Мы берем на себя сложные задачи, чтобы вы могли сфокусироваться на
+  главном.
+pubDate: '2025-07-25T13:43:16.093Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'ButlerSPB: комплексное решение ваших задач'
+  description: >-
+    Ищете надежного партнера? ButlerSPB предлагает комплексные решения для
+    вашего бизнеса. Мы берем на себя сложные задачи, чтобы вы могли
+    сфокусироваться на главном.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.8'
+    reviewCount: 581
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': 'https://butlerspb-blog.netlify.app/blog/reshenie-vashih/'
 ---
 # Ваше время — бесценно. Делегируйте всё, что можно делегировать
 

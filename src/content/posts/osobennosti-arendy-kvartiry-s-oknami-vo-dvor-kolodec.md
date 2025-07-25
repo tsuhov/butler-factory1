@@ -1,11 +1,40 @@
 ---
-title: "Аренда квартиры с окнами во двор-колодец"
-description: "Планируете снять квартиру в Петербурге? Рассказываем про все особенности жилья с окнами во двор-колодец: от звенящей тишины до вечного недостатка света."
-keywords: "аренда квартиры, двор-колодец, снять жилье в спб, окна во двор, ButlerSPB, особенности аренды"
-pubDate: "2025-07-24T12:04:49.596Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Аренда квартиры с окнами во двор-колодец","description":"Планируете снять квартиру в Петербурге? Рассказываем про все особенности жилья с окнами во двор-колодец: от звенящей тишины до вечного недостатка света.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.8","reviewCount":633,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/osobennosti-arendy-kvartiry-s-oknami-vo-dvor-kolodec/"}}
+title: Аренда квартиры с окнами во двор-колодец
+description: >-
+  Планируете снять квартиру в Петербурге? Рассказываем про все особенности жилья
+  с окнами во двор-колодец: от звенящей тишины до вечного недостатка света.
+pubDate: '2025-07-24T12:04:49.596Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: Аренда квартиры с окнами во двор-колодец
+  description: >-
+    Планируете снять квартиру в Петербурге? Рассказываем про все особенности
+    жилья с окнами во двор-колодец: от звенящей тишины до вечного недостатка
+    света.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.7'
+    reviewCount: 730
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/osobennosti-arendy-kvartiry-s-oknami-vo-dvor-kolodec/
 ---
 # Двор-колодец в Петербурге: Романтика Достоевского или бытовой кошмар? Полный гид по аренде
 

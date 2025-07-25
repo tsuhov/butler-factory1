@@ -1,10 +1,43 @@
 ---
-title: "Что такое квартира \"white box\" и ее инвестиционная привлекательность"
-description: "В блоге ButlerSPB разбираемся, что скрывается за термином \"white box\". Рассказываем, чем такая отделка отличается от черновой и чистовой, какие преимущества она дает инвестору и почему это отличный старт для создания интерьера мечты без лишних затрат и \"грязных\" работ."
-pubDate: "2025-07-22T13:42:35.337Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Что такое квартира \"white box\" и ее инвестиционная привлекательность","description":"В блоге ButlerSPB разбираемся, что скрывается за термином \"white box\". Рассказываем, чем такая отделка отличается от черновой и чистовой, какие преимущества она дает инвестору и почему это отличный старт для создания интерьера мечты без лишних затрат и \"грязных\" работ.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.8","reviewCount":700,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/chto-takoe-kvartira-white-box-i-ee-investicionnaya-privlekatelnost/"}}
+title: Что такое квартира "white box" и ее инвестиционная привлекательность
+description: >-
+  В блоге ButlerSPB разбираемся, что скрывается за термином "white box".
+  Рассказываем, чем такая отделка отличается от черновой и чистовой, какие
+  преимущества она дает инвестору и почему это отличный старт для создания
+  интерьера мечты без лишних затрат и "грязных" работ.
+pubDate: '2025-07-22T13:42:35.337Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: Что такое квартира "white box" и ее инвестиционная привлекательность
+  description: >-
+    В блоге ButlerSPB разбираемся, что скрывается за термином "white box".
+    Рассказываем, чем такая отделка отличается от черновой и чистовой, какие
+    преимущества она дает инвестору и почему это отличный старт для создания
+    интерьера мечты без лишних затрат и "грязных" работ.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.7'
+    reviewCount: 424
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/chto-takoe-kvartira-white-box-i-ee-investicionnaya-privlekatelnost/
 ---
 
 # Квартира White Box: Полный гид для инвестора и будущего владельца. Что это, плюсы, минусы и расчет выгоды

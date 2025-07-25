@@ -1,10 +1,45 @@
 ---
-title: "Долгосрочное жилищное кредитование в Санкт-Петербурге: актуальные программы"
-description: "Планируете покупку недвижимости в Северной столице? Команда ButlerSPB подготовила подробный обзор актуальных программ долгосрочного жилищного кредитования в Санкт-Петербурге. В статье разбираем льготную ипотеку, семейные программы, IT-ипотеку и другие предложения банков: сравниваем ставки, условия и первоначальные взносы."
-pubDate: "2025-07-22T16:28:42.412Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Долгосрочное жилищное кредитование в Санкт-Петербурге: актуальные программы","description":"Планируете покупку недвижимости в Северной столице? Команда ButlerSPB подготовила подробный обзор актуальных программ долгосрочного жилищного кредитования в Санкт-Петербурге. В статье разбираем льготную ипотеку, семейные программы, IT-ипотеку и другие предложения банков: сравниваем ставки, условия и первоначальные взносы.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.8","reviewCount":616,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/dolgosrochnoe-zhilischnoe-kreditovanie-v-sankt-peterburge-aktualnye-programmy/"}}
+title: 'Долгосрочное жилищное кредитование в Санкт-Петербурге: актуальные программы'
+description: >-
+  Планируете покупку недвижимости в Северной столице? Команда ButlerSPB
+  подготовила подробный обзор актуальных программ долгосрочного жилищного
+  кредитования в Санкт-Петербурге. В статье разбираем льготную ипотеку, семейные
+  программы, IT-ипотеку и другие предложения банков: сравниваем ставки, условия
+  и первоначальные взносы.
+pubDate: '2025-07-22T16:28:42.412Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Долгосрочное жилищное кредитование в Санкт-Петербурге: актуальные программы'
+  description: >-
+    Планируете покупку недвижимости в Северной столице? Команда ButlerSPB
+    подготовила подробный обзор актуальных программ долгосрочного жилищного
+    кредитования в Санкт-Петербурге. В статье разбираем льготную ипотеку,
+    семейные программы, IT-ипотеку и другие предложения банков: сравниваем
+    ставки, условия и первоначальные взносы.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.8'
+    reviewCount: 772
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/dolgosrochnoe-zhilischnoe-kreditovanie-v-sankt-peterburge-aktualnye-programmy/
 ---
 
 # Ипотека в Санкт-Петербурге 2024: Полный гид по актуальным программам, ставкам и скрытым условиям

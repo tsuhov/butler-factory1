@@ -1,11 +1,40 @@
 ---
-title: "Ключевые источники дохода в ритейл-бизнесе"
-description: "ButlerSPB анализирует основные источники дохода в ритейле. Мы рассмотрим, как маржа, оборачиваемость товаров и дополнительные услуги формируют финансовый успех."
-keywords: "доход ритейл, прибыль в рознице, увеличение продаж, управление доходом, розничная торговля, финансовые показатели"
-pubDate: "2025-07-25T15:35:27.529Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Ключевые источники дохода в ритейл-бизнесе","description":"ButlerSPB анализирует основные источники дохода в ритейле. Мы рассмотрим, как маржа, оборачиваемость товаров и дополнительные услуги формируют финансовый успех.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"5.0","reviewCount":367,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/dohod-riteyl/"}}
+title: Ключевые источники дохода в ритейл-бизнесе
+description: >-
+  ButlerSPB анализирует основные источники дохода в ритейле. Мы рассмотрим, как
+  маржа, оборачиваемость товаров и дополнительные услуги формируют финансовый
+  успех.
+pubDate: '2025-07-25T15:35:27.529Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: Ключевые источники дохода в ритейл-бизнесе
+  description: >-
+    ButlerSPB анализирует основные источники дохода в ритейле. Мы рассмотрим,
+    как маржа, оборачиваемость товаров и дополнительные услуги формируют
+    финансовый успех.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.7'
+    reviewCount: 553
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': 'https://butlerspb-blog.netlify.app/blog/dohod-riteyl/'
 ---
 # Анатомия дохода в ритейле: полное руководство по увеличению прибыли вашего магазина
 

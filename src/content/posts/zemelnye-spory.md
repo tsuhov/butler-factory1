@@ -1,11 +1,39 @@
 ---
-title: "Как решить земельный спор: советы ButlerSPB"
-description: "Земельные споры – сложная категория дел. Юристы ButlerSPB помогут разобраться в границах участков, наследстве и праве собственности, защитив ваши интересы."
-keywords: "земельный спор, юрист по земле, границы участка, право собственности, межевание, ButlerSPB, кадастр"
-pubDate: "2025-07-25T16:03:06.815Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Как решить земельный спор: советы ButlerSPB","description":"Земельные споры – сложная категория дел. Юристы ButlerSPB помогут разобраться в границах участков, наследстве и праве собственности, защитив ваши интересы.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":385,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/zemelnye-spory/"}}
+title: 'Как решить земельный спор: советы ButlerSPB'
+description: >-
+  Земельные споры – сложная категория дел. Юристы ButlerSPB помогут разобраться
+  в границах участков, наследстве и праве собственности, защитив ваши интересы.
+pubDate: '2025-07-25T16:03:06.815Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Как решить земельный спор: советы ButlerSPB'
+  description: >-
+    Земельные споры – сложная категория дел. Юристы ButlerSPB помогут
+    разобраться в границах участков, наследстве и праве собственности, защитив
+    ваши интересы.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.9'
+    reviewCount: 592
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': 'https://butlerspb-blog.netlify.app/blog/zemelnye-spory/'
 ---
 # Земельные споры: полное руководство по защите вашей земли в Санкт-Петербурге и ЛО
 

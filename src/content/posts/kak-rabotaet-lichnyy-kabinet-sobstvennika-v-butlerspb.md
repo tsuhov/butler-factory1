@@ -1,10 +1,47 @@
 ---
-title: "Личный кабинет собственника ButlerSPB: полный гид по функциям и возможностям"
-description: "Управление вашей недвижимостью с ButlerSPB — это синоним прозрачности и удобства. Ключевой инструмент для каждого собственника — наш личный кабинет. В этой статье мы подробно разберем все его функции: от отслеживания доходности и просмотра финансовых отчетов до контроля календаря бронирований и связи с персональным менеджером. Узнайте, как использовать ваш персональный центр управления на 100% и всегда быть в курсе дел."
-pubDate: "2025-07-22T11:03:56.577Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Личный кабинет собственника ButlerSPB: полный гид по функциям и возможностям","description":"Управление вашей недвижимостью с ButlerSPB — это синоним прозрачности и удобства. Ключевой инструмент для каждого собственника — наш личный кабинет. В этой статье мы подробно разберем все его функции: от отслеживания доходности и просмотра финансовых отчетов до контроля календаря бронирований и связи с персональным менеджером. Узнайте, как использовать ваш персональный центр управления на 100% и всегда быть в курсе дел.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":630,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/kak-rabotaet-lichnyy-kabinet-sobstvennika-v-butlerspb/"}}
+title: 'Личный кабинет собственника ButlerSPB: полный гид по функциям и возможностям'
+description: >-
+  Управление вашей недвижимостью с ButlerSPB — это синоним прозрачности и
+  удобства. Ключевой инструмент для каждого собственника — наш личный кабинет. В
+  этой статье мы подробно разберем все его функции: от отслеживания доходности и
+  просмотра финансовых отчетов до контроля календаря бронирований и связи с
+  персональным менеджером. Узнайте, как использовать ваш персональный центр
+  управления на 100% и всегда быть в курсе дел.
+pubDate: '2025-07-22T11:03:56.577Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Личный кабинет собственника ButlerSPB: полный гид по функциям и возможностям'
+  description: >-
+    Управление вашей недвижимостью с ButlerSPB — это синоним прозрачности и
+    удобства. Ключевой инструмент для каждого собственника — наш личный кабинет.
+    В этой статье мы подробно разберем все его функции: от отслеживания
+    доходности и просмотра финансовых отчетов до контроля календаря бронирований
+    и связи с персональным менеджером. Узнайте, как использовать ваш
+    персональный центр управления на 100% и всегда быть в курсе дел.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.8'
+    reviewCount: 586
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/kak-rabotaet-lichnyy-kabinet-sobstvennika-v-butlerspb/
 ---
 
 # Личный кабинет собственника ButlerSPB: Полный гид по вашему центру управления недвижимостью

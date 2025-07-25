@@ -1,11 +1,40 @@
 ---
-title: "Ассистент Батлер: ваш личный помощник в СПб"
-description: "Узнайте, кто такой ассистент батлер и как он может упростить вашу жизнь. Профессионал от ButlerSPB возьмет на себя рутинные задачи, организует ваше время."
-keywords: "ассистент батлер, личный помощник, услуги батлера, ButlerSPB, консьерж-сервис, организация времени"
-pubDate: "2025-07-24T13:14:47.165Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Ассистент Батлер: ваш личный помощник в СПб","description":"Узнайте, кто такой ассистент батлер и как он может упростить вашу жизнь. Профессионал от ButlerSPB возьмет на себя рутинные задачи, организует ваше время.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":585,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/assistent-batler/"}}
+title: 'Ассистент Батлер: ваш личный помощник в СПб'
+description: >-
+  Узнайте, кто такой ассистент батлер и как он может упростить вашу жизнь.
+  Профессионал от ButlerSPB возьмет на себя рутинные задачи, организует ваше
+  время.
+pubDate: '2025-07-24T13:14:47.165Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Ассистент Батлер: ваш личный помощник в СПб'
+  description: >-
+    Узнайте, кто такой ассистент батлер и как он может упростить вашу жизнь.
+    Профессионал от ButlerSPB возьмет на себя рутинные задачи, организует ваше
+    время.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.8'
+    reviewCount: 550
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': 'https://butlerspb-blog.netlify.app/blog/assistent-batler/'
 ---
 # Ассистент Батлер: Больше, чем личный помощник. Ваш стратегический партнер в управлении жизнью
 

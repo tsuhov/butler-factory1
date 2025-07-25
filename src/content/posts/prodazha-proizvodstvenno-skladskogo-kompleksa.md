@@ -1,10 +1,49 @@
 ---
-title: "Продажа производственно-складского комплекса: как провести сделку выгодно и безопасно"
-description: "Планируете продажу производственно-складского комплекса? В новой статье блога ButlerSPB мы подробно разбираем ключевые этапы сделки: от предпродажной подготовки и адекватной оценки стоимости до маркетинговой стратегии и юридического сопровождения. Узнайте, как найти правильного покупателя и максимизировать прибыль от продажи вашего промышленного актива."
-pubDate: "2025-07-23T11:49:52.034Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Продажа производственно-складского комплекса: как провести сделку выгодно и безопасно","description":"Планируете продажу производственно-складского комплекса? В новой статье блога ButlerSPB мы подробно разбираем ключевые этапы сделки: от предпродажной подготовки и адекватной оценки стоимости до маркетинговой стратегии и юридического сопровождения. Узнайте, как найти правильного покупателя и максимизировать прибыль от продажи вашего промышленного актива.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.8","reviewCount":895,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/prodazha-proizvodstvenno-skladskogo-kompleksa/"}}
+title: >-
+  Продажа производственно-складского комплекса: как провести сделку выгодно и
+  безопасно
+description: >-
+  Планируете продажу производственно-складского комплекса? В новой статье блога
+  ButlerSPB мы подробно разбираем ключевые этапы сделки: от предпродажной
+  подготовки и адекватной оценки стоимости до маркетинговой стратегии и
+  юридического сопровождения. Узнайте, как найти правильного покупателя и
+  максимизировать прибыль от продажи вашего промышленного актива.
+pubDate: '2025-07-23T11:49:52.034Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: >-
+    Продажа производственно-складского комплекса: как провести сделку выгодно и
+    безопасно
+  description: >-
+    Планируете продажу производственно-складского комплекса? В новой статье
+    блога ButlerSPB мы подробно разбираем ключевые этапы сделки: от
+    предпродажной подготовки и адекватной оценки стоимости до маркетинговой
+    стратегии и юридического сопровождения. Узнайте, как найти правильного
+    покупателя и максимизировать прибыль от продажи вашего промышленного актива.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.8'
+    reviewCount: 556
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/prodazha-proizvodstvenno-skladskogo-kompleksa/
 ---
 
 # Как продать производственно-складской комплекс: Пошаговый план от экспертов по коммерческой недвижимости

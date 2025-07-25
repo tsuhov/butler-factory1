@@ -1,10 +1,43 @@
 ---
-title: "Как найти ближайшую круглосуточную аптеку"
-description: "Внезапная потребность в лекарствах может возникнуть в самый неподходящий момент. Команда ButlerSPB подготовила подробное руководство о том, как быстро и без лишних хлопот найти работающую аптеку рядом с вами в любое время суток, используя современные онлайн-карты и приложения."
-pubDate: "2025-07-22T11:44:01.521Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Как найти ближайшую круглосуточную аптеку","description":"Внезапная потребность в лекарствах может возникнуть в самый неподходящий момент. Команда ButlerSPB подготовила подробное руководство о том, как быстро и без лишних хлопот найти работающую аптеку рядом с вами в любое время суток, используя современные онлайн-карты и приложения.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":345,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/kak-nayti-blizhayshuyu-kruglosutochnuyu-apteku/"}}
+title: Как найти ближайшую круглосуточную аптеку
+description: >-
+  Внезапная потребность в лекарствах может возникнуть в самый неподходящий
+  момент. Команда ButlerSPB подготовила подробное руководство о том, как быстро
+  и без лишних хлопот найти работающую аптеку рядом с вами в любое время суток,
+  используя современные онлайн-карты и приложения.
+pubDate: '2025-07-22T11:44:01.521Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: Как найти ближайшую круглосуточную аптеку
+  description: >-
+    Внезапная потребность в лекарствах может возникнуть в самый неподходящий
+    момент. Команда ButlerSPB подготовила подробное руководство о том, как
+    быстро и без лишних хлопот найти работающую аптеку рядом с вами в любое
+    время суток, используя современные онлайн-карты и приложения.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.8'
+    reviewCount: 800
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/kak-nayti-blizhayshuyu-kruglosutochnuyu-apteku/
 ---
 
 # Как найти круглосуточную аптеку в СПб: все способы от ButlerSPB

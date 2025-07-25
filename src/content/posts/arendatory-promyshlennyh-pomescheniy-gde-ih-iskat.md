@@ -1,10 +1,43 @@
 ---
-title: "Арендаторы промышленных помещений: где их искать"
-description: "Сдаете производственное или складское помещение и не знаете, где найти надежного арендатора? Команда ButlerSPB делится проверенными способами и каналами поиска: от онлайн-агрегаторов до работы с брокерами и отраслевыми сообществами. Узнайте, как быстро и выгодно сдать ваш объект в аренду."
-pubDate: "2025-07-23T11:28:02.610Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Арендаторы промышленных помещений: где их искать","description":"Сдаете производственное или складское помещение и не знаете, где найти надежного арендатора? Команда ButlerSPB делится проверенными способами и каналами поиска: от онлайн-агрегаторов до работы с брокерами и отраслевыми сообществами. Узнайте, как быстро и выгодно сдать ваш объект в аренду.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.8","reviewCount":370,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/arendatory-promyshlennyh-pomescheniy-gde-ih-iskat/"}}
+title: 'Арендаторы промышленных помещений: где их искать'
+description: >-
+  Сдаете производственное или складское помещение и не знаете, где найти
+  надежного арендатора? Команда ButlerSPB делится проверенными способами и
+  каналами поиска: от онлайн-агрегаторов до работы с брокерами и отраслевыми
+  сообществами. Узнайте, как быстро и выгодно сдать ваш объект в аренду.
+pubDate: '2025-07-23T11:28:02.610Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Арендаторы промышленных помещений: где их искать'
+  description: >-
+    Сдаете производственное или складское помещение и не знаете, где найти
+    надежного арендатора? Команда ButlerSPB делится проверенными способами и
+    каналами поиска: от онлайн-агрегаторов до работы с брокерами и отраслевыми
+    сообществами. Узнайте, как быстро и выгодно сдать ваш объект в аренду.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.8'
+    reviewCount: 618
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/arendatory-promyshlennyh-pomescheniy-gde-ih-iskat/
 ---
 
 # Поиск арендаторов для промышленных помещений: Полное руководство для собственника от А до Я

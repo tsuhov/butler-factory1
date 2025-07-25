@@ -1,10 +1,51 @@
 ---
-title: "Доходность квартир в Санкт-Петербурге: подробный анализ районов для инвестора от ButlerSPB"
-description: "Планируете купить квартиру для сдачи в аренду в Санкт-Петербурге? Наш новый анализ поможет вам сделать правильный выбор. Мы сравнили ключевые районы города — от Центрального до Приморского — по стоимости покупки, арендным ставкам и срокам окупаемости. Узнайте, какой район принесет максимальную доходность и где скрыт наибольший инвестиционный потенциал. Экспертные данные и расчеты от команды ButlerSPB для ваших успешных вложений."
-pubDate: "2025-07-22T13:42:33.187Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Доходность квартир в Санкт-Петербурге: подробный анализ районов для инвестора от ButlerSPB","description":"Планируете купить квартиру для сдачи в аренду в Санкт-Петербурге? Наш новый анализ поможет вам сделать правильный выбор. Мы сравнили ключевые районы города — от Центрального до Приморского — по стоимости покупки, арендным ставкам и срокам окупаемости. Узнайте, какой район принесет максимальную доходность и где скрыт наибольший инвестиционный потенциал. Экспертные данные и расчеты от команды ButlerSPB для ваших успешных вложений.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":612,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/dohodnost-kvartir-v-raznyh-rayonah-sankt-peterburga/"}}
+title: >-
+  Доходность квартир в Санкт-Петербурге: подробный анализ районов для инвестора
+  от ButlerSPB
+description: >-
+  Планируете купить квартиру для сдачи в аренду в Санкт-Петербурге? Наш новый
+  анализ поможет вам сделать правильный выбор. Мы сравнили ключевые районы
+  города — от Центрального до Приморского — по стоимости покупки, арендным
+  ставкам и срокам окупаемости. Узнайте, какой район принесет максимальную
+  доходность и где скрыт наибольший инвестиционный потенциал. Экспертные данные
+  и расчеты от команды ButlerSPB для ваших успешных вложений.
+pubDate: '2025-07-22T13:42:33.187Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: >-
+    Доходность квартир в Санкт-Петербурге: подробный анализ районов для
+    инвестора от ButlerSPB
+  description: >-
+    Планируете купить квартиру для сдачи в аренду в Санкт-Петербурге? Наш новый
+    анализ поможет вам сделать правильный выбор. Мы сравнили ключевые районы
+    города — от Центрального до Приморского — по стоимости покупки, арендным
+    ставкам и срокам окупаемости. Узнайте, какой район принесет максимальную
+    доходность и где скрыт наибольший инвестиционный потенциал. Экспертные
+    данные и расчеты от команды ButlerSPB для ваших успешных вложений.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '5.0'
+    reviewCount: 886
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/dohodnost-kvartir-v-raznyh-rayonah-sankt-peterburga/
 ---
 
 # Инвестиции в недвижимость СПб: Полный гид по доходности квартир в разных районах

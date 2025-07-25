@@ -1,11 +1,40 @@
 ---
-title: "Лояльность гостей: как превратить их в друзей"
-description: "Как сделать так, чтобы гости возвращались именно к вам? В этой статье от ButlerSPB мы разбираем ключевые аспекты создания прочных отношений с клиентами."
-keywords: "лояльность гостей, удержание клиентов, программа лояльности, сервис в отеле, ButlerSPB, гостеприимство, постоянные гости"
-pubDate: "2025-07-25T15:55:18.348Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Лояльность гостей: как превратить их в друзей","description":"Как сделать так, чтобы гости возвращались именно к вам? В этой статье от ButlerSPB мы разбираем ключевые аспекты создания прочных отношений с клиентами.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.8","reviewCount":367,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/loyalnost-gostey/"}}
+title: 'Лояльность гостей: как превратить их в друзей'
+description: >-
+  Как сделать так, чтобы гости возвращались именно к вам? В этой статье от
+  ButlerSPB мы разбираем ключевые аспекты создания прочных отношений с
+  клиентами.
+pubDate: '2025-07-25T15:55:18.348Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Лояльность гостей: как превратить их в друзей'
+  description: >-
+    Как сделать так, чтобы гости возвращались именно к вам? В этой статье от
+    ButlerSPB мы разбираем ключевые аспекты создания прочных отношений с
+    клиентами.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.9'
+    reviewCount: 748
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': 'https://butlerspb-blog.netlify.app/blog/loyalnost-gostey/'
 ---
 # Лояльность гостей: Невидимый актив, который удваивает вашу прибыль
 

@@ -1,11 +1,39 @@
 ---
-title: "Конкурентное преимущество: стратегия ButlerSPB"
-description: "Что такое конкурентное преимущество и как его достичь? Разбираем ключевые факторы успеха на примере стратегий и подходов компании ButlerSPB для бизнеса."
-keywords: "конкурентное преимущество, стратегия бизнеса, анализ конкурентов, УТП, лидерство на рынке, рост компании"
-pubDate: "2025-07-25T16:40:09.016Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Конкурентное преимущество: стратегия ButlerSPB","description":"Что такое конкурентное преимущество и как его достичь? Разбираем ключевые факторы успеха на примере стратегий и подходов компании ButlerSPB для бизнеса.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.8","reviewCount":774,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/konkurentnoe-preimuschestvo/"}}
+title: 'Конкурентное преимущество: стратегия ButlerSPB'
+description: >-
+  Что такое конкурентное преимущество и как его достичь? Разбираем ключевые
+  факторы успеха на примере стратегий и подходов компании ButlerSPB для бизнеса.
+pubDate: '2025-07-25T16:40:09.016Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Конкурентное преимущество: стратегия ButlerSPB'
+  description: >-
+    Что такое конкурентное преимущество и как его достичь? Разбираем ключевые
+    факторы успеха на примере стратегий и подходов компании ButlerSPB для
+    бизнеса.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.8'
+    reviewCount: 805
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': 'https://butlerspb-blog.netlify.app/blog/konkurentnoe-preimuschestvo/'
 ---
 # Конкурентное преимущество: Полное руководство по поиску и созданию для вашего бизнеса
 

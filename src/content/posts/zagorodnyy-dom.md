@@ -1,11 +1,39 @@
 ---
-title: "Идеальный загородный дом: советы от ButlerSPB"
-description: "Создайте загородный дом своей мечты! ButlerSPB делится секретами обустройства, ухода и поддержания идеального порядка, чтобы ваш отдых был беззаботным."
-keywords: "загородный дом, обустройство дома, уют, уход за домом, советы экспертов, ButlerSPB"
-pubDate: "2025-07-25T15:09:56.363Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Идеальный загородный дом: советы от ButlerSPB","description":"Создайте загородный дом своей мечты! ButlerSPB делится секретами обустройства, ухода и поддержания идеального порядка, чтобы ваш отдых был беззаботным.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.8","reviewCount":473,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/zagorodnyy-dom/"}}
+title: 'Идеальный загородный дом: советы от ButlerSPB'
+description: >-
+  Создайте загородный дом своей мечты! ButlerSPB делится секретами обустройства,
+  ухода и поддержания идеального порядка, чтобы ваш отдых был беззаботным.
+pubDate: '2025-07-25T15:09:56.363Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Идеальный загородный дом: советы от ButlerSPB'
+  description: >-
+    Создайте загородный дом своей мечты! ButlerSPB делится секретами
+    обустройства, ухода и поддержания идеального порядка, чтобы ваш отдых был
+    беззаботным.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '5.0'
+    reviewCount: 786
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': 'https://butlerspb-blog.netlify.app/blog/zagorodnyy-dom/'
 ---
 # Загородный дом: Полное руководство от мечты до комфортной жизни
 

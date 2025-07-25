@@ -1,11 +1,41 @@
 ---
-title: "Что такое дарк китчен и как на нем заработать"
-description: "Узнайте, что такое дарк китчен или \"темная кухня\". Разбираем бизнес-модель ресторана без зала для гостей, ее преимущества и как запустить такой проект с нуля."
-keywords: "дарк китчен, темная кухня, бизнес на доставке, ресторанный бизнес, фудтех, запуск ресторана, ButlerSPB"
-pubDate: "2025-07-24T12:08:48.917Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Что такое дарк китчен и как на нем заработать","description":"Узнайте, что такое дарк китчен или \"темная кухня\". Разбираем бизнес-модель ресторана без зала для гостей, ее преимущества и как запустить такой проект с нуля.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"5.0","reviewCount":793,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/chto-takoe-dark-kitchen-i-kak-na-etom-zarabotat/"}}
+title: Что такое дарк китчен и как на нем заработать
+description: >-
+  Узнайте, что такое дарк китчен или "темная кухня". Разбираем бизнес-модель
+  ресторана без зала для гостей, ее преимущества и как запустить такой проект с
+  нуля.
+pubDate: '2025-07-24T12:08:48.917Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: Что такое дарк китчен и как на нем заработать
+  description: >-
+    Узнайте, что такое дарк китчен или "темная кухня". Разбираем бизнес-модель
+    ресторана без зала для гостей, ее преимущества и как запустить такой проект
+    с нуля.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.9'
+    reviewCount: 753
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/chto-takoe-dark-kitchen-i-kak-na-etom-zarabotat/
 ---
 # Что такое дарк китчен (dark kitchen)? Полное руководство по запуску прибыльного бизнеса на доставке
 

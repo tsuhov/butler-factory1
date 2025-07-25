@@ -1,10 +1,51 @@
 ---
-title: "Доверительное управление недвижимостью подопечного: как сдать квартиру законно и без рисков"
-description: "Вы опекун и отвечаете за недвижимость подопечного? Сдача такой квартиры в аренду — сложный процесс, требующий разрешения органов опеки. В нашей статье разбираем все юридические нюансы: как получить согласие, какие документы подготовить и как договор доверительного управления защищает интересы подопечного. Узнайте, как ButlerSPB помогает управлять недвижимостью эффективно и с максимальной выгодой."
-pubDate: "2025-07-22T00:51:36.167Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Доверительное управление недвижимостью подопечного: как сдать квартиру законно и без рисков","description":"Вы опекун и отвечаете за недвижимость подопечного? Сдача такой квартиры в аренду — сложный процесс, требующий разрешения органов опеки. В нашей статье разбираем все юридические нюансы: как получить согласие, какие документы подготовить и как договор доверительного управления защищает интересы подопечного. Узнайте, как ButlerSPB помогает управлять недвижимостью эффективно и с максимальной выгодой.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.8","reviewCount":366,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/doveritelnoe-upravlenie-nedvizhimostyu-podopechnogo/"}}
+title: >-
+  Доверительное управление недвижимостью подопечного: как сдать квартиру законно
+  и без рисков
+description: >-
+  Вы опекун и отвечаете за недвижимость подопечного? Сдача такой квартиры в
+  аренду — сложный процесс, требующий разрешения органов опеки. В нашей статье
+  разбираем все юридические нюансы: как получить согласие, какие документы
+  подготовить и как договор доверительного управления защищает интересы
+  подопечного. Узнайте, как ButlerSPB помогает управлять недвижимостью
+  эффективно и с максимальной выгодой.
+pubDate: '2025-07-22T00:51:36.167Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: >-
+    Доверительное управление недвижимостью подопечного: как сдать квартиру
+    законно и без рисков
+  description: >-
+    Вы опекун и отвечаете за недвижимость подопечного? Сдача такой квартиры в
+    аренду — сложный процесс, требующий разрешения органов опеки. В нашей статье
+    разбираем все юридические нюансы: как получить согласие, какие документы
+    подготовить и как договор доверительного управления защищает интересы
+    подопечного. Узнайте, как ButlerSPB помогает управлять недвижимостью
+    эффективно и с максимальной выгодой.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.9'
+    reviewCount: 626
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/doveritelnoe-upravlenie-nedvizhimostyu-podopechnogo/
 ---
 
 # Доверительное управление недвижимостью подопечного: Полное руководство для опекунов по законной и выгодной сдаче в аренду

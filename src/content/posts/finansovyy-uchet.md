@@ -1,11 +1,40 @@
 ---
-title: "Финансовый учет: основы для вашего бизнеса"
-description: "В нашей новой статье от ButlerSPB мы разбираем основы финансового учета. Узнайте, как правильно вести отчетность, контролировать доходы и расходы для роста бизнеса."
-keywords: "финансовый учет, бухгалтерия, отчетность, доходы и расходы, финансовый анализ, ButlerSPB"
-pubDate: "2025-07-25T16:06:25.682Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Финансовый учет: основы для вашего бизнеса","description":"В нашей новой статье от ButlerSPB мы разбираем основы финансового учета. Узнайте, как правильно вести отчетность, контролировать доходы и расходы для роста бизнеса.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":302,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/finansovyy-uchet/"}}
+title: 'Финансовый учет: основы для вашего бизнеса'
+description: >-
+  В нашей новой статье от ButlerSPB мы разбираем основы финансового учета.
+  Узнайте, как правильно вести отчетность, контролировать доходы и расходы для
+  роста бизнеса.
+pubDate: '2025-07-25T16:06:25.682Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Финансовый учет: основы для вашего бизнеса'
+  description: >-
+    В нашей новой статье от ButlerSPB мы разбираем основы финансового учета.
+    Узнайте, как правильно вести отчетность, контролировать доходы и расходы для
+    роста бизнеса.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.9'
+    reviewCount: 418
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': 'https://butlerspb-blog.netlify.app/blog/finansovyy-uchet/'
 ---
 # Финансовый учет: Как навести порядок в финансах и принимать решения на основе данных, а не интуиции
 

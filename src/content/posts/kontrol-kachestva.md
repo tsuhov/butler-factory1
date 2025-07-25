@@ -1,11 +1,40 @@
 ---
-title: "Контроль качества в ButlerSPB: наши стандарты"
-description: "В ButlerSPB мы уделяем особое внимание контролю качества на каждом этапе. Наша многоуровневая система проверки гарантирует, что каждый клиент получит безупречный сервис."
-keywords: "контроль качества, стандарты качества, ButlerSPB, качество услуг, гарантия качества, улучшение сервиса"
-pubDate: "2025-07-25T15:16:37.872Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Контроль качества в ButlerSPB: наши стандарты","description":"В ButlerSPB мы уделяем особое внимание контролю качества на каждом этапе. Наша многоуровневая система проверки гарантирует, что каждый клиент получит безупречный сервис.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":489,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/kontrol-kachestva/"}}
+title: 'Контроль качества в ButlerSPB: наши стандарты'
+description: >-
+  В ButlerSPB мы уделяем особое внимание контролю качества на каждом этапе. Наша
+  многоуровневая система проверки гарантирует, что каждый клиент получит
+  безупречный сервис.
+pubDate: '2025-07-25T15:16:37.872Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Контроль качества в ButlerSPB: наши стандарты'
+  description: >-
+    В ButlerSPB мы уделяем особое внимание контролю качества на каждом этапе.
+    Наша многоуровневая система проверки гарантирует, что каждый клиент получит
+    безупречный сервис.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.7'
+    reviewCount: 582
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': 'https://butlerspb-blog.netlify.app/blog/kontrol-kachestva/'
 ---
 # Не просто уборка, а система: Как ButlerSPB обеспечивает безупречное качество на вашем объекте
 

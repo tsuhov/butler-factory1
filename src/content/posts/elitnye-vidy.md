@@ -1,11 +1,40 @@
 ---
-title: "Элитные виды из окон: роскошь и панорама"
-description: "Откройте для себя самые захватывающие панорамы Санкт-Петербурга из окон элитной недвижимости. ButlerSPB расскажет, где найти лучшие виды на центр и акваторию Невы."
-keywords: "элитная недвижимость, видовая квартира, панорамный вид, ButlerSPB, купить квартиру в СПб, вид на Неву"
-pubDate: "2025-07-25T16:30:22.675Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Элитные виды из окон: роскошь и панорама","description":"Откройте для себя самые захватывающие панорамы Санкт-Петербурга из окон элитной недвижимости. ButlerSPB расскажет, где найти лучшие виды на центр и акваторию Невы.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":331,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/elitnye-vidy/"}}
+title: 'Элитные виды из окон: роскошь и панорама'
+description: >-
+  Откройте для себя самые захватывающие панорамы Санкт-Петербурга из окон
+  элитной недвижимости. ButlerSPB расскажет, где найти лучшие виды на центр и
+  акваторию Невы.
+pubDate: '2025-07-25T16:30:22.675Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Элитные виды из окон: роскошь и панорама'
+  description: >-
+    Откройте для себя самые захватывающие панорамы Санкт-Петербурга из окон
+    элитной недвижимости. ButlerSPB расскажет, где найти лучшие виды на центр и
+    акваторию Невы.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.7'
+    reviewCount: 389
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': 'https://butlerspb-blog.netlify.app/blog/elitnye-vidy/'
 ---
 # Вид на миллион: Полный гид по элитным панорамам Санкт-Петербурга от экспертов ButlerSPB
 

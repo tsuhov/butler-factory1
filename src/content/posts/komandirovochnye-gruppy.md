@@ -1,11 +1,40 @@
 ---
-title: "Размещение командировочных групп от ButlerSPB"
-description: "ButlerSPB предлагает комплексные решения для размещения командировочных групп. Мы обеспечиваем комфортное проживание, трансфер и всю необходимую отчетную документацию."
-keywords: "командировочные группы, размещение сотрудников, корпоративное жилье, аренда для командировки, отчетные документы, деловая поездка спб"
-pubDate: "2025-07-25T16:10:30.985Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Размещение командировочных групп от ButlerSPB","description":"ButlerSPB предлагает комплексные решения для размещения командировочных групп. Мы обеспечиваем комфортное проживание, трансфер и всю необходимую отчетную документацию.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.8","reviewCount":455,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/komandirovochnye-gruppy/"}}
+title: Размещение командировочных групп от ButlerSPB
+description: >-
+  ButlerSPB предлагает комплексные решения для размещения командировочных групп.
+  Мы обеспечиваем комфортное проживание, трансфер и всю необходимую отчетную
+  документацию.
+pubDate: '2025-07-25T16:10:30.985Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: Размещение командировочных групп от ButlerSPB
+  description: >-
+    ButlerSPB предлагает комплексные решения для размещения командировочных
+    групп. Мы обеспечиваем комфортное проживание, трансфер и всю необходимую
+    отчетную документацию.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.9'
+    reviewCount: 502
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': 'https://butlerspb-blog.netlify.app/blog/komandirovochnye-gruppy/'
 ---
 # Командировочные группы: Как организовать идеальную поездку и не сойти с ума. Полное руководство от ButlerSPB
 

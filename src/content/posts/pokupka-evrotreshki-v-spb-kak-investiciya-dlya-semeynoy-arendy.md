@@ -1,10 +1,43 @@
 ---
-title: "Евротрешка в СПб: почему это лучшая инвестиция для семейной аренды?"
-description: "Рассматриваете покупку недвижимости в Санкт-Петербурге для сдачи в аренду? Эксперты ButlerSPB разбирают, почему формат 'евротрешки' идеально подходит для семейных арендаторов и как такая квартира может стать высокодоходным и стабильным активом в вашем инвестиционном портфеле."
-pubDate: "2025-07-23T10:45:55.697Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Евротрешка в СПб: почему это лучшая инвестиция для семейной аренды?","description":"Рассматриваете покупку недвижимости в Санкт-Петербурге для сдачи в аренду? Эксперты ButlerSPB разбирают, почему формат 'евротрешки' идеально подходит для семейных арендаторов и как такая квартира может стать высокодоходным и стабильным активом в вашем инвестиционном портфеле.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"5.0","reviewCount":673,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/pokupka-evrotreshki-v-spb-kak-investiciya-dlya-semeynoy-arendy/"}}
+title: 'Евротрешка в СПб: почему это лучшая инвестиция для семейной аренды?'
+description: >-
+  Рассматриваете покупку недвижимости в Санкт-Петербурге для сдачи в аренду?
+  Эксперты ButlerSPB разбирают, почему формат 'евротрешки' идеально подходит для
+  семейных арендаторов и как такая квартира может стать высокодоходным и
+  стабильным активом в вашем инвестиционном портфеле.
+pubDate: '2025-07-23T10:45:55.697Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Евротрешка в СПб: почему это лучшая инвестиция для семейной аренды?'
+  description: >-
+    Рассматриваете покупку недвижимости в Санкт-Петербурге для сдачи в аренду?
+    Эксперты ButlerSPB разбирают, почему формат 'евротрешки' идеально подходит
+    для семейных арендаторов и как такая квартира может стать высокодоходным и
+    стабильным активом в вашем инвестиционном портфеле.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '5.0'
+    reviewCount: 335
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/pokupka-evrotreshki-v-spb-kak-investiciya-dlya-semeynoy-arendy/
 ---
 
 # Евротрешка в СПб: Почему это лучшая инвестиция для сдачи в аренду семьям?

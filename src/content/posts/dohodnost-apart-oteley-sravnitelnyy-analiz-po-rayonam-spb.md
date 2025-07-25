@@ -1,10 +1,47 @@
 ---
-title: "Доходность апарт-отелей СПб: рейтинг районов для инвестора от ButlerSPB"
-description: "Планируете инвестировать в апарт-отель в Санкт-Петербурге, но не знаете, какой район выбрать? Команда ButlerSPB подготовила детальный сравнительный анализ доходности по ключевым локациям города. В статье мы разбираем показатели ADR, RevPAR и среднегодовую загрузку для Центрального, Адмиралтейского, Московского и других популярных районов. Узнайте, где ваши инвестиции принесут максимальную прибыль."
-pubDate: "2025-07-23T11:30:41.972Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Доходность апарт-отелей СПб: рейтинг районов для инвестора от ButlerSPB","description":"Планируете инвестировать в апарт-отель в Санкт-Петербурге, но не знаете, какой район выбрать? Команда ButlerSPB подготовила детальный сравнительный анализ доходности по ключевым локациям города. В статье мы разбираем показатели ADR, RevPAR и среднегодовую загрузку для Центрального, Адмиралтейского, Московского и других популярных районов. Узнайте, где ваши инвестиции принесут максимальную прибыль.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.8","reviewCount":601,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/dohodnost-apart-oteley-sravnitelnyy-analiz-po-rayonam-spb/"}}
+title: 'Доходность апарт-отелей СПб: рейтинг районов для инвестора от ButlerSPB'
+description: >-
+  Планируете инвестировать в апарт-отель в Санкт-Петербурге, но не знаете, какой
+  район выбрать? Команда ButlerSPB подготовила детальный сравнительный анализ
+  доходности по ключевым локациям города. В статье мы разбираем показатели ADR,
+  RevPAR и среднегодовую загрузку для Центрального, Адмиралтейского, Московского
+  и других популярных районов. Узнайте, где ваши инвестиции принесут
+  максимальную прибыль.
+pubDate: '2025-07-23T11:30:41.972Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Доходность апарт-отелей СПб: рейтинг районов для инвестора от ButlerSPB'
+  description: >-
+    Планируете инвестировать в апарт-отель в Санкт-Петербурге, но не знаете,
+    какой район выбрать? Команда ButlerSPB подготовила детальный сравнительный
+    анализ доходности по ключевым локациям города. В статье мы разбираем
+    показатели ADR, RevPAR и среднегодовую загрузку для Центрального,
+    Адмиралтейского, Московского и других популярных районов. Узнайте, где ваши
+    инвестиции принесут максимальную прибыль.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.9'
+    reviewCount: 464
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/dohodnost-apart-oteley-sravnitelnyy-analiz-po-rayonam-spb/
 ---
 
 # Доходность апарт-отелей в СПб: экспертный анализ районов для инвестора в 2024 году

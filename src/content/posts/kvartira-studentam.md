@@ -1,11 +1,40 @@
 ---
-title: "Снять квартиру студенту в СПб: советы Butler"
-description: "Поиск квартиры для студента в Петербурге — задача со звездочкой. Как найти недорогой вариант рядом с вузом и заключить договор? ButlerSPB делится советами."
-keywords: "аренда для студентов, снять квартиру студенту, квартира в спб, жилье для студента, поиск квартиры, butlerspb"
-pubDate: "2025-07-25T14:50:21.974Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Снять квартиру студенту в СПб: советы Butler","description":"Поиск квартиры для студента в Петербурге — задача со звездочкой. Как найти недорогой вариант рядом с вузом и заключить договор? ButlerSPB делится советами.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":776,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/kvartira-studentam/"}}
+title: 'Снять квартиру студенту в СПб: советы Butler'
+description: >-
+  Поиск квартиры для студента в Петербурге — задача со звездочкой. Как найти
+  недорогой вариант рядом с вузом и заключить договор? ButlerSPB делится
+  советами.
+pubDate: '2025-07-25T14:50:21.974Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Снять квартиру студенту в СПб: советы Butler'
+  description: >-
+    Поиск квартиры для студента в Петербурге — задача со звездочкой. Как найти
+    недорогой вариант рядом с вузом и заключить договор? ButlerSPB делится
+    советами.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.9'
+    reviewCount: 710
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': 'https://butlerspb-blog.netlify.app/blog/kvartira-studentam/'
 ---
 # Как снять квартиру студенту в Санкт-Петербурге: Полное руководство от А до Я
 

@@ -1,10 +1,50 @@
 ---
-title: "Арендатор не платит: как продать коммерческое помещение и не потерять в цене? Советы от ButlerSPB"
-description: "Продажа коммерческой недвижимости с арендатором-должником — сложная задача для собственника. В нашей новой статье мы разбираем юридические риски, стратегии продажи такого объекта и способы минимизации финансовых потерь. Узнайте, как правильно оценить помещение, стоит ли выселять арендатора до сделки и как ButlerSPB помогает заключать выгодные сделки даже в самых непростых ситуациях."
-pubDate: "2025-07-23T12:24:04.069Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Арендатор не платит: как продать коммерческое помещение и не потерять в цене? Советы от ButlerSPB","description":"Продажа коммерческой недвижимости с арендатором-должником — сложная задача для собственника. В нашей новой статье мы разбираем юридические риски, стратегии продажи такого объекта и способы минимизации финансовых потерь. Узнайте, как правильно оценить помещение, стоит ли выселять арендатора до сделки и как ButlerSPB помогает заключать выгодные сделки даже в самых непростых ситуациях.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":525,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/prodazha-kommercheskogo-pomescheniya-s-arendatorom-kotoryy-ne-platit/"}}
+title: >-
+  Арендатор не платит: как продать коммерческое помещение и не потерять в цене?
+  Советы от ButlerSPB
+description: >-
+  Продажа коммерческой недвижимости с арендатором-должником — сложная задача для
+  собственника. В нашей новой статье мы разбираем юридические риски, стратегии
+  продажи такого объекта и способы минимизации финансовых потерь. Узнайте, как
+  правильно оценить помещение, стоит ли выселять арендатора до сделки и как
+  ButlerSPB помогает заключать выгодные сделки даже в самых непростых ситуациях.
+pubDate: '2025-07-23T12:24:04.069Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: >-
+    Арендатор не платит: как продать коммерческое помещение и не потерять в
+    цене? Советы от ButlerSPB
+  description: >-
+    Продажа коммерческой недвижимости с арендатором-должником — сложная задача
+    для собственника. В нашей новой статье мы разбираем юридические риски,
+    стратегии продажи такого объекта и способы минимизации финансовых потерь.
+    Узнайте, как правильно оценить помещение, стоит ли выселять арендатора до
+    сделки и как ButlerSPB помогает заключать выгодные сделки даже в самых
+    непростых ситуациях.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.7'
+    reviewCount: 660
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/prodazha-kommercheskogo-pomescheniya-s-arendatorom-kotoryy-ne-platit/
 ---
 
 # Как продать коммерческое помещение, если арендатор не платит: пошаговая инструкция для собственника

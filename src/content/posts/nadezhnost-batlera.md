@@ -1,11 +1,40 @@
 ---
-title: "Надежность Батлера: Гарантия от ButlerSPB"
-description: "В ButlerSPB мы ставим надежность во главу угла. Наши специалисты проходят строжайший отбор и обучение, чтобы гарантировать вам безупречный сервис и спокойствие."
-keywords: "надежность батлера, ButlerSPB, профессиональный батлер, гарантия качества, элитный сервис, нанять батлера спб, доверие"
-pubDate: "2025-07-24T13:09:52.655Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Надежность Батлера: Гарантия от ButlerSPB","description":"В ButlerSPB мы ставим надежность во главу угла. Наши специалисты проходят строжайший отбор и обучение, чтобы гарантировать вам безупречный сервис и спокойствие.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":337,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/nadezhnost-batlera/"}}
+title: 'Надежность Батлера: Гарантия от ButlerSPB'
+description: >-
+  В ButlerSPB мы ставим надежность во главу угла. Наши специалисты проходят
+  строжайший отбор и обучение, чтобы гарантировать вам безупречный сервис и
+  спокойствие.
+pubDate: '2025-07-24T13:09:52.655Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Надежность Батлера: Гарантия от ButlerSPB'
+  description: >-
+    В ButlerSPB мы ставим надежность во главу угла. Наши специалисты проходят
+    строжайший отбор и обучение, чтобы гарантировать вам безупречный сервис и
+    спокойствие.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '5.0'
+    reviewCount: 715
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': 'https://butlerspb-blog.netlify.app/blog/nadezhnost-batlera/'
 ---
 # Надежность батлера: не роскошь, а фундамент вашего спокойствия и безопасности
 

@@ -1,10 +1,44 @@
 ---
-title: "Аккредитованные новостройки: что это значит для покупателя?"
-description: "Покупка квартиры в новостройке — серьезный шаг. В блоге ButlerSPB разбираемся, что такое 'аккредитация объекта банком', почему это является знаком надежности застройщика и как статус аккредитованной новостройки упрощает для вас процесс получения ипотеки и гарантирует безопасность сделки."
-pubDate: "2025-07-22T22:06:23.822Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Аккредитованные новостройки: что это значит для покупателя?","description":"Покупка квартиры в новостройке — серьезный шаг. В блоге ButlerSPB разбираемся, что такое 'аккредитация объекта банком', почему это является знаком надежности застройщика и как статус аккредитованной новостройки упрощает для вас процесс получения ипотеки и гарантирует безопасность сделки.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.8","reviewCount":719,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/akkreditovannye-novostroyki-chto-eto-znachit-dlya-pokupatelya/"}}
+title: 'Аккредитованные новостройки: что это значит для покупателя?'
+description: >-
+  Покупка квартиры в новостройке — серьезный шаг. В блоге ButlerSPB разбираемся,
+  что такое 'аккредитация объекта банком', почему это является знаком надежности
+  застройщика и как статус аккредитованной новостройки упрощает для вас процесс
+  получения ипотеки и гарантирует безопасность сделки.
+pubDate: '2025-07-22T22:06:23.822Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Аккредитованные новостройки: что это значит для покупателя?'
+  description: >-
+    Покупка квартиры в новостройке — серьезный шаг. В блоге ButlerSPB
+    разбираемся, что такое 'аккредитация объекта банком', почему это является
+    знаком надежности застройщика и как статус аккредитованной новостройки
+    упрощает для вас процесс получения ипотеки и гарантирует безопасность
+    сделки.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.8'
+    reviewCount: 548
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/akkreditovannye-novostroyki-chto-eto-znachit-dlya-pokupatelya/
 ---
 
 # Аккредитованные новостройки: что это значит для покупателя и как не ошибиться с выбором в Санкт-Петербурге

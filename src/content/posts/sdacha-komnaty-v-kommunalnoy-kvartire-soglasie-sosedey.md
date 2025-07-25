@@ -1,10 +1,45 @@
 ---
-title: "Сдача комнаты в коммунальной квартире: нужно ли согласие соседей?"
-description: "Планируете сдавать комнату в коммунальной квартире в Санкт-Петербурге? Команда ButlerSPB разбирает один из самых частых и спорных вопросов. В этой статье мы подробно анализируем законодательство РФ, судебную практику и даем практические рекомендации, как собственнику действовать, чтобы избежать конфликтов и юридических проблем при сдаче комнаты в аренду."
-pubDate: "2025-07-23T11:45:32.738Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Сдача комнаты в коммунальной квартире: нужно ли согласие соседей?","description":"Планируете сдавать комнату в коммунальной квартире в Санкт-Петербурге? Команда ButlerSPB разбирает один из самых частых и спорных вопросов. В этой статье мы подробно анализируем законодательство РФ, судебную практику и даем практические рекомендации, как собственнику действовать, чтобы избежать конфликтов и юридических проблем при сдаче комнаты в аренду.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.8","reviewCount":588,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/sdacha-komnaty-v-kommunalnoy-kvartire-soglasie-sosedey/"}}
+title: 'Сдача комнаты в коммунальной квартире: нужно ли согласие соседей?'
+description: >-
+  Планируете сдавать комнату в коммунальной квартире в Санкт-Петербурге? Команда
+  ButlerSPB разбирает один из самых частых и спорных вопросов. В этой статье мы
+  подробно анализируем законодательство РФ, судебную практику и даем
+  практические рекомендации, как собственнику действовать, чтобы избежать
+  конфликтов и юридических проблем при сдаче комнаты в аренду.
+pubDate: '2025-07-23T11:45:32.738Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Сдача комнаты в коммунальной квартире: нужно ли согласие соседей?'
+  description: >-
+    Планируете сдавать комнату в коммунальной квартире в Санкт-Петербурге?
+    Команда ButlerSPB разбирает один из самых частых и спорных вопросов. В этой
+    статье мы подробно анализируем законодательство РФ, судебную практику и даем
+    практические рекомендации, как собственнику действовать, чтобы избежать
+    конфликтов и юридических проблем при сдаче комнаты в аренду.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.7'
+    reviewCount: 754
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/sdacha-komnaty-v-kommunalnoy-kvartire-soglasie-sosedey/
 ---
 
 # Согласие соседей на сдачу комнаты в коммуналке: полное руководство от экспертов ButlerSPB

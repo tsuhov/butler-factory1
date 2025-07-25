@@ -1,10 +1,49 @@
 ---
-title: "Доверительное управление недвижимостью в Санкт-Петербурге: спокойствие владельца и стабильный доход с ButlerSPB"
-description: "Хотите, чтобы ваша квартира в Санкт-Петербурге приносила максимальный доход без вашего участия? Узнайте все о преимуществах доверительного управления от ButlerSPB. Мы берем на себя поиск надежных арендаторов, контроль платежей, решение бытовых вопросов и полное юридическое сопровождение, гарантируя сохранность вашего имущества и стабильный пассивный доход."
-pubDate: "2025-07-22T00:36:22.717Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Доверительное управление недвижимостью в Санкт-Петербурге: спокойствие владельца и стабильный доход с ButlerSPB","description":"Хотите, чтобы ваша квартира в Санкт-Петербурге приносила максимальный доход без вашего участия? Узнайте все о преимуществах доверительного управления от ButlerSPB. Мы берем на себя поиск надежных арендаторов, контроль платежей, решение бытовых вопросов и полное юридическое сопровождение, гарантируя сохранность вашего имущества и стабильный пассивный доход.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.7","reviewCount":470,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/upravlenie-nedvizhimostyu-sankt-peterburg-doveritelnoe/"}}
+title: >-
+  Доверительное управление недвижимостью в Санкт-Петербурге: спокойствие
+  владельца и стабильный доход с ButlerSPB
+description: >-
+  Хотите, чтобы ваша квартира в Санкт-Петербурге приносила максимальный доход
+  без вашего участия? Узнайте все о преимуществах доверительного управления от
+  ButlerSPB. Мы берем на себя поиск надежных арендаторов, контроль платежей,
+  решение бытовых вопросов и полное юридическое сопровождение, гарантируя
+  сохранность вашего имущества и стабильный пассивный доход.
+pubDate: '2025-07-22T00:36:22.717Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: >-
+    Доверительное управление недвижимостью в Санкт-Петербурге: спокойствие
+    владельца и стабильный доход с ButlerSPB
+  description: >-
+    Хотите, чтобы ваша квартира в Санкт-Петербурге приносила максимальный доход
+    без вашего участия? Узнайте все о преимуществах доверительного управления от
+    ButlerSPB. Мы берем на себя поиск надежных арендаторов, контроль платежей,
+    решение бытовых вопросов и полное юридическое сопровождение, гарантируя
+    сохранность вашего имущества и стабильный пассивный доход.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.9'
+    reviewCount: 548
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/upravlenie-nedvizhimostyu-sankt-peterburg-doveritelnoe/
 ---
 
 # Доверительное управление недвижимостью в Санкт-Петербурге: Ваш пассивный доход под защитой ButlerSPB

@@ -1,11 +1,40 @@
 ---
-title: "Исключительный сервис: стандарт ButlerSPB"
-description: "В ButlerSPB мы верим, что исключительный сервис — это не просто услуга, а искусство предугадывать желания. Узнайте, как наша команда создает уникальный опыт."
-keywords: "исключительный сервис, клиентский опыт, ButlerSPB, стандарты сервиса, персональный подход, обслуживание клиентов"
-pubDate: "2025-07-25T13:42:55.161Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Исключительный сервис: стандарт ButlerSPB","description":"В ButlerSPB мы верим, что исключительный сервис — это не просто услуга, а искусство предугадывать желания. Узнайте, как наша команда создает уникальный опыт.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":469,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/isklyuchitelnyy-servis/"}}
+title: 'Исключительный сервис: стандарт ButlerSPB'
+description: >-
+  В ButlerSPB мы верим, что исключительный сервис — это не просто услуга, а
+  искусство предугадывать желания. Узнайте, как наша команда создает уникальный
+  опыт.
+pubDate: '2025-07-25T13:42:55.161Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Исключительный сервис: стандарт ButlerSPB'
+  description: >-
+    В ButlerSPB мы верим, что исключительный сервис — это не просто услуга, а
+    искусство предугадывать желания. Узнайте, как наша команда создает
+    уникальный опыт.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.8'
+    reviewCount: 693
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': 'https://butlerspb-blog.netlify.app/blog/isklyuchitelnyy-servis/'
 ---
 # Исключительный сервис: как превратить клиента в амбассадора вашего бренда
 

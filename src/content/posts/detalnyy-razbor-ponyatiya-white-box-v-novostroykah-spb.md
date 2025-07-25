@@ -1,10 +1,51 @@
 ---
-title: "Что такое отделка 'white box' в новостройках СПб: детальный разбор от ButlerSPB"
-description: "Планируете покупку квартиры в новостройке Санкт-Петербурга и столкнулись с термином 'white box'? В нашей новой статье мы подробно разбираем, что скрывается за этим понятием предчистовой отделки. Узнайте, какие работы уже выполнены застройщиком, а какие предстоят вам. Сравниваем 'white box' с черновой и чистовой отделкой, взвешиваем все плюсы и минусы и даем советы, как превратить 'белую коробку' в квартиру вашей мечты."
-pubDate: "2025-07-23T11:30:33.688Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Что такое отделка 'white box' в новостройках СПб: детальный разбор от ButlerSPB","description":"Планируете покупку квартиры в новостройке Санкт-Петербурга и столкнулись с термином 'white box'? В нашей новой статье мы подробно разбираем, что скрывается за этим понятием предчистовой отделки. Узнайте, какие работы уже выполнены застройщиком, а какие предстоят вам. Сравниваем 'white box' с черновой и чистовой отделкой, взвешиваем все плюсы и минусы и даем советы, как превратить 'белую коробку' в квартиру вашей мечты.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":786,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/detalnyy-razbor-ponyatiya-white-box-v-novostroykah-spb/"}}
+title: >-
+  Что такое отделка 'white box' в новостройках СПб: детальный разбор от
+  ButlerSPB
+description: >-
+  Планируете покупку квартиры в новостройке Санкт-Петербурга и столкнулись с
+  термином 'white box'? В нашей новой статье мы подробно разбираем, что
+  скрывается за этим понятием предчистовой отделки. Узнайте, какие работы уже
+  выполнены застройщиком, а какие предстоят вам. Сравниваем 'white box' с
+  черновой и чистовой отделкой, взвешиваем все плюсы и минусы и даем советы, как
+  превратить 'белую коробку' в квартиру вашей мечты.
+pubDate: '2025-07-23T11:30:33.688Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: >-
+    Что такое отделка 'white box' в новостройках СПб: детальный разбор от
+    ButlerSPB
+  description: >-
+    Планируете покупку квартиры в новостройке Санкт-Петербурга и столкнулись с
+    термином 'white box'? В нашей новой статье мы подробно разбираем, что
+    скрывается за этим понятием предчистовой отделки. Узнайте, какие работы уже
+    выполнены застройщиком, а какие предстоят вам. Сравниваем 'white box' с
+    черновой и чистовой отделкой, взвешиваем все плюсы и минусы и даем советы,
+    как превратить 'белую коробку' в квартиру вашей мечты.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.8'
+    reviewCount: 573
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/detalnyy-razbor-ponyatiya-white-box-v-novostroykah-spb/
 ---
 
 # Отделка White Box в новостройках СПб: Полный гид для покупателя от А до Я

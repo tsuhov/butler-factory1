@@ -1,11 +1,40 @@
 ---
-title: "Аналитика рынка: первый шаг к успеху бизнеса"
-description: "Узнайте, как глубокий анализ рыночных тенденций, конкурентов и потребительского поведения может стать основой для вашей стратегии. ButlerSPB делится методами."
-keywords: "анализ рынка, маркетинговое исследование, анализ конкурентов, целевая аудитория, стратегия роста, ButlerSPB, бизнес-аналитика"
-pubDate: "2025-07-25T14:56:56.949Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Аналитика рынка: первый шаг к успеху бизнеса","description":"Узнайте, как глубокий анализ рыночных тенденций, конкурентов и потребительского поведения может стать основой для вашей стратегии. ButlerSPB делится методами.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":360,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/analitika-rynka/"}}
+title: 'Аналитика рынка: первый шаг к успеху бизнеса'
+description: >-
+  Узнайте, как глубокий анализ рыночных тенденций, конкурентов и
+  потребительского поведения может стать основой для вашей стратегии. ButlerSPB
+  делится методами.
+pubDate: '2025-07-25T14:56:56.949Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Аналитика рынка: первый шаг к успеху бизнеса'
+  description: >-
+    Узнайте, как глубокий анализ рыночных тенденций, конкурентов и
+    потребительского поведения может стать основой для вашей стратегии.
+    ButlerSPB делится методами.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.9'
+    reviewCount: 671
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': 'https://butlerspb-blog.netlify.app/blog/analitika-rynka/'
 ---
 # Аналитика рынка: как использовать данные для роста вашего бизнеса
 

@@ -1,10 +1,45 @@
 ---
-title: "Животное повредило имущество: пошаговая инструкция от ButlerSPB"
-description: "Неприятная ситуация: соседский пес погрыз вашу обувь, а кот поцарапал дверь автомобиля. Кто несет ответственность и как возместить ущерб? В нашей новой статье разбираем юридические аспекты и даем практические советы: как зафиксировать повреждения, провести переговоры с владельцем и что делать, если мирно договориться не удалось."
-pubDate: "2025-07-22T11:37:50.134Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Животное повредило имущество: пошаговая инструкция от ButlerSPB","description":"Неприятная ситуация: соседский пес погрыз вашу обувь, а кот поцарапал дверь автомобиля. Кто несет ответственность и как возместить ущерб? В нашей новой статье разбираем юридические аспекты и даем практические советы: как зафиксировать повреждения, провести переговоры с владельцем и что делать, если мирно договориться не удалось.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":556,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/chto-delat-esli-zhivotnoe-povredilo-imuschestvo/"}}
+title: 'Животное повредило имущество: пошаговая инструкция от ButlerSPB'
+description: >-
+  Неприятная ситуация: соседский пес погрыз вашу обувь, а кот поцарапал дверь
+  автомобиля. Кто несет ответственность и как возместить ущерб? В нашей новой
+  статье разбираем юридические аспекты и даем практические советы: как
+  зафиксировать повреждения, провести переговоры с владельцем и что делать, если
+  мирно договориться не удалось.
+pubDate: '2025-07-22T11:37:50.134Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Животное повредило имущество: пошаговая инструкция от ButlerSPB'
+  description: >-
+    Неприятная ситуация: соседский пес погрыз вашу обувь, а кот поцарапал дверь
+    автомобиля. Кто несет ответственность и как возместить ущерб? В нашей новой
+    статье разбираем юридические аспекты и даем практические советы: как
+    зафиксировать повреждения, провести переговоры с владельцем и что делать,
+    если мирно договориться не удалось.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.9'
+    reviewCount: 774
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/chto-delat-esli-zhivotnoe-povredilo-imuschestvo/
 ---
 
 # Животное повредило имущество: пошаговый план действий и способы восстановления

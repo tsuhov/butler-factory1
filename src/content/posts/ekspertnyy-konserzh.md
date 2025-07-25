@@ -1,11 +1,39 @@
 ---
-title: "Экспертный консьерж: Сервис от ButlerSPB"
-description: "Узнайте, как экспертный консьерж-сервис от ButlerSPB меняет представление о комфорте. Мы решаем любые задачи: от бронирования до организации мероприятий."
-keywords: "экспертный консьерж, консьерж-сервис, ButlerSPB, личный ассистент, премиум услуги, лайфстайл менеджмент"
-pubDate: "2025-07-24T13:15:30.694Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Экспертный консьерж: Сервис от ButlerSPB","description":"Узнайте, как экспертный консьерж-сервис от ButlerSPB меняет представление о комфорте. Мы решаем любые задачи: от бронирования до организации мероприятий.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.7","reviewCount":758,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/ekspertnyy-konserzh/"}}
+title: 'Экспертный консьерж: Сервис от ButlerSPB'
+description: >-
+  Узнайте, как экспертный консьерж-сервис от ButlerSPB меняет представление о
+  комфорте. Мы решаем любые задачи: от бронирования до организации мероприятий.
+pubDate: '2025-07-24T13:15:30.694Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Экспертный консьерж: Сервис от ButlerSPB'
+  description: >-
+    Узнайте, как экспертный консьерж-сервис от ButlerSPB меняет представление о
+    комфорте. Мы решаем любые задачи: от бронирования до организации
+    мероприятий.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.7'
+    reviewCount: 634
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': 'https://butlerspb-blog.netlify.app/blog/ekspertnyy-konserzh/'
 ---
 # Экспертный консьерж в Санкт-Петербурге: Ваш ключ к эксклюзивным возможностям с ButlerSPB
 

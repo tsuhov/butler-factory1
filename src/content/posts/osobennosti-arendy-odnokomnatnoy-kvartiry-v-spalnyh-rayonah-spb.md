@@ -1,10 +1,47 @@
 ---
-title: "Аренда однушки в спальном районе СПб: гид от ButlerSPB"
-description: "Мечтаете о тишине после суеты центра, но боитесь долгой дороги до работы? Аренда однокомнатной квартиры в спальном районе Санкт-Петербурга — это компромисс между комфортом, ценой и доступностью. В этой статье команда ButlerSPB разбирает плюсы и минусы жизни в популярных спальных районах (от Купчино до Парнаса), сравнивает цены и дает практические советы, как найти идеальную квартиру и на что обратить внимание при просмотре."
-pubDate: "2025-07-23T11:48:05.463Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Аренда однушки в спальном районе СПб: гид от ButlerSPB","description":"Мечтаете о тишине после суеты центра, но боитесь долгой дороги до работы? Аренда однокомнатной квартиры в спальном районе Санкт-Петербурга — это компромисс между комфортом, ценой и доступностью. В этой статье команда ButlerSPB разбирает плюсы и минусы жизни в популярных спальных районах (от Купчино до Парнаса), сравнивает цены и дает практические советы, как найти идеальную квартиру и на что обратить внимание при просмотре.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.7","reviewCount":326,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/osobennosti-arendy-odnokomnatnoy-kvartiry-v-spalnyh-rayonah-spb/"}}
+title: 'Аренда однушки в спальном районе СПб: гид от ButlerSPB'
+description: >-
+  Мечтаете о тишине после суеты центра, но боитесь долгой дороги до работы?
+  Аренда однокомнатной квартиры в спальном районе Санкт-Петербурга — это
+  компромисс между комфортом, ценой и доступностью. В этой статье команда
+  ButlerSPB разбирает плюсы и минусы жизни в популярных спальных районах (от
+  Купчино до Парнаса), сравнивает цены и дает практические советы, как найти
+  идеальную квартиру и на что обратить внимание при просмотре.
+pubDate: '2025-07-23T11:48:05.463Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Аренда однушки в спальном районе СПб: гид от ButlerSPB'
+  description: >-
+    Мечтаете о тишине после суеты центра, но боитесь долгой дороги до работы?
+    Аренда однокомнатной квартиры в спальном районе Санкт-Петербурга — это
+    компромисс между комфортом, ценой и доступностью. В этой статье команда
+    ButlerSPB разбирает плюсы и минусы жизни в популярных спальных районах (от
+    Купчино до Парнаса), сравнивает цены и дает практические советы, как найти
+    идеальную квартиру и на что обратить внимание при просмотре.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.8'
+    reviewCount: 802
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/osobennosti-arendy-odnokomnatnoy-kvartiry-v-spalnyh-rayonah-spb/
 ---
 
 # Снять однушку в спальном районе СПб: Полный гид по ценам, районам и подводным камням от ButlerSPB

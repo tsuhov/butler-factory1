@@ -1,11 +1,40 @@
 ---
-title: "Актуальные цены на жизнь в Санкт-Петербурге"
-description: "Планируете поездку или переезд в Северную столицу? ButlerSPB подготовил для вас подробный обзор цен в Санкт-Петербурге на жилье, транспорт, еду и развлечения."
-keywords: "цены Питер, стоимость жизни спб, цены на жилье Санкт-Петербург, сколько стоит жить в Питере, бюджет поездки спб, ButlerSPB"
-pubDate: "2025-07-25T15:46:53.739Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Актуальные цены на жизнь в Санкт-Петербурге","description":"Планируете поездку или переезд в Северную столицу? ButlerSPB подготовил для вас подробный обзор цен в Санкт-Петербурге на жилье, транспорт, еду и развлечения.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.8","reviewCount":366,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/ceny-piter/"}}
+title: Актуальные цены на жизнь в Санкт-Петербурге
+description: >-
+  Планируете поездку или переезд в Северную столицу? ButlerSPB подготовил для
+  вас подробный обзор цен в Санкт-Петербурге на жилье, транспорт, еду и
+  развлечения.
+pubDate: '2025-07-25T15:46:53.739Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: Актуальные цены на жизнь в Санкт-Петербурге
+  description: >-
+    Планируете поездку или переезд в Северную столицу? ButlerSPB подготовил для
+    вас подробный обзор цен в Санкт-Петербурге на жилье, транспорт, еду и
+    развлечения.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.7'
+    reviewCount: 815
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': 'https://butlerspb-blog.netlify.app/blog/ceny-piter/'
 ---
 # Цены в Санкт-Петербурге: Сколько на самом деле стоит жить в Северной столице в 2024 году?
 

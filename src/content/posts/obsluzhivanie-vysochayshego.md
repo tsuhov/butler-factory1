@@ -1,11 +1,38 @@
 ---
-title: "Искусство безупречного сервиса от ButlerSPB"
-description: "В ButlerSPB мы верим, что истинная роскошь кроется в деталях. Наша команда профессионалов обеспечивает безупречный сервис, предугадывая ваши желания."
-keywords: "сервис премиум-класса, персональный ассистент, консьерж-сервис, эксклюзивное обслуживание, ButlerSPB, безупречный сервис, обслуживание в спб"
-pubDate: "2025-07-24T22:01:16.503Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Искусство безупречного сервиса от ButlerSPB","description":"В ButlerSPB мы верим, что истинная роскошь кроется в деталях. Наша команда профессионалов обеспечивает безупречный сервис, предугадывая ваши желания.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.8","reviewCount":410,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/obsluzhivanie-vysochayshego/"}}
+title: Искусство безупречного сервиса от ButlerSPB
+description: >-
+  В ButlerSPB мы верим, что истинная роскошь кроется в деталях. Наша команда
+  профессионалов обеспечивает безупречный сервис, предугадывая ваши желания.
+pubDate: '2025-07-24T22:01:16.503Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: Искусство безупречного сервиса от ButlerSPB
+  description: >-
+    В ButlerSPB мы верим, что истинная роскошь кроется в деталях. Наша команда
+    профессионалов обеспечивает безупречный сервис, предугадывая ваши желания.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.8'
+    reviewCount: 502
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': 'https://butlerspb-blog.netlify.app/blog/obsluzhivanie-vysochayshego/'
 ---
 # Обслуживание высочайшего уровня: За гранью ожиданий. Философия и стандарты ButlerSPB
 

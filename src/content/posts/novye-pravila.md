@@ -1,11 +1,40 @@
 ---
-title: "Новые правила ButlerSPB: что важно знать"
-description: "Уважаемые клиенты! Мы обновили правила предоставления наших услуг. В этой статье мы подробно разбираем ключевые изменения, которые коснутся каждого из вас."
-keywords: "новые правила, ButlerSPB, обновление услуг, изменения для клиентов, условия сервиса, важная информация"
-pubDate: "2025-07-25T16:26:06.847Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Новые правила ButlerSPB: что важно знать","description":"Уважаемые клиенты! Мы обновили правила предоставления наших услуг. В этой статье мы подробно разбираем ключевые изменения, которые коснутся каждого из вас.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":510,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/novye-pravila/"}}
+title: 'Новые правила ButlerSPB: что важно знать'
+description: >-
+  Уважаемые клиенты! Мы обновили правила предоставления наших услуг. В этой
+  статье мы подробно разбираем ключевые изменения, которые коснутся каждого из
+  вас.
+pubDate: '2025-07-25T16:26:06.847Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Новые правила ButlerSPB: что важно знать'
+  description: >-
+    Уважаемые клиенты! Мы обновили правила предоставления наших услуг. В этой
+    статье мы подробно разбираем ключевые изменения, которые коснутся каждого из
+    вас.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.8'
+    reviewCount: 695
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': 'https://butlerspb-blog.netlify.app/blog/novye-pravila/'
 ---
 # Новые правила для владельцев недвижимости в СПб с 2024 года: Полный гид от экспертов ButlerSPB
 

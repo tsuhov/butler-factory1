@@ -1,10 +1,52 @@
 ---
-title: "Сколько стоит доверительное управление недвижимостью? Всё о вознаграждении управляющего от ButlerSPB"
-description: "Планируете передать квартиру в доверительное управление, но не знаете, как формируется стоимость услуги? В новой статье блога ButlerSPB подробно разбираем, из чего складывается вознаграждение управляющей компании. Рассказываем про основные модели оплаты — от фиксированной суммы до процента от арендного дохода, — какие факторы влияют на конечную цену и что входит в стандартный пакет услуг по управлению вашей недвижимостью в Санкт-Петербурге."
-pubDate: "2025-07-22T00:34:48.956Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Сколько стоит доверительное управление недвижимостью? Всё о вознаграждении управляющего от ButlerSPB","description":"Планируете передать квартиру в доверительное управление, но не знаете, как формируется стоимость услуги? В новой статье блога ButlerSPB подробно разбираем, из чего складывается вознаграждение управляющей компании. Рассказываем про основные модели оплаты — от фиксированной суммы до процента от арендного дохода, — какие факторы влияют на конечную цену и что входит в стандартный пакет услуг по управлению вашей недвижимостью в Санкт-Петербурге.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"5.0","reviewCount":816,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/voznagrazhdenie-za-doveritelnoe-upravlenie-nedvizhimostyu/"}}
+title: >-
+  Сколько стоит доверительное управление недвижимостью? Всё о вознаграждении
+  управляющего от ButlerSPB
+description: >-
+  Планируете передать квартиру в доверительное управление, но не знаете, как
+  формируется стоимость услуги? В новой статье блога ButlerSPB подробно
+  разбираем, из чего складывается вознаграждение управляющей компании.
+  Рассказываем про основные модели оплаты — от фиксированной суммы до процента
+  от арендного дохода, — какие факторы влияют на конечную цену и что входит в
+  стандартный пакет услуг по управлению вашей недвижимостью в Санкт-Петербурге.
+pubDate: '2025-07-22T00:34:48.956Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: >-
+    Сколько стоит доверительное управление недвижимостью? Всё о вознаграждении
+    управляющего от ButlerSPB
+  description: >-
+    Планируете передать квартиру в доверительное управление, но не знаете, как
+    формируется стоимость услуги? В новой статье блога ButlerSPB подробно
+    разбираем, из чего складывается вознаграждение управляющей компании.
+    Рассказываем про основные модели оплаты — от фиксированной суммы до процента
+    от арендного дохода, — какие факторы влияют на конечную цену и что входит в
+    стандартный пакет услуг по управлению вашей недвижимостью в
+    Санкт-Петербурге.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '5.0'
+    reviewCount: 670
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/voznagrazhdenie-za-doveritelnoe-upravlenie-nedvizhimostyu/
 ---
 
 # Вознаграждение за доверительное управление недвижимостью: за что вы платите и как это окупается

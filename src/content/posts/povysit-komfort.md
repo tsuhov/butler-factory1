@@ -1,11 +1,40 @@
 ---
-title: "Как повысить комфорт в доме: советы ButlerSPB"
-description: "Узнайте, как превратить вашу квартиру в оазис уюта и спокойствия. ButlerSPB делится профессиональными лайфхаками по организации пространства и созданию комфортной атмосферы."
-keywords: "повысить комфорт, уют в доме, организация пространства, лайфхаки для дома, домашний уют, советы по дому, ButlerSPB"
-pubDate: "2025-07-24T13:46:49.068Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Как повысить комфорт в доме: советы ButlerSPB","description":"Узнайте, как превратить вашу квартиру в оазис уюта и спокойствия. ButlerSPB делится профессиональными лайфхаками по организации пространства и созданию комфортной атмосферы.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.8","reviewCount":366,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/povysit-komfort/"}}
+title: 'Как повысить комфорт в доме: советы ButlerSPB'
+description: >-
+  Узнайте, как превратить вашу квартиру в оазис уюта и спокойствия. ButlerSPB
+  делится профессиональными лайфхаками по организации пространства и созданию
+  комфортной атмосферы.
+pubDate: '2025-07-24T13:46:49.068Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Как повысить комфорт в доме: советы ButlerSPB'
+  description: >-
+    Узнайте, как превратить вашу квартиру в оазис уюта и спокойствия. ButlerSPB
+    делится профессиональными лайфхаками по организации пространства и созданию
+    комфортной атмосферы.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.9'
+    reviewCount: 559
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': 'https://butlerspb-blog.netlify.app/blog/povysit-komfort/'
 ---
 # Абсолютный комфорт: как превратить ваш дом в идеальное пространство с помощью психологии, дизайна и технологий
 

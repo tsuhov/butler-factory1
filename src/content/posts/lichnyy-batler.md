@@ -1,11 +1,40 @@
 ---
-title: "Личный батлер от ButlerSPB: роскошь и комфорт"
-description: "Современный батлер – это не просто прислуга, а ваш персональный помощник и доверенное лицо. Он организует быт, расписание и досуг, обеспечивая безупречный сервис."
-keywords: "личный батлер, услуги батлера, дворецкий, персональный ассистент, элитный сервис, ButlerSPB"
-pubDate: "2025-07-24T13:04:51.768Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Личный батлер от ButlerSPB: роскошь и комфорт","description":"Современный батлер – это не просто прислуга, а ваш персональный помощник и доверенное лицо. Он организует быт, расписание и досуг, обеспечивая безупречный сервис.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":485,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/lichnyy-batler/"}}
+title: 'Личный батлер от ButlerSPB: роскошь и комфорт'
+description: >-
+  Современный батлер – это не просто прислуга, а ваш персональный помощник и
+  доверенное лицо. Он организует быт, расписание и досуг, обеспечивая
+  безупречный сервис.
+pubDate: '2025-07-24T13:04:51.768Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Личный батлер от ButlerSPB: роскошь и комфорт'
+  description: >-
+    Современный батлер – это не просто прислуга, а ваш персональный помощник и
+    доверенное лицо. Он организует быт, расписание и досуг, обеспечивая
+    безупречный сервис.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '5.0'
+    reviewCount: 623
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': 'https://butlerspb-blog.netlify.app/blog/lichnyy-batler/'
 ---
 # Личный Батлер: Больше, чем Дворецкий. Полное Руководство по Элитному Сервису в XXI Веке
 

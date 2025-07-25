@@ -1,10 +1,45 @@
 ---
-title: "Сколько процентов берут риэлторы за аренду квартиры: полный разбор"
-description: "Планируете снять жилье и хотите понять, какой будет комиссия риэлтора? В новой статье блога ButlerSPB разбираемся, кто и сколько платит агенту при аренде квартиры в Санкт-Петербурге. Рассказываем, из чего складывается стоимость услуг, стандартные размеры комиссии (50% или 100%), и за что на самом деле вы платите деньги."
-pubDate: "2025-07-23T11:36:41.963Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Сколько процентов берут риэлторы за аренду квартиры: полный разбор","description":"Планируете снять жилье и хотите понять, какой будет комиссия риэлтора? В новой статье блога ButlerSPB разбираемся, кто и сколько платит агенту при аренде квартиры в Санкт-Петербурге. Рассказываем, из чего складывается стоимость услуг, стандартные размеры комиссии (50% или 100%), и за что на самом деле вы платите деньги.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":552,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/skolko-procentov-berut-rieltory-za-arendu/"}}
+title: 'Сколько процентов берут риэлторы за аренду квартиры: полный разбор'
+description: >-
+  Планируете снять жилье и хотите понять, какой будет комиссия риэлтора? В новой
+  статье блога ButlerSPB разбираемся, кто и сколько платит агенту при аренде
+  квартиры в Санкт-Петербурге. Рассказываем, из чего складывается стоимость
+  услуг, стандартные размеры комиссии (50% или 100%), и за что на самом деле вы
+  платите деньги.
+pubDate: '2025-07-23T11:36:41.963Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Сколько процентов берут риэлторы за аренду квартиры: полный разбор'
+  description: >-
+    Планируете снять жилье и хотите понять, какой будет комиссия риэлтора? В
+    новой статье блога ButlerSPB разбираемся, кто и сколько платит агенту при
+    аренде квартиры в Санкт-Петербурге. Рассказываем, из чего складывается
+    стоимость услуг, стандартные размеры комиссии (50% или 100%), и за что на
+    самом деле вы платите деньги.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.9'
+    reviewCount: 776
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/skolko-procentov-berut-rieltory-za-arendu/
 ---
 
 # Сколько процентов берут риэлторы за аренду квартиры: полный гайд по комиссиям в Санкт-Петербурге

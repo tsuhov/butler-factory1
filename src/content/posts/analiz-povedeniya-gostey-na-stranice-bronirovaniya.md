@@ -1,10 +1,51 @@
 ---
-title: "Анализ поведения гостей на странице бронирования: Как увеличить конверсию и прямые продажи"
-description: "Высокий процент отказов на странице бронирования — одна из главных проблем отельеров. В новой статье блога ButlerSPB мы разбираемся, как глубокий анализ поведения пользователей помогает выявить 'узкие места' и ошибки в дизайне. Узнайте, на какие метрики обращать внимание, какие инструменты использовать, и как превратить посетителей сайта в реальных гостей, увеличив количество прямых бронирований."
-pubDate: "2025-07-22T11:23:13.470Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Анализ поведения гостей на странице бронирования: Как увеличить конверсию и прямые продажи","description":"Высокий процент отказов на странице бронирования — одна из главных проблем отельеров. В новой статье блога ButlerSPB мы разбираемся, как глубокий анализ поведения пользователей помогает выявить 'узкие места' и ошибки в дизайне. Узнайте, на какие метрики обращать внимание, какие инструменты использовать, и как превратить посетителей сайта в реальных гостей, увеличив количество прямых бронирований.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.8","reviewCount":654,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/analiz-povedeniya-gostey-na-stranice-bronirovaniya/"}}
+title: >-
+  Анализ поведения гостей на странице бронирования: Как увеличить конверсию и
+  прямые продажи
+description: >-
+  Высокий процент отказов на странице бронирования — одна из главных проблем
+  отельеров. В новой статье блога ButlerSPB мы разбираемся, как глубокий анализ
+  поведения пользователей помогает выявить 'узкие места' и ошибки в дизайне.
+  Узнайте, на какие метрики обращать внимание, какие инструменты использовать, и
+  как превратить посетителей сайта в реальных гостей, увеличив количество прямых
+  бронирований.
+pubDate: '2025-07-22T11:23:13.470Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: >-
+    Анализ поведения гостей на странице бронирования: Как увеличить конверсию и
+    прямые продажи
+  description: >-
+    Высокий процент отказов на странице бронирования — одна из главных проблем
+    отельеров. В новой статье блога ButlerSPB мы разбираемся, как глубокий
+    анализ поведения пользователей помогает выявить 'узкие места' и ошибки в
+    дизайне. Узнайте, на какие метрики обращать внимание, какие инструменты
+    использовать, и как превратить посетителей сайта в реальных гостей, увеличив
+    количество прямых бронирований.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.8'
+    reviewCount: 889
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/analiz-povedeniya-gostey-na-stranice-bronirovaniya/
 ---
 
 # Гости уходят, не нажав «Забронировать»? Как анализ поведения на странице бронирования увеличит вашу прибыль

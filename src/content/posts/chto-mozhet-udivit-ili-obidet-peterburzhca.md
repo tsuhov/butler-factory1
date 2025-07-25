@@ -1,10 +1,49 @@
 ---
-title: "Чем удивить (и как не обидеть) петербуржца: гид по культурному коду от ButlerSPB"
-description: "Петербуржцы — народ с тонкой душевной организацией и собственным взглядом на мир. Мы в ButlerSPB подготовили для вас краткую инструкцию, которая поможет найти общий язык с жителями Северной столицы. Узнайте, почему 'шаверма', 'парадная' и 'поребрик' — это не просто слова, какие темы лучше не поднимать за чашкой кофе и какой комплимент городу станет лучшим началом для дружбы."
-pubDate: "2025-07-22T13:05:54.780Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Чем удивить (и как не обидеть) петербуржца: гид по культурному коду от ButlerSPB","description":"Петербуржцы — народ с тонкой душевной организацией и собственным взглядом на мир. Мы в ButlerSPB подготовили для вас краткую инструкцию, которая поможет найти общий язык с жителями Северной столицы. Узнайте, почему 'шаверма', 'парадная' и 'поребрик' — это не просто слова, какие темы лучше не поднимать за чашкой кофе и какой комплимент городу станет лучшим началом для дружбы.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.7","reviewCount":760,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/chto-mozhet-udivit-ili-obidet-peterburzhca/"}}
+title: >-
+  Чем удивить (и как не обидеть) петербуржца: гид по культурному коду от
+  ButlerSPB
+description: >-
+  Петербуржцы — народ с тонкой душевной организацией и собственным взглядом на
+  мир. Мы в ButlerSPB подготовили для вас краткую инструкцию, которая поможет
+  найти общий язык с жителями Северной столицы. Узнайте, почему 'шаверма',
+  'парадная' и 'поребрик' — это не просто слова, какие темы лучше не поднимать
+  за чашкой кофе и какой комплимент городу станет лучшим началом для дружбы.
+pubDate: '2025-07-22T13:05:54.780Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: >-
+    Чем удивить (и как не обидеть) петербуржца: гид по культурному коду от
+    ButlerSPB
+  description: >-
+    Петербуржцы — народ с тонкой душевной организацией и собственным взглядом на
+    мир. Мы в ButlerSPB подготовили для вас краткую инструкцию, которая поможет
+    найти общий язык с жителями Северной столицы. Узнайте, почему 'шаверма',
+    'парадная' и 'поребрик' — это не просто слова, какие темы лучше не поднимать
+    за чашкой кофе и какой комплимент городу станет лучшим началом для дружбы.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.9'
+    reviewCount: 862
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/chto-mozhet-udivit-ili-obidet-peterburzhca/
 ---
 
 # Что может удивить или обидеть петербуржца: 10+ табу и советов для гостей культурной столицы

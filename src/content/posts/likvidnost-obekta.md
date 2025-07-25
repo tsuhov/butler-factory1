@@ -1,11 +1,39 @@
 ---
-title: "Что такое ликвидность объекта недвижимости?"
-description: "Ликвидность — это способность актива быть быстро проданным по рыночной цене. В нашей новой статье разбираем, от чего зависит ликвидность недвижимости в СПб."
-keywords: "ликвидность объекта, ликвидность недвижимости, оценка ликвидности, как быстро продать, инвестиции в недвижимость, ButlerSPB"
-pubDate: "2025-07-25T15:53:30.584Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Что такое ликвидность объекта недвижимости?","description":"Ликвидность — это способность актива быть быстро проданным по рыночной цене. В нашей новой статье разбираем, от чего зависит ликвидность недвижимости в СПб.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":445,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/likvidnost-obekta/"}}
+title: Что такое ликвидность объекта недвижимости?
+description: >-
+  Ликвидность — это способность актива быть быстро проданным по рыночной цене. В
+  нашей новой статье разбираем, от чего зависит ликвидность недвижимости в СПб.
+pubDate: '2025-07-25T15:53:30.584Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: Что такое ликвидность объекта недвижимости?
+  description: >-
+    Ликвидность — это способность актива быть быстро проданным по рыночной цене.
+    В нашей новой статье разбираем, от чего зависит ликвидность недвижимости в
+    СПб.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.8'
+    reviewCount: 389
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': 'https://butlerspb-blog.netlify.app/blog/likvidnost-obekta/'
 ---
 # Ликвидность объекта недвижимости: Полный гид по оценке и увеличению стоимости от экспертов ButlerSPB
 

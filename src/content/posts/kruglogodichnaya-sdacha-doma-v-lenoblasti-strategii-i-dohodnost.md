@@ -1,10 +1,45 @@
 ---
-title: "Круглогодичная сдача дома в Ленобласти: стратегии и доходность"
-description: "Как превратить загородный дом в Ленинградской области в стабильный источник дохода на протяжении всего года? В новой статье блога ButlerSPB разбираем эффективные стратегии: от правильной подготовки объекта к зиме и лету до динамического ценообразования и привлечения гостей в низкий сезон. Узнайте, как максимизировать прибыль от вашей недвижимости."
-pubDate: "2025-07-22T13:46:23.481Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Круглогодичная сдача дома в Ленобласти: стратегии и доходность","description":"Как превратить загородный дом в Ленинградской области в стабильный источник дохода на протяжении всего года? В новой статье блога ButlerSPB разбираем эффективные стратегии: от правильной подготовки объекта к зиме и лету до динамического ценообразования и привлечения гостей в низкий сезон. Узнайте, как максимизировать прибыль от вашей недвижимости.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"5.0","reviewCount":898,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/kruglogodichnaya-sdacha-doma-v-lenoblasti-strategii-i-dohodnost/"}}
+title: 'Круглогодичная сдача дома в Ленобласти: стратегии и доходность'
+description: >-
+  Как превратить загородный дом в Ленинградской области в стабильный источник
+  дохода на протяжении всего года? В новой статье блога ButlerSPB разбираем
+  эффективные стратегии: от правильной подготовки объекта к зиме и лету до
+  динамического ценообразования и привлечения гостей в низкий сезон. Узнайте,
+  как максимизировать прибыль от вашей недвижимости.
+pubDate: '2025-07-22T13:46:23.481Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Круглогодичная сдача дома в Ленобласти: стратегии и доходность'
+  description: >-
+    Как превратить загородный дом в Ленинградской области в стабильный источник
+    дохода на протяжении всего года? В новой статье блога ButlerSPB разбираем
+    эффективные стратегии: от правильной подготовки объекта к зиме и лету до
+    динамического ценообразования и привлечения гостей в низкий сезон. Узнайте,
+    как максимизировать прибыль от вашей недвижимости.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.7'
+    reviewCount: 612
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/kruglogodichnaya-sdacha-doma-v-lenoblasti-strategii-i-dohodnost/
 ---
 
 # Круглогодичная сдача дома в Ленобласти: Полное руководство по стратегиям и доходности от ButlerSPB

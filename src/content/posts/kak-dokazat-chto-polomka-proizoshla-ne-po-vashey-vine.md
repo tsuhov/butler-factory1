@@ -1,10 +1,49 @@
 ---
-title: "Как доказать, что поломка произошла не по вашей вине: инструкция от ButlerSPB"
-description: "Столкнулись с поломкой техники, а продавец или сервисный центр утверждает, что виноваты вы? Не отчаивайтесь! В новой статье блога ButlerSPB мы делимся пошаговым планом действий: как зафиксировать факт поломки, какие документы собрать, когда необходима независимая экспертиза и как правильно составить претензию, чтобы отстоять свои права и добиться бесплатного ремонта или возврата денег. Узнайте, как защитить себя от необоснованных обвинений."
-pubDate: "2025-07-22T11:42:16.141Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Как доказать, что поломка произошла не по вашей вине: инструкция от ButlerSPB","description":"Столкнулись с поломкой техники, а продавец или сервисный центр утверждает, что виноваты вы? Не отчаивайтесь! В новой статье блога ButlerSPB мы делимся пошаговым планом действий: как зафиксировать факт поломки, какие документы собрать, когда необходима независимая экспертиза и как правильно составить претензию, чтобы отстоять свои права и добиться бесплатного ремонта или возврата денег. Узнайте, как защитить себя от необоснованных обвинений.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.8","reviewCount":394,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/kak-dokazat-chto-polomka-proizoshla-ne-po-vashey-vine/"}}
+title: 'Как доказать, что поломка произошла не по вашей вине: инструкция от ButlerSPB'
+description: >-
+  Столкнулись с поломкой техники, а продавец или сервисный центр утверждает, что
+  виноваты вы? Не отчаивайтесь! В новой статье блога ButlerSPB мы делимся
+  пошаговым планом действий: как зафиксировать факт поломки, какие документы
+  собрать, когда необходима независимая экспертиза и как правильно составить
+  претензию, чтобы отстоять свои права и добиться бесплатного ремонта или
+  возврата денег. Узнайте, как защитить себя от необоснованных обвинений.
+pubDate: '2025-07-22T11:42:16.141Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: >-
+    Как доказать, что поломка произошла не по вашей вине: инструкция от
+    ButlerSPB
+  description: >-
+    Столкнулись с поломкой техники, а продавец или сервисный центр утверждает,
+    что виноваты вы? Не отчаивайтесь! В новой статье блога ButlerSPB мы делимся
+    пошаговым планом действий: как зафиксировать факт поломки, какие документы
+    собрать, когда необходима независимая экспертиза и как правильно составить
+    претензию, чтобы отстоять свои права и добиться бесплатного ремонта или
+    возврата денег. Узнайте, как защитить себя от необоснованных обвинений.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.7'
+    reviewCount: 340
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/kak-dokazat-chto-polomka-proizoshla-ne-po-vashey-vine/
 ---
 
 # Как доказать, что техника сломалась не по вашей вине: пошаговая инструкция от экспертов по ремонту

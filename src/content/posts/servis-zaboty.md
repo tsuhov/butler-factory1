@@ -1,11 +1,40 @@
 ---
-title: "Сервис заботы: философия компании ButlerSPB"
-description: "В ButlerSPB мы верим, что настоящий сервис — это искренняя забота о клиенте. Рассказываем, как мы предугадываем ваши желания и создаем комфорт на каждом шагу."
-keywords: "сервис заботы, ButlerSPB, премиум сервис, консьерж сервис, забота о клиентах, индивидуальный подход"
-pubDate: "2025-07-24T13:11:27.284Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Сервис заботы: философия компании ButlerSPB","description":"В ButlerSPB мы верим, что настоящий сервис — это искренняя забота о клиенте. Рассказываем, как мы предугадываем ваши желания и создаем комфорт на каждом шагу.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.8","reviewCount":456,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/servis-zaboty/"}}
+title: 'Сервис заботы: философия компании ButlerSPB'
+description: >-
+  В ButlerSPB мы верим, что настоящий сервис — это искренняя забота о клиенте.
+  Рассказываем, как мы предугадываем ваши желания и создаем комфорт на каждом
+  шагу.
+pubDate: '2025-07-24T13:11:27.284Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Сервис заботы: философия компании ButlerSPB'
+  description: >-
+    В ButlerSPB мы верим, что настоящий сервис — это искренняя забота о клиенте.
+    Рассказываем, как мы предугадываем ваши желания и создаем комфорт на каждом
+    шагу.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.9'
+    reviewCount: 740
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': 'https://butlerspb-blog.netlify.app/blog/servis-zaboty/'
 ---
 # Сервис заботы: Как делегировать рутину и вернуть себе главный актив — время
 

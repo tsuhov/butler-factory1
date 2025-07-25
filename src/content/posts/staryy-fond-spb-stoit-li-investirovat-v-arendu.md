@@ -1,10 +1,47 @@
 ---
-title: "Старый фонд СПб: стоит ли инвестировать в аренду? Аналитика от ButlerSPB"
-description: "Квартиры в историческом центре Санкт-Петербурга привлекают инвесторов своей уникальной атмосферой и высоким спросом. Но так ли выгодны такие вложения? Разбираем все плюсы и минусы: от туристической привлекательности и высокой ликвидности до скрытых затрат на капитальный ремонт и юридических нюансов. В этой статье команда ButlerSPB поможет вам оценить риски и потенциальную доходность инвестиций в старый фонд."
-pubDate: "2025-07-22T15:32:10.028Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Старый фонд СПб: стоит ли инвестировать в аренду? Аналитика от ButlerSPB","description":"Квартиры в историческом центре Санкт-Петербурга привлекают инвесторов своей уникальной атмосферой и высоким спросом. Но так ли выгодны такие вложения? Разбираем все плюсы и минусы: от туристической привлекательности и высокой ликвидности до скрытых затрат на капитальный ремонт и юридических нюансов. В этой статье команда ButlerSPB поможет вам оценить риски и потенциальную доходность инвестиций в старый фонд.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"5.0","reviewCount":522,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/staryy-fond-spb-stoit-li-investirovat-v-arendu/"}}
+title: 'Старый фонд СПб: стоит ли инвестировать в аренду? Аналитика от ButlerSPB'
+description: >-
+  Квартиры в историческом центре Санкт-Петербурга привлекают инвесторов своей
+  уникальной атмосферой и высоким спросом. Но так ли выгодны такие вложения?
+  Разбираем все плюсы и минусы: от туристической привлекательности и высокой
+  ликвидности до скрытых затрат на капитальный ремонт и юридических нюансов. В
+  этой статье команда ButlerSPB поможет вам оценить риски и потенциальную
+  доходность инвестиций в старый фонд.
+pubDate: '2025-07-22T15:32:10.028Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Старый фонд СПб: стоит ли инвестировать в аренду? Аналитика от ButlerSPB'
+  description: >-
+    Квартиры в историческом центре Санкт-Петербурга привлекают инвесторов своей
+    уникальной атмосферой и высоким спросом. Но так ли выгодны такие вложения?
+    Разбираем все плюсы и минусы: от туристической привлекательности и высокой
+    ликвидности до скрытых затрат на капитальный ремонт и юридических нюансов. В
+    этой статье команда ButlerSPB поможет вам оценить риски и потенциальную
+    доходность инвестиций в старый фонд.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '5.0'
+    reviewCount: 405
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/staryy-fond-spb-stoit-li-investirovat-v-arendu/
 ---
 
 # Старый фонд СПб: Инвестиции в аренду — романтика или рискованный расчет? | Экспертный разбор от ButlerSPB

@@ -1,11 +1,39 @@
 ---
-title: "Делегировать Батлеру: освободите свое время"
-description: "Узнайте, как делегирование рутинных задач и личных поручений сервису ButlerSPB помогает сэкономить время, снизить стресс и сосредоточиться на самом главном."
-keywords: "делегирование, батлер, ButlerSPB, личный помощник, консьерж-сервис, управление временем, оптимизация задач"
-pubDate: "2025-07-24T13:08:50.771Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Делегировать Батлеру: освободите свое время","description":"Узнайте, как делегирование рутинных задач и личных поручений сервису ButlerSPB помогает сэкономить время, снизить стресс и сосредоточиться на самом главном.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.7","reviewCount":839,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/delegirovat-batleru/"}}
+title: 'Делегировать Батлеру: освободите свое время'
+description: >-
+  Узнайте, как делегирование рутинных задач и личных поручений сервису ButlerSPB
+  помогает сэкономить время, снизить стресс и сосредоточиться на самом главном.
+pubDate: '2025-07-24T13:08:50.771Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Делегировать Батлеру: освободите свое время'
+  description: >-
+    Узнайте, как делегирование рутинных задач и личных поручений сервису
+    ButlerSPB помогает сэкономить время, снизить стресс и сосредоточиться на
+    самом главном.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '5.0'
+    reviewCount: 391
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': 'https://butlerspb-blog.netlify.app/blog/delegirovat-batleru/'
 ---
 # Искусство делегирования: почему ваш главный актив — это время, и как его вернуть с помощью Батлера
 

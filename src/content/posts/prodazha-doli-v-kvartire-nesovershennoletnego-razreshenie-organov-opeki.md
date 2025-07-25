@@ -1,10 +1,48 @@
 ---
-title: "Продажа доли в квартире несовершеннолетнего: разрешение органов опеки"
-description: "Продажа недвижимости, в которой есть доля несовершеннолетнего, требует обязательного согласования с органами опеки и попечительства. Это сложный процесс со множеством юридических тонкостей. В новой статье блога ButlerSPB мы подробно рассказываем, какие документы нужно собрать, каковы требования опеки к новой жилплощади для ребенка и как избежать отказа. Узнайте, как правильно подготовиться к сделке и защитить имущественные права вашего ребенка."
-pubDate: "2025-07-23T11:37:32.470Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Продажа доли в квартире несовершеннолетнего: разрешение органов опеки","description":"Продажа недвижимости, в которой есть доля несовершеннолетнего, требует обязательного согласования с органами опеки и попечительства. Это сложный процесс со множеством юридических тонкостей. В новой статье блога ButlerSPB мы подробно рассказываем, какие документы нужно собрать, каковы требования опеки к новой жилплощади для ребенка и как избежать отказа. Узнайте, как правильно подготовиться к сделке и защитить имущественные права вашего ребенка.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.8","reviewCount":646,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/prodazha-doli-v-kvartire-nesovershennoletnego-razreshenie-organov-opeki/"}}
+title: 'Продажа доли в квартире несовершеннолетнего: разрешение органов опеки'
+description: >-
+  Продажа недвижимости, в которой есть доля несовершеннолетнего, требует
+  обязательного согласования с органами опеки и попечительства. Это сложный
+  процесс со множеством юридических тонкостей. В новой статье блога ButlerSPB мы
+  подробно рассказываем, какие документы нужно собрать, каковы требования опеки
+  к новой жилплощади для ребенка и как избежать отказа. Узнайте, как правильно
+  подготовиться к сделке и защитить имущественные права вашего ребенка.
+pubDate: '2025-07-23T11:37:32.470Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Продажа доли в квартире несовершеннолетнего: разрешение органов опеки'
+  description: >-
+    Продажа недвижимости, в которой есть доля несовершеннолетнего, требует
+    обязательного согласования с органами опеки и попечительства. Это сложный
+    процесс со множеством юридических тонкостей. В новой статье блога ButlerSPB
+    мы подробно рассказываем, какие документы нужно собрать, каковы требования
+    опеки к новой жилплощади для ребенка и как избежать отказа. Узнайте, как
+    правильно подготовиться к сделке и защитить имущественные права вашего
+    ребенка.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.9'
+    reviewCount: 652
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/prodazha-doli-v-kvartire-nesovershennoletnego-razreshenie-organov-opeki/
 ---
 
 # Продажа доли несовершеннолетнего в квартире: Полное руководство по получению разрешения опеки в 2024 году

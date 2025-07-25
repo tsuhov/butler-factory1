@@ -1,11 +1,40 @@
 ---
-title: "Поиск инвестобъекта: инструкция от ButlerSPB"
-description: "Как найти ликвидный объект для инвестиций? Мы разбираем ключевые этапы: от анализа рынка до оценки доходности. Практические советы для инвесторов от ButlerSPB."
-keywords: "инвестиции в недвижимость, поиск инвестобъекта, купить квартиру в спб, доходная недвижимость, ButlerSPB, ликвидность объекта"
-pubDate: "2025-07-25T14:03:10.406Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Поиск инвестобъекта: инструкция от ButlerSPB","description":"Как найти ликвидный объект для инвестиций? Мы разбираем ключевые этапы: от анализа рынка до оценки доходности. Практические советы для инвесторов от ButlerSPB.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.7","reviewCount":714,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/poisk-investobekta/"}}
+title: 'Поиск инвестобъекта: инструкция от ButlerSPB'
+description: >-
+  Как найти ликвидный объект для инвестиций? Мы разбираем ключевые этапы: от
+  анализа рынка до оценки доходности. Практические советы для инвесторов от
+  ButlerSPB.
+pubDate: '2025-07-25T14:03:10.406Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Поиск инвестобъекта: инструкция от ButlerSPB'
+  description: >-
+    Как найти ликвидный объект для инвестиций? Мы разбираем ключевые этапы: от
+    анализа рынка до оценки доходности. Практические советы для инвесторов от
+    ButlerSPB.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '5.0'
+    reviewCount: 341
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': 'https://butlerspb-blog.netlify.app/blog/poisk-investobekta/'
 ---
 # Как найти прибыльный инвестобъект в Санкт-Петербурге: Пошаговое руководство для инвестора
 

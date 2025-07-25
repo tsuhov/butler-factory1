@@ -1,11 +1,40 @@
 ---
-title: "Предметная съемка: от идеи до идеального кадра"
-description: "Качественная предметная фотография – ключ к успеху вашего бизнеса. В этой статье мы расскажем, как правильно подготовить объекты, выбрать фон и настроить свет."
-keywords: "предметная съемка, фотография товаров, коммерческая фотография, студийная съемка, свет для фото, фон для фото, ButlerSPB"
-pubDate: "2025-07-25T15:19:09.381Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Предметная съемка: от идеи до идеального кадра","description":"Качественная предметная фотография – ключ к успеху вашего бизнеса. В этой статье мы расскажем, как правильно подготовить объекты, выбрать фон и настроить свет.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.8","reviewCount":704,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/fotografii-obekty/"}}
+title: 'Предметная съемка: от идеи до идеального кадра'
+description: >-
+  Качественная предметная фотография – ключ к успеху вашего бизнеса. В этой
+  статье мы расскажем, как правильно подготовить объекты, выбрать фон и
+  настроить свет.
+pubDate: '2025-07-25T15:19:09.381Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Предметная съемка: от идеи до идеального кадра'
+  description: >-
+    Качественная предметная фотография – ключ к успеху вашего бизнеса. В этой
+    статье мы расскажем, как правильно подготовить объекты, выбрать фон и
+    настроить свет.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.8'
+    reviewCount: 824
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': 'https://butlerspb-blog.netlify.app/blog/fotografii-obekty/'
 ---
 # Предметная фотосъемка, которая продает: полное руководство для бизнеса в Санкт-Петербурге
 

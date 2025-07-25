@@ -1,11 +1,40 @@
 ---
-title: "Автоматическое заселение: инновации в аренде"
-description: "ButlerSPB внедряет автоматическое заселение для вашего удобства. Забудьте об ожидании ключей – получайте доступ к апартаментам в любое время с помощью умных замков."
-keywords: "автоматическое заселение, умный замок, бесконтактное заселение, аренда квартир, посуточная аренда, ButlerSPB"
-pubDate: "2025-07-25T16:12:38.487Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Автоматическое заселение: инновации в аренде","description":"ButlerSPB внедряет автоматическое заселение для вашего удобства. Забудьте об ожидании ключей – получайте доступ к апартаментам в любое время с помощью умных замков.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":698,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/avtomaticheskoe-zaselenie/"}}
+title: 'Автоматическое заселение: инновации в аренде'
+description: >-
+  ButlerSPB внедряет автоматическое заселение для вашего удобства. Забудьте об
+  ожидании ключей – получайте доступ к апартаментам в любое время с помощью
+  умных замков.
+pubDate: '2025-07-25T16:12:38.487Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Автоматическое заселение: инновации в аренде'
+  description: >-
+    ButlerSPB внедряет автоматическое заселение для вашего удобства. Забудьте об
+    ожидании ключей – получайте доступ к апартаментам в любое время с помощью
+    умных замков.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.8'
+    reviewCount: 806
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': 'https://butlerspb-blog.netlify.app/blog/avtomaticheskoe-zaselenie/'
 ---
 # Автоматическое заселение: Как перестать встречать гостей лично и увеличить доход от аренды
 

@@ -1,10 +1,49 @@
 ---
-title: "Как нанять риэлтора для покупки или продажи квартиры в старом фонде: инструкция от ButlerSPB"
-description: "Сделки с недвижимостью в старом фонде требуют особого подхода и глубоких знаний. От юридической чистоты до состояния перекрытий — рисков множество. В этой статье мы подробно разбираем, как найти настоящего эксперта по исторической недвижимости, какие вопросы ему задать, на что обратить внимание в его портфолио и как убедиться, что ваша сделка в надежных руках."
-pubDate: "2025-07-23T11:34:40.564Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Как нанять риэлтора для покупки или продажи квартиры в старом фонде: инструкция от ButlerSPB","description":"Сделки с недвижимостью в старом фонде требуют особого подхода и глубоких знаний. От юридической чистоты до состояния перекрытий — рисков множество. В этой статье мы подробно разбираем, как найти настоящего эксперта по исторической недвижимости, какие вопросы ему задать, на что обратить внимание в его портфолио и как убедиться, что ваша сделка в надежных руках.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"5.0","reviewCount":892,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/kak-nanyat-rieltora-kotoryy-specializiruetsya-na-starom-fonde/"}}
+title: >-
+  Как нанять риэлтора для покупки или продажи квартиры в старом фонде:
+  инструкция от ButlerSPB
+description: >-
+  Сделки с недвижимостью в старом фонде требуют особого подхода и глубоких
+  знаний. От юридической чистоты до состояния перекрытий — рисков множество. В
+  этой статье мы подробно разбираем, как найти настоящего эксперта по
+  исторической недвижимости, какие вопросы ему задать, на что обратить внимание
+  в его портфолио и как убедиться, что ваша сделка в надежных руках.
+pubDate: '2025-07-23T11:34:40.564Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: >-
+    Как нанять риэлтора для покупки или продажи квартиры в старом фонде:
+    инструкция от ButlerSPB
+  description: >-
+    Сделки с недвижимостью в старом фонде требуют особого подхода и глубоких
+    знаний. От юридической чистоты до состояния перекрытий — рисков множество. В
+    этой статье мы подробно разбираем, как найти настоящего эксперта по
+    исторической недвижимости, какие вопросы ему задать, на что обратить
+    внимание в его портфолио и как убедиться, что ваша сделка в надежных руках.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.9'
+    reviewCount: 520
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/kak-nanyat-rieltora-kotoryy-specializiruetsya-na-starom-fonde/
 ---
 
 # Как найти и нанять «своего» риэлтора для покупки или продажи квартиры в старом фонде Санкт-Петербурга

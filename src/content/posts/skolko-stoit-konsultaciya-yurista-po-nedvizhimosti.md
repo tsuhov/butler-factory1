@@ -1,10 +1,49 @@
 ---
-title: "Сколько стоит консультация юриста по недвижимости: обзор цен и услуг от ButlerSPB"
-description: "Планируете сделку с недвижимостью и ищете юриста? В нашей статье мы подробно разбираем, из чего складывается стоимость юридической консультации, какие факторы влияют на цену и как выбрать специалиста. Узнайте актуальные расценки на услуги юристов по недвижимости от компании ButlerSPB и защитите свои интересы."
-pubDate: "2025-07-23T15:49:44.014Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Сколько стоит консультация юриста по недвижимости: обзор цен и услуг от ButlerSPB","description":"Планируете сделку с недвижимостью и ищете юриста? В нашей статье мы подробно разбираем, из чего складывается стоимость юридической консультации, какие факторы влияют на цену и как выбрать специалиста. Узнайте актуальные расценки на услуги юристов по недвижимости от компании ButlerSPB и защитите свои интересы.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":339,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/skolko-stoit-konsultaciya-yurista-po-nedvizhimosti/"}}
+title: >-
+  Сколько стоит консультация юриста по недвижимости: обзор цен и услуг от
+  ButlerSPB
+description: >-
+  Планируете сделку с недвижимостью и ищете юриста? В нашей статье мы подробно
+  разбираем, из чего складывается стоимость юридической консультации, какие
+  факторы влияют на цену и как выбрать специалиста. Узнайте актуальные расценки
+  на услуги юристов по недвижимости от компании ButlerSPB и защитите свои
+  интересы.
+pubDate: '2025-07-23T15:49:44.014Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: >-
+    Сколько стоит консультация юриста по недвижимости: обзор цен и услуг от
+    ButlerSPB
+  description: >-
+    Планируете сделку с недвижимостью и ищете юриста? В нашей статье мы подробно
+    разбираем, из чего складывается стоимость юридической консультации, какие
+    факторы влияют на цену и как выбрать специалиста. Узнайте актуальные
+    расценки на услуги юристов по недвижимости от компании ButlerSPB и защитите
+    свои интересы.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.8'
+    reviewCount: 409
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/skolko-stoit-konsultaciya-yurista-po-nedvizhimosti/
 ---
 
 # Сколько стоит консультация юриста по недвижимости в 2024 году: полный разбор цен и услуг от ButlerSPB

@@ -1,11 +1,40 @@
 ---
-title: "Собственник и УК: права и обязанности сторон"
-description: "Разбираем права и обязанности собственников жилья и управляющих компаний. Как контролировать качество услуг, решать споры и куда обращаться. Советы от ButlerSPB."
-keywords: "управляющая компания, собственник, ЖКХ, права и обязанности, общее собрание, ButlerSPB"
-pubDate: "2025-07-25T14:30:57.893Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Собственник и УК: права и обязанности сторон","description":"Разбираем права и обязанности собственников жилья и управляющих компаний. Как контролировать качество услуг, решать споры и куда обращаться. Советы от ButlerSPB.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.8","reviewCount":406,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/sobstvennik-i-uk/"}}
+title: 'Собственник и УК: права и обязанности сторон'
+description: >-
+  Разбираем права и обязанности собственников жилья и управляющих компаний. Как
+  контролировать качество услуг, решать споры и куда обращаться. Советы от
+  ButlerSPB.
+pubDate: '2025-07-25T14:30:57.893Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Собственник и УК: права и обязанности сторон'
+  description: >-
+    Разбираем права и обязанности собственников жилья и управляющих компаний.
+    Как контролировать качество услуг, решать споры и куда обращаться. Советы от
+    ButlerSPB.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.8'
+    reviewCount: 465
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': 'https://butlerspb-blog.netlify.app/blog/sobstvennik-i-uk/'
 ---
 # Собственник против УК: Полное руководство по защите ваших прав и денег
 

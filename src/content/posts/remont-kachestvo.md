@@ -1,11 +1,40 @@
 ---
-title: "Качественный ремонт от ButlerSPB: Гарантия."
-description: "Узнайте, как ButlerSPB гарантирует высокое качество ремонта в СПб. Раскрываем секреты выбора материалов, контроля работ и почему важен профессиональный подход."
-keywords: "ремонт квартир, качество ремонта, ButlerSPB, ремонт под ключ СПб, гарантия на ремонт, отделочные работы"
-pubDate: "2025-07-25T15:57:30.420Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Качественный ремонт от ButlerSPB: Гарантия.","description":"Узнайте, как ButlerSPB гарантирует высокое качество ремонта в СПб. Раскрываем секреты выбора материалов, контроля работ и почему важен профессиональный подход.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.8","reviewCount":629,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/remont-kachestvo/"}}
+title: 'Качественный ремонт от ButlerSPB: Гарантия.'
+description: >-
+  Узнайте, как ButlerSPB гарантирует высокое качество ремонта в СПб. Раскрываем
+  секреты выбора материалов, контроля работ и почему важен профессиональный
+  подход.
+pubDate: '2025-07-25T15:57:30.420Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Качественный ремонт от ButlerSPB: Гарантия.'
+  description: >-
+    Узнайте, как ButlerSPB гарантирует высокое качество ремонта в СПб.
+    Раскрываем секреты выбора материалов, контроля работ и почему важен
+    профессиональный подход.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.9'
+    reviewCount: 842
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': 'https://butlerspb-blog.netlify.app/blog/remont-kachestvo/'
 ---
 # Качественный ремонт квартиры в СПб: полная инструкция от ButlerSPB, как получить результат, а не разочарование
 

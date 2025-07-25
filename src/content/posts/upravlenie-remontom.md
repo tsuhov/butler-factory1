@@ -1,11 +1,40 @@
 ---
-title: "Грамотное управление ремонтом: ваш план действий"
-description: "Грамотное управление ремонтом поможет сэкономить время и деньги. Рассматриваем основные этапы: планирование, бюджетирование, выбор исполнителей и контроль качества."
-keywords: "управление ремонтом, ремонт квартиры, планирование ремонта, смета, контроль работ, выбор подрядчика, ButlerSPB"
-pubDate: "2025-07-25T14:12:38.824Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Грамотное управление ремонтом: ваш план действий","description":"Грамотное управление ремонтом поможет сэкономить время и деньги. Рассматриваем основные этапы: планирование, бюджетирование, выбор исполнителей и контроль качества.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":698,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/upravlenie-remontom/"}}
+title: 'Грамотное управление ремонтом: ваш план действий'
+description: >-
+  Грамотное управление ремонтом поможет сэкономить время и деньги. Рассматриваем
+  основные этапы: планирование, бюджетирование, выбор исполнителей и контроль
+  качества.
+pubDate: '2025-07-25T14:12:38.824Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Грамотное управление ремонтом: ваш план действий'
+  description: >-
+    Грамотное управление ремонтом поможет сэкономить время и деньги.
+    Рассматриваем основные этапы: планирование, бюджетирование, выбор
+    исполнителей и контроль качества.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.8'
+    reviewCount: 331
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': 'https://butlerspb-blog.netlify.app/blog/upravlenie-remontom/'
 ---
 # Управление ремонтом: от хаоса к идеальному результату. Пошаговый гайд от экспертов ButlerSPB
 

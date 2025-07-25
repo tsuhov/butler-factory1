@@ -1,11 +1,40 @@
 ---
-title: "Рутина консьержа: один день из жизни ButlerSPB"
-description: "Узнайте, из чего состоит день консьержа ButlerSPB. От утреннего кофе и планирования до решения нетривиальных задач и выполнения самых неожиданных запросов."
-keywords: "консьерж-сервис, ButlerSPB, рутина консьержа, работа консьержа, обязанности консьержа, лайфстайл-менеджмент, личный ассистент"
-pubDate: "2025-07-24T13:08:40.589Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Рутина консьержа: один день из жизни ButlerSPB","description":"Узнайте, из чего состоит день консьержа ButlerSPB. От утреннего кофе и планирования до решения нетривиальных задач и выполнения самых неожиданных запросов.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":807,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/rutina-konserzha/"}}
+title: 'Рутина консьержа: один день из жизни ButlerSPB'
+description: >-
+  Узнайте, из чего состоит день консьержа ButlerSPB. От утреннего кофе и
+  планирования до решения нетривиальных задач и выполнения самых неожиданных
+  запросов.
+pubDate: '2025-07-24T13:08:40.589Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Рутина консьержа: один день из жизни ButlerSPB'
+  description: >-
+    Узнайте, из чего состоит день консьержа ButlerSPB. От утреннего кофе и
+    планирования до решения нетривиальных задач и выполнения самых неожиданных
+    запросов.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.9'
+    reviewCount: 615
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': 'https://butlerspb-blog.netlify.app/blog/rutina-konserzha/'
 ---
 # Не просто работа, а искусство: Один день из жизни консьержа ButlerSPB
 

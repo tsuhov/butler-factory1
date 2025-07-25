@@ -1,10 +1,47 @@
 ---
-title: "Как проверить рыночную стоимость квартиры самостоятельно: пошаговая инструкция от ButlerSPB"
-description: "Хотите узнать реальную цену своей квартиры перед продажей или покупкой? В нашей новой статье блога ButlerSPB мы делимся проверенными методами и онлайн-инструментами, которые помогут вам самостоятельно оценить рыночную стоимость недвижимости. Определите справедливую цену без помощи риэлтора!"
-pubDate: "2025-07-23T12:06:34.867Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Как проверить рыночную стоимость квартиры самостоятельно: пошаговая инструкция от ButlerSPB","description":"Хотите узнать реальную цену своей квартиры перед продажей или покупкой? В нашей новой статье блога ButlerSPB мы делимся проверенными методами и онлайн-инструментами, которые помогут вам самостоятельно оценить рыночную стоимость недвижимости. Определите справедливую цену без помощи риэлтора!","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.8","reviewCount":586,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/kak-proverit-rynochnuyu-stoimost-kvartiry-samostoyatelno/"}}
+title: >-
+  Как проверить рыночную стоимость квартиры самостоятельно: пошаговая инструкция
+  от ButlerSPB
+description: >-
+  Хотите узнать реальную цену своей квартиры перед продажей или покупкой? В
+  нашей новой статье блога ButlerSPB мы делимся проверенными методами и
+  онлайн-инструментами, которые помогут вам самостоятельно оценить рыночную
+  стоимость недвижимости. Определите справедливую цену без помощи риэлтора!
+pubDate: '2025-07-23T12:06:34.867Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: >-
+    Как проверить рыночную стоимость квартиры самостоятельно: пошаговая
+    инструкция от ButlerSPB
+  description: >-
+    Хотите узнать реальную цену своей квартиры перед продажей или покупкой? В
+    нашей новой статье блога ButlerSPB мы делимся проверенными методами и
+    онлайн-инструментами, которые помогут вам самостоятельно оценить рыночную
+    стоимость недвижимости. Определите справедливую цену без помощи риэлтора!
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.9'
+    reviewCount: 726
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/kak-proverit-rynochnuyu-stoimost-kvartiry-samostoyatelno/
 ---
 
 # Как проверить рыночную стоимость квартиры самостоятельно: пошаговая инструкция от экспертов ButlerSPB

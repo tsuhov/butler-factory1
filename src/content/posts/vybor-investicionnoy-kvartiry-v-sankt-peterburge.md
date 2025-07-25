@@ -1,10 +1,49 @@
 ---
-title: "Как выбрать инвестиционную квартиру в Санкт-Петербурге: полное руководство от ButlerSPB"
-description: "Планируете вложить средства в недвижимость Северной столицы? В нашей новой статье эксперты ButlerSPB делятся ключевыми критериями выбора ликвидной квартиры для инвестиций: от анализа локации и застройщика до оценки планировки и потенциальной доходности. Узнайте, как сделать правильный выбор и обеспечить стабильный доход."
-pubDate: "2025-07-22T13:42:43.250Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Как выбрать инвестиционную квартиру в Санкт-Петербурге: полное руководство от ButlerSPB","description":"Планируете вложить средства в недвижимость Северной столицы? В нашей новой статье эксперты ButlerSPB делятся ключевыми критериями выбора ликвидной квартиры для инвестиций: от анализа локации и застройщика до оценки планировки и потенциальной доходности. Узнайте, как сделать правильный выбор и обеспечить стабильный доход.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.8","reviewCount":353,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/vybor-investicionnoy-kvartiry-v-sankt-peterburge/"}}
+title: >-
+  Как выбрать инвестиционную квартиру в Санкт-Петербурге: полное руководство от
+  ButlerSPB
+description: >-
+  Планируете вложить средства в недвижимость Северной столицы? В нашей новой
+  статье эксперты ButlerSPB делятся ключевыми критериями выбора ликвидной
+  квартиры для инвестиций: от анализа локации и застройщика до оценки планировки
+  и потенциальной доходности. Узнайте, как сделать правильный выбор и обеспечить
+  стабильный доход.
+pubDate: '2025-07-22T13:42:43.250Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: >-
+    Как выбрать инвестиционную квартиру в Санкт-Петербурге: полное руководство
+    от ButlerSPB
+  description: >-
+    Планируете вложить средства в недвижимость Северной столицы? В нашей новой
+    статье эксперты ButlerSPB делятся ключевыми критериями выбора ликвидной
+    квартиры для инвестиций: от анализа локации и застройщика до оценки
+    планировки и потенциальной доходности. Узнайте, как сделать правильный выбор
+    и обеспечить стабильный доход.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.8'
+    reviewCount: 880
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/vybor-investicionnoy-kvartiry-v-sankt-peterburge/
 ---
 
 # Выбор инвестиционной квартиры в Санкт-Петербурге: Полное пошаговое руководство для инвестора

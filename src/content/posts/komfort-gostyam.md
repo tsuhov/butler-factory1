@@ -1,11 +1,38 @@
 ---
-title: "Секреты гостеприимства: комфорт от ButlerSPB"
-description: "От чистоты до продуманных мелочей — мы раскрываем секреты создания идеальной атмосферы для гостей. ButlerSPB делится опытом, как превзойти ожидания."
-keywords: "комфорт для гостей, гостеприимство, управление недвижимостью, ButlerSPB, советы хозяевам, прием гостей"
-pubDate: "2025-07-24T13:09:37.864Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Секреты гостеприимства: комфорт от ButlerSPB","description":"От чистоты до продуманных мелочей — мы раскрываем секреты создания идеальной атмосферы для гостей. ButlerSPB делится опытом, как превзойти ожидания.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":778,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/komfort-gostyam/"}}
+title: 'Секреты гостеприимства: комфорт от ButlerSPB'
+description: >-
+  От чистоты до продуманных мелочей — мы раскрываем секреты создания идеальной
+  атмосферы для гостей. ButlerSPB делится опытом, как превзойти ожидания.
+pubDate: '2025-07-24T13:09:37.864Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Секреты гостеприимства: комфорт от ButlerSPB'
+  description: >-
+    От чистоты до продуманных мелочей — мы раскрываем секреты создания идеальной
+    атмосферы для гостей. ButlerSPB делится опытом, как превзойти ожидания.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.8'
+    reviewCount: 385
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': 'https://butlerspb-blog.netlify.app/blog/komfort-gostyam/'
 ---
 # Комфорт, который приносит деньги: Полное руководство по созданию 5-звездочного сервиса для ваших гостей
 

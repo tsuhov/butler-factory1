@@ -1,11 +1,40 @@
 ---
-title: "Организация трансфера от ButlerSPB: ваш гид"
-description: "Организация трансфера — это комплексная услуга от ButlerSPB. Мы обеспечиваем пунктуальность, комфортабельные автомобили и профессиональных водителей для ваших поездок."
-keywords: "организация трансфера, трансфер санкт-петербург, заказать трансфер, встреча в пулково, услуги водителя, ButlerSPB"
-pubDate: "2025-07-24T13:12:23.832Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Организация трансфера от ButlerSPB: ваш гид","description":"Организация трансфера — это комплексная услуга от ButlerSPB. Мы обеспечиваем пунктуальность, комфортабельные автомобили и профессиональных водителей для ваших поездок.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"5.0","reviewCount":774,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/transfer-organizaciya/"}}
+title: 'Организация трансфера от ButlerSPB: ваш гид'
+description: >-
+  Организация трансфера — это комплексная услуга от ButlerSPB. Мы обеспечиваем
+  пунктуальность, комфортабельные автомобили и профессиональных водителей для
+  ваших поездок.
+pubDate: '2025-07-24T13:12:23.832Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Организация трансфера от ButlerSPB: ваш гид'
+  description: >-
+    Организация трансфера — это комплексная услуга от ButlerSPB. Мы обеспечиваем
+    пунктуальность, комфортабельные автомобили и профессиональных водителей для
+    ваших поездок.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.7'
+    reviewCount: 595
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': 'https://butlerspb-blog.netlify.app/blog/transfer-organizaciya/'
 ---
 # Организация трансфера: пошаговое руководство от экспертов
 

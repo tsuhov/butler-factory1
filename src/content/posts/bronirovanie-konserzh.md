@@ -1,11 +1,40 @@
 ---
-title: "Бронирование консьерж-сервиса от ButlerSPB"
-description: "Узнайте, как легко забронировать консьерж-сервис от ButlerSPB. Наша команда готова взять на себя любые ваши поручения, от заказа столика до планирования путешествий."
-keywords: "консьерж сервис, бронирование консьержа, услуги консьержа, заказать консьержа, ButlerSPB, персональный ассистент, лайфстайл менеджмент"
-pubDate: "2025-07-24T13:37:31.600Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Бронирование консьерж-сервиса от ButlerSPB","description":"Узнайте, как легко забронировать консьерж-сервис от ButlerSPB. Наша команда готова взять на себя любые ваши поручения, от заказа столика до планирования путешествий.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.8","reviewCount":408,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/bronirovanie-konserzh/"}}
+title: Бронирование консьерж-сервиса от ButlerSPB
+description: >-
+  Узнайте, как легко забронировать консьерж-сервис от ButlerSPB. Наша команда
+  готова взять на себя любые ваши поручения, от заказа столика до планирования
+  путешествий.
+pubDate: '2025-07-24T13:37:31.600Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: Бронирование консьерж-сервиса от ButlerSPB
+  description: >-
+    Узнайте, как легко забронировать консьерж-сервис от ButlerSPB. Наша команда
+    готова взять на себя любые ваши поручения, от заказа столика до планирования
+    путешествий.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.9'
+    reviewCount: 835
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': 'https://butlerspb-blog.netlify.app/blog/bronirovanie-konserzh/'
 ---
 # Бронирование консьерж-сервиса в Санкт-Петербурге: Ваш ключ к миру эксклюзивных возможностей
 

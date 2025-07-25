@@ -1,10 +1,51 @@
 ---
-title: "Отсутствие временной регистрации в Санкт-Петербурге: размеры штрафов и ответственность в 2024 году"
-description: "Планируете длительное пребывание в Санкт-Петербурге? Отсутствие временной регистрации может повлечь за собой серьезные штрафы как для арендатора, так и для собственника жилья. В новой статье блога ButlerSPB разбираемся, в какие сроки необходимо оформить регистрацию по месту пребывания, какие штрафы предусмотрены за ее отсутствие в городе федерального значения и как избежать неприятных последствий для всех сторон."
-pubDate: "2025-07-22T11:35:33.897Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Отсутствие временной регистрации в Санкт-Петербурге: размеры штрафов и ответственность в 2024 году","description":"Планируете длительное пребывание в Санкт-Петербурге? Отсутствие временной регистрации может повлечь за собой серьезные штрафы как для арендатора, так и для собственника жилья. В новой статье блога ButlerSPB разбираемся, в какие сроки необходимо оформить регистрацию по месту пребывания, какие штрафы предусмотрены за ее отсутствие в городе федерального значения и как избежать неприятных последствий для всех сторон.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.8","reviewCount":496,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/otvetstvennost-za-otsutstvie-vremennoy-registracii-v-sankt-peterburge/"}}
+title: >-
+  Отсутствие временной регистрации в Санкт-Петербурге: размеры штрафов и
+  ответственность в 2024 году
+description: >-
+  Планируете длительное пребывание в Санкт-Петербурге? Отсутствие временной
+  регистрации может повлечь за собой серьезные штрафы как для арендатора, так и
+  для собственника жилья. В новой статье блога ButlerSPB разбираемся, в какие
+  сроки необходимо оформить регистрацию по месту пребывания, какие штрафы
+  предусмотрены за ее отсутствие в городе федерального значения и как избежать
+  неприятных последствий для всех сторон.
+pubDate: '2025-07-22T11:35:33.897Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: >-
+    Отсутствие временной регистрации в Санкт-Петербурге: размеры штрафов и
+    ответственность в 2024 году
+  description: >-
+    Планируете длительное пребывание в Санкт-Петербурге? Отсутствие временной
+    регистрации может повлечь за собой серьезные штрафы как для арендатора, так
+    и для собственника жилья. В новой статье блога ButlerSPB разбираемся, в
+    какие сроки необходимо оформить регистрацию по месту пребывания, какие
+    штрафы предусмотрены за ее отсутствие в городе федерального значения и как
+    избежать неприятных последствий для всех сторон.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.8'
+    reviewCount: 885
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/otvetstvennost-za-otsutstvie-vremennoy-registracii-v-sankt-peterburge/
 ---
 
 # Отсутствие временной регистрации в СПб: какой штраф в 2024 году и кому он грозит

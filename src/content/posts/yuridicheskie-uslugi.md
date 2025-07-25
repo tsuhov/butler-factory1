@@ -1,11 +1,39 @@
 ---
-title: "ButlerSPB: Юридическая поддержка вашего бизнеса"
-description: "Компания ButlerSPB предлагает полный спектр юридических услуг для физических и юридических лиц. Гарантируем профессионализм, конфиденциальность и результат."
-keywords: "юридические услуги, юрист, юридическая консультация, правовая помощь, защита в суде, ButlerSPB"
-pubDate: "2025-07-25T16:35:13.059Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"ButlerSPB: Юридическая поддержка вашего бизнеса","description":"Компания ButlerSPB предлагает полный спектр юридических услуг для физических и юридических лиц. Гарантируем профессионализм, конфиденциальность и результат.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.8","reviewCount":835,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/yuridicheskie-uslugi/"}}
+title: 'ButlerSPB: Юридическая поддержка вашего бизнеса'
+description: >-
+  Компания ButlerSPB предлагает полный спектр юридических услуг для физических и
+  юридических лиц. Гарантируем профессионализм, конфиденциальность и результат.
+pubDate: '2025-07-25T16:35:13.059Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'ButlerSPB: Юридическая поддержка вашего бизнеса'
+  description: >-
+    Компания ButlerSPB предлагает полный спектр юридических услуг для физических
+    и юридических лиц. Гарантируем профессионализм, конфиденциальность и
+    результат.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '5.0'
+    reviewCount: 530
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': 'https://butlerspb-blog.netlify.app/blog/yuridicheskie-uslugi/'
 ---
 # Полный гид по юридическим услугам в Санкт-Петербурге: от консультации до суда
 

@@ -1,10 +1,49 @@
 ---
-title: "Обмен квартиры на дом с доплатой в Ленинградской области: пошаговая инструкция от ButlerSPB"
-description: "Мечтаете переехать из городской квартиры в собственный дом в Ленобласти? Узнайте все о процедуре обмена с доплатой. В этой статье мы подробно разбираем, как правильно оценить объекты, какие документы подготовить, как найти идеальный вариант и избежать юридических рисков. Эксперты ButlerSPB делятся профессиональными советами для выгодной и безопасной сделки."
-pubDate: "2025-07-21T23:16:35.350Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Обмен квартиры на дом с доплатой в Ленинградской области: пошаговая инструкция от ButlerSPB","description":"Мечтаете переехать из городской квартиры в собственный дом в Ленобласти? Узнайте все о процедуре обмена с доплатой. В этой статье мы подробно разбираем, как правильно оценить объекты, какие документы подготовить, как найти идеальный вариант и избежать юридических рисков. Эксперты ButlerSPB делятся профессиональными советами для выгодной и безопасной сделки.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":769,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/obmen-kvartiry-na-dom-s-doplatoy-v-leningradskoy-oblasti/"}}
+title: >-
+  Обмен квартиры на дом с доплатой в Ленинградской области: пошаговая инструкция
+  от ButlerSPB
+description: >-
+  Мечтаете переехать из городской квартиры в собственный дом в Ленобласти?
+  Узнайте все о процедуре обмена с доплатой. В этой статье мы подробно
+  разбираем, как правильно оценить объекты, какие документы подготовить, как
+  найти идеальный вариант и избежать юридических рисков. Эксперты ButlerSPB
+  делятся профессиональными советами для выгодной и безопасной сделки.
+pubDate: '2025-07-21T23:16:35.350Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: >-
+    Обмен квартиры на дом с доплатой в Ленинградской области: пошаговая
+    инструкция от ButlerSPB
+  description: >-
+    Мечтаете переехать из городской квартиры в собственный дом в Ленобласти?
+    Узнайте все о процедуре обмена с доплатой. В этой статье мы подробно
+    разбираем, как правильно оценить объекты, какие документы подготовить, как
+    найти идеальный вариант и избежать юридических рисков. Эксперты ButlerSPB
+    делятся профессиональными советами для выгодной и безопасной сделки.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.9'
+    reviewCount: 497
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/obmen-kvartiry-na-dom-s-doplatoy-v-leningradskoy-oblasti/
 ---
 
 # Обмен квартиры на дом с доплатой в Ленинградской области: Полное руководство от экспертов ButlerSPB

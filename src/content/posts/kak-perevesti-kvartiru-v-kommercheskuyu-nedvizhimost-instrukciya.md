@@ -1,10 +1,48 @@
 ---
-title: "Как перевести квартиру в коммерческую недвижимость: инструкция."
-description: "Превращение жилой квартиры в коммерческое помещение может значительно увеличить ее доходность. Однако этот процесс требует строгого соблюдения законодательства и прохождения множества инстанций. В этой пошаговой инструкции от ButlerSPB мы подробно разбираем все этапы: от сбора необходимых документов и получения согласия жильцов до внесения изменений в ЕГРН. Узнайте, как грамотно осуществить перевод и избежать потенциальных сложностей."
-pubDate: "2025-07-22T13:49:44.653Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Как перевести квартиру в коммерческую недвижимость: инструкция.","description":"Превращение жилой квартиры в коммерческое помещение может значительно увеличить ее доходность. Однако этот процесс требует строгого соблюдения законодательства и прохождения множества инстанций. В этой пошаговой инструкции от ButlerSPB мы подробно разбираем все этапы: от сбора необходимых документов и получения согласия жильцов до внесения изменений в ЕГРН. Узнайте, как грамотно осуществить перевод и избежать потенциальных сложностей.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":440,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/kak-perevesti-kvartiru-v-kommercheskuyu-nedvizhimost-instrukciya/"}}
+title: 'Как перевести квартиру в коммерческую недвижимость: инструкция.'
+description: >-
+  Превращение жилой квартиры в коммерческое помещение может значительно
+  увеличить ее доходность. Однако этот процесс требует строгого соблюдения
+  законодательства и прохождения множества инстанций. В этой пошаговой
+  инструкции от ButlerSPB мы подробно разбираем все этапы: от сбора необходимых
+  документов и получения согласия жильцов до внесения изменений в ЕГРН. Узнайте,
+  как грамотно осуществить перевод и избежать потенциальных сложностей.
+pubDate: '2025-07-22T13:49:44.653Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Как перевести квартиру в коммерческую недвижимость: инструкция.'
+  description: >-
+    Превращение жилой квартиры в коммерческое помещение может значительно
+    увеличить ее доходность. Однако этот процесс требует строгого соблюдения
+    законодательства и прохождения множества инстанций. В этой пошаговой
+    инструкции от ButlerSPB мы подробно разбираем все этапы: от сбора
+    необходимых документов и получения согласия жильцов до внесения изменений в
+    ЕГРН. Узнайте, как грамотно осуществить перевод и избежать потенциальных
+    сложностей.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.8'
+    reviewCount: 688
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/kak-perevesti-kvartiru-v-kommercheskuyu-nedvizhimost-instrukciya/
 ---
 
 # Как перевести квартиру в коммерческую недвижимость: пошаговая инструкция для собственника в 2024 году

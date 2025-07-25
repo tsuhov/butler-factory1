@@ -1,10 +1,49 @@
 ---
-title: "Наши стандарты оснащения кухни для посуточной аренды"
-description: "Кухня — это сердце дома, даже если он временный. Гости, выбирающие апартаменты, ценят возможность приготовить завтрак или полноценный ужин. В ButlerSPB мы уверены, что продуманное оснащение кухни — это залог комфортного проживания, положительных отзывов и высоких оценок. В этой статье мы делимся нашим стандартом и подробным чек-листом обязательных предметов на кухне: от бытовой техники и посуды для приготовления до полного комплекта для сервировки стола."
-pubDate: "2025-07-22T11:11:58.683Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Наши стандарты оснащения кухни для посуточной аренды","description":"Кухня — это сердце дома, даже если он временный. Гости, выбирающие апартаменты, ценят возможность приготовить завтрак или полноценный ужин. В ButlerSPB мы уверены, что продуманное оснащение кухни — это залог комфортного проживания, положительных отзывов и высоких оценок. В этой статье мы делимся нашим стандартом и подробным чек-листом обязательных предметов на кухне: от бытовой техники и посуды для приготовления до полного комплекта для сервировки стола.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"5.0","reviewCount":339,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/nashi-standarty-osnascheniya-kuhni-dlya-posutochnoy-arendy/"}}
+title: Наши стандарты оснащения кухни для посуточной аренды
+description: >-
+  Кухня — это сердце дома, даже если он временный. Гости, выбирающие
+  апартаменты, ценят возможность приготовить завтрак или полноценный ужин. В
+  ButlerSPB мы уверены, что продуманное оснащение кухни — это залог комфортного
+  проживания, положительных отзывов и высоких оценок. В этой статье мы делимся
+  нашим стандартом и подробным чек-листом обязательных предметов на кухне: от
+  бытовой техники и посуды для приготовления до полного комплекта для сервировки
+  стола.
+pubDate: '2025-07-22T11:11:58.683Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: Наши стандарты оснащения кухни для посуточной аренды
+  description: >-
+    Кухня — это сердце дома, даже если он временный. Гости, выбирающие
+    апартаменты, ценят возможность приготовить завтрак или полноценный ужин. В
+    ButlerSPB мы уверены, что продуманное оснащение кухни — это залог
+    комфортного проживания, положительных отзывов и высоких оценок. В этой
+    статье мы делимся нашим стандартом и подробным чек-листом обязательных
+    предметов на кухне: от бытовой техники и посуды для приготовления до полного
+    комплекта для сервировки стола.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '5.0'
+    reviewCount: 514
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/nashi-standarty-osnascheniya-kuhni-dlya-posutochnoy-arendy/
 ---
 
 # Стандарты оснащения кухни для посуточной аренды от ButlerSPB: Гайд для максимальной доходности и восторженных отзывов

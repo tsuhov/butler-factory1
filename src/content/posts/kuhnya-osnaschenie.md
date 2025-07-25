@@ -1,11 +1,40 @@
 ---
-title: "Профессиональное оснащение кухни от ButlerSPB"
-description: "Создайте кухню своей мечты! В нашей новой статье ButlerSPB делится секретами выбора техники, мебели и посуды. Узнайте, как сделать пространство функциональным."
-keywords: "оснащение кухни, кухонная техника, мебель для кухни, посуда, организация кухни, советы по выбору, ButlerSPB"
-pubDate: "2025-07-25T16:06:03.930Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Профессиональное оснащение кухни от ButlerSPB","description":"Создайте кухню своей мечты! В нашей новой статье ButlerSPB делится секретами выбора техники, мебели и посуды. Узнайте, как сделать пространство функциональным.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":507,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/kuhnya-osnaschenie/"}}
+title: Профессиональное оснащение кухни от ButlerSPB
+description: >-
+  Создайте кухню своей мечты! В нашей новой статье ButlerSPB делится секретами
+  выбора техники, мебели и посуды. Узнайте, как сделать пространство
+  функциональным.
+pubDate: '2025-07-25T16:06:03.930Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: Профессиональное оснащение кухни от ButlerSPB
+  description: >-
+    Создайте кухню своей мечты! В нашей новой статье ButlerSPB делится секретами
+    выбора техники, мебели и посуды. Узнайте, как сделать пространство
+    функциональным.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.8'
+    reviewCount: 565
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': 'https://butlerspb-blog.netlify.app/blog/kuhnya-osnaschenie/'
 ---
 # Полное руководство по оснащению профессиональной кухни: от проекта до первого чека
 

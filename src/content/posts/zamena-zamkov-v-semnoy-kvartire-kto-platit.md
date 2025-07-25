@@ -1,10 +1,45 @@
 ---
-title: "Замена замков в съемной квартире: кто платит — арендатор или собственник?"
-description: "Сломался замок или вы хотите сменить его для безопасности в арендованной квартире? Команда ButlerSPB разбирается, кто должен нести расходы. В статье анализируем договор аренды, положения Гражданского кодекса и даем практические советы, как действовать в разных ситуациях — от естественного износа до утери ключей по вине жильца."
-pubDate: "2025-07-22T11:41:00.850Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Замена замков в съемной квартире: кто платит — арендатор или собственник?","description":"Сломался замок или вы хотите сменить его для безопасности в арендованной квартире? Команда ButlerSPB разбирается, кто должен нести расходы. В статье анализируем договор аренды, положения Гражданского кодекса и даем практические советы, как действовать в разных ситуациях — от естественного износа до утери ключей по вине жильца.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":507,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/zamena-zamkov-v-semnoy-kvartire-kto-platit/"}}
+title: 'Замена замков в съемной квартире: кто платит — арендатор или собственник?'
+description: >-
+  Сломался замок или вы хотите сменить его для безопасности в арендованной
+  квартире? Команда ButlerSPB разбирается, кто должен нести расходы. В статье
+  анализируем договор аренды, положения Гражданского кодекса и даем практические
+  советы, как действовать в разных ситуациях — от естественного износа до утери
+  ключей по вине жильца.
+pubDate: '2025-07-22T11:41:00.850Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Замена замков в съемной квартире: кто платит — арендатор или собственник?'
+  description: >-
+    Сломался замок или вы хотите сменить его для безопасности в арендованной
+    квартире? Команда ButlerSPB разбирается, кто должен нести расходы. В статье
+    анализируем договор аренды, положения Гражданского кодекса и даем
+    практические советы, как действовать в разных ситуациях — от естественного
+    износа до утери ключей по вине жильца.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.9'
+    reviewCount: 807
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/zamena-zamkov-v-semnoy-kvartire-kto-platit/
 ---
 
 # Замена замков в съемной квартире: кто платит и как избежать конфликтов

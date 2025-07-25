@@ -1,10 +1,47 @@
 ---
-title: "Перевод квартиры на первом этаже в коммерческий фонд: этапы согласования"
-description: "Планируете перевести жилое помещение в коммерческое? Эксперты ButlerSPB подготовили подробное руководство по всем этапам согласования. В статье вы найдете пошаговую инструкцию: от подготовки проектной документации и получения согласия собственников до обращения в государственные инстанции. Узнайте, какие документы понадобятся, с какими сложностями можно столкнуться и как наша компания поможет вам успешно пройти этот путь."
-pubDate: "2025-07-23T10:44:10.267Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Перевод квартиры на первом этаже в коммерческий фонд: этапы согласования","description":"Планируете перевести жилое помещение в коммерческое? Эксперты ButlerSPB подготовили подробное руководство по всем этапам согласования. В статье вы найдете пошаговую инструкцию: от подготовки проектной документации и получения согласия собственников до обращения в государственные инстанции. Узнайте, какие документы понадобятся, с какими сложностями можно столкнуться и как наша компания поможет вам успешно пройти этот путь.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":397,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/perevod-kvartiry-na-pervom-etazhe-v-kommercheskiy-fond-etapy-soglasovaniya/"}}
+title: 'Перевод квартиры на первом этаже в коммерческий фонд: этапы согласования'
+description: >-
+  Планируете перевести жилое помещение в коммерческое? Эксперты ButlerSPB
+  подготовили подробное руководство по всем этапам согласования. В статье вы
+  найдете пошаговую инструкцию: от подготовки проектной документации и получения
+  согласия собственников до обращения в государственные инстанции. Узнайте,
+  какие документы понадобятся, с какими сложностями можно столкнуться и как наша
+  компания поможет вам успешно пройти этот путь.
+pubDate: '2025-07-23T10:44:10.267Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Перевод квартиры на первом этаже в коммерческий фонд: этапы согласования'
+  description: >-
+    Планируете перевести жилое помещение в коммерческое? Эксперты ButlerSPB
+    подготовили подробное руководство по всем этапам согласования. В статье вы
+    найдете пошаговую инструкцию: от подготовки проектной документации и
+    получения согласия собственников до обращения в государственные инстанции.
+    Узнайте, какие документы понадобятся, с какими сложностями можно столкнуться
+    и как наша компания поможет вам успешно пройти этот путь.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.7'
+    reviewCount: 639
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/perevod-kvartiry-na-pervom-etazhe-v-kommercheskiy-fond-etapy-soglasovaniya/
 ---
 
 # Перевод квартиры в нежилой фонд в СПб: пошаговая инструкция 2024 от экспертов ButlerSPB

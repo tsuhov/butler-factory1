@@ -1,10 +1,45 @@
 ---
-title: "Как найти риэлтора, который говорит на английском: инструкция от ButlerSPB"
-description: "Поиск недвижимости для иностранных клиентов или экспатов требует особых навыков, и ключевой из них — владение английским языком. В этой статье мы расскажем, где искать англоговорящих риэлторов, как проверить их уровень языка и на что обратить внимание при выборе специалиста для успешной международной сделки."
-pubDate: "2025-07-23T13:45:24.988Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Как найти риэлтора, который говорит на английском: инструкция от ButlerSPB","description":"Поиск недвижимости для иностранных клиентов или экспатов требует особых навыков, и ключевой из них — владение английским языком. В этой статье мы расскажем, где искать англоговорящих риэлторов, как проверить их уровень языка и на что обратить внимание при выборе специалиста для успешной международной сделки.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":443,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/kak-nayti-rieltora-kotoryy-govorit-na-angliyskom-yazyke/"}}
+title: 'Как найти риэлтора, который говорит на английском: инструкция от ButlerSPB'
+description: >-
+  Поиск недвижимости для иностранных клиентов или экспатов требует особых
+  навыков, и ключевой из них — владение английским языком. В этой статье мы
+  расскажем, где искать англоговорящих риэлторов, как проверить их уровень языка
+  и на что обратить внимание при выборе специалиста для успешной международной
+  сделки.
+pubDate: '2025-07-23T13:45:24.988Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Как найти риэлтора, который говорит на английском: инструкция от ButlerSPB'
+  description: >-
+    Поиск недвижимости для иностранных клиентов или экспатов требует особых
+    навыков, и ключевой из них — владение английским языком. В этой статье мы
+    расскажем, где искать англоговорящих риэлторов, как проверить их уровень
+    языка и на что обратить внимание при выборе специалиста для успешной
+    международной сделки.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.8'
+    reviewCount: 407
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/kak-nayti-rieltora-kotoryy-govorit-na-angliyskom-yazyke/
 ---
 
 # Как найти риэлтора на английском в СПб: Полное руководство для экспатов

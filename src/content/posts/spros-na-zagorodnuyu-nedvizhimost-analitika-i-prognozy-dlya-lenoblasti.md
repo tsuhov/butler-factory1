@@ -1,10 +1,47 @@
 ---
-title: "Спрос на загородную недвижимость: аналитика и прогнозы для Ленобласти от ButlerSPB"
-description: "Эксперты ButlerSPB анализируют текущие тренды на рынке загородной недвижимости Ленинградской области. В статье мы рассмотрим динамику спроса, изменение цен на дома и участки, самые популярные направления и дадим прогнозы на ближайшее будущее."
-pubDate: "2025-07-22T13:53:57.895Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Спрос на загородную недвижимость: аналитика и прогнозы для Ленобласти от ButlerSPB","description":"Эксперты ButlerSPB анализируют текущие тренды на рынке загородной недвижимости Ленинградской области. В статье мы рассмотрим динамику спроса, изменение цен на дома и участки, самые популярные направления и дадим прогнозы на ближайшее будущее.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.8","reviewCount":610,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/spros-na-zagorodnuyu-nedvizhimost-analitika-i-prognozy-dlya-lenoblasti/"}}
+title: >-
+  Спрос на загородную недвижимость: аналитика и прогнозы для Ленобласти от
+  ButlerSPB
+description: >-
+  Эксперты ButlerSPB анализируют текущие тренды на рынке загородной недвижимости
+  Ленинградской области. В статье мы рассмотрим динамику спроса, изменение цен
+  на дома и участки, самые популярные направления и дадим прогнозы на ближайшее
+  будущее.
+pubDate: '2025-07-22T13:53:57.895Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: >-
+    Спрос на загородную недвижимость: аналитика и прогнозы для Ленобласти от
+    ButlerSPB
+  description: >-
+    Эксперты ButlerSPB анализируют текущие тренды на рынке загородной
+    недвижимости Ленинградской области. В статье мы рассмотрим динамику спроса,
+    изменение цен на дома и участки, самые популярные направления и дадим
+    прогнозы на ближайшее будущее.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.7'
+    reviewCount: 701
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/spros-na-zagorodnuyu-nedvizhimost-analitika-i-prognozy-dlya-lenoblasti/
 ---
 
 # Спрос на загородную недвижимость в Ленобласти: Глубокий анализ трендов и экспертные прогнозы на 2024-2025

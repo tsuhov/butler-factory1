@@ -1,10 +1,51 @@
 ---
-title: "Как купить инвестиционную квартиру в ипотеку: пошаговая инструкция от ButlerSPB"
-description: "Ипотека — это не только способ купить жилье для себя, но и мощный инструмент для инвестора. В нашей новой статье разбираемся, как грамотно использовать заемные средства для покупки квартиры под сдачу или перепродажу. Рассказываем, чем инвестиционная ипотека отличается от обычной, как выбрать ликвидный объект, рассчитать доходность и какие подводные камни вас ждут на пути к успешной сделке."
-pubDate: "2025-07-23T11:30:43.085Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Как купить инвестиционную квартиру в ипотеку: пошаговая инструкция от ButlerSPB","description":"Ипотека — это не только способ купить жилье для себя, но и мощный инструмент для инвестора. В нашей новой статье разбираемся, как грамотно использовать заемные средства для покупки квартиры под сдачу или перепродажу. Рассказываем, чем инвестиционная ипотека отличается от обычной, как выбрать ликвидный объект, рассчитать доходность и какие подводные камни вас ждут на пути к успешной сделке.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.8","reviewCount":439,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/kak-kupit-investicionnuyu-kvartiru-s-ispolzovaniem-ipoteki/"}}
+title: >-
+  Как купить инвестиционную квартиру в ипотеку: пошаговая инструкция от
+  ButlerSPB
+description: >-
+  Ипотека — это не только способ купить жилье для себя, но и мощный инструмент
+  для инвестора. В нашей новой статье разбираемся, как грамотно использовать
+  заемные средства для покупки квартиры под сдачу или перепродажу. Рассказываем,
+  чем инвестиционная ипотека отличается от обычной, как выбрать ликвидный
+  объект, рассчитать доходность и какие подводные камни вас ждут на пути к
+  успешной сделке.
+pubDate: '2025-07-23T11:30:43.085Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: >-
+    Как купить инвестиционную квартиру в ипотеку: пошаговая инструкция от
+    ButlerSPB
+  description: >-
+    Ипотека — это не только способ купить жилье для себя, но и мощный инструмент
+    для инвестора. В нашей новой статье разбираемся, как грамотно использовать
+    заемные средства для покупки квартиры под сдачу или перепродажу.
+    Рассказываем, чем инвестиционная ипотека отличается от обычной, как выбрать
+    ликвидный объект, рассчитать доходность и какие подводные камни вас ждут на
+    пути к успешной сделке.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.8'
+    reviewCount: 719
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/kak-kupit-investicionnuyu-kvartiru-s-ispolzovaniem-ipoteki/
 ---
 
 # Инвестиционная квартира в ипотеку: Пошаговое руководство, как создать актив, который работает на вас

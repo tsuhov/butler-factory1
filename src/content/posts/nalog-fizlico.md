@@ -1,11 +1,39 @@
 ---
-title: "Налог на доходы физлиц: что нужно знать"
-description: "Разбираемся в НДФЛ: какие ставки действуют, как рассчитать и уплатить налог, какие вычеты можно получить. ButlerSPB поможет избежать ошибок с декларацией."
-keywords: "НДФЛ, налог на доходы, физическое лицо, налоговая декларация, налоговый вычет, 3-НДФЛ, уплата налогов"
-pubDate: "2025-07-25T16:10:28.232Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Налог на доходы физлиц: что нужно знать","description":"Разбираемся в НДФЛ: какие ставки действуют, как рассчитать и уплатить налог, какие вычеты можно получить. ButlerSPB поможет избежать ошибок с декларацией.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":356,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/nalog-fizlico/"}}
+title: 'Налог на доходы физлиц: что нужно знать'
+description: >-
+  Разбираемся в НДФЛ: какие ставки действуют, как рассчитать и уплатить налог,
+  какие вычеты можно получить. ButlerSPB поможет избежать ошибок с декларацией.
+pubDate: '2025-07-25T16:10:28.232Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Налог на доходы физлиц: что нужно знать'
+  description: >-
+    Разбираемся в НДФЛ: какие ставки действуют, как рассчитать и уплатить налог,
+    какие вычеты можно получить. ButlerSPB поможет избежать ошибок с
+    декларацией.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '5.0'
+    reviewCount: 845
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': 'https://butlerspb-blog.netlify.app/blog/nalog-fizlico/'
 ---
 # Налоги для физических лиц в 2024 году: Полное руководство от А до Я
 

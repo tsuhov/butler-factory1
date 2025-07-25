@@ -1,11 +1,40 @@
 ---
-title: "ButlerSPB: Автоматизация бронирования номеров"
-description: "Узнайте, как автоматизация процессов бронирования повышает эффективность, сокращает издержки и улучшает клиентский опыт. ButlerSPB предлагает решения для отелей."
-keywords: "автоматизация бронирования, система бронирования, управление отелем, гостиничный бизнес, channel manager, pms система, ButlerSPB"
-pubDate: "2025-07-25T15:52:50.309Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"ButlerSPB: Автоматизация бронирования номеров","description":"Узнайте, как автоматизация процессов бронирования повышает эффективность, сокращает издержки и улучшает клиентский опыт. ButlerSPB предлагает решения для отелей.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":575,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/avtomatizaciya-bronirovaniya/"}}
+title: 'ButlerSPB: Автоматизация бронирования номеров'
+description: >-
+  Узнайте, как автоматизация процессов бронирования повышает эффективность,
+  сокращает издержки и улучшает клиентский опыт. ButlerSPB предлагает решения
+  для отелей.
+pubDate: '2025-07-25T15:52:50.309Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'ButlerSPB: Автоматизация бронирования номеров'
+  description: >-
+    Узнайте, как автоматизация процессов бронирования повышает эффективность,
+    сокращает издержки и улучшает клиентский опыт. ButlerSPB предлагает решения
+    для отелей.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.7'
+    reviewCount: 341
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': 'https://butlerspb-blog.netlify.app/blog/avtomatizaciya-bronirovaniya/'
 ---
 # Автоматизация бронирования: Пошаговое руководство для владельца апартаментов, как зарабатывать больше, а работать меньше
 

@@ -1,10 +1,47 @@
 ---
-title: "Доверительное управление недвижимостью: Как безопасно проводить сделки"
-description: "Планируете купить или продать недвижимость, но не можете лично присутствовать на сделке? Доверительное управление – это эффективный и безопасный инструмент. В новой статье блога ButlerSPB подробно разбираем, что такое договор доверительного управления, какие полномочия можно передать управляющему, как защитить свои интересы и избежать рисков при проведении сделок с недвижимостью."
-pubDate: "2025-07-22T00:04:15.511Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Доверительное управление недвижимостью: Как безопасно проводить сделки","description":"Планируете купить или продать недвижимость, но не можете лично присутствовать на сделке? Доверительное управление – это эффективный и безопасный инструмент. В новой статье блога ButlerSPB подробно разбираем, что такое договор доверительного управления, какие полномочия можно передать управляющему, как защитить свои интересы и избежать рисков при проведении сделок с недвижимостью.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":598,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/sdelki-s-nedvizhimostyu-v-doveritelnom-upravlenii/"}}
+title: 'Доверительное управление недвижимостью: Как безопасно проводить сделки'
+description: >-
+  Планируете купить или продать недвижимость, но не можете лично присутствовать
+  на сделке? Доверительное управление – это эффективный и безопасный инструмент.
+  В новой статье блога ButlerSPB подробно разбираем, что такое договор
+  доверительного управления, какие полномочия можно передать управляющему, как
+  защитить свои интересы и избежать рисков при проведении сделок с
+  недвижимостью.
+pubDate: '2025-07-22T00:04:15.511Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Доверительное управление недвижимостью: Как безопасно проводить сделки'
+  description: >-
+    Планируете купить или продать недвижимость, но не можете лично
+    присутствовать на сделке? Доверительное управление – это эффективный и
+    безопасный инструмент. В новой статье блога ButlerSPB подробно разбираем,
+    что такое договор доверительного управления, какие полномочия можно передать
+    управляющему, как защитить свои интересы и избежать рисков при проведении
+    сделок с недвижимостью.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.9'
+    reviewCount: 566
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/sdelki-s-nedvizhimostyu-v-doveritelnom-upravlenii/
 ---
 
 # Сделки с недвижимостью в доверительном управлении: Полное руководство для собственника

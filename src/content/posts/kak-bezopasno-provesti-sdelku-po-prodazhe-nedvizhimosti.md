@@ -1,10 +1,47 @@
 ---
-title: "Как безопасно провести сделку по продаже недвижимости: пошаговое руководство от ButlerSPB"
-description: "Планируете продажу квартиры или дома? В нашей новой статье эксперты ButlerSPB делятся ключевыми советами для безопасной сделки: от проверки покупателя и подготовки документов до выбора надежного способа расчетов. Узнайте, как защитить себя от мошенников и избежать юридических рисков."
-pubDate: "2025-07-22T13:53:10.829Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Как безопасно провести сделку по продаже недвижимости: пошаговое руководство от ButlerSPB","description":"Планируете продажу квартиры или дома? В нашей новой статье эксперты ButlerSPB делятся ключевыми советами для безопасной сделки: от проверки покупателя и подготовки документов до выбора надежного способа расчетов. Узнайте, как защитить себя от мошенников и избежать юридических рисков.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.8","reviewCount":424,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/kak-bezopasno-provesti-sdelku-po-prodazhe-nedvizhimosti/"}}
+title: >-
+  Как безопасно провести сделку по продаже недвижимости: пошаговое руководство
+  от ButlerSPB
+description: >-
+  Планируете продажу квартиры или дома? В нашей новой статье эксперты ButlerSPB
+  делятся ключевыми советами для безопасной сделки: от проверки покупателя и
+  подготовки документов до выбора надежного способа расчетов. Узнайте, как
+  защитить себя от мошенников и избежать юридических рисков.
+pubDate: '2025-07-22T13:53:10.829Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: >-
+    Как безопасно провести сделку по продаже недвижимости: пошаговое руководство
+    от ButlerSPB
+  description: >-
+    Планируете продажу квартиры или дома? В нашей новой статье эксперты
+    ButlerSPB делятся ключевыми советами для безопасной сделки: от проверки
+    покупателя и подготовки документов до выбора надежного способа расчетов.
+    Узнайте, как защитить себя от мошенников и избежать юридических рисков.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.8'
+    reviewCount: 704
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/kak-bezopasno-provesti-sdelku-po-prodazhe-nedvizhimosti/
 ---
 
 # Как безопасно продать недвижимость: исчерпывающее руководство для собственника

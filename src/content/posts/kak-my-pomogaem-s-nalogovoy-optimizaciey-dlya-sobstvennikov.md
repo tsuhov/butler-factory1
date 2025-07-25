@@ -1,10 +1,49 @@
 ---
-title: "Налоговая оптимизация для собственников: как ButlerSPB помогает вашему бизнесу экономить"
-description: "Каждый собственник бизнеса ищет легальные способы снизить налоговую нагрузку. В нашей новой статье мы подробно рассказываем о проверенных методах налоговой оптимизации, делимся кейсами из практики и объясняем, как индивидуальный подход помогает защитить активы и увеличить чистую прибыль компании. Узнайте, как платить налоги грамотно, а не переплачивать."
-pubDate: "2025-07-22T11:20:34.424Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Налоговая оптимизация для собственников: как ButlerSPB помогает вашему бизнесу экономить","description":"Каждый собственник бизнеса ищет легальные способы снизить налоговую нагрузку. В нашей новой статье мы подробно рассказываем о проверенных методах налоговой оптимизации, делимся кейсами из практики и объясняем, как индивидуальный подход помогает защитить активы и увеличить чистую прибыль компании. Узнайте, как платить налоги грамотно, а не переплачивать.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"5.0","reviewCount":687,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/kak-my-pomogaem-s-nalogovoy-optimizaciey-dlya-sobstvennikov/"}}
+title: >-
+  Налоговая оптимизация для собственников: как ButlerSPB помогает вашему бизнесу
+  экономить
+description: >-
+  Каждый собственник бизнеса ищет легальные способы снизить налоговую нагрузку.
+  В нашей новой статье мы подробно рассказываем о проверенных методах налоговой
+  оптимизации, делимся кейсами из практики и объясняем, как индивидуальный
+  подход помогает защитить активы и увеличить чистую прибыль компании. Узнайте,
+  как платить налоги грамотно, а не переплачивать.
+pubDate: '2025-07-22T11:20:34.424Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: >-
+    Налоговая оптимизация для собственников: как ButlerSPB помогает вашему
+    бизнесу экономить
+  description: >-
+    Каждый собственник бизнеса ищет легальные способы снизить налоговую
+    нагрузку. В нашей новой статье мы подробно рассказываем о проверенных
+    методах налоговой оптимизации, делимся кейсами из практики и объясняем, как
+    индивидуальный подход помогает защитить активы и увеличить чистую прибыль
+    компании. Узнайте, как платить налоги грамотно, а не переплачивать.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.9'
+    reviewCount: 782
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/kak-my-pomogaem-s-nalogovoy-optimizaciey-dlya-sobstvennikov/
 ---
 
 # Налоговая оптимизация для собственников: Как мы превращаем ваши налоги из расхода в ресурс для роста

@@ -1,10 +1,47 @@
 ---
-title: "Экспресс-подготовка квартиры к заезду: чек-лист от ButlerSPB"
-description: "Каждый час простоя квартиры — это упущенная выгода. Как максимально быстро и эффективно подготовить апартаменты к приезду следующих гостей, не потеряв в качестве? В этой статье команда ButlerSPB делится своим профессиональным чек-листом и пошаговой инструкцией, которые помогут вам оптимизировать процесс уборки и подготовки, гарантируя идеальную чистоту и восторженные отзывы от ваших постояльцев."
-pubDate: "2025-07-22T11:22:32.609Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Экспресс-подготовка квартиры к заезду: чек-лист от ButlerSPB","description":"Каждый час простоя квартиры — это упущенная выгода. Как максимально быстро и эффективно подготовить апартаменты к приезду следующих гостей, не потеряв в качестве? В этой статье команда ButlerSPB делится своим профессиональным чек-листом и пошаговой инструкцией, которые помогут вам оптимизировать процесс уборки и подготовки, гарантируя идеальную чистоту и восторженные отзывы от ваших постояльцев.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.7","reviewCount":401,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/procedura-bystroy-podgotovki-kvartiry-k-sleduyuschemu-zaezdu/"}}
+title: 'Экспресс-подготовка квартиры к заезду: чек-лист от ButlerSPB'
+description: >-
+  Каждый час простоя квартиры — это упущенная выгода. Как максимально быстро и
+  эффективно подготовить апартаменты к приезду следующих гостей, не потеряв в
+  качестве? В этой статье команда ButlerSPB делится своим профессиональным
+  чек-листом и пошаговой инструкцией, которые помогут вам оптимизировать процесс
+  уборки и подготовки, гарантируя идеальную чистоту и восторженные отзывы от
+  ваших постояльцев.
+pubDate: '2025-07-22T11:22:32.609Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Экспресс-подготовка квартиры к заезду: чек-лист от ButlerSPB'
+  description: >-
+    Каждый час простоя квартиры — это упущенная выгода. Как максимально быстро и
+    эффективно подготовить апартаменты к приезду следующих гостей, не потеряв в
+    качестве? В этой статье команда ButlerSPB делится своим профессиональным
+    чек-листом и пошаговой инструкцией, которые помогут вам оптимизировать
+    процесс уборки и подготовки, гарантируя идеальную чистоту и восторженные
+    отзывы от ваших постояльцев.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.9'
+    reviewCount: 592
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/procedura-bystroy-podgotovki-kvartiry-k-sleduyuschemu-zaezdu/
 ---
 
 # Идеальное заселение за 90 минут: профессиональный гид по подготовке квартиры к новому гостю

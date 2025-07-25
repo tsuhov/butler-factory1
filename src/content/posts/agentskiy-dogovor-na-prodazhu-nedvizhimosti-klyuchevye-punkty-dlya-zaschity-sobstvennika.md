@@ -1,10 +1,47 @@
 ---
-title: "Агентский договор на продажу недвижимости: ключевые пункты для защиты собственника"
-description: "Продажа недвижимости — ответственный шаг. Чтобы сделка прошла гладко и выгодно, важно правильно составить агентский договор. В новой статье блога ButlerSPB разбираем ключевые пункты документа, которые защитят ваши интересы как собственника: от определения стоимости услуг до условий расторжения."
-pubDate: "2025-07-22T13:51:25.110Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Агентский договор на продажу недвижимости: ключевые пункты для защиты собственника","description":"Продажа недвижимости — ответственный шаг. Чтобы сделка прошла гладко и выгодно, важно правильно составить агентский договор. В новой статье блога ButlerSPB разбираем ключевые пункты документа, которые защитят ваши интересы как собственника: от определения стоимости услуг до условий расторжения.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":517,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/agentskiy-dogovor-na-prodazhu-nedvizhimosti-klyuchevye-punkty-dlya-zaschity-sobstvennika/"}}
+title: >-
+  Агентский договор на продажу недвижимости: ключевые пункты для защиты
+  собственника
+description: >-
+  Продажа недвижимости — ответственный шаг. Чтобы сделка прошла гладко и
+  выгодно, важно правильно составить агентский договор. В новой статье блога
+  ButlerSPB разбираем ключевые пункты документа, которые защитят ваши интересы
+  как собственника: от определения стоимости услуг до условий расторжения.
+pubDate: '2025-07-22T13:51:25.110Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: >-
+    Агентский договор на продажу недвижимости: ключевые пункты для защиты
+    собственника
+  description: >-
+    Продажа недвижимости — ответственный шаг. Чтобы сделка прошла гладко и
+    выгодно, важно правильно составить агентский договор. В новой статье блога
+    ButlerSPB разбираем ключевые пункты документа, которые защитят ваши интересы
+    как собственника: от определения стоимости услуг до условий расторжения.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '5.0'
+    reviewCount: 807
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/agentskiy-dogovor-na-prodazhu-nedvizhimosti-klyuchevye-punkty-dlya-zaschity-sobstvennika/
 ---
 
 # Агентский договор на продажу недвижимости: 7 ключевых пунктов для защиты собственника

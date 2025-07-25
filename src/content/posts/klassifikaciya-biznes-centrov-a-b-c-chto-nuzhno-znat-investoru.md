@@ -1,10 +1,48 @@
 ---
-title: "Классификация бизнес-центров (A, B, C): что нужно знать инвестору"
-description: "Инвестиции в коммерческую недвижимость требуют глубокого понимания рынка. В новой статье блога ButlerSPB мы детально разбираем общепринятую классификацию бизнес-центров на классы A, B и C. Узнайте, какие критерии определяют каждый класс – от престижности локации и качества отделки до инженерных систем и паркинга. Этот гайд поможет инвесторам оценить потенциальную доходность, риски и ликвидность объекта, чтобы принять взвешенное решение."
-pubDate: "2025-07-22T15:35:00.872Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Классификация бизнес-центров (A, B, C): что нужно знать инвестору","description":"Инвестиции в коммерческую недвижимость требуют глубокого понимания рынка. В новой статье блога ButlerSPB мы детально разбираем общепринятую классификацию бизнес-центров на классы A, B и C. Узнайте, какие критерии определяют каждый класс – от престижности локации и качества отделки до инженерных систем и паркинга. Этот гайд поможет инвесторам оценить потенциальную доходность, риски и ликвидность объекта, чтобы принять взвешенное решение.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":420,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/klassifikaciya-biznes-centrov-a-b-c-chto-nuzhno-znat-investoru/"}}
+title: 'Классификация бизнес-центров (A, B, C): что нужно знать инвестору'
+description: >-
+  Инвестиции в коммерческую недвижимость требуют глубокого понимания рынка. В
+  новой статье блога ButlerSPB мы детально разбираем общепринятую классификацию
+  бизнес-центров на классы A, B и C. Узнайте, какие критерии определяют каждый
+  класс – от престижности локации и качества отделки до инженерных систем и
+  паркинга. Этот гайд поможет инвесторам оценить потенциальную доходность, риски
+  и ликвидность объекта, чтобы принять взвешенное решение.
+pubDate: '2025-07-22T15:35:00.872Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Классификация бизнес-центров (A, B, C): что нужно знать инвестору'
+  description: >-
+    Инвестиции в коммерческую недвижимость требуют глубокого понимания рынка. В
+    новой статье блога ButlerSPB мы детально разбираем общепринятую
+    классификацию бизнес-центров на классы A, B и C. Узнайте, какие критерии
+    определяют каждый класс – от престижности локации и качества отделки до
+    инженерных систем и паркинга. Этот гайд поможет инвесторам оценить
+    потенциальную доходность, риски и ликвидность объекта, чтобы принять
+    взвешенное решение.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.9'
+    reviewCount: 789
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/klassifikaciya-biznes-centrov-a-b-c-chto-nuzhno-znat-investoru/
 ---
 
 # Классы бизнес-центров A, B и C: Как инвестору выбрать правильный объект и максимизировать доход

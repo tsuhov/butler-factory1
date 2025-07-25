@@ -1,10 +1,47 @@
 ---
-title: "Юридические риски при субаренде для собственника"
-description: "Субаренда может показаться выгодным решением, но для владельца недвижимости она таит множество юридических рисков. От несанкционированного использования помещения и порчи имущества до сложностей с выселением субарендатора и потери контроля над объектом. В новой статье блога ButlerSPB мы разбираем ключевые опасности для собственника и даем практические рекомендации, как их избежать, грамотно составив основной договор аренды."
-pubDate: "2025-07-23T11:09:56.722Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Юридические риски при субаренде для собственника","description":"Субаренда может показаться выгодным решением, но для владельца недвижимости она таит множество юридических рисков. От несанкционированного использования помещения и порчи имущества до сложностей с выселением субарендатора и потери контроля над объектом. В новой статье блога ButlerSPB мы разбираем ключевые опасности для собственника и даем практические рекомендации, как их избежать, грамотно составив основной договор аренды.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"5.0","reviewCount":462,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/yuridicheskie-riski-pri-subarende-dlya-sobstvennika/"}}
+title: Юридические риски при субаренде для собственника
+description: >-
+  Субаренда может показаться выгодным решением, но для владельца недвижимости
+  она таит множество юридических рисков. От несанкционированного использования
+  помещения и порчи имущества до сложностей с выселением субарендатора и потери
+  контроля над объектом. В новой статье блога ButlerSPB мы разбираем ключевые
+  опасности для собственника и даем практические рекомендации, как их избежать,
+  грамотно составив основной договор аренды.
+pubDate: '2025-07-23T11:09:56.722Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: Юридические риски при субаренде для собственника
+  description: >-
+    Субаренда может показаться выгодным решением, но для владельца недвижимости
+    она таит множество юридических рисков. От несанкционированного использования
+    помещения и порчи имущества до сложностей с выселением субарендатора и
+    потери контроля над объектом. В новой статье блога ButlerSPB мы разбираем
+    ключевые опасности для собственника и даем практические рекомендации, как их
+    избежать, грамотно составив основной договор аренды.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.8'
+    reviewCount: 427
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/yuridicheskie-riski-pri-subarende-dlya-sobstvennika/
 ---
 
 # 7 «смертных грехов» субаренды: главные риски для собственника и как их предотвратить

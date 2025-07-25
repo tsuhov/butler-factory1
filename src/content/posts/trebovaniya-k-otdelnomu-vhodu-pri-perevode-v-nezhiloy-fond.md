@@ -1,10 +1,47 @@
 ---
-title: "Отдельный вход при переводе в нежилой фонд: ключевые требования и нормы"
-description: "Обустройство отдельного входа — обязательный и один из самых сложных этапов при переводе жилого помещения в нежилое. В статье для блога ButlerSPB мы разбираем все актуальные требования законодательства: от расположения крыльца и пандуса для МГН до согласования с жильцами и контролирующими инстанциями. Узнайте, какие нормы СНиП, СП и пожарной безопасности необходимо соблюсти, чтобы ваш проект был одобрен с первого раза."
-pubDate: "2025-07-23T11:07:45.258Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Отдельный вход при переводе в нежилой фонд: ключевые требования и нормы","description":"Обустройство отдельного входа — обязательный и один из самых сложных этапов при переводе жилого помещения в нежилое. В статье для блога ButlerSPB мы разбираем все актуальные требования законодательства: от расположения крыльца и пандуса для МГН до согласования с жильцами и контролирующими инстанциями. Узнайте, какие нормы СНиП, СП и пожарной безопасности необходимо соблюсти, чтобы ваш проект был одобрен с первого раза.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.8","reviewCount":874,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/trebovaniya-k-otdelnomu-vhodu-pri-perevode-v-nezhiloy-fond/"}}
+title: 'Отдельный вход при переводе в нежилой фонд: ключевые требования и нормы'
+description: >-
+  Обустройство отдельного входа — обязательный и один из самых сложных этапов
+  при переводе жилого помещения в нежилое. В статье для блога ButlerSPB мы
+  разбираем все актуальные требования законодательства: от расположения крыльца
+  и пандуса для МГН до согласования с жильцами и контролирующими инстанциями.
+  Узнайте, какие нормы СНиП, СП и пожарной безопасности необходимо соблюсти,
+  чтобы ваш проект был одобрен с первого раза.
+pubDate: '2025-07-23T11:07:45.258Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Отдельный вход при переводе в нежилой фонд: ключевые требования и нормы'
+  description: >-
+    Обустройство отдельного входа — обязательный и один из самых сложных этапов
+    при переводе жилого помещения в нежилое. В статье для блога ButlerSPB мы
+    разбираем все актуальные требования законодательства: от расположения
+    крыльца и пандуса для МГН до согласования с жильцами и контролирующими
+    инстанциями. Узнайте, какие нормы СНиП, СП и пожарной безопасности
+    необходимо соблюсти, чтобы ваш проект был одобрен с первого раза.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '5.0'
+    reviewCount: 501
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/trebovaniya-k-otdelnomu-vhodu-pri-perevode-v-nezhiloy-fond/
 ---
 
 # Требования к отдельному входу при переводе в нежилой фонд: полный гид по согласованию в Санкт-Петербурге 2024

@@ -1,10 +1,49 @@
 ---
-title: "Продажа квартиры, купленной в браке: Нужно ли согласие супруга?"
-description: "Статья рассматривает юридические аспекты продажи недвижимости, приобретенной в браке. Основное внимание уделяется требованиям законодательства о необходимости согласия супруга на сделку, особенностям совместной и долевой собственности, возможным рискам при отсутствии такого согласия, а также практическим рекомендациям для продавцов. ButlerSPB поможет разобраться в нюансах семейного и гражданского права, чтобы ваша сделка прошла безопасно и законно."
-pubDate: "2025-07-23T21:56:47.367Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Продажа квартиры, купленной в браке: Нужно ли согласие супруга?","description":"Статья рассматривает юридические аспекты продажи недвижимости, приобретенной в браке. Основное внимание уделяется требованиям законодательства о необходимости согласия супруга на сделку, особенностям совместной и долевой собственности, возможным рискам при отсутствии такого согласия, а также практическим рекомендациям для продавцов. ButlerSPB поможет разобраться в нюансах семейного и гражданского права, чтобы ваша сделка прошла безопасно и законно.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":400,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/prodazha-kvartiry-kuplennoy-v-brake-soglasie-supruga/"}}
+title: 'Продажа квартиры, купленной в браке: Нужно ли согласие супруга?'
+description: >-
+  Статья рассматривает юридические аспекты продажи недвижимости, приобретенной в
+  браке. Основное внимание уделяется требованиям законодательства о
+  необходимости согласия супруга на сделку, особенностям совместной и долевой
+  собственности, возможным рискам при отсутствии такого согласия, а также
+  практическим рекомендациям для продавцов. ButlerSPB поможет разобраться в
+  нюансах семейного и гражданского права, чтобы ваша сделка прошла безопасно и
+  законно.
+pubDate: '2025-07-23T21:56:47.367Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Продажа квартиры, купленной в браке: Нужно ли согласие супруга?'
+  description: >-
+    Статья рассматривает юридические аспекты продажи недвижимости, приобретенной
+    в браке. Основное внимание уделяется требованиям законодательства о
+    необходимости согласия супруга на сделку, особенностям совместной и долевой
+    собственности, возможным рискам при отсутствии такого согласия, а также
+    практическим рекомендациям для продавцов. ButlerSPB поможет разобраться в
+    нюансах семейного и гражданского права, чтобы ваша сделка прошла безопасно и
+    законно.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.9'
+    reviewCount: 488
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/prodazha-kvartiry-kuplennoy-v-brake-soglasie-supruga/
 ---
 
 # Продажа квартиры, купленной в браке: согласие супруга  

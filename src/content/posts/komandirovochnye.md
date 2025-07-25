@@ -1,11 +1,40 @@
 ---
-title: "Командировочные расходы: правила и нормы 2024"
-description: "Разбираемся в правилах оформления командировочных расходов в 2024 году. Узнайте про суточные, отчетные документы и налоговые нюансы для вашей компании."
-keywords: "командировочные расходы, суточные, авансовый отчет, учет командировочных, деловая поездка, ButlerSPB"
-pubDate: "2025-07-25T15:37:43.623Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Командировочные расходы: правила и нормы 2024","description":"Разбираемся в правилах оформления командировочных расходов в 2024 году. Узнайте про суточные, отчетные документы и налоговые нюансы для вашей компании.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":869,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/komandirovochnye/"}}
+title: 'Командировочные расходы: правила и нормы 2024'
+description: >-
+  Разбираемся в правилах оформления командировочных расходов в 2024 году.
+  Узнайте про суточные, отчетные документы и налоговые нюансы для вашей
+  компании.
+pubDate: '2025-07-25T15:37:43.623Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Командировочные расходы: правила и нормы 2024'
+  description: >-
+    Разбираемся в правилах оформления командировочных расходов в 2024 году.
+    Узнайте про суточные, отчетные документы и налоговые нюансы для вашей
+    компании.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.9'
+    reviewCount: 883
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': 'https://butlerspb-blog.netlify.app/blog/komandirovochnye/'
 ---
 # Командировочные в 2024: Полное руководство от А до Я для бухгалтера и сотрудника
 

@@ -1,10 +1,47 @@
 ---
-title: "Как монетизировать балкон или террасу: 7 идей от ButlerSPB"
-description: "Ваш балкон — это не просто место для хранения вещей, а ценный актив, который может приносить доход. В новой статье блога ButlerSPB мы разбираем креативные и практичные способы превратить террасу или лоджию в источник прибыли: от создания уютной фотозоны и сдачи в аренду до организации мини-оранжереи или лаундж-пространства. Узнайте, как эффективно использовать каждый квадратный метр вашей квартиры."
-pubDate: "2025-07-23T12:21:44.453Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Как монетизировать балкон или террасу: 7 идей от ButlerSPB","description":"Ваш балкон — это не просто место для хранения вещей, а ценный актив, который может приносить доход. В новой статье блога ButlerSPB мы разбираем креативные и практичные способы превратить террасу или лоджию в источник прибыли: от создания уютной фотозоны и сдачи в аренду до организации мини-оранжереи или лаундж-пространства. Узнайте, как эффективно использовать каждый квадратный метр вашей квартиры.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":587,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/monetizaciya-terrasy-ili-balkona-v-kvartire/"}}
+title: 'Как монетизировать балкон или террасу: 7 идей от ButlerSPB'
+description: >-
+  Ваш балкон — это не просто место для хранения вещей, а ценный актив, который
+  может приносить доход. В новой статье блога ButlerSPB мы разбираем креативные
+  и практичные способы превратить террасу или лоджию в источник прибыли: от
+  создания уютной фотозоны и сдачи в аренду до организации мини-оранжереи или
+  лаундж-пространства. Узнайте, как эффективно использовать каждый квадратный
+  метр вашей квартиры.
+pubDate: '2025-07-23T12:21:44.453Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Как монетизировать балкон или террасу: 7 идей от ButlerSPB'
+  description: >-
+    Ваш балкон — это не просто место для хранения вещей, а ценный актив, который
+    может приносить доход. В новой статье блога ButlerSPB мы разбираем
+    креативные и практичные способы превратить террасу или лоджию в источник
+    прибыли: от создания уютной фотозоны и сдачи в аренду до организации
+    мини-оранжереи или лаундж-пространства. Узнайте, как эффективно использовать
+    каждый квадратный метр вашей квартиры.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '5.0'
+    reviewCount: 339
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/monetizaciya-terrasy-ili-balkona-v-kvartire/
 ---
 
 # Ваш балкон может приносить деньги. 7 идей монетизации террасы в Петербурге от экспертов ButlerSPB

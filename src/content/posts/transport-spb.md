@@ -1,11 +1,38 @@
 ---
-title: "Путеводитель по транспорту Санкт-Петербурга"
-description: "Все о транспорте Санкт-Петербурга в одной статье! Метро, автобусы, трамваи, такси. ButlerSPB расскажет, как выбрать удобный маршрут и оплатить проезд."
-keywords: "транспорт спб, общественный транспорт петербурга, метро спб, как передвигаться по спб, подорожник, автобусы спб, butlerspb"
-pubDate: "2025-07-25T15:56:19.373Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Путеводитель по транспорту Санкт-Петербурга","description":"Все о транспорте Санкт-Петербурга в одной статье! Метро, автобусы, трамваи, такси. ButlerSPB расскажет, как выбрать удобный маршрут и оплатить проезд.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":438,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/transport-spb/"}}
+title: Путеводитель по транспорту Санкт-Петербурга
+description: >-
+  Все о транспорте Санкт-Петербурга в одной статье! Метро, автобусы, трамваи,
+  такси. ButlerSPB расскажет, как выбрать удобный маршрут и оплатить проезд.
+pubDate: '2025-07-25T15:56:19.373Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: Путеводитель по транспорту Санкт-Петербурга
+  description: >-
+    Все о транспорте Санкт-Петербурга в одной статье! Метро, автобусы, трамваи,
+    такси. ButlerSPB расскажет, как выбрать удобный маршрут и оплатить проезд.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.8'
+    reviewCount: 607
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': 'https://butlerspb-blog.netlify.app/blog/transport-spb/'
 ---
 # Транспорт в Санкт-Петербурге: Полный гид по передвижению в Северной столице от ButlerSPB
 

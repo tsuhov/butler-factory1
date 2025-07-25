@@ -1,11 +1,40 @@
 ---
-title: "Ценовая политика ButlerSPB: как мы работаем"
-description: "Узнайте, как ButlerSPB формирует свою ценовую политику. Мы стремимся к максимальной прозрачности, предлагая клиентам оптимальное соотношение цены и качества."
-keywords: "ценовая политика, ценообразование, стоимость услуг, ButlerSPB, формирование цены, прозрачные цены"
-pubDate: "2025-07-25T16:15:46.092Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Ценовая политика ButlerSPB: как мы работаем","description":"Узнайте, как ButlerSPB формирует свою ценовую политику. Мы стремимся к максимальной прозрачности, предлагая клиентам оптимальное соотношение цены и качества.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.7","reviewCount":820,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/cenovaya-politika/"}}
+title: 'Ценовая политика ButlerSPB: как мы работаем'
+description: >-
+  Узнайте, как ButlerSPB формирует свою ценовую политику. Мы стремимся к
+  максимальной прозрачности, предлагая клиентам оптимальное соотношение цены и
+  качества.
+pubDate: '2025-07-25T16:15:46.092Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Ценовая политика ButlerSPB: как мы работаем'
+  description: >-
+    Узнайте, как ButlerSPB формирует свою ценовую политику. Мы стремимся к
+    максимальной прозрачности, предлагая клиентам оптимальное соотношение цены и
+    качества.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.7'
+    reviewCount: 839
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': 'https://butlerspb-blog.netlify.app/blog/cenovaya-politika/'
 ---
 # Ценовая политика: как разработать стратегию, которая увеличит вашу прибыль
 

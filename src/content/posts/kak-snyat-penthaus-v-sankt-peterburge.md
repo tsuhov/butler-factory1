@@ -1,10 +1,45 @@
 ---
-title: "Как снять пентхаус в Санкт-Петербурге: полный гид от ButlerSPB"
-description: "Мечтаете о жизни с панорамным видом на исторический центр Петербурга? В нашей статье мы подробно разбираем все этапы аренды пентхауса: от выбора района и ключевых характеристик до юридических тонкостей договора. Узнайте, как найти эксклюзивные варианты и на что обратить внимание, чтобы ваша жизнь на высоте была безупречной."
-pubDate: "2025-07-23T11:30:17.503Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Как снять пентхаус в Санкт-Петербурге: полный гид от ButlerSPB","description":"Мечтаете о жизни с панорамным видом на исторический центр Петербурга? В нашей статье мы подробно разбираем все этапы аренды пентхауса: от выбора района и ключевых характеристик до юридических тонкостей договора. Узнайте, как найти эксклюзивные варианты и на что обратить внимание, чтобы ваша жизнь на высоте была безупречной.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.7","reviewCount":421,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/kak-snyat-penthaus-v-sankt-peterburge/"}}
+title: 'Как снять пентхаус в Санкт-Петербурге: полный гид от ButlerSPB'
+description: >-
+  Мечтаете о жизни с панорамным видом на исторический центр Петербурга? В нашей
+  статье мы подробно разбираем все этапы аренды пентхауса: от выбора района и
+  ключевых характеристик до юридических тонкостей договора. Узнайте, как найти
+  эксклюзивные варианты и на что обратить внимание, чтобы ваша жизнь на высоте
+  была безупречной.
+pubDate: '2025-07-23T11:30:17.503Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Как снять пентхаус в Санкт-Петербурге: полный гид от ButlerSPB'
+  description: >-
+    Мечтаете о жизни с панорамным видом на исторический центр Петербурга? В
+    нашей статье мы подробно разбираем все этапы аренды пентхауса: от выбора
+    района и ключевых характеристик до юридических тонкостей договора. Узнайте,
+    как найти эксклюзивные варианты и на что обратить внимание, чтобы ваша жизнь
+    на высоте была безупречной.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.8'
+    reviewCount: 473
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/kak-snyat-penthaus-v-sankt-peterburge/
 ---
 
 # Аренда пентхауса в Санкт-Петербурге: Ваш гид по жизни на высоте

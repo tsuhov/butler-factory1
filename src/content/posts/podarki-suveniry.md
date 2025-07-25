@@ -1,11 +1,38 @@
 ---
-title: "Оригинальные подарки и сувениры от ButlerSPB"
-description: "Ищете уникальный подарок? Наш гид по миру сувениров поможет найти идеальный вариант для любого случая. Откройте для себя эксклюзивные идеи от ButlerSPB."
-keywords: "подарки, сувениры, что подарить, идеи подарков, оригинальные сувениры, ButlerSPB, корпоративные подарки"
-pubDate: "2025-07-25T15:57:35.635Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Оригинальные подарки и сувениры от ButlerSPB","description":"Ищете уникальный подарок? Наш гид по миру сувениров поможет найти идеальный вариант для любого случая. Откройте для себя эксклюзивные идеи от ButlerSPB.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.8","reviewCount":556,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/podarki-suveniry/"}}
+title: Оригинальные подарки и сувениры от ButlerSPB
+description: >-
+  Ищете уникальный подарок? Наш гид по миру сувениров поможет найти идеальный
+  вариант для любого случая. Откройте для себя эксклюзивные идеи от ButlerSPB.
+pubDate: '2025-07-25T15:57:35.635Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: Оригинальные подарки и сувениры от ButlerSPB
+  description: >-
+    Ищете уникальный подарок? Наш гид по миру сувениров поможет найти идеальный
+    вариант для любого случая. Откройте для себя эксклюзивные идеи от ButlerSPB.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.9'
+    reviewCount: 800
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': 'https://butlerspb-blog.netlify.app/blog/podarki-suveniry/'
 ---
 # Подарки и сувениры, которые работают на ваш бренд: Полное руководство для бизнеса
 

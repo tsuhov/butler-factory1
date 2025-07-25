@@ -1,10 +1,51 @@
 ---
-title: "Дом, милый и безопасный дом: Как ButlerSPB помогает адаптировать квартиру для маленьких детей"
-description: "Появление ребенка — огромная радость и новый этап в жизни семьи. Чтобы этот период был максимально комфортным и безопасным, важно правильно подготовить жилое пространство. В этой статье мы собрали ключевые советы и практические рекомендации по адаптации вашей квартиры: от защиты розеток и острых углов до создания функциональных зон для игр, сна и развития. Узнайте, как превратить ваш дом в идеальную крепость для самых маленьких его жителей."
-pubDate: "2025-07-22T11:09:29.449Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Дом, милый и безопасный дом: Как ButlerSPB помогает адаптировать квартиру для маленьких детей","description":"Появление ребенка — огромная радость и новый этап в жизни семьи. Чтобы этот период был максимально комфортным и безопасным, важно правильно подготовить жилое пространство. В этой статье мы собрали ключевые советы и практические рекомендации по адаптации вашей квартиры: от защиты розеток и острых углов до создания функциональных зон для игр, сна и развития. Узнайте, как превратить ваш дом в идеальную крепость для самых маленьких его жителей.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.8","reviewCount":843,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/kak-adaptirovat-kvartiru-dlya-prozhivaniya-s-malenkimi-detmi/"}}
+title: >-
+  Дом, милый и безопасный дом: Как ButlerSPB помогает адаптировать квартиру для
+  маленьких детей
+description: >-
+  Появление ребенка — огромная радость и новый этап в жизни семьи. Чтобы этот
+  период был максимально комфортным и безопасным, важно правильно подготовить
+  жилое пространство. В этой статье мы собрали ключевые советы и практические
+  рекомендации по адаптации вашей квартиры: от защиты розеток и острых углов до
+  создания функциональных зон для игр, сна и развития. Узнайте, как превратить
+  ваш дом в идеальную крепость для самых маленьких его жителей.
+pubDate: '2025-07-22T11:09:29.449Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: >-
+    Дом, милый и безопасный дом: Как ButlerSPB помогает адаптировать квартиру
+    для маленьких детей
+  description: >-
+    Появление ребенка — огромная радость и новый этап в жизни семьи. Чтобы этот
+    период был максимально комфортным и безопасным, важно правильно подготовить
+    жилое пространство. В этой статье мы собрали ключевые советы и практические
+    рекомендации по адаптации вашей квартиры: от защиты розеток и острых углов
+    до создания функциональных зон для игр, сна и развития. Узнайте, как
+    превратить ваш дом в идеальную крепость для самых маленьких его жителей.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.8'
+    reviewCount: 463
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/kak-adaptirovat-kvartiru-dlya-prozhivaniya-s-malenkimi-detmi/
 ---
 
 # Как адаптировать квартиру для маленьких детей: полное руководство от ButlerSPB

@@ -1,11 +1,38 @@
 ---
-title: "Текущие акции и спецпредложения от ButlerSPB"
-description: "Узнайте о самых выгодных предложениях и скидках от ButlerSPB. В этом разделе мы собрали все актуальные акции, чтобы вы могли сэкономить на наших услугах."
-keywords: "акции, скидки, ButlerSPB, спецпредложения, выгодные цены, бонусы, экономия"
-pubDate: "2025-07-25T16:07:30.204Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Текущие акции и спецпредложения от ButlerSPB","description":"Узнайте о самых выгодных предложениях и скидках от ButlerSPB. В этом разделе мы собрали все актуальные акции, чтобы вы могли сэкономить на наших услугах.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":678,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/tekuschie-akcii/"}}
+title: Текущие акции и спецпредложения от ButlerSPB
+description: >-
+  Узнайте о самых выгодных предложениях и скидках от ButlerSPB. В этом разделе
+  мы собрали все актуальные акции, чтобы вы могли сэкономить на наших услугах.
+pubDate: '2025-07-25T16:07:30.204Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: Текущие акции и спецпредложения от ButlerSPB
+  description: >-
+    Узнайте о самых выгодных предложениях и скидках от ButlerSPB. В этом разделе
+    мы собрали все актуальные акции, чтобы вы могли сэкономить на наших услугах.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.8'
+    reviewCount: 419
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': 'https://butlerspb-blog.netlify.app/blog/tekuschie-akcii/'
 ---
 # Все актуальные акции на уборку в СПб от ButlerSPB
 

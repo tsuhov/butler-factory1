@@ -1,10 +1,51 @@
 ---
-title: "Как контролировать работу доверительного управляющего: инструкция для собственника от ButlerSPB"
-description: "Доверительное управление — эффективный инструмент для получения пассивного дохода от недвижимости. Но как убедиться, что управляющий действует в ваших интересах? В этой статье эксперты ButlerSPB рассказывают о ключевых методах контроля: от анализа финансовых отчетов и проверки состояния объекта до юридических аспектов договора. Узнайте, на что обращать внимание, чтобы защитить свои активы и максимизировать прибыль."
-pubDate: "2025-07-23T12:16:07.968Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Как контролировать работу доверительного управляющего: инструкция для собственника от ButlerSPB","description":"Доверительное управление — эффективный инструмент для получения пассивного дохода от недвижимости. Но как убедиться, что управляющий действует в ваших интересах? В этой статье эксперты ButlerSPB рассказывают о ключевых методах контроля: от анализа финансовых отчетов и проверки состояния объекта до юридических аспектов договора. Узнайте, на что обращать внимание, чтобы защитить свои активы и максимизировать прибыль.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.7","reviewCount":800,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/kak-kontrolirovat-rabotu-doveritelnogo-upravlyayuschego/"}}
+title: >-
+  Как контролировать работу доверительного управляющего: инструкция для
+  собственника от ButlerSPB
+description: >-
+  Доверительное управление — эффективный инструмент для получения пассивного
+  дохода от недвижимости. Но как убедиться, что управляющий действует в ваших
+  интересах? В этой статье эксперты ButlerSPB рассказывают о ключевых методах
+  контроля: от анализа финансовых отчетов и проверки состояния объекта до
+  юридических аспектов договора. Узнайте, на что обращать внимание, чтобы
+  защитить свои активы и максимизировать прибыль.
+pubDate: '2025-07-23T12:16:07.968Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: >-
+    Как контролировать работу доверительного управляющего: инструкция для
+    собственника от ButlerSPB
+  description: >-
+    Доверительное управление — эффективный инструмент для получения пассивного
+    дохода от недвижимости. Но как убедиться, что управляющий действует в ваших
+    интересах? В этой статье эксперты ButlerSPB рассказывают о ключевых методах
+    контроля: от анализа финансовых отчетов и проверки состояния объекта до
+    юридических аспектов договора. Узнайте, на что обращать внимание, чтобы
+    защитить свои активы и максимизировать прибыль.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.9'
+    reviewCount: 593
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/kak-kontrolirovat-rabotu-doveritelnogo-upravlyayuschego/
 ---
 
 # Как контролировать работу доверительного управляющего: полный гайд для собственника от ButlerSPB

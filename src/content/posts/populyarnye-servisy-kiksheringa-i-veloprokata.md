@@ -1,10 +1,45 @@
 ---
-title: "Гид по кикшерингу и велопрокату от ButlerSPB: обзор популярных сервисов"
-description: "Планируете активно передвигаться по городу на самокате или велосипеде? В новой статье блога ButlerSPB мы подготовили подробный обзор самых популярных сервисов кикшеринга и велопроката. Сравниваем тарифы, зоны покрытия и особенности приложений, чтобы вы могли выбрать лучший вариант для своих поездок."
-pubDate: "2025-07-22T13:15:15.442Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Гид по кикшерингу и велопрокату от ButlerSPB: обзор популярных сервисов","description":"Планируете активно передвигаться по городу на самокате или велосипеде? В новой статье блога ButlerSPB мы подготовили подробный обзор самых популярных сервисов кикшеринга и велопроката. Сравниваем тарифы, зоны покрытия и особенности приложений, чтобы вы могли выбрать лучший вариант для своих поездок.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":900,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/populyarnye-servisy-kiksheringa-i-veloprokata/"}}
+title: 'Гид по кикшерингу и велопрокату от ButlerSPB: обзор популярных сервисов'
+description: >-
+  Планируете активно передвигаться по городу на самокате или велосипеде? В новой
+  статье блога ButlerSPB мы подготовили подробный обзор самых популярных
+  сервисов кикшеринга и велопроката. Сравниваем тарифы, зоны покрытия и
+  особенности приложений, чтобы вы могли выбрать лучший вариант для своих
+  поездок.
+pubDate: '2025-07-22T13:15:15.442Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Гид по кикшерингу и велопрокату от ButlerSPB: обзор популярных сервисов'
+  description: >-
+    Планируете активно передвигаться по городу на самокате или велосипеде? В
+    новой статье блога ButlerSPB мы подготовили подробный обзор самых популярных
+    сервисов кикшеринга и велопроката. Сравниваем тарифы, зоны покрытия и
+    особенности приложений, чтобы вы могли выбрать лучший вариант для своих
+    поездок.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.8'
+    reviewCount: 887
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/populyarnye-servisy-kiksheringa-i-veloprokata/
 ---
 
 # Петербург без пробок: Ваш полный гид по кикшерингу и велопрокату

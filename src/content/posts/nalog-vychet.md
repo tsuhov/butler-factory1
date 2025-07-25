@@ -1,11 +1,40 @@
 ---
-title: "Все о налоговых вычетах: инструкция ButlerSPB"
-description: "Полное руководство по налоговым вычетам. Рассказываем, как вернуть часть уплаченных налогов за лечение, обучение или покупку жилья. Советы от ButlerSPB."
-keywords: "налоговый вычет, возврат ндфл, декларация 3-ндфл, вычет за лечение, вычет за обучение, имущественный вычет, ButlerSPB"
-pubDate: "2025-07-25T14:39:40.283Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Все о налоговых вычетах: инструкция ButlerSPB","description":"Полное руководство по налоговым вычетам. Рассказываем, как вернуть часть уплаченных налогов за лечение, обучение или покупку жилья. Советы от ButlerSPB.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":566,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/nalog-vychet/"}}
+title: 'Все о налоговых вычетах: инструкция ButlerSPB'
+description: >-
+  Полное руководство по налоговым вычетам. Рассказываем, как вернуть часть
+  уплаченных налогов за лечение, обучение или покупку жилья. Советы от
+  ButlerSPB.
+pubDate: '2025-07-25T14:39:40.283Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Все о налоговых вычетах: инструкция ButlerSPB'
+  description: >-
+    Полное руководство по налоговым вычетам. Рассказываем, как вернуть часть
+    уплаченных налогов за лечение, обучение или покупку жилья. Советы от
+    ButlerSPB.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.9'
+    reviewCount: 802
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': 'https://butlerspb-blog.netlify.app/blog/nalog-vychet/'
 ---
 # Как вернуть до 650 000 рублей после покупки квартиры: Полное руководство по налоговому вычету в 2024 году
 

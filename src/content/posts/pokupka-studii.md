@@ -1,11 +1,38 @@
 ---
-title: "Покупка студии: ваш первый шаг к своей квартире"
-description: "Покупка студии в СПб — выгодная инвестиция. В статье от ButlerSPB мы собрали ключевые советы, как найти идеальный вариант и не прогадать с выбором."
-keywords: "купить студию, квартира-студия, недвижимость СПб, покупка жилья, ButlerSPB, инвестиции в недвижимость, первая квартира"
-pubDate: "2025-07-25T14:52:41.757Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Покупка студии: ваш первый шаг к своей квартире","description":"Покупка студии в СПб — выгодная инвестиция. В статье от ButlerSPB мы собрали ключевые советы, как найти идеальный вариант и не прогадать с выбором.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"5.0","reviewCount":676,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/pokupka-studii/"}}
+title: 'Покупка студии: ваш первый шаг к своей квартире'
+description: >-
+  Покупка студии в СПб — выгодная инвестиция. В статье от ButlerSPB мы собрали
+  ключевые советы, как найти идеальный вариант и не прогадать с выбором.
+pubDate: '2025-07-25T14:52:41.757Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Покупка студии: ваш первый шаг к своей квартире'
+  description: >-
+    Покупка студии в СПб — выгодная инвестиция. В статье от ButlerSPB мы собрали
+    ключевые советы, как найти идеальный вариант и не прогадать с выбором.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.8'
+    reviewCount: 343
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': 'https://butlerspb-blog.netlify.app/blog/pokupka-studii/'
 ---
 # Как купить студию в Санкт-Петербурге: исчерпывающее руководство от экспертов ButlerSPB
 

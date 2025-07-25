@@ -1,11 +1,40 @@
 ---
-title: "Коммуникация с клиентами: ключ к успеху"
-description: "Эффективная коммуникация — основа безупречного сервиса. В этой статье ButlerSPB делится секретами построения диалога с клиентами для решения любых задач."
-keywords: "коммуникация с клиентами, клиентский сервис, эффективное общение, управление ожиданиями, лояльность клиентов, butlerspb"
-pubDate: "2025-07-25T16:21:32.171Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Коммуникация с клиентами: ключ к успеху","description":"Эффективная коммуникация — основа безупречного сервиса. В этой статье ButlerSPB делится секретами построения диалога с клиентами для решения любых задач.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.7","reviewCount":849,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/kommunikaciya-s/"}}
+title: 'Коммуникация с клиентами: ключ к успеху'
+description: >-
+  Эффективная коммуникация — основа безупречного сервиса. В этой статье
+  ButlerSPB делится секретами построения диалога с клиентами для решения любых
+  задач.
+pubDate: '2025-07-25T16:21:32.171Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Коммуникация с клиентами: ключ к успеху'
+  description: >-
+    Эффективная коммуникация — основа безупречного сервиса. В этой статье
+    ButlerSPB делится секретами построения диалога с клиентами для решения любых
+    задач.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.8'
+    reviewCount: 706
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': 'https://butlerspb-blog.netlify.app/blog/kommunikaciya-s/'
 ---
 # Эффективная коммуникация с управляющей компанией: ваш главный актив при сдаче квартиры в аренду
 

@@ -1,10 +1,51 @@
 ---
-title: "Ответственность доверительного управляющего: что нужно знать учредителю управления"
-description: "В статье от экспертов ButlerSPB подробно разбираем, какие обязательства и риски несет управляющий по договору доверительного управления. Анализируем основания для привлечения к ответственности, виды взысканий (убытки, упущенная выгода) и способы защиты интересов собственника имущества. Узнайте, как грамотно составить договор, чтобы минимизировать риски и обеспечить сохранность ваших активов."
-pubDate: "2025-07-22T20:24:56.134Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Ответственность доверительного управляющего: что нужно знать учредителю управления","description":"В статье от экспертов ButlerSPB подробно разбираем, какие обязательства и риски несет управляющий по договору доверительного управления. Анализируем основания для привлечения к ответственности, виды взысканий (убытки, упущенная выгода) и способы защиты интересов собственника имущества. Узнайте, как грамотно составить договор, чтобы минимизировать риски и обеспечить сохранность ваших активов.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.8","reviewCount":394,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/otvetstvennost-upravlyayuschego-po-dogovoru-doveritelnogo-upravleniya/"}}
+title: >-
+  Ответственность доверительного управляющего: что нужно знать учредителю
+  управления
+description: >-
+  В статье от экспертов ButlerSPB подробно разбираем, какие обязательства и
+  риски несет управляющий по договору доверительного управления. Анализируем
+  основания для привлечения к ответственности, виды взысканий (убытки, упущенная
+  выгода) и способы защиты интересов собственника имущества. Узнайте, как
+  грамотно составить договор, чтобы минимизировать риски и обеспечить
+  сохранность ваших активов.
+pubDate: '2025-07-22T20:24:56.134Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: >-
+    Ответственность доверительного управляющего: что нужно знать учредителю
+    управления
+  description: >-
+    В статье от экспертов ButlerSPB подробно разбираем, какие обязательства и
+    риски несет управляющий по договору доверительного управления. Анализируем
+    основания для привлечения к ответственности, виды взысканий (убытки,
+    упущенная выгода) и способы защиты интересов собственника имущества.
+    Узнайте, как грамотно составить договор, чтобы минимизировать риски и
+    обеспечить сохранность ваших активов.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '5.0'
+    reviewCount: 539
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/otvetstvennost-upravlyayuschego-po-dogovoru-doveritelnogo-upravleniya/
 ---
 
 # Ответственность доверительного управляющего: как защитить свою недвижимость и доход?

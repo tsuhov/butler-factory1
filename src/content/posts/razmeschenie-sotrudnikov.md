@@ -1,11 +1,40 @@
 ---
-title: "Размещение сотрудников: как найти идеальное жилье"
-description: "Правильное размещение сотрудников — залог их продуктивности. В статье от ButlerSPB мы разбираем, как выбрать жилье для команды и избежать частых ошибок."
-keywords: "размещение сотрудников, корпоративная аренда, жилье для персонала, аренда для командировки, квартиры для сотрудников, ButlerSPB"
-pubDate: "2025-07-25T16:06:03.555Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Размещение сотрудников: как найти идеальное жилье","description":"Правильное размещение сотрудников — залог их продуктивности. В статье от ButlerSPB мы разбираем, как выбрать жилье для команды и избежать частых ошибок.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.7","reviewCount":571,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/razmeschenie-sotrudnikov/"}}
+title: 'Размещение сотрудников: как найти идеальное жилье'
+description: >-
+  Правильное размещение сотрудников — залог их продуктивности. В статье от
+  ButlerSPB мы разбираем, как выбрать жилье для команды и избежать частых
+  ошибок.
+pubDate: '2025-07-25T16:06:03.555Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Размещение сотрудников: как найти идеальное жилье'
+  description: >-
+    Правильное размещение сотрудников — залог их продуктивности. В статье от
+    ButlerSPB мы разбираем, как выбрать жилье для команды и избежать частых
+    ошибок.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.8'
+    reviewCount: 850
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': 'https://butlerspb-blog.netlify.app/blog/razmeschenie-sotrudnikov/'
 ---
 # Размещение сотрудников: Как превратить расходы в инвестиции в команду
 

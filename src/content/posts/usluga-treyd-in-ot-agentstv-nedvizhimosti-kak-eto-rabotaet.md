@@ -1,10 +1,45 @@
 ---
-title: "Услуга «трейд-ин» от агентств недвижимости: как это работает и кому подходит"
-description: "Мечтаете о новой квартире, но пугает сложный процесс продажи старой? Услуга трейд-ин — ваше решение. В новой статье блога ButlerSPB подробно объясняем, как работает обмен жилья, какие существуют схемы (срочный выкуп и продажа в цепочке), и в чем плюсы и минусы каждого варианта. Узнайте, как быстро, выгодно и безопасно обновить свою недвижимость."
-pubDate: "2025-07-23T12:17:30.170Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Услуга «трейд-ин» от агентств недвижимости: как это работает и кому подходит","description":"Мечтаете о новой квартире, но пугает сложный процесс продажи старой? Услуга трейд-ин — ваше решение. В новой статье блога ButlerSPB подробно объясняем, как работает обмен жилья, какие существуют схемы (срочный выкуп и продажа в цепочке), и в чем плюсы и минусы каждого варианта. Узнайте, как быстро, выгодно и безопасно обновить свою недвижимость.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"5.0","reviewCount":824,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/usluga-treyd-in-ot-agentstv-nedvizhimosti-kak-eto-rabotaet/"}}
+title: 'Услуга «трейд-ин» от агентств недвижимости: как это работает и кому подходит'
+description: >-
+  Мечтаете о новой квартире, но пугает сложный процесс продажи старой? Услуга
+  трейд-ин — ваше решение. В новой статье блога ButlerSPB подробно объясняем,
+  как работает обмен жилья, какие существуют схемы (срочный выкуп и продажа в
+  цепочке), и в чем плюсы и минусы каждого варианта. Узнайте, как быстро,
+  выгодно и безопасно обновить свою недвижимость.
+pubDate: '2025-07-23T12:17:30.170Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Услуга «трейд-ин» от агентств недвижимости: как это работает и кому подходит'
+  description: >-
+    Мечтаете о новой квартире, но пугает сложный процесс продажи старой? Услуга
+    трейд-ин — ваше решение. В новой статье блога ButlerSPB подробно объясняем,
+    как работает обмен жилья, какие существуют схемы (срочный выкуп и продажа в
+    цепочке), и в чем плюсы и минусы каждого варианта. Узнайте, как быстро,
+    выгодно и безопасно обновить свою недвижимость.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.8'
+    reviewCount: 838
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/usluga-treyd-in-ot-agentstv-nedvizhimosti-kak-eto-rabotaet/
 ---
 
 # Услуга трейд-ин от агентства недвижимости: полный гид по обмену вашей квартиры

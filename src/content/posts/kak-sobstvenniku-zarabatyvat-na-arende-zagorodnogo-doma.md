@@ -1,10 +1,51 @@
 ---
-title: "Как собственнику зарабатывать на аренде загородного дома: полное руководство от ButlerSPB"
-description: "Ваш загородный дом может приносить стабильный доход, а не требовать постоянных вложений. В этой статье мы подробно разбираем все шаги для успешной сдачи недвижимости в аренду: от подготовки дома и создания привлекательного объявления до юридических аспектов и работы с гостями. Узнайте, как установить правильную цену, избежать простоев и максимизировать прибыль с помощью советов от экспертов по управлению недвижимостью."
-pubDate: "2025-07-22T13:45:12.883Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Как собственнику зарабатывать на аренде загородного дома: полное руководство от ButlerSPB","description":"Ваш загородный дом может приносить стабильный доход, а не требовать постоянных вложений. В этой статье мы подробно разбираем все шаги для успешной сдачи недвижимости в аренду: от подготовки дома и создания привлекательного объявления до юридических аспектов и работы с гостями. Узнайте, как установить правильную цену, избежать простоев и максимизировать прибыль с помощью советов от экспертов по управлению недвижимостью.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.7","reviewCount":702,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/kak-sobstvenniku-zarabatyvat-na-arende-zagorodnogo-doma/"}}
+title: >-
+  Как собственнику зарабатывать на аренде загородного дома: полное руководство
+  от ButlerSPB
+description: >-
+  Ваш загородный дом может приносить стабильный доход, а не требовать постоянных
+  вложений. В этой статье мы подробно разбираем все шаги для успешной сдачи
+  недвижимости в аренду: от подготовки дома и создания привлекательного
+  объявления до юридических аспектов и работы с гостями. Узнайте, как установить
+  правильную цену, избежать простоев и максимизировать прибыль с помощью советов
+  от экспертов по управлению недвижимостью.
+pubDate: '2025-07-22T13:45:12.883Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: >-
+    Как собственнику зарабатывать на аренде загородного дома: полное руководство
+    от ButlerSPB
+  description: >-
+    Ваш загородный дом может приносить стабильный доход, а не требовать
+    постоянных вложений. В этой статье мы подробно разбираем все шаги для
+    успешной сдачи недвижимости в аренду: от подготовки дома и создания
+    привлекательного объявления до юридических аспектов и работы с гостями.
+    Узнайте, как установить правильную цену, избежать простоев и максимизировать
+    прибыль с помощью советов от экспертов по управлению недвижимостью.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.9'
+    reviewCount: 714
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/kak-sobstvenniku-zarabatyvat-na-arende-zagorodnogo-doma/
 ---
 
 # Как превратить ваш загородный дом в прибыльный актив: пошаговое руководство для собственника

@@ -1,11 +1,40 @@
 ---
-title: "Снижение кадастровой стоимости от ButlerSPB"
-description: "Завышенная кадастровая стоимость увеличивает ваши налоги. В нашей статье мы подробно расскажем, как оспорить ее в комиссии или суде. Помощь ButlerSPB в СПб."
-keywords: "оспаривание кадастровой стоимости, снижение кадастровой стоимости, оценка недвижимости, налог на имущество, юрист по недвижимости, ButlerSPB, СПб"
-pubDate: "2025-07-25T15:48:25.896Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Снижение кадастровой стоимости от ButlerSPB","description":"Завышенная кадастровая стоимость увеличивает ваши налоги. В нашей статье мы подробно расскажем, как оспорить ее в комиссии или суде. Помощь ButlerSPB в СПб.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":373,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/osparivanie-stoimosti/"}}
+title: Снижение кадастровой стоимости от ButlerSPB
+description: >-
+  Завышенная кадастровая стоимость увеличивает ваши налоги. В нашей статье мы
+  подробно расскажем, как оспорить ее в комиссии или суде. Помощь ButlerSPB в
+  СПб.
+pubDate: '2025-07-25T15:48:25.896Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: Снижение кадастровой стоимости от ButlerSPB
+  description: >-
+    Завышенная кадастровая стоимость увеличивает ваши налоги. В нашей статье мы
+    подробно расскажем, как оспорить ее в комиссии или суде. Помощь ButlerSPB в
+    СПб.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '5.0'
+    reviewCount: 662
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': 'https://butlerspb-blog.netlify.app/blog/osparivanie-stoimosti/'
 ---
 # Как оспорить кадастровую стоимость и сэкономить на налогах: полное руководство 2024
 

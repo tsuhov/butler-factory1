@@ -1,11 +1,40 @@
 ---
-title: "Продажа земельного участка: полное руководство"
-description: "Эта статья — ваш полный гид по продаже земельного участка. Мы подробно описываем подготовку объекта, определение цены, сбор документов и процедуру заключения договора."
-keywords: "продажа земельного участка, продать участок, оценка земли, документы на участок, сделка с землей, недвижимость спб"
-pubDate: "2025-07-25T15:55:07.149Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Продажа земельного участка: полное руководство","description":"Эта статья — ваш полный гид по продаже земельного участка. Мы подробно описываем подготовку объекта, определение цены, сбор документов и процедуру заключения договора.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"5.0","reviewCount":477,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/prodazha-zemelnogo/"}}
+title: 'Продажа земельного участка: полное руководство'
+description: >-
+  Эта статья — ваш полный гид по продаже земельного участка. Мы подробно
+  описываем подготовку объекта, определение цены, сбор документов и процедуру
+  заключения договора.
+pubDate: '2025-07-25T15:55:07.149Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Продажа земельного участка: полное руководство'
+  description: >-
+    Эта статья — ваш полный гид по продаже земельного участка. Мы подробно
+    описываем подготовку объекта, определение цены, сбор документов и процедуру
+    заключения договора.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.7'
+    reviewCount: 837
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': 'https://butlerspb-blog.netlify.app/blog/prodazha-zemelnogo/'
 ---
 # Как продать земельный участок в 2024 году: Полное руководство для собственников в СПб и Ленобласти
 

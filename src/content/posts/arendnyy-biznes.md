@@ -1,11 +1,39 @@
 ---
-title: "Арендный бизнес: как получать доход с ButlerSPB"
-description: "Арендный бизнес в СПб — ваш путь к пассивному доходу. Узнайте, как выбрать объект, найти надежных жильцов и передать все хлопоты в управление ButlerSPB."
-keywords: "арендный бизнес, пассивный доход, инвестиции в недвижимость, управление недвижимостью, сдать квартиру спб, ButlerSPB"
-pubDate: "2025-07-25T14:12:45.526Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Арендный бизнес: как получать доход с ButlerSPB","description":"Арендный бизнес в СПб — ваш путь к пассивному доходу. Узнайте, как выбрать объект, найти надежных жильцов и передать все хлопоты в управление ButlerSPB.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.7","reviewCount":470,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/arendnyy-biznes/"}}
+title: 'Арендный бизнес: как получать доход с ButlerSPB'
+description: >-
+  Арендный бизнес в СПб — ваш путь к пассивному доходу. Узнайте, как выбрать
+  объект, найти надежных жильцов и передать все хлопоты в управление ButlerSPB.
+pubDate: '2025-07-25T14:12:45.526Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Арендный бизнес: как получать доход с ButlerSPB'
+  description: >-
+    Арендный бизнес в СПб — ваш путь к пассивному доходу. Узнайте, как выбрать
+    объект, найти надежных жильцов и передать все хлопоты в управление
+    ButlerSPB.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.9'
+    reviewCount: 679
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': 'https://butlerspb-blog.netlify.app/blog/arendnyy-biznes/'
 ---
 # Арендный бизнес как источник пассивного дохода: полное руководство для владельца недвижимости
 

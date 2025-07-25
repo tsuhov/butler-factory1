@@ -1,10 +1,51 @@
 ---
-title: "Как продать долю в квартире, если второй собственник против: инструкция от ButlerSPB"
-description: "Владение долей в квартире накладывает определенные обязательства, особенно при продаже. Что делать, если вы хотите продать свою часть, а второй собственник категорически против? В этой статье мы подробно разберем законный механизм продажи доли, право преимущественной покупки и пошаговый алгоритм действий, который поможет вам провести сделку юридически грамотно, даже без согласия другого владельца."
-pubDate: "2025-07-23T11:14:15.835Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Как продать долю в квартире, если второй собственник против: инструкция от ButlerSPB","description":"Владение долей в квартире накладывает определенные обязательства, особенно при продаже. Что делать, если вы хотите продать свою часть, а второй собственник категорически против? В этой статье мы подробно разберем законный механизм продажи доли, право преимущественной покупки и пошаговый алгоритм действий, который поможет вам провести сделку юридически грамотно, даже без согласия другого владельца.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":473,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/prodazha-doli-v-kvartire-esli-vtoroy-sobstvennik-protiv/"}}
+title: >-
+  Как продать долю в квартире, если второй собственник против: инструкция от
+  ButlerSPB
+description: >-
+  Владение долей в квартире накладывает определенные обязательства, особенно при
+  продаже. Что делать, если вы хотите продать свою часть, а второй собственник
+  категорически против? В этой статье мы подробно разберем законный механизм
+  продажи доли, право преимущественной покупки и пошаговый алгоритм действий,
+  который поможет вам провести сделку юридически грамотно, даже без согласия
+  другого владельца.
+pubDate: '2025-07-23T11:14:15.835Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: >-
+    Как продать долю в квартире, если второй собственник против: инструкция от
+    ButlerSPB
+  description: >-
+    Владение долей в квартире накладывает определенные обязательства, особенно
+    при продаже. Что делать, если вы хотите продать свою часть, а второй
+    собственник категорически против? В этой статье мы подробно разберем
+    законный механизм продажи доли, право преимущественной покупки и пошаговый
+    алгоритм действий, который поможет вам провести сделку юридически грамотно,
+    даже без согласия другого владельца.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.8'
+    reviewCount: 392
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/prodazha-doli-v-kvartire-esli-vtoroy-sobstvennik-protiv/
 ---
 
 # Продать долю в квартире, если второй собственник против: миф или реальность?

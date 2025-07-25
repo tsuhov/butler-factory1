@@ -1,10 +1,51 @@
 ---
-title: "Продажа загородной недвижимости: как ButlerSPB делает процесс простым и выгодным для вас"
-description: "Продажа дома, коттеджа или участка — задача со множеством нюансов. В этой статье мы подробно рассказываем, как команда ButlerSPB берет на себя все этапы сделки: от профессиональной оценки и предпродажной подготовки объекта до проведения показов и юридического сопровождения. Узнайте, как наш комплексный подход помогает продать вашу загородную недвижимость быстрее и по максимальной рыночной цене, экономя ваше время и нервы."
-pubDate: "2025-07-22T11:31:02.912Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Продажа загородной недвижимости: как ButlerSPB делает процесс простым и выгодным для вас","description":"Продажа дома, коттеджа или участка — задача со множеством нюансов. В этой статье мы подробно рассказываем, как команда ButlerSPB берет на себя все этапы сделки: от профессиональной оценки и предпродажной подготовки объекта до проведения показов и юридического сопровождения. Узнайте, как наш комплексный подход помогает продать вашу загородную недвижимость быстрее и по максимальной рыночной цене, экономя ваше время и нервы.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.7","reviewCount":450,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/kak-my-pomogaem-s-prodazhey-zagorodnoy-nedvizhimosti/"}}
+title: >-
+  Продажа загородной недвижимости: как ButlerSPB делает процесс простым и
+  выгодным для вас
+description: >-
+  Продажа дома, коттеджа или участка — задача со множеством нюансов. В этой
+  статье мы подробно рассказываем, как команда ButlerSPB берет на себя все этапы
+  сделки: от профессиональной оценки и предпродажной подготовки объекта до
+  проведения показов и юридического сопровождения. Узнайте, как наш комплексный
+  подход помогает продать вашу загородную недвижимость быстрее и по максимальной
+  рыночной цене, экономя ваше время и нервы.
+pubDate: '2025-07-22T11:31:02.912Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: >-
+    Продажа загородной недвижимости: как ButlerSPB делает процесс простым и
+    выгодным для вас
+  description: >-
+    Продажа дома, коттеджа или участка — задача со множеством нюансов. В этой
+    статье мы подробно рассказываем, как команда ButlerSPB берет на себя все
+    этапы сделки: от профессиональной оценки и предпродажной подготовки объекта
+    до проведения показов и юридического сопровождения. Узнайте, как наш
+    комплексный подход помогает продать вашу загородную недвижимость быстрее и
+    по максимальной рыночной цене, экономя ваше время и нервы.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.8'
+    reviewCount: 301
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/kak-my-pomogaem-s-prodazhey-zagorodnoy-nedvizhimosti/
 ---
 
 # Продажа загородного дома — не стресс, а выверенный процесс: Как ButlerSPB берет все заботы на себя

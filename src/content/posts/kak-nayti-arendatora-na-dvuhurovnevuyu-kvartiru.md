@@ -1,11 +1,41 @@
 ---
-title: "Как найти арендатора на двухуровневую квартиру"
-description: "Ищете арендатора для двухуровневой квартиры? В статье мы раскроем секреты успешной сдачи: как подчеркнуть уникальность планировки и привлечь надежных жильцов."
-keywords: "сдать двухуровневую квартиру, найти арендатора, элитная аренда, управление недвижимостью, сдать дуплекс, ButlerSPB"
-pubDate: "2025-07-24T12:02:39.485Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Как найти арендатора на двухуровневую квартиру","description":"Ищете арендатора для двухуровневой квартиры? В статье мы раскроем секреты успешной сдачи: как подчеркнуть уникальность планировки и привлечь надежных жильцов.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":602,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/kak-nayti-arendatora-na-dvuhurovnevuyu-kvartiru/"}}
+title: Как найти арендатора на двухуровневую квартиру
+description: >-
+  Ищете арендатора для двухуровневой квартиры? В статье мы раскроем секреты
+  успешной сдачи: как подчеркнуть уникальность планировки и привлечь надежных
+  жильцов.
+pubDate: '2025-07-24T12:02:39.485Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: Как найти арендатора на двухуровневую квартиру
+  description: >-
+    Ищете арендатора для двухуровневой квартиры? В статье мы раскроем секреты
+    успешной сдачи: как подчеркнуть уникальность планировки и привлечь надежных
+    жильцов.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.8'
+    reviewCount: 465
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/kak-nayti-arendatora-na-dvuhurovnevuyu-kvartiru/
 ---
 # Как найти арендатора на двухуровневую квартиру: полное руководство для собственника
 

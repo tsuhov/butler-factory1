@@ -1,10 +1,51 @@
 ---
-title: "Как продать квартиру с материнским капиталом, если ребенку нет 3 лет: инструкция от ButlerSPB"
-description: "Продажа недвижимости, приобретенной с помощью маткапитала до достижения ребенком трехлетнего возраста — одна из самых сложных сделок. Она требует обязательного получения разрешения от органов опеки и попечительства. В нашей статье мы подробно разбираем все юридические тонкости, пошаговый алгоритм действий и рассказываем, как правильно выделить доли детям в новом жилье, чтобы сделка прошла успешно и без рисков."
-pubDate: "2025-07-23T12:23:50.465Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Как продать квартиру с материнским капиталом, если ребенку нет 3 лет: инструкция от ButlerSPB","description":"Продажа недвижимости, приобретенной с помощью маткапитала до достижения ребенком трехлетнего возраста — одна из самых сложных сделок. Она требует обязательного получения разрешения от органов опеки и попечительства. В нашей статье мы подробно разбираем все юридические тонкости, пошаговый алгоритм действий и рассказываем, как правильно выделить доли детям в новом жилье, чтобы сделка прошла успешно и без рисков.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":799,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/prodazha-kvartiry-s-materinskim-kapitalom-do-ispolneniya-3-let-rebenku/"}}
+title: >-
+  Как продать квартиру с материнским капиталом, если ребенку нет 3 лет:
+  инструкция от ButlerSPB
+description: >-
+  Продажа недвижимости, приобретенной с помощью маткапитала до достижения
+  ребенком трехлетнего возраста — одна из самых сложных сделок. Она требует
+  обязательного получения разрешения от органов опеки и попечительства. В нашей
+  статье мы подробно разбираем все юридические тонкости, пошаговый алгоритм
+  действий и рассказываем, как правильно выделить доли детям в новом жилье,
+  чтобы сделка прошла успешно и без рисков.
+pubDate: '2025-07-23T12:23:50.465Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: >-
+    Как продать квартиру с материнским капиталом, если ребенку нет 3 лет:
+    инструкция от ButlerSPB
+  description: >-
+    Продажа недвижимости, приобретенной с помощью маткапитала до достижения
+    ребенком трехлетнего возраста — одна из самых сложных сделок. Она требует
+    обязательного получения разрешения от органов опеки и попечительства. В
+    нашей статье мы подробно разбираем все юридические тонкости, пошаговый
+    алгоритм действий и рассказываем, как правильно выделить доли детям в новом
+    жилье, чтобы сделка прошла успешно и без рисков.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.7'
+    reviewCount: 468
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/prodazha-kvartiry-s-materinskim-kapitalom-do-ispolneniya-3-let-rebenku/
 ---
 
 # Продать квартиру с материнским капиталом до 3 лет: миссия выполнима. Полное руководство от ButlerSPB

@@ -1,10 +1,49 @@
 ---
-title: "Продажа помещения свободного назначения (ПСН): кому это интересно?"
-description: "Планируете продать коммерческую недвижимость? В новой статье блога ButlerSPB разбираемся, кто является целевой аудиторией для помещений свободного назначения. Анализируем портреты потенциальных покупателей: от частных инвесторов и сетевых ритейлеров до владельцев медицинских клиник, фитнес-студий и образовательных центров. Узнайте, кому ваш объект будет интересен в первую очередь и как это использовать для быстрой и выгодной сделки."
-pubDate: "2025-07-23T11:09:51.683Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Продажа помещения свободного назначения (ПСН): кому это интересно?","description":"Планируете продать коммерческую недвижимость? В новой статье блога ButlerSPB разбираемся, кто является целевой аудиторией для помещений свободного назначения. Анализируем портреты потенциальных покупателей: от частных инвесторов и сетевых ритейлеров до владельцев медицинских клиник, фитнес-студий и образовательных центров. Узнайте, кому ваш объект будет интересен в первую очередь и как это использовать для быстрой и выгодной сделки.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.7","reviewCount":528,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/prodazha-pomescheniya-svobodnogo-naznacheniya-psn-komu-eto-interesno/"}}
+title: 'Продажа помещения свободного назначения (ПСН): кому это интересно?'
+description: >-
+  Планируете продать коммерческую недвижимость? В новой статье блога ButlerSPB
+  разбираемся, кто является целевой аудиторией для помещений свободного
+  назначения. Анализируем портреты потенциальных покупателей: от частных
+  инвесторов и сетевых ритейлеров до владельцев медицинских клиник,
+  фитнес-студий и образовательных центров. Узнайте, кому ваш объект будет
+  интересен в первую очередь и как это использовать для быстрой и выгодной
+  сделки.
+pubDate: '2025-07-23T11:09:51.683Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Продажа помещения свободного назначения (ПСН): кому это интересно?'
+  description: >-
+    Планируете продать коммерческую недвижимость? В новой статье блога ButlerSPB
+    разбираемся, кто является целевой аудиторией для помещений свободного
+    назначения. Анализируем портреты потенциальных покупателей: от частных
+    инвесторов и сетевых ритейлеров до владельцев медицинских клиник,
+    фитнес-студий и образовательных центров. Узнайте, кому ваш объект будет
+    интересен в первую очередь и как это использовать для быстрой и выгодной
+    сделки.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.7'
+    reviewCount: 738
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/prodazha-pomescheniya-svobodnogo-naznacheniya-psn-komu-eto-interesno/
 ---
 
 # Помещение свободного назначения (ПСН): кому и зачем стоит его покупать в Санкт-Петербурге?

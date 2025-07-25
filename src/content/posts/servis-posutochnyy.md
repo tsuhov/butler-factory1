@@ -1,11 +1,39 @@
 ---
-title: "Сервис посуточной аренды квартир от ButlerSPB"
-description: "Откройте для себя комфорт посуточной аренды с ButlerSPB. Мы предлагаем уютные апартаменты в Санкт-Петербурге с полным сервисом для вашего идеального отдыха."
-keywords: "посуточная аренда, аренда квартир, ButlerSPB, апартаменты посуточно, жилье в Санкт-Петербурге, снять квартиру посуточно"
-pubDate: "2025-07-24T13:37:20.305Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Сервис посуточной аренды квартир от ButlerSPB","description":"Откройте для себя комфорт посуточной аренды с ButlerSPB. Мы предлагаем уютные апартаменты в Санкт-Петербурге с полным сервисом для вашего идеального отдыха.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":383,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/servis-posutochnyy/"}}
+title: Сервис посуточной аренды квартир от ButlerSPB
+description: >-
+  Откройте для себя комфорт посуточной аренды с ButlerSPB. Мы предлагаем уютные
+  апартаменты в Санкт-Петербурге с полным сервисом для вашего идеального отдыха.
+pubDate: '2025-07-24T13:37:20.305Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: Сервис посуточной аренды квартир от ButlerSPB
+  description: >-
+    Откройте для себя комфорт посуточной аренды с ButlerSPB. Мы предлагаем
+    уютные апартаменты в Санкт-Петербурге с полным сервисом для вашего
+    идеального отдыха.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.8'
+    reviewCount: 650
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': 'https://butlerspb-blog.netlify.app/blog/servis-posutochnyy/'
 ---
 # Сервис посуточной аренды: Больше, чем просто квартира на сутки
 

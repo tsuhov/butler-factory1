@@ -1,11 +1,40 @@
 ---
-title: "Раскрываем потенциал вашего объекта недвижимости"
-description: "Каждый объект недвижимости имеет скрытый потенциал. ButlerSPB помогает его выявить и реализовать, превращая вашу собственность в максимально доходный актив."
-keywords: "потенциал объекта, оценка недвижимости, инвестиции в недвижимость, управление активами, ButlerSPB, доходный объект"
-pubDate: "2025-07-25T15:52:51.749Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Раскрываем потенциал вашего объекта недвижимости","description":"Каждый объект недвижимости имеет скрытый потенциал. ButlerSPB помогает его выявить и реализовать, превращая вашу собственность в максимально доходный актив.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.8","reviewCount":474,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/potencial-obekta/"}}
+title: Раскрываем потенциал вашего объекта недвижимости
+description: >-
+  Каждый объект недвижимости имеет скрытый потенциал. ButlerSPB помогает его
+  выявить и реализовать, превращая вашу собственность в максимально доходный
+  актив.
+pubDate: '2025-07-25T15:52:51.749Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: Раскрываем потенциал вашего объекта недвижимости
+  description: >-
+    Каждый объект недвижимости имеет скрытый потенциал. ButlerSPB помогает его
+    выявить и реализовать, превращая вашу собственность в максимально доходный
+    актив.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.7'
+    reviewCount: 750
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': 'https://butlerspb-blog.netlify.app/blog/potencial-obekta/'
 ---
 # Не просто стены: Как раскрыть и оценить истинный потенциал объекта недвижимости
 

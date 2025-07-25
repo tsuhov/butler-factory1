@@ -1,11 +1,40 @@
 ---
-title: "Консьерж-сервис от Butler: ваш личный помощник"
-description: "Узнайте, как консьерж-сервис от ButlerSPB изменит вашу жизнь. Мы берем на себя рутинные задачи и решаем любые вопросы 24/7, освобождая ваше время для главного."
-keywords: "консьерж-сервис, ButlerSPB, личный помощник, лайфстайл-менеджмент, премиум услуги, консьерж спб"
-pubDate: "2025-07-24T13:37:21.220Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Консьерж-сервис от Butler: ваш личный помощник","description":"Узнайте, как консьерж-сервис от ButlerSPB изменит вашу жизнь. Мы берем на себя рутинные задачи и решаем любые вопросы 24/7, освобождая ваше время для главного.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.8","reviewCount":455,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/konserzh-servis-ot-batlera/"}}
+title: 'Консьерж-сервис от Butler: ваш личный помощник'
+description: >-
+  Узнайте, как консьерж-сервис от ButlerSPB изменит вашу жизнь. Мы берем на себя
+  рутинные задачи и решаем любые вопросы 24/7, освобождая ваше время для
+  главного.
+pubDate: '2025-07-24T13:37:21.220Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Консьерж-сервис от Butler: ваш личный помощник'
+  description: >-
+    Узнайте, как консьерж-сервис от ButlerSPB изменит вашу жизнь. Мы берем на
+    себя рутинные задачи и решаем любые вопросы 24/7, освобождая ваше время для
+    главного.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.8'
+    reviewCount: 820
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': 'https://butlerspb-blog.netlify.app/blog/konserzh-servis-ot-batlera/'
 ---
 # Ваше время — бесценно. Как консьерж-сервис от Батлера освободит его для главного
 

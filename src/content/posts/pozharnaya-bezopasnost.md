@@ -1,11 +1,40 @@
 ---
-title: "Ключевые аспекты пожарной безопасности дома"
-description: "ButlerSPB делится главными правилами пожарной безопасности. Узнайте, как предотвратить возгорание, правильно использовать огнетушители и составить план эвакуации."
-keywords: "пожарная безопасность, правила безопасности, огнетушитель, план эвакуации, предотвращение пожара, ButlerSPB"
-pubDate: "2025-07-25T15:44:41.845Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Ключевые аспекты пожарной безопасности дома","description":"ButlerSPB делится главными правилами пожарной безопасности. Узнайте, как предотвратить возгорание, правильно использовать огнетушители и составить план эвакуации.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.8","reviewCount":609,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/pozharnaya-bezopasnost/"}}
+title: Ключевые аспекты пожарной безопасности дома
+description: >-
+  ButlerSPB делится главными правилами пожарной безопасности. Узнайте, как
+  предотвратить возгорание, правильно использовать огнетушители и составить план
+  эвакуации.
+pubDate: '2025-07-25T15:44:41.845Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: Ключевые аспекты пожарной безопасности дома
+  description: >-
+    ButlerSPB делится главными правилами пожарной безопасности. Узнайте, как
+    предотвратить возгорание, правильно использовать огнетушители и составить
+    план эвакуации.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.9'
+    reviewCount: 597
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': 'https://butlerspb-blog.netlify.app/blog/pozharnaya-bezopasnost/'
 ---
 # Пожарная безопасность: требования, аудит и правила для зданий
 

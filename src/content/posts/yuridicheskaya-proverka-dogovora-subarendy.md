@@ -1,10 +1,49 @@
 ---
-title: "Юридическая проверка договора субаренды: чек-лист для безопасной сделки от ButlerSPB"
-description: "Субаренда может быть выгодной, но только при грамотном юридическом подходе. В статье от ButlerSPB мы подготовили полный чек-лист для проверки договора субаренды. Разбираем ключевые пункты: согласие собственника, сроки, ответственность и 'подводные камни', которые помогут вам избежать финансовых потерь и юридических проблем."
-pubDate: "2025-07-23T12:13:04.450Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Юридическая проверка договора субаренды: чек-лист для безопасной сделки от ButlerSPB","description":"Субаренда может быть выгодной, но только при грамотном юридическом подходе. В статье от ButlerSPB мы подготовили полный чек-лист для проверки договора субаренды. Разбираем ключевые пункты: согласие собственника, сроки, ответственность и 'подводные камни', которые помогут вам избежать финансовых потерь и юридических проблем.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.8","reviewCount":333,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/yuridicheskaya-proverka-dogovora-subarendy/"}}
+title: >-
+  Юридическая проверка договора субаренды: чек-лист для безопасной сделки от
+  ButlerSPB
+description: >-
+  Субаренда может быть выгодной, но только при грамотном юридическом подходе. В
+  статье от ButlerSPB мы подготовили полный чек-лист для проверки договора
+  субаренды. Разбираем ключевые пункты: согласие собственника, сроки,
+  ответственность и 'подводные камни', которые помогут вам избежать финансовых
+  потерь и юридических проблем.
+pubDate: '2025-07-23T12:13:04.450Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: >-
+    Юридическая проверка договора субаренды: чек-лист для безопасной сделки от
+    ButlerSPB
+  description: >-
+    Субаренда может быть выгодной, но только при грамотном юридическом подходе.
+    В статье от ButlerSPB мы подготовили полный чек-лист для проверки договора
+    субаренды. Разбираем ключевые пункты: согласие собственника, сроки,
+    ответственность и 'подводные камни', которые помогут вам избежать финансовых
+    потерь и юридических проблем.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '5.0'
+    reviewCount: 337
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/yuridicheskaya-proverka-dogovora-subarendy/
 ---
 
 # Юридическая проверка договора субаренды: полный чек-лист и 7 главных рисков, о которых вы не знали

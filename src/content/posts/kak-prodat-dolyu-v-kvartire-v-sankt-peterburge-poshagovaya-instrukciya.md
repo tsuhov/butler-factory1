@@ -1,10 +1,51 @@
 ---
-title: "Как продать долю в квартире в Санкт-Петербурге: пошаговая инструкция от ButlerSPB"
-description: "Продажа доли в квартире — сложный процесс со множеством юридических нюансов, особенно в Санкт-Петербурге. В этой статье команда ButlerSPB подготовила подробную пошаговую инструкцию: от правильного уведомления других собственников и соблюдения права преимущественной покупки до сбора необходимых документов и регистрации сделки у нотариуса. Узнайте, как продать свою долю законно, быстро и с максимальной выгодой."
-pubDate: "2025-07-22T13:51:39.754Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Как продать долю в квартире в Санкт-Петербурге: пошаговая инструкция от ButlerSPB","description":"Продажа доли в квартире — сложный процесс со множеством юридических нюансов, особенно в Санкт-Петербурге. В этой статье команда ButlerSPB подготовила подробную пошаговую инструкцию: от правильного уведомления других собственников и соблюдения права преимущественной покупки до сбора необходимых документов и регистрации сделки у нотариуса. Узнайте, как продать свою долю законно, быстро и с максимальной выгодой.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":853,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/kak-prodat-dolyu-v-kvartire-v-sankt-peterburge-poshagovaya-instrukciya/"}}
+title: >-
+  Как продать долю в квартире в Санкт-Петербурге: пошаговая инструкция от
+  ButlerSPB
+description: >-
+  Продажа доли в квартире — сложный процесс со множеством юридических нюансов,
+  особенно в Санкт-Петербурге. В этой статье команда ButlerSPB подготовила
+  подробную пошаговую инструкцию: от правильного уведомления других
+  собственников и соблюдения права преимущественной покупки до сбора необходимых
+  документов и регистрации сделки у нотариуса. Узнайте, как продать свою долю
+  законно, быстро и с максимальной выгодой.
+pubDate: '2025-07-22T13:51:39.754Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: >-
+    Как продать долю в квартире в Санкт-Петербурге: пошаговая инструкция от
+    ButlerSPB
+  description: >-
+    Продажа доли в квартире — сложный процесс со множеством юридических нюансов,
+    особенно в Санкт-Петербурге. В этой статье команда ButlerSPB подготовила
+    подробную пошаговую инструкцию: от правильного уведомления других
+    собственников и соблюдения права преимущественной покупки до сбора
+    необходимых документов и регистрации сделки у нотариуса. Узнайте, как
+    продать свою долю законно, быстро и с максимальной выгодой.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.9'
+    reviewCount: 443
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/kak-prodat-dolyu-v-kvartire-v-sankt-peterburge-poshagovaya-instrukciya/
 ---
 
 # Как продать долю в квартире в Санкт-Петербурге в 2024: полная пошаговая инструкция от экспертов ButlerSPB

@@ -1,10 +1,45 @@
 ---
-title: "Инвестиции в складские помещения в СПб: Полное руководство от ButlerSPB"
-description: "Рынок складской недвижимости Санкт-Петербурга переживает бум. В нашей новой статье мы разбираем, почему инвестиции в склады сегодня — это выгодное вложение. Анализ текущей ситуации, прогнозы роста, ключевые риски и советы от экспертов ButlerSPB для тех, кто хочет выгодно инвестировать в коммерческую недвижимость в СПб."
-pubDate: "2025-07-22T13:51:05.768Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Инвестиции в складские помещения в СПб: Полное руководство от ButlerSPB","description":"Рынок складской недвижимости Санкт-Петербурга переживает бум. В нашей новой статье мы разбираем, почему инвестиции в склады сегодня — это выгодное вложение. Анализ текущей ситуации, прогнозы роста, ключевые риски и советы от экспертов ButlerSPB для тех, кто хочет выгодно инвестировать в коммерческую недвижимость в СПб.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"5.0","reviewCount":569,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/investicii-v-skladskie-pomescheniya-v-spb/"}}
+title: 'Инвестиции в складские помещения в СПб: Полное руководство от ButlerSPB'
+description: >-
+  Рынок складской недвижимости Санкт-Петербурга переживает бум. В нашей новой
+  статье мы разбираем, почему инвестиции в склады сегодня — это выгодное
+  вложение. Анализ текущей ситуации, прогнозы роста, ключевые риски и советы от
+  экспертов ButlerSPB для тех, кто хочет выгодно инвестировать в коммерческую
+  недвижимость в СПб.
+pubDate: '2025-07-22T13:51:05.768Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Инвестиции в складские помещения в СПб: Полное руководство от ButlerSPB'
+  description: >-
+    Рынок складской недвижимости Санкт-Петербурга переживает бум. В нашей новой
+    статье мы разбираем, почему инвестиции в склады сегодня — это выгодное
+    вложение. Анализ текущей ситуации, прогнозы роста, ключевые риски и советы
+    от экспертов ButlerSPB для тех, кто хочет выгодно инвестировать в
+    коммерческую недвижимость в СПб.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.9'
+    reviewCount: 406
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/investicii-v-skladskie-pomescheniya-v-spb/
 ---
 
 # Инвестиции в складские помещения в Санкт-Петербурге: полный гид для инвестора в 2024 году

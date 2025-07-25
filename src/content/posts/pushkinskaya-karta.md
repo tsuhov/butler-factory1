@@ -1,11 +1,40 @@
 ---
-title: "Пушкинская карта: ваш гид по культуре СПб"
-description: "Узнайте всё о Пушкинской карте: как оформить, какой лимит в этом году и куда сходить молодежи от 14 до 22 лет. Лучшие события Санкт-Петербурга уже ждут вас!"
-keywords: "Пушкинская карта, ButlerSPB, афиша спб, культурная жизнь, бесплатные билеты, молодежь, куда сходить в питере"
-pubDate: "2025-07-25T16:39:33.978Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Пушкинская карта: ваш гид по культуре СПб","description":"Узнайте всё о Пушкинской карте: как оформить, какой лимит в этом году и куда сходить молодежи от 14 до 22 лет. Лучшие события Санкт-Петербурга уже ждут вас!","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.8","reviewCount":732,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/pushkinskaya-karta/"}}
+title: 'Пушкинская карта: ваш гид по культуре СПб'
+description: >-
+  Узнайте всё о Пушкинской карте: как оформить, какой лимит в этом году и куда
+  сходить молодежи от 14 до 22 лет. Лучшие события Санкт-Петербурга уже ждут
+  вас!
+pubDate: '2025-07-25T16:39:33.978Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Пушкинская карта: ваш гид по культуре СПб'
+  description: >-
+    Узнайте всё о Пушкинской карте: как оформить, какой лимит в этом году и куда
+    сходить молодежи от 14 до 22 лет. Лучшие события Санкт-Петербурга уже ждут
+    вас!
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.8'
+    reviewCount: 593
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': 'https://butlerspb-blog.netlify.app/blog/pushkinskaya-karta/'
 ---
 # Пушкинская карта: ваш бесплатный пропуск в мир культуры Санкт-Петербурга
 

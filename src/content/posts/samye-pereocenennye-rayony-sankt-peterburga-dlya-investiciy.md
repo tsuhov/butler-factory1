@@ -1,10 +1,47 @@
 ---
-title: "Самые переоцененные районы Санкт-Петербурга для инвестиций"
-description: "Центральный, Петроградский, Адмиралтейский... Эти названия звучат как синонимы престижа и гарантированной доходности. Но так ли это на самом деле? В новой статье от ButlerSPB мы разбираем, почему инвестиции в самые известные районы Петербурга могут оказаться не такими выгодными, как кажется. Анализируем скрытые риски, завышенные цены и реальный потенциал, чтобы вы могли вложить деньги с умом, а не под влиянием стереотипов."
-pubDate: "2025-07-23T10:46:08.082Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Самые переоцененные районы Санкт-Петербурга для инвестиций","description":"Центральный, Петроградский, Адмиралтейский... Эти названия звучат как синонимы престижа и гарантированной доходности. Но так ли это на самом деле? В новой статье от ButlerSPB мы разбираем, почему инвестиции в самые известные районы Петербурга могут оказаться не такими выгодными, как кажется. Анализируем скрытые риски, завышенные цены и реальный потенциал, чтобы вы могли вложить деньги с умом, а не под влиянием стереотипов.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.8","reviewCount":400,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/samye-pereocenennye-rayony-sankt-peterburga-dlya-investiciy/"}}
+title: Самые переоцененные районы Санкт-Петербурга для инвестиций
+description: >-
+  Центральный, Петроградский, Адмиралтейский... Эти названия звучат как синонимы
+  престижа и гарантированной доходности. Но так ли это на самом деле? В новой
+  статье от ButlerSPB мы разбираем, почему инвестиции в самые известные районы
+  Петербурга могут оказаться не такими выгодными, как кажется. Анализируем
+  скрытые риски, завышенные цены и реальный потенциал, чтобы вы могли вложить
+  деньги с умом, а не под влиянием стереотипов.
+pubDate: '2025-07-23T10:46:08.082Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: Самые переоцененные районы Санкт-Петербурга для инвестиций
+  description: >-
+    Центральный, Петроградский, Адмиралтейский... Эти названия звучат как
+    синонимы престижа и гарантированной доходности. Но так ли это на самом деле?
+    В новой статье от ButlerSPB мы разбираем, почему инвестиции в самые
+    известные районы Петербурга могут оказаться не такими выгодными, как
+    кажется. Анализируем скрытые риски, завышенные цены и реальный потенциал,
+    чтобы вы могли вложить деньги с умом, а не под влиянием стереотипов.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.8'
+    reviewCount: 736
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/samye-pereocenennye-rayony-sankt-peterburga-dlya-investiciy/
 ---
 
 # Инвестиционный капкан: 5 самых переоцененных районов Петербурга для покупки квартиры

@@ -1,11 +1,40 @@
 ---
-title: "Консьерж-батлер: элитный сервис от ButlerSPB"
-description: "Консьерж-батлер от ButlerSPB — это больше, чем помощник. Он решает любые задачи: от бронирования столика до организации мероприятий. Ваш комфорт — наша забота."
-keywords: "консьерж-батлер, услуги батлера, личный помощник, консьерж-сервис, ButlerSPB, элитный сервис, батлер спб"
-pubDate: "2025-07-24T13:41:09.160Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Консьерж-батлер: элитный сервис от ButlerSPB","description":"Консьерж-батлер от ButlerSPB — это больше, чем помощник. Он решает любые задачи: от бронирования столика до организации мероприятий. Ваш комфорт — наша забота.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"5.0","reviewCount":687,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/concierge-batler/"}}
+title: 'Консьерж-батлер: элитный сервис от ButlerSPB'
+description: >-
+  Консьерж-батлер от ButlerSPB — это больше, чем помощник. Он решает любые
+  задачи: от бронирования столика до организации мероприятий. Ваш комфорт — наша
+  забота.
+pubDate: '2025-07-24T13:41:09.160Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Консьерж-батлер: элитный сервис от ButlerSPB'
+  description: >-
+    Консьерж-батлер от ButlerSPB — это больше, чем помощник. Он решает любые
+    задачи: от бронирования столика до организации мероприятий. Ваш комфорт —
+    наша забота.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.8'
+    reviewCount: 460
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': 'https://butlerspb-blog.netlify.app/blog/concierge-batler/'
 ---
 # Консьерж-батлер: Не просто помощник, а архитектор вашего времени и комфорта
 

@@ -1,11 +1,41 @@
 ---
-title: "Блокчейн в недвижимости: революция или хайп?"
-description: "Разбираемся, сможет ли технология блокчейн изменить рынок недвижимости. Плюсы, минусы и подводные камни токенизации активов. Аналитика от экспертов ButlerSPB."
-keywords: "блокчейн, недвижимость, сделки с недвижимостью, токенизация, смарт-контракт, ButlerSPB, цифровые активы"
-pubDate: "2025-07-24T12:06:56.250Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Блокчейн в недвижимости: революция или хайп?","description":"Разбираемся, сможет ли технология блокчейн изменить рынок недвижимости. Плюсы, минусы и подводные камни токенизации активов. Аналитика от экспертов ButlerSPB.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.8","reviewCount":744,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/blokcheyn-v-sdelkah-s-nedvizhimostyu-buduschee-ili-hayp/"}}
+title: 'Блокчейн в недвижимости: революция или хайп?'
+description: >-
+  Разбираемся, сможет ли технология блокчейн изменить рынок недвижимости. Плюсы,
+  минусы и подводные камни токенизации активов. Аналитика от экспертов
+  ButlerSPB.
+pubDate: '2025-07-24T12:06:56.250Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Блокчейн в недвижимости: революция или хайп?'
+  description: >-
+    Разбираемся, сможет ли технология блокчейн изменить рынок недвижимости.
+    Плюсы, минусы и подводные камни токенизации активов. Аналитика от экспертов
+    ButlerSPB.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.8'
+    reviewCount: 869
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/blokcheyn-v-sdelkah-s-nedvizhimostyu-buduschee-ili-hayp/
 ---
 # Блокчейн в сделках с недвижимостью: будущее или хайп? Экспертный разбор от ButlerSPB
 

@@ -1,10 +1,49 @@
 ---
-title: "Как максимизировать доход в новогодние каникулы: советы для владельцев недвижимости"
-description: "Новогодние праздники — золотое время для арендодателей. В новой статье блога ButlerSPB мы собрали проверенные стратегии, которые помогут вам увеличить прибыль от краткосрочной аренды в Санкт-Петербурге. Узнайте, как правильно установить цены, подготовить квартиру к приезду гостей и использовать праздничный ажиотаж для полной загрузки вашего объекта."
-pubDate: "2025-07-22T11:13:39.753Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Как максимизировать доход в новогодние каникулы: советы для владельцев недвижимости","description":"Новогодние праздники — золотое время для арендодателей. В новой статье блога ButlerSPB мы собрали проверенные стратегии, которые помогут вам увеличить прибыль от краткосрочной аренды в Санкт-Петербурге. Узнайте, как правильно установить цены, подготовить квартиру к приезду гостей и использовать праздничный ажиотаж для полной загрузки вашего объекта.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.8","reviewCount":390,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/kak-maksimizirovat-dohod-v-novogodnie-kanikuly/"}}
+title: >-
+  Как максимизировать доход в новогодние каникулы: советы для владельцев
+  недвижимости
+description: >-
+  Новогодние праздники — золотое время для арендодателей. В новой статье блога
+  ButlerSPB мы собрали проверенные стратегии, которые помогут вам увеличить
+  прибыль от краткосрочной аренды в Санкт-Петербурге. Узнайте, как правильно
+  установить цены, подготовить квартиру к приезду гостей и использовать
+  праздничный ажиотаж для полной загрузки вашего объекта.
+pubDate: '2025-07-22T11:13:39.753Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: >-
+    Как максимизировать доход в новогодние каникулы: советы для владельцев
+    недвижимости
+  description: >-
+    Новогодние праздники — золотое время для арендодателей. В новой статье блога
+    ButlerSPB мы собрали проверенные стратегии, которые помогут вам увеличить
+    прибыль от краткосрочной аренды в Санкт-Петербурге. Узнайте, как правильно
+    установить цены, подготовить квартиру к приезду гостей и использовать
+    праздничный ажиотаж для полной загрузки вашего объекта.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '5.0'
+    reviewCount: 386
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/kak-maksimizirovat-dohod-v-novogodnie-kanikuly/
 ---
 
 # Новогодний форсаж: Полное руководство по максимизации дохода в праздничные каникулы

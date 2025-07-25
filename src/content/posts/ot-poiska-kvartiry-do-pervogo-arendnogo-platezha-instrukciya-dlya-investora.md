@@ -1,10 +1,47 @@
 ---
-title: "От поиска квартиры до первого арендного платежа: инструкция для инвестора"
-description: "Инвестиции в недвижимость — надежный путь к пассивному доходу. Но как избежать подводных камней и быстро получить первую прибыль? В этой статье от ButlerSPB мы делимся пошаговым планом для инвестора: от выбора ликвидного объекта и его подготовки к аренде до поиска надежного жильца, юридически грамотного заключения договора и получения первого платежа. Превратите свою недвижимость в работающий актив с нашей инструкцией."
-pubDate: "2025-07-22T13:42:48.613Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"От поиска квартиры до первого арендного платежа: инструкция для инвестора","description":"Инвестиции в недвижимость — надежный путь к пассивному доходу. Но как избежать подводных камней и быстро получить первую прибыль? В этой статье от ButlerSPB мы делимся пошаговым планом для инвестора: от выбора ликвидного объекта и его подготовки к аренде до поиска надежного жильца, юридически грамотного заключения договора и получения первого платежа. Превратите свою недвижимость в работающий актив с нашей инструкцией.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.7","reviewCount":723,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/ot-poiska-kvartiry-do-pervogo-arendnogo-platezha-instrukciya-dlya-investora/"}}
+title: 'От поиска квартиры до первого арендного платежа: инструкция для инвестора'
+description: >-
+  Инвестиции в недвижимость — надежный путь к пассивному доходу. Но как избежать
+  подводных камней и быстро получить первую прибыль? В этой статье от ButlerSPB
+  мы делимся пошаговым планом для инвестора: от выбора ликвидного объекта и его
+  подготовки к аренде до поиска надежного жильца, юридически грамотного
+  заключения договора и получения первого платежа. Превратите свою недвижимость
+  в работающий актив с нашей инструкцией.
+pubDate: '2025-07-22T13:42:48.613Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'От поиска квартиры до первого арендного платежа: инструкция для инвестора'
+  description: >-
+    Инвестиции в недвижимость — надежный путь к пассивному доходу. Но как
+    избежать подводных камней и быстро получить первую прибыль? В этой статье от
+    ButlerSPB мы делимся пошаговым планом для инвестора: от выбора ликвидного
+    объекта и его подготовки к аренде до поиска надежного жильца, юридически
+    грамотного заключения договора и получения первого платежа. Превратите свою
+    недвижимость в работающий актив с нашей инструкцией.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '5.0'
+    reviewCount: 385
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/ot-poiska-kvartiry-do-pervogo-arendnogo-platezha-instrukciya-dlya-investora/
 ---
 
 # От поиска квартиры до первого арендного платежа: пошаговая инструкция для инвестора

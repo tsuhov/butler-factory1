@@ -1,11 +1,40 @@
 ---
-title: "Ключевые аспекты законодательства об аренде"
-description: "Рассмотрим основы законодательства об аренде. Узнайте о правах и обязанностях арендатора и арендодателя, ключевых пунктах договора и юридических аспектах сделки."
-keywords: "аренда жилья, законодательство, договор аренды, права арендатора, обязанности арендодателя, ButlerSPB"
-pubDate: "2025-07-25T16:08:33.597Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Ключевые аспекты законодательства об аренде","description":"Рассмотрим основы законодательства об аренде. Узнайте о правах и обязанностях арендатора и арендодателя, ключевых пунктах договора и юридических аспектах сделки.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":812,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/zakonodatelstvo-arenda/"}}
+title: Ключевые аспекты законодательства об аренде
+description: >-
+  Рассмотрим основы законодательства об аренде. Узнайте о правах и обязанностях
+  арендатора и арендодателя, ключевых пунктах договора и юридических аспектах
+  сделки.
+pubDate: '2025-07-25T16:08:33.597Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: Ключевые аспекты законодательства об аренде
+  description: >-
+    Рассмотрим основы законодательства об аренде. Узнайте о правах и
+    обязанностях арендатора и арендодателя, ключевых пунктах договора и
+    юридических аспектах сделки.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '5.0'
+    reviewCount: 636
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': 'https://butlerspb-blog.netlify.app/blog/zakonodatelstvo-arenda/'
 ---
 # Сдаем квартиру по закону: Все, что нужно знать собственнику об аренде в 2024 году
 

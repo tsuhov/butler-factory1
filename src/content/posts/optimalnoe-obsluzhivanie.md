@@ -1,11 +1,40 @@
 ---
-title: "Оптимальное обслуживание: стандарты ButlerSPB"
-description: "Что такое оптимальное обслуживание и как его достичь? В ButlerSPB мы верим, что это предвосхищение потребностей и внимание к деталям. Узнайте наши принципы."
-keywords: "оптимальное обслуживание, butlerSPB, сервис, стандарты качества, клиентский опыт, премиум сервис, консьерж"
-pubDate: "2025-07-24T21:37:36.535Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Оптимальное обслуживание: стандарты ButlerSPB","description":"Что такое оптимальное обслуживание и как его достичь? В ButlerSPB мы верим, что это предвосхищение потребностей и внимание к деталям. Узнайте наши принципы.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":360,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/optimalnoe-obsluzhivanie/"}}
+title: 'Оптимальное обслуживание: стандарты ButlerSPB'
+description: >-
+  Что такое оптимальное обслуживание и как его достичь? В ButlerSPB мы верим,
+  что это предвосхищение потребностей и внимание к деталям. Узнайте наши
+  принципы.
+pubDate: '2025-07-24T21:37:36.535Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Оптимальное обслуживание: стандарты ButlerSPB'
+  description: >-
+    Что такое оптимальное обслуживание и как его достичь? В ButlerSPB мы верим,
+    что это предвосхищение потребностей и внимание к деталям. Узнайте наши
+    принципы.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.8'
+    reviewCount: 457
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': 'https://butlerspb-blog.netlify.app/blog/optimalnoe-obsluzhivanie/'
 ---
 # Оптимальное обслуживание вашей недвижимости: Инвестиция в спокойствие, а не траты на ремонт
 

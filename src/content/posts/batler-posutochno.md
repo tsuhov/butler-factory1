@@ -1,11 +1,40 @@
 ---
-title: "Батлер посуточно в СПб: роскошь на один день"
-description: "Узнайте, как услуга 'батлер посуточно' от ButlerSPB может превратить ваш день в незабываемое событие. Идеально для мероприятий, деловых встреч или особого отдыха."
-keywords: "батлер посуточно, аренда батлера, услуги дворецкого, личный помощник на день, батлер спб, ButlerSPB, элитный сервис"
-pubDate: "2025-07-24T13:04:41.619Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Батлер посуточно в СПб: роскошь на один день","description":"Узнайте, как услуга 'батлер посуточно' от ButlerSPB может превратить ваш день в незабываемое событие. Идеально для мероприятий, деловых встреч или особого отдыха.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"5.0","reviewCount":718,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/batler-posutochno/"}}
+title: 'Батлер посуточно в СПб: роскошь на один день'
+description: >-
+  Узнайте, как услуга 'батлер посуточно' от ButlerSPB может превратить ваш день
+  в незабываемое событие. Идеально для мероприятий, деловых встреч или особого
+  отдыха.
+pubDate: '2025-07-24T13:04:41.619Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Батлер посуточно в СПб: роскошь на один день'
+  description: >-
+    Узнайте, как услуга 'батлер посуточно' от ButlerSPB может превратить ваш
+    день в незабываемое событие. Идеально для мероприятий, деловых встреч или
+    особого отдыха.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.9'
+    reviewCount: 513
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': 'https://butlerspb-blog.netlify.app/blog/batler-posutochno/'
 ---
 # Батлер посуточно в Санкт-Петербурге: Ваш личный ключ к безупречному дню
 

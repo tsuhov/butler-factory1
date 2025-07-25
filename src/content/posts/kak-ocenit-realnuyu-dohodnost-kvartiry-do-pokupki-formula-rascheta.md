@@ -1,10 +1,47 @@
 ---
-title: "Как оценить реальную доходность квартиры до покупки: формула расчета"
-description: "Покупка квартиры для сдачи в аренду — популярная инвестиция. Но как понять, будет ли она действительно прибыльной? В новой статье блога ButlerSPB мы разбираем, как рассчитать чистую доходность объекта еще до сделки. Учитываем все расходы: от налогов и коммунальных платежей до амортизации и затрат на управление. Получите пошаговую инструкцию и готовую формулу, чтобы принять взвешенное решение и выбрать самый выгодный вариант."
-pubDate: "2025-07-22T20:16:38.821Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Как оценить реальную доходность квартиры до покупки: формула расчета","description":"Покупка квартиры для сдачи в аренду — популярная инвестиция. Но как понять, будет ли она действительно прибыльной? В новой статье блога ButlerSPB мы разбираем, как рассчитать чистую доходность объекта еще до сделки. Учитываем все расходы: от налогов и коммунальных платежей до амортизации и затрат на управление. Получите пошаговую инструкцию и готовую формулу, чтобы принять взвешенное решение и выбрать самый выгодный вариант.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":618,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/kak-ocenit-realnuyu-dohodnost-kvartiry-do-pokupki-formula-rascheta/"}}
+title: 'Как оценить реальную доходность квартиры до покупки: формула расчета'
+description: >-
+  Покупка квартиры для сдачи в аренду — популярная инвестиция. Но как понять,
+  будет ли она действительно прибыльной? В новой статье блога ButlerSPB мы
+  разбираем, как рассчитать чистую доходность объекта еще до сделки. Учитываем
+  все расходы: от налогов и коммунальных платежей до амортизации и затрат на
+  управление. Получите пошаговую инструкцию и готовую формулу, чтобы принять
+  взвешенное решение и выбрать самый выгодный вариант.
+pubDate: '2025-07-22T20:16:38.821Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Как оценить реальную доходность квартиры до покупки: формула расчета'
+  description: >-
+    Покупка квартиры для сдачи в аренду — популярная инвестиция. Но как понять,
+    будет ли она действительно прибыльной? В новой статье блога ButlerSPB мы
+    разбираем, как рассчитать чистую доходность объекта еще до сделки. Учитываем
+    все расходы: от налогов и коммунальных платежей до амортизации и затрат на
+    управление. Получите пошаговую инструкцию и готовую формулу, чтобы принять
+    взвешенное решение и выбрать самый выгодный вариант.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.9'
+    reviewCount: 625
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/kak-ocenit-realnuyu-dohodnost-kvartiry-do-pokupki-formula-rascheta/
 ---
 
 # Как оценить реальную доходность квартиры до покупки: формула расчета и чек-лист расходов

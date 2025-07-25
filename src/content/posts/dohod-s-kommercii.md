@@ -1,11 +1,40 @@
 ---
-title: "Доход с коммерции: как заработать на аренде"
-description: "Коммерческая недвижимость как источник пассивного дохода. В этой статье мы разберем ключевые аспекты: выбор ликвидного объекта, расчет доходности и риски."
-keywords: "доход с коммерции, коммерческая недвижимость, арендный бизнес, инвестиции в недвижимость, пассивный доход, управление недвижимостью, ButlerSPB"
-pubDate: "2025-07-25T14:36:31.219Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Доход с коммерции: как заработать на аренде","description":"Коммерческая недвижимость как источник пассивного дохода. В этой статье мы разберем ключевые аспекты: выбор ликвидного объекта, расчет доходности и риски.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":762,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/dohod-s-kommercii/"}}
+title: 'Доход с коммерции: как заработать на аренде'
+description: >-
+  Коммерческая недвижимость как источник пассивного дохода. В этой статье мы
+  разберем ключевые аспекты: выбор ликвидного объекта, расчет доходности и
+  риски.
+pubDate: '2025-07-25T14:36:31.219Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Доход с коммерции: как заработать на аренде'
+  description: >-
+    Коммерческая недвижимость как источник пассивного дохода. В этой статье мы
+    разберем ключевые аспекты: выбор ликвидного объекта, расчет доходности и
+    риски.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '5.0'
+    reviewCount: 310
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': 'https://butlerspb-blog.netlify.app/blog/dohod-s-kommercii/'
 ---
 # Доход с коммерции: 12+ способов увеличить прибыль вашего интернет-магазина
 

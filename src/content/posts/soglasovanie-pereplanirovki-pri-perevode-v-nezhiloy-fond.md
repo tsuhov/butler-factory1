@@ -1,10 +1,47 @@
 ---
-title: "Согласование перепланировки при переводе в нежилой фонд"
-description: "Перевод квартиры в коммерческую недвижимость — многоэтапный процесс, требующий не только юридической грамотности, но и понимания строительных норм. В нашей новой статье для блога ButlerSPB мы подробно разбираем все шаги согласования перепланировки при переводе объекта в нежилой фонд: от разработки проекта до получения финальных документов. Узнайте, как избежать отказов и сэкономить время и ресурсы."
-pubDate: "2025-07-23T12:15:56.977Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Согласование перепланировки при переводе в нежилой фонд","description":"Перевод квартиры в коммерческую недвижимость — многоэтапный процесс, требующий не только юридической грамотности, но и понимания строительных норм. В нашей новой статье для блога ButlerSPB мы подробно разбираем все шаги согласования перепланировки при переводе объекта в нежилой фонд: от разработки проекта до получения финальных документов. Узнайте, как избежать отказов и сэкономить время и ресурсы.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":651,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/soglasovanie-pereplanirovki-pri-perevode-v-nezhiloy-fond/"}}
+title: Согласование перепланировки при переводе в нежилой фонд
+description: >-
+  Перевод квартиры в коммерческую недвижимость — многоэтапный процесс, требующий
+  не только юридической грамотности, но и понимания строительных норм. В нашей
+  новой статье для блога ButlerSPB мы подробно разбираем все шаги согласования
+  перепланировки при переводе объекта в нежилой фонд: от разработки проекта до
+  получения финальных документов. Узнайте, как избежать отказов и сэкономить
+  время и ресурсы.
+pubDate: '2025-07-23T12:15:56.977Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: Согласование перепланировки при переводе в нежилой фонд
+  description: >-
+    Перевод квартиры в коммерческую недвижимость — многоэтапный процесс,
+    требующий не только юридической грамотности, но и понимания строительных
+    норм. В нашей новой статье для блога ButlerSPB мы подробно разбираем все
+    шаги согласования перепланировки при переводе объекта в нежилой фонд: от
+    разработки проекта до получения финальных документов. Узнайте, как избежать
+    отказов и сэкономить время и ресурсы.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.7'
+    reviewCount: 739
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/soglasovanie-pereplanirovki-pri-perevode-v-nezhiloy-fond/
 ---
 
 # Согласование перепланировки при переводе в нежилой фонд в СПб: Полное руководство от ButlerSPB

@@ -1,10 +1,43 @@
 ---
-title: "Что такое стрит-ритейл и как на нем заработать в Санкт-Петербурге"
-description: "Инвестиции в стрит-ритейл Санкт-Петербурга: что это, почему выгодно и как выбрать ликвидное помещение для стабильного арендного дохода. Разбираемся в особенностях рынка коммерческой недвижимости Северной столицы вместе с экспертами ButlerSPB."
-pubDate: "2025-07-22T13:59:59.407Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Что такое стрит-ритейл и как на нем заработать в Санкт-Петербурге","description":"Инвестиции в стрит-ритейл Санкт-Петербурга: что это, почему выгодно и как выбрать ликвидное помещение для стабильного арендного дохода. Разбираемся в особенностях рынка коммерческой недвижимости Северной столицы вместе с экспертами ButlerSPB.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":854,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/chto-takoe-strit-riteyl-i-kak-na-nem-zarabotat-v-sankt-peterburge/"}}
+title: Что такое стрит-ритейл и как на нем заработать в Санкт-Петербурге
+description: >-
+  Инвестиции в стрит-ритейл Санкт-Петербурга: что это, почему выгодно и как
+  выбрать ликвидное помещение для стабильного арендного дохода. Разбираемся в
+  особенностях рынка коммерческой недвижимости Северной столицы вместе с
+  экспертами ButlerSPB.
+pubDate: '2025-07-22T13:59:59.407Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: Что такое стрит-ритейл и как на нем заработать в Санкт-Петербурге
+  description: >-
+    Инвестиции в стрит-ритейл Санкт-Петербурга: что это, почему выгодно и как
+    выбрать ликвидное помещение для стабильного арендного дохода. Разбираемся в
+    особенностях рынка коммерческой недвижимости Северной столицы вместе с
+    экспертами ButlerSPB.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.8'
+    reviewCount: 849
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/chto-takoe-strit-riteyl-i-kak-na-nem-zarabotat-v-sankt-peterburge/
 ---
 
 # Что такое стрит-ритейл и как на нем заработать в Санкт-Петербурге: полный гид для инвестора и предпринимателя

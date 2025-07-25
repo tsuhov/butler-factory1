@@ -1,11 +1,40 @@
 ---
-title: "Коммерческие агенты: кто они и как работают"
-description: "Коммерческий агент – ключевой партнер для расширения бизнеса. В этой статье мы подробно разберем его функции, обязанности и как правильно выстроить с ним работу."
-keywords: "коммерческий агент, агентский договор, поиск клиентов, развитие бизнеса, продажи, представительство, ButlerSPB"
-pubDate: "2025-07-25T16:29:48.499Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Коммерческие агенты: кто они и как работают","description":"Коммерческий агент – ключевой партнер для расширения бизнеса. В этой статье мы подробно разберем его функции, обязанности и как правильно выстроить с ним работу.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"5.0","reviewCount":743,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/kommercheskie-agenty/"}}
+title: 'Коммерческие агенты: кто они и как работают'
+description: >-
+  Коммерческий агент – ключевой партнер для расширения бизнеса. В этой статье мы
+  подробно разберем его функции, обязанности и как правильно выстроить с ним
+  работу.
+pubDate: '2025-07-25T16:29:48.499Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Коммерческие агенты: кто они и как работают'
+  description: >-
+    Коммерческий агент – ключевой партнер для расширения бизнеса. В этой статье
+    мы подробно разберем его функции, обязанности и как правильно выстроить с
+    ним работу.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.8'
+    reviewCount: 416
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': 'https://butlerspb-blog.netlify.app/blog/kommercheskie-agenty/'
 ---
 # Коммерческий агент: как с его помощью масштабировать бизнес и не нажить проблем
 

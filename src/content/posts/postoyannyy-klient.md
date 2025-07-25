@@ -1,11 +1,40 @@
 ---
-title: "Постоянный клиент ButlerSPB: залог успеха"
-description: "Постоянные клиенты — это фундамент бизнеса. Узнайте, как мы в ButlerSPB выстраиваем долгосрочные отношения, повышаем лояльность и превращаем покупателей в партнеров."
-keywords: "постоянный клиент, лояльность клиентов, удержание клиентов, ButlerSPB, клиентский сервис, повторные продажи, отношения с клиентами"
-pubDate: "2025-07-24T22:01:22.926Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Постоянный клиент ButlerSPB: залог успеха","description":"Постоянные клиенты — это фундамент бизнеса. Узнайте, как мы в ButlerSPB выстраиваем долгосрочные отношения, повышаем лояльность и превращаем покупателей в партнеров.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":497,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/postoyannyy-klient/"}}
+title: 'Постоянный клиент ButlerSPB: залог успеха'
+description: >-
+  Постоянные клиенты — это фундамент бизнеса. Узнайте, как мы в ButlerSPB
+  выстраиваем долгосрочные отношения, повышаем лояльность и превращаем
+  покупателей в партнеров.
+pubDate: '2025-07-24T22:01:22.926Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Постоянный клиент ButlerSPB: залог успеха'
+  description: >-
+    Постоянные клиенты — это фундамент бизнеса. Узнайте, как мы в ButlerSPB
+    выстраиваем долгосрочные отношения, повышаем лояльность и превращаем
+    покупателей в партнеров.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.8'
+    reviewCount: 632
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': 'https://butlerspb-blog.netlify.app/blog/postoyannyy-klient/'
 ---
 # Как превратить случайного покупателя в постоянного клиента: Полное руководство от ButlerSPB
 

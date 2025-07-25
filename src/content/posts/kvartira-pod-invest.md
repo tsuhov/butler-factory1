@@ -1,11 +1,39 @@
 ---
-title: "Квартира под инвест в СПБ: гайд от ButlerSPB"
-description: "Ищете квартиру для инвестиций в Санкт-Петербурге? Эксперты ButlerSPB делятся советами, как выбрать ликвидный объект, оценить доходность и избежать ошибок."
-keywords: "квартира под инвест, инвестиции в недвижимость, купить квартиру спб, доходная недвижимость, ButlerSPB, недвижимость санкт-петербург"
-pubDate: "2025-07-25T13:58:02.842Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Квартира под инвест в СПБ: гайд от ButlerSPB","description":"Ищете квартиру для инвестиций в Санкт-Петербурге? Эксперты ButlerSPB делятся советами, как выбрать ликвидный объект, оценить доходность и избежать ошибок.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":865,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/kvartira-pod-invest/"}}
+title: 'Квартира под инвест в СПБ: гайд от ButlerSPB'
+description: >-
+  Ищете квартиру для инвестиций в Санкт-Петербурге? Эксперты ButlerSPB делятся
+  советами, как выбрать ликвидный объект, оценить доходность и избежать ошибок.
+pubDate: '2025-07-25T13:58:02.842Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Квартира под инвест в СПБ: гайд от ButlerSPB'
+  description: >-
+    Ищете квартиру для инвестиций в Санкт-Петербурге? Эксперты ButlerSPB делятся
+    советами, как выбрать ликвидный объект, оценить доходность и избежать
+    ошибок.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.9'
+    reviewCount: 416
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': 'https://butlerspb-blog.netlify.app/blog/kvartira-pod-invest/'
 ---
 # Квартира под инвестиции в Санкт-Петербурге: Полное руководство по выбору и расчету доходности
 

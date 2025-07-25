@@ -1,10 +1,50 @@
 ---
-title: "Передача квартиры в управление: как выбрать надежную УК для посуточной аренды"
-description: "Хотите получать стабильный доход от посуточной аренды, не тратя на это личное время? Передача квартиры в управление — ваш ключ к пассивному заработку. В нашем новом гайде от ButlerSPB мы разбираем ключевые шаги выбора управляющей компании: на какие критерии смотреть, какие вопросы задавать на встрече и какие пункты в договоре защитят ваши интересы. Узнайте, как доверить свою недвижимость профессионалам и избежать подводных камней."
-pubDate: "2025-07-23T10:41:47.777Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Передача квартиры в управление: как выбрать надежную УК для посуточной аренды","description":"Хотите получать стабильный доход от посуточной аренды, не тратя на это личное время? Передача квартиры в управление — ваш ключ к пассивному заработку. В нашем новом гайде от ButlerSPB мы разбираем ключевые шаги выбора управляющей компании: на какие критерии смотреть, какие вопросы задавать на встрече и какие пункты в договоре защитят ваши интересы. Узнайте, как доверить свою недвижимость профессионалам и избежать подводных камней.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.7","reviewCount":860,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/peredacha-kvartiry-v-upravlenie-kak-vybrat-uk-dlya-posutochnoy-arendy/"}}
+title: 'Передача квартиры в управление: как выбрать надежную УК для посуточной аренды'
+description: >-
+  Хотите получать стабильный доход от посуточной аренды, не тратя на это личное
+  время? Передача квартиры в управление — ваш ключ к пассивному заработку. В
+  нашем новом гайде от ButlerSPB мы разбираем ключевые шаги выбора управляющей
+  компании: на какие критерии смотреть, какие вопросы задавать на встрече и
+  какие пункты в договоре защитят ваши интересы. Узнайте, как доверить свою
+  недвижимость профессионалам и избежать подводных камней.
+pubDate: '2025-07-23T10:41:47.777Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: >-
+    Передача квартиры в управление: как выбрать надежную УК для посуточной
+    аренды
+  description: >-
+    Хотите получать стабильный доход от посуточной аренды, не тратя на это
+    личное время? Передача квартиры в управление — ваш ключ к пассивному
+    заработку. В нашем новом гайде от ButlerSPB мы разбираем ключевые шаги
+    выбора управляющей компании: на какие критерии смотреть, какие вопросы
+    задавать на встрече и какие пункты в договоре защитят ваши интересы.
+    Узнайте, как доверить свою недвижимость профессионалам и избежать подводных
+    камней.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '5.0'
+    reviewCount: 393
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/peredacha-kvartiry-v-upravlenie-kak-vybrat-uk-dlya-posutochnoy-arendy/
 ---
 
 # Полное руководство: Как передать квартиру в управление и выбрать надежную компанию для посуточной аренды

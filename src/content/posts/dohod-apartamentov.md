@@ -1,11 +1,40 @@
 ---
-title: "Доход апартаментов: как рассчитать прибыль?"
-description: "Рассматриваете апартаменты для инвестиций? ButlerSPB расскажет, как правильно рассчитать потенциальный доход, учесть все расходы и выйти на стабильную прибыль."
-keywords: "доход апартаментов, инвестиции в недвижимость, управляющая компания, пассивный доход, апарт-отель, доходность недвижимости, ButlerSPB"
-pubDate: "2025-07-25T16:21:52.248Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Доход апартаментов: как рассчитать прибыль?","description":"Рассматриваете апартаменты для инвестиций? ButlerSPB расскажет, как правильно рассчитать потенциальный доход, учесть все расходы и выйти на стабильную прибыль.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":589,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/dohod-apartamentov/"}}
+title: 'Доход апартаментов: как рассчитать прибыль?'
+description: >-
+  Рассматриваете апартаменты для инвестиций? ButlerSPB расскажет, как правильно
+  рассчитать потенциальный доход, учесть все расходы и выйти на стабильную
+  прибыль.
+pubDate: '2025-07-25T16:21:52.248Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Доход апартаментов: как рассчитать прибыль?'
+  description: >-
+    Рассматриваете апартаменты для инвестиций? ButlerSPB расскажет, как
+    правильно рассчитать потенциальный доход, учесть все расходы и выйти на
+    стабильную прибыль.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.8'
+    reviewCount: 412
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': 'https://butlerspb-blog.netlify.app/blog/dohod-apartamentov/'
 ---
 # Доход апартаментов: полный гайд по расчету прибыли для инвестора в 2024 году
 

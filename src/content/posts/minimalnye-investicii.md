@@ -1,11 +1,40 @@
 ---
-title: "Инвестиции с нуля: ваш первый шаг к капиталу"
-description: "Узнайте, как начать инвестировать даже с небольшими деньгами. В этой статье мы рассмотрим простые и доступные инструменты для новичков и дадим практические советы."
-keywords: "минимальные инвестиции, инвестиции для начинающих, куда вложить деньги, начать инвестировать, инвестиции с нуля, финансовая грамотность"
-pubDate: "2025-07-25T16:28:12.911Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Инвестиции с нуля: ваш первый шаг к капиталу","description":"Узнайте, как начать инвестировать даже с небольшими деньгами. В этой статье мы рассмотрим простые и доступные инструменты для новичков и дадим практические советы.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.8","reviewCount":873,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/minimalnye-investicii/"}}
+title: 'Инвестиции с нуля: ваш первый шаг к капиталу'
+description: >-
+  Узнайте, как начать инвестировать даже с небольшими деньгами. В этой статье мы
+  рассмотрим простые и доступные инструменты для новичков и дадим практические
+  советы.
+pubDate: '2025-07-25T16:28:12.911Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Инвестиции с нуля: ваш первый шаг к капиталу'
+  description: >-
+    Узнайте, как начать инвестировать даже с небольшими деньгами. В этой статье
+    мы рассмотрим простые и доступные инструменты для новичков и дадим
+    практические советы.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.8'
+    reviewCount: 560
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': 'https://butlerspb-blog.netlify.app/blog/minimalnye-investicii/'
 ---
 # Минимальные инвестиции: Пошаговое руководство, как начать с 1000 рублей
 

@@ -1,11 +1,40 @@
 ---
-title: "Расходные материалы для бизнеса от ButlerSPB"
-description: "Выбор расходных материалов влияет на работу всего офиса. Наша статья расскажет, как сэкономить без ущерба качеству и какие расходники необходимы для бизнеса."
-keywords: "расходные материалы, расходники для офиса, купить расходники, ButlerSPB, канцтовары, снабжение офиса, картриджи"
-pubDate: "2025-07-25T15:35:20.334Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Расходные материалы для бизнеса от ButlerSPB","description":"Выбор расходных материалов влияет на работу всего офиса. Наша статья расскажет, как сэкономить без ущерба качеству и какие расходники необходимы для бизнеса.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":599,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/rashodnye-materialy/"}}
+title: Расходные материалы для бизнеса от ButlerSPB
+description: >-
+  Выбор расходных материалов влияет на работу всего офиса. Наша статья
+  расскажет, как сэкономить без ущерба качеству и какие расходники необходимы
+  для бизнеса.
+pubDate: '2025-07-25T15:35:20.334Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: Расходные материалы для бизнеса от ButlerSPB
+  description: >-
+    Выбор расходных материалов влияет на работу всего офиса. Наша статья
+    расскажет, как сэкономить без ущерба качеству и какие расходники необходимы
+    для бизнеса.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.9'
+    reviewCount: 531
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': 'https://butlerspb-blog.netlify.app/blog/rashodnye-materialy/'
 ---
 # Гид по расходным материалам для бизнеса: как выбрать, оптимизировать затраты и не потерять в качестве
 

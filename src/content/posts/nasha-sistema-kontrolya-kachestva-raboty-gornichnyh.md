@@ -1,10 +1,53 @@
 ---
-title: "Как ButlerSPB гарантирует идеальную чистоту: наша многоуровневая система контроля качества"
-description: "В ButlerSPB мы убеждены, что доверие клиента — это результат стабильно высокого качества. Именно поэтому мы разработали и внедрили собственную систему контроля работы горничных. В этой статье мы расскажем, из каких этапов она состоит: от строгого отбора и обучения персонала до использования детализированных чек-листов и сбора обратной связи после каждой уборки. Узнайте, как мы обеспечиваем безупречный результат и почему ваш дом в надежных руках."
-pubDate: "2025-07-22T11:03:43.460Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Как ButlerSPB гарантирует идеальную чистоту: наша многоуровневая система контроля качества","description":"В ButlerSPB мы убеждены, что доверие клиента — это результат стабильно высокого качества. Именно поэтому мы разработали и внедрили собственную систему контроля работы горничных. В этой статье мы расскажем, из каких этапов она состоит: от строгого отбора и обучения персонала до использования детализированных чек-листов и сбора обратной связи после каждой уборки. Узнайте, как мы обеспечиваем безупречный результат и почему ваш дом в надежных руках.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.8","reviewCount":777,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/nasha-sistema-kontrolya-kachestva-raboty-gornichnyh/"}}
+title: >-
+  Как ButlerSPB гарантирует идеальную чистоту: наша многоуровневая система
+  контроля качества
+description: >-
+  В ButlerSPB мы убеждены, что доверие клиента — это результат стабильно
+  высокого качества. Именно поэтому мы разработали и внедрили собственную
+  систему контроля работы горничных. В этой статье мы расскажем, из каких этапов
+  она состоит: от строгого отбора и обучения персонала до использования
+  детализированных чек-листов и сбора обратной связи после каждой уборки.
+  Узнайте, как мы обеспечиваем безупречный результат и почему ваш дом в надежных
+  руках.
+pubDate: '2025-07-22T11:03:43.460Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: >-
+    Как ButlerSPB гарантирует идеальную чистоту: наша многоуровневая система
+    контроля качества
+  description: >-
+    В ButlerSPB мы убеждены, что доверие клиента — это результат стабильно
+    высокого качества. Именно поэтому мы разработали и внедрили собственную
+    систему контроля работы горничных. В этой статье мы расскажем, из каких
+    этапов она состоит: от строгого отбора и обучения персонала до использования
+    детализированных чек-листов и сбора обратной связи после каждой уборки.
+    Узнайте, как мы обеспечиваем безупречный результат и почему ваш дом в
+    надежных руках.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.8'
+    reviewCount: 743
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/nasha-sistema-kontrolya-kachestva-raboty-gornichnyh/
 ---
 
 # Гарантия безупречной чистоты: Как работает многоуровневая система контроля качества горничных в ButlerSPB

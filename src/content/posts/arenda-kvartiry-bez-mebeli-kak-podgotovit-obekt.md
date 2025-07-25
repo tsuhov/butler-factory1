@@ -1,10 +1,47 @@
 ---
-title: "Аренда квартиры без мебели: как подготовить объект и сдать его выгоднее"
-description: "Многие собственники считают, что подготовка пустой квартиры к аренде не требует усилий. Однако именно от состояния 'голых стен' зависит, как быстро вы найдете хорошего арендатора и по какой цене сможете сдать объект. В новом материале блога ButlerSPB мы делимся пошаговой инструкцией: от необходимого косметического ремонта и выбора базовой техники до проведения генеральной уборки, которая в разы повысит привлекательность вашей недвижимости."
-pubDate: "2025-07-22T20:16:27.608Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Аренда квартиры без мебели: как подготовить объект и сдать его выгоднее","description":"Многие собственники считают, что подготовка пустой квартиры к аренде не требует усилий. Однако именно от состояния 'голых стен' зависит, как быстро вы найдете хорошего арендатора и по какой цене сможете сдать объект. В новом материале блога ButlerSPB мы делимся пошаговой инструкцией: от необходимого косметического ремонта и выбора базовой техники до проведения генеральной уборки, которая в разы повысит привлекательность вашей недвижимости.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":754,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/arenda-kvartiry-bez-mebeli-kak-podgotovit-obekt/"}}
+title: 'Аренда квартиры без мебели: как подготовить объект и сдать его выгоднее'
+description: >-
+  Многие собственники считают, что подготовка пустой квартиры к аренде не
+  требует усилий. Однако именно от состояния 'голых стен' зависит, как быстро вы
+  найдете хорошего арендатора и по какой цене сможете сдать объект. В новом
+  материале блога ButlerSPB мы делимся пошаговой инструкцией: от необходимого
+  косметического ремонта и выбора базовой техники до проведения генеральной
+  уборки, которая в разы повысит привлекательность вашей недвижимости.
+pubDate: '2025-07-22T20:16:27.608Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Аренда квартиры без мебели: как подготовить объект и сдать его выгоднее'
+  description: >-
+    Многие собственники считают, что подготовка пустой квартиры к аренде не
+    требует усилий. Однако именно от состояния 'голых стен' зависит, как быстро
+    вы найдете хорошего арендатора и по какой цене сможете сдать объект. В новом
+    материале блога ButlerSPB мы делимся пошаговой инструкцией: от необходимого
+    косметического ремонта и выбора базовой техники до проведения генеральной
+    уборки, которая в разы повысит привлекательность вашей недвижимости.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.8'
+    reviewCount: 882
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/arenda-kvartiry-bez-mebeli-kak-podgotovit-obekt/
 ---
 
 # Как подготовить квартиру к сдаче без мебели: Полное руководство для собственника от ButlerSPB

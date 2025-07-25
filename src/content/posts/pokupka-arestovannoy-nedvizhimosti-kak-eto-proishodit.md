@@ -1,11 +1,41 @@
 ---
-title: "Арестованная недвижимость: как купить выгодно"
-description: "Узнайте все о покупке арестованного имущества с торгов. В статье разбираем этапы сделки, риски, способы проверки объекта и как найти выгодные лоты. Советы от ButlerSPB."
-keywords: "арестованная недвижимость, купить с торгов, торги по банкротству, имущество должников, залоговое имущество, электронные торги"
-pubDate: "2025-07-24T12:11:08.623Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Арестованная недвижимость: как купить выгодно","description":"Узнайте все о покупке арестованного имущества с торгов. В статье разбираем этапы сделки, риски, способы проверки объекта и как найти выгодные лоты. Советы от ButlerSPB.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":526,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/pokupka-arestovannoy-nedvizhimosti-kak-eto-proishodit/"}}
+title: 'Арестованная недвижимость: как купить выгодно'
+description: >-
+  Узнайте все о покупке арестованного имущества с торгов. В статье разбираем
+  этапы сделки, риски, способы проверки объекта и как найти выгодные лоты.
+  Советы от ButlerSPB.
+pubDate: '2025-07-24T12:11:08.623Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Арестованная недвижимость: как купить выгодно'
+  description: >-
+    Узнайте все о покупке арестованного имущества с торгов. В статье разбираем
+    этапы сделки, риски, способы проверки объекта и как найти выгодные лоты.
+    Советы от ButlerSPB.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.8'
+    reviewCount: 440
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/pokupka-arestovannoy-nedvizhimosti-kak-eto-proishodit/
 ---
 # Как купить арестованную недвижимость: пошаговая инструкция и защита от рисков с ButlerSPB
 

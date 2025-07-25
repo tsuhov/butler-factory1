@@ -1,10 +1,51 @@
 ---
-title: "Как получить налоговый вычет при покупке квартиры в ипотеку: полное руководство от ButlerSPB"
-description: "Купили квартиру в ипотеку? Государство готово вернуть вам часть потраченных денег! В этой статье мы подробно разбираем, как работает налоговый вычет на недвижимость и на проценты по ипотеке. Узнайте, кто может претендовать на возврат до 650 000 рублей, какие документы для этого понадобятся, и как пошагово оформить вычет через работодателя или налоговую инспекцию. Понятная инструкция от ButlerSPB, которая поможет вам сэкономить."
-pubDate: "2025-07-23T11:34:34.626Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Как получить налоговый вычет при покупке квартиры в ипотеку: полное руководство от ButlerSPB","description":"Купили квартиру в ипотеку? Государство готово вернуть вам часть потраченных денег! В этой статье мы подробно разбираем, как работает налоговый вычет на недвижимость и на проценты по ипотеке. Узнайте, кто может претендовать на возврат до 650 000 рублей, какие документы для этого понадобятся, и как пошагово оформить вычет через работодателя или налоговую инспекцию. Понятная инструкция от ButlerSPB, которая поможет вам сэкономить.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.7","reviewCount":461,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/nalogovyy-vychet-pri-pokupke-kvartiry-v-ipoteku/"}}
+title: >-
+  Как получить налоговый вычет при покупке квартиры в ипотеку: полное
+  руководство от ButlerSPB
+description: >-
+  Купили квартиру в ипотеку? Государство готово вернуть вам часть потраченных
+  денег! В этой статье мы подробно разбираем, как работает налоговый вычет на
+  недвижимость и на проценты по ипотеке. Узнайте, кто может претендовать на
+  возврат до 650 000 рублей, какие документы для этого понадобятся, и как
+  пошагово оформить вычет через работодателя или налоговую инспекцию. Понятная
+  инструкция от ButlerSPB, которая поможет вам сэкономить.
+pubDate: '2025-07-23T11:34:34.626Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: >-
+    Как получить налоговый вычет при покупке квартиры в ипотеку: полное
+    руководство от ButlerSPB
+  description: >-
+    Купили квартиру в ипотеку? Государство готово вернуть вам часть потраченных
+    денег! В этой статье мы подробно разбираем, как работает налоговый вычет на
+    недвижимость и на проценты по ипотеке. Узнайте, кто может претендовать на
+    возврат до 650 000 рублей, какие документы для этого понадобятся, и как
+    пошагово оформить вычет через работодателя или налоговую инспекцию. Понятная
+    инструкция от ButlerSPB, которая поможет вам сэкономить.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.7'
+    reviewCount: 832
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/nalogovyy-vychet-pri-pokupke-kvartiry-v-ipoteku/
 ---
 
 # Возвращаем до 650 000 рублей: Полное руководство по налоговому вычету при покупке квартиры в ипотеку в 2024 году

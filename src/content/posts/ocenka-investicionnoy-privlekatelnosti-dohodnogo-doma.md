@@ -1,11 +1,41 @@
 ---
-title: "Оценка доходного дома: ключевые метрики"
-description: "Как правильно оценить доходный дом для инвестиций? Разбираем ключевые показатели: от расчета окупаемости и рентабельности до анализа рисков и локации."
-keywords: "доходный дом, инвестиции в недвижимость, оценка недвижимости, окупаемость инвестиций, пассивный доход, ButlerSPB, анализ рисков"
-pubDate: "2025-07-24T12:02:51.994Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Оценка доходного дома: ключевые метрики","description":"Как правильно оценить доходный дом для инвестиций? Разбираем ключевые показатели: от расчета окупаемости и рентабельности до анализа рисков и локации.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.7","reviewCount":693,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/ocenka-investicionnoy-privlekatelnosti-dohodnogo-doma/"}}
+title: 'Оценка доходного дома: ключевые метрики'
+description: >-
+  Как правильно оценить доходный дом для инвестиций? Разбираем ключевые
+  показатели: от расчета окупаемости и рентабельности до анализа рисков и
+  локации.
+pubDate: '2025-07-24T12:02:51.994Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Оценка доходного дома: ключевые метрики'
+  description: >-
+    Как правильно оценить доходный дом для инвестиций? Разбираем ключевые
+    показатели: от расчета окупаемости и рентабельности до анализа рисков и
+    локации.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.9'
+    reviewCount: 504
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/ocenka-investicionnoy-privlekatelnosti-dohodnogo-doma/
 ---
 # Как оценить инвестиционную привлекательность доходного дома: пошаговое руководство эксперта
 

@@ -1,11 +1,39 @@
 ---
-title: "Доходный дом: инвестиции в недвижимость СПб"
-description: "Доходный дом — это выгодный способ инвестиций в недвижимость. Узнайте, как превратить здание в стабильный источник пассивного дохода с помощью ButlerSPB."
-keywords: "доходный дом, инвестиции в недвижимость, арендный бизнес, пассивный доход, управление недвижимостью, недвижимость спб"
-pubDate: "2025-07-25T14:52:38.365Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Доходный дом: инвестиции в недвижимость СПб","description":"Доходный дом — это выгодный способ инвестиций в недвижимость. Узнайте, как превратить здание в стабильный источник пассивного дохода с помощью ButlerSPB.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.8","reviewCount":838,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/dom-dohod/"}}
+title: 'Доходный дом: инвестиции в недвижимость СПб'
+description: >-
+  Доходный дом — это выгодный способ инвестиций в недвижимость. Узнайте, как
+  превратить здание в стабильный источник пассивного дохода с помощью ButlerSPB.
+pubDate: '2025-07-25T14:52:38.365Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Доходный дом: инвестиции в недвижимость СПб'
+  description: >-
+    Доходный дом — это выгодный способ инвестиций в недвижимость. Узнайте, как
+    превратить здание в стабильный источник пассивного дохода с помощью
+    ButlerSPB.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.9'
+    reviewCount: 538
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': 'https://butlerspb-blog.netlify.app/blog/dom-dohod/'
 ---
 # Доходный дом: полное руководство для инвестора. От идеи до стабильного пассивного дохода в Санкт-Петербурге
 

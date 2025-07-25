@@ -1,11 +1,38 @@
 ---
-title: "Что делать в экстренных ситуациях: инструкция"
-description: "Неожиданные поломки, протечки или другие бытовые ЧП? Наша инструкция поможет вам не паниковать и правильно действовать в любой экстренной ситуации дома."
-keywords: "экстренная ситуация, безопасность, что делать, инструкция, помощь на дому, бытовая авария, ButlerSPB"
-pubDate: "2025-07-25T15:37:30.778Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Что делать в экстренных ситуациях: инструкция","description":"Неожиданные поломки, протечки или другие бытовые ЧП? Наша инструкция поможет вам не паниковать и правильно действовать в любой экстренной ситуации дома.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"5.0","reviewCount":875,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/ekstrennye-situacii/"}}
+title: 'Что делать в экстренных ситуациях: инструкция'
+description: >-
+  Неожиданные поломки, протечки или другие бытовые ЧП? Наша инструкция поможет
+  вам не паниковать и правильно действовать в любой экстренной ситуации дома.
+pubDate: '2025-07-25T15:37:30.778Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Что делать в экстренных ситуациях: инструкция'
+  description: >-
+    Неожиданные поломки, протечки или другие бытовые ЧП? Наша инструкция поможет
+    вам не паниковать и правильно действовать в любой экстренной ситуации дома.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '5.0'
+    reviewCount: 484
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': 'https://butlerspb-blog.netlify.app/blog/ekstrennye-situacii/'
 ---
 # Экстренные ситуации в Санкт-Петербурге: Ваш полный гид по безопасности и план действий
 

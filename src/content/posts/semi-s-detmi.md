@@ -1,10 +1,49 @@
 ---
-title: "Семья с детьми в большом городе: как ButlerSPB помогает создать уют и сохранить время для главного"
-description: "Воспитание детей – это радость, но и большой труд, особенно в ритме мегаполиса. Узнайте, как делегировать бытовые задачи профессионалам ButlerSPB, чтобы посвятить освободившееся время самому ценному – общению с близкими. В нашей новой статье мы делимся советами для родителей и рассказываем о сервисах, которые сделают вашу жизнь в Петербурге проще и счастливее."
-pubDate: "2025-07-22T00:55:41.980Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Семья с детьми в большом городе: как ButlerSPB помогает создать уют и сохранить время для главного","description":"Воспитание детей – это радость, но и большой труд, особенно в ритме мегаполиса. Узнайте, как делегировать бытовые задачи профессионалам ButlerSPB, чтобы посвятить освободившееся время самому ценному – общению с близкими. В нашей новой статье мы делимся советами для родителей и рассказываем о сервисах, которые сделают вашу жизнь в Петербурге проще и счастливее.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":828,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/semi-s-detmi/"}}
+title: >-
+  Семья с детьми в большом городе: как ButlerSPB помогает создать уют и
+  сохранить время для главного
+description: >-
+  Воспитание детей – это радость, но и большой труд, особенно в ритме
+  мегаполиса. Узнайте, как делегировать бытовые задачи профессионалам ButlerSPB,
+  чтобы посвятить освободившееся время самому ценному – общению с близкими. В
+  нашей новой статье мы делимся советами для родителей и рассказываем о
+  сервисах, которые сделают вашу жизнь в Петербурге проще и счастливее.
+pubDate: '2025-07-22T00:55:41.980Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: >-
+    Семья с детьми в большом городе: как ButlerSPB помогает создать уют и
+    сохранить время для главного
+  description: >-
+    Воспитание детей – это радость, но и большой труд, особенно в ритме
+    мегаполиса. Узнайте, как делегировать бытовые задачи профессионалам
+    ButlerSPB, чтобы посвятить освободившееся время самому ценному – общению с
+    близкими. В нашей новой статье мы делимся советами для родителей и
+    рассказываем о сервисах, которые сделают вашу жизнь в Петербурге проще и
+    счастливее.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.7'
+    reviewCount: 502
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': 'https://butlerspb-blog.netlify.app/blog/semi-s-detmi/'
 ---
 
 # Жизнь с детьми в Петербурге: Как перестать выживать и начать наслаждаться (Гайд для современных родителей)

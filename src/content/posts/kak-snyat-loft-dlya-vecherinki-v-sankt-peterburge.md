@@ -1,10 +1,49 @@
 ---
-title: "Как снять лофт для вечеринки в Санкт-Петербурге: полное руководство от ButlerSPB"
-description: "Планируете незабываемую вечеринку в Санкт-Петербурге? Лофт — идеальное решение! В нашей новой статье команда ButlerSPB делится пошаговой инструкцией: как выбрать идеальное пространство, на что обратить внимание при бронировании и как избежать типичных ошибок. Узнайте все секреты организации идеального праздника в лофте!"
-pubDate: "2025-07-23T13:45:33.274Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Как снять лофт для вечеринки в Санкт-Петербурге: полное руководство от ButlerSPB","description":"Планируете незабываемую вечеринку в Санкт-Петербурге? Лофт — идеальное решение! В нашей новой статье команда ButlerSPB делится пошаговой инструкцией: как выбрать идеальное пространство, на что обратить внимание при бронировании и как избежать типичных ошибок. Узнайте все секреты организации идеального праздника в лофте!","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"5.0","reviewCount":733,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/kak-snyat-loft-dlya-vecherinki-v-sankt-peterburge/"}}
+title: >-
+  Как снять лофт для вечеринки в Санкт-Петербурге: полное руководство от
+  ButlerSPB
+description: >-
+  Планируете незабываемую вечеринку в Санкт-Петербурге? Лофт — идеальное
+  решение! В нашей новой статье команда ButlerSPB делится пошаговой инструкцией:
+  как выбрать идеальное пространство, на что обратить внимание при бронировании
+  и как избежать типичных ошибок. Узнайте все секреты организации идеального
+  праздника в лофте!
+pubDate: '2025-07-23T13:45:33.274Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: >-
+    Как снять лофт для вечеринки в Санкт-Петербурге: полное руководство от
+    ButlerSPB
+  description: >-
+    Планируете незабываемую вечеринку в Санкт-Петербурге? Лофт — идеальное
+    решение! В нашей новой статье команда ButlerSPB делится пошаговой
+    инструкцией: как выбрать идеальное пространство, на что обратить внимание
+    при бронировании и как избежать типичных ошибок. Узнайте все секреты
+    организации идеального праздника в лофте!
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '5.0'
+    reviewCount: 322
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/kak-snyat-loft-dlya-vecherinki-v-sankt-peterburge/
 ---
 
 # Как снять лофт для вечеринки в Санкт-Петербурге: подробное руководство от экспертов ButlerSPB

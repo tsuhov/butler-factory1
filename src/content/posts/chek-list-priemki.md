@@ -1,11 +1,38 @@
 ---
-title: "Приемка квартиры: полный чек-лист от ButlerSPB"
-description: "Приемка новой квартиры у застройщика – важный этап. Наш подробный чек-лист поможет вам внимательно осмотреть жилье и не упустить ни одной детали."
-keywords: "приемка квартиры, чек-лист приемки, новостройка, приемка у застройщика, акт приема-передачи, ButlerSPB, скрытые дефекты"
-pubDate: "2025-07-25T14:20:24.523Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Приемка квартиры: полный чек-лист от ButlerSPB","description":"Приемка новой квартиры у застройщика – важный этап. Наш подробный чек-лист поможет вам внимательно осмотреть жилье и не упустить ни одной детали.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.8","reviewCount":578,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/chek-list-priemki/"}}
+title: 'Приемка квартиры: полный чек-лист от ButlerSPB'
+description: >-
+  Приемка новой квартиры у застройщика – важный этап. Наш подробный чек-лист
+  поможет вам внимательно осмотреть жилье и не упустить ни одной детали.
+pubDate: '2025-07-25T14:20:24.523Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Приемка квартиры: полный чек-лист от ButlerSPB'
+  description: >-
+    Приемка новой квартиры у застройщика – важный этап. Наш подробный чек-лист
+    поможет вам внимательно осмотреть жилье и не упустить ни одной детали.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '5.0'
+    reviewCount: 318
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': 'https://butlerspb-blog.netlify.app/blog/chek-list-priemki/'
 ---
 # Полный чек-лист приемки квартиры: от документов до скрытых дефектов. Гайд от экспертов ButlerSPB
 

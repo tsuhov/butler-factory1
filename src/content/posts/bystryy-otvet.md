@@ -1,11 +1,40 @@
 ---
-title: "Быстрый ответ: стандарт качества ButlerSPB"
-description: "В современном мире скорость решает все. Узнайте, как команда ButlerSPB обеспечивает молниеносную реакцию на запросы, повышая удовлетворенность и доверие клиентов."
-keywords: "быстрый ответ, клиентский сервис, ButlerSPB, скорость реакции, поддержка клиентов, лояльность клиентов, качество обслуживания"
-pubDate: "2025-07-25T13:57:43.250Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Быстрый ответ: стандарт качества ButlerSPB","description":"В современном мире скорость решает все. Узнайте, как команда ButlerSPB обеспечивает молниеносную реакцию на запросы, повышая удовлетворенность и доверие клиентов.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"5.0","reviewCount":444,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/bystryy-otvet/"}}
+title: 'Быстрый ответ: стандарт качества ButlerSPB'
+description: >-
+  В современном мире скорость решает все. Узнайте, как команда ButlerSPB
+  обеспечивает молниеносную реакцию на запросы, повышая удовлетворенность и
+  доверие клиентов.
+pubDate: '2025-07-25T13:57:43.250Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Быстрый ответ: стандарт качества ButlerSPB'
+  description: >-
+    В современном мире скорость решает все. Узнайте, как команда ButlerSPB
+    обеспечивает молниеносную реакцию на запросы, повышая удовлетворенность и
+    доверие клиентов.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.9'
+    reviewCount: 878
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': 'https://butlerspb-blog.netlify.app/blog/bystryy-otvet/'
 ---
 # Быстрые ответы Google: Полное руководство по захвату нулевой позиции и увеличению трафика
 

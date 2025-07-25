@@ -1,11 +1,40 @@
 ---
-title: "Безопасность гостей: наш главный приоритет"
-description: "В ButlerSPB мы ставим безопасность наших гостей на первое место. От проверки объектов до круглосуточной поддержки — мы делаем все, чтобы ваше пребывание было комфортным и беззаботным."
-keywords: "безопасность гостей, ButlerSPB, аренда квартир, Санкт-Петербург, безопасное проживание, комфорт, поддержка 24/7"
-pubDate: "2025-07-25T15:12:16.352Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Безопасность гостей: наш главный приоритет","description":"В ButlerSPB мы ставим безопасность наших гостей на первое место. От проверки объектов до круглосуточной поддержки — мы делаем все, чтобы ваше пребывание было комфортным и беззаботным.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":629,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/bezopasnost-gostey/"}}
+title: 'Безопасность гостей: наш главный приоритет'
+description: >-
+  В ButlerSPB мы ставим безопасность наших гостей на первое место. От проверки
+  объектов до круглосуточной поддержки — мы делаем все, чтобы ваше пребывание
+  было комфортным и беззаботным.
+pubDate: '2025-07-25T15:12:16.352Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Безопасность гостей: наш главный приоритет'
+  description: >-
+    В ButlerSPB мы ставим безопасность наших гостей на первое место. От проверки
+    объектов до круглосуточной поддержки — мы делаем все, чтобы ваше пребывание
+    было комфортным и беззаботным.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.9'
+    reviewCount: 741
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': 'https://butlerspb-blog.netlify.app/blog/bezopasnost-gostey/'
 ---
 # Ваш гид по безопасности в арендованных апартаментах: Экспертные советы от ButlerSPB
 

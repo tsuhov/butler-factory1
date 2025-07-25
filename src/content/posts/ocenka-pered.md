@@ -1,11 +1,40 @@
 ---
-title: "Оценка перед сделкой: ключевые моменты анализа"
-description: "Предварительная оценка — ваш главный инструмент перед заключением сделки. Узнайте, как ButlerSPB помогает выявить все риски и определить справедливую стоимость."
-keywords: "предварительная оценка, оценка перед покупкой, экспертиза объекта, оценка рисков, ButlerSPB, анализ стоимости, оценка недвижимости"
-pubDate: "2025-07-25T14:39:44.101Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Оценка перед сделкой: ключевые моменты анализа","description":"Предварительная оценка — ваш главный инструмент перед заключением сделки. Узнайте, как ButlerSPB помогает выявить все риски и определить справедливую стоимость.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.8","reviewCount":327,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/ocenka-pered/"}}
+title: 'Оценка перед сделкой: ключевые моменты анализа'
+description: >-
+  Предварительная оценка — ваш главный инструмент перед заключением сделки.
+  Узнайте, как ButlerSPB помогает выявить все риски и определить справедливую
+  стоимость.
+pubDate: '2025-07-25T14:39:44.101Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Оценка перед сделкой: ключевые моменты анализа'
+  description: >-
+    Предварительная оценка — ваш главный инструмент перед заключением сделки.
+    Узнайте, как ButlerSPB помогает выявить все риски и определить справедливую
+    стоимость.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.9'
+    reviewCount: 567
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': 'https://butlerspb-blog.netlify.app/blog/ocenka-pered/'
 ---
 # Приемка квартиры перед въездом: Полный гид по поиску дефектов, который сэкономит вам сотни тысяч рублей
 

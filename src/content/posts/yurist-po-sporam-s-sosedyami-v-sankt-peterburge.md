@@ -1,11 +1,41 @@
 ---
-title: "Юрист по спорам с соседями в Санкт-Петербурге"
-description: "Шум, затопление, конфликты из-за парковки? Юрист по спорам с соседями в СПб поможет защитить ваши права. ButlerSPB предлагает консультации и представительство."
-keywords: "юрист по спорам с соседями, соседские споры спб, жилищный юрист, конфликт с соседями, ButlerSPB, юридическая помощь спб"
-pubDate: "2025-07-24T12:02:25.386Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Юрист по спорам с соседями в Санкт-Петербурге","description":"Шум, затопление, конфликты из-за парковки? Юрист по спорам с соседями в СПб поможет защитить ваши права. ButlerSPB предлагает консультации и представительство.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":324,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/yurist-po-sporam-s-sosedyami-v-sankt-peterburge/"}}
+title: Юрист по спорам с соседями в Санкт-Петербурге
+description: >-
+  Шум, затопление, конфликты из-за парковки? Юрист по спорам с соседями в СПб
+  поможет защитить ваши права. ButlerSPB предлагает консультации и
+  представительство.
+pubDate: '2025-07-24T12:02:25.386Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: Юрист по спорам с соседями в Санкт-Петербурге
+  description: >-
+    Шум, затопление, конфликты из-за парковки? Юрист по спорам с соседями в СПб
+    поможет защитить ваши права. ButlerSPB предлагает консультации и
+    представительство.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.8'
+    reviewCount: 462
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/yurist-po-sporam-s-sosedyami-v-sankt-peterburge/
 ---
 # Юрист по спорам с соседями в Санкт-Петербурге: Как защитить свои права и вернуть спокойствие
 

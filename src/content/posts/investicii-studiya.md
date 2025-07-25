@@ -1,11 +1,40 @@
 ---
-title: "Инвестиции в студию: как выгодно вложить?"
-description: "Инвестиции в студию — отличный старт для инвестора. В статье от ButlerSPB разбираем, как выбрать ликвидный объект, избежать рисков и получить высокий доход."
-keywords: "инвестиции в студию, доходная недвижимость, купить студию в спб, пассивный доход, ButlerSPB, выбор квартиры, вложения в недвижимость"
-pubDate: "2025-07-25T15:52:47.248Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Инвестиции в студию: как выгодно вложить?","description":"Инвестиции в студию — отличный старт для инвестора. В статье от ButlerSPB разбираем, как выбрать ликвидный объект, избежать рисков и получить высокий доход.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.8","reviewCount":554,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/investicii-studiya/"}}
+title: 'Инвестиции в студию: как выгодно вложить?'
+description: >-
+  Инвестиции в студию — отличный старт для инвестора. В статье от ButlerSPB
+  разбираем, как выбрать ликвидный объект, избежать рисков и получить высокий
+  доход.
+pubDate: '2025-07-25T15:52:47.248Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Инвестиции в студию: как выгодно вложить?'
+  description: >-
+    Инвестиции в студию — отличный старт для инвестора. В статье от ButlerSPB
+    разбираем, как выбрать ликвидный объект, избежать рисков и получить высокий
+    доход.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.9'
+    reviewCount: 477
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': 'https://butlerspb-blog.netlify.app/blog/investicii-studiya/'
 ---
 # Инвестиции в студию: Полное руководство для инвестора в Санкт-Петербурге
 

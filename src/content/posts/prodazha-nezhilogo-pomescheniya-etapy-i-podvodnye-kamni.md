@@ -1,10 +1,49 @@
 ---
-title: "Продажа нежилого помещения: этапы и подводные камни. Руководство от ButlerSPB"
-description: "Планируете продать коммерческую недвижимость? Эксперты ButlerSPB подготовили пошаговую инструкцию, которая поможет вам пройти все этапы сделки — от предпродажной подготовки и оценки объекта до подписания договора и регистрации права. В статье мы подробно разбираем ключевые моменты, необходимые документы и скрытые риски, чтобы вы могли заключить сделку максимально выгодно и безопасно."
-pubDate: "2025-07-22T15:34:49.843Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Продажа нежилого помещения: этапы и подводные камни. Руководство от ButlerSPB","description":"Планируете продать коммерческую недвижимость? Эксперты ButlerSPB подготовили пошаговую инструкцию, которая поможет вам пройти все этапы сделки — от предпродажной подготовки и оценки объекта до подписания договора и регистрации права. В статье мы подробно разбираем ключевые моменты, необходимые документы и скрытые риски, чтобы вы могли заключить сделку максимально выгодно и безопасно.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.8","reviewCount":319,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/prodazha-nezhilogo-pomescheniya-etapy-i-podvodnye-kamni/"}}
+title: 'Продажа нежилого помещения: этапы и подводные камни. Руководство от ButlerSPB'
+description: >-
+  Планируете продать коммерческую недвижимость? Эксперты ButlerSPB подготовили
+  пошаговую инструкцию, которая поможет вам пройти все этапы сделки — от
+  предпродажной подготовки и оценки объекта до подписания договора и регистрации
+  права. В статье мы подробно разбираем ключевые моменты, необходимые документы
+  и скрытые риски, чтобы вы могли заключить сделку максимально выгодно и
+  безопасно.
+pubDate: '2025-07-22T15:34:49.843Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: >-
+    Продажа нежилого помещения: этапы и подводные камни. Руководство от
+    ButlerSPB
+  description: >-
+    Планируете продать коммерческую недвижимость? Эксперты ButlerSPB подготовили
+    пошаговую инструкцию, которая поможет вам пройти все этапы сделки — от
+    предпродажной подготовки и оценки объекта до подписания договора и
+    регистрации права. В статье мы подробно разбираем ключевые моменты,
+    необходимые документы и скрытые риски, чтобы вы могли заключить сделку
+    максимально выгодно и безопасно.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '5.0'
+    reviewCount: 456
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/prodazha-nezhilogo-pomescheniya-etapy-i-podvodnye-kamni/
 ---
 
 # Продажа нежилого помещения: Полное руководство от А до Я – все этапы и подводные камни

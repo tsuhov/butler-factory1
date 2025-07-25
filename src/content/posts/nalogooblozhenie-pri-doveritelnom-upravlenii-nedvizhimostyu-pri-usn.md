@@ -1,10 +1,48 @@
 ---
-title: "Налогообложение при доверительном управлении недвижимостью на УСН: полное руководство для собственника"
-description: "Передали квартиру в доверительное управление и применяете УСН? Разбираемся во всех нюансах налогообложения. В статье от ButlerSPB вы узнаете, кто является налогоплательщиком, как правильно рассчитать налог с дохода от аренды, учесть комиссию управляющей компании и избежать ошибок при подаче декларации."
-pubDate: "2025-07-22T00:01:51.582Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Налогообложение при доверительном управлении недвижимостью на УСН: полное руководство для собственника","description":"Передали квартиру в доверительное управление и применяете УСН? Разбираемся во всех нюансах налогообложения. В статье от ButlerSPB вы узнаете, кто является налогоплательщиком, как правильно рассчитать налог с дохода от аренды, учесть комиссию управляющей компании и избежать ошибок при подаче декларации.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":610,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/nalogooblozhenie-pri-doveritelnom-upravlenii-nedvizhimostyu-pri-usn/"}}
+title: >-
+  Налогообложение при доверительном управлении недвижимостью на УСН: полное
+  руководство для собственника
+description: >-
+  Передали квартиру в доверительное управление и применяете УСН? Разбираемся во
+  всех нюансах налогообложения. В статье от ButlerSPB вы узнаете, кто является
+  налогоплательщиком, как правильно рассчитать налог с дохода от аренды, учесть
+  комиссию управляющей компании и избежать ошибок при подаче декларации.
+pubDate: '2025-07-22T00:01:51.582Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: >-
+    Налогообложение при доверительном управлении недвижимостью на УСН: полное
+    руководство для собственника
+  description: >-
+    Передали квартиру в доверительное управление и применяете УСН? Разбираемся
+    во всех нюансах налогообложения. В статье от ButlerSPB вы узнаете, кто
+    является налогоплательщиком, как правильно рассчитать налог с дохода от
+    аренды, учесть комиссию управляющей компании и избежать ошибок при подаче
+    декларации.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '5.0'
+    reviewCount: 804
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/nalogooblozhenie-pri-doveritelnom-upravlenii-nedvizhimostyu-pri-usn/
 ---
 
 # Налоги при доверительном управлении недвижимостью на УСН: полное руководство для собственника

@@ -1,10 +1,49 @@
 ---
-title: "Риэлтор по продаже промышленных объектов: ключевой партнер для вашего бизнеса"
-description: "Продажа промышленного объекта — это сложный процесс, требующий специальных знаний. В новой статье блога ButlerSPB разбираемся, чем риэлтор по промышленной недвижимости отличается от агента по жилым объектам, какими компетенциями он должен обладать и почему его участие — это не расход, а инвестиция в успешную сделку. Узнайте, как найти правильного специалиста для продажи вашего склада, завода или производственного комплекса."
-pubDate: "2025-07-23T12:19:52.721Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Риэлтор по продаже промышленных объектов: ключевой партнер для вашего бизнеса","description":"Продажа промышленного объекта — это сложный процесс, требующий специальных знаний. В новой статье блога ButlerSPB разбираемся, чем риэлтор по промышленной недвижимости отличается от агента по жилым объектам, какими компетенциями он должен обладать и почему его участие — это не расход, а инвестиция в успешную сделку. Узнайте, как найти правильного специалиста для продажи вашего склада, завода или производственного комплекса.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.8","reviewCount":813,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/rieltor-po-prodazhe-promyshlennyh-obektov/"}}
+title: 'Риэлтор по продаже промышленных объектов: ключевой партнер для вашего бизнеса'
+description: >-
+  Продажа промышленного объекта — это сложный процесс, требующий специальных
+  знаний. В новой статье блога ButlerSPB разбираемся, чем риэлтор по
+  промышленной недвижимости отличается от агента по жилым объектам, какими
+  компетенциями он должен обладать и почему его участие — это не расход, а
+  инвестиция в успешную сделку. Узнайте, как найти правильного специалиста для
+  продажи вашего склада, завода или производственного комплекса.
+pubDate: '2025-07-23T12:19:52.721Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: >-
+    Риэлтор по продаже промышленных объектов: ключевой партнер для вашего
+    бизнеса
+  description: >-
+    Продажа промышленного объекта — это сложный процесс, требующий специальных
+    знаний. В новой статье блога ButlerSPB разбираемся, чем риэлтор по
+    промышленной недвижимости отличается от агента по жилым объектам, какими
+    компетенциями он должен обладать и почему его участие — это не расход, а
+    инвестиция в успешную сделку. Узнайте, как найти правильного специалиста для
+    продажи вашего склада, завода или производственного комплекса.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.8'
+    reviewCount: 812
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/rieltor-po-prodazhe-promyshlennyh-obektov/
 ---
 
 # Риэлтор по продаже промышленных объектов: Как экспертный подход ButlerSPB экономит ваши деньги и время

@@ -1,11 +1,40 @@
 ---
-title: "ButlerSPB: как правильно отменить бронирование"
-description: "Планы могут измениться, и мы это понимаем. Узнайте все об условиях отмены бронирования в ButlerSPB, чтобы сделать этот процесс максимально простым и ясным."
-keywords: "отмена брони, ButlerSPB, правила отмены, возврат средств, отменить бронирование, апартаменты СПб, условия отмены"
-pubDate: "2025-07-25T16:09:08.233Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"ButlerSPB: как правильно отменить бронирование","description":"Планы могут измениться, и мы это понимаем. Узнайте все об условиях отмены бронирования в ButlerSPB, чтобы сделать этот процесс максимально простым и ясным.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.8","reviewCount":575,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/otmena-broni/"}}
+title: 'ButlerSPB: как правильно отменить бронирование'
+description: >-
+  Планы могут измениться, и мы это понимаем. Узнайте все об условиях отмены
+  бронирования в ButlerSPB, чтобы сделать этот процесс максимально простым и
+  ясным.
+pubDate: '2025-07-25T16:09:08.233Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'ButlerSPB: как правильно отменить бронирование'
+  description: >-
+    Планы могут измениться, и мы это понимаем. Узнайте все об условиях отмены
+    бронирования в ButlerSPB, чтобы сделать этот процесс максимально простым и
+    ясным.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.8'
+    reviewCount: 729
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': 'https://butlerspb-blog.netlify.app/blog/otmena-broni/'
 ---
 # Как отменить или перенести бронь в ButlerSPB: Полное руководство по условиям и возврату средств
 

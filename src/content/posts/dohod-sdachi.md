@@ -1,11 +1,40 @@
 ---
-title: "Доход от сдачи квартиры: как максимизировать?"
-description: "Узнайте, как превратить вашу недвижимость в стабильный источник дохода. Рассматриваем ключевые стратегии для увеличения прибыли от аренды квартиры в Санкт-Петербурге."
-keywords: "доход от сдачи, аренда квартиры, пассивный доход, управление недвижимостью, сдать квартиру спб, инвестиции в недвижимость"
-pubDate: "2025-07-25T15:44:24.790Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Доход от сдачи квартиры: как максимизировать?","description":"Узнайте, как превратить вашу недвижимость в стабильный источник дохода. Рассматриваем ключевые стратегии для увеличения прибыли от аренды квартиры в Санкт-Петербурге.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.7","reviewCount":586,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/dohod-sdachi/"}}
+title: 'Доход от сдачи квартиры: как максимизировать?'
+description: >-
+  Узнайте, как превратить вашу недвижимость в стабильный источник дохода.
+  Рассматриваем ключевые стратегии для увеличения прибыли от аренды квартиры в
+  Санкт-Петербурге.
+pubDate: '2025-07-25T15:44:24.790Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Доход от сдачи квартиры: как максимизировать?'
+  description: >-
+    Узнайте, как превратить вашу недвижимость в стабильный источник дохода.
+    Рассматриваем ключевые стратегии для увеличения прибыли от аренды квартиры в
+    Санкт-Петербурге.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '5.0'
+    reviewCount: 595
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': 'https://butlerspb-blog.netlify.app/blog/dohod-sdachi/'
 ---
 # Доход от сдачи квартиры: Полный гайд по расчету реальной прибыли для собственника в Санкт-Петербурге
 

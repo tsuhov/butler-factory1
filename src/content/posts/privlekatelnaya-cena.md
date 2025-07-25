@@ -1,11 +1,40 @@
 ---
-title: "Привлекательная цена: что за ней скрывается?"
-description: "В новой статье блога ButlerSPB разбираемся, что такое по-настоящему привлекательная цена. Мы расскажем, как формируется стоимость и почему низкая цена не всегда выгодна."
-keywords: "привлекательная цена, ценообразование, стоимость услуг, ButlerSPB, выгодное предложение, качество и цена, скидки"
-pubDate: "2025-07-25T16:33:48.924Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Привлекательная цена: что за ней скрывается?","description":"В новой статье блога ButlerSPB разбираемся, что такое по-настоящему привлекательная цена. Мы расскажем, как формируется стоимость и почему низкая цена не всегда выгодна.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":536,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/privlekatelnaya-cena/"}}
+title: 'Привлекательная цена: что за ней скрывается?'
+description: >-
+  В новой статье блога ButlerSPB разбираемся, что такое по-настоящему
+  привлекательная цена. Мы расскажем, как формируется стоимость и почему низкая
+  цена не всегда выгодна.
+pubDate: '2025-07-25T16:33:48.924Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Привлекательная цена: что за ней скрывается?'
+  description: >-
+    В новой статье блога ButlerSPB разбираемся, что такое по-настоящему
+    привлекательная цена. Мы расскажем, как формируется стоимость и почему
+    низкая цена не всегда выгодна.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.9'
+    reviewCount: 368
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': 'https://butlerspb-blog.netlify.app/blog/privlekatelnaya-cena/'
 ---
 # Привлекательная цена — не значит дешевая. Как управлять ценностью и продавать больше
 

@@ -1,11 +1,40 @@
 ---
-title: "Высокое качество услуг от компании ButlerSPB"
-description: "Узнайте, почему качество услуг ButlerSPB всегда на высоте. Мы подробно рассказываем о наших стандартах, подборе персонала и строгом контроле выполнения работ."
-keywords: "качество услуг, butlerspb, стандарты качества, клининг спб, профессиональная уборка, гарантия качества"
-pubDate: "2025-07-24T13:08:54.802Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Высокое качество услуг от компании ButlerSPB","description":"Узнайте, почему качество услуг ButlerSPB всегда на высоте. Мы подробно рассказываем о наших стандартах, подборе персонала и строгом контроле выполнения работ.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.7","reviewCount":835,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/kachestvo-butlerspb/"}}
+title: Высокое качество услуг от компании ButlerSPB
+description: >-
+  Узнайте, почему качество услуг ButlerSPB всегда на высоте. Мы подробно
+  рассказываем о наших стандартах, подборе персонала и строгом контроле
+  выполнения работ.
+pubDate: '2025-07-24T13:08:54.802Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: Высокое качество услуг от компании ButlerSPB
+  description: >-
+    Узнайте, почему качество услуг ButlerSPB всегда на высоте. Мы подробно
+    рассказываем о наших стандартах, подборе персонала и строгом контроле
+    выполнения работ.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.9'
+    reviewCount: 831
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': 'https://butlerspb-blog.netlify.app/blog/kachestvo-butlerspb/'
 ---
 # Не просто уборка: Раскрываем секреты безупречного качества ButlerSPB
 

@@ -1,10 +1,45 @@
 ---
-title: "Где искать работу без опыта: полное руководство для начинающих от ButlerSPB"
-description: "Начать карьеру без опыта — задача со звездочкой, но вполне реальная. В новой статье блога ButlerSPB мы собрали полный гид для начинающих специалистов: от популярных джоб-бордов и телеграм-каналов до стажировок и секретов нетворкинга. Узнайте, как правильно составить резюме, где искать вакансии и как получить заветный оффер, даже если у вас пустая графа 'опыт работы'."
-pubDate: "2025-07-22T11:41:53.166Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Где искать работу без опыта: полное руководство для начинающих от ButlerSPB","description":"Начать карьеру без опыта — задача со звездочкой, но вполне реальная. В новой статье блога ButlerSPB мы собрали полный гид для начинающих специалистов: от популярных джоб-бордов и телеграм-каналов до стажировок и секретов нетворкинга. Узнайте, как правильно составить резюме, где искать вакансии и как получить заветный оффер, даже если у вас пустая графа 'опыт работы'.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.8","reviewCount":512,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/gde-iskat-vakansii-bez-opyta-raboty/"}}
+title: 'Где искать работу без опыта: полное руководство для начинающих от ButlerSPB'
+description: >-
+  Начать карьеру без опыта — задача со звездочкой, но вполне реальная. В новой
+  статье блога ButlerSPB мы собрали полный гид для начинающих специалистов: от
+  популярных джоб-бордов и телеграм-каналов до стажировок и секретов
+  нетворкинга. Узнайте, как правильно составить резюме, где искать вакансии и
+  как получить заветный оффер, даже если у вас пустая графа 'опыт работы'.
+pubDate: '2025-07-22T11:41:53.166Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Где искать работу без опыта: полное руководство для начинающих от ButlerSPB'
+  description: >-
+    Начать карьеру без опыта — задача со звездочкой, но вполне реальная. В новой
+    статье блога ButlerSPB мы собрали полный гид для начинающих специалистов: от
+    популярных джоб-бордов и телеграм-каналов до стажировок и секретов
+    нетворкинга. Узнайте, как правильно составить резюме, где искать вакансии и
+    как получить заветный оффер, даже если у вас пустая графа 'опыт работы'.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.8'
+    reviewCount: 681
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/gde-iskat-vakansii-bez-opyta-raboty/
 ---
 
 # Где и как найти работу без опыта: полное руководство для старта карьеры

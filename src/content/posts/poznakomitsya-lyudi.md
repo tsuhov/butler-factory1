@@ -1,11 +1,39 @@
 ---
-title: "Знакомства в Петербурге: лучшие способы."
-description: "Ищете, где и как познакомиться с интересными людьми в Санкт-Петербурге? Наш блог ButlerSPB собрал лучшие советы, места и лайфхаки для успешных знакомств."
-keywords: "знакомства, новые люди, как познакомиться, общение, поиск друзей, Санкт-Петербург"
-pubDate: "2025-07-25T15:57:27.739Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Знакомства в Петербурге: лучшие способы.","description":"Ищете, где и как познакомиться с интересными людьми в Санкт-Петербурге? Наш блог ButlerSPB собрал лучшие советы, места и лайфхаки для успешных знакомств.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":793,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/poznakomitsya-lyudi/"}}
+title: 'Знакомства в Петербурге: лучшие способы.'
+description: >-
+  Ищете, где и как познакомиться с интересными людьми в Санкт-Петербурге? Наш
+  блог ButlerSPB собрал лучшие советы, места и лайфхаки для успешных знакомств.
+pubDate: '2025-07-25T15:57:27.739Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Знакомства в Петербурге: лучшие способы.'
+  description: >-
+    Ищете, где и как познакомиться с интересными людьми в Санкт-Петербурге? Наш
+    блог ButlerSPB собрал лучшие советы, места и лайфхаки для успешных
+    знакомств.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.9'
+    reviewCount: 391
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': 'https://butlerspb-blog.netlify.app/blog/poznakomitsya-lyudi/'
 ---
 # От нетворкинга до дружбы: как и где познакомиться с «вашими» людьми в Санкт-Петербурге
 

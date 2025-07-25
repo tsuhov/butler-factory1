@@ -1,10 +1,51 @@
 ---
-title: "Аренда с питомцем: как составить договор и защитить свои права — гайд от ButlerSPB"
-description: "Планируете сдать или снять квартиру с домашним животным? В новой статье блога ButlerSPB подробно разбираем, как правильно составить договор аренды с условием о проживании питомцев. Обсуждаем ключевые пункты: от описи имущества и дополнительного залога до ответственности за порчу и правил содержания животного. Наши советы помогут собственникам и арендаторам избежать конфликтов и сделать совместное проживание комфортным для всех."
-pubDate: "2025-07-22T11:36:00.330Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Аренда с питомцем: как составить договор и защитить свои права — гайд от ButlerSPB","description":"Планируете сдать или снять квартиру с домашним животным? В новой статье блога ButlerSPB подробно разбираем, как правильно составить договор аренды с условием о проживании питомцев. Обсуждаем ключевые пункты: от описи имущества и дополнительного залога до ответственности за порчу и правил содержания животного. Наши советы помогут собственникам и арендаторам избежать конфликтов и сделать совместное проживание комфортным для всех.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.8","reviewCount":320,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/dogovor-arendy-s-usloviem-o-prozhivanii-zhivotnyh/"}}
+title: >-
+  Аренда с питомцем: как составить договор и защитить свои права — гайд от
+  ButlerSPB
+description: >-
+  Планируете сдать или снять квартиру с домашним животным? В новой статье блога
+  ButlerSPB подробно разбираем, как правильно составить договор аренды с
+  условием о проживании питомцев. Обсуждаем ключевые пункты: от описи имущества
+  и дополнительного залога до ответственности за порчу и правил содержания
+  животного. Наши советы помогут собственникам и арендаторам избежать конфликтов
+  и сделать совместное проживание комфортным для всех.
+pubDate: '2025-07-22T11:36:00.330Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: >-
+    Аренда с питомцем: как составить договор и защитить свои права — гайд от
+    ButlerSPB
+  description: >-
+    Планируете сдать или снять квартиру с домашним животным? В новой статье
+    блога ButlerSPB подробно разбираем, как правильно составить договор аренды с
+    условием о проживании питомцев. Обсуждаем ключевые пункты: от описи
+    имущества и дополнительного залога до ответственности за порчу и правил
+    содержания животного. Наши советы помогут собственникам и арендаторам
+    избежать конфликтов и сделать совместное проживание комфортным для всех.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.8'
+    reviewCount: 849
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/dogovor-arendy-s-usloviem-o-prozhivanii-zhivotnyh/
 ---
 
 # Договор аренды с животными: Полное руководство для собственников и арендаторов в 2024 году

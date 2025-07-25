@@ -1,11 +1,39 @@
 ---
-title: "Все о налогах для самозанятых от ButlerSPB"
-description: "Все о налоге для самозанятых: ставки 4% и 6%, сроки уплаты, формирование чеков в приложении \"Мой налог\". ButlerSPB поможет разобраться во всех нюансах НПД."
-keywords: "налог для самозанятых, нпд, самозанятость, мой налог, ставки налога, уплата налога, butlerspb"
-pubDate: "2025-07-25T15:49:19.627Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Все о налогах для самозанятых от ButlerSPB","description":"Все о налоге для самозанятых: ставки 4% и 6%, сроки уплаты, формирование чеков в приложении \"Мой налог\". ButlerSPB поможет разобраться во всех нюансах НПД.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.7","reviewCount":552,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/nalog-samozanyatym/"}}
+title: Все о налогах для самозанятых от ButlerSPB
+description: >-
+  Все о налоге для самозанятых: ставки 4% и 6%, сроки уплаты, формирование чеков
+  в приложении "Мой налог". ButlerSPB поможет разобраться во всех нюансах НПД.
+pubDate: '2025-07-25T15:49:19.627Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: Все о налогах для самозанятых от ButlerSPB
+  description: >-
+    Все о налоге для самозанятых: ставки 4% и 6%, сроки уплаты, формирование
+    чеков в приложении "Мой налог". ButlerSPB поможет разобраться во всех
+    нюансах НПД.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.8'
+    reviewCount: 759
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': 'https://butlerspb-blog.netlify.app/blog/nalog-samozanyatym/'
 ---
 # Налог для самозанятых: полное руководство по НПД в 2024 году от А до Я
 

@@ -1,11 +1,39 @@
 ---
-title: "Новый сервис от ButlerSPB: еще больше комфорта"
-description: "ButlerSPB расширяет горизонты комфорта! Мы запускаем новый сервис, который изменит ваше представление о быте. Доверьте нам рутину и наслаждайтесь жизнью."
-keywords: "новый сервис, ButlerSPB, услуги, консьерж-сервис, комфорт, СПб, премиум услуги"
-pubDate: "2025-07-24T21:37:37.253Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Новый сервис от ButlerSPB: еще больше комфорта","description":"ButlerSPB расширяет горизонты комфорта! Мы запускаем новый сервис, который изменит ваше представление о быте. Доверьте нам рутину и наслаждайтесь жизнью.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.7","reviewCount":463,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/noveyshiy-servis/"}}
+title: 'Новый сервис от ButlerSPB: еще больше комфорта'
+description: >-
+  ButlerSPB расширяет горизонты комфорта! Мы запускаем новый сервис, который
+  изменит ваше представление о быте. Доверьте нам рутину и наслаждайтесь жизнью.
+pubDate: '2025-07-24T21:37:37.253Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Новый сервис от ButlerSPB: еще больше комфорта'
+  description: >-
+    ButlerSPB расширяет горизонты комфорта! Мы запускаем новый сервис, который
+    изменит ваше представление о быте. Доверьте нам рутину и наслаждайтесь
+    жизнью.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.9'
+    reviewCount: 752
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': 'https://butlerspb-blog.netlify.app/blog/noveyshiy-servis/'
 ---
 # Butler Catalyst от ButlerSPB: Новый стандарт управления временем и жизнью в Санкт-Петербурге
 

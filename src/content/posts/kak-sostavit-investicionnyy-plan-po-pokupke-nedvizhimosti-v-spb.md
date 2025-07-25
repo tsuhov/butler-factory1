@@ -1,10 +1,49 @@
 ---
-title: "Как составить инвестиционный план по покупке недвижимости в СПб: пошаговое руководство от ButlerSPB"
-description: "Мечтаете выгодно инвестировать в недвижимость Санкт-Петербурга, но не знаете, с чего начать? Эксперты ButlerSPB подготовили для вас подробный гайд по составлению личного инвестиционного плана. В статье разбираем ключевые шаги: от постановки финансовых целей и расчета бюджета до выбора стратегии, анализа рисков и подбора ликвидного объекта в Северной столице."
-pubDate: "2025-07-23T12:13:27.432Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Как составить инвестиционный план по покупке недвижимости в СПб: пошаговое руководство от ButlerSPB","description":"Мечтаете выгодно инвестировать в недвижимость Санкт-Петербурга, но не знаете, с чего начать? Эксперты ButlerSPB подготовили для вас подробный гайд по составлению личного инвестиционного плана. В статье разбираем ключевые шаги: от постановки финансовых целей и расчета бюджета до выбора стратегии, анализа рисков и подбора ликвидного объекта в Северной столице.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":755,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/kak-sostavit-investicionnyy-plan-po-pokupke-nedvizhimosti-v-spb/"}}
+title: >-
+  Как составить инвестиционный план по покупке недвижимости в СПб: пошаговое
+  руководство от ButlerSPB
+description: >-
+  Мечтаете выгодно инвестировать в недвижимость Санкт-Петербурга, но не знаете,
+  с чего начать? Эксперты ButlerSPB подготовили для вас подробный гайд по
+  составлению личного инвестиционного плана. В статье разбираем ключевые шаги:
+  от постановки финансовых целей и расчета бюджета до выбора стратегии, анализа
+  рисков и подбора ликвидного объекта в Северной столице.
+pubDate: '2025-07-23T12:13:27.432Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: >-
+    Как составить инвестиционный план по покупке недвижимости в СПб: пошаговое
+    руководство от ButlerSPB
+  description: >-
+    Мечтаете выгодно инвестировать в недвижимость Санкт-Петербурга, но не
+    знаете, с чего начать? Эксперты ButlerSPB подготовили для вас подробный гайд
+    по составлению личного инвестиционного плана. В статье разбираем ключевые
+    шаги: от постановки финансовых целей и расчета бюджета до выбора стратегии,
+    анализа рисков и подбора ликвидного объекта в Северной столице.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.9'
+    reviewCount: 863
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/kak-sostavit-investicionnyy-plan-po-pokupke-nedvizhimosti-v-spb/
 ---
 
 # Инвестиционный план по покупке недвижимости в СПб: Пошаговое руководство от экспертов ButlerSPB

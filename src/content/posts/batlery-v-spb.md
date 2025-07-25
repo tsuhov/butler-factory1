@@ -1,11 +1,40 @@
 ---
-title: "Профессиональные батлеры в СПб от ButlerSPB"
-description: "ButlerSPB предлагает услуги высококлассных батлеров в Санкт-Петербурге. Наши специалисты обеспечат безупречный сервис, комфорт и конфиденциальность для вашего дома."
-keywords: "батлер спб, услуги батлера, дворецкий санкт-петербург, элитный персонал, управление домом, личный помощник"
-pubDate: "2025-07-24T13:09:26.822Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Профессиональные батлеры в СПб от ButlerSPB","description":"ButlerSPB предлагает услуги высококлассных батлеров в Санкт-Петербурге. Наши специалисты обеспечат безупречный сервис, комфорт и конфиденциальность для вашего дома.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":412,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/batlery-v-spb/"}}
+title: Профессиональные батлеры в СПб от ButlerSPB
+description: >-
+  ButlerSPB предлагает услуги высококлассных батлеров в Санкт-Петербурге. Наши
+  специалисты обеспечат безупречный сервис, комфорт и конфиденциальность для
+  вашего дома.
+pubDate: '2025-07-24T13:09:26.822Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: Профессиональные батлеры в СПб от ButlerSPB
+  description: >-
+    ButlerSPB предлагает услуги высококлассных батлеров в Санкт-Петербурге. Наши
+    специалисты обеспечат безупречный сервис, комфорт и конфиденциальность для
+    вашего дома.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.7'
+    reviewCount: 507
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': 'https://butlerspb-blog.netlify.app/blog/batlery-v-spb/'
 ---
 # Батлер в Санкт-Петербурге: Больше, чем дворецкий. Ваш ключ к безупречному стилю жизни.
 

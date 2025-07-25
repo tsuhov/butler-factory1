@@ -1,10 +1,50 @@
 ---
-title: "Круглогодичная аренда загородного дома: полное руководство по подготовке от ButlerSPB"
-description: "Хотите, чтобы ваш загородный дом приносил стабильный доход не только летом, но и зимой? Это требует тщательной подготовки. В нашей новой статье мы делимся экспертным чек-листом: от утепления и ревизии коммуникаций до создания уюта и обеспечения безопасности для ваших гостей в любой сезон. Узнайте, как превратить вашу дачу в востребованный объект для аренды 365 дней в году."
-pubDate: "2025-07-23T11:45:15.541Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Круглогодичная аренда загородного дома: полное руководство по подготовке от ButlerSPB","description":"Хотите, чтобы ваш загородный дом приносил стабильный доход не только летом, но и зимой? Это требует тщательной подготовки. В нашей новой статье мы делимся экспертным чек-листом: от утепления и ревизии коммуникаций до создания уюта и обеспечения безопасности для ваших гостей в любой сезон. Узнайте, как превратить вашу дачу в востребованный объект для аренды 365 дней в году.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":406,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/kak-podgotovit-zagorodnyy-dom-k-kruglogodichnoy-sdache/"}}
+title: >-
+  Круглогодичная аренда загородного дома: полное руководство по подготовке от
+  ButlerSPB
+description: >-
+  Хотите, чтобы ваш загородный дом приносил стабильный доход не только летом, но
+  и зимой? Это требует тщательной подготовки. В нашей новой статье мы делимся
+  экспертным чек-листом: от утепления и ревизии коммуникаций до создания уюта и
+  обеспечения безопасности для ваших гостей в любой сезон. Узнайте, как
+  превратить вашу дачу в востребованный объект для аренды 365 дней в году.
+pubDate: '2025-07-23T11:45:15.541Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: >-
+    Круглогодичная аренда загородного дома: полное руководство по подготовке от
+    ButlerSPB
+  description: >-
+    Хотите, чтобы ваш загородный дом приносил стабильный доход не только летом,
+    но и зимой? Это требует тщательной подготовки. В нашей новой статье мы
+    делимся экспертным чек-листом: от утепления и ревизии коммуникаций до
+    создания уюта и обеспечения безопасности для ваших гостей в любой сезон.
+    Узнайте, как превратить вашу дачу в востребованный объект для аренды 365
+    дней в году.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.9'
+    reviewCount: 845
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/kak-podgotovit-zagorodnyy-dom-k-kruglogodichnoy-sdache/
 ---
 
 # Готовим загородный дом к круглогодичной сдаче: от утепления до поиска идеального арендатора

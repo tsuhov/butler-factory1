@@ -1,10 +1,53 @@
 ---
-title: "Юридическая чистота квартиры в старом фонде: что нужно проверить в первую очередь"
-description: "Покупка квартиры в старом фонде Санкт-Петербурга — мечта многих, но она сопряжена с особыми юридическими рисками. Сложная история смены собственников, возможные незаконные перепланировки, скрытые наследники — лишь часть проблем. В нашей новой статье команда ButlerSPB рассказывает, какие документы и факты нужно проверить в первую очередь, чтобы ваша сделка была безопасной, а покупка принесла только радость. Разбираем пошаговый алгоритм проверки юридической чистоты."
-pubDate: "2025-07-23T10:39:41.249Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Юридическая чистота квартиры в старом фонде: что нужно проверить в первую очередь","description":"Покупка квартиры в старом фонде Санкт-Петербурга — мечта многих, но она сопряжена с особыми юридическими рисками. Сложная история смены собственников, возможные незаконные перепланировки, скрытые наследники — лишь часть проблем. В нашей новой статье команда ButlerSPB рассказывает, какие документы и факты нужно проверить в первую очередь, чтобы ваша сделка была безопасной, а покупка принесла только радость. Разбираем пошаговый алгоритм проверки юридической чистоты.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.7","reviewCount":630,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/yuridicheskaya-chistota-kvartiry-v-starom-fonde-chto-nuzhno-proverit-v-pervuyu-ochered/"}}
+title: >-
+  Юридическая чистота квартиры в старом фонде: что нужно проверить в первую
+  очередь
+description: >-
+  Покупка квартиры в старом фонде Санкт-Петербурга — мечта многих, но она
+  сопряжена с особыми юридическими рисками. Сложная история смены собственников,
+  возможные незаконные перепланировки, скрытые наследники — лишь часть проблем.
+  В нашей новой статье команда ButlerSPB рассказывает, какие документы и факты
+  нужно проверить в первую очередь, чтобы ваша сделка была безопасной, а покупка
+  принесла только радость. Разбираем пошаговый алгоритм проверки юридической
+  чистоты.
+pubDate: '2025-07-23T10:39:41.249Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: >-
+    Юридическая чистота квартиры в старом фонде: что нужно проверить в первую
+    очередь
+  description: >-
+    Покупка квартиры в старом фонде Санкт-Петербурга — мечта многих, но она
+    сопряжена с особыми юридическими рисками. Сложная история смены
+    собственников, возможные незаконные перепланировки, скрытые наследники —
+    лишь часть проблем. В нашей новой статье команда ButlerSPB рассказывает,
+    какие документы и факты нужно проверить в первую очередь, чтобы ваша сделка
+    была безопасной, а покупка принесла только радость. Разбираем пошаговый
+    алгоритм проверки юридической чистоты.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.7'
+    reviewCount: 459
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/yuridicheskaya-chistota-kvartiry-v-starom-fonde-chto-nuzhno-proverit-v-pervuyu-ochered/
 ---
 
 # Юридическая чистота квартиры в старом фонде: полный чек-лист для покупателя в Петербурге

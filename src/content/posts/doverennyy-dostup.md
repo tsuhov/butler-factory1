@@ -1,11 +1,40 @@
 ---
-title: "Доверенный доступ: безопасность данных с ButlerSPB"
-description: "Узнайте, как концепция доверенного доступа меняет подходы к кибербезопасности. Мы объясняем ключевые принципы и как ButlerSPB помогает внедрять надежные системы."
-keywords: "доверенный доступ, кибербезопасность, управление доступом, информационная безопасность, ButlerSPB, аутентификация"
-pubDate: "2025-07-25T13:57:53.183Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Доверенный доступ: безопасность данных с ButlerSPB","description":"Узнайте, как концепция доверенного доступа меняет подходы к кибербезопасности. Мы объясняем ключевые принципы и как ButlerSPB помогает внедрять надежные системы.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.8","reviewCount":819,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/doverennyy-dostup/"}}
+title: 'Доверенный доступ: безопасность данных с ButlerSPB'
+description: >-
+  Узнайте, как концепция доверенного доступа меняет подходы к кибербезопасности.
+  Мы объясняем ключевые принципы и как ButlerSPB помогает внедрять надежные
+  системы.
+pubDate: '2025-07-25T13:57:53.183Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Доверенный доступ: безопасность данных с ButlerSPB'
+  description: >-
+    Узнайте, как концепция доверенного доступа меняет подходы к
+    кибербезопасности. Мы объясняем ключевые принципы и как ButlerSPB помогает
+    внедрять надежные системы.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.7'
+    reviewCount: 422
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': 'https://butlerspb-blog.netlify.app/blog/doverennyy-dostup/'
 ---
 # Доверенный доступ: как защитить бизнес в эпоху гибридной работы и растущих киберугроз
 

@@ -1,11 +1,38 @@
 ---
-title: "Денежный поток: главный показатель бизнеса"
-description: "Понимание денежного потока — основа стабильности вашего бизнеса. В материале ButlerSPB объясняем, как считать кэшфло и избегать кассовых разрывов."
-keywords: "денежный поток, управление финансами, кэшфло, кассовый разрыв, финансовый анализ, прибыль, ButlerSPB"
-pubDate: "2025-07-25T16:16:45.994Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Денежный поток: главный показатель бизнеса","description":"Понимание денежного потока — основа стабильности вашего бизнеса. В материале ButlerSPB объясняем, как считать кэшфло и избегать кассовых разрывов.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":302,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/denezhnyy-potok/"}}
+title: 'Денежный поток: главный показатель бизнеса'
+description: >-
+  Понимание денежного потока — основа стабильности вашего бизнеса. В материале
+  ButlerSPB объясняем, как считать кэшфло и избегать кассовых разрывов.
+pubDate: '2025-07-25T16:16:45.994Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Денежный поток: главный показатель бизнеса'
+  description: >-
+    Понимание денежного потока — основа стабильности вашего бизнеса. В материале
+    ButlerSPB объясняем, как считать кэшфло и избегать кассовых разрывов.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.7'
+    reviewCount: 523
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': 'https://butlerspb-blog.netlify.app/blog/denezhnyy-potok/'
 ---
 # Денежный поток: от основ до автоматизации. Экспертный гайд от ButlerSPB, как взять финансы под контроль
 

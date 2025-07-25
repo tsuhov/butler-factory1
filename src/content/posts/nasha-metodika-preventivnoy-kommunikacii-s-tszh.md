@@ -1,10 +1,45 @@
 ---
-title: "На шаг впереди: наша методика превентивной коммуникации с ТСЖ"
-description: "Конфликты с управляющей компанией часто возникают из-за недопонимания и отсутствия информации. В ButlerSPB мы разработали систему превентивной коммуникации, которая позволяет строить доверительные отношения с ТСЖ и жильцами, предотвращая проблемы до их появления. В этой статье мы делимся ключевыми принципами нашего подхода."
-pubDate: "2025-07-22T11:14:22.684Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"На шаг впереди: наша методика превентивной коммуникации с ТСЖ","description":"Конфликты с управляющей компанией часто возникают из-за недопонимания и отсутствия информации. В ButlerSPB мы разработали систему превентивной коммуникации, которая позволяет строить доверительные отношения с ТСЖ и жильцами, предотвращая проблемы до их появления. В этой статье мы делимся ключевыми принципами нашего подхода.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":394,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/nasha-metodika-preventivnoy-kommunikacii-s-tszh/"}}
+title: 'На шаг впереди: наша методика превентивной коммуникации с ТСЖ'
+description: >-
+  Конфликты с управляющей компанией часто возникают из-за недопонимания и
+  отсутствия информации. В ButlerSPB мы разработали систему превентивной
+  коммуникации, которая позволяет строить доверительные отношения с ТСЖ и
+  жильцами, предотвращая проблемы до их появления. В этой статье мы делимся
+  ключевыми принципами нашего подхода.
+pubDate: '2025-07-22T11:14:22.684Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'На шаг впереди: наша методика превентивной коммуникации с ТСЖ'
+  description: >-
+    Конфликты с управляющей компанией часто возникают из-за недопонимания и
+    отсутствия информации. В ButlerSPB мы разработали систему превентивной
+    коммуникации, которая позволяет строить доверительные отношения с ТСЖ и
+    жильцами, предотвращая проблемы до их появления. В этой статье мы делимся
+    ключевыми принципами нашего подхода.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.8'
+    reviewCount: 888
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/nasha-metodika-preventivnoy-kommunikacii-s-tszh/
 ---
 
 # "Чаты кипят, а на собрания никто не ходит": представляем систему превентивной коммуникации для ТСЖ

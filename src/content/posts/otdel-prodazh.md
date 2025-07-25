@@ -1,11 +1,40 @@
 ---
-title: "Эффективный отдел продаж ButlerSPB: секреты"
-description: "Узнайте, как мы в ButlerSPB строим работу нашего отдела продаж. Раскрываем секреты найма, мотивации и обучения менеджеров для достижения максимальных результатов."
-keywords: "отдел продаж, структура отдела продаж, менеджер по продажам, мотивация продаж, KPI, ButlerSPB, техники продаж"
-pubDate: "2025-07-25T16:30:00.436Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Эффективный отдел продаж ButlerSPB: секреты","description":"Узнайте, как мы в ButlerSPB строим работу нашего отдела продаж. Раскрываем секреты найма, мотивации и обучения менеджеров для достижения максимальных результатов.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.8","reviewCount":543,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/otdel-prodazh/"}}
+title: 'Эффективный отдел продаж ButlerSPB: секреты'
+description: >-
+  Узнайте, как мы в ButlerSPB строим работу нашего отдела продаж. Раскрываем
+  секреты найма, мотивации и обучения менеджеров для достижения максимальных
+  результатов.
+pubDate: '2025-07-25T16:30:00.436Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Эффективный отдел продаж ButlerSPB: секреты'
+  description: >-
+    Узнайте, как мы в ButlerSPB строим работу нашего отдела продаж. Раскрываем
+    секреты найма, мотивации и обучения менеджеров для достижения максимальных
+    результатов.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.8'
+    reviewCount: 363
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': 'https://butlerspb-blog.netlify.app/blog/otdel-prodazh/'
 ---
 # Ваш отдел продаж не продает? Пошаговая инструкция по созданию машины для генерации прибыли
 

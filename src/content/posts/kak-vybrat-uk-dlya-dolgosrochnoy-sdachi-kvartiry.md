@@ -1,10 +1,51 @@
 ---
-title: "Как выбрать управляющую компанию для долгосрочной сдачи квартиры: подробный гайд от ButlerSPB"
-description: "Планируете сдавать квартиру в долгосрочную аренду, но не хотите тратить время на поиск жильцов и решение бытовых вопросов? Передача квартиры в доверительное управление — ваше спасение. В этой статье команда ButlerSPB рассказывает, по каким критериям выбирать управляющую компанию, на какие пункты в договоре обратить особое внимание и как отличить профессионалов от дилетантов, чтобы обеспечить себе стабильный пассивный доход и спокойствие."
-pubDate: "2025-07-23T13:43:17.080Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Как выбрать управляющую компанию для долгосрочной сдачи квартиры: подробный гайд от ButlerSPB","description":"Планируете сдавать квартиру в долгосрочную аренду, но не хотите тратить время на поиск жильцов и решение бытовых вопросов? Передача квартиры в доверительное управление — ваше спасение. В этой статье команда ButlerSPB рассказывает, по каким критериям выбирать управляющую компанию, на какие пункты в договоре обратить особое внимание и как отличить профессионалов от дилетантов, чтобы обеспечить себе стабильный пассивный доход и спокойствие.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.8","reviewCount":423,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/kak-vybrat-uk-dlya-dolgosrochnoy-sdachi-kvartiry/"}}
+title: >-
+  Как выбрать управляющую компанию для долгосрочной сдачи квартиры: подробный
+  гайд от ButlerSPB
+description: >-
+  Планируете сдавать квартиру в долгосрочную аренду, но не хотите тратить время
+  на поиск жильцов и решение бытовых вопросов? Передача квартиры в доверительное
+  управление — ваше спасение. В этой статье команда ButlerSPB рассказывает, по
+  каким критериям выбирать управляющую компанию, на какие пункты в договоре
+  обратить особое внимание и как отличить профессионалов от дилетантов, чтобы
+  обеспечить себе стабильный пассивный доход и спокойствие.
+pubDate: '2025-07-23T13:43:17.080Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: >-
+    Как выбрать управляющую компанию для долгосрочной сдачи квартиры: подробный
+    гайд от ButlerSPB
+  description: >-
+    Планируете сдавать квартиру в долгосрочную аренду, но не хотите тратить
+    время на поиск жильцов и решение бытовых вопросов? Передача квартиры в
+    доверительное управление — ваше спасение. В этой статье команда ButlerSPB
+    рассказывает, по каким критериям выбирать управляющую компанию, на какие
+    пункты в договоре обратить особое внимание и как отличить профессионалов от
+    дилетантов, чтобы обеспечить себе стабильный пассивный доход и спокойствие.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.8'
+    reviewCount: 860
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/kak-vybrat-uk-dlya-dolgosrochnoy-sdachi-kvartiry/
 ---
 
 # Как выбрать управляющую компанию для сдачи квартиры: Полное руководство для собственника от ButlerSPB

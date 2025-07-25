@@ -1,10 +1,49 @@
 ---
-title: "Гид по самым дорогим районам Санкт-Петербурга: где элитная недвижимость встречается с историей"
-description: "Планируете покупку элитной недвижимости в Северной столице? Команда ButlerSPB анализирует рынок и представляет рейтинг самых дорогих и престижных районов Санкт-Петербурга. Узнайте всё о ценах и особенностях жизни в 'Золотом треугольнике', на Крестовском острове и в других элитных локациях города, чтобы сделать правильный выбор для жизни и инвестиций."
-pubDate: "2025-07-22T14:01:56.395Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Гид по самым дорогим районам Санкт-Петербурга: где элитная недвижимость встречается с историей","description":"Планируете покупку элитной недвижимости в Северной столице? Команда ButlerSPB анализирует рынок и представляет рейтинг самых дорогих и престижных районов Санкт-Петербурга. Узнайте всё о ценах и особенностях жизни в 'Золотом треугольнике', на Крестовском острове и в других элитных локациях города, чтобы сделать правильный выбор для жизни и инвестиций.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":755,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/samye-dorogie-rayony-sankt-peterburga-po-stoimosti-nedvizhimosti/"}}
+title: >-
+  Гид по самым дорогим районам Санкт-Петербурга: где элитная недвижимость
+  встречается с историей
+description: >-
+  Планируете покупку элитной недвижимости в Северной столице? Команда ButlerSPB
+  анализирует рынок и представляет рейтинг самых дорогих и престижных районов
+  Санкт-Петербурга. Узнайте всё о ценах и особенностях жизни в 'Золотом
+  треугольнике', на Крестовском острове и в других элитных локациях города,
+  чтобы сделать правильный выбор для жизни и инвестиций.
+pubDate: '2025-07-22T14:01:56.395Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: >-
+    Гид по самым дорогим районам Санкт-Петербурга: где элитная недвижимость
+    встречается с историей
+  description: >-
+    Планируете покупку элитной недвижимости в Северной столице? Команда
+    ButlerSPB анализирует рынок и представляет рейтинг самых дорогих и
+    престижных районов Санкт-Петербурга. Узнайте всё о ценах и особенностях
+    жизни в 'Золотом треугольнике', на Крестовском острове и в других элитных
+    локациях города, чтобы сделать правильный выбор для жизни и инвестиций.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.8'
+    reviewCount: 798
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/samye-dorogie-rayony-sankt-peterburga-po-stoimosti-nedvizhimosti/
 ---
 
 # Самые дорогие районы Санкт-Петербурга: где сосредоточена роскошь и инвестиционная привлекательность

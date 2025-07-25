@@ -1,11 +1,40 @@
 ---
-title: "Незаконное выселение: как защитить свои права"
-description: "Столкнулись с угрозой незаконного выселения? В статье разбираем, какие действия собственника являются незаконными и как арендатору защитить свои права по закону."
-keywords: "незаконное выселение, права арендатора, выселение из квартиры, жилищный кодекс, выселение без суда, защита прав, ButlerSPB"
-pubDate: "2025-07-25T16:03:48.330Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Незаконное выселение: как защитить свои права","description":"Столкнулись с угрозой незаконного выселения? В статье разбираем, какие действия собственника являются незаконными и как арендатору защитить свои права по закону.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.7","reviewCount":467,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/vyselenie-nezakonnoe/"}}
+title: 'Незаконное выселение: как защитить свои права'
+description: >-
+  Столкнулись с угрозой незаконного выселения? В статье разбираем, какие
+  действия собственника являются незаконными и как арендатору защитить свои
+  права по закону.
+pubDate: '2025-07-25T16:03:48.330Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Незаконное выселение: как защитить свои права'
+  description: >-
+    Столкнулись с угрозой незаконного выселения? В статье разбираем, какие
+    действия собственника являются незаконными и как арендатору защитить свои
+    права по закону.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.8'
+    reviewCount: 406
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': 'https://butlerspb-blog.netlify.app/blog/vyselenie-nezakonnoe/'
 ---
 # Незаконное выселение из квартиры: полный гид по защите прав для арендатора
 

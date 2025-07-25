@@ -1,11 +1,40 @@
 ---
-title: "Минимизация затрат: стратегии для бизнеса"
-description: "Узнайте проверенные методы сокращения расходов и оптимизации бюджета. Наша статья поможет выявить скрытые затраты и внедрить эффективные стратегии экономии."
-keywords: "минимизация затрат, сокращение расходов, оптимизация бюджета, управление затратами, эффективность бизнеса, экономия, ButlerSPB"
-pubDate: "2025-07-25T16:17:02.749Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Минимизация затрат: стратегии для бизнеса","description":"Узнайте проверенные методы сокращения расходов и оптимизации бюджета. Наша статья поможет выявить скрытые затраты и внедрить эффективные стратегии экономии.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.8","reviewCount":422,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/minimizaciya-zatrat/"}}
+title: 'Минимизация затрат: стратегии для бизнеса'
+description: >-
+  Узнайте проверенные методы сокращения расходов и оптимизации бюджета. Наша
+  статья поможет выявить скрытые затраты и внедрить эффективные стратегии
+  экономии.
+pubDate: '2025-07-25T16:17:02.749Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Минимизация затрат: стратегии для бизнеса'
+  description: >-
+    Узнайте проверенные методы сокращения расходов и оптимизации бюджета. Наша
+    статья поможет выявить скрытые затраты и внедрить эффективные стратегии
+    экономии.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.8'
+    reviewCount: 309
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': 'https://butlerspb-blog.netlify.app/blog/minimizaciya-zatrat/'
 ---
 # Минимизация затрат без ущерба для роста: Полное руководство для современного бизнеса
 

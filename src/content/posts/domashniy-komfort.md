@@ -1,11 +1,40 @@
 ---
-title: "Искусство домашнего комфорта от ButlerSPB"
-description: "Узнайте, как превратить ваш дом в оазис спокойствия. ButlerSPB делится советами по организации пространства, выбору декора и созданию идеальной атмосферы уюта."
-keywords: "домашний уют, комфорт в доме, организация пространства, советы по дому, декор интерьера, ButlerSPB"
-pubDate: "2025-07-25T13:43:27.061Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Искусство домашнего комфорта от ButlerSPB","description":"Узнайте, как превратить ваш дом в оазис спокойствия. ButlerSPB делится советами по организации пространства, выбору декора и созданию идеальной атмосферы уюта.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":615,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/domashniy-komfort/"}}
+title: Искусство домашнего комфорта от ButlerSPB
+description: >-
+  Узнайте, как превратить ваш дом в оазис спокойствия. ButlerSPB делится
+  советами по организации пространства, выбору декора и созданию идеальной
+  атмосферы уюта.
+pubDate: '2025-07-25T13:43:27.061Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: Искусство домашнего комфорта от ButlerSPB
+  description: >-
+    Узнайте, как превратить ваш дом в оазис спокойствия. ButlerSPB делится
+    советами по организации пространства, выбору декора и созданию идеальной
+    атмосферы уюта.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.8'
+    reviewCount: 554
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': 'https://butlerspb-blog.netlify.app/blog/domashniy-komfort/'
 ---
 # Домашний комфорт: пошаговое руководство по созданию пространства, в которое хочется возвращаться
 

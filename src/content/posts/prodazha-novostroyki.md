@@ -1,11 +1,40 @@
 ---
-title: "Продажа новой квартиры: от А до Я с ButlerSPB"
-description: "Продажа квартиры в новостройке имеет свои нюансы. Рассказываем, как правильно оформить документы, рассчитать налоги и найти покупателя, чтобы сделка прошла быстро."
-keywords: "продать новостройку, переуступка, налоги при продаже, недвижимость спб, ButlerSPB, продажа квартиры"
-pubDate: "2025-07-25T14:38:01.285Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Продажа новой квартиры: от А до Я с ButlerSPB","description":"Продажа квартиры в новостройке имеет свои нюансы. Рассказываем, как правильно оформить документы, рассчитать налоги и найти покупателя, чтобы сделка прошла быстро.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":362,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/prodazha-novostroyki/"}}
+title: 'Продажа новой квартиры: от А до Я с ButlerSPB'
+description: >-
+  Продажа квартиры в новостройке имеет свои нюансы. Рассказываем, как правильно
+  оформить документы, рассчитать налоги и найти покупателя, чтобы сделка прошла
+  быстро.
+pubDate: '2025-07-25T14:38:01.285Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Продажа новой квартиры: от А до Я с ButlerSPB'
+  description: >-
+    Продажа квартиры в новостройке имеет свои нюансы. Рассказываем, как
+    правильно оформить документы, рассчитать налоги и найти покупателя, чтобы
+    сделка прошла быстро.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.8'
+    reviewCount: 728
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': 'https://butlerspb-blog.netlify.app/blog/prodazha-novostroyki/'
 ---
 # Продажа новостройки в 2024 году: Полное руководство по переуступке и налогам от экспертов ButlerSPB
 

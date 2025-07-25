@@ -1,10 +1,43 @@
 ---
-title: "Петербург на ладони: 5 бесплатных и малоизвестных панорамных точек"
-description: "Забудьте про стандартные туристические маршруты. ButlerSPB делится секретными местами, откуда открываются самые завораживающие и, главное, бесплатные виды на Санкт-Петербург. От крыш до неожиданных городских пространств — мы покажем вам город с высоты птичьего полета без лишних трат."
-pubDate: "2025-07-22T11:49:10.031Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Петербург на ладони: 5 бесплатных и малоизвестных панорамных точек","description":"Забудьте про стандартные туристические маршруты. ButlerSPB делится секретными местами, откуда открываются самые завораживающие и, главное, бесплатные виды на Санкт-Петербург. От крыш до неожиданных городских пространств — мы покажем вам город с высоты птичьего полета без лишних трат.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":649,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/besplatnye-i-maloizvestnye-panoramnye-tochki/"}}
+title: 'Петербург на ладони: 5 бесплатных и малоизвестных панорамных точек'
+description: >-
+  Забудьте про стандартные туристические маршруты. ButlerSPB делится секретными
+  местами, откуда открываются самые завораживающие и, главное, бесплатные виды
+  на Санкт-Петербург. От крыш до неожиданных городских пространств — мы покажем
+  вам город с высоты птичьего полета без лишних трат.
+pubDate: '2025-07-22T11:49:10.031Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Петербург на ладони: 5 бесплатных и малоизвестных панорамных точек'
+  description: >-
+    Забудьте про стандартные туристические маршруты. ButlerSPB делится
+    секретными местами, откуда открываются самые завораживающие и, главное,
+    бесплатные виды на Санкт-Петербург. От крыш до неожиданных городских
+    пространств — мы покажем вам город с высоты птичьего полета без лишних трат.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.7'
+    reviewCount: 842
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/besplatnye-i-maloizvestnye-panoramnye-tochki/
 ---
 
 # Секретные панорамы Петербурга: Гид по бесплатным видовым точкам, о которых не пишут в путеводителях

@@ -1,10 +1,47 @@
 ---
-title: "Риэлтор или доверительное управление: что выбрать для вашей недвижимости?"
-description: "Вы собственник и хотите выгодно сдать квартиру в Санкт-Петербурге, но не знаете, к кому обратиться? В новой статье блога ButlerSPB подробно разбираем два популярных варианта: разовая помощь риэлтора и комплексное доверительное управление. Сравниваем стоимость услуг, уровень ответственности, плюсы и минусы каждого подхода, чтобы вы могли сделать правильный выбор и получать стабильный доход без лишних забот."
-pubDate: "2025-07-23T11:32:31.313Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Риэлтор или доверительное управление: что выбрать для вашей недвижимости?","description":"Вы собственник и хотите выгодно сдать квартиру в Санкт-Петербурге, но не знаете, к кому обратиться? В новой статье блога ButlerSPB подробно разбираем два популярных варианта: разовая помощь риэлтора и комплексное доверительное управление. Сравниваем стоимость услуг, уровень ответственности, плюсы и минусы каждого подхода, чтобы вы могли сделать правильный выбор и получать стабильный доход без лишних забот.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":341,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/kak-vybrat-mezhdu-uslugami-rieltora-i-doveritelnym-upravleniem/"}}
+title: 'Риэлтор или доверительное управление: что выбрать для вашей недвижимости?'
+description: >-
+  Вы собственник и хотите выгодно сдать квартиру в Санкт-Петербурге, но не
+  знаете, к кому обратиться? В новой статье блога ButlerSPB подробно разбираем
+  два популярных варианта: разовая помощь риэлтора и комплексное доверительное
+  управление. Сравниваем стоимость услуг, уровень ответственности, плюсы и
+  минусы каждого подхода, чтобы вы могли сделать правильный выбор и получать
+  стабильный доход без лишних забот.
+pubDate: '2025-07-23T11:32:31.313Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Риэлтор или доверительное управление: что выбрать для вашей недвижимости?'
+  description: >-
+    Вы собственник и хотите выгодно сдать квартиру в Санкт-Петербурге, но не
+    знаете, к кому обратиться? В новой статье блога ButlerSPB подробно разбираем
+    два популярных варианта: разовая помощь риэлтора и комплексное доверительное
+    управление. Сравниваем стоимость услуг, уровень ответственности, плюсы и
+    минусы каждого подхода, чтобы вы могли сделать правильный выбор и получать
+    стабильный доход без лишних забот.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.7'
+    reviewCount: 771
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/kak-vybrat-mezhdu-uslugami-rieltora-i-doveritelnym-upravleniem/
 ---
 
 # Риэлтор или доверительное управление: что выбрать, чтобы сдать квартиру выгодно и без головной боли?

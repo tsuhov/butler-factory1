@@ -1,10 +1,43 @@
 ---
-title: "Навигатор по Санкт-Петербургу: все о метро, автобусах, трамваях и аквабусах"
-description: "Команда ButlerSPB подготовила полный гид по городскому транспорту Северной столицы. Узнайте, как выгодно и быстро передвигаться на метро, автобусах, трамваях и сезонных аквабусах. Вся информация о тарифах, маршрутах и полезных лайфхаках в одной статье."
-pubDate: "2025-07-22T11:44:03.859Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Навигатор по Санкт-Петербургу: все о метро, автобусах, трамваях и аквабусах","description":"Команда ButlerSPB подготовила полный гид по городскому транспорту Северной столицы. Узнайте, как выгодно и быстро передвигаться на метро, автобусах, трамваях и сезонных аквабусах. Вся информация о тарифах, маршрутах и полезных лайфхаках в одной статье.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.8","reviewCount":828,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/vse-o-metro-avtobusah-tramvayah-i-akvabusah/"}}
+title: 'Навигатор по Санкт-Петербургу: все о метро, автобусах, трамваях и аквабусах'
+description: >-
+  Команда ButlerSPB подготовила полный гид по городскому транспорту Северной
+  столицы. Узнайте, как выгодно и быстро передвигаться на метро, автобусах,
+  трамваях и сезонных аквабусах. Вся информация о тарифах, маршрутах и полезных
+  лайфхаках в одной статье.
+pubDate: '2025-07-22T11:44:03.859Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Навигатор по Санкт-Петербургу: все о метро, автобусах, трамваях и аквабусах'
+  description: >-
+    Команда ButlerSPB подготовила полный гид по городскому транспорту Северной
+    столицы. Узнайте, как выгодно и быстро передвигаться на метро, автобусах,
+    трамваях и сезонных аквабусах. Вся информация о тарифах, маршрутах и
+    полезных лайфхаках в одной статье.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '5.0'
+    reviewCount: 589
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/vse-o-metro-avtobusah-tramvayah-i-akvabusah/
 ---
 
 # Гид по транспорту Санкт-Петербурга: Метро, автобусы, трамваи и аквабусы — как передвигаться по городу быстро и выгодно.

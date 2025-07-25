@@ -1,11 +1,38 @@
 ---
-title: "Оснащение квартиры: полный гайд от ButlerSPB"
-description: "Создаем уют и функциональность в вашем новом доме. Наш полный гайд поможет вам составить список необходимого: от мебели и техники до текстиля и декора."
-keywords: "оснащение квартиры, чек-лист для квартиры, что купить в квартиру, мебель, бытовая техника, декор"
-pubDate: "2025-07-25T14:12:45.254Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Оснащение квартиры: полный гайд от ButlerSPB","description":"Создаем уют и функциональность в вашем новом доме. Наш полный гайд поможет вам составить список необходимого: от мебели и техники до текстиля и декора.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.7","reviewCount":395,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/osnaschenie-kvartiry/"}}
+title: 'Оснащение квартиры: полный гайд от ButlerSPB'
+description: >-
+  Создаем уют и функциональность в вашем новом доме. Наш полный гайд поможет вам
+  составить список необходимого: от мебели и техники до текстиля и декора.
+pubDate: '2025-07-25T14:12:45.254Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Оснащение квартиры: полный гайд от ButlerSPB'
+  description: >-
+    Создаем уют и функциональность в вашем новом доме. Наш полный гайд поможет
+    вам составить список необходимого: от мебели и техники до текстиля и декора.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.7'
+    reviewCount: 697
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': 'https://butlerspb-blog.netlify.app/blog/osnaschenie-kvartiry/'
 ---
 # Оснащение квартиры для сдачи и для жизни: чек-лист, бюджет и советы от экспертов ButlerSPB
 

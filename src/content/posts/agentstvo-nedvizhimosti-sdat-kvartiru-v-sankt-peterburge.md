@@ -1,10 +1,47 @@
 ---
-title: "Как быстро и выгодно сдать квартиру в Санкт-Петербурге через агентство: руководство от ButlerSPB"
-description: "Планируете сдавать квартиру в аренду в СПб? Узнайте, почему работа с агентством недвижимости — это безопасно и эффективно. В блоге ButlerSPB разбираем все этапы: от профессиональной оценки и фотосъемки до поиска надежных жильцов и юридического сопровождения сделки."
-pubDate: "2025-07-22T09:50:38.615Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Как быстро и выгодно сдать квартиру в Санкт-Петербурге через агентство: руководство от ButlerSPB","description":"Планируете сдавать квартиру в аренду в СПб? Узнайте, почему работа с агентством недвижимости — это безопасно и эффективно. В блоге ButlerSPB разбираем все этапы: от профессиональной оценки и фотосъемки до поиска надежных жильцов и юридического сопровождения сделки.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":818,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/agentstvo-nedvizhimosti-sdat-kvartiru-v-sankt-peterburge/"}}
+title: >-
+  Как быстро и выгодно сдать квартиру в Санкт-Петербурге через агентство:
+  руководство от ButlerSPB
+description: >-
+  Планируете сдавать квартиру в аренду в СПб? Узнайте, почему работа с
+  агентством недвижимости — это безопасно и эффективно. В блоге ButlerSPB
+  разбираем все этапы: от профессиональной оценки и фотосъемки до поиска
+  надежных жильцов и юридического сопровождения сделки.
+pubDate: '2025-07-22T09:50:38.615Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: >-
+    Как быстро и выгодно сдать квартиру в Санкт-Петербурге через агентство:
+    руководство от ButlerSPB
+  description: >-
+    Планируете сдавать квартиру в аренду в СПб? Узнайте, почему работа с
+    агентством недвижимости — это безопасно и эффективно. В блоге ButlerSPB
+    разбираем все этапы: от профессиональной оценки и фотосъемки до поиска
+    надежных жильцов и юридического сопровождения сделки.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.9'
+    reviewCount: 551
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/agentstvo-nedvizhimosti-sdat-kvartiru-v-sankt-peterburge/
 ---
 
 # Сдать квартиру в СПб быстро, выгодно и безопасно: Пошаговый план от экспертов ButlerSPB

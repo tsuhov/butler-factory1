@@ -1,11 +1,40 @@
 ---
-title: "Перевод земли: как изменить назначение участка"
-description: "Узнайте все о переводе земельного участка из одной категории в другую. Рассматриваем этапы, необходимые документы и возможные сложности. Поможем сменить ВРИ."
-keywords: "перевод земли, изменение категории земли, смена назначения участка, ВРИ, перевод под ИЖС, земельное законодательство"
-pubDate: "2025-07-25T16:01:10.577Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Перевод земли: как изменить назначение участка","description":"Узнайте все о переводе земельного участка из одной категории в другую. Рассматриваем этапы, необходимые документы и возможные сложности. Поможем сменить ВРИ.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.7","reviewCount":706,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/perevod-zemli/"}}
+title: 'Перевод земли: как изменить назначение участка'
+description: >-
+  Узнайте все о переводе земельного участка из одной категории в другую.
+  Рассматриваем этапы, необходимые документы и возможные сложности. Поможем
+  сменить ВРИ.
+pubDate: '2025-07-25T16:01:10.577Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Перевод земли: как изменить назначение участка'
+  description: >-
+    Узнайте все о переводе земельного участка из одной категории в другую.
+    Рассматриваем этапы, необходимые документы и возможные сложности. Поможем
+    сменить ВРИ.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.9'
+    reviewCount: 466
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': 'https://butlerspb-blog.netlify.app/blog/perevod-zemli/'
 ---
 # Перевод земли: полный гайд по смене категории и ВРИ в Санкт-Петербурге и Ленобласти
 

@@ -1,11 +1,40 @@
 ---
-title: "Бюджетный ремонт: как сэкономить без потерь"
-description: "Планируете ремонт, но бюджет ограничен? ButlerSPB делится секретами, как обновить квартиру без лишних трат. Рассказываем, на чем можно сэкономить, а где не стоит."
-keywords: "бюджетный ремонт, ремонт недорого, эконом ремонт, как сэкономить на ремонте, ремонт квартиры спб, советы по ремонту"
-pubDate: "2025-07-25T15:45:10.964Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Бюджетный ремонт: как сэкономить без потерь","description":"Планируете ремонт, но бюджет ограничен? ButlerSPB делится секретами, как обновить квартиру без лишних трат. Рассказываем, на чем можно сэкономить, а где не стоит.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.8","reviewCount":560,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/remont-byudzhet/"}}
+title: 'Бюджетный ремонт: как сэкономить без потерь'
+description: >-
+  Планируете ремонт, но бюджет ограничен? ButlerSPB делится секретами, как
+  обновить квартиру без лишних трат. Рассказываем, на чем можно сэкономить, а
+  где не стоит.
+pubDate: '2025-07-25T15:45:10.964Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Бюджетный ремонт: как сэкономить без потерь'
+  description: >-
+    Планируете ремонт, но бюджет ограничен? ButlerSPB делится секретами, как
+    обновить квартиру без лишних трат. Рассказываем, на чем можно сэкономить, а
+    где не стоит.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.8'
+    reviewCount: 883
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': 'https://butlerspb-blog.netlify.app/blog/remont-byudzhet/'
 ---
 # Как спланировать бюджет на ремонт и не выйти за его рамки: Пошаговое руководство от экспертов ButlerSPB
 

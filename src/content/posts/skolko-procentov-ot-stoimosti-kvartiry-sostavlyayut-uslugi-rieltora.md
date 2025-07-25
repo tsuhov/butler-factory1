@@ -1,10 +1,51 @@
 ---
-title: "Сколько процентов от стоимости квартиры составляют услуги риэлтора: полный разбор от ButlerSPB"
-description: "Планируете сделку с недвижимостью и хотите понять, какой бюджет заложить на услуги специалиста? В нашей новой статье мы подробно разбираем, из чего складывается комиссия риэлтора, какой процент от стоимости квартиры считается нормой на рынке Санкт-Петербурга, что влияет на конечную сумму и какие услуги входят в стандартный пакет. Узнайте, за что вы платите и как выбрать специалиста с прозрачным ценообразованием."
-pubDate: "2025-07-23T12:22:38.962Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Сколько процентов от стоимости квартиры составляют услуги риэлтора: полный разбор от ButlerSPB","description":"Планируете сделку с недвижимостью и хотите понять, какой бюджет заложить на услуги специалиста? В нашей новой статье мы подробно разбираем, из чего складывается комиссия риэлтора, какой процент от стоимости квартиры считается нормой на рынке Санкт-Петербурга, что влияет на конечную сумму и какие услуги входят в стандартный пакет. Узнайте, за что вы платите и как выбрать специалиста с прозрачным ценообразованием.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"5.0","reviewCount":566,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/skolko-procentov-ot-stoimosti-kvartiry-sostavlyayut-uslugi-rieltora/"}}
+title: >-
+  Сколько процентов от стоимости квартиры составляют услуги риэлтора: полный
+  разбор от ButlerSPB
+description: >-
+  Планируете сделку с недвижимостью и хотите понять, какой бюджет заложить на
+  услуги специалиста? В нашей новой статье мы подробно разбираем, из чего
+  складывается комиссия риэлтора, какой процент от стоимости квартиры считается
+  нормой на рынке Санкт-Петербурга, что влияет на конечную сумму и какие услуги
+  входят в стандартный пакет. Узнайте, за что вы платите и как выбрать
+  специалиста с прозрачным ценообразованием.
+pubDate: '2025-07-23T12:22:38.962Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: >-
+    Сколько процентов от стоимости квартиры составляют услуги риэлтора: полный
+    разбор от ButlerSPB
+  description: >-
+    Планируете сделку с недвижимостью и хотите понять, какой бюджет заложить на
+    услуги специалиста? В нашей новой статье мы подробно разбираем, из чего
+    складывается комиссия риэлтора, какой процент от стоимости квартиры
+    считается нормой на рынке Санкт-Петербурга, что влияет на конечную сумму и
+    какие услуги входят в стандартный пакет. Узнайте, за что вы платите и как
+    выбрать специалиста с прозрачным ценообразованием.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.9'
+    reviewCount: 788
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/skolko-procentov-ot-stoimosti-kvartiry-sostavlyayut-uslugi-rieltora/
 ---
 
 # Сколько стоят услуги риэлтора в Санкт-Петербурге? Полный разбор: от процентов до реальной выгоды

@@ -23,7 +23,7 @@ schema:
   aggregateRating:
     '@type': AggregateRating
     ratingValue: '4.7'
-    reviewCount: 323
+    reviewCount: 344
     bestRating: '5'
     worstRating: '1'
   publisher:

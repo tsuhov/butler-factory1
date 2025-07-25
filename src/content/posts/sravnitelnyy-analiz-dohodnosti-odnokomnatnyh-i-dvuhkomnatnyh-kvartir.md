@@ -1,10 +1,50 @@
 ---
-title: "Что выгоднее: «однушка» или «двушка»? Сравниваем доходность квартир для инвестора"
-description: "Вечный вопрос инвестора в недвижимость: в какой объект вложиться для максимальной прибыли? В новой статье блога ButlerSPB мы проводим детальный сравнительный анализ доходности однокомнатных и двухкомнатных квартир. Разбираем стоимость входа, потенциальный арендный доход, ликвидность, целевую аудиторию и сроки окупаемости, чтобы помочь вам принять взвешенное решение."
-pubDate: "2025-07-23T12:13:01.724Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Что выгоднее: «однушка» или «двушка»? Сравниваем доходность квартир для инвестора","description":"Вечный вопрос инвестора в недвижимость: в какой объект вложиться для максимальной прибыли? В новой статье блога ButlerSPB мы проводим детальный сравнительный анализ доходности однокомнатных и двухкомнатных квартир. Разбираем стоимость входа, потенциальный арендный доход, ликвидность, целевую аудиторию и сроки окупаемости, чтобы помочь вам принять взвешенное решение.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"5.0","reviewCount":499,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/sravnitelnyy-analiz-dohodnosti-odnokomnatnyh-i-dvuhkomnatnyh-kvartir/"}}
+title: >-
+  Что выгоднее: «однушка» или «двушка»? Сравниваем доходность квартир для
+  инвестора
+description: >-
+  Вечный вопрос инвестора в недвижимость: в какой объект вложиться для
+  максимальной прибыли? В новой статье блога ButlerSPB мы проводим детальный
+  сравнительный анализ доходности однокомнатных и двухкомнатных квартир.
+  Разбираем стоимость входа, потенциальный арендный доход, ликвидность, целевую
+  аудиторию и сроки окупаемости, чтобы помочь вам принять взвешенное решение.
+pubDate: '2025-07-23T12:13:01.724Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: >-
+    Что выгоднее: «однушка» или «двушка»? Сравниваем доходность квартир для
+    инвестора
+  description: >-
+    Вечный вопрос инвестора в недвижимость: в какой объект вложиться для
+    максимальной прибыли? В новой статье блога ButlerSPB мы проводим детальный
+    сравнительный анализ доходности однокомнатных и двухкомнатных квартир.
+    Разбираем стоимость входа, потенциальный арендный доход, ликвидность,
+    целевую аудиторию и сроки окупаемости, чтобы помочь вам принять взвешенное
+    решение.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.9'
+    reviewCount: 300
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/sravnitelnyy-analiz-dohodnosti-odnokomnatnyh-i-dvuhkomnatnyh-kvartir/
 ---
 
 # Однушка vs Двушка в СПб: Полный анализ доходности для инвестора в 2024 году

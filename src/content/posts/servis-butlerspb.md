@@ -1,11 +1,40 @@
 ---
-title: "Сервис ButlerSPB: ваш личный ассистент в СПб"
-description: "Откройте для себя мир эксклюзивных возможностей с ButlerSPB. Наш консьерж-сервис в Санкт-Петербурге решает любые задачи: от бронирования до организации мероприятий."
-keywords: "ButlerSPB, консьерж-сервис, личный ассистент, Санкт-Петербург, премиум услуги, персональный помощник"
-pubDate: "2025-07-25T15:52:38.134Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Сервис ButlerSPB: ваш личный ассистент в СПб","description":"Откройте для себя мир эксклюзивных возможностей с ButlerSPB. Наш консьерж-сервис в Санкт-Петербурге решает любые задачи: от бронирования до организации мероприятий.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":803,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/servis-butlerspb/"}}
+title: 'Сервис ButlerSPB: ваш личный ассистент в СПб'
+description: >-
+  Откройте для себя мир эксклюзивных возможностей с ButlerSPB. Наш
+  консьерж-сервис в Санкт-Петербурге решает любые задачи: от бронирования до
+  организации мероприятий.
+pubDate: '2025-07-25T15:52:38.134Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Сервис ButlerSPB: ваш личный ассистент в СПб'
+  description: >-
+    Откройте для себя мир эксклюзивных возможностей с ButlerSPB. Наш
+    консьерж-сервис в Санкт-Петербурге решает любые задачи: от бронирования до
+    организации мероприятий.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '5.0'
+    reviewCount: 623
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': 'https://butlerspb-blog.netlify.app/blog/servis-butlerspb/'
 ---
 # ButlerSPB — Больше, чем консьерж-сервис. Ваш ключ к свободному времени и жизни без забот в Петербурге
 

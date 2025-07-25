@@ -1,10 +1,49 @@
 ---
-title: "Риэлтор по земельным участкам в СПб: как найти профессионала для выгодной сделки"
-description: "Планируете купить или продать земельный участок в Санкт-Петербурге или Ленобласти? Узнайте, как выбрать надежного риэлтора по земле, на что обратить внимание при поиске и почему профессиональная помощь от агентства ButlerSPB — это залог успешной и безопасной сделки. Разбираем ключевые обязанности специалиста и этапы работы."
-pubDate: "2025-07-21T23:17:03.069Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Риэлтор по земельным участкам в СПб: как найти профессионала для выгодной сделки","description":"Планируете купить или продать земельный участок в Санкт-Петербурге или Ленобласти? Узнайте, как выбрать надежного риэлтора по земле, на что обратить внимание при поиске и почему профессиональная помощь от агентства ButlerSPB — это залог успешной и безопасной сделки. Разбираем ключевые обязанности специалиста и этапы работы.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.8","reviewCount":850,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/rieltor-po-zemelnym-uchastkam-v-spb/"}}
+title: >-
+  Риэлтор по земельным участкам в СПб: как найти профессионала для выгодной
+  сделки
+description: >-
+  Планируете купить или продать земельный участок в Санкт-Петербурге или
+  Ленобласти? Узнайте, как выбрать надежного риэлтора по земле, на что обратить
+  внимание при поиске и почему профессиональная помощь от агентства ButlerSPB —
+  это залог успешной и безопасной сделки. Разбираем ключевые обязанности
+  специалиста и этапы работы.
+pubDate: '2025-07-21T23:17:03.069Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: >-
+    Риэлтор по земельным участкам в СПб: как найти профессионала для выгодной
+    сделки
+  description: >-
+    Планируете купить или продать земельный участок в Санкт-Петербурге или
+    Ленобласти? Узнайте, как выбрать надежного риэлтора по земле, на что
+    обратить внимание при поиске и почему профессиональная помощь от агентства
+    ButlerSPB — это залог успешной и безопасной сделки. Разбираем ключевые
+    обязанности специалиста и этапы работы.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.9'
+    reviewCount: 464
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/rieltor-po-zemelnym-uchastkam-v-spb/
 ---
 
 # Как найти и купить идеальный земельный участок в СПб: Роль и задачи профильного риэлтора

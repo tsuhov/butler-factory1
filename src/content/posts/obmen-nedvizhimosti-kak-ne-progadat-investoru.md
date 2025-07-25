@@ -1,10 +1,49 @@
 ---
-title: "Обмен недвижимости: как инвестору не прогадать. Полное руководство от ButlerSPB"
-description: "Планируете инвестировать в недвижимость через обмен? В новой статье блога ButlerSPB разбираем все тонкости этого процесса. Узнайте, какие существуют виды обмена, как правильно оценить объекты, избежать юридических рисков и налоговых ловушек, чтобы ваша сделка была максимально выгодной. Пошаговая инструкция и советы экспертов, которые помогут вам приумножить капитал."
-pubDate: "2025-07-22T16:11:51.032Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Обмен недвижимости: как инвестору не прогадать. Полное руководство от ButlerSPB","description":"Планируете инвестировать в недвижимость через обмен? В новой статье блога ButlerSPB разбираем все тонкости этого процесса. Узнайте, какие существуют виды обмена, как правильно оценить объекты, избежать юридических рисков и налоговых ловушек, чтобы ваша сделка была максимально выгодной. Пошаговая инструкция и советы экспертов, которые помогут вам приумножить капитал.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.7","reviewCount":543,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/obmen-nedvizhimosti-kak-ne-progadat-investoru/"}}
+title: >-
+  Обмен недвижимости: как инвестору не прогадать. Полное руководство от
+  ButlerSPB
+description: >-
+  Планируете инвестировать в недвижимость через обмен? В новой статье блога
+  ButlerSPB разбираем все тонкости этого процесса. Узнайте, какие существуют
+  виды обмена, как правильно оценить объекты, избежать юридических рисков и
+  налоговых ловушек, чтобы ваша сделка была максимально выгодной. Пошаговая
+  инструкция и советы экспертов, которые помогут вам приумножить капитал.
+pubDate: '2025-07-22T16:11:51.032Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: >-
+    Обмен недвижимости: как инвестору не прогадать. Полное руководство от
+    ButlerSPB
+  description: >-
+    Планируете инвестировать в недвижимость через обмен? В новой статье блога
+    ButlerSPB разбираем все тонкости этого процесса. Узнайте, какие существуют
+    виды обмена, как правильно оценить объекты, избежать юридических рисков и
+    налоговых ловушек, чтобы ваша сделка была максимально выгодной. Пошаговая
+    инструкция и советы экспертов, которые помогут вам приумножить капитал.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.7'
+    reviewCount: 632
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/obmen-nedvizhimosti-kak-ne-progadat-investoru/
 ---
 
 # Обмен недвижимости: Полное руководство для инвестора, как не прогадать в 2024 году

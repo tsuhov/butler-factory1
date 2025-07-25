@@ -1,10 +1,47 @@
 ---
-title: "Аренда квартир в СПб: Как агентство недвижимости ButlerSPB поможет найти идеальный дом"
-description: "Планируете снять квартиру в Санкт-Петербурге? В нашей новой статье блога ButlerSPB мы разбираем все этапы аренды через агентство: от подбора вариантов до заключения договора. Узнайте о преимуществах работы с профессионалами и избегайте распространенных ошибок."
-pubDate: "2025-07-21T23:39:50.686Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Аренда квартир в СПб: Как агентство недвижимости ButlerSPB поможет найти идеальный дом","description":"Планируете снять квартиру в Санкт-Петербурге? В нашей новой статье блога ButlerSPB мы разбираем все этапы аренды через агентство: от подбора вариантов до заключения договора. Узнайте о преимуществах работы с профессионалами и избегайте распространенных ошибок.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.8","reviewCount":732,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/agentstvo-nedvizhimosti-arenda-kvartir-v-spb/"}}
+title: >-
+  Аренда квартир в СПб: Как агентство недвижимости ButlerSPB поможет найти
+  идеальный дом
+description: >-
+  Планируете снять квартиру в Санкт-Петербурге? В нашей новой статье блога
+  ButlerSPB мы разбираем все этапы аренды через агентство: от подбора вариантов
+  до заключения договора. Узнайте о преимуществах работы с профессионалами и
+  избегайте распространенных ошибок.
+pubDate: '2025-07-21T23:39:50.686Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: >-
+    Аренда квартир в СПб: Как агентство недвижимости ButlerSPB поможет найти
+    идеальный дом
+  description: >-
+    Планируете снять квартиру в Санкт-Петербурге? В нашей новой статье блога
+    ButlerSPB мы разбираем все этапы аренды через агентство: от подбора
+    вариантов до заключения договора. Узнайте о преимуществах работы с
+    профессионалами и избегайте распространенных ошибок.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.9'
+    reviewCount: 446
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/agentstvo-nedvizhimosti-arenda-kvartir-v-spb/
 ---
 
 # Аренда квартир в СПБ: Ваш гид по безопасному и быстрому поиску с ButlerSPB

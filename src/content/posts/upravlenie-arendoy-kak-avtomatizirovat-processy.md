@@ -1,10 +1,45 @@
 ---
-title: "Управление арендой: как автоматизировать процессы и повысить доходность"
-description: "В новой статье блога ButlerSPB разбираем, как современные технологии помогают собственникам экономить время и деньги. Узнайте, какие рутинные задачи по управлению арендой — от поиска жильцов до сбора платежей — можно и нужно автоматизировать уже сегодня, чтобы увеличить прибыль и улучшить сервис для арендаторов."
-pubDate: "2025-07-22T13:53:47.954Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Управление арендой: как автоматизировать процессы и повысить доходность","description":"В новой статье блога ButlerSPB разбираем, как современные технологии помогают собственникам экономить время и деньги. Узнайте, какие рутинные задачи по управлению арендой — от поиска жильцов до сбора платежей — можно и нужно автоматизировать уже сегодня, чтобы увеличить прибыль и улучшить сервис для арендаторов.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.8","reviewCount":742,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/upravlenie-arendoy-kak-avtomatizirovat-processy/"}}
+title: 'Управление арендой: как автоматизировать процессы и повысить доходность'
+description: >-
+  В новой статье блога ButlerSPB разбираем, как современные технологии помогают
+  собственникам экономить время и деньги. Узнайте, какие рутинные задачи по
+  управлению арендой — от поиска жильцов до сбора платежей — можно и нужно
+  автоматизировать уже сегодня, чтобы увеличить прибыль и улучшить сервис для
+  арендаторов.
+pubDate: '2025-07-22T13:53:47.954Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Управление арендой: как автоматизировать процессы и повысить доходность'
+  description: >-
+    В новой статье блога ButlerSPB разбираем, как современные технологии
+    помогают собственникам экономить время и деньги. Узнайте, какие рутинные
+    задачи по управлению арендой — от поиска жильцов до сбора платежей — можно и
+    нужно автоматизировать уже сегодня, чтобы увеличить прибыль и улучшить
+    сервис для арендаторов.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.9'
+    reviewCount: 796
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/upravlenie-arendoy-kak-avtomatizirovat-processy/
 ---
 
 # Управление арендой: как автоматизировать рутинные процессы и увеличить доходность

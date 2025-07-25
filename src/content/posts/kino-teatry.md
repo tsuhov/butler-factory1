@@ -1,11 +1,40 @@
 ---
-title: "Современные кинотеатры: больше чем просто кино"
-description: "Современный кинотеатр – это не просто просмотр фильма. Это полное погружение благодаря технологиям IMAX и 4DX. Узнайте, как менялся кинематограф и почему он жив."
-keywords: "кинотеатр, кино, фильм, IMAX, 4DX, история кино, досуг"
-pubDate: "2025-07-25T15:56:28.682Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Современные кинотеатры: больше чем просто кино","description":"Современный кинотеатр – это не просто просмотр фильма. Это полное погружение благодаря технологиям IMAX и 4DX. Узнайте, как менялся кинематограф и почему он жив.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.8","reviewCount":794,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/kino-teatry/"}}
+title: 'Современные кинотеатры: больше чем просто кино'
+description: >-
+  Современный кинотеатр – это не просто просмотр фильма. Это полное погружение
+  благодаря технологиям IMAX и 4DX. Узнайте, как менялся кинематограф и почему
+  он жив.
+pubDate: '2025-07-25T15:56:28.682Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Современные кинотеатры: больше чем просто кино'
+  description: >-
+    Современный кинотеатр – это не просто просмотр фильма. Это полное погружение
+    благодаря технологиям IMAX и 4DX. Узнайте, как менялся кинематограф и почему
+    он жив.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.9'
+    reviewCount: 648
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': 'https://butlerspb-blog.netlify.app/blog/kino-teatry/'
 ---
 # Кинотеатры Санкт-Петербурга: Гид по лучшим залам от ButlerSPB — от роскошных VIP до культовых
 

@@ -1,11 +1,40 @@
 ---
-title: "Комплексный подход ButlerSPB: ваш путь к успеху"
-description: "Узнайте, почему комплексный подход — это не просто набор услуг, а целостная стратегия для решения ваших задач. Мы анализируем все аспекты для достижения результата."
-keywords: "комплексный подход, системный анализ, стратегия, решение задач, эффективность, ButlerSPB, управление проектами"
-pubDate: "2025-07-25T16:16:02.568Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Комплексный подход ButlerSPB: ваш путь к успеху","description":"Узнайте, почему комплексный подход — это не просто набор услуг, а целостная стратегия для решения ваших задач. Мы анализируем все аспекты для достижения результата.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":330,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/kompleksnyy-podhod/"}}
+title: 'Комплексный подход ButlerSPB: ваш путь к успеху'
+description: >-
+  Узнайте, почему комплексный подход — это не просто набор услуг, а целостная
+  стратегия для решения ваших задач. Мы анализируем все аспекты для достижения
+  результата.
+pubDate: '2025-07-25T16:16:02.568Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Комплексный подход ButlerSPB: ваш путь к успеху'
+  description: >-
+    Узнайте, почему комплексный подход — это не просто набор услуг, а целостная
+    стратегия для решения ваших задач. Мы анализируем все аспекты для достижения
+    результата.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.8'
+    reviewCount: 886
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': 'https://butlerspb-blog.netlify.app/blog/kompleksnyy-podhod/'
 ---
 # Комплексный подход в маркетинге: почему ваш бизнес теряет деньги, пока SEO-шник воюет с таргетологом
 

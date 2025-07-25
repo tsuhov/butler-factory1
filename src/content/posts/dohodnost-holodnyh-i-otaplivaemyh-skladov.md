@@ -1,10 +1,47 @@
 ---
-title: "Холодный расчет: сравниваем доходность отапливаемых и «холодных» складов"
-description: "Выбор между отапливаемым и «холодным» складом — одно из ключевых решений для инвестора. В новой статье блога ButlerSPB мы детально разбираем экономику обоих вариантов: сравниваем первоначальные вложения, эксплуатационные расходы, разницу в арендных ставках и сроки окупаемости. Анализируем, какой тип склада станет более выгодной инвестицией в текущих рыночных условиях и для каких групп арендаторов подходит каждый из них."
-pubDate: "2025-07-22T22:12:42.336Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Холодный расчет: сравниваем доходность отапливаемых и «холодных» складов","description":"Выбор между отапливаемым и «холодным» складом — одно из ключевых решений для инвестора. В новой статье блога ButlerSPB мы детально разбираем экономику обоих вариантов: сравниваем первоначальные вложения, эксплуатационные расходы, разницу в арендных ставках и сроки окупаемости. Анализируем, какой тип склада станет более выгодной инвестицией в текущих рыночных условиях и для каких групп арендаторов подходит каждый из них.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.8","reviewCount":350,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/dohodnost-holodnyh-i-otaplivaemyh-skladov/"}}
+title: 'Холодный расчет: сравниваем доходность отапливаемых и «холодных» складов'
+description: >-
+  Выбор между отапливаемым и «холодным» складом — одно из ключевых решений для
+  инвестора. В новой статье блога ButlerSPB мы детально разбираем экономику
+  обоих вариантов: сравниваем первоначальные вложения, эксплуатационные расходы,
+  разницу в арендных ставках и сроки окупаемости. Анализируем, какой тип склада
+  станет более выгодной инвестицией в текущих рыночных условиях и для каких
+  групп арендаторов подходит каждый из них.
+pubDate: '2025-07-22T22:12:42.336Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Холодный расчет: сравниваем доходность отапливаемых и «холодных» складов'
+  description: >-
+    Выбор между отапливаемым и «холодным» складом — одно из ключевых решений для
+    инвестора. В новой статье блога ButlerSPB мы детально разбираем экономику
+    обоих вариантов: сравниваем первоначальные вложения, эксплуатационные
+    расходы, разницу в арендных ставках и сроки окупаемости. Анализируем, какой
+    тип склада станет более выгодной инвестицией в текущих рыночных условиях и
+    для каких групп арендаторов подходит каждый из них.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.8'
+    reviewCount: 340
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/dohodnost-holodnyh-i-otaplivaemyh-skladov/
 ---
 
 # Холодный vs. Отапливаемый склад: детальный расчет доходности и окупаемости для инвестора в 2024 году

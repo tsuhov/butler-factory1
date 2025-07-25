@@ -1,10 +1,48 @@
 ---
-title: "Оснащение студии для посуточной аренды: минимальный набор мебели и техники"
-description: "Планируете сдавать студию в посуточную аренду, но не знаете, с чего начать? Правильное оснащение — ключ к высоким оценкам и постоянному потоку гостей. В этой статье команда ButlerSPB собрала для вас исчерпывающий чек-лист необходимой мебели и техники, который поможет создать уютное и функциональное пространство при минимальных вложениях. Узнайте, как превратить вашу студию в привлекательный объект для туристов и деловых путешественников."
-pubDate: "2025-07-23T10:39:20.478Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Оснащение студии для посуточной аренды: минимальный набор мебели и техники","description":"Планируете сдавать студию в посуточную аренду, но не знаете, с чего начать? Правильное оснащение — ключ к высоким оценкам и постоянному потоку гостей. В этой статье команда ButlerSPB собрала для вас исчерпывающий чек-лист необходимой мебели и техники, который поможет создать уютное и функциональное пространство при минимальных вложениях. Узнайте, как превратить вашу студию в привлекательный объект для туристов и деловых путешественников.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.7","reviewCount":677,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/osnaschenie-studii-dlya-posutochnoy-arendy-minimalnyy-nabor-mebeli-i-tehniki/"}}
+title: 'Оснащение студии для посуточной аренды: минимальный набор мебели и техники'
+description: >-
+  Планируете сдавать студию в посуточную аренду, но не знаете, с чего начать?
+  Правильное оснащение — ключ к высоким оценкам и постоянному потоку гостей. В
+  этой статье команда ButlerSPB собрала для вас исчерпывающий чек-лист
+  необходимой мебели и техники, который поможет создать уютное и функциональное
+  пространство при минимальных вложениях. Узнайте, как превратить вашу студию в
+  привлекательный объект для туристов и деловых путешественников.
+pubDate: '2025-07-23T10:39:20.478Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Оснащение студии для посуточной аренды: минимальный набор мебели и техники'
+  description: >-
+    Планируете сдавать студию в посуточную аренду, но не знаете, с чего начать?
+    Правильное оснащение — ключ к высоким оценкам и постоянному потоку гостей. В
+    этой статье команда ButlerSPB собрала для вас исчерпывающий чек-лист
+    необходимой мебели и техники, который поможет создать уютное и
+    функциональное пространство при минимальных вложениях. Узнайте, как
+    превратить вашу студию в привлекательный объект для туристов и деловых
+    путешественников.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.7'
+    reviewCount: 821
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/osnaschenie-studii-dlya-posutochnoy-arendy-minimalnyy-nabor-mebeli-i-tehniki/
 ---
 
 # Оснащение студии для посуточной аренды: как не потратить лишнего и получить 5 звезд от гостей

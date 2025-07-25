@@ -1,11 +1,40 @@
 ---
-title: "Максимизация прибыли: роль аутсорсинга"
-description: "Узнайте, как грамотный аутсорсинг персонала от ButlerSPB помогает отелям и ресторанам сокращать издержки и эффективно управлять ресурсами для роста прибыли."
-keywords: "максимизация прибыли, аутсорсинг персонала, гостиничный бизнес, управление затратами, эффективность, HoReCa, ButlerSPB"
-pubDate: "2025-07-25T16:37:29.750Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Максимизация прибыли: роль аутсорсинга","description":"Узнайте, как грамотный аутсорсинг персонала от ButlerSPB помогает отелям и ресторанам сокращать издержки и эффективно управлять ресурсами для роста прибыли.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.8","reviewCount":684,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/pribyl-maksimalnaya/"}}
+title: 'Максимизация прибыли: роль аутсорсинга'
+description: >-
+  Узнайте, как грамотный аутсорсинг персонала от ButlerSPB помогает отелям и
+  ресторанам сокращать издержки и эффективно управлять ресурсами для роста
+  прибыли.
+pubDate: '2025-07-25T16:37:29.750Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Максимизация прибыли: роль аутсорсинга'
+  description: >-
+    Узнайте, как грамотный аутсорсинг персонала от ButlerSPB помогает отелям и
+    ресторанам сокращать издержки и эффективно управлять ресурсами для роста
+    прибыли.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.8'
+    reviewCount: 604
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': 'https://butlerspb-blog.netlify.app/blog/pribyl-maksimalnaya/'
 ---
 # Максимальная прибыль — не мечта, а система: пошаговый план для собственника от ButlerSPB
 

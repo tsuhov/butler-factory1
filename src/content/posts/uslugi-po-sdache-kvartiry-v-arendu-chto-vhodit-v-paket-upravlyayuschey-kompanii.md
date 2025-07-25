@@ -1,10 +1,45 @@
 ---
-title: "Услуги по сдаче квартиры в аренду: что входит в пакет управляющей компании"
-description: "Хотите сдавать квартиру в аренду без лишних хлопот? Узнайте, какой комплекс услуг предлагает управляющая компания для собственников жилья. В блоге ButlerSPB подробно разбираем, что входит в стандартный пакет: от поиска и проверки арендаторов до полного юридического и технического сопровождения вашего объекта."
-pubDate: "2025-07-22T13:59:29.203Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Услуги по сдаче квартиры в аренду: что входит в пакет управляющей компании","description":"Хотите сдавать квартиру в аренду без лишних хлопот? Узнайте, какой комплекс услуг предлагает управляющая компания для собственников жилья. В блоге ButlerSPB подробно разбираем, что входит в стандартный пакет: от поиска и проверки арендаторов до полного юридического и технического сопровождения вашего объекта.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":407,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/uslugi-po-sdache-kvartiry-v-arendu-chto-vhodit-v-paket-upravlyayuschey-kompanii/"}}
+title: 'Услуги по сдаче квартиры в аренду: что входит в пакет управляющей компании'
+description: >-
+  Хотите сдавать квартиру в аренду без лишних хлопот? Узнайте, какой комплекс
+  услуг предлагает управляющая компания для собственников жилья. В блоге
+  ButlerSPB подробно разбираем, что входит в стандартный пакет: от поиска и
+  проверки арендаторов до полного юридического и технического сопровождения
+  вашего объекта.
+pubDate: '2025-07-22T13:59:29.203Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Услуги по сдаче квартиры в аренду: что входит в пакет управляющей компании'
+  description: >-
+    Хотите сдавать квартиру в аренду без лишних хлопот? Узнайте, какой комплекс
+    услуг предлагает управляющая компания для собственников жилья. В блоге
+    ButlerSPB подробно разбираем, что входит в стандартный пакет: от поиска и
+    проверки арендаторов до полного юридического и технического сопровождения
+    вашего объекта.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.7'
+    reviewCount: 830
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/uslugi-po-sdache-kvartiry-v-arendu-chto-vhodit-v-paket-upravlyayuschey-kompanii/
 ---
 
 # Как сдать квартиру в аренду и забыть о хлопотах? Полный гид по услугам управляющей компании

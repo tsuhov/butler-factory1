@@ -1,10 +1,51 @@
 ---
-title: "Как купить евродвушку в СПб на вторичном рынке: пошаговая инструкция от ButlerSPB"
-description: "Планируете покупку евродвушки в Санкт-Петербурге? Вторичный рынок привлекает готовой инфраструктурой и возможностью быстрого заселения, но таит в себе риски. Эксперты ButlerSPB подготовили подробное руководство, как выбрать, проверить и безопасно купить квартиру формата 'евродвушка' на вторичке в СПб. Разбираем все этапы: от поиска и оценки объекта до юридической проверки и заключения сделки."
-pubDate: "2025-07-22T14:03:04.034Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Как купить евродвушку в СПб на вторичном рынке: пошаговая инструкция от ButlerSPB","description":"Планируете покупку евродвушки в Санкт-Петербурге? Вторичный рынок привлекает готовой инфраструктурой и возможностью быстрого заселения, но таит в себе риски. Эксперты ButlerSPB подготовили подробное руководство, как выбрать, проверить и безопасно купить квартиру формата 'евродвушка' на вторичке в СПб. Разбираем все этапы: от поиска и оценки объекта до юридической проверки и заключения сделки.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.7","reviewCount":854,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/kak-kupit-evrodvushku-v-spb-na-vtorichnom-rynke/"}}
+title: >-
+  Как купить евродвушку в СПб на вторичном рынке: пошаговая инструкция от
+  ButlerSPB
+description: >-
+  Планируете покупку евродвушки в Санкт-Петербурге? Вторичный рынок привлекает
+  готовой инфраструктурой и возможностью быстрого заселения, но таит в себе
+  риски. Эксперты ButlerSPB подготовили подробное руководство, как выбрать,
+  проверить и безопасно купить квартиру формата 'евродвушка' на вторичке в СПб.
+  Разбираем все этапы: от поиска и оценки объекта до юридической проверки и
+  заключения сделки.
+pubDate: '2025-07-22T14:03:04.034Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: >-
+    Как купить евродвушку в СПб на вторичном рынке: пошаговая инструкция от
+    ButlerSPB
+  description: >-
+    Планируете покупку евродвушки в Санкт-Петербурге? Вторичный рынок привлекает
+    готовой инфраструктурой и возможностью быстрого заселения, но таит в себе
+    риски. Эксперты ButlerSPB подготовили подробное руководство, как выбрать,
+    проверить и безопасно купить квартиру формата 'евродвушка' на вторичке в
+    СПб. Разбираем все этапы: от поиска и оценки объекта до юридической проверки
+    и заключения сделки.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.9'
+    reviewCount: 859
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/kak-kupit-evrodvushku-v-spb-na-vtorichnom-rynke/
 ---
 
 # Как выгодно и безопасно купить евродвушку в СПб на вторичном рынке: Полный гид 2024

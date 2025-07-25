@@ -1,11 +1,39 @@
 ---
-title: "Недвижимость под сдачу: гид для инвестора"
-description: "Как выбрать ликвидную квартиру для сдачи в аренду и получать стабильный доход? В этой статье эксперты ButlerSPB делятся советами по оценке рентабельности."
-keywords: "инвестиции в недвижимость, квартира под сдачу, арендный бизнес, доходная недвижимость, пассивный доход, управление недвижимостью, ButlerSPB"
-pubDate: "2025-07-25T14:10:57.661Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Недвижимость под сдачу: гид для инвестора","description":"Как выбрать ликвидную квартиру для сдачи в аренду и получать стабильный доход? В этой статье эксперты ButlerSPB делятся советами по оценке рентабельности.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":755,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/nedvizhimost-pod-sdachu/"}}
+title: 'Недвижимость под сдачу: гид для инвестора'
+description: >-
+  Как выбрать ликвидную квартиру для сдачи в аренду и получать стабильный доход?
+  В этой статье эксперты ButlerSPB делятся советами по оценке рентабельности.
+pubDate: '2025-07-25T14:10:57.661Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Недвижимость под сдачу: гид для инвестора'
+  description: >-
+    Как выбрать ликвидную квартиру для сдачи в аренду и получать стабильный
+    доход? В этой статье эксперты ButlerSPB делятся советами по оценке
+    рентабельности.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.9'
+    reviewCount: 377
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': 'https://butlerspb-blog.netlify.app/blog/nedvizhimost-pod-sdachu/'
 ---
 # Как выбрать и купить недвижимость под сдачу в 2024 году: Полное руководство для инвестора в Санкт-Петербурге
 

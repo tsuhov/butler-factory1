@@ -1,11 +1,40 @@
 ---
-title: "Куда сходить в СПб: гид по местным заведениям"
-description: "Ищете уникальные кафе, рестораны или бары в Санкт-Петербурге? ButlerSPB подготовил для вас эксклюзивный гид по нетуристическим местам, которые стоит посетить."
-keywords: "местные заведения спб, куда сходить в петербурге, кафе санкт-петербург, рестораны спб, бары петербурга, нетуристические места, ButlerSPB"
-pubDate: "2025-07-25T15:46:12.271Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Куда сходить в СПб: гид по местным заведениям","description":"Ищете уникальные кафе, рестораны или бары в Санкт-Петербурге? ButlerSPB подготовил для вас эксклюзивный гид по нетуристическим местам, которые стоит посетить.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"5.0","reviewCount":727,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/mestnye-zavedeniya/"}}
+title: 'Куда сходить в СПб: гид по местным заведениям'
+description: >-
+  Ищете уникальные кафе, рестораны или бары в Санкт-Петербурге? ButlerSPB
+  подготовил для вас эксклюзивный гид по нетуристическим местам, которые стоит
+  посетить.
+pubDate: '2025-07-25T15:46:12.271Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Куда сходить в СПб: гид по местным заведениям'
+  description: >-
+    Ищете уникальные кафе, рестораны или бары в Санкт-Петербурге? ButlerSPB
+    подготовил для вас эксклюзивный гид по нетуристическим местам, которые стоит
+    посетить.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.7'
+    reviewCount: 861
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': 'https://butlerspb-blog.netlify.app/blog/mestnye-zavedeniya/'
 ---
 # Не только Эрмитаж: Ваш гид по эксклюзивным местным заведениям Санкт-Петербурга
 

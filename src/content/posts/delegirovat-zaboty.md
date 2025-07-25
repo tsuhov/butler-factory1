@@ -1,11 +1,40 @@
 ---
-title: "ButlerSPB: делегируйте быт, живите сейчас"
-description: "Узнайте, как делегирование бытовых задач помогает снизить стресс и вернуть время для хобби и семьи. ButlerSPB возьмет на себя рутину, а вы — наслаждайтесь жизнью."
-keywords: "делегирование, управление временем, бытовые услуги, личный помощник, ButlerSPB, освободить время, продуктивность"
-pubDate: "2025-07-24T13:14:43.063Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"ButlerSPB: делегируйте быт, живите сейчас","description":"Узнайте, как делегирование бытовых задач помогает снизить стресс и вернуть время для хобби и семьи. ButlerSPB возьмет на себя рутину, а вы — наслаждайтесь жизнью.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.8","reviewCount":464,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/delegirovat-zaboty/"}}
+title: 'ButlerSPB: делегируйте быт, живите сейчас'
+description: >-
+  Узнайте, как делегирование бытовых задач помогает снизить стресс и вернуть
+  время для хобби и семьи. ButlerSPB возьмет на себя рутину, а вы —
+  наслаждайтесь жизнью.
+pubDate: '2025-07-24T13:14:43.063Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'ButlerSPB: делегируйте быт, живите сейчас'
+  description: >-
+    Узнайте, как делегирование бытовых задач помогает снизить стресс и вернуть
+    время для хобби и семьи. ButlerSPB возьмет на себя рутину, а вы —
+    наслаждайтесь жизнью.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.7'
+    reviewCount: 781
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': 'https://butlerspb-blog.netlify.app/blog/delegirovat-zaboty/'
 ---
 # Искусство делегировать заботы: Как вернуть себе время, энергию и контроль над жизнью
 

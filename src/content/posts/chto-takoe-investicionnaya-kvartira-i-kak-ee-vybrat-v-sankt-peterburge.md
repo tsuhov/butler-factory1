@@ -1,10 +1,47 @@
 ---
-title: "Что такое инвестиционная квартира и как ее выбрать в Санкт-Петербурге"
-description: "Инвестиционная квартира — мощный инструмент для сохранения и приумножения капитала. В новой статье блога ButlerSPB разбираемся, что отличает такой объект от обычного жилья, какие стратегии инвестирования существуют и как выбрать ликвидную квартиру в Санкт-Петербурге, которая будет приносить стабильный доход. Делимся экспертными советами по выбору района, новостройки и вторички."
-pubDate: "2025-07-22T13:54:17.901Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Что такое инвестиционная квартира и как ее выбрать в Санкт-Петербурге","description":"Инвестиционная квартира — мощный инструмент для сохранения и приумножения капитала. В новой статье блога ButlerSPB разбираемся, что отличает такой объект от обычного жилья, какие стратегии инвестирования существуют и как выбрать ликвидную квартиру в Санкт-Петербурге, которая будет приносить стабильный доход. Делимся экспертными советами по выбору района, новостройки и вторички.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"5.0","reviewCount":771,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/chto-takoe-investicionnaya-kvartira-i-kak-ee-vybrat-v-sankt-peterburge/"}}
+title: Что такое инвестиционная квартира и как ее выбрать в Санкт-Петербурге
+description: >-
+  Инвестиционная квартира — мощный инструмент для сохранения и приумножения
+  капитала. В новой статье блога ButlerSPB разбираемся, что отличает такой
+  объект от обычного жилья, какие стратегии инвестирования существуют и как
+  выбрать ликвидную квартиру в Санкт-Петербурге, которая будет приносить
+  стабильный доход. Делимся экспертными советами по выбору района, новостройки и
+  вторички.
+pubDate: '2025-07-22T13:54:17.901Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: Что такое инвестиционная квартира и как ее выбрать в Санкт-Петербурге
+  description: >-
+    Инвестиционная квартира — мощный инструмент для сохранения и приумножения
+    капитала. В новой статье блога ButlerSPB разбираемся, что отличает такой
+    объект от обычного жилья, какие стратегии инвестирования существуют и как
+    выбрать ликвидную квартиру в Санкт-Петербурге, которая будет приносить
+    стабильный доход. Делимся экспертными советами по выбору района, новостройки
+    и вторички.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.9'
+    reviewCount: 505
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/chto-takoe-investicionnaya-kvartira-i-kak-ee-vybrat-v-sankt-peterburge/
 ---
 
 # Что такое инвестиционная квартира и как ее выбрать в Санкт-Петербурге: экспертный гид 2024

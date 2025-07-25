@@ -1,10 +1,45 @@
 ---
-title: "Как собственнику контролировать бизнес по субаренде: инструкция от ButlerSPB"
-description: "Субаренда может быть выгодной, но несет риски для владельца недвижимости. В этой статье мы расскажем, как собственнику выстроить эффективную систему контроля: от юридически грамотного договора до регулярных проверок состояния объекта и отслеживания финансовых потоков. Узнайте, как защитить свое имущество и обеспечить стабильный доход."
-pubDate: "2025-07-23T16:45:05.996Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Как собственнику контролировать бизнес по субаренде: инструкция от ButlerSPB","description":"Субаренда может быть выгодной, но несет риски для владельца недвижимости. В этой статье мы расскажем, как собственнику выстроить эффективную систему контроля: от юридически грамотного договора до регулярных проверок состояния объекта и отслеживания финансовых потоков. Узнайте, как защитить свое имущество и обеспечить стабильный доход.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"5.0","reviewCount":694,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/kak-sobstvenniku-kontrolirovat-biznes-po-subarende/"}}
+title: 'Как собственнику контролировать бизнес по субаренде: инструкция от ButlerSPB'
+description: >-
+  Субаренда может быть выгодной, но несет риски для владельца недвижимости. В
+  этой статье мы расскажем, как собственнику выстроить эффективную систему
+  контроля: от юридически грамотного договора до регулярных проверок состояния
+  объекта и отслеживания финансовых потоков. Узнайте, как защитить свое
+  имущество и обеспечить стабильный доход.
+pubDate: '2025-07-23T16:45:05.996Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Как собственнику контролировать бизнес по субаренде: инструкция от ButlerSPB'
+  description: >-
+    Субаренда может быть выгодной, но несет риски для владельца недвижимости. В
+    этой статье мы расскажем, как собственнику выстроить эффективную систему
+    контроля: от юридически грамотного договора до регулярных проверок состояния
+    объекта и отслеживания финансовых потоков. Узнайте, как защитить свое
+    имущество и обеспечить стабильный доход.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.9'
+    reviewCount: 680
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/kak-sobstvenniku-kontrolirovat-biznes-po-subarende/
 ---
 
 # Субаренда: Полное руководство для собственника по контролю, рискам и максимизации прибыли

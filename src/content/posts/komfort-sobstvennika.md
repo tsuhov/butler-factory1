@@ -1,11 +1,40 @@
 ---
-title: "Ваш комфорт как собственника – забота ButlerSPB"
-description: "Управление недвижимостью может быть сложным. ButlerSPB предлагает полный спектр услуг, освобождая вас от рутины и гарантируя спокойствие и стабильный доход."
-keywords: "комфорт собственника, управление недвижимостью, доверительное управление, ButlerSPB, аренда квартиры, пассивный доход, сервис для собственников"
-pubDate: "2025-07-25T16:22:29.916Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Ваш комфорт как собственника – забота ButlerSPB","description":"Управление недвижимостью может быть сложным. ButlerSPB предлагает полный спектр услуг, освобождая вас от рутины и гарантируя спокойствие и стабильный доход.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.8","reviewCount":806,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/komfort-sobstvennika/"}}
+title: Ваш комфорт как собственника – забота ButlerSPB
+description: >-
+  Управление недвижимостью может быть сложным. ButlerSPB предлагает полный
+  спектр услуг, освобождая вас от рутины и гарантируя спокойствие и стабильный
+  доход.
+pubDate: '2025-07-25T16:22:29.916Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: Ваш комфорт как собственника – забота ButlerSPB
+  description: >-
+    Управление недвижимостью может быть сложным. ButlerSPB предлагает полный
+    спектр услуг, освобождая вас от рутины и гарантируя спокойствие и стабильный
+    доход.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '5.0'
+    reviewCount: 870
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': 'https://butlerspb-blog.netlify.app/blog/komfort-sobstvennika/'
 ---
 # Что такое «Комфорт собственника» и как его достичь: Полное руководство для владельца недвижимости в Петербурге
 

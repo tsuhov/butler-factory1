@@ -1,11 +1,40 @@
 ---
-title: "Рекомендации консьержа: ваш гид по Петербургу"
-description: "Откройте для себя нетуристический Петербург с ButlerSPB. Наш консьерж делится секретными местами: от уютных кофеен до уникальных выставок и лучших ресторанов."
-keywords: "консьерж сервис, ButlerSPB, что посмотреть в спб, гид по петербургу, секретные места спб, рекомендации консьержа"
-pubDate: "2025-07-24T13:11:23.947Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Рекомендации консьержа: ваш гид по Петербургу","description":"Откройте для себя нетуристический Петербург с ButlerSPB. Наш консьерж делится секретными местами: от уютных кофеен до уникальных выставок и лучших ресторанов.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":815,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/rekomendacii-konserzha/"}}
+title: 'Рекомендации консьержа: ваш гид по Петербургу'
+description: >-
+  Откройте для себя нетуристический Петербург с ButlerSPB. Наш консьерж делится
+  секретными местами: от уютных кофеен до уникальных выставок и лучших
+  ресторанов.
+pubDate: '2025-07-24T13:11:23.947Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Рекомендации консьержа: ваш гид по Петербургу'
+  description: >-
+    Откройте для себя нетуристический Петербург с ButlerSPB. Наш консьерж
+    делится секретными местами: от уютных кофеен до уникальных выставок и лучших
+    ресторанов.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.7'
+    reviewCount: 659
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': 'https://butlerspb-blog.netlify.app/blog/rekomendacii-konserzha/'
 ---
 # Рекомендации консьержа: Откройте Санкт-Петербург, который скрыт от всех
 

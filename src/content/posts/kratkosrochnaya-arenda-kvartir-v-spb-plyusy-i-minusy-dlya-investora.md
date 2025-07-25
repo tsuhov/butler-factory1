@@ -1,10 +1,47 @@
 ---
-title: "Краткосрочная аренда квартир в СПб: плюсы и минусы для инвестора"
-description: "Планируете инвестировать в недвижимость в Санкт-Петербурге и рассматриваете посуточную аренду? Команда ButlerSPB подготовила подробный разбор этого бизнес-направления. В статье мы взвешиваем все «за» и «против»: от высокой доходности и гибкости управления до рисков, связанных с сезонностью, износом жилья и высокой конкуренцией. Узнайте, как максимизировать прибыль и минимизировать проблемы."
-pubDate: "2025-07-22T15:34:27.154Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Краткосрочная аренда квартир в СПб: плюсы и минусы для инвестора","description":"Планируете инвестировать в недвижимость в Санкт-Петербурге и рассматриваете посуточную аренду? Команда ButlerSPB подготовила подробный разбор этого бизнес-направления. В статье мы взвешиваем все «за» и «против»: от высокой доходности и гибкости управления до рисков, связанных с сезонностью, износом жилья и высокой конкуренцией. Узнайте, как максимизировать прибыль и минимизировать проблемы.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.7","reviewCount":778,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/kratkosrochnaya-arenda-kvartir-v-spb-plyusy-i-minusy-dlya-investora/"}}
+title: 'Краткосрочная аренда квартир в СПб: плюсы и минусы для инвестора'
+description: >-
+  Планируете инвестировать в недвижимость в Санкт-Петербурге и рассматриваете
+  посуточную аренду? Команда ButlerSPB подготовила подробный разбор этого
+  бизнес-направления. В статье мы взвешиваем все «за» и «против»: от высокой
+  доходности и гибкости управления до рисков, связанных с сезонностью, износом
+  жилья и высокой конкуренцией. Узнайте, как максимизировать прибыль и
+  минимизировать проблемы.
+pubDate: '2025-07-22T15:34:27.154Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Краткосрочная аренда квартир в СПб: плюсы и минусы для инвестора'
+  description: >-
+    Планируете инвестировать в недвижимость в Санкт-Петербурге и рассматриваете
+    посуточную аренду? Команда ButlerSPB подготовила подробный разбор этого
+    бизнес-направления. В статье мы взвешиваем все «за» и «против»: от высокой
+    доходности и гибкости управления до рисков, связанных с сезонностью, износом
+    жилья и высокой конкуренцией. Узнайте, как максимизировать прибыль и
+    минимизировать проблемы.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '5.0'
+    reviewCount: 784
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/kratkosrochnaya-arenda-kvartir-v-spb-plyusy-i-minusy-dlya-investora/
 ---
 
 # Краткосрочная аренда квартир в СПб: Полный разбор для инвестора [Плюсы, минусы и расчет доходности]

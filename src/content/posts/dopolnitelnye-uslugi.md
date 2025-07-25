@@ -1,11 +1,40 @@
 ---
-title: "Какие дополнительные услуги предлагает ButlerSPB"
-description: "Узнайте о дополнительных услугах от ButlerSPB, которые сделают вашу жизнь проще. Мытье окон, химчистка мебели, глажка белья и другие полезные опции для дома."
-keywords: "дополнительные услуги, ButlerSPB, уборка спб, мытье окон, химчистка мебели, глажка белья"
-pubDate: "2025-07-25T16:05:36.404Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Какие дополнительные услуги предлагает ButlerSPB","description":"Узнайте о дополнительных услугах от ButlerSPB, которые сделают вашу жизнь проще. Мытье окон, химчистка мебели, глажка белья и другие полезные опции для дома.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":846,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/dopolnitelnye-uslugi/"}}
+title: Какие дополнительные услуги предлагает ButlerSPB
+description: >-
+  Узнайте о дополнительных услугах от ButlerSPB, которые сделают вашу жизнь
+  проще. Мытье окон, химчистка мебели, глажка белья и другие полезные опции для
+  дома.
+pubDate: '2025-07-25T16:05:36.404Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: Какие дополнительные услуги предлагает ButlerSPB
+  description: >-
+    Узнайте о дополнительных услугах от ButlerSPB, которые сделают вашу жизнь
+    проще. Мытье окон, химчистка мебели, глажка белья и другие полезные опции
+    для дома.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.9'
+    reviewCount: 430
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': 'https://butlerspb-blog.netlify.app/blog/dopolnitelnye-uslugi/'
 ---
 # Дополнительные услуги от ButlerSPB: Как вернуть себе самый ценный ресурс — время
 

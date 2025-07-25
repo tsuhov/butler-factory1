@@ -1,10 +1,49 @@
 ---
-title: "Покупка помещения под медицинский центр: лицензирование и требования от ButlerSPB"
-description: "Планируете открыть медицинский центр? Выбор и покупка подходящего помещения — первый и самый важный шаг. В нашей статье мы подробно разбираем все юридические и санитарные требования к недвижимости, этапы получения медицинской лицензии и ключевые нюансы, которые помогут избежать ошибок и успешно запустить ваш бизнес. Экспертный гайд от ButlerSPB."
-pubDate: "2025-07-23T12:08:44.332Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Покупка помещения под медицинский центр: лицензирование и требования от ButlerSPB","description":"Планируете открыть медицинский центр? Выбор и покупка подходящего помещения — первый и самый важный шаг. В нашей статье мы подробно разбираем все юридические и санитарные требования к недвижимости, этапы получения медицинской лицензии и ключевые нюансы, которые помогут избежать ошибок и успешно запустить ваш бизнес. Экспертный гайд от ButlerSPB.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":714,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/pokupka-pomescheniya-pod-medicinskiy-centr-licenzirovanie-i-trebovaniya/"}}
+title: >-
+  Покупка помещения под медицинский центр: лицензирование и требования от
+  ButlerSPB
+description: >-
+  Планируете открыть медицинский центр? Выбор и покупка подходящего помещения —
+  первый и самый важный шаг. В нашей статье мы подробно разбираем все
+  юридические и санитарные требования к недвижимости, этапы получения
+  медицинской лицензии и ключевые нюансы, которые помогут избежать ошибок и
+  успешно запустить ваш бизнес. Экспертный гайд от ButlerSPB.
+pubDate: '2025-07-23T12:08:44.332Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: >-
+    Покупка помещения под медицинский центр: лицензирование и требования от
+    ButlerSPB
+  description: >-
+    Планируете открыть медицинский центр? Выбор и покупка подходящего помещения
+    — первый и самый важный шаг. В нашей статье мы подробно разбираем все
+    юридические и санитарные требования к недвижимости, этапы получения
+    медицинской лицензии и ключевые нюансы, которые помогут избежать ошибок и
+    успешно запустить ваш бизнес. Экспертный гайд от ButlerSPB.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.9'
+    reviewCount: 664
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/pokupka-pomescheniya-pod-medicinskiy-centr-licenzirovanie-i-trebovaniya/
 ---
 
 # Покупка помещения под медицинский центр: полное руководство по требованиям и лицензированию в 2024 году

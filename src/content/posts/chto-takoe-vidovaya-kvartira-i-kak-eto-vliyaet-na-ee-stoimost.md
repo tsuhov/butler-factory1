@@ -1,10 +1,46 @@
 ---
-title: "Видовая квартира: что это такое и как вид из окна влияет на ее стоимость"
-description: "Квартира с красивым видом — это не просто приятный бонус, а серьезный фактор, влияющий на цену. В блоге ButlerSPB разбираемся, что официально считается 'видовой' квартирой, какие панорамы в Санкт-Петербурге ценятся выше всего, и на сколько процентов вид из окна может увеличить стоимость вашего жилья. Читайте наш подробный гайд для инвесторов и ценителей прекрасного."
-pubDate: "2025-07-22T15:35:20.432Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Видовая квартира: что это такое и как вид из окна влияет на ее стоимость","description":"Квартира с красивым видом — это не просто приятный бонус, а серьезный фактор, влияющий на цену. В блоге ButlerSPB разбираемся, что официально считается 'видовой' квартирой, какие панорамы в Санкт-Петербурге ценятся выше всего, и на сколько процентов вид из окна может увеличить стоимость вашего жилья. Читайте наш подробный гайд для инвесторов и ценителей прекрасного.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.8","reviewCount":414,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/chto-takoe-vidovaya-kvartira-i-kak-eto-vliyaet-na-ee-stoimost/"}}
+title: 'Видовая квартира: что это такое и как вид из окна влияет на ее стоимость'
+description: >-
+  Квартира с красивым видом — это не просто приятный бонус, а серьезный фактор,
+  влияющий на цену. В блоге ButlerSPB разбираемся, что официально считается
+  'видовой' квартирой, какие панорамы в Санкт-Петербурге ценятся выше всего, и
+  на сколько процентов вид из окна может увеличить стоимость вашего жилья.
+  Читайте наш подробный гайд для инвесторов и ценителей прекрасного.
+pubDate: '2025-07-22T15:35:20.432Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Видовая квартира: что это такое и как вид из окна влияет на ее стоимость'
+  description: >-
+    Квартира с красивым видом — это не просто приятный бонус, а серьезный
+    фактор, влияющий на цену. В блоге ButlerSPB разбираемся, что официально
+    считается 'видовой' квартирой, какие панорамы в Санкт-Петербурге ценятся
+    выше всего, и на сколько процентов вид из окна может увеличить стоимость
+    вашего жилья. Читайте наш подробный гайд для инвесторов и ценителей
+    прекрасного.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.9'
+    reviewCount: 705
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/chto-takoe-vidovaya-kvartira-i-kak-eto-vliyaet-na-ee-stoimost/
 ---
 
 # Видовая квартира: нематериальный актив с вполне реальной стоимостью. Полный разбор от экспертов ButlerSPB

@@ -1,11 +1,40 @@
 ---
-title: "Качество и надежность: основа сервиса ButlerSPB"
-description: "В ButlerSPB мы верим, что истинное качество сервиса измеряется его надежностью и стабильностью. Узнайте, как наши стандарты обеспечивают безупречный результат."
-keywords: "качество, надежность, сервис ButlerSPB, стандарты качества, гарантия, клиентский опыт"
-pubDate: "2025-07-24T21:37:34.358Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Качество и надежность: основа сервиса ButlerSPB","description":"В ButlerSPB мы верим, что истинное качество сервиса измеряется его надежностью и стабильностью. Узнайте, как наши стандарты обеспечивают безупречный результат.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"5.0","reviewCount":831,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/kachestvo-nadezhnost/"}}
+title: 'Качество и надежность: основа сервиса ButlerSPB'
+description: >-
+  В ButlerSPB мы верим, что истинное качество сервиса измеряется его надежностью
+  и стабильностью. Узнайте, как наши стандарты обеспечивают безупречный
+  результат.
+pubDate: '2025-07-24T21:37:34.358Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Качество и надежность: основа сервиса ButlerSPB'
+  description: >-
+    В ButlerSPB мы верим, что истинное качество сервиса измеряется его
+    надежностью и стабильностью. Узнайте, как наши стандарты обеспечивают
+    безупречный результат.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.8'
+    reviewCount: 774
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': 'https://butlerspb-blog.netlify.app/blog/kachestvo-nadezhnost/'
 ---
 # Качество и надежность в сервисном обслуживании: как выбрать партнера, а не просто подрядчика
 

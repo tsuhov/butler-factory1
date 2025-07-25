@@ -1,11 +1,40 @@
 ---
-title: "Репутация УК: как выбрать надежного партнера"
-description: "Надежная УК – залог комфорта и сохранности вашего жилья. В статье ButlerSPB разбираем, из чего складывается репутация управляющей компании и как проверить ее."
-keywords: "репутация ук, управляющая компания, выбор ук, проверить ук, отзывы об ук, рейтинг ук, ЖКХ"
-pubDate: "2025-07-25T16:37:22.258Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Репутация УК: как выбрать надежного партнера","description":"Надежная УК – залог комфорта и сохранности вашего жилья. В статье ButlerSPB разбираем, из чего складывается репутация управляющей компании и как проверить ее.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.8","reviewCount":306,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/reputaciya-uk/"}}
+title: 'Репутация УК: как выбрать надежного партнера'
+description: >-
+  Надежная УК – залог комфорта и сохранности вашего жилья. В статье ButlerSPB
+  разбираем, из чего складывается репутация управляющей компании и как проверить
+  ее.
+pubDate: '2025-07-25T16:37:22.258Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Репутация УК: как выбрать надежного партнера'
+  description: >-
+    Надежная УК – залог комфорта и сохранности вашего жилья. В статье ButlerSPB
+    разбираем, из чего складывается репутация управляющей компании и как
+    проверить ее.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.8'
+    reviewCount: 764
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': 'https://butlerspb-blog.netlify.app/blog/reputaciya-uk/'
 ---
 # Репутация управляющей компании: От негатива в домовых чатах до лояльности жильцов. Полное руководство по управлению.
 

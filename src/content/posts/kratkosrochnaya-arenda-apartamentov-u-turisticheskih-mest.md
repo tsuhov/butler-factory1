@@ -1,10 +1,49 @@
 ---
-title: "Аренда апартаментов у туристических мест: гид от ButlerSPB"
-description: "Планируете поездку и хотите жить в самом сердце событий? Краткосрочная аренда апартаментов у главных достопримечательностей позволяет сэкономить время на дорогу, прочувствовать аутентичную атмосферу города и наслаждаться видами прямо из окна. В этой статье нашего блога мы разберем все плюсы и минусы такого выбора, дадим советы по поиску идеального жилья и расскажем, как сервис ButlerSPB поможет сделать ваше пребывание максимально комфортным и беззаботным."
-pubDate: "2025-07-23T11:49:32.659Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Аренда апартаментов у туристических мест: гид от ButlerSPB","description":"Планируете поездку и хотите жить в самом сердце событий? Краткосрочная аренда апартаментов у главных достопримечательностей позволяет сэкономить время на дорогу, прочувствовать аутентичную атмосферу города и наслаждаться видами прямо из окна. В этой статье нашего блога мы разберем все плюсы и минусы такого выбора, дадим советы по поиску идеального жилья и расскажем, как сервис ButlerSPB поможет сделать ваше пребывание максимально комфортным и беззаботным.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":676,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/kratkosrochnaya-arenda-apartamentov-u-turisticheskih-mest/"}}
+title: 'Аренда апартаментов у туристических мест: гид от ButlerSPB'
+description: >-
+  Планируете поездку и хотите жить в самом сердце событий? Краткосрочная аренда
+  апартаментов у главных достопримечательностей позволяет сэкономить время на
+  дорогу, прочувствовать аутентичную атмосферу города и наслаждаться видами
+  прямо из окна. В этой статье нашего блога мы разберем все плюсы и минусы
+  такого выбора, дадим советы по поиску идеального жилья и расскажем, как сервис
+  ButlerSPB поможет сделать ваше пребывание максимально комфортным и
+  беззаботным.
+pubDate: '2025-07-23T11:49:32.659Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Аренда апартаментов у туристических мест: гид от ButlerSPB'
+  description: >-
+    Планируете поездку и хотите жить в самом сердце событий? Краткосрочная
+    аренда апартаментов у главных достопримечательностей позволяет сэкономить
+    время на дорогу, прочувствовать аутентичную атмосферу города и наслаждаться
+    видами прямо из окна. В этой статье нашего блога мы разберем все плюсы и
+    минусы такого выбора, дадим советы по поиску идеального жилья и расскажем,
+    как сервис ButlerSPB поможет сделать ваше пребывание максимально комфортным
+    и беззаботным.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.8'
+    reviewCount: 687
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/kratkosrochnaya-arenda-apartamentov-u-turisticheskih-mest/
 ---
 
 # Квартира в сердце Петербурга: как аренда у достопримечательностей сделает ваш отдых незабываемым

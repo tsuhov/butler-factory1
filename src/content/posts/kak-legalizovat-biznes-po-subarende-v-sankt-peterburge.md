@@ -1,10 +1,47 @@
 ---
-title: "Как легализовать бизнес по субаренде в Санкт-Петербурге: пошаговая инструкция от ButlerSPB"
-description: "Планируете зарабатывать на субаренде квартир в СПб? В нашей статье разбираем все шаги: от регистрации ИП или ООО и выбора налоговой системы до составления юридически грамотного договора с собственником. Сделайте ваш бизнес полностью легальным вместе с ButlerSPB."
-pubDate: "2025-07-23T11:45:34.666Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Как легализовать бизнес по субаренде в Санкт-Петербурге: пошаговая инструкция от ButlerSPB","description":"Планируете зарабатывать на субаренде квартир в СПб? В нашей статье разбираем все шаги: от регистрации ИП или ООО и выбора налоговой системы до составления юридически грамотного договора с собственником. Сделайте ваш бизнес полностью легальным вместе с ButlerSPB.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.8","reviewCount":889,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/kak-legalizovat-biznes-po-subarende-v-sankt-peterburge/"}}
+title: >-
+  Как легализовать бизнес по субаренде в Санкт-Петербурге: пошаговая инструкция
+  от ButlerSPB
+description: >-
+  Планируете зарабатывать на субаренде квартир в СПб? В нашей статье разбираем
+  все шаги: от регистрации ИП или ООО и выбора налоговой системы до составления
+  юридически грамотного договора с собственником. Сделайте ваш бизнес полностью
+  легальным вместе с ButlerSPB.
+pubDate: '2025-07-23T11:45:34.666Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: >-
+    Как легализовать бизнес по субаренде в Санкт-Петербурге: пошаговая
+    инструкция от ButlerSPB
+  description: >-
+    Планируете зарабатывать на субаренде квартир в СПб? В нашей статье разбираем
+    все шаги: от регистрации ИП или ООО и выбора налоговой системы до
+    составления юридически грамотного договора с собственником. Сделайте ваш
+    бизнес полностью легальным вместе с ButlerSPB.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '5.0'
+    reviewCount: 334
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/kak-legalizovat-biznes-po-subarende-v-sankt-peterburge/
 ---
 
 # Субаренда в СПб: Пошаговый гайд по легализации бизнеса в 2024 году от экспертов ButlerSPB

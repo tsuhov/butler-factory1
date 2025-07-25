@@ -1,10 +1,45 @@
 ---
-title: "Как сэкономить на аренде квартиры в Санкт-Петербурге: советы от ButlerSPB"
-description: "Аренда жилья в Северной столице может быть выгодной, если знать несколько секретов. В нашей новой статье команда ButlerSPB делится профессиональными лайфхаками: от выбора правильного района и сезона для поиска до тонкостей переговоров с собственником и способов избежать скрытых комиссий. Узнайте, как найти квартиру мечты в Петербурге и не переплатить."
-pubDate: "2025-07-22T11:41:44.099Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Как сэкономить на аренде квартиры в Санкт-Петербурге: советы от ButlerSPB","description":"Аренда жилья в Северной столице может быть выгодной, если знать несколько секретов. В нашей новой статье команда ButlerSPB делится профессиональными лайфхаками: от выбора правильного района и сезона для поиска до тонкостей переговоров с собственником и способов избежать скрытых комиссий. Узнайте, как найти квартиру мечты в Петербурге и не переплатить.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.7","reviewCount":631,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/kak-sekonomit-na-arende-kvartiry-v-sankt-peterburge/"}}
+title: 'Как сэкономить на аренде квартиры в Санкт-Петербурге: советы от ButlerSPB'
+description: >-
+  Аренда жилья в Северной столице может быть выгодной, если знать несколько
+  секретов. В нашей новой статье команда ButlerSPB делится профессиональными
+  лайфхаками: от выбора правильного района и сезона для поиска до тонкостей
+  переговоров с собственником и способов избежать скрытых комиссий. Узнайте, как
+  найти квартиру мечты в Петербурге и не переплатить.
+pubDate: '2025-07-22T11:41:44.099Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Как сэкономить на аренде квартиры в Санкт-Петербурге: советы от ButlerSPB'
+  description: >-
+    Аренда жилья в Северной столице может быть выгодной, если знать несколько
+    секретов. В нашей новой статье команда ButlerSPB делится профессиональными
+    лайфхаками: от выбора правильного района и сезона для поиска до тонкостей
+    переговоров с собственником и способов избежать скрытых комиссий. Узнайте,
+    как найти квартиру мечты в Петербурге и не переплатить.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.7'
+    reviewCount: 486
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/kak-sekonomit-na-arende-kvartiry-v-sankt-peterburge/
 ---
 
 # Как реально сэкономить на аренде квартиры в Санкт-Петербурге: полное руководство 2024

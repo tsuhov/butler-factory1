@@ -1,10 +1,45 @@
 ---
-title: "За кадром ButlerSPB: Как мы создаем видео, которые продают ваши апартаменты"
-description: "В новой статье блога ButlerSPB мы раскрываем все этапы создания профессионального видеоконтента для апартаментов. Узнайте, как мы готовимся к съемкам, какое оборудование используем и как на этапе монтажа превращаем отснятый материал в мощный инструмент продаж, привлекающий гостей и повышающий доходность вашей недвижимости."
-pubDate: "2025-07-22T11:20:38.101Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"За кадром ButlerSPB: Как мы создаем видео, которые продают ваши апартаменты","description":"В новой статье блога ButlerSPB мы раскрываем все этапы создания профессионального видеоконтента для апартаментов. Узнайте, как мы готовимся к съемкам, какое оборудование используем и как на этапе монтажа превращаем отснятый материал в мощный инструмент продаж, привлекающий гостей и повышающий доходность вашей недвижимости.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.8","reviewCount":359,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/kak-my-sozdaem-videokontent-dlya-prodvizheniya-apartamentov/"}}
+title: 'За кадром ButlerSPB: Как мы создаем видео, которые продают ваши апартаменты'
+description: >-
+  В новой статье блога ButlerSPB мы раскрываем все этапы создания
+  профессионального видеоконтента для апартаментов. Узнайте, как мы готовимся к
+  съемкам, какое оборудование используем и как на этапе монтажа превращаем
+  отснятый материал в мощный инструмент продаж, привлекающий гостей и повышающий
+  доходность вашей недвижимости.
+pubDate: '2025-07-22T11:20:38.101Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'За кадром ButlerSPB: Как мы создаем видео, которые продают ваши апартаменты'
+  description: >-
+    В новой статье блога ButlerSPB мы раскрываем все этапы создания
+    профессионального видеоконтента для апартаментов. Узнайте, как мы готовимся
+    к съемкам, какое оборудование используем и как на этапе монтажа превращаем
+    отснятый материал в мощный инструмент продаж, привлекающий гостей и
+    повышающий доходность вашей недвижимости.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.8'
+    reviewCount: 445
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/kak-my-sozdaem-videokontent-dlya-prodvizheniya-apartamentov/
 ---
 
 # Больше бронирований, выше доход: Как мы в ButlerSPB создаем видео, которые сдают ваши апартаменты

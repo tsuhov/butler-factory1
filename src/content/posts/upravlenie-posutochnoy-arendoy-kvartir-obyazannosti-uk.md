@@ -1,10 +1,47 @@
 ---
-title: "Управление посуточной арендой квартир: за что отвечает управляющая компания?"
-description: "Передача квартиры в управление для посуточной аренды — это способ получать пассивный доход, не тратя личное время. В новой статье блога ButlerSPB подробно разбираем, какие именно обязанности берет на себя управляющая компания: от маркетинга и общения с гостями до уборки, технического обслуживания и финансовой отчетности. Узнайте, как мы обеспечиваем максимальную доходность и безупречное состояние вашей недвижимости."
-pubDate: "2025-07-22T15:32:01.944Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Управление посуточной арендой квартир: за что отвечает управляющая компания?","description":"Передача квартиры в управление для посуточной аренды — это способ получать пассивный доход, не тратя личное время. В новой статье блога ButlerSPB подробно разбираем, какие именно обязанности берет на себя управляющая компания: от маркетинга и общения с гостями до уборки, технического обслуживания и финансовой отчетности. Узнайте, как мы обеспечиваем максимальную доходность и безупречное состояние вашей недвижимости.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":467,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/upravlenie-posutochnoy-arendoy-kvartir-obyazannosti-uk/"}}
+title: 'Управление посуточной арендой квартир: за что отвечает управляющая компания?'
+description: >-
+  Передача квартиры в управление для посуточной аренды — это способ получать
+  пассивный доход, не тратя личное время. В новой статье блога ButlerSPB
+  подробно разбираем, какие именно обязанности берет на себя управляющая
+  компания: от маркетинга и общения с гостями до уборки, технического
+  обслуживания и финансовой отчетности. Узнайте, как мы обеспечиваем
+  максимальную доходность и безупречное состояние вашей недвижимости.
+pubDate: '2025-07-22T15:32:01.944Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Управление посуточной арендой квартир: за что отвечает управляющая компания?'
+  description: >-
+    Передача квартиры в управление для посуточной аренды — это способ получать
+    пассивный доход, не тратя личное время. В новой статье блога ButlerSPB
+    подробно разбираем, какие именно обязанности берет на себя управляющая
+    компания: от маркетинга и общения с гостями до уборки, технического
+    обслуживания и финансовой отчетности. Узнайте, как мы обеспечиваем
+    максимальную доходность и безупречное состояние вашей недвижимости.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.8'
+    reviewCount: 755
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/upravlenie-posutochnoy-arendoy-kvartir-obyazannosti-uk/
 ---
 
 # Управление посуточной арендой: Что на самом деле делает управляющая компания, пока вы получаете доход?

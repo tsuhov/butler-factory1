@@ -1,11 +1,40 @@
 ---
-title: "Умный дом от ButlerSPB: будущее уже здесь"
-description: "Узнайте, как технологии умного дома могут трансформировать вашу жизнь. ButlerSPB предлагает комплексные решения для автоматизации освещения, климата и безопасности."
-keywords: "умный дом, автоматизация, ButlerSPB, домашняя автоматизация, интернет вещей, безопасность, управление климатом"
-pubDate: "2025-07-25T15:59:12.603Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Умный дом от ButlerSPB: будущее уже здесь","description":"Узнайте, как технологии умного дома могут трансформировать вашу жизнь. ButlerSPB предлагает комплексные решения для автоматизации освещения, климата и безопасности.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":528,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/umnyy-dom/"}}
+title: 'Умный дом от ButlerSPB: будущее уже здесь'
+description: >-
+  Узнайте, как технологии умного дома могут трансформировать вашу жизнь.
+  ButlerSPB предлагает комплексные решения для автоматизации освещения, климата
+  и безопасности.
+pubDate: '2025-07-25T15:59:12.603Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Умный дом от ButlerSPB: будущее уже здесь'
+  description: >-
+    Узнайте, как технологии умного дома могут трансформировать вашу жизнь.
+    ButlerSPB предлагает комплексные решения для автоматизации освещения,
+    климата и безопасности.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.9'
+    reviewCount: 889
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': 'https://butlerspb-blog.netlify.app/blog/umnyy-dom/'
 ---
 # Умный дом: Ваш персональный гид по созданию дома будущего вместе с ButlerSPB
 

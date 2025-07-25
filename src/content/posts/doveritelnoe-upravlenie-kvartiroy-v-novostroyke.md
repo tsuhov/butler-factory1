@@ -1,10 +1,51 @@
 ---
-title: "Доверительное управление квартирой в новостройке: как получать пассивный доход без забот"
-description: "Вы стали владельцем квартиры в новостройке и хотите, чтобы она приносила прибыль, а не проблемы? Узнайте всё о доверительном управлении от ButlerSPB. Рассказываем, как мы берем на себя все этапы: от приемки у застройщика и меблировки до поиска надежных жильцов и контроля своевременной оплаты. Превратите ваши квадратные метры в стабильный источник дохода без личного участия."
-pubDate: "2025-07-23T13:44:07.047Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Доверительное управление квартирой в новостройке: как получать пассивный доход без забот","description":"Вы стали владельцем квартиры в новостройке и хотите, чтобы она приносила прибыль, а не проблемы? Узнайте всё о доверительном управлении от ButlerSPB. Рассказываем, как мы берем на себя все этапы: от приемки у застройщика и меблировки до поиска надежных жильцов и контроля своевременной оплаты. Превратите ваши квадратные метры в стабильный источник дохода без личного участия.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"5.0","reviewCount":873,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/doveritelnoe-upravlenie-kvartiroy-v-novostroyke/"}}
+title: >-
+  Доверительное управление квартирой в новостройке: как получать пассивный доход
+  без забот
+description: >-
+  Вы стали владельцем квартиры в новостройке и хотите, чтобы она приносила
+  прибыль, а не проблемы? Узнайте всё о доверительном управлении от ButlerSPB.
+  Рассказываем, как мы берем на себя все этапы: от приемки у застройщика и
+  меблировки до поиска надежных жильцов и контроля своевременной оплаты.
+  Превратите ваши квадратные метры в стабильный источник дохода без личного
+  участия.
+pubDate: '2025-07-23T13:44:07.047Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: >-
+    Доверительное управление квартирой в новостройке: как получать пассивный
+    доход без забот
+  description: >-
+    Вы стали владельцем квартиры в новостройке и хотите, чтобы она приносила
+    прибыль, а не проблемы? Узнайте всё о доверительном управлении от ButlerSPB.
+    Рассказываем, как мы берем на себя все этапы: от приемки у застройщика и
+    меблировки до поиска надежных жильцов и контроля своевременной оплаты.
+    Превратите ваши квадратные метры в стабильный источник дохода без личного
+    участия.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '5.0'
+    reviewCount: 850
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/doveritelnoe-upravlenie-kvartiroy-v-novostroyke/
 ---
 
 # Доверительное управление квартирой в новостройке: как ButlerSPB превращает ваши "бетонные метры" в стабильный доход

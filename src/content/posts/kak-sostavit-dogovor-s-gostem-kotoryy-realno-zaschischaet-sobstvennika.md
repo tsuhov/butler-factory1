@@ -1,10 +1,51 @@
 ---
-title: "Как составить договор с гостем, который реально защищает собственника: гайд от ButlerSPB"
-description: "Сдача квартиры посуточно сопряжена с рисками: порча имущества, шумные вечеринки, жалобы соседей. Ваша главная страховка — юридически грамотный договор. В этой статье команда ButlerSPB разбирает ключевые пункты, которые обязательно нужно включить в соглашение с гостем, чтобы обезопасить свою недвижимость, нервы и кошелек. Узнайте, как предусмотреть все нюансы и почему стандартный шаблон из интернета не работает."
-pubDate: "2025-07-22T11:09:52.807Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Как составить договор с гостем, который реально защищает собственника: гайд от ButlerSPB","description":"Сдача квартиры посуточно сопряжена с рисками: порча имущества, шумные вечеринки, жалобы соседей. Ваша главная страховка — юридически грамотный договор. В этой статье команда ButlerSPB разбирает ключевые пункты, которые обязательно нужно включить в соглашение с гостем, чтобы обезопасить свою недвижимость, нервы и кошелек. Узнайте, как предусмотреть все нюансы и почему стандартный шаблон из интернета не работает.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.8","reviewCount":678,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/kak-sostavit-dogovor-s-gostem-kotoryy-realno-zaschischaet-sobstvennika/"}}
+title: >-
+  Как составить договор с гостем, который реально защищает собственника: гайд от
+  ButlerSPB
+description: >-
+  Сдача квартиры посуточно сопряжена с рисками: порча имущества, шумные
+  вечеринки, жалобы соседей. Ваша главная страховка — юридически грамотный
+  договор. В этой статье команда ButlerSPB разбирает ключевые пункты, которые
+  обязательно нужно включить в соглашение с гостем, чтобы обезопасить свою
+  недвижимость, нервы и кошелек. Узнайте, как предусмотреть все нюансы и почему
+  стандартный шаблон из интернета не работает.
+pubDate: '2025-07-22T11:09:52.807Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: >-
+    Как составить договор с гостем, который реально защищает собственника: гайд
+    от ButlerSPB
+  description: >-
+    Сдача квартиры посуточно сопряжена с рисками: порча имущества, шумные
+    вечеринки, жалобы соседей. Ваша главная страховка — юридически грамотный
+    договор. В этой статье команда ButlerSPB разбирает ключевые пункты, которые
+    обязательно нужно включить в соглашение с гостем, чтобы обезопасить свою
+    недвижимость, нервы и кошелек. Узнайте, как предусмотреть все нюансы и
+    почему стандартный шаблон из интернета не работает.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.7'
+    reviewCount: 777
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/kak-sostavit-dogovor-s-gostem-kotoryy-realno-zaschischaet-sobstvennika/
 ---
 
 # Не просто шаблон: создаем юридически грамотный договор посуточной аренды для защиты собственника

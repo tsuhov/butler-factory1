@@ -1,11 +1,40 @@
 ---
-title: "Эксклюзивный сервис: новый стандарт от ButlerSPB"
-description: "В ButlerSPB мы переосмыслили понятие роскоши. Наш эксклюзивный сервис — это не просто услуги, а персональный подход и безупречное исполнение любых ваших желаний."
-keywords: "эксклюзивный сервис, ButlerSPB, консьерж-сервис, премиум услуги, персональный ассистент, VIP-обслуживание"
-pubDate: "2025-07-24T13:11:18.863Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Эксклюзивный сервис: новый стандарт от ButlerSPB","description":"В ButlerSPB мы переосмыслили понятие роскоши. Наш эксклюзивный сервис — это не просто услуги, а персональный подход и безупречное исполнение любых ваших желаний.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.7","reviewCount":827,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/eksklyuzivnyy-servis/"}}
+title: 'Эксклюзивный сервис: новый стандарт от ButlerSPB'
+description: >-
+  В ButlerSPB мы переосмыслили понятие роскоши. Наш эксклюзивный сервис — это не
+  просто услуги, а персональный подход и безупречное исполнение любых ваших
+  желаний.
+pubDate: '2025-07-24T13:11:18.863Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Эксклюзивный сервис: новый стандарт от ButlerSPB'
+  description: >-
+    В ButlerSPB мы переосмыслили понятие роскоши. Наш эксклюзивный сервис — это
+    не просто услуги, а персональный подход и безупречное исполнение любых ваших
+    желаний.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.8'
+    reviewCount: 781
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': 'https://butlerspb-blog.netlify.app/blog/eksklyuzivnyy-servis/'
 ---
 # Эксклюзивный сервис: Когда роскошь — это не вещи, а сэкономленное время и абсолютное спокойствие
 

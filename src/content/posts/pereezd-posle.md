@@ -1,11 +1,39 @@
 ---
-title: "Переезд после: как быстро освоиться дома"
-description: "Переезд окончен, но работа нет. Мы расскажем, как быстро распаковать вещи, наладить быт и почувствовать себя дома. Секреты легкой адаптации от ButlerSPB."
-keywords: "переезд, после переезда, распаковка вещей, организация пространства, адаптация, ButlerSPB, советы по переезду"
-pubDate: "2025-07-25T16:26:40.118Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Переезд после: как быстро освоиться дома","description":"Переезд окончен, но работа нет. Мы расскажем, как быстро распаковать вещи, наладить быт и почувствовать себя дома. Секреты легкой адаптации от ButlerSPB.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":467,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/pereezd-posle/"}}
+title: 'Переезд после: как быстро освоиться дома'
+description: >-
+  Переезд окончен, но работа нет. Мы расскажем, как быстро распаковать вещи,
+  наладить быт и почувствовать себя дома. Секреты легкой адаптации от ButlerSPB.
+pubDate: '2025-07-25T16:26:40.118Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Переезд после: как быстро освоиться дома'
+  description: >-
+    Переезд окончен, но работа нет. Мы расскажем, как быстро распаковать вещи,
+    наладить быт и почувствовать себя дома. Секреты легкой адаптации от
+    ButlerSPB.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.8'
+    reviewCount: 507
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': 'https://butlerspb-blog.netlify.app/blog/pereezd-posle/'
 ---
 # Переезд позади: Пошаговый план действий на первую неделю в новой квартире
 

@@ -1,10 +1,47 @@
 ---
-title: "Договор управления квартирой для сдачи в посуточную аренду: ключевые моменты"
-description: "Передача квартиры в управление для посуточной аренды — отличное решение для собственников, желающих получать пассивный доход без лишних хлопот. Основа такого сотрудничества — грамотно составленный договор. В этой статье блога ButlerSPB мы подробно разберем, какие пункты обязательно должны быть в договоре управления, чтобы защитить ваши интересы, обеспечить прозрачность расчетов и гарантировать сохранность вашего имущества."
-pubDate: "2025-07-22T00:17:21.792Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Договор управления квартирой для сдачи в посуточную аренду: ключевые моменты","description":"Передача квартиры в управление для посуточной аренды — отличное решение для собственников, желающих получать пассивный доход без лишних хлопот. Основа такого сотрудничества — грамотно составленный договор. В этой статье блога ButlerSPB мы подробно разберем, какие пункты обязательно должны быть в договоре управления, чтобы защитить ваши интересы, обеспечить прозрачность расчетов и гарантировать сохранность вашего имущества.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.8","reviewCount":623,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/dogovor-upravleniya-kvartiroy-dlya-sdachi-v-posutochnuyu-arendu/"}}
+title: 'Договор управления квартирой для сдачи в посуточную аренду: ключевые моменты'
+description: >-
+  Передача квартиры в управление для посуточной аренды — отличное решение для
+  собственников, желающих получать пассивный доход без лишних хлопот. Основа
+  такого сотрудничества — грамотно составленный договор. В этой статье блога
+  ButlerSPB мы подробно разберем, какие пункты обязательно должны быть в
+  договоре управления, чтобы защитить ваши интересы, обеспечить прозрачность
+  расчетов и гарантировать сохранность вашего имущества.
+pubDate: '2025-07-22T00:17:21.792Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Договор управления квартирой для сдачи в посуточную аренду: ключевые моменты'
+  description: >-
+    Передача квартиры в управление для посуточной аренды — отличное решение для
+    собственников, желающих получать пассивный доход без лишних хлопот. Основа
+    такого сотрудничества — грамотно составленный договор. В этой статье блога
+    ButlerSPB мы подробно разберем, какие пункты обязательно должны быть в
+    договоре управления, чтобы защитить ваши интересы, обеспечить прозрачность
+    расчетов и гарантировать сохранность вашего имущества.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.8'
+    reviewCount: 537
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/dogovor-upravleniya-kvartiroy-dlya-sdachi-v-posutochnuyu-arendu/
 ---
 
 # Договор управления квартирой для посуточной аренды: Полное руководство для собственника

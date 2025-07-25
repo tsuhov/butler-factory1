@@ -1,11 +1,40 @@
 ---
-title: "Проверенные батлеры: гарантия вашего комфорта"
-description: "ButlerSPB предлагает услуги только проверенных батлеров. Каждый кандидат проходит строгий отбор и обучение, чтобы обеспечить высочайший уровень сервиса и комфорта."
-keywords: "батлер, дворецкий, персональный помощник, услуги батлера, нанять батлера, ButlerSPB, проверенный персонал"
-pubDate: "2025-07-24T13:45:16.821Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Проверенные батлеры: гарантия вашего комфорта","description":"ButlerSPB предлагает услуги только проверенных батлеров. Каждый кандидат проходит строгий отбор и обучение, чтобы обеспечить высочайший уровень сервиса и комфорта.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":832,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/proverennye-batlery/"}}
+title: 'Проверенные батлеры: гарантия вашего комфорта'
+description: >-
+  ButlerSPB предлагает услуги только проверенных батлеров. Каждый кандидат
+  проходит строгий отбор и обучение, чтобы обеспечить высочайший уровень сервиса
+  и комфорта.
+pubDate: '2025-07-24T13:45:16.821Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Проверенные батлеры: гарантия вашего комфорта'
+  description: >-
+    ButlerSPB предлагает услуги только проверенных батлеров. Каждый кандидат
+    проходит строгий отбор и обучение, чтобы обеспечить высочайший уровень
+    сервиса и комфорта.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.8'
+    reviewCount: 711
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': 'https://butlerspb-blog.netlify.app/blog/proverennye-batlery/'
 ---
 # Проверенный батлер: Инструкция по поиску специалиста, которому можно доверить ваш дом и репутацию
 

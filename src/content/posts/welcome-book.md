@@ -1,11 +1,40 @@
 ---
-title: "Создаем Welcome book: инструкция от ButlerSPB"
-description: "Welcome book — это не просто инструкция, а знак заботы о гостях. Он помогает гостю освоиться, содержит полезную информацию и создает позитивное впечатление."
-keywords: "welcome book, книга гостя, гостеприимство, аренда жилья, инструкция для гостей, ButlerSPB"
-pubDate: "2025-07-25T15:46:11.954Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Создаем Welcome book: инструкция от ButlerSPB","description":"Welcome book — это не просто инструкция, а знак заботы о гостях. Он помогает гостю освоиться, содержит полезную информацию и создает позитивное впечатление.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":735,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/welcome-book/"}}
+title: 'Создаем Welcome book: инструкция от ButlerSPB'
+description: >-
+  Welcome book — это не просто инструкция, а знак заботы о гостях. Он помогает
+  гостю освоиться, содержит полезную информацию и создает позитивное
+  впечатление.
+pubDate: '2025-07-25T15:46:11.954Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Создаем Welcome book: инструкция от ButlerSPB'
+  description: >-
+    Welcome book — это не просто инструкция, а знак заботы о гостях. Он помогает
+    гостю освоиться, содержит полезную информацию и создает позитивное
+    впечатление.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.7'
+    reviewCount: 872
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': 'https://butlerspb-blog.netlify.app/blog/welcome-book/'
 ---
 # Как создать идеальную Welcome Book для гостей: Полное руководство, которое повысит ваш рейтинг и доход
 

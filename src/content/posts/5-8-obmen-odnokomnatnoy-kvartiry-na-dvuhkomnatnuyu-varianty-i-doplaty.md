@@ -1,10 +1,44 @@
 ---
-title: "Обмен однокомнатной квартиры на двухкомнатную: варианты и доплаты"
-description: "Мечтаете о расширении жилплощади? Эксперты ButlerSPB рассказывают, как выгодно и безопасно обменять однокомнатную квартиру на двухкомнатную. В статье разбираем популярные схемы (трейд-ин, встречная покупка), объясняем, из чего складывается доплата, и даем пошаговую инструкцию для будущих новоселов."
-pubDate: "2025-07-22T16:30:56.825Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Обмен однокомнатной квартиры на двухкомнатную: варианты и доплаты","description":"Мечтаете о расширении жилплощади? Эксперты ButlerSPB рассказывают, как выгодно и безопасно обменять однокомнатную квартиру на двухкомнатную. В статье разбираем популярные схемы (трейд-ин, встречная покупка), объясняем, из чего складывается доплата, и даем пошаговую инструкцию для будущих новоселов.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.7","reviewCount":511,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/5-8-obmen-odnokomnatnoy-kvartiry-na-dvuhkomnatnuyu-varianty-i-doplaty/"}}
+title: 'Обмен однокомнатной квартиры на двухкомнатную: варианты и доплаты'
+description: >-
+  Мечтаете о расширении жилплощади? Эксперты ButlerSPB рассказывают, как выгодно
+  и безопасно обменять однокомнатную квартиру на двухкомнатную. В статье
+  разбираем популярные схемы (трейд-ин, встречная покупка), объясняем, из чего
+  складывается доплата, и даем пошаговую инструкцию для будущих новоселов.
+pubDate: '2025-07-22T16:30:56.825Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Обмен однокомнатной квартиры на двухкомнатную: варианты и доплаты'
+  description: >-
+    Мечтаете о расширении жилплощади? Эксперты ButlerSPB рассказывают, как
+    выгодно и безопасно обменять однокомнатную квартиру на двухкомнатную. В
+    статье разбираем популярные схемы (трейд-ин, встречная покупка), объясняем,
+    из чего складывается доплата, и даем пошаговую инструкцию для будущих
+    новоселов.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '5.0'
+    reviewCount: 429
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/5-8-obmen-odnokomnatnoy-kvartiry-na-dvuhkomnatnuyu-varianty-i-doplaty/
 ---
 
 # Обмен однокомнатной квартиры на двухкомнатную в СПб: полный гид по вариантам, доплатам и подводным камням

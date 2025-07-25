@@ -1,11 +1,40 @@
 ---
-title: "Идеальные инструкции для гостей: гайд ButlerSPB"
-description: "Хорошие инструкции для гостей экономят время и нервы. Узнайте, как составить идеальное руководство: от правил заезда до пароля от Wi-Fi. ButlerSPB делится опытом."
-keywords: "инструкции для гостей, краткосрочная аренда, памятка гостю, правила дома, управление квартирой, ButlerSPB"
-pubDate: "2025-07-25T15:57:15.176Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Идеальные инструкции для гостей: гайд ButlerSPB","description":"Хорошие инструкции для гостей экономят время и нервы. Узнайте, как составить идеальное руководство: от правил заезда до пароля от Wi-Fi. ButlerSPB делится опытом.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":551,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/instrukcii-gosti/"}}
+title: 'Идеальные инструкции для гостей: гайд ButlerSPB'
+description: >-
+  Хорошие инструкции для гостей экономят время и нервы. Узнайте, как составить
+  идеальное руководство: от правил заезда до пароля от Wi-Fi. ButlerSPB делится
+  опытом.
+pubDate: '2025-07-25T15:57:15.176Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Идеальные инструкции для гостей: гайд ButlerSPB'
+  description: >-
+    Хорошие инструкции для гостей экономят время и нервы. Узнайте, как составить
+    идеальное руководство: от правил заезда до пароля от Wi-Fi. ButlerSPB
+    делится опытом.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.9'
+    reviewCount: 437
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': 'https://butlerspb-blog.netlify.app/blog/instrukcii-gosti/'
 ---
 # Как создать идеальные инструкции для гостя: полный гид от экспертов ButlerSPB, который сэкономит вам нервы и принесет 5-звездочные отзывы
 

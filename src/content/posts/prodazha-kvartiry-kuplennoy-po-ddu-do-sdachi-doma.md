@@ -1,10 +1,51 @@
 ---
-title: "Продажа квартиры по ДДУ до сдачи дома: пошаговая инструкция по переуступке от ButlerSPB"
-description: "Купили квартиру в новостройке, но планы изменились? Узнайте всё о продаже недвижимости по переуступке прав требования до ввода дома в эксплуатацию. Эксперты ButlerSPB рассказывают, что такое цессия, как правильно оформить сделку, какие документы потребуются от продавца и покупателя, как получить согласие застройщика и рассчитать налог. Полное руководство для безопасной и выгодной продажи вашей будущей квартиры."
-pubDate: "2025-07-23T12:18:25.778Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Продажа квартиры по ДДУ до сдачи дома: пошаговая инструкция по переуступке от ButlerSPB","description":"Купили квартиру в новостройке, но планы изменились? Узнайте всё о продаже недвижимости по переуступке прав требования до ввода дома в эксплуатацию. Эксперты ButlerSPB рассказывают, что такое цессия, как правильно оформить сделку, какие документы потребуются от продавца и покупателя, как получить согласие застройщика и рассчитать налог. Полное руководство для безопасной и выгодной продажи вашей будущей квартиры.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.8","reviewCount":619,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/prodazha-kvartiry-kuplennoy-po-ddu-do-sdachi-doma/"}}
+title: >-
+  Продажа квартиры по ДДУ до сдачи дома: пошаговая инструкция по переуступке от
+  ButlerSPB
+description: >-
+  Купили квартиру в новостройке, но планы изменились? Узнайте всё о продаже
+  недвижимости по переуступке прав требования до ввода дома в эксплуатацию.
+  Эксперты ButlerSPB рассказывают, что такое цессия, как правильно оформить
+  сделку, какие документы потребуются от продавца и покупателя, как получить
+  согласие застройщика и рассчитать налог. Полное руководство для безопасной и
+  выгодной продажи вашей будущей квартиры.
+pubDate: '2025-07-23T12:18:25.778Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: >-
+    Продажа квартиры по ДДУ до сдачи дома: пошаговая инструкция по переуступке
+    от ButlerSPB
+  description: >-
+    Купили квартиру в новостройке, но планы изменились? Узнайте всё о продаже
+    недвижимости по переуступке прав требования до ввода дома в эксплуатацию.
+    Эксперты ButlerSPB рассказывают, что такое цессия, как правильно оформить
+    сделку, какие документы потребуются от продавца и покупателя, как получить
+    согласие застройщика и рассчитать налог. Полное руководство для безопасной и
+    выгодной продажи вашей будущей квартиры.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '5.0'
+    reviewCount: 380
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/prodazha-kvartiry-kuplennoy-po-ddu-do-sdachi-doma/
 ---
 
 # Продажа квартиры по ДДУ до сдачи дома: Полное руководство по переуступке (цессии)

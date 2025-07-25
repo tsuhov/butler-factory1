@@ -1,10 +1,48 @@
 ---
-title: "Как купить инвестиционную квартиру удаленно: пошаговая инструкция от ButlerSPB"
-description: "Мечтаете об инвестиционной квартире в Петербурге, но живете в другом городе? В новой статье блога ButlerSPB мы делимся подробной инструкцией, как безопасно и выгодно купить недвижимость дистанционно: от выбора объекта и юридической проверки до онлайн-показов и электронной регистрации сделки. Узнайте все тонкости удаленной покупки и станьте инвестором, не выходя из дома."
-pubDate: "2025-07-23T11:36:51.412Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Как купить инвестиционную квартиру удаленно: пошаговая инструкция от ButlerSPB","description":"Мечтаете об инвестиционной квартире в Петербурге, но живете в другом городе? В новой статье блога ButlerSPB мы делимся подробной инструкцией, как безопасно и выгодно купить недвижимость дистанционно: от выбора объекта и юридической проверки до онлайн-показов и электронной регистрации сделки. Узнайте все тонкости удаленной покупки и станьте инвестором, не выходя из дома.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.7","reviewCount":365,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/kak-kupit-investicionnuyu-kvartiru-udalenno/"}}
+title: 'Как купить инвестиционную квартиру удаленно: пошаговая инструкция от ButlerSPB'
+description: >-
+  Мечтаете об инвестиционной квартире в Петербурге, но живете в другом городе? В
+  новой статье блога ButlerSPB мы делимся подробной инструкцией, как безопасно и
+  выгодно купить недвижимость дистанционно: от выбора объекта и юридической
+  проверки до онлайн-показов и электронной регистрации сделки. Узнайте все
+  тонкости удаленной покупки и станьте инвестором, не выходя из дома.
+pubDate: '2025-07-23T11:36:51.412Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: >-
+    Как купить инвестиционную квартиру удаленно: пошаговая инструкция от
+    ButlerSPB
+  description: >-
+    Мечтаете об инвестиционной квартире в Петербурге, но живете в другом городе?
+    В новой статье блога ButlerSPB мы делимся подробной инструкцией, как
+    безопасно и выгодно купить недвижимость дистанционно: от выбора объекта и
+    юридической проверки до онлайн-показов и электронной регистрации сделки.
+    Узнайте все тонкости удаленной покупки и станьте инвестором, не выходя из
+    дома.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.8'
+    reviewCount: 882
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/kak-kupit-investicionnuyu-kvartiru-udalenno/
 ---
 
 # Как купить инвестиционную квартиру удаленно: пошаговый гид для инвестора

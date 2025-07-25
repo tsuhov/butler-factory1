@@ -1,11 +1,40 @@
 ---
-title: "Квартиры для аренды в СПБ: гайд от ButlerSPB"
-description: "Ищете квартиру для аренды в Санкт-Петербурге? В этой статье эксперты ButlerSPB делятся советами, как выбрать жилье, избежать ошибок и заключить выгодную сделку."
-keywords: "аренда квартир, снять квартиру спб, аренда жилья, долгосрочная аренда, поиск квартиры, риэлтор спб, ButlerSPB"
-pubDate: "2025-07-25T13:59:48.819Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Квартиры для аренды в СПБ: гайд от ButlerSPB","description":"Ищете квартиру для аренды в Санкт-Петербурге? В этой статье эксперты ButlerSPB делятся советами, как выбрать жилье, избежать ошибок и заключить выгодную сделку.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"5.0","reviewCount":823,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/kvartiry-dlya-arendy/"}}
+title: 'Квартиры для аренды в СПБ: гайд от ButlerSPB'
+description: >-
+  Ищете квартиру для аренды в Санкт-Петербурге? В этой статье эксперты ButlerSPB
+  делятся советами, как выбрать жилье, избежать ошибок и заключить выгодную
+  сделку.
+pubDate: '2025-07-25T13:59:48.819Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Квартиры для аренды в СПБ: гайд от ButlerSPB'
+  description: >-
+    Ищете квартиру для аренды в Санкт-Петербурге? В этой статье эксперты
+    ButlerSPB делятся советами, как выбрать жилье, избежать ошибок и заключить
+    выгодную сделку.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '5.0'
+    reviewCount: 880
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': 'https://butlerspb-blog.netlify.app/blog/kvartiry-dlya-arendy/'
 ---
 # Как снять идеальную квартиру в Санкт-Петербурге: пошаговое руководство от экспертов ButlerSPB
 

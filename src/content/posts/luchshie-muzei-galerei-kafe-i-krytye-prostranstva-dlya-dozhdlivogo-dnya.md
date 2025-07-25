@@ -1,10 +1,43 @@
 ---
-title: "Чем заняться в дождливый день в Петербурге: Гид от ButlerSPB"
-description: "Не позволяйте петербургскому дождю испортить ваши планы! Команда ButlerSPB подготовила для вас подборку лучших музеев, уютных кафе, арт-галерей и других крытых пространств, где можно с комфортом и пользой переждать непогоду. Откройте для себя новые интересные места в любимом городе!"
-pubDate: "2025-07-22T11:49:24.748Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Чем заняться в дождливый день в Петербурге: Гид от ButlerSPB","description":"Не позволяйте петербургскому дождю испортить ваши планы! Команда ButlerSPB подготовила для вас подборку лучших музеев, уютных кафе, арт-галерей и других крытых пространств, где можно с комфортом и пользой переждать непогоду. Откройте для себя новые интересные места в любимом городе!","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":557,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/luchshie-muzei-galerei-kafe-i-krytye-prostranstva-dlya-dozhdlivogo-dnya/"}}
+title: 'Чем заняться в дождливый день в Петербурге: Гид от ButlerSPB'
+description: >-
+  Не позволяйте петербургскому дождю испортить ваши планы! Команда ButlerSPB
+  подготовила для вас подборку лучших музеев, уютных кафе, арт-галерей и других
+  крытых пространств, где можно с комфортом и пользой переждать непогоду.
+  Откройте для себя новые интересные места в любимом городе!
+pubDate: '2025-07-22T11:49:24.748Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Чем заняться в дождливый день в Петербурге: Гид от ButlerSPB'
+  description: >-
+    Не позволяйте петербургскому дождю испортить ваши планы! Команда ButlerSPB
+    подготовила для вас подборку лучших музеев, уютных кафе, арт-галерей и
+    других крытых пространств, где можно с комфортом и пользой переждать
+    непогоду. Откройте для себя новые интересные места в любимом городе!
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '5.0'
+    reviewCount: 390
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/luchshie-muzei-galerei-kafe-i-krytye-prostranstva-dlya-dozhdlivogo-dnya/
 ---
 
 # Куда пойти в Петербурге в дождь: гид по лучшим музеям, кафе и тайным местам от ButlerSPB

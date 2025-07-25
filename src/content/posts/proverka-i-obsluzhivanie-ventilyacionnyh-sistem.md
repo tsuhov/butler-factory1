@@ -1,10 +1,45 @@
 ---
-title: "Проверка и обслуживание вентиляционных систем: полное руководство от ButlerSPB"
-description: "Регулярная проверка и обслуживание вентиляции — залог чистого воздуха и здоровья. В новой статье блога ButlerSPB мы подробно разбираем, как и зачем проводить диагностику, чистку и сервис систем вентиляции, и какие проблемы помогает предотвратить своевременный уход."
-pubDate: "2025-07-22T11:23:19.026Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Проверка и обслуживание вентиляционных систем: полное руководство от ButlerSPB","description":"Регулярная проверка и обслуживание вентиляции — залог чистого воздуха и здоровья. В новой статье блога ButlerSPB мы подробно разбираем, как и зачем проводить диагностику, чистку и сервис систем вентиляции, и какие проблемы помогает предотвратить своевременный уход.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"5.0","reviewCount":366,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/proverka-i-obsluzhivanie-ventilyacionnyh-sistem/"}}
+title: 'Проверка и обслуживание вентиляционных систем: полное руководство от ButlerSPB'
+description: >-
+  Регулярная проверка и обслуживание вентиляции — залог чистого воздуха и
+  здоровья. В новой статье блога ButlerSPB мы подробно разбираем, как и зачем
+  проводить диагностику, чистку и сервис систем вентиляции, и какие проблемы
+  помогает предотвратить своевременный уход.
+pubDate: '2025-07-22T11:23:19.026Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: >-
+    Проверка и обслуживание вентиляционных систем: полное руководство от
+    ButlerSPB
+  description: >-
+    Регулярная проверка и обслуживание вентиляции — залог чистого воздуха и
+    здоровья. В новой статье блога ButlerSPB мы подробно разбираем, как и зачем
+    проводить диагностику, чистку и сервис систем вентиляции, и какие проблемы
+    помогает предотвратить своевременный уход.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.8'
+    reviewCount: 658
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/proverka-i-obsluzhivanie-ventilyacionnyh-sistem/
 ---
 
 # Полное руководство по проверке и обслуживанию систем вентиляции от А до Я

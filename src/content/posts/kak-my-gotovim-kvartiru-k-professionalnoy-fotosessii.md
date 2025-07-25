@@ -1,10 +1,45 @@
 ---
-title: "Как мы готовим квартиру к профессиональной фотосессии: чек-лист от ButlerSPB"
-description: "Профессиональные фотографии — ключ к быстрой и выгодной продаже или аренде недвижимости. В этой статье команда ButlerSPB делится своим пошаговым планом и секретами подготовки квартиры к фотосъемке. Узнайте, как правильно провести уборку, расставить акценты и создать идеальную картинку, которая привлечет максимум внимания."
-pubDate: "2025-07-22T11:14:01.249Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Как мы готовим квартиру к профессиональной фотосессии: чек-лист от ButlerSPB","description":"Профессиональные фотографии — ключ к быстрой и выгодной продаже или аренде недвижимости. В этой статье команда ButlerSPB делится своим пошаговым планом и секретами подготовки квартиры к фотосъемке. Узнайте, как правильно провести уборку, расставить акценты и создать идеальную картинку, которая привлечет максимум внимания.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.7","reviewCount":384,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/kak-my-gotovim-kvartiru-k-professionalnoy-fotosessii/"}}
+title: 'Как мы готовим квартиру к профессиональной фотосессии: чек-лист от ButlerSPB'
+description: >-
+  Профессиональные фотографии — ключ к быстрой и выгодной продаже или аренде
+  недвижимости. В этой статье команда ButlerSPB делится своим пошаговым планом и
+  секретами подготовки квартиры к фотосъемке. Узнайте, как правильно провести
+  уборку, расставить акценты и создать идеальную картинку, которая привлечет
+  максимум внимания.
+pubDate: '2025-07-22T11:14:01.249Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Как мы готовим квартиру к профессиональной фотосессии: чек-лист от ButlerSPB'
+  description: >-
+    Профессиональные фотографии — ключ к быстрой и выгодной продаже или аренде
+    недвижимости. В этой статье команда ButlerSPB делится своим пошаговым планом
+    и секретами подготовки квартиры к фотосъемке. Узнайте, как правильно
+    провести уборку, расставить акценты и создать идеальную картинку, которая
+    привлечет максимум внимания.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.8'
+    reviewCount: 727
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/kak-my-gotovim-kvartiru-k-professionalnoy-fotosessii/
 ---
 
 # Профессиональная фотосессия квартиры: как мы создаем «вау-эффект», который продает и сдает

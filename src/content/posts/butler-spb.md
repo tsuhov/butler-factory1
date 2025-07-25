@@ -1,11 +1,40 @@
 ---
-title: "Butler SPb: Искусство безупречного сервиса"
-description: "Компания ButlerSPB предлагает эксклюзивные услуги личного батлера в Санкт-Петербурге. Мы заботимся о вашем комфорте, решая бытовые и деловые задачи любого уровня."
-keywords: "батлер спб, консьерж сервис, личный помощник, элитные услуги, персональный сервис, Санкт-Петербург"
-pubDate: "2025-07-24T13:14:30.575Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Butler SPb: Искусство безупречного сервиса","description":"Компания ButlerSPB предлагает эксклюзивные услуги личного батлера в Санкт-Петербурге. Мы заботимся о вашем комфорте, решая бытовые и деловые задачи любого уровня.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.8","reviewCount":574,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/butler-spb/"}}
+title: 'Butler SPb: Искусство безупречного сервиса'
+description: >-
+  Компания ButlerSPB предлагает эксклюзивные услуги личного батлера в
+  Санкт-Петербурге. Мы заботимся о вашем комфорте, решая бытовые и деловые
+  задачи любого уровня.
+pubDate: '2025-07-24T13:14:30.575Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Butler SPb: Искусство безупречного сервиса'
+  description: >-
+    Компания ButlerSPB предлагает эксклюзивные услуги личного батлера в
+    Санкт-Петербурге. Мы заботимся о вашем комфорте, решая бытовые и деловые
+    задачи любого уровня.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.7'
+    reviewCount: 813
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': 'https://butlerspb-blog.netlify.app/blog/butler-spb/'
 ---
 # Современный дворецкий в Санкт-Петербурге: Больше, чем просто помощник. Полный гид от ButlerSPB
 

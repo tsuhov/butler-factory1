@@ -1,10 +1,49 @@
 ---
-title: "Что такое доверительное управление паевым инвестиционным фондом недвижимости (ПИФН)?"
-description: "Разбираемся в деталях доверительного управления паевым инвестиционным фондом недвижимости. В новой статье блога ButlerSPB мы простыми словами объясняем, как работают ПИФы, какую роль играет управляющая компания, и почему это один из самых доступных способов инвестировать в крупные объекты недвижимости для получения пассивного дохода."
-pubDate: "2025-07-22T00:02:01.982Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Что такое доверительное управление паевым инвестиционным фондом недвижимости (ПИФН)?","description":"Разбираемся в деталях доверительного управления паевым инвестиционным фондом недвижимости. В новой статье блога ButlerSPB мы простыми словами объясняем, как работают ПИФы, какую роль играет управляющая компания, и почему это один из самых доступных способов инвестировать в крупные объекты недвижимости для получения пассивного дохода.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":873,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/chto-takoe-doveritelnoe-upravlenie-paevym-investicionnym-fondom-nedvizhimosti/"}}
+title: >-
+  Что такое доверительное управление паевым инвестиционным фондом недвижимости
+  (ПИФН)?
+description: >-
+  Разбираемся в деталях доверительного управления паевым инвестиционным фондом
+  недвижимости. В новой статье блога ButlerSPB мы простыми словами объясняем,
+  как работают ПИФы, какую роль играет управляющая компания, и почему это один
+  из самых доступных способов инвестировать в крупные объекты недвижимости для
+  получения пассивного дохода.
+pubDate: '2025-07-22T00:02:01.982Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: >-
+    Что такое доверительное управление паевым инвестиционным фондом недвижимости
+    (ПИФН)?
+  description: >-
+    Разбираемся в деталях доверительного управления паевым инвестиционным фондом
+    недвижимости. В новой статье блога ButlerSPB мы простыми словами объясняем,
+    как работают ПИФы, какую роль играет управляющая компания, и почему это один
+    из самых доступных способов инвестировать в крупные объекты недвижимости для
+    получения пассивного дохода.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '5.0'
+    reviewCount: 320
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/chto-takoe-doveritelnoe-upravlenie-paevym-investicionnym-fondom-nedvizhimosti/
 ---
 
 # Что такое доверительное управление ПИФ недвижимости: Полное руководство для инвестора

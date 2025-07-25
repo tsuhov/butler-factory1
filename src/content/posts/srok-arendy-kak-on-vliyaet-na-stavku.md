@@ -1,10 +1,44 @@
 ---
-title: "Долго или коротко? Как срок аренды влияет на ставку и вашу выгоду"
-description: "Планируете сдать или снять квартиру? Срок аренды — один из ключевых факторов, определяющих её стоимость. В новой статье блога ButlerSPB разбираем, почему арендодатели готовы делать скидки за долгосрочные договоры, в чем риски краткосрочной аренды и как найти баланс, выгодный для обеих сторон."
-pubDate: "2025-07-23T11:54:58.708Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Долго или коротко? Как срок аренды влияет на ставку и вашу выгоду","description":"Планируете сдать или снять квартиру? Срок аренды — один из ключевых факторов, определяющих её стоимость. В новой статье блога ButlerSPB разбираем, почему арендодатели готовы делать скидки за долгосрочные договоры, в чем риски краткосрочной аренды и как найти баланс, выгодный для обеих сторон.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.8","reviewCount":600,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/srok-arendy-kak-on-vliyaet-na-stavku/"}}
+title: Долго или коротко? Как срок аренды влияет на ставку и вашу выгоду
+description: >-
+  Планируете сдать или снять квартиру? Срок аренды — один из ключевых факторов,
+  определяющих её стоимость. В новой статье блога ButlerSPB разбираем, почему
+  арендодатели готовы делать скидки за долгосрочные договоры, в чем риски
+  краткосрочной аренды и как найти баланс, выгодный для обеих сторон.
+pubDate: '2025-07-23T11:54:58.708Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: Долго или коротко? Как срок аренды влияет на ставку и вашу выгоду
+  description: >-
+    Планируете сдать или снять квартиру? Срок аренды — один из ключевых
+    факторов, определяющих её стоимость. В новой статье блога ButlerSPB
+    разбираем, почему арендодатели готовы делать скидки за долгосрочные
+    договоры, в чем риски краткосрочной аренды и как найти баланс, выгодный для
+    обеих сторон.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.8'
+    reviewCount: 881
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/srok-arendy-kak-on-vliyaet-na-stavku/
 ---
 
 # Срок аренды vs. Ставка: Как найти золотую середину? Полный гайд от ButlerSPB

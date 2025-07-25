@@ -1,11 +1,40 @@
 ---
-title: "Рейтинг лучших объектов недвижимости в СПб"
-description: "ButlerSPB представляет экспертный рейтинг недвижимости в Санкт-Петербурге. Узнайте, по каким критериям мы оцениваем объекты и как выбрать лучший вариант для вас."
-keywords: "рейтинг объектов, недвижимость спб, оценка недвижимости, выбор квартиры, ButlerSPB, лучшие объекты"
-pubDate: "2025-07-25T15:37:27.677Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Рейтинг лучших объектов недвижимости в СПб","description":"ButlerSPB представляет экспертный рейтинг недвижимости в Санкт-Петербурге. Узнайте, по каким критериям мы оцениваем объекты и как выбрать лучший вариант для вас.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.7","reviewCount":383,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/reyting-obektov/"}}
+title: Рейтинг лучших объектов недвижимости в СПб
+description: >-
+  ButlerSPB представляет экспертный рейтинг недвижимости в Санкт-Петербурге.
+  Узнайте, по каким критериям мы оцениваем объекты и как выбрать лучший вариант
+  для вас.
+pubDate: '2025-07-25T15:37:27.677Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: Рейтинг лучших объектов недвижимости в СПб
+  description: >-
+    ButlerSPB представляет экспертный рейтинг недвижимости в Санкт-Петербурге.
+    Узнайте, по каким критериям мы оцениваем объекты и как выбрать лучший
+    вариант для вас.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.7'
+    reviewCount: 853
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': 'https://butlerspb-blog.netlify.app/blog/reyting-obektov/'
 ---
 # Рейтинг объектов в Санкт-Петербурге: авторская методология ButlerSPB и секреты высокого дохода
 

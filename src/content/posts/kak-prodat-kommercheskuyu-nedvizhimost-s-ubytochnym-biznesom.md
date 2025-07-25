@@ -1,10 +1,52 @@
 ---
-title: "Убыточный бизнес — не приговор: как продать коммерческую недвижимость и остаться в плюсе"
-description: "Продажа коммерческого объекта с нерентабельным бизнесом кажется почти невозможной задачей, но это не так. В новой статье блога ButlerSPB мы разбираем стратегии, которые помогут собственнику выгодно реализовать такой актив. Узнайте, как правильно позиционировать объект, смещая фокус с убыточного предприятия на потенциал самой недвижимости, как найти правильного покупателя и какие документы подготовить для успешной и быстрой сделки."
-pubDate: "2025-07-23T12:02:15.717Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Убыточный бизнес — не приговор: как продать коммерческую недвижимость и остаться в плюсе","description":"Продажа коммерческого объекта с нерентабельным бизнесом кажется почти невозможной задачей, но это не так. В новой статье блога ButlerSPB мы разбираем стратегии, которые помогут собственнику выгодно реализовать такой актив. Узнайте, как правильно позиционировать объект, смещая фокус с убыточного предприятия на потенциал самой недвижимости, как найти правильного покупателя и какие документы подготовить для успешной и быстрой сделки.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.7","reviewCount":671,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/kak-prodat-kommercheskuyu-nedvizhimost-s-ubytochnym-biznesom/"}}
+title: >-
+  Убыточный бизнес — не приговор: как продать коммерческую недвижимость и
+  остаться в плюсе
+description: >-
+  Продажа коммерческого объекта с нерентабельным бизнесом кажется почти
+  невозможной задачей, но это не так. В новой статье блога ButlerSPB мы
+  разбираем стратегии, которые помогут собственнику выгодно реализовать такой
+  актив. Узнайте, как правильно позиционировать объект, смещая фокус с
+  убыточного предприятия на потенциал самой недвижимости, как найти правильного
+  покупателя и какие документы подготовить для успешной и быстрой сделки.
+pubDate: '2025-07-23T12:02:15.717Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: >-
+    Убыточный бизнес — не приговор: как продать коммерческую недвижимость и
+    остаться в плюсе
+  description: >-
+    Продажа коммерческого объекта с нерентабельным бизнесом кажется почти
+    невозможной задачей, но это не так. В новой статье блога ButlerSPB мы
+    разбираем стратегии, которые помогут собственнику выгодно реализовать такой
+    актив. Узнайте, как правильно позиционировать объект, смещая фокус с
+    убыточного предприятия на потенциал самой недвижимости, как найти
+    правильного покупателя и какие документы подготовить для успешной и быстрой
+    сделки.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '5.0'
+    reviewCount: 498
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/kak-prodat-kommercheskuyu-nedvizhimost-s-ubytochnym-biznesom/
 ---
 
 # Как продать коммерческую недвижимость с убыточным бизнесом: пошаговое руководство для собственника

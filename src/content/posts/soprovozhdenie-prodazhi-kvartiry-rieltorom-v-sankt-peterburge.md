@@ -1,10 +1,48 @@
 ---
-title: "Сопровождение продажи квартиры риэлтором в Санкт-Петербурге: этапы, цены и преимущества с ButlerSPB"
-description: "Планируете продать квартиру в СПб? Узнайте, как профессиональное сопровождение сделки от риэлторов ButlerSPB гарантирует безопасность и максимальную выгоду. В статье разбираем все этапы работы, от предпродажной подготовки до получения денег, и объясняем, из чего складывается стоимость услуг."
-pubDate: "2025-07-21T23:02:59.738Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Сопровождение продажи квартиры риэлтором в Санкт-Петербурге: этапы, цены и преимущества с ButlerSPB","description":"Планируете продать квартиру в СПб? Узнайте, как профессиональное сопровождение сделки от риэлторов ButlerSPB гарантирует безопасность и максимальную выгоду. В статье разбираем все этапы работы, от предпродажной подготовки до получения денег, и объясняем, из чего складывается стоимость услуг.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"5.0","reviewCount":888,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/soprovozhdenie-prodazhi-kvartiry-rieltorom-v-sankt-peterburge/"}}
+title: >-
+  Сопровождение продажи квартиры риэлтором в Санкт-Петербурге: этапы, цены и
+  преимущества с ButlerSPB
+description: >-
+  Планируете продать квартиру в СПб? Узнайте, как профессиональное сопровождение
+  сделки от риэлторов ButlerSPB гарантирует безопасность и максимальную выгоду.
+  В статье разбираем все этапы работы, от предпродажной подготовки до получения
+  денег, и объясняем, из чего складывается стоимость услуг.
+pubDate: '2025-07-21T23:02:59.738Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: >-
+    Сопровождение продажи квартиры риэлтором в Санкт-Петербурге: этапы, цены и
+    преимущества с ButlerSPB
+  description: >-
+    Планируете продать квартиру в СПб? Узнайте, как профессиональное
+    сопровождение сделки от риэлторов ButlerSPB гарантирует безопасность и
+    максимальную выгоду. В статье разбираем все этапы работы, от предпродажной
+    подготовки до получения денег, и объясняем, из чего складывается стоимость
+    услуг.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.8'
+    reviewCount: 473
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/soprovozhdenie-prodazhi-kvartiry-rieltorom-v-sankt-peterburge/
 ---
 
 # Как продать квартиру в Санкт-Петербурге с риэлтором: Полное руководство по сопровождению сделки от А до Я

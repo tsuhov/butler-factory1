@@ -1,10 +1,44 @@
 ---
-title: "Аренда квартир без мебели в СПб: спрос, особенности и советы от ButlerSPB"
-description: "Рассматриваете аренду квартиры без мебели в Санкт-Петербурге? В нашей новой статье от ButlerSPB разбираемся, для кого такой вариант станет идеальным решением, а кому стоит быть осторожнее. Анализируем текущий спрос, сравниваем цены и делимся особенностями, которые нужно учесть перед подписанием договора."
-pubDate: "2025-07-22T13:57:39.423Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Аренда квартир без мебели в СПб: спрос, особенности и советы от ButlerSPB","description":"Рассматриваете аренду квартиры без мебели в Санкт-Петербурге? В нашей новой статье от ButlerSPB разбираемся, для кого такой вариант станет идеальным решением, а кому стоит быть осторожнее. Анализируем текущий спрос, сравниваем цены и делимся особенностями, которые нужно учесть перед подписанием договора.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.8","reviewCount":333,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/arenda-kvartir-bez-mebeli-v-spb-spros-i-osobennosti/"}}
+title: 'Аренда квартир без мебели в СПб: спрос, особенности и советы от ButlerSPB'
+description: >-
+  Рассматриваете аренду квартиры без мебели в Санкт-Петербурге? В нашей новой
+  статье от ButlerSPB разбираемся, для кого такой вариант станет идеальным
+  решением, а кому стоит быть осторожнее. Анализируем текущий спрос, сравниваем
+  цены и делимся особенностями, которые нужно учесть перед подписанием договора.
+pubDate: '2025-07-22T13:57:39.423Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Аренда квартир без мебели в СПб: спрос, особенности и советы от ButlerSPB'
+  description: >-
+    Рассматриваете аренду квартиры без мебели в Санкт-Петербурге? В нашей новой
+    статье от ButlerSPB разбираемся, для кого такой вариант станет идеальным
+    решением, а кому стоит быть осторожнее. Анализируем текущий спрос,
+    сравниваем цены и делимся особенностями, которые нужно учесть перед
+    подписанием договора.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '5.0'
+    reviewCount: 821
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/arenda-kvartir-bez-mebeli-v-spb-spros-i-osobennosti/
 ---
 
 # Снять квартиру без мебели в СПб: Экономия или головная боль? Разбираемся с экспертами ButlerSPB

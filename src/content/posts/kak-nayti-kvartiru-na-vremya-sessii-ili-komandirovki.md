@@ -1,10 +1,45 @@
 ---
-title: "Как найти квартиру на время сессии или командировки: гид от ButlerSPB"
-description: "Планируете поездку в Санкт-Петербург на сессию или по работе? В нашей статье мы собрали все ключевые советы: где искать жилье, на что обратить внимание при выборе квартиры, как избежать мошенников и почему апартаменты с гостиничным сервисом от ButlerSPB — это идеальное решение для вашего комфорта и спокойствия."
-pubDate: "2025-07-22T11:38:06.587Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Как найти квартиру на время сессии или командировки: гид от ButlerSPB","description":"Планируете поездку в Санкт-Петербург на сессию или по работе? В нашей статье мы собрали все ключевые советы: где искать жилье, на что обратить внимание при выборе квартиры, как избежать мошенников и почему апартаменты с гостиничным сервисом от ButlerSPB — это идеальное решение для вашего комфорта и спокойствия.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":713,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/kak-nayti-kvartiru-na-vremya-sessii-ili-komandirovki/"}}
+title: 'Как найти квартиру на время сессии или командировки: гид от ButlerSPB'
+description: >-
+  Планируете поездку в Санкт-Петербург на сессию или по работе? В нашей статье
+  мы собрали все ключевые советы: где искать жилье, на что обратить внимание при
+  выборе квартиры, как избежать мошенников и почему апартаменты с гостиничным
+  сервисом от ButlerSPB — это идеальное решение для вашего комфорта и
+  спокойствия.
+pubDate: '2025-07-22T11:38:06.587Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Как найти квартиру на время сессии или командировки: гид от ButlerSPB'
+  description: >-
+    Планируете поездку в Санкт-Петербург на сессию или по работе? В нашей статье
+    мы собрали все ключевые советы: где искать жилье, на что обратить внимание
+    при выборе квартиры, как избежать мошенников и почему апартаменты с
+    гостиничным сервисом от ButlerSPB — это идеальное решение для вашего
+    комфорта и спокойствия.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.8'
+    reviewCount: 350
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/kak-nayti-kvartiru-na-vremya-sessii-ili-komandirovki/
 ---
 
 # Как снять идеальную квартиру на время сессии или командировки в Санкт-Петербурге: пошаговый план

@@ -1,10 +1,49 @@
 ---
-title: "Обмен квартиры на таунхаус в пригороде СПб: пошаговое руководство от ButlerSPB"
-description: "Мечтаете сменить городскую суету на простор и природу, не теряя в комфорте? Обмен квартиры в Санкт-Петербурге на таунхаус в ближайшем пригороде — популярный и реальный сценарий. В этой статье команда ButlerSPB подробно разбирает все плюсы и минусы такого решения, рассказывает о финансовых и юридических аспектах сделки, а также дает практические советы по выбору идеального таунхауса и успешной продаже вашей квартиры."
-pubDate: "2025-07-23T11:12:04.290Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Обмен квартиры на таунхаус в пригороде СПб: пошаговое руководство от ButlerSPB","description":"Мечтаете сменить городскую суету на простор и природу, не теряя в комфорте? Обмен квартиры в Санкт-Петербурге на таунхаус в ближайшем пригороде — популярный и реальный сценарий. В этой статье команда ButlerSPB подробно разбирает все плюсы и минусы такого решения, рассказывает о финансовых и юридических аспектах сделки, а также дает практические советы по выбору идеального таунхауса и успешной продаже вашей квартиры.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"5.0","reviewCount":826,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/obmen-kvartiry-na-taunhaus-v-prigorode-spb/"}}
+title: 'Обмен квартиры на таунхаус в пригороде СПб: пошаговое руководство от ButlerSPB'
+description: >-
+  Мечтаете сменить городскую суету на простор и природу, не теряя в комфорте?
+  Обмен квартиры в Санкт-Петербурге на таунхаус в ближайшем пригороде —
+  популярный и реальный сценарий. В этой статье команда ButlerSPB подробно
+  разбирает все плюсы и минусы такого решения, рассказывает о финансовых и
+  юридических аспектах сделки, а также дает практические советы по выбору
+  идеального таунхауса и успешной продаже вашей квартиры.
+pubDate: '2025-07-23T11:12:04.290Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: >-
+    Обмен квартиры на таунхаус в пригороде СПб: пошаговое руководство от
+    ButlerSPB
+  description: >-
+    Мечтаете сменить городскую суету на простор и природу, не теряя в комфорте?
+    Обмен квартиры в Санкт-Петербурге на таунхаус в ближайшем пригороде —
+    популярный и реальный сценарий. В этой статье команда ButlerSPB подробно
+    разбирает все плюсы и минусы такого решения, рассказывает о финансовых и
+    юридических аспектах сделки, а также дает практические советы по выбору
+    идеального таунхауса и успешной продаже вашей квартиры.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.8'
+    reviewCount: 546
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/obmen-kvartiry-na-taunhaus-v-prigorode-spb/
 ---
 
 # Обмен квартиры на таунхаус в пригороде СПб: как осуществить мечту о загородной жизни без лишних рисков

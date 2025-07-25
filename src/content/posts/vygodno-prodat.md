@@ -1,11 +1,38 @@
 ---
-title: "Выгодно продать: экспертные советы ButlerSPB"
-description: "Хотите продать с максимальной выгодой? Эксперты ButlerSPB делятся советами по оценке, подготовке объекта и переговорам для получения наилучшей цены."
-keywords: "выгодно продать, продажа недвижимости, предпродажная подготовка, оценка стоимости, успешная сделка, ButlerSPB"
-pubDate: "2025-07-25T14:37:08.434Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Выгодно продать: экспертные советы ButlerSPB","description":"Хотите продать с максимальной выгодой? Эксперты ButlerSPB делятся советами по оценке, подготовке объекта и переговорам для получения наилучшей цены.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.8","reviewCount":625,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/vygodno-prodat/"}}
+title: 'Выгодно продать: экспертные советы ButlerSPB'
+description: >-
+  Хотите продать с максимальной выгодой? Эксперты ButlerSPB делятся советами по
+  оценке, подготовке объекта и переговорам для получения наилучшей цены.
+pubDate: '2025-07-25T14:37:08.434Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Выгодно продать: экспертные советы ButlerSPB'
+  description: >-
+    Хотите продать с максимальной выгодой? Эксперты ButlerSPB делятся советами
+    по оценке, подготовке объекта и переговорам для получения наилучшей цены.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.8'
+    reviewCount: 596
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': 'https://butlerspb-blog.netlify.app/blog/vygodno-prodat/'
 ---
 # Как выгодно продать брендовую сумку, одежду или аксессуары: Полный гид от экспертов ButlerSPB
 

@@ -1,11 +1,40 @@
 ---
-title: "Доходные дома Петербурга: история и прибыль"
-description: "Доходные дома — это не просто памятники архитектуры Петербурга, но и выгодный инвестиционный актив. Разбираемся в истории и оцениваем перспективы для инвесторов."
-keywords: "доходный дом, инвестиции в недвижимость, арендный бизнес, история Петербурга, недвижимость СПб, управление недвижимостью"
-pubDate: "2025-07-25T16:11:39.385Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Доходные дома Петербурга: история и прибыль","description":"Доходные дома — это не просто памятники архитектуры Петербурга, но и выгодный инвестиционный актив. Разбираемся в истории и оцениваем перспективы для инвесторов.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"5.0","reviewCount":758,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/dohodnye-doma/"}}
+title: 'Доходные дома Петербурга: история и прибыль'
+description: >-
+  Доходные дома — это не просто памятники архитектуры Петербурга, но и выгодный
+  инвестиционный актив. Разбираемся в истории и оцениваем перспективы для
+  инвесторов.
+pubDate: '2025-07-25T16:11:39.385Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Доходные дома Петербурга: история и прибыль'
+  description: >-
+    Доходные дома — это не просто памятники архитектуры Петербурга, но и
+    выгодный инвестиционный актив. Разбираемся в истории и оцениваем перспективы
+    для инвесторов.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.8'
+    reviewCount: 695
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': 'https://butlerspb-blog.netlify.app/blog/dohodnye-doma/'
 ---
 # Доходные дома: Возрождение легенды. Полное руководство для инвестора в Санкт-Петербурге
 

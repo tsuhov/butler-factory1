@@ -1,11 +1,40 @@
 ---
-title: "Доверительное управление апартаментами в СПб"
-description: "Узнайте, как профессиональное управление апартаментами от ButlerSPB может увеличить вашу прибыль и снять с вас все заботы по аренде. Мы берем на себя все!"
-keywords: "управление апартаментами, доверительное управление, арендный бизнес, сдать апартаменты, ButlerSPB, доходная недвижимость, управление спб"
-pubDate: "2025-07-25T14:20:02.638Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Доверительное управление апартаментами в СПб","description":"Узнайте, как профессиональное управление апартаментами от ButlerSPB может увеличить вашу прибыль и снять с вас все заботы по аренде. Мы берем на себя все!","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.7","reviewCount":898,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/upravlenie-apartamentov/"}}
+title: Доверительное управление апартаментами в СПб
+description: >-
+  Узнайте, как профессиональное управление апартаментами от ButlerSPB может
+  увеличить вашу прибыль и снять с вас все заботы по аренде. Мы берем на себя
+  все!
+pubDate: '2025-07-25T14:20:02.638Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: Доверительное управление апартаментами в СПб
+  description: >-
+    Узнайте, как профессиональное управление апартаментами от ButlerSPB может
+    увеличить вашу прибыль и снять с вас все заботы по аренде. Мы берем на себя
+    все!
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.7'
+    reviewCount: 799
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': 'https://butlerspb-blog.netlify.app/blog/upravlenie-apartamentov/'
 ---
 # Управление апартаментов в 2024: Полное руководство для собственника от экспертов ButlerSPB
 

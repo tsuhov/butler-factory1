@@ -1,10 +1,45 @@
 ---
-title: "Что такое лофт и почему он так популярен в Санкт-Петербурге"
-description: "Откройте для себя феномен стиля лофт. В новой статье блога ButlerSPB мы разбираемся, как индустриальные пространства превратились в самые желанные апартаменты, и почему историческая застройка Санкт-Петербурга стала идеальной почвой для этого брутального и одновременно уютного стиля. Узнайте о ключевых чертах лофта, его истории и лучших локациях в Северной столице."
-pubDate: "2025-07-23T12:11:23.982Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Что такое лофт и почему он так популярен в Санкт-Петербурге","description":"Откройте для себя феномен стиля лофт. В новой статье блога ButlerSPB мы разбираемся, как индустриальные пространства превратились в самые желанные апартаменты, и почему историческая застройка Санкт-Петербурга стала идеальной почвой для этого брутального и одновременно уютного стиля. Узнайте о ключевых чертах лофта, его истории и лучших локациях в Северной столице.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":713,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/chto-takoe-loft-i-pochemu-on-populyaren-v-sankt-peterburge/"}}
+title: Что такое лофт и почему он так популярен в Санкт-Петербурге
+description: >-
+  Откройте для себя феномен стиля лофт. В новой статье блога ButlerSPB мы
+  разбираемся, как индустриальные пространства превратились в самые желанные
+  апартаменты, и почему историческая застройка Санкт-Петербурга стала идеальной
+  почвой для этого брутального и одновременно уютного стиля. Узнайте о ключевых
+  чертах лофта, его истории и лучших локациях в Северной столице.
+pubDate: '2025-07-23T12:11:23.982Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: Что такое лофт и почему он так популярен в Санкт-Петербурге
+  description: >-
+    Откройте для себя феномен стиля лофт. В новой статье блога ButlerSPB мы
+    разбираемся, как индустриальные пространства превратились в самые желанные
+    апартаменты, и почему историческая застройка Санкт-Петербурга стала
+    идеальной почвой для этого брутального и одновременно уютного стиля. Узнайте
+    о ключевых чертах лофта, его истории и лучших локациях в Северной столице.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.7'
+    reviewCount: 743
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/chto-takoe-loft-i-pochemu-on-populyaren-v-sankt-peterburge/
 ---
 
 # Что такое лофт и почему он так популярен в Санкт-Петербурге

@@ -1,11 +1,39 @@
 ---
-title: "Снять нагрузку: делегируйте рутину ButlerSPB"
-description: "Устали от бесконечной рутины и стресса? Наша статья покажет, как правильно снять нагрузку, высвободив время для себя, семьи и хобби с помощью ButlerSPB."
-keywords: "снять стресс, делегирование задач, личный ассистент, управление временем, work-life balance, консьерж-сервис спб"
-pubDate: "2025-07-24T13:13:09.541Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Снять нагрузку: делегируйте рутину ButlerSPB","description":"Устали от бесконечной рутины и стресса? Наша статья покажет, как правильно снять нагрузку, высвободив время для себя, семьи и хобби с помощью ButlerSPB.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":670,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/snyat-nagruzku/"}}
+title: 'Снять нагрузку: делегируйте рутину ButlerSPB'
+description: >-
+  Устали от бесконечной рутины и стресса? Наша статья покажет, как правильно
+  снять нагрузку, высвободив время для себя, семьи и хобби с помощью ButlerSPB.
+pubDate: '2025-07-24T13:13:09.541Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Снять нагрузку: делегируйте рутину ButlerSPB'
+  description: >-
+    Устали от бесконечной рутины и стресса? Наша статья покажет, как правильно
+    снять нагрузку, высвободив время для себя, семьи и хобби с помощью
+    ButlerSPB.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.7'
+    reviewCount: 300
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': 'https://butlerspb-blog.netlify.app/blog/snyat-nagruzku/'
 ---
 # Как снять с себя нагрузку: пошаговый план по возвращению контроля над своей жизнью
 

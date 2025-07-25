@@ -1,10 +1,45 @@
 ---
-title: "Доверие без границ: как ButlerSPB строит прочные отношения на расстоянии"
-description: "В современном мире удаленная работа и общение на расстоянии стали нормой. Но как сохранить самое важное — доверие, когда вас разделяют километры? В этой статье команда ButlerSPB делится своими проверенными принципами и инструментами, которые помогают нам строить прозрачные и долгосрочные отношения с клиентами и партнерами, где бы они ни находились."
-pubDate: "2025-07-22T11:31:14.723Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Доверие без границ: как ButlerSPB строит прочные отношения на расстоянии","description":"В современном мире удаленная работа и общение на расстоянии стали нормой. Но как сохранить самое важное — доверие, когда вас разделяют километры? В этой статье команда ButlerSPB делится своими проверенными принципами и инструментами, которые помогают нам строить прозрачные и долгосрочные отношения с клиентами и партнерами, где бы они ни находились.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":453,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/kak-my-stroim-doveritelnye-otnosheniya-na-rasstoyanii/"}}
+title: 'Доверие без границ: как ButlerSPB строит прочные отношения на расстоянии'
+description: >-
+  В современном мире удаленная работа и общение на расстоянии стали нормой. Но
+  как сохранить самое важное — доверие, когда вас разделяют километры? В этой
+  статье команда ButlerSPB делится своими проверенными принципами и
+  инструментами, которые помогают нам строить прозрачные и долгосрочные
+  отношения с клиентами и партнерами, где бы они ни находились.
+pubDate: '2025-07-22T11:31:14.723Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Доверие без границ: как ButlerSPB строит прочные отношения на расстоянии'
+  description: >-
+    В современном мире удаленная работа и общение на расстоянии стали нормой. Но
+    как сохранить самое важное — доверие, когда вас разделяют километры? В этой
+    статье команда ButlerSPB делится своими проверенными принципами и
+    инструментами, которые помогают нам строить прозрачные и долгосрочные
+    отношения с клиентами и партнерами, где бы они ни находились.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.9'
+    reviewCount: 791
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/kak-my-stroim-doveritelnye-otnosheniya-na-rasstoyanii/
 ---
 
 # Доверие без границ: Как ButlerSPB выстраивает абсолютно надежные отношения с клиентами на расстоянии

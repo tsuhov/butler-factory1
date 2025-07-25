@@ -1,11 +1,40 @@
 ---
-title: "Как создать идеальные и полные инструкции"
-description: "В этой статье от ButlerSPB мы разберем, как писать понятные и исчерпывающие инструкции для сотрудников и клиентов. Правильные гайды экономят время и ресурсы."
-keywords: "инструкции, руководство, чек-лист, стандарты работы, обучение персонала, гайд, ButlerSPB"
-pubDate: "2025-07-25T16:21:08.760Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Как создать идеальные и полные инструкции","description":"В этой статье от ButlerSPB мы разберем, как писать понятные и исчерпывающие инструкции для сотрудников и клиентов. Правильные гайды экономят время и ресурсы.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.8","reviewCount":790,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/instrukcii-polnye/"}}
+title: Как создать идеальные и полные инструкции
+description: >-
+  В этой статье от ButlerSPB мы разберем, как писать понятные и исчерпывающие
+  инструкции для сотрудников и клиентов. Правильные гайды экономят время и
+  ресурсы.
+pubDate: '2025-07-25T16:21:08.760Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: Как создать идеальные и полные инструкции
+  description: >-
+    В этой статье от ButlerSPB мы разберем, как писать понятные и исчерпывающие
+    инструкции для сотрудников и клиентов. Правильные гайды экономят время и
+    ресурсы.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.8'
+    reviewCount: 719
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': 'https://butlerspb-blog.netlify.app/blog/instrukcii-polnye/'
 ---
 # Уборка квартиры как у профи: Самая полная пошаговая инструкция от клинеров ButlerSPB
 

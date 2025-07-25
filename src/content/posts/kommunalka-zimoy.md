@@ -1,11 +1,39 @@
 ---
-title: "Коммунальные платежи зимой: как сэкономить"
-description: "Зимой расходы на ЖКУ традиционно растут из-за отопления. Рассказываем, из чего складываются счета, как проверить начисления и легально снизить платежи."
-keywords: "коммунальные платежи, ЖКУ, отопление, счет за квартиру, экономия на коммуналке, тарифы ЖКХ, ButlerSPB"
-pubDate: "2025-07-25T16:26:03.924Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Коммунальные платежи зимой: как сэкономить","description":"Зимой расходы на ЖКУ традиционно растут из-за отопления. Рассказываем, из чего складываются счета, как проверить начисления и легально снизить платежи.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.7","reviewCount":699,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/kommunalka-zimoy/"}}
+title: 'Коммунальные платежи зимой: как сэкономить'
+description: >-
+  Зимой расходы на ЖКУ традиционно растут из-за отопления. Рассказываем, из чего
+  складываются счета, как проверить начисления и легально снизить платежи.
+pubDate: '2025-07-25T16:26:03.924Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Коммунальные платежи зимой: как сэкономить'
+  description: >-
+    Зимой расходы на ЖКУ традиционно растут из-за отопления. Рассказываем, из
+    чего складываются счета, как проверить начисления и легально снизить
+    платежи.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.7'
+    reviewCount: 571
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': 'https://butlerspb-blog.netlify.app/blog/kommunalka-zimoy/'
 ---
 # Коммуналка зимой: подробный гид по счетам, экономии и комфорту в вашей квартире
 

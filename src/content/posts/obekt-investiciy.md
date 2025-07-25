@@ -1,11 +1,40 @@
 ---
-title: "Как выбрать объект инвестиций: советы ButlerSPB"
-description: "Выбор объекта для инвестиций — ключевой шаг к успеху. В этой статье мы рассмотрим основные виды активов, их риски и доходность. ButlerSPB поможет вам найти!"
-keywords: "объект инвестиций, куда вложить деньги, инвестирование, акции, недвижимость, ButlerSPB, пассивный доход"
-pubDate: "2025-07-25T14:02:09.888Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Как выбрать объект инвестиций: советы ButlerSPB","description":"Выбор объекта для инвестиций — ключевой шаг к успеху. В этой статье мы рассмотрим основные виды активов, их риски и доходность. ButlerSPB поможет вам найти!","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":420,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/obekt-investiciy/"}}
+title: 'Как выбрать объект инвестиций: советы ButlerSPB'
+description: >-
+  Выбор объекта для инвестиций — ключевой шаг к успеху. В этой статье мы
+  рассмотрим основные виды активов, их риски и доходность. ButlerSPB поможет вам
+  найти!
+pubDate: '2025-07-25T14:02:09.888Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Как выбрать объект инвестиций: советы ButlerSPB'
+  description: >-
+    Выбор объекта для инвестиций — ключевой шаг к успеху. В этой статье мы
+    рассмотрим основные виды активов, их риски и доходность. ButlerSPB поможет
+    вам найти!
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '5.0'
+    reviewCount: 317
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': 'https://butlerspb-blog.netlify.app/blog/obekt-investiciy/'
 ---
 # Объект инвестиций: от теории к практике. Как выбрать актив, который принесет прибыль?
 

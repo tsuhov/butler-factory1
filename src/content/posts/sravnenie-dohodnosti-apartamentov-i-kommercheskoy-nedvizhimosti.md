@@ -1,11 +1,41 @@
 ---
-title: "Сравнение доходности апартаментов и коммерции"
-description: "Сравниваем два популярных вида инвестиций в недвижимость: апартаменты и коммерческие помещения. Анализируем доходность, риски, сроки окупаемости и нюансы управления."
-keywords: "инвестиции в недвижимость, доходность апартаментов, коммерческая недвижимость, сравнение доходности, управление недвижимостью, пассивный доход"
-pubDate: "2025-07-24T12:04:52.606Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Сравнение доходности апартаментов и коммерции","description":"Сравниваем два популярных вида инвестиций в недвижимость: апартаменты и коммерческие помещения. Анализируем доходность, риски, сроки окупаемости и нюансы управления.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":452,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/sravnenie-dohodnosti-apartamentov-i-kommercheskoy-nedvizhimosti/"}}
+title: Сравнение доходности апартаментов и коммерции
+description: >-
+  Сравниваем два популярных вида инвестиций в недвижимость: апартаменты и
+  коммерческие помещения. Анализируем доходность, риски, сроки окупаемости и
+  нюансы управления.
+pubDate: '2025-07-24T12:04:52.606Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: Сравнение доходности апартаментов и коммерции
+  description: >-
+    Сравниваем два популярных вида инвестиций в недвижимость: апартаменты и
+    коммерческие помещения. Анализируем доходность, риски, сроки окупаемости и
+    нюансы управления.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '5.0'
+    reviewCount: 543
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/sravnenie-dohodnosti-apartamentov-i-kommercheskoy-nedvizhimosti/
 ---
 # Что принесет больше денег: апартаменты или коммерческая недвижимость? Полный разбор для инвестора
 

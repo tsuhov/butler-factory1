@@ -1,11 +1,40 @@
 ---
-title: "Доходный дом: история и современность в СПб"
-description: "Погрузитесь в историю доходных домов Санкт-Петербурга. Узнайте, что это такое, какова их роль в архитектуре города и почему они остаются выгодной инвестицией."
-keywords: "доходный дом, недвижимость спб, инвестиции, архитектура петербурга, история, аренда"
-pubDate: "2025-07-25T16:23:53.958Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Доходный дом: история и современность в СПб","description":"Погрузитесь в историю доходных домов Санкт-Петербурга. Узнайте, что это такое, какова их роль в архитектуре города и почему они остаются выгодной инвестицией.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.8","reviewCount":855,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/dom-dohodnyy/"}}
+title: 'Доходный дом: история и современность в СПб'
+description: >-
+  Погрузитесь в историю доходных домов Санкт-Петербурга. Узнайте, что это такое,
+  какова их роль в архитектуре города и почему они остаются выгодной
+  инвестицией.
+pubDate: '2025-07-25T16:23:53.958Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Доходный дом: история и современность в СПб'
+  description: >-
+    Погрузитесь в историю доходных домов Санкт-Петербурга. Узнайте, что это
+    такое, какова их роль в архитектуре города и почему они остаются выгодной
+    инвестицией.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.8'
+    reviewCount: 798
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': 'https://butlerspb-blog.netlify.app/blog/dom-dohodnyy/'
 ---
 # Доходный дом: от исторической концепции до прибыльной инвестиции в современном Петербурге
 

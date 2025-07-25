@@ -1,10 +1,45 @@
 ---
-title: "Что такое квартира-студия: кому подойдет и как ее обустроить?"
-description: "Квартира-студия — это современный и популярный формат жилья. В новой статье блога ButlerSPB разбираемся, что представляет собой студия, рассматриваем ее ключевые плюсы и минусы, а также выясняем, для кого такое жилье станет идеальным выбором: для студента, молодой пары, инвестора или творческой личности. Помогаем сделать осознанный выбор."
-pubDate: "2025-07-23T11:27:46.304Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Что такое квартира-студия: кому подойдет и как ее обустроить?","description":"Квартира-студия — это современный и популярный формат жилья. В новой статье блога ButlerSPB разбираемся, что представляет собой студия, рассматриваем ее ключевые плюсы и минусы, а также выясняем, для кого такое жилье станет идеальным выбором: для студента, молодой пары, инвестора или творческой личности. Помогаем сделать осознанный выбор.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":309,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/chto-takoe-kvartira-studiya-i-komu-ona-podhodit/"}}
+title: 'Что такое квартира-студия: кому подойдет и как ее обустроить?'
+description: >-
+  Квартира-студия — это современный и популярный формат жилья. В новой статье
+  блога ButlerSPB разбираемся, что представляет собой студия, рассматриваем ее
+  ключевые плюсы и минусы, а также выясняем, для кого такое жилье станет
+  идеальным выбором: для студента, молодой пары, инвестора или творческой
+  личности. Помогаем сделать осознанный выбор.
+pubDate: '2025-07-23T11:27:46.304Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Что такое квартира-студия: кому подойдет и как ее обустроить?'
+  description: >-
+    Квартира-студия — это современный и популярный формат жилья. В новой статье
+    блога ButlerSPB разбираемся, что представляет собой студия, рассматриваем ее
+    ключевые плюсы и минусы, а также выясняем, для кого такое жилье станет
+    идеальным выбором: для студента, молодой пары, инвестора или творческой
+    личности. Помогаем сделать осознанный выбор.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.8'
+    reviewCount: 653
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/chto-takoe-kvartira-studiya-i-komu-ona-podhodit/
 ---
 
 # Квартира-студия: что это, кому идеально подходит и как выбрать в Санкт-Петербурге

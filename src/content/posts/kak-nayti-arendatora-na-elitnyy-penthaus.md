@@ -1,10 +1,41 @@
 ---
-title: "Элитный пентхаус: стратегия поиска надежного арендатора в СПб"
-description: "Как найти достойного жильца для элитной недвижимости? ButlerSPB делится секретами: целевой маркетинг, эффективный скрининг и юридические тонкости аренды."
-pubDate: "2025-07-23T23:26:46.984Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Элитный пентхаус: стратегия поиска надежного арендатора в СПб","description":"Как найти достойного жильца для элитной недвижимости? ButlerSPB делится секретами: целевой маркетинг, эффективный скрининг и юридические тонкости аренды.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"5.0","reviewCount":831,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/kak-nayti-arendatora-na-elitnyy-penthaus/"}}
+title: 'Элитный пентхаус: стратегия поиска надежного арендатора в СПб'
+description: >-
+  Как найти достойного жильца для элитной недвижимости? ButlerSPB делится
+  секретами: целевой маркетинг, эффективный скрининг и юридические тонкости
+  аренды.
+pubDate: '2025-07-23T23:26:46.984Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Элитный пентхаус: стратегия поиска надежного арендатора в СПб'
+  description: >-
+    Как найти достойного жильца для элитной недвижимости? ButlerSPB делится
+    секретами: целевой маркетинг, эффективный скрининг и юридические тонкости
+    аренды.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.9'
+    reviewCount: 441
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/kak-nayti-arendatora-na-elitnyy-penthaus/
 ---
 
 # Элитный пентхаус: стратегия поиска надежного арендатора в СПб

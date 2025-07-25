@@ -1,10 +1,51 @@
 ---
-title: "Пошаговый план для инвестора в недвижимость: от бюджета до заселения арендатора"
-description: "Инвестиции в недвижимость — проверенный способ создания пассивного дохода. В этой статье от ButlerSPB мы представляем исчерпывающее руководство для инвесторов. Вы узнаете, как грамотно рассчитать бюджет, выбрать ликвидный объект, провести юридическую проверку, подготовить квартиру к сдаче и найти надежного арендатора. Следуйте нашему пошаговому плану, чтобы сделать вашу инвестицию успешной и прибыльной с первого дня."
-pubDate: "2025-07-23T12:04:34.973Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Пошаговый план для инвестора в недвижимость: от бюджета до заселения арендатора","description":"Инвестиции в недвижимость — проверенный способ создания пассивного дохода. В этой статье от ButlerSPB мы представляем исчерпывающее руководство для инвесторов. Вы узнаете, как грамотно рассчитать бюджет, выбрать ликвидный объект, провести юридическую проверку, подготовить квартиру к сдаче и найти надежного арендатора. Следуйте нашему пошаговому плану, чтобы сделать вашу инвестицию успешной и прибыльной с первого дня.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"5.0","reviewCount":376,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/poshagovyy-plan-dlya-investora-v-nedvizhimost-ot-byudzheta-do-zaseleniya-arendatora/"}}
+title: >-
+  Пошаговый план для инвестора в недвижимость: от бюджета до заселения
+  арендатора
+description: >-
+  Инвестиции в недвижимость — проверенный способ создания пассивного дохода. В
+  этой статье от ButlerSPB мы представляем исчерпывающее руководство для
+  инвесторов. Вы узнаете, как грамотно рассчитать бюджет, выбрать ликвидный
+  объект, провести юридическую проверку, подготовить квартиру к сдаче и найти
+  надежного арендатора. Следуйте нашему пошаговому плану, чтобы сделать вашу
+  инвестицию успешной и прибыльной с первого дня.
+pubDate: '2025-07-23T12:04:34.973Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: >-
+    Пошаговый план для инвестора в недвижимость: от бюджета до заселения
+    арендатора
+  description: >-
+    Инвестиции в недвижимость — проверенный способ создания пассивного дохода. В
+    этой статье от ButlerSPB мы представляем исчерпывающее руководство для
+    инвесторов. Вы узнаете, как грамотно рассчитать бюджет, выбрать ликвидный
+    объект, провести юридическую проверку, подготовить квартиру к сдаче и найти
+    надежного арендатора. Следуйте нашему пошаговому плану, чтобы сделать вашу
+    инвестицию успешной и прибыльной с первого дня.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.7'
+    reviewCount: 676
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/poshagovyy-plan-dlya-investora-v-nedvizhimost-ot-byudzheta-do-zaseleniya-arendatora/
 ---
 
 # Пошаговый план для инвестора в недвижимость: от бюджета до заселения арендатора

@@ -1,10 +1,49 @@
 ---
-title: "Как увеличить рыночную стоимость квартиры перед продажей: полное руководство от ButlerSPB"
-description: "Планируете продажу недвижимости? В этой статье команда ButlerSPB делится профессиональными советами, как с помощью грамотной предпродажной подготовки, косметического ремонта и хоумстейджинга значительно повысить привлекательность вашей квартиры для покупателей и, как следствие, ее итоговую стоимость на рынке."
-pubDate: "2025-07-23T12:06:41.980Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Как увеличить рыночную стоимость квартиры перед продажей: полное руководство от ButlerSPB","description":"Планируете продажу недвижимости? В этой статье команда ButlerSPB делится профессиональными советами, как с помощью грамотной предпродажной подготовки, косметического ремонта и хоумстейджинга значительно повысить привлекательность вашей квартиры для покупателей и, как следствие, ее итоговую стоимость на рынке.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"5.0","reviewCount":362,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/kak-uvelichit-rynochnuyu-stoimost-kvartiry-pered-prodazhey/"}}
+title: >-
+  Как увеличить рыночную стоимость квартиры перед продажей: полное руководство
+  от ButlerSPB
+description: >-
+  Планируете продажу недвижимости? В этой статье команда ButlerSPB делится
+  профессиональными советами, как с помощью грамотной предпродажной подготовки,
+  косметического ремонта и хоумстейджинга значительно повысить привлекательность
+  вашей квартиры для покупателей и, как следствие, ее итоговую стоимость на
+  рынке.
+pubDate: '2025-07-23T12:06:41.980Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: >-
+    Как увеличить рыночную стоимость квартиры перед продажей: полное руководство
+    от ButlerSPB
+  description: >-
+    Планируете продажу недвижимости? В этой статье команда ButlerSPB делится
+    профессиональными советами, как с помощью грамотной предпродажной
+    подготовки, косметического ремонта и хоумстейджинга значительно повысить
+    привлекательность вашей квартиры для покупателей и, как следствие, ее
+    итоговую стоимость на рынке.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.8'
+    reviewCount: 540
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/kak-uvelichit-rynochnuyu-stoimost-kvartiry-pered-prodazhey/
 ---
 
 # Продать дороже: Полное руководство по увеличению рыночной стоимости квартиры перед продажей

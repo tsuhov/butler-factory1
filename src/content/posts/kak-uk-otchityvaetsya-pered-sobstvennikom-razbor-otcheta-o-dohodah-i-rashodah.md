@@ -1,10 +1,47 @@
 ---
-title: "Как УК отчитывается перед собственником: разбор отчета о доходах и расходах"
-description: "Ежегодный отчет управляющей компании — ключевой документ, показывающий, куда были направлены средства собственников. В новой статье блога ButlerSPB мы подробно разбираем структуру отчета о выполненных работах, доходах и расходах. Узнайте, на какие статьи обратить внимание, как проверить корректность начислений и что делать, если у вас возникли вопросы к своей УК. Повышаем финансовую грамотность и учимся контролировать свой дом вместе!"
-pubDate: "2025-07-23T10:42:00.377Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Как УК отчитывается перед собственником: разбор отчета о доходах и расходах","description":"Ежегодный отчет управляющей компании — ключевой документ, показывающий, куда были направлены средства собственников. В новой статье блога ButlerSPB мы подробно разбираем структуру отчета о выполненных работах, доходах и расходах. Узнайте, на какие статьи обратить внимание, как проверить корректность начислений и что делать, если у вас возникли вопросы к своей УК. Повышаем финансовую грамотность и учимся контролировать свой дом вместе!","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.7","reviewCount":378,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/kak-uk-otchityvaetsya-pered-sobstvennikom-razbor-otcheta-o-dohodah-i-rashodah/"}}
+title: 'Как УК отчитывается перед собственником: разбор отчета о доходах и расходах'
+description: >-
+  Ежегодный отчет управляющей компании — ключевой документ, показывающий, куда
+  были направлены средства собственников. В новой статье блога ButlerSPB мы
+  подробно разбираем структуру отчета о выполненных работах, доходах и расходах.
+  Узнайте, на какие статьи обратить внимание, как проверить корректность
+  начислений и что делать, если у вас возникли вопросы к своей УК. Повышаем
+  финансовую грамотность и учимся контролировать свой дом вместе!
+pubDate: '2025-07-23T10:42:00.377Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Как УК отчитывается перед собственником: разбор отчета о доходах и расходах'
+  description: >-
+    Ежегодный отчет управляющей компании — ключевой документ, показывающий, куда
+    были направлены средства собственников. В новой статье блога ButlerSPB мы
+    подробно разбираем структуру отчета о выполненных работах, доходах и
+    расходах. Узнайте, на какие статьи обратить внимание, как проверить
+    корректность начислений и что делать, если у вас возникли вопросы к своей
+    УК. Повышаем финансовую грамотность и учимся контролировать свой дом вместе!
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.9'
+    reviewCount: 506
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/kak-uk-otchityvaetsya-pered-sobstvennikom-razbor-otcheta-o-dohodah-i-rashodah/
 ---
 
 # Куда уходят ваши деньги? Полный гид по отчету управляющей компании для собственников

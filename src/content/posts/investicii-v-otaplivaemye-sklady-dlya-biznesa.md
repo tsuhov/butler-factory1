@@ -1,10 +1,47 @@
 ---
-title: "Инвестиции в отапливаемые склады: как обеспечить сохранность товара и повысить рентабельность бизнеса"
-description: "Почему отапливаемый склад — это не расход, а выгодная инвестиция? В новой статье блога ButlerSPB разбираемся, для каких товаров критичен температурный режим, как теплое хранение влияет на бизнес-процессы и почему вложения в такие объекты быстро окупаются."
-pubDate: "2025-07-23T16:16:01.908Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Инвестиции в отапливаемые склады: как обеспечить сохранность товара и повысить рентабельность бизнеса","description":"Почему отапливаемый склад — это не расход, а выгодная инвестиция? В новой статье блога ButlerSPB разбираемся, для каких товаров критичен температурный режим, как теплое хранение влияет на бизнес-процессы и почему вложения в такие объекты быстро окупаются.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.8","reviewCount":755,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/investicii-v-otaplivaemye-sklady-dlya-biznesa/"}}
+title: >-
+  Инвестиции в отапливаемые склады: как обеспечить сохранность товара и повысить
+  рентабельность бизнеса
+description: >-
+  Почему отапливаемый склад — это не расход, а выгодная инвестиция? В новой
+  статье блога ButlerSPB разбираемся, для каких товаров критичен температурный
+  режим, как теплое хранение влияет на бизнес-процессы и почему вложения в такие
+  объекты быстро окупаются.
+pubDate: '2025-07-23T16:16:01.908Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: >-
+    Инвестиции в отапливаемые склады: как обеспечить сохранность товара и
+    повысить рентабельность бизнеса
+  description: >-
+    Почему отапливаемый склад — это не расход, а выгодная инвестиция? В новой
+    статье блога ButlerSPB разбираемся, для каких товаров критичен температурный
+    режим, как теплое хранение влияет на бизнес-процессы и почему вложения в
+    такие объекты быстро окупаются.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.7'
+    reviewCount: 857
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/investicii-v-otaplivaemye-sklady-dlya-biznesa/
 ---
 
 # Инвестиции в отапливаемые склады: полное руководство по расчету окупаемости и строительству в 2024

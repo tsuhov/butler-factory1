@@ -1,10 +1,47 @@
 ---
-title: "Допродажи в мессенджерах: как ButlerSPB увеличивает средний чек с помощью чатов"
-description: "В этой статье команда ButlerSPB делится своим опытом использования мессенджеров для допродажи услуг. Рассказываем, какие сценарии работают, как мы автоматизируем процесс и почему персональный подход в чате увеличивает лояльность клиентов и средний чек."
-pubDate: "2025-07-22T11:29:27.705Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Допродажи в мессенджерах: как ButlerSPB увеличивает средний чек с помощью чатов","description":"В этой статье команда ButlerSPB делится своим опытом использования мессенджеров для допродажи услуг. Рассказываем, какие сценарии работают, как мы автоматизируем процесс и почему персональный подход в чате увеличивает лояльность клиентов и средний чек.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.7","reviewCount":510,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/kak-my-ispolzuem-messendzhery-dlya-doprodazhi-uslug/"}}
+title: >-
+  Допродажи в мессенджерах: как ButlerSPB увеличивает средний чек с помощью
+  чатов
+description: >-
+  В этой статье команда ButlerSPB делится своим опытом использования
+  мессенджеров для допродажи услуг. Рассказываем, какие сценарии работают, как
+  мы автоматизируем процесс и почему персональный подход в чате увеличивает
+  лояльность клиентов и средний чек.
+pubDate: '2025-07-22T11:29:27.705Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: >-
+    Допродажи в мессенджерах: как ButlerSPB увеличивает средний чек с помощью
+    чатов
+  description: >-
+    В этой статье команда ButlerSPB делится своим опытом использования
+    мессенджеров для допродажи услуг. Рассказываем, какие сценарии работают, как
+    мы автоматизируем процесс и почему персональный подход в чате увеличивает
+    лояльность клиентов и средний чек.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.9'
+    reviewCount: 540
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/kak-my-ispolzuem-messendzhery-dlya-doprodazhi-uslug/
 ---
 
 # Как мы в ButlerSPB увеличили средний чек на 25% с помощью допродаж в мессенджерах. Наш опыт и скрипты

@@ -1,10 +1,43 @@
 ---
-title: "Снять квартиру без мебели в СПб на длительный срок: где искать."
-description: "Планируете снять квартиру без мебели в Санкт-Петербурге на длительный срок, чтобы создать интерьер своей мечты? В новой статье от ButlerSPB мы разбираем лучшие площадки для поиска жилья, даем советы по выбору и рассказываем о подводных камнях. Узнайте, как найти идеальный вариант и не ошибиться."
-pubDate: "2025-07-22T14:03:38.718Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Снять квартиру без мебели в СПб на длительный срок: где искать.","description":"Планируете снять квартиру без мебели в Санкт-Петербурге на длительный срок, чтобы создать интерьер своей мечты? В новой статье от ButlerSPB мы разбираем лучшие площадки для поиска жилья, даем советы по выбору и рассказываем о подводных камнях. Узнайте, как найти идеальный вариант и не ошибиться.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.8","reviewCount":649,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/snyat-kvartiru-bez-mebeli-v-spb-na-dlitelnyy-srok-gde-iskat/"}}
+title: 'Снять квартиру без мебели в СПб на длительный срок: где искать.'
+description: >-
+  Планируете снять квартиру без мебели в Санкт-Петербурге на длительный срок,
+  чтобы создать интерьер своей мечты? В новой статье от ButlerSPB мы разбираем
+  лучшие площадки для поиска жилья, даем советы по выбору и рассказываем о
+  подводных камнях. Узнайте, как найти идеальный вариант и не ошибиться.
+pubDate: '2025-07-22T14:03:38.718Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Снять квартиру без мебели в СПб на длительный срок: где искать.'
+  description: >-
+    Планируете снять квартиру без мебели в Санкт-Петербурге на длительный срок,
+    чтобы создать интерьер своей мечты? В новой статье от ButlerSPB мы разбираем
+    лучшие площадки для поиска жилья, даем советы по выбору и рассказываем о
+    подводных камнях. Узнайте, как найти идеальный вариант и не ошибиться.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.9'
+    reviewCount: 882
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/snyat-kvartiru-bez-mebeli-v-spb-na-dlitelnyy-srok-gde-iskat/
 ---
 
 # Снять квартиру без мебели в СПб на длительный срок: где искать и как не ошибиться

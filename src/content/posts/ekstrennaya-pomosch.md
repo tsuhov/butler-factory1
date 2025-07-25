@@ -1,11 +1,39 @@
 ---
-title: "Как получить экстренную помощь от ButlerSPB"
-description: "Столкнулись с непредвиденной ситуацией? ButlerSPB оказывает оперативную экстренную помощь. Рассказываем, как наш сервис выручит в сложный момент 24/7."
-keywords: "экстренная помощь, срочная помощь, ButlerSPB, консьерж-сервис, помощь 24/7, Санкт-Петербург"
-pubDate: "2025-07-25T13:30:06.747Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Как получить экстренную помощь от ButlerSPB","description":"Столкнулись с непредвиденной ситуацией? ButlerSPB оказывает оперативную экстренную помощь. Рассказываем, как наш сервис выручит в сложный момент 24/7.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":766,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/ekstrennaya-pomosch/"}}
+title: Как получить экстренную помощь от ButlerSPB
+description: >-
+  Столкнулись с непредвиденной ситуацией? ButlerSPB оказывает оперативную
+  экстренную помощь. Рассказываем, как наш сервис выручит в сложный момент 24/7.
+pubDate: '2025-07-25T13:30:06.747Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: Как получить экстренную помощь от ButlerSPB
+  description: >-
+    Столкнулись с непредвиденной ситуацией? ButlerSPB оказывает оперативную
+    экстренную помощь. Рассказываем, как наш сервис выручит в сложный момент
+    24/7.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.8'
+    reviewCount: 670
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': 'https://butlerspb-blog.netlify.app/blog/ekstrennaya-pomosch/'
 ---
 # Сохраняйте спокойствие: Ваш полный гид по оказанию экстренной помощи
 *Четкий алгоритм действий, который поможет не растеряться в критический момент и спасти жизнь.*

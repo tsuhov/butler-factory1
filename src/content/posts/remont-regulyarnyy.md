@@ -1,11 +1,40 @@
 ---
-title: "Регулярный ремонт: залог долговечности жилья"
-description: "Плановый уход за квартирой или домом помогает избежать серьезных поломок и дорогостоящего капитального ремонта. ButlerSPB расскажет, как составить график."
-keywords: "регулярный ремонт, плановое обслуживание, ремонт квартиры, профилактика поломок, техническое обслуживание, ButlerSPB, обслуживание дома"
-pubDate: "2025-07-25T16:16:24.349Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Регулярный ремонт: залог долговечности жилья","description":"Плановый уход за квартирой или домом помогает избежать серьезных поломок и дорогостоящего капитального ремонта. ButlerSPB расскажет, как составить график.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"5.0","reviewCount":601,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/remont-regulyarnyy/"}}
+title: 'Регулярный ремонт: залог долговечности жилья'
+description: >-
+  Плановый уход за квартирой или домом помогает избежать серьезных поломок и
+  дорогостоящего капитального ремонта. ButlerSPB расскажет, как составить
+  график.
+pubDate: '2025-07-25T16:16:24.349Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Регулярный ремонт: залог долговечности жилья'
+  description: >-
+    Плановый уход за квартирой или домом помогает избежать серьезных поломок и
+    дорогостоящего капитального ремонта. ButlerSPB расскажет, как составить
+    график.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.8'
+    reviewCount: 716
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': 'https://butlerspb-blog.netlify.app/blog/remont-regulyarnyy/'
 ---
 # Регулярный ремонт — это не стройка, а умная забота: Как сохранить вашу квартиру в идеальном состоянии
 

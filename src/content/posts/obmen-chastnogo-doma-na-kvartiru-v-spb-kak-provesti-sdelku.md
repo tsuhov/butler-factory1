@@ -1,10 +1,46 @@
 ---
-title: "Обмен частного дома на квартиру в СПб: как провести сделку."
-description: "Мечтаете сменить загородную жизнь на динамику Санкт-Петербурга? Обмен частного дома на квартиру — отличное решение! В новой статье блога ButlerSPB мы подробно разбираем все этапы сделки: от правильной оценки вашей недвижимости до поиска идеальной квартиры в СПб. Узнайте о юридических тонкостях, возможных подводных камнях и о том, как провести обмен максимально выгодно и безопасно."
-pubDate: "2025-07-22T15:36:27.063Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Обмен частного дома на квартиру в СПб: как провести сделку.","description":"Мечтаете сменить загородную жизнь на динамику Санкт-Петербурга? Обмен частного дома на квартиру — отличное решение! В новой статье блога ButlerSPB мы подробно разбираем все этапы сделки: от правильной оценки вашей недвижимости до поиска идеальной квартиры в СПб. Узнайте о юридических тонкостях, возможных подводных камнях и о том, как провести обмен максимально выгодно и безопасно.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":602,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/obmen-chastnogo-doma-na-kvartiru-v-spb-kak-provesti-sdelku/"}}
+title: 'Обмен частного дома на квартиру в СПб: как провести сделку.'
+description: >-
+  Мечтаете сменить загородную жизнь на динамику Санкт-Петербурга? Обмен частного
+  дома на квартиру — отличное решение! В новой статье блога ButlerSPB мы
+  подробно разбираем все этапы сделки: от правильной оценки вашей недвижимости
+  до поиска идеальной квартиры в СПб. Узнайте о юридических тонкостях, возможных
+  подводных камнях и о том, как провести обмен максимально выгодно и безопасно.
+pubDate: '2025-07-22T15:36:27.063Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Обмен частного дома на квартиру в СПб: как провести сделку.'
+  description: >-
+    Мечтаете сменить загородную жизнь на динамику Санкт-Петербурга? Обмен
+    частного дома на квартиру — отличное решение! В новой статье блога ButlerSPB
+    мы подробно разбираем все этапы сделки: от правильной оценки вашей
+    недвижимости до поиска идеальной квартиры в СПб. Узнайте о юридических
+    тонкостях, возможных подводных камнях и о том, как провести обмен
+    максимально выгодно и безопасно.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.7'
+    reviewCount: 404
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/obmen-chastnogo-doma-na-kvartiru-v-spb-kak-provesti-sdelku/
 ---
 
 # Обмен частного дома на квартиру в СПб: Пошаговая инструкция по выгодной и безопасной сделке

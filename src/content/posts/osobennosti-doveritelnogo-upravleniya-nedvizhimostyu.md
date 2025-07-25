@@ -1,10 +1,51 @@
 ---
-title: "Особенности доверительного управления недвижимостью: как получать доход от аренды без лишних забот"
-description: "Хотите получать стабильный доход от своей недвижимости, не тратя время на поиск жильцов, контроль оплат и решение бытовых проблем? В новой статье блога ButlerSPB мы подробно разбираем все аспекты доверительного управления: от юридических тонкостей договора до практических преимуществ для собственника. Узнайте, как защитить свои интересы и сделать инвестиции в недвижимость по-настоящему пассивными."
-pubDate: "2025-07-22T00:32:48.987Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Особенности доверительного управления недвижимостью: как получать доход от аренды без лишних забот","description":"Хотите получать стабильный доход от своей недвижимости, не тратя время на поиск жильцов, контроль оплат и решение бытовых проблем? В новой статье блога ButlerSPB мы подробно разбираем все аспекты доверительного управления: от юридических тонкостей договора до практических преимуществ для собственника. Узнайте, как защитить свои интересы и сделать инвестиции в недвижимость по-настоящему пассивными.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":569,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/osobennosti-doveritelnogo-upravleniya-nedvizhimostyu/"}}
+title: >-
+  Особенности доверительного управления недвижимостью: как получать доход от
+  аренды без лишних забот
+description: >-
+  Хотите получать стабильный доход от своей недвижимости, не тратя время на
+  поиск жильцов, контроль оплат и решение бытовых проблем? В новой статье блога
+  ButlerSPB мы подробно разбираем все аспекты доверительного управления: от
+  юридических тонкостей договора до практических преимуществ для собственника.
+  Узнайте, как защитить свои интересы и сделать инвестиции в недвижимость
+  по-настоящему пассивными.
+pubDate: '2025-07-22T00:32:48.987Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: >-
+    Особенности доверительного управления недвижимостью: как получать доход от
+    аренды без лишних забот
+  description: >-
+    Хотите получать стабильный доход от своей недвижимости, не тратя время на
+    поиск жильцов, контроль оплат и решение бытовых проблем? В новой статье
+    блога ButlerSPB мы подробно разбираем все аспекты доверительного управления:
+    от юридических тонкостей договора до практических преимуществ для
+    собственника. Узнайте, как защитить свои интересы и сделать инвестиции в
+    недвижимость по-настоящему пассивными.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.9'
+    reviewCount: 605
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/osobennosti-doveritelnogo-upravleniya-nedvizhimostyu/
 ---
 
 # Доверительное управление недвижимостью: Полное руководство для собственника в Санкт-Петербурге

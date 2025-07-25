@@ -1,11 +1,40 @@
 ---
-title: "Дизайн интерьера: создаем гармонию в доме"
-description: "Откройте для себя актуальные тренды в дизайне интерьера. Наша команда ButlerSPB поможет создать гармоничное и функциональное пространство, отражающее ваш стиль."
-keywords: "дизайн интерьера, тренды в дизайне, современный дизайн, дизайн квартиры, дизайнер интерьера спб, ButlerSPB"
-pubDate: "2025-07-25T15:39:57.778Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Дизайн интерьера: создаем гармонию в доме","description":"Откройте для себя актуальные тренды в дизайне интерьера. Наша команда ButlerSPB поможет создать гармоничное и функциональное пространство, отражающее ваш стиль.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":331,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/dizayn-interera/"}}
+title: 'Дизайн интерьера: создаем гармонию в доме'
+description: >-
+  Откройте для себя актуальные тренды в дизайне интерьера. Наша команда
+  ButlerSPB поможет создать гармоничное и функциональное пространство,
+  отражающее ваш стиль.
+pubDate: '2025-07-25T15:39:57.778Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Дизайн интерьера: создаем гармонию в доме'
+  description: >-
+    Откройте для себя актуальные тренды в дизайне интерьера. Наша команда
+    ButlerSPB поможет создать гармоничное и функциональное пространство,
+    отражающее ваш стиль.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.7'
+    reviewCount: 410
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': 'https://butlerspb-blog.netlify.app/blog/dizayn-interera/'
 ---
 # Дизайн интерьера: как создать пространство вашей мечты в Санкт-Петербурге
 

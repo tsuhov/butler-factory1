@@ -1,10 +1,51 @@
 ---
-title: "Сколько стоит вид на Петербург? Анализируем, как панорама влияет на арендную ставку"
-description: "Квартира с панорамным видом на исторический центр или набережную Невы — это не просто красиво, но и статусно. В новой статье блога ButlerSPB мы подробно разбираем, как вид из окна напрямую влияет на ценообразование в сфере аренды. Узнайте, какой процент к стоимости добавляет живописный пейзаж и как выбрать квартиру, где каждый рубль арендной платы будет оправдан незабываемыми впечатлениями."
-pubDate: "2025-07-22T13:45:01.434Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Сколько стоит вид на Петербург? Анализируем, как панорама влияет на арендную ставку","description":"Квартира с панорамным видом на исторический центр или набережную Невы — это не просто красиво, но и статусно. В новой статье блога ButlerSPB мы подробно разбираем, как вид из окна напрямую влияет на ценообразование в сфере аренды. Узнайте, какой процент к стоимости добавляет живописный пейзаж и как выбрать квартиру, где каждый рубль арендной платы будет оправдан незабываемыми впечатлениями.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.8","reviewCount":338,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/kak-panoramnyy-vid-vliyaet-na-arendnuyu-stavku/"}}
+title: >-
+  Сколько стоит вид на Петербург? Анализируем, как панорама влияет на арендную
+  ставку
+description: >-
+  Квартира с панорамным видом на исторический центр или набережную Невы — это не
+  просто красиво, но и статусно. В новой статье блога ButlerSPB мы подробно
+  разбираем, как вид из окна напрямую влияет на ценообразование в сфере аренды.
+  Узнайте, какой процент к стоимости добавляет живописный пейзаж и как выбрать
+  квартиру, где каждый рубль арендной платы будет оправдан незабываемыми
+  впечатлениями.
+pubDate: '2025-07-22T13:45:01.434Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: >-
+    Сколько стоит вид на Петербург? Анализируем, как панорама влияет на арендную
+    ставку
+  description: >-
+    Квартира с панорамным видом на исторический центр или набережную Невы — это
+    не просто красиво, но и статусно. В новой статье блога ButlerSPB мы подробно
+    разбираем, как вид из окна напрямую влияет на ценообразование в сфере
+    аренды. Узнайте, какой процент к стоимости добавляет живописный пейзаж и как
+    выбрать квартиру, где каждый рубль арендной платы будет оправдан
+    незабываемыми впечатлениями.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.8'
+    reviewCount: 776
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/kak-panoramnyy-vid-vliyaet-na-arendnuyu-stavku/
 ---
 
 ### **1. Мета-данные (для SEO-специалиста)**

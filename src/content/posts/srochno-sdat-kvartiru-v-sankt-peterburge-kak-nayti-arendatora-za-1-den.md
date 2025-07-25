@@ -1,10 +1,43 @@
 ---
-title: "Срочно сдать квартиру в Санкт-Петербурге: как найти арендатора за 1 день"
-description: "Простой квартиры в Петербурге — это упущенная выгода. Эксперты ButlerSPB делятся пошаговой инструкцией, как подготовить объект, составить продающее объявление и провести показы так, чтобы найти надежного жильца и подписать договор аренды всего за 24 часа."
-pubDate: "2025-07-22T13:58:23.583Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Срочно сдать квартиру в Санкт-Петербурге: как найти арендатора за 1 день","description":"Простой квартиры в Петербурге — это упущенная выгода. Эксперты ButlerSPB делятся пошаговой инструкцией, как подготовить объект, составить продающее объявление и провести показы так, чтобы найти надежного жильца и подписать договор аренды всего за 24 часа.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"5.0","reviewCount":709,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/srochno-sdat-kvartiru-v-sankt-peterburge-kak-nayti-arendatora-za-1-den/"}}
+title: 'Срочно сдать квартиру в Санкт-Петербурге: как найти арендатора за 1 день'
+description: >-
+  Простой квартиры в Петербурге — это упущенная выгода. Эксперты ButlerSPB
+  делятся пошаговой инструкцией, как подготовить объект, составить продающее
+  объявление и провести показы так, чтобы найти надежного жильца и подписать
+  договор аренды всего за 24 часа.
+pubDate: '2025-07-22T13:58:23.583Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Срочно сдать квартиру в Санкт-Петербурге: как найти арендатора за 1 день'
+  description: >-
+    Простой квартиры в Петербурге — это упущенная выгода. Эксперты ButlerSPB
+    делятся пошаговой инструкцией, как подготовить объект, составить продающее
+    объявление и провести показы так, чтобы найти надежного жильца и подписать
+    договор аренды всего за 24 часа.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '5.0'
+    reviewCount: 420
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/srochno-sdat-kvartiru-v-sankt-peterburge-kak-nayti-arendatora-za-1-den/
 ---
 
 # Срочно сдать квартиру в Санкт-Петербурге: Реально ли найти арендатора за 1 день?

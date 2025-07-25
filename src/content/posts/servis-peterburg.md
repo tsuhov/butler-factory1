@@ -1,11 +1,40 @@
 ---
-title: "Сервис в Петербурге: новый уровень комфорта"
-description: "Откройте для себя Санкт-Петербург с новым уровнем сервиса. Компания ButlerSPB предлагает эксклюзивные услуги, гарантируя безупречный комфорт и внимание к деталям."
-keywords: "сервис в Петербурге, консьерж-сервис, ButlerSPB, премиум услуги, высокий сервис, отдых в СПб"
-pubDate: "2025-07-24T13:37:15.716Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Сервис в Петербурге: новый уровень комфорта","description":"Откройте для себя Санкт-Петербург с новым уровнем сервиса. Компания ButlerSPB предлагает эксклюзивные услуги, гарантируя безупречный комфорт и внимание к деталям.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":497,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/servis-peterburg/"}}
+title: 'Сервис в Петербурге: новый уровень комфорта'
+description: >-
+  Откройте для себя Санкт-Петербург с новым уровнем сервиса. Компания ButlerSPB
+  предлагает эксклюзивные услуги, гарантируя безупречный комфорт и внимание к
+  деталям.
+pubDate: '2025-07-24T13:37:15.716Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Сервис в Петербурге: новый уровень комфорта'
+  description: >-
+    Откройте для себя Санкт-Петербург с новым уровнем сервиса. Компания
+    ButlerSPB предлагает эксклюзивные услуги, гарантируя безупречный комфорт и
+    внимание к деталям.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.9'
+    reviewCount: 614
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': 'https://butlerspb-blog.netlify.app/blog/servis-peterburg/'
 ---
 # Сервис в Петербурге: от стандартов гостеприимства до эксклюзивных решений ButlerSPB
 

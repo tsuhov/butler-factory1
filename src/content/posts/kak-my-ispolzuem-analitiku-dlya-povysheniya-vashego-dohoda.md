@@ -1,10 +1,43 @@
 ---
-title: "Аналитика на службе вашего дохода: как ButlerSPB превращает данные в деньги"
-description: "В новой статье блога ButlerSPB мы подробно рассказываем, как используем анализ данных для максимизации вашей прибыли. Узнайте, какие метрики мы отслеживаем, как формируем ценовую стратегию и почему наш подход к аналитике напрямую влияет на рост вашего дохода от недвижимости."
-pubDate: "2025-07-22T11:11:57.735Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Аналитика на службе вашего дохода: как ButlerSPB превращает данные в деньги","description":"В новой статье блога ButlerSPB мы подробно рассказываем, как используем анализ данных для максимизации вашей прибыли. Узнайте, какие метрики мы отслеживаем, как формируем ценовую стратегию и почему наш подход к аналитике напрямую влияет на рост вашего дохода от недвижимости.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":852,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/kak-my-ispolzuem-analitiku-dlya-povysheniya-vashego-dohoda/"}}
+title: 'Аналитика на службе вашего дохода: как ButlerSPB превращает данные в деньги'
+description: >-
+  В новой статье блога ButlerSPB мы подробно рассказываем, как используем анализ
+  данных для максимизации вашей прибыли. Узнайте, какие метрики мы отслеживаем,
+  как формируем ценовую стратегию и почему наш подход к аналитике напрямую
+  влияет на рост вашего дохода от недвижимости.
+pubDate: '2025-07-22T11:11:57.735Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Аналитика на службе вашего дохода: как ButlerSPB превращает данные в деньги'
+  description: >-
+    В новой статье блога ButlerSPB мы подробно рассказываем, как используем
+    анализ данных для максимизации вашей прибыли. Узнайте, какие метрики мы
+    отслеживаем, как формируем ценовую стратегию и почему наш подход к аналитике
+    напрямую влияет на рост вашего дохода от недвижимости.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.9'
+    reviewCount: 378
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/kak-my-ispolzuem-analitiku-dlya-povysheniya-vashego-dohoda/
 ---
 
 # Как мы используем сквозную аналитику для реального роста вашего дохода: методология ButlerSPB

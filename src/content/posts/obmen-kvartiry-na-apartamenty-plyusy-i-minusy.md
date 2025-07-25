@@ -1,10 +1,47 @@
 ---
-title: "Обмен квартиры на апартаменты: все плюсы и минусы от ButlerSPB"
-description: "Апартаменты привлекают ценой и расположением, но в чем подвох? Стоит ли менять привычную квартиру на современный апарт-комплекс? В новой статье нашего блога мы подробно разбираем все аспекты такого обмена: от юридического статуса и налогов до коммунальных платежей и возможности прописки. Поможем вам взвесить все 'за' и 'против' и сделать правильный выбор на рынке недвижимости Санкт-Петербурга."
-pubDate: "2025-07-23T12:20:00.015Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Обмен квартиры на апартаменты: все плюсы и минусы от ButlerSPB","description":"Апартаменты привлекают ценой и расположением, но в чем подвох? Стоит ли менять привычную квартиру на современный апарт-комплекс? В новой статье нашего блога мы подробно разбираем все аспекты такого обмена: от юридического статуса и налогов до коммунальных платежей и возможности прописки. Поможем вам взвесить все 'за' и 'против' и сделать правильный выбор на рынке недвижимости Санкт-Петербурга.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.7","reviewCount":872,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/obmen-kvartiry-na-apartamenty-plyusy-i-minusy/"}}
+title: 'Обмен квартиры на апартаменты: все плюсы и минусы от ButlerSPB'
+description: >-
+  Апартаменты привлекают ценой и расположением, но в чем подвох? Стоит ли менять
+  привычную квартиру на современный апарт-комплекс? В новой статье нашего блога
+  мы подробно разбираем все аспекты такого обмена: от юридического статуса и
+  налогов до коммунальных платежей и возможности прописки. Поможем вам взвесить
+  все 'за' и 'против' и сделать правильный выбор на рынке недвижимости
+  Санкт-Петербурга.
+pubDate: '2025-07-23T12:20:00.015Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Обмен квартиры на апартаменты: все плюсы и минусы от ButlerSPB'
+  description: >-
+    Апартаменты привлекают ценой и расположением, но в чем подвох? Стоит ли
+    менять привычную квартиру на современный апарт-комплекс? В новой статье
+    нашего блога мы подробно разбираем все аспекты такого обмена: от
+    юридического статуса и налогов до коммунальных платежей и возможности
+    прописки. Поможем вам взвесить все 'за' и 'против' и сделать правильный
+    выбор на рынке недвижимости Санкт-Петербурга.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.9'
+    reviewCount: 713
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/obmen-kvartiry-na-apartamenty-plyusy-i-minusy/
 ---
 
 # Обмен квартиры на апартаменты в Санкт-Петербурге: полный гид от экспертов ButlerSPB

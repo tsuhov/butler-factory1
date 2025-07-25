@@ -1,11 +1,39 @@
 ---
-title: "Полное сопровождение от ButlerSPB: ваш комфорт"
-description: "Узнайте, как услуга полного сопровождения от ButlerSPB решает все ваши задачи в Петербурге. Мы берем на себя организационные вопросы, экономя ваше время."
-keywords: "полное сопровождение, консьерж сервис, ButlerSPB, услуги в Петербурге, персональный помощник, организация мероприятий"
-pubDate: "2025-07-25T13:29:52.407Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Полное сопровождение от ButlerSPB: ваш комфорт","description":"Узнайте, как услуга полного сопровождения от ButlerSPB решает все ваши задачи в Петербурге. Мы берем на себя организационные вопросы, экономя ваше время.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":709,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/polnoe-soprovozhdenie/"}}
+title: 'Полное сопровождение от ButlerSPB: ваш комфорт'
+description: >-
+  Узнайте, как услуга полного сопровождения от ButlerSPB решает все ваши задачи
+  в Петербурге. Мы берем на себя организационные вопросы, экономя ваше время.
+pubDate: '2025-07-25T13:29:52.407Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Полное сопровождение от ButlerSPB: ваш комфорт'
+  description: >-
+    Узнайте, как услуга полного сопровождения от ButlerSPB решает все ваши
+    задачи в Петербурге. Мы берем на себя организационные вопросы, экономя ваше
+    время.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.9'
+    reviewCount: 885
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': 'https://butlerspb-blog.netlify.app/blog/polnoe-soprovozhdenie/'
 ---
 # Полное сопровождение в Санкт-Петербурге: Больше, чем ассистент. Ваш личный эксперт по жизни в столице.
 

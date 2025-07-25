@@ -1,11 +1,40 @@
 ---
-title: "Ключевые показатели для оценки эффективности"
-description: "В этой статье от ButlerSPB мы разбираем, что такое ключевые показатели, как их правильно выбрать и внедрить для отслеживания успеха и принятия верных решений."
-keywords: "ключевые показатели, KPI, метрики, оценка эффективности, бизнес-аналитика, управление, ButlerSPB"
-pubDate: "2025-07-25T15:50:22.546Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Ключевые показатели для оценки эффективности","description":"В этой статье от ButlerSPB мы разбираем, что такое ключевые показатели, как их правильно выбрать и внедрить для отслеживания успеха и принятия верных решений.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":415,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/klyuchevye-pokazateli/"}}
+title: Ключевые показатели для оценки эффективности
+description: >-
+  В этой статье от ButlerSPB мы разбираем, что такое ключевые показатели, как их
+  правильно выбрать и внедрить для отслеживания успеха и принятия верных
+  решений.
+pubDate: '2025-07-25T15:50:22.546Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: Ключевые показатели для оценки эффективности
+  description: >-
+    В этой статье от ButlerSPB мы разбираем, что такое ключевые показатели, как
+    их правильно выбрать и внедрить для отслеживания успеха и принятия верных
+    решений.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.8'
+    reviewCount: 316
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': 'https://butlerspb-blog.netlify.app/blog/klyuchevye-pokazateli/'
 ---
 # Ключевые показатели эффективности (KPI): Как перестать управлять бизнесом вслепую и начать принимать решения на основе данных
 

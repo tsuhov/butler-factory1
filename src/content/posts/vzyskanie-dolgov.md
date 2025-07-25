@@ -1,11 +1,40 @@
 ---
-title: "Взыскание долгов: законные методы и советы"
-description: "Узнайте все о взыскании долгов: от досудебного урегулирования до исполнительного производства. ButlerSPB расскажет о законных способах возврата денег."
-keywords: "взыскание долгов, вернуть долг, судебное взыскание, досудебное урегулирование, исполнительный лист, юрист по долгам, ButlerSPB"
-pubDate: "2025-07-25T16:11:15.968Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Взыскание долгов: законные методы и советы","description":"Узнайте все о взыскании долгов: от досудебного урегулирования до исполнительного производства. ButlerSPB расскажет о законных способах возврата денег.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":453,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/vzyskanie-dolgov/"}}
+title: 'Взыскание долгов: законные методы и советы'
+description: >-
+  Узнайте все о взыскании долгов: от досудебного урегулирования до
+  исполнительного производства. ButlerSPB расскажет о законных способах возврата
+  денег.
+pubDate: '2025-07-25T16:11:15.968Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Взыскание долгов: законные методы и советы'
+  description: >-
+    Узнайте все о взыскании долгов: от досудебного урегулирования до
+    исполнительного производства. ButlerSPB расскажет о законных способах
+    возврата денег.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '5.0'
+    reviewCount: 740
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': 'https://butlerspb-blog.netlify.app/blog/vzyskanie-dolgov/'
 ---
 # Взыскание долгов: Пошаговое руководство для кредиторов и должников
 

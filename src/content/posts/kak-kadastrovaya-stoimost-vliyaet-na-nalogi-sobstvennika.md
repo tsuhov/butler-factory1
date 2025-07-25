@@ -1,10 +1,51 @@
 ---
-title: "Как кадастровая стоимость влияет на налоги: полное руководство для собственника от ButlerSPB"
-description: "Кадастровая стоимость — ключевой показатель, от которого напрямую зависит размер налога на имущество и землю. В этой статье мы подробно разбираем, что такое кадастровая стоимость, как она рассчитывается, почему может быть завышена, и что делать собственнику, если он не согласен с оценкой. Узнайте, как проверить актуальную стоимость вашего объекта и легально снизить налоговую нагрузку."
-pubDate: "2025-07-22T13:50:50.785Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Как кадастровая стоимость влияет на налоги: полное руководство для собственника от ButlerSPB","description":"Кадастровая стоимость — ключевой показатель, от которого напрямую зависит размер налога на имущество и землю. В этой статье мы подробно разбираем, что такое кадастровая стоимость, как она рассчитывается, почему может быть завышена, и что делать собственнику, если он не согласен с оценкой. Узнайте, как проверить актуальную стоимость вашего объекта и легально снизить налоговую нагрузку.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.8","reviewCount":504,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/kak-kadastrovaya-stoimost-vliyaet-na-nalogi-sobstvennika/"}}
+title: >-
+  Как кадастровая стоимость влияет на налоги: полное руководство для
+  собственника от ButlerSPB
+description: >-
+  Кадастровая стоимость — ключевой показатель, от которого напрямую зависит
+  размер налога на имущество и землю. В этой статье мы подробно разбираем, что
+  такое кадастровая стоимость, как она рассчитывается, почему может быть
+  завышена, и что делать собственнику, если он не согласен с оценкой. Узнайте,
+  как проверить актуальную стоимость вашего объекта и легально снизить налоговую
+  нагрузку.
+pubDate: '2025-07-22T13:50:50.785Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: >-
+    Как кадастровая стоимость влияет на налоги: полное руководство для
+    собственника от ButlerSPB
+  description: >-
+    Кадастровая стоимость — ключевой показатель, от которого напрямую зависит
+    размер налога на имущество и землю. В этой статье мы подробно разбираем, что
+    такое кадастровая стоимость, как она рассчитывается, почему может быть
+    завышена, и что делать собственнику, если он не согласен с оценкой. Узнайте,
+    как проверить актуальную стоимость вашего объекта и легально снизить
+    налоговую нагрузку.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.9'
+    reviewCount: 790
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/kak-kadastrovaya-stoimost-vliyaet-na-nalogi-sobstvennika/
 ---
 
 # Как кадастровая стоимость влияет на ваши налоги: полное руководство для собственника

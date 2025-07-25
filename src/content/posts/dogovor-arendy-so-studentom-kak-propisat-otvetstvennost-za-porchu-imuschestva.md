@@ -1,10 +1,49 @@
 ---
-title: "Договор аренды со студентом: как прописать ответственность за порчу имущества"
-description: "Сдача квартиры студенту может быть выгодной, но сопряжена с рисками. Чтобы обезопасить себя и свое имущество, важно грамотно составить договор. В нашей новой статье для блога ButlerSPB мы разбираем, какие пункты обязательно включить в договор аренды со студентом, как правильно оформить акт приема-передачи, определить размер залога и четко прописать механизм возмещения ущерба. Защитите свои инвестиции с нашими советами."
-pubDate: "2025-07-23T16:33:49.824Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Договор аренды со студентом: как прописать ответственность за порчу имущества","description":"Сдача квартиры студенту может быть выгодной, но сопряжена с рисками. Чтобы обезопасить себя и свое имущество, важно грамотно составить договор. В нашей новой статье для блога ButlerSPB мы разбираем, какие пункты обязательно включить в договор аренды со студентом, как правильно оформить акт приема-передачи, определить размер залога и четко прописать механизм возмещения ущерба. Защитите свои инвестиции с нашими советами.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":726,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/dogovor-arendy-so-studentom-kak-propisat-otvetstvennost-za-porchu-imuschestva/"}}
+title: 'Договор аренды со студентом: как прописать ответственность за порчу имущества'
+description: >-
+  Сдача квартиры студенту может быть выгодной, но сопряжена с рисками. Чтобы
+  обезопасить себя и свое имущество, важно грамотно составить договор. В нашей
+  новой статье для блога ButlerSPB мы разбираем, какие пункты обязательно
+  включить в договор аренды со студентом, как правильно оформить акт
+  приема-передачи, определить размер залога и четко прописать механизм
+  возмещения ущерба. Защитите свои инвестиции с нашими советами.
+pubDate: '2025-07-23T16:33:49.824Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: >-
+    Договор аренды со студентом: как прописать ответственность за порчу
+    имущества
+  description: >-
+    Сдача квартиры студенту может быть выгодной, но сопряжена с рисками. Чтобы
+    обезопасить себя и свое имущество, важно грамотно составить договор. В нашей
+    новой статье для блога ButlerSPB мы разбираем, какие пункты обязательно
+    включить в договор аренды со студентом, как правильно оформить акт
+    приема-передачи, определить размер залога и четко прописать механизм
+    возмещения ущерба. Защитите свои инвестиции с нашими советами.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.9'
+    reviewCount: 839
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/dogovor-arendy-so-studentom-kak-propisat-otvetstvennost-za-porchu-imuschestva/
 ---
 
 # Сдаете квартиру студенту? Как договор аренды на 100% защитит вас от порчи имущества. Полный гайд от ButlerSPB.

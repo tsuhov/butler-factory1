@@ -1,10 +1,49 @@
 ---
-title: "Инвестиции в землю под коммерческую застройку: гид для инвестора от ButlerSPB"
-description: "Вложение средств в земельные участки под коммерческие объекты — один из самых надежных и прибыльных видов инвестиций. В нашей новой статье эксперты ButlerSPB подробно разбирают, как выбрать перспективный участок, какие юридические нюансы учесть, как оценить потенциальную доходность проекта и избежать распространенных ошибок. Узнайте, как превратить землю в стабильный источник дохода."
-pubDate: "2025-07-23T11:49:36.450Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Инвестиции в землю под коммерческую застройку: гид для инвестора от ButlerSPB","description":"Вложение средств в земельные участки под коммерческие объекты — один из самых надежных и прибыльных видов инвестиций. В нашей новой статье эксперты ButlerSPB подробно разбирают, как выбрать перспективный участок, какие юридические нюансы учесть, как оценить потенциальную доходность проекта и избежать распространенных ошибок. Узнайте, как превратить землю в стабильный источник дохода.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.7","reviewCount":602,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/investicii-v-zemlyu-pod-kommercheskuyu-zastroyku/"}}
+title: 'Инвестиции в землю под коммерческую застройку: гид для инвестора от ButlerSPB'
+description: >-
+  Вложение средств в земельные участки под коммерческие объекты — один из самых
+  надежных и прибыльных видов инвестиций. В нашей новой статье эксперты
+  ButlerSPB подробно разбирают, как выбрать перспективный участок, какие
+  юридические нюансы учесть, как оценить потенциальную доходность проекта и
+  избежать распространенных ошибок. Узнайте, как превратить землю в стабильный
+  источник дохода.
+pubDate: '2025-07-23T11:49:36.450Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: >-
+    Инвестиции в землю под коммерческую застройку: гид для инвестора от
+    ButlerSPB
+  description: >-
+    Вложение средств в земельные участки под коммерческие объекты — один из
+    самых надежных и прибыльных видов инвестиций. В нашей новой статье эксперты
+    ButlerSPB подробно разбирают, как выбрать перспективный участок, какие
+    юридические нюансы учесть, как оценить потенциальную доходность проекта и
+    избежать распространенных ошибок. Узнайте, как превратить землю в стабильный
+    источник дохода.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.9'
+    reviewCount: 626
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/investicii-v-zemlyu-pod-kommercheskuyu-zastroyku/
 ---
 
 # Инвестиции в землю под коммерческую застройку: Полное руководство от экспертов ButlerSPB

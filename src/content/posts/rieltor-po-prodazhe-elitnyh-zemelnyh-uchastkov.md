@@ -1,11 +1,41 @@
 ---
-title: "Риэлтор по элитным участкам: ваш эксперт"
-description: "Как выбрать риэлтора для покупки или продажи элитного земельного участка? Раскрываем секреты успешной сделки и критерии выбора лучшего специалиста от ButlerSPB."
-keywords: "риэлтор по элитной земле, элитные участки, купить земельный участок, продажа элитной земли, агент по недвижимости, ButlerSPB"
-pubDate: "2025-07-24T12:11:08.034Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Риэлтор по элитным участкам: ваш эксперт","description":"Как выбрать риэлтора для покупки или продажи элитного земельного участка? Раскрываем секреты успешной сделки и критерии выбора лучшего специалиста от ButlerSPB.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":307,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/rieltor-po-prodazhe-elitnyh-zemelnyh-uchastkov/"}}
+title: 'Риэлтор по элитным участкам: ваш эксперт'
+description: >-
+  Как выбрать риэлтора для покупки или продажи элитного земельного участка?
+  Раскрываем секреты успешной сделки и критерии выбора лучшего специалиста от
+  ButlerSPB.
+pubDate: '2025-07-24T12:11:08.034Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Риэлтор по элитным участкам: ваш эксперт'
+  description: >-
+    Как выбрать риэлтора для покупки или продажи элитного земельного участка?
+    Раскрываем секреты успешной сделки и критерии выбора лучшего специалиста от
+    ButlerSPB.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.8'
+    reviewCount: 477
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/rieltor-po-prodazhe-elitnyh-zemelnyh-uchastkov/
 ---
 # Риэлтор по продаже элитных земельных участков: больше, чем просто посредник
 

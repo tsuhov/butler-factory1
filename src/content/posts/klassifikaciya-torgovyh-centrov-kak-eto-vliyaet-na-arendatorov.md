@@ -1,10 +1,47 @@
 ---
-title: "Классификация торговых центров: как это влияет на арендаторов"
-description: "Выбор правильного торгового центра — ключевой фактор успеха для любого ритейлера. В нашей новой статье от ButlerSPB мы разбираем общепринятую классификацию ТЦ: от небольших районных до гигантских суперрегиональных. Узнайте, как тип торгового центра, его якорные арендаторы, зона охвата и пешеходный трафик влияют на арендные ставки и потенциальную прибыль, чтобы найти идеальное помещение для вашего бизнеса."
-pubDate: "2025-07-23T11:50:29.890Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Классификация торговых центров: как это влияет на арендаторов","description":"Выбор правильного торгового центра — ключевой фактор успеха для любого ритейлера. В нашей новой статье от ButlerSPB мы разбираем общепринятую классификацию ТЦ: от небольших районных до гигантских суперрегиональных. Узнайте, как тип торгового центра, его якорные арендаторы, зона охвата и пешеходный трафик влияют на арендные ставки и потенциальную прибыль, чтобы найти идеальное помещение для вашего бизнеса.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":739,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/klassifikaciya-torgovyh-centrov-kak-eto-vliyaet-na-arendatorov/"}}
+title: 'Классификация торговых центров: как это влияет на арендаторов'
+description: >-
+  Выбор правильного торгового центра — ключевой фактор успеха для любого
+  ритейлера. В нашей новой статье от ButlerSPB мы разбираем общепринятую
+  классификацию ТЦ: от небольших районных до гигантских суперрегиональных.
+  Узнайте, как тип торгового центра, его якорные арендаторы, зона охвата и
+  пешеходный трафик влияют на арендные ставки и потенциальную прибыль, чтобы
+  найти идеальное помещение для вашего бизнеса.
+pubDate: '2025-07-23T11:50:29.890Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Классификация торговых центров: как это влияет на арендаторов'
+  description: >-
+    Выбор правильного торгового центра — ключевой фактор успеха для любого
+    ритейлера. В нашей новой статье от ButlerSPB мы разбираем общепринятую
+    классификацию ТЦ: от небольших районных до гигантских суперрегиональных.
+    Узнайте, как тип торгового центра, его якорные арендаторы, зона охвата и
+    пешеходный трафик влияют на арендные ставки и потенциальную прибыль, чтобы
+    найти идеальное помещение для вашего бизнеса.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.9'
+    reviewCount: 512
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/klassifikaciya-torgovyh-centrov-kak-eto-vliyaet-na-arendatorov/
 ---
 
 # Классификация торговых центров: подробный гид для арендатора

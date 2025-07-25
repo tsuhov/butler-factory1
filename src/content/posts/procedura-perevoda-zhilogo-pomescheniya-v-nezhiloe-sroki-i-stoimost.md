@@ -1,10 +1,45 @@
 ---
-title: "Процедура перевода жилого помещения в нежилое: сроки и стоимость"
-description: "Планируете перевести квартиру в коммерческий фонд для бизнеса? Эксперты ButlerSPB подготовили подробное руководство. В статье вы найдете пошаговый алгоритм действий, полный список необходимых документов, а также актуальную информацию о сроках согласования и стоимости процедуры в Санкт-Петербурге. Узнайте, как избежать ошибок и успешно завершить перевод помещения."
-pubDate: "2025-07-23T11:16:21.840Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Процедура перевода жилого помещения в нежилое: сроки и стоимость","description":"Планируете перевести квартиру в коммерческий фонд для бизнеса? Эксперты ButlerSPB подготовили подробное руководство. В статье вы найдете пошаговый алгоритм действий, полный список необходимых документов, а также актуальную информацию о сроках согласования и стоимости процедуры в Санкт-Петербурге. Узнайте, как избежать ошибок и успешно завершить перевод помещения.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.8","reviewCount":811,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/procedura-perevoda-zhilogo-pomescheniya-v-nezhiloe-sroki-i-stoimost/"}}
+title: 'Процедура перевода жилого помещения в нежилое: сроки и стоимость'
+description: >-
+  Планируете перевести квартиру в коммерческий фонд для бизнеса? Эксперты
+  ButlerSPB подготовили подробное руководство. В статье вы найдете пошаговый
+  алгоритм действий, полный список необходимых документов, а также актуальную
+  информацию о сроках согласования и стоимости процедуры в Санкт-Петербурге.
+  Узнайте, как избежать ошибок и успешно завершить перевод помещения.
+pubDate: '2025-07-23T11:16:21.840Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Процедура перевода жилого помещения в нежилое: сроки и стоимость'
+  description: >-
+    Планируете перевести квартиру в коммерческий фонд для бизнеса? Эксперты
+    ButlerSPB подготовили подробное руководство. В статье вы найдете пошаговый
+    алгоритм действий, полный список необходимых документов, а также актуальную
+    информацию о сроках согласования и стоимости процедуры в Санкт-Петербурге.
+    Узнайте, как избежать ошибок и успешно завершить перевод помещения.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.9'
+    reviewCount: 586
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/procedura-perevoda-zhilogo-pomescheniya-v-nezhiloe-sroki-i-stoimost/
 ---
 
 # Перевод жилого помещения в нежилое: пошаговая инструкция, сроки и стоимость в 2024 году

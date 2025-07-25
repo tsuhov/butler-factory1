@@ -1,11 +1,40 @@
 ---
-title: "Главные риски при сдаче квартиры в аренду"
-description: "Сдаете квартиру? Узнайте о главных опасностях: порча имущества, долги по КУ, проблемы с соседями и недобросовестные жильцы. ButlerSPB расскажет, как их избежать."
-keywords: "сдача квартиры, риски аренды, арендодатель, порча имущества, недобросовестные арендаторы, договор аренды, управление недвижимостью"
-pubDate: "2025-07-25T14:33:11.289Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Главные риски при сдаче квартиры в аренду","description":"Сдаете квартиру? Узнайте о главных опасностях: порча имущества, долги по КУ, проблемы с соседями и недобросовестные жильцы. ButlerSPB расскажет, как их избежать.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.8","reviewCount":445,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/riski-sdachi/"}}
+title: Главные риски при сдаче квартиры в аренду
+description: >-
+  Сдаете квартиру? Узнайте о главных опасностях: порча имущества, долги по КУ,
+  проблемы с соседями и недобросовестные жильцы. ButlerSPB расскажет, как их
+  избежать.
+pubDate: '2025-07-25T14:33:11.289Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: Главные риски при сдаче квартиры в аренду
+  description: >-
+    Сдаете квартиру? Узнайте о главных опасностях: порча имущества, долги по КУ,
+    проблемы с соседями и недобросовестные жильцы. ButlerSPB расскажет, как их
+    избежать.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '5.0'
+    reviewCount: 379
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': 'https://butlerspb-blog.netlify.app/blog/riski-sdachi/'
 ---
 # Сдаем квартиру в аренду: Все риски для собственника от А до Я
 

@@ -1,10 +1,43 @@
 ---
-title: "Инвестиции в квартиру без отделки: как превратить 'бетон' в золото?"
-description: "Покупка квартиры без отделки привлекает инвесторов низкой стартовой ценой. Но какие риски и скрытые расходы вас ждут? В новой статье блога ButlerSPB разбираем все плюсы и минусы таких вложений, рассчитываем реальную доходность и делимся секретами, как превратить 'голые стены' в высоколиквидный актив."
-pubDate: "2025-07-22T13:42:41.655Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Инвестиции в квартиру без отделки: как превратить 'бетон' в золото?","description":"Покупка квартиры без отделки привлекает инвесторов низкой стартовой ценой. Но какие риски и скрытые расходы вас ждут? В новой статье блога ButlerSPB разбираем все плюсы и минусы таких вложений, рассчитываем реальную доходность и делимся секретами, как превратить 'голые стены' в высоколиквидный актив.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"5.0","reviewCount":454,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/investicii-v-kvartiru-bez-otdelki/"}}
+title: 'Инвестиции в квартиру без отделки: как превратить ''бетон'' в золото?'
+description: >-
+  Покупка квартиры без отделки привлекает инвесторов низкой стартовой ценой. Но
+  какие риски и скрытые расходы вас ждут? В новой статье блога ButlerSPB
+  разбираем все плюсы и минусы таких вложений, рассчитываем реальную доходность
+  и делимся секретами, как превратить 'голые стены' в высоколиквидный актив.
+pubDate: '2025-07-22T13:42:41.655Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Инвестиции в квартиру без отделки: как превратить ''бетон'' в золото?'
+  description: >-
+    Покупка квартиры без отделки привлекает инвесторов низкой стартовой ценой.
+    Но какие риски и скрытые расходы вас ждут? В новой статье блога ButlerSPB
+    разбираем все плюсы и минусы таких вложений, рассчитываем реальную
+    доходность и делимся секретами, как превратить 'голые стены' в
+    высоколиквидный актив.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.8'
+    reviewCount: 429
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': 'https://butlerspb-blog.netlify.app/blog/investicii-v-kvartiru-bez-otdelki/'
 ---
 
 # Инвестиции в квартиру без отделки: Как превратить "бетонную коробку" в прибыльный актив в СПб?

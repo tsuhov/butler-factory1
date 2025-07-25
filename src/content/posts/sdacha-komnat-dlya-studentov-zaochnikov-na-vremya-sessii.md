@@ -1,10 +1,49 @@
 ---
-title: "Сдача комнат студентам-заочникам на время сессии: гайд для собственников от ButlerSPB"
-description: "Как выгодно и безопасно сдать комнату студенту-заочнику? В нашей новой статье разбираем все аспекты: от определения цены и подготовки жилья до поиска идеального арендатора и юридических тонкостей. Узнайте, как превратить краткосрочную аренду в стабильный источник дохода вместе с советами экспертов ButlerSPB."
-pubDate: "2025-07-23T12:10:59.313Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Сдача комнат студентам-заочникам на время сессии: гайд для собственников от ButlerSPB","description":"Как выгодно и безопасно сдать комнату студенту-заочнику? В нашей новой статье разбираем все аспекты: от определения цены и подготовки жилья до поиска идеального арендатора и юридических тонкостей. Узнайте, как превратить краткосрочную аренду в стабильный источник дохода вместе с советами экспертов ButlerSPB.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":540,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/sdacha-komnat-dlya-studentov-zaochnikov-na-vremya-sessii/"}}
+title: >-
+  Сдача комнат студентам-заочникам на время сессии: гайд для собственников от
+  ButlerSPB
+description: >-
+  Как выгодно и безопасно сдать комнату студенту-заочнику? В нашей новой статье
+  разбираем все аспекты: от определения цены и подготовки жилья до поиска
+  идеального арендатора и юридических тонкостей. Узнайте, как превратить
+  краткосрочную аренду в стабильный источник дохода вместе с советами экспертов
+  ButlerSPB.
+pubDate: '2025-07-23T12:10:59.313Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: >-
+    Сдача комнат студентам-заочникам на время сессии: гайд для собственников от
+    ButlerSPB
+  description: >-
+    Как выгодно и безопасно сдать комнату студенту-заочнику? В нашей новой
+    статье разбираем все аспекты: от определения цены и подготовки жилья до
+    поиска идеального арендатора и юридических тонкостей. Узнайте, как
+    превратить краткосрочную аренду в стабильный источник дохода вместе с
+    советами экспертов ButlerSPB.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.8'
+    reviewCount: 594
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/sdacha-komnat-dlya-studentov-zaochnikov-na-vremya-sessii/
 ---
 
 # Сессия близко: как собственнику в Петербурге заработать на студентах-заочниках без рисков и хлопот

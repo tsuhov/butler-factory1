@@ -1,10 +1,49 @@
 ---
-title: "Классификация бизнес-центров в СПб: что означают классы A, B, C"
-description: "Выбираете офис в Санкт-Петербурге и не можете определиться между бизнес-центрами класса А, B или C? В нашей новой статье команда ButlerSPB подробно разбирает общепринятую классификацию офисной недвижимости. Узнайте, чем отличаются престижные БЦ класса А+ от функциональных офисов класса В, какие требования предъявляются к парковке, инженерным системам и местоположению, и как выбрать оптимальное пространство для вашего бизнеса, не переплачивая за ненужные опции."
-pubDate: "2025-07-22T14:00:31.628Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Классификация бизнес-центров в СПб: что означают классы A, B, C","description":"Выбираете офис в Санкт-Петербурге и не можете определиться между бизнес-центрами класса А, B или C? В нашей новой статье команда ButlerSPB подробно разбирает общепринятую классификацию офисной недвижимости. Узнайте, чем отличаются престижные БЦ класса А+ от функциональных офисов класса В, какие требования предъявляются к парковке, инженерным системам и местоположению, и как выбрать оптимальное пространство для вашего бизнеса, не переплачивая за ненужные опции.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":679,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/klassifikaciya-biznes-centrov-v-spb-chto-oznachayut-klassy-a-b-c/"}}
+title: 'Классификация бизнес-центров в СПб: что означают классы A, B, C'
+description: >-
+  Выбираете офис в Санкт-Петербурге и не можете определиться между
+  бизнес-центрами класса А, B или C? В нашей новой статье команда ButlerSPB
+  подробно разбирает общепринятую классификацию офисной недвижимости. Узнайте,
+  чем отличаются престижные БЦ класса А+ от функциональных офисов класса В,
+  какие требования предъявляются к парковке, инженерным системам и
+  местоположению, и как выбрать оптимальное пространство для вашего бизнеса, не
+  переплачивая за ненужные опции.
+pubDate: '2025-07-22T14:00:31.628Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Классификация бизнес-центров в СПб: что означают классы A, B, C'
+  description: >-
+    Выбираете офис в Санкт-Петербурге и не можете определиться между
+    бизнес-центрами класса А, B или C? В нашей новой статье команда ButlerSPB
+    подробно разбирает общепринятую классификацию офисной недвижимости. Узнайте,
+    чем отличаются престижные БЦ класса А+ от функциональных офисов класса В,
+    какие требования предъявляются к парковке, инженерным системам и
+    местоположению, и как выбрать оптимальное пространство для вашего бизнеса,
+    не переплачивая за ненужные опции.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.9'
+    reviewCount: 558
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/klassifikaciya-biznes-centrov-v-spb-chto-oznachayut-klassy-a-b-c/
 ---
 
 # Классификация бизнес-центров в Санкт-Петербурге: Как выбрать идеальный офис по классам A, B и C

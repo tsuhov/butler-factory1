@@ -1,11 +1,40 @@
 ---
-title: "Охранные услуги для бизнеса и дома от ButlerSPB"
-description: "ButlerSPB предоставляет профессиональные охранные услуги для объектов любой сложности. Гарантируем безопасность вашего бизнеса и частной жизни. Надежность и опыт."
-keywords: "охранные услуги, охрана объектов, безопасность, ЧОП СПб, личная охрана, ButlerSPB"
-pubDate: "2025-07-25T16:26:33.040Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Охранные услуги для бизнеса и дома от ButlerSPB","description":"ButlerSPB предоставляет профессиональные охранные услуги для объектов любой сложности. Гарантируем безопасность вашего бизнеса и частной жизни. Надежность и опыт.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"5.0","reviewCount":613,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/ohrannye-uslugi/"}}
+title: Охранные услуги для бизнеса и дома от ButlerSPB
+description: >-
+  ButlerSPB предоставляет профессиональные охранные услуги для объектов любой
+  сложности. Гарантируем безопасность вашего бизнеса и частной жизни. Надежность
+  и опыт.
+pubDate: '2025-07-25T16:26:33.040Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: Охранные услуги для бизнеса и дома от ButlerSPB
+  description: >-
+    ButlerSPB предоставляет профессиональные охранные услуги для объектов любой
+    сложности. Гарантируем безопасность вашего бизнеса и частной жизни.
+    Надежность и опыт.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.8'
+    reviewCount: 564
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': 'https://butlerspb-blog.netlify.app/blog/ohrannye-uslugi/'
 ---
 # Охранные услуги в Санкт-Петербурге: полный гид по выбору надежной защиты для бизнеса и дома
 

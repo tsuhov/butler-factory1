@@ -1,10 +1,53 @@
 ---
-title: "Здоровье питомца 24/7: Гид по круглосуточным ветеринарным клиникам Санкт-Петербурга от ButlerSPB"
-description: "Когда питомец заболел внезапно, особенно ночью или в выходной, каждая минута на счету. Паника — плохой помощник. Команда ButlerSPB подготовила для вас подробный гид по проверенным круглосуточным ветеринарным клиникам Санкт-Петербурга. В нашей статье вы найдете адреса, телефоны, информацию о специализации и советы, как действовать в экстренной ситуации. Сохраните эту статью в закладки — пусть она вам никогда не пригодится, но будет под рукой в нужный момент."
-pubDate: "2025-07-22T11:47:05.217Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Здоровье питомца 24/7: Гид по круглосуточным ветеринарным клиникам Санкт-Петербурга от ButlerSPB","description":"Когда питомец заболел внезапно, особенно ночью или в выходной, каждая минута на счету. Паника — плохой помощник. Команда ButlerSPB подготовила для вас подробный гид по проверенным круглосуточным ветеринарным клиникам Санкт-Петербурга. В нашей статье вы найдете адреса, телефоны, информацию о специализации и советы, как действовать в экстренной ситуации. Сохраните эту статью в закладки — пусть она вам никогда не пригодится, но будет под рукой в нужный момент.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":515,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/kruglosutochnye-veterinarnye-kliniki-v-sankt-peterburge/"}}
+title: >-
+  Здоровье питомца 24/7: Гид по круглосуточным ветеринарным клиникам
+  Санкт-Петербурга от ButlerSPB
+description: >-
+  Когда питомец заболел внезапно, особенно ночью или в выходной, каждая минута
+  на счету. Паника — плохой помощник. Команда ButlerSPB подготовила для вас
+  подробный гид по проверенным круглосуточным ветеринарным клиникам
+  Санкт-Петербурга. В нашей статье вы найдете адреса, телефоны, информацию о
+  специализации и советы, как действовать в экстренной ситуации. Сохраните эту
+  статью в закладки — пусть она вам никогда не пригодится, но будет под рукой в
+  нужный момент.
+pubDate: '2025-07-22T11:47:05.217Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: >-
+    Здоровье питомца 24/7: Гид по круглосуточным ветеринарным клиникам
+    Санкт-Петербурга от ButlerSPB
+  description: >-
+    Когда питомец заболел внезапно, особенно ночью или в выходной, каждая минута
+    на счету. Паника — плохой помощник. Команда ButlerSPB подготовила для вас
+    подробный гид по проверенным круглосуточным ветеринарным клиникам
+    Санкт-Петербурга. В нашей статье вы найдете адреса, телефоны, информацию о
+    специализации и советы, как действовать в экстренной ситуации. Сохраните эту
+    статью в закладки — пусть она вам никогда не пригодится, но будет под рукой
+    в нужный момент.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.9'
+    reviewCount: 490
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/kruglosutochnye-veterinarnye-kliniki-v-sankt-peterburge/
 ---
 
 # Круглосуточные ветеринарные клиники в Санкт-Петербурге: куда бежать, если питомцу плохо ночью

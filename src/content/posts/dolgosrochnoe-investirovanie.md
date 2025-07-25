@@ -1,11 +1,39 @@
 ---
-title: "Долгосрочные инвестиции: как создать капитал"
-description: "Узнайте, как долгосрочное инвестирование помогает создавать и приумножать капитал. ButlerSPB делится стратегиями, которые работают на длинной дистанции."
-keywords: "долгосрочное инвестирование, инвестиционный портфель, акции, облигации, создание капитала, фондовый рынок"
-pubDate: "2025-07-25T16:33:22.998Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Долгосрочные инвестиции: как создать капитал","description":"Узнайте, как долгосрочное инвестирование помогает создавать и приумножать капитал. ButlerSPB делится стратегиями, которые работают на длинной дистанции.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":558,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/dolgosrochnoe-investirovanie/"}}
+title: 'Долгосрочные инвестиции: как создать капитал'
+description: >-
+  Узнайте, как долгосрочное инвестирование помогает создавать и приумножать
+  капитал. ButlerSPB делится стратегиями, которые работают на длинной дистанции.
+pubDate: '2025-07-25T16:33:22.998Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Долгосрочные инвестиции: как создать капитал'
+  description: >-
+    Узнайте, как долгосрочное инвестирование помогает создавать и приумножать
+    капитал. ButlerSPB делится стратегиями, которые работают на длинной
+    дистанции.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.7'
+    reviewCount: 752
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': 'https://butlerspb-blog.netlify.app/blog/dolgosrochnoe-investirovanie/'
 ---
 # Долгосрочное инвестирование: Полное руководство по созданию капитала от экспертов ButlerSPB
 

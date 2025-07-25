@@ -1,11 +1,40 @@
 ---
-title: "Профессиональная команда ButlerSPB: наш ключ к успеху"
-description: "В ButlerSPB мы гордимся нашей командой. Каждый специалист — это эксперт с многолетним опытом, преданный своему делу и готовый решать самые сложные задачи для вас."
-keywords: "профессиональная команда, ButlerSPB, специалисты, эксперты, сплоченный коллектив, командная работа"
-pubDate: "2025-07-25T16:22:57.689Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Профессиональная команда ButlerSPB: наш ключ к успеху","description":"В ButlerSPB мы гордимся нашей командой. Каждый специалист — это эксперт с многолетним опытом, преданный своему делу и готовый решать самые сложные задачи для вас.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":326,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/professionalnaya-komanda/"}}
+title: 'Профессиональная команда ButlerSPB: наш ключ к успеху'
+description: >-
+  В ButlerSPB мы гордимся нашей командой. Каждый специалист — это эксперт с
+  многолетним опытом, преданный своему делу и готовый решать самые сложные
+  задачи для вас.
+pubDate: '2025-07-25T16:22:57.689Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Профессиональная команда ButlerSPB: наш ключ к успеху'
+  description: >-
+    В ButlerSPB мы гордимся нашей командой. Каждый специалист — это эксперт с
+    многолетним опытом, преданный своему делу и готовый решать самые сложные
+    задачи для вас.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '5.0'
+    reviewCount: 706
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': 'https://butlerspb-blog.netlify.app/blog/professionalnaya-komanda/'
 ---
 # ДНК профессиональной команды: от подбора до синергии. Экспертный гайд от ButlerSPB
 

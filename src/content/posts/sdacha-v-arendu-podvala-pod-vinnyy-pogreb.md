@@ -1,10 +1,49 @@
 ---
-title: "Как превратить ваш подвал в элитный винный погреб и выгодно сдать его в аренду: гид от ButlerSPB"
-description: "Узнайте, как монетизировать неиспользуемое подвальное помещение. В нашей статье мы подробно разбираем все этапы: от оценки пригодности подвала и его подготовки до юридических аспектов договора аренды и поиска надежных арендаторов-коллекционеров. Практические советы от экспертов ButlerSPB для владельцев недвижимости."
-pubDate: "2025-07-23T22:09:45.520Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Как превратить ваш подвал в элитный винный погреб и выгодно сдать его в аренду: гид от ButlerSPB","description":"Узнайте, как монетизировать неиспользуемое подвальное помещение. В нашей статье мы подробно разбираем все этапы: от оценки пригодности подвала и его подготовки до юридических аспектов договора аренды и поиска надежных арендаторов-коллекционеров. Практические советы от экспертов ButlerSPB для владельцев недвижимости.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":369,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/sdacha-v-arendu-podvala-pod-vinnyy-pogreb/"}}
+title: >-
+  Как превратить ваш подвал в элитный винный погреб и выгодно сдать его в
+  аренду: гид от ButlerSPB
+description: >-
+  Узнайте, как монетизировать неиспользуемое подвальное помещение. В нашей
+  статье мы подробно разбираем все этапы: от оценки пригодности подвала и его
+  подготовки до юридических аспектов договора аренды и поиска надежных
+  арендаторов-коллекционеров. Практические советы от экспертов ButlerSPB для
+  владельцев недвижимости.
+pubDate: '2025-07-23T22:09:45.520Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: >-
+    Как превратить ваш подвал в элитный винный погреб и выгодно сдать его в
+    аренду: гид от ButlerSPB
+  description: >-
+    Узнайте, как монетизировать неиспользуемое подвальное помещение. В нашей
+    статье мы подробно разбираем все этапы: от оценки пригодности подвала и его
+    подготовки до юридических аспектов договора аренды и поиска надежных
+    арендаторов-коллекционеров. Практические советы от экспертов ButlerSPB для
+    владельцев недвижимости.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.9'
+    reviewCount: 809
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/sdacha-v-arendu-podvala-pod-vinnyy-pogreb/
 ---
 
 # Как превратить ваш подвал в элитный винный погреб и выгодно сдать его в аренду: Полное руководство от ButlerSPB

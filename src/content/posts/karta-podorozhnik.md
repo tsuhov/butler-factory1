@@ -1,11 +1,40 @@
 ---
-title: "Карта Подорожник: ваш ключ к транспорту СПб"
-description: "Все о карте Подорожник: где приобрести, как пополнить баланс и какие тарифы самые выгодные. ButlerSPB делится советами для экономии на проезде в Петербурге."
-keywords: "карта Подорожник, транспорт Санкт-Петербурга, проезд в СПб, пополнить Подорожник, тарифы Подорожник, метро СПб, ButlerSPB"
-pubDate: "2025-07-25T15:57:59.227Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Карта Подорожник: ваш ключ к транспорту СПб","description":"Все о карте Подорожник: где приобрести, как пополнить баланс и какие тарифы самые выгодные. ButlerSPB делится советами для экономии на проезде в Петербурге.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.7","reviewCount":465,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/karta-podorozhnik/"}}
+title: 'Карта Подорожник: ваш ключ к транспорту СПб'
+description: >-
+  Все о карте Подорожник: где приобрести, как пополнить баланс и какие тарифы
+  самые выгодные. ButlerSPB делится советами для экономии на проезде в
+  Петербурге.
+pubDate: '2025-07-25T15:57:59.227Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Карта Подорожник: ваш ключ к транспорту СПб'
+  description: >-
+    Все о карте Подорожник: где приобрести, как пополнить баланс и какие тарифы
+    самые выгодные. ButlerSPB делится советами для экономии на проезде в
+    Петербурге.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '5.0'
+    reviewCount: 551
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': 'https://butlerspb-blog.netlify.app/blog/karta-podorozhnik/'
 ---
 # Карта «Подорожник»: Ваш главный гид по общественному транспорту Санкт-Петербурга в 2024 году
 

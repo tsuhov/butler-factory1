@@ -1,10 +1,51 @@
 ---
-title: "Сдача коммерческой недвижимости в аренду в Питере: полное руководство для собственника от ButlerSPB"
-description: "Рынок коммерческой недвижимости Санкт-Петербурга динамичен и полон возможностей. Как собственнику не упустить выгоду и сдать свой объект быстро и по выгодной цене? В этой статье эксперты ButlerSPB делятся пошаговой инструкцией: от правильной оценки и подготовки помещения до поиска надежного арендатора, юридических тонкостей договора и управления объектом. Узнайте все секреты успешной сдачи коммерческой недвижимости в аренду в СПб."
-pubDate: "2025-07-21T23:12:50.905Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Сдача коммерческой недвижимости в аренду в Питере: полное руководство для собственника от ButlerSPB","description":"Рынок коммерческой недвижимости Санкт-Петербурга динамичен и полон возможностей. Как собственнику не упустить выгоду и сдать свой объект быстро и по выгодной цене? В этой статье эксперты ButlerSPB делятся пошаговой инструкцией: от правильной оценки и подготовки помещения до поиска надежного арендатора, юридических тонкостей договора и управления объектом. Узнайте все секреты успешной сдачи коммерческой недвижимости в аренду в СПб.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":547,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/sdacha-kommercheskoy-nedvizhimosti-v-arendu-v-pitere/"}}
+title: >-
+  Сдача коммерческой недвижимости в аренду в Питере: полное руководство для
+  собственника от ButlerSPB
+description: >-
+  Рынок коммерческой недвижимости Санкт-Петербурга динамичен и полон
+  возможностей. Как собственнику не упустить выгоду и сдать свой объект быстро и
+  по выгодной цене? В этой статье эксперты ButlerSPB делятся пошаговой
+  инструкцией: от правильной оценки и подготовки помещения до поиска надежного
+  арендатора, юридических тонкостей договора и управления объектом. Узнайте все
+  секреты успешной сдачи коммерческой недвижимости в аренду в СПб.
+pubDate: '2025-07-21T23:12:50.905Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: >-
+    Сдача коммерческой недвижимости в аренду в Питере: полное руководство для
+    собственника от ButlerSPB
+  description: >-
+    Рынок коммерческой недвижимости Санкт-Петербурга динамичен и полон
+    возможностей. Как собственнику не упустить выгоду и сдать свой объект быстро
+    и по выгодной цене? В этой статье эксперты ButlerSPB делятся пошаговой
+    инструкцией: от правильной оценки и подготовки помещения до поиска надежного
+    арендатора, юридических тонкостей договора и управления объектом. Узнайте
+    все секреты успешной сдачи коммерческой недвижимости в аренду в СПб.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.9'
+    reviewCount: 360
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/sdacha-kommercheskoy-nedvizhimosti-v-arendu-v-pitere/
 ---
 
 # Как сдать коммерческую недвижимость в Санкт-Петербурге: полное руководство для собственника от А до Я

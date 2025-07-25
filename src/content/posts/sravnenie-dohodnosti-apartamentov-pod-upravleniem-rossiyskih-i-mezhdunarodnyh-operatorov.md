@@ -1,10 +1,51 @@
 ---
-title: "Российский vs. международный оператор: под чьим управлением доходность апартаментов выше?"
-description: "Выбор управляющей компании напрямую влияет на доходность ваших апартаментов. Стоит ли доверять известному международному бренду или сделать ставку на российского оператора, знающего специфику местного рынка? В новой статье блога ButlerSPB разбираем плюсы и минусы каждого подхода. Сравниваем комиссии, эффективность маркетинга, стандарты сервиса и юридические аспекты, чтобы вы могли принять взвешенное инвестиционное решение."
-pubDate: "2025-07-23T12:22:31.402Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Российский vs. международный оператор: под чьим управлением доходность апартаментов выше?","description":"Выбор управляющей компании напрямую влияет на доходность ваших апартаментов. Стоит ли доверять известному международному бренду или сделать ставку на российского оператора, знающего специфику местного рынка? В новой статье блога ButlerSPB разбираем плюсы и минусы каждого подхода. Сравниваем комиссии, эффективность маркетинга, стандарты сервиса и юридические аспекты, чтобы вы могли принять взвешенное инвестиционное решение.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":573,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/sravnenie-dohodnosti-apartamentov-pod-upravleniem-rossiyskih-i-mezhdunarodnyh-operatorov/"}}
+title: >-
+  Российский vs. международный оператор: под чьим управлением доходность
+  апартаментов выше?
+description: >-
+  Выбор управляющей компании напрямую влияет на доходность ваших апартаментов.
+  Стоит ли доверять известному международному бренду или сделать ставку на
+  российского оператора, знающего специфику местного рынка? В новой статье блога
+  ButlerSPB разбираем плюсы и минусы каждого подхода. Сравниваем комиссии,
+  эффективность маркетинга, стандарты сервиса и юридические аспекты, чтобы вы
+  могли принять взвешенное инвестиционное решение.
+pubDate: '2025-07-23T12:22:31.402Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: >-
+    Российский vs. международный оператор: под чьим управлением доходность
+    апартаментов выше?
+  description: >-
+    Выбор управляющей компании напрямую влияет на доходность ваших апартаментов.
+    Стоит ли доверять известному международному бренду или сделать ставку на
+    российского оператора, знающего специфику местного рынка? В новой статье
+    блога ButlerSPB разбираем плюсы и минусы каждого подхода. Сравниваем
+    комиссии, эффективность маркетинга, стандарты сервиса и юридические аспекты,
+    чтобы вы могли принять взвешенное инвестиционное решение.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.9'
+    reviewCount: 531
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/sravnenie-dohodnosti-apartamentov-pod-upravleniem-rossiyskih-i-mezhdunarodnyh-operatorov/
 ---
 
 # Российский или международный оператор: кто принесет инвестору больше денег от апартаментов?

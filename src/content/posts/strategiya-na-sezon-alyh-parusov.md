@@ -1,10 +1,46 @@
 ---
-title: "Алые Паруса 2024: Ваша стратегия идеального вечера с ButlerSPB"
-description: "Главная ночь петербургских выпускников \"Алые Паруса\" — событие, которое хочется запомнить на всю жизнь. Но как избежать хаоса многотысячной толпы и насладиться зрелищем в комфорте? В этой статье команда ButlerSPB делится инсайдами и проверенной стратегией: от выбора лучшей точки обзора (с воды, крыши или из панорамного ресторана) до организации трансфера и ужина. Мы расскажем, как спланировать все заранее, чтобы ваш вечер прошел безупречно."
-pubDate: "2025-07-22T11:14:16.679Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Алые Паруса 2024: Ваша стратегия идеального вечера с ButlerSPB","description":"Главная ночь петербургских выпускников \"Алые Паруса\" — событие, которое хочется запомнить на всю жизнь. Но как избежать хаоса многотысячной толпы и насладиться зрелищем в комфорте? В этой статье команда ButlerSPB делится инсайдами и проверенной стратегией: от выбора лучшей точки обзора (с воды, крыши или из панорамного ресторана) до организации трансфера и ужина. Мы расскажем, как спланировать все заранее, чтобы ваш вечер прошел безупречно.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.8","reviewCount":430,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/strategiya-na-sezon-alyh-parusov/"}}
+title: 'Алые Паруса 2024: Ваша стратегия идеального вечера с ButlerSPB'
+description: >-
+  Главная ночь петербургских выпускников "Алые Паруса" — событие, которое
+  хочется запомнить на всю жизнь. Но как избежать хаоса многотысячной толпы и
+  насладиться зрелищем в комфорте? В этой статье команда ButlerSPB делится
+  инсайдами и проверенной стратегией: от выбора лучшей точки обзора (с воды,
+  крыши или из панорамного ресторана) до организации трансфера и ужина. Мы
+  расскажем, как спланировать все заранее, чтобы ваш вечер прошел безупречно.
+pubDate: '2025-07-22T11:14:16.679Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Алые Паруса 2024: Ваша стратегия идеального вечера с ButlerSPB'
+  description: >-
+    Главная ночь петербургских выпускников "Алые Паруса" — событие, которое
+    хочется запомнить на всю жизнь. Но как избежать хаоса многотысячной толпы и
+    насладиться зрелищем в комфорте? В этой статье команда ButlerSPB делится
+    инсайдами и проверенной стратегией: от выбора лучшей точки обзора (с воды,
+    крыши или из панорамного ресторана) до организации трансфера и ужина. Мы
+    расскажем, как спланировать все заранее, чтобы ваш вечер прошел безупречно.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.8'
+    reviewCount: 468
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': 'https://butlerspb-blog.netlify.app/blog/strategiya-na-sezon-alyh-parusov/'
 ---
 
 # Алые Паруса 2024: Ваша персональная стратегия идеального вечера от ButlerSPB

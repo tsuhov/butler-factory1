@@ -1,11 +1,39 @@
 ---
-title: "Инвестквартира в СПб: гайд для инвестора"
-description: "Планируете купить квартиру для инвестиций в Санкт-Петербурге? Наш блог поможет разобраться, как выбрать ликвидный объект и на что обратить особое внимание."
-keywords: "инвестквартира спб, инвестиции в недвижимость, доходная недвижимость, купить квартиру в спб, butler spb, выбор квартиры для инвестиций"
-pubDate: "2025-07-25T14:10:57.764Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Инвестквартира в СПб: гайд для инвестора","description":"Планируете купить квартиру для инвестиций в Санкт-Петербурге? Наш блог поможет разобраться, как выбрать ликвидный объект и на что обратить особое внимание.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.8","reviewCount":898,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/investkvartira-spb/"}}
+title: 'Инвестквартира в СПб: гайд для инвестора'
+description: >-
+  Планируете купить квартиру для инвестиций в Санкт-Петербурге? Наш блог поможет
+  разобраться, как выбрать ликвидный объект и на что обратить особое внимание.
+pubDate: '2025-07-25T14:10:57.764Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Инвестквартира в СПб: гайд для инвестора'
+  description: >-
+    Планируете купить квартиру для инвестиций в Санкт-Петербурге? Наш блог
+    поможет разобраться, как выбрать ликвидный объект и на что обратить особое
+    внимание.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.8'
+    reviewCount: 577
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': 'https://butlerspb-blog.netlify.app/blog/investkvartira-spb/'
 ---
 # Как купить инвестквартиру в СПб и не прогадать: полное руководство для инвестора
 

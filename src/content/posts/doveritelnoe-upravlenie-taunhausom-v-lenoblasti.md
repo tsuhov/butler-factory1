@@ -1,10 +1,51 @@
 ---
-title: "Доверительное управление таунхаусом в Ленобласти: как получать доход без лишних забот"
-description: "Владение таунхаусом в Ленинградской области — прекрасная возможность для инвестиций и отдыха. Однако управление такой недвижимостью на расстоянии или при нехватке времени может превратиться в головную боль. В этой статье блога ButlerSPB мы расскажем, что такое доверительное управление, какие задачи оно решает и как наша компания поможет вам получать стабильный доход от аренды вашего таунхауса, взяв все хлопоты на себя."
-pubDate: "2025-07-23T11:47:23.452Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Доверительное управление таунхаусом в Ленобласти: как получать доход без лишних забот","description":"Владение таунхаусом в Ленинградской области — прекрасная возможность для инвестиций и отдыха. Однако управление такой недвижимостью на расстоянии или при нехватке времени может превратиться в головную боль. В этой статье блога ButlerSPB мы расскажем, что такое доверительное управление, какие задачи оно решает и как наша компания поможет вам получать стабильный доход от аренды вашего таунхауса, взяв все хлопоты на себя.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":402,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/doveritelnoe-upravlenie-taunhausom-v-lenoblasti/"}}
+title: >-
+  Доверительное управление таунхаусом в Ленобласти: как получать доход без
+  лишних забот
+description: >-
+  Владение таунхаусом в Ленинградской области — прекрасная возможность для
+  инвестиций и отдыха. Однако управление такой недвижимостью на расстоянии или
+  при нехватке времени может превратиться в головную боль. В этой статье блога
+  ButlerSPB мы расскажем, что такое доверительное управление, какие задачи оно
+  решает и как наша компания поможет вам получать стабильный доход от аренды
+  вашего таунхауса, взяв все хлопоты на себя.
+pubDate: '2025-07-23T11:47:23.452Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: >-
+    Доверительное управление таунхаусом в Ленобласти: как получать доход без
+    лишних забот
+  description: >-
+    Владение таунхаусом в Ленинградской области — прекрасная возможность для
+    инвестиций и отдыха. Однако управление такой недвижимостью на расстоянии или
+    при нехватке времени может превратиться в головную боль. В этой статье блога
+    ButlerSPB мы расскажем, что такое доверительное управление, какие задачи оно
+    решает и как наша компания поможет вам получать стабильный доход от аренды
+    вашего таунхауса, взяв все хлопоты на себя.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.8'
+    reviewCount: 781
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/doveritelnoe-upravlenie-taunhausom-v-lenoblasti/
 ---
 
 # Доверительное управление таунхаусом в Ленобласти: как превратить актив в пассивный доход без лишних хлопот

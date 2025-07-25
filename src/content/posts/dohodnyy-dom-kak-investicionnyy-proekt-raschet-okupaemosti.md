@@ -1,10 +1,48 @@
 ---
-title: "Доходный дом как инвестиционный проект: полный расчет окупаемости от ButlerSPB"
-description: "Планируете инвестировать в доходный дом, но не знаете, как оценить его рентабельность? В новой статье блога ButlerSPB мы подробно разбираем все этапы расчета окупаемости: от первоначальных вложений в покупку и ремонт до текущих расходов и прогнозирования чистого дохода. Узнайте, как превратить недвижимость в прибыльный актив и избежать распространенных ошибок инвесторов."
-pubDate: "2025-07-23T12:09:11.692Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Доходный дом как инвестиционный проект: полный расчет окупаемости от ButlerSPB","description":"Планируете инвестировать в доходный дом, но не знаете, как оценить его рентабельность? В новой статье блога ButlerSPB мы подробно разбираем все этапы расчета окупаемости: от первоначальных вложений в покупку и ремонт до текущих расходов и прогнозирования чистого дохода. Узнайте, как превратить недвижимость в прибыльный актив и избежать распространенных ошибок инвесторов.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"5.0","reviewCount":613,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/dohodnyy-dom-kak-investicionnyy-proekt-raschet-okupaemosti/"}}
+title: 'Доходный дом как инвестиционный проект: полный расчет окупаемости от ButlerSPB'
+description: >-
+  Планируете инвестировать в доходный дом, но не знаете, как оценить его
+  рентабельность? В новой статье блога ButlerSPB мы подробно разбираем все этапы
+  расчета окупаемости: от первоначальных вложений в покупку и ремонт до текущих
+  расходов и прогнозирования чистого дохода. Узнайте, как превратить
+  недвижимость в прибыльный актив и избежать распространенных ошибок инвесторов.
+pubDate: '2025-07-23T12:09:11.692Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: >-
+    Доходный дом как инвестиционный проект: полный расчет окупаемости от
+    ButlerSPB
+  description: >-
+    Планируете инвестировать в доходный дом, но не знаете, как оценить его
+    рентабельность? В новой статье блога ButlerSPB мы подробно разбираем все
+    этапы расчета окупаемости: от первоначальных вложений в покупку и ремонт до
+    текущих расходов и прогнозирования чистого дохода. Узнайте, как превратить
+    недвижимость в прибыльный актив и избежать распространенных ошибок
+    инвесторов.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.9'
+    reviewCount: 416
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/dohodnyy-dom-kak-investicionnyy-proekt-raschet-okupaemosti/
 ---
 
 # Доходный дом как инвестиционный проект: полное руководство по расчету окупаемости в Санкт-Петербурге

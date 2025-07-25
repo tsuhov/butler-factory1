@@ -1,11 +1,40 @@
 ---
-title: "Батлер ваш: современный консьерж-сервис."
-description: "Узнайте, как услуги персонального батлера от ButlerSPB могут преобразить вашу жизнь. Делегируйте рутину и освободите время для главного. Ваш комфорт – наша работа."
-keywords: "батлер, консьерж-сервис, личный помощник, ButlerSPB, делегирование, управление временем, премиум сервис"
-pubDate: "2025-07-24T13:47:52.797Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Батлер ваш: современный консьерж-сервис.","description":"Узнайте, как услуги персонального батлера от ButlerSPB могут преобразить вашу жизнь. Делегируйте рутину и освободите время для главного. Ваш комфорт – наша работа.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":651,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/batler-vash/"}}
+title: 'Батлер ваш: современный консьерж-сервис.'
+description: >-
+  Узнайте, как услуги персонального батлера от ButlerSPB могут преобразить вашу
+  жизнь. Делегируйте рутину и освободите время для главного. Ваш комфорт – наша
+  работа.
+pubDate: '2025-07-24T13:47:52.797Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Батлер ваш: современный консьерж-сервис.'
+  description: >-
+    Узнайте, как услуги персонального батлера от ButlerSPB могут преобразить
+    вашу жизнь. Делегируйте рутину и освободите время для главного. Ваш комфорт
+    – наша работа.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.8'
+    reviewCount: 695
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': 'https://butlerspb-blog.netlify.app/blog/batler-vash/'
 ---
 # Современный батлер: Кто он и как он может кардинально изменить вашу жизнь?
 

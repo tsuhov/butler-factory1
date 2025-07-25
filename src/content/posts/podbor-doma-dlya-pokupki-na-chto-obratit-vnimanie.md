@@ -1,10 +1,45 @@
 ---
-title: "Подбор дома для покупки: на что обратить внимание"
-description: "Покупка частного дома – важное и ответственное событие. Чтобы сделать правильный выбор и избежать неприятных сюрпризов, необходимо учесть множество факторов. В этой статье эксперты ButlerSPB делятся ключевыми советами и составляют полный чек-лист для будущего владельца: от оценки локации и юридической чистоты до проверки фундамента и коммуникаций."
-pubDate: "2025-07-22T15:36:53.656Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Подбор дома для покупки: на что обратить внимание","description":"Покупка частного дома – важное и ответственное событие. Чтобы сделать правильный выбор и избежать неприятных сюрпризов, необходимо учесть множество факторов. В этой статье эксперты ButlerSPB делятся ключевыми советами и составляют полный чек-лист для будущего владельца: от оценки локации и юридической чистоты до проверки фундамента и коммуникаций.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":860,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/podbor-doma-dlya-pokupki-na-chto-obratit-vnimanie/"}}
+title: 'Подбор дома для покупки: на что обратить внимание'
+description: >-
+  Покупка частного дома – важное и ответственное событие. Чтобы сделать
+  правильный выбор и избежать неприятных сюрпризов, необходимо учесть множество
+  факторов. В этой статье эксперты ButlerSPB делятся ключевыми советами и
+  составляют полный чек-лист для будущего владельца: от оценки локации и
+  юридической чистоты до проверки фундамента и коммуникаций.
+pubDate: '2025-07-22T15:36:53.656Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Подбор дома для покупки: на что обратить внимание'
+  description: >-
+    Покупка частного дома – важное и ответственное событие. Чтобы сделать
+    правильный выбор и избежать неприятных сюрпризов, необходимо учесть
+    множество факторов. В этой статье эксперты ButlerSPB делятся ключевыми
+    советами и составляют полный чек-лист для будущего владельца: от оценки
+    локации и юридической чистоты до проверки фундамента и коммуникаций.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.8'
+    reviewCount: 546
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/podbor-doma-dlya-pokupki-na-chto-obratit-vnimanie/
 ---
 
 # Как выбрать дом для покупки: Полное руководство от экспертов ButlerSPB

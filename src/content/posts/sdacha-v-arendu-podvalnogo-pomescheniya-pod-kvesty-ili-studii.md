@@ -1,10 +1,45 @@
 ---
-title: "Подвал – не склад, а источник дохода: Сдаем помещение под квест или студию"
-description: "Ваш подвал простаивает и собирает пыль? Превратите его в стабильный источник дохода! В новой статье блога ButlerSPB разбираемся, как выгодно сдать подвальное помещение под популярные форматы бизнеса — квесты в реальности, фотостудии или репетиционные базы. Обсуждаем требования к помещению, юридические нюансы и потенциальную прибыль для собственника."
-pubDate: "2025-07-23T11:35:10.911Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Подвал – не склад, а источник дохода: Сдаем помещение под квест или студию","description":"Ваш подвал простаивает и собирает пыль? Превратите его в стабильный источник дохода! В новой статье блога ButlerSPB разбираемся, как выгодно сдать подвальное помещение под популярные форматы бизнеса — квесты в реальности, фотостудии или репетиционные базы. Обсуждаем требования к помещению, юридические нюансы и потенциальную прибыль для собственника.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"5.0","reviewCount":604,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/sdacha-v-arendu-podvalnogo-pomescheniya-pod-kvesty-ili-studii/"}}
+title: 'Подвал – не склад, а источник дохода: Сдаем помещение под квест или студию'
+description: >-
+  Ваш подвал простаивает и собирает пыль? Превратите его в стабильный источник
+  дохода! В новой статье блога ButlerSPB разбираемся, как выгодно сдать
+  подвальное помещение под популярные форматы бизнеса — квесты в реальности,
+  фотостудии или репетиционные базы. Обсуждаем требования к помещению,
+  юридические нюансы и потенциальную прибыль для собственника.
+pubDate: '2025-07-23T11:35:10.911Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Подвал – не склад, а источник дохода: Сдаем помещение под квест или студию'
+  description: >-
+    Ваш подвал простаивает и собирает пыль? Превратите его в стабильный источник
+    дохода! В новой статье блога ButlerSPB разбираемся, как выгодно сдать
+    подвальное помещение под популярные форматы бизнеса — квесты в реальности,
+    фотостудии или репетиционные базы. Обсуждаем требования к помещению,
+    юридические нюансы и потенциальную прибыль для собственника.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '5.0'
+    reviewCount: 387
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/sdacha-v-arendu-podvalnogo-pomescheniya-pod-kvesty-ili-studii/
 ---
 
 # Как сдать подвал в аренду под квест или студию: полный гид для собственника в СПб

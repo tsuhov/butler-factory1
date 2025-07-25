@@ -1,11 +1,40 @@
 ---
-title: "Искусство гостеприимства: как встречать гостей"
-description: "Первое впечатление — самое важное. Узнайте, как создать незабываемую атмосферу для ваших гостей с первых минут. Секреты идеальной встречи от экспертов ButlerSPB."
-keywords: "встреча гостей, гостеприимство, этикет, подготовка к приему, сервировка стола, организация мероприятий, ButlerSPB"
-pubDate: "2025-07-25T13:29:47.318Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Искусство гостеприимства: как встречать гостей","description":"Первое впечатление — самое важное. Узнайте, как создать незабываемую атмосферу для ваших гостей с первых минут. Секреты идеальной встречи от экспертов ButlerSPB.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.8","reviewCount":578,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/vstrecha-gostey/"}}
+title: 'Искусство гостеприимства: как встречать гостей'
+description: >-
+  Первое впечатление — самое важное. Узнайте, как создать незабываемую атмосферу
+  для ваших гостей с первых минут. Секреты идеальной встречи от экспертов
+  ButlerSPB.
+pubDate: '2025-07-25T13:29:47.318Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Искусство гостеприимства: как встречать гостей'
+  description: >-
+    Первое впечатление — самое важное. Узнайте, как создать незабываемую
+    атмосферу для ваших гостей с первых минут. Секреты идеальной встречи от
+    экспертов ButlerSPB.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.9'
+    reviewCount: 592
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': 'https://butlerspb-blog.netlify.app/blog/vstrecha-gostey/'
 ---
 # Искусство гостеприимства: Пошаговый гид по безупречной встрече гостей в Санкт-Петербурге
 

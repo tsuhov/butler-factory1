@@ -1,11 +1,40 @@
 ---
-title: "Способы заработка на недвижимости от ButlerSPB"
-description: "Ваша недвижимость может приносить деньги! ButlerSPB делится идеями, как монетизировать жилье: от сдачи в аренду туристам до создания уникального пространства."
-keywords: "заработок на недвижимости, сдать квартиру, пассивный доход, краткосрочная аренда, управление недвижимостью, ButlerSPB"
-pubDate: "2025-07-25T14:30:49.605Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Способы заработка на недвижимости от ButlerSPB","description":"Ваша недвижимость может приносить деньги! ButlerSPB делится идеями, как монетизировать жилье: от сдачи в аренду туристам до создания уникального пространства.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":690,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/zarabotat-na-dome/"}}
+title: Способы заработка на недвижимости от ButlerSPB
+description: >-
+  Ваша недвижимость может приносить деньги! ButlerSPB делится идеями, как
+  монетизировать жилье: от сдачи в аренду туристам до создания уникального
+  пространства.
+pubDate: '2025-07-25T14:30:49.605Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: Способы заработка на недвижимости от ButlerSPB
+  description: >-
+    Ваша недвижимость может приносить деньги! ButlerSPB делится идеями, как
+    монетизировать жилье: от сдачи в аренду туристам до создания уникального
+    пространства.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.9'
+    reviewCount: 488
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': 'https://butlerspb-blog.netlify.app/blog/zarabotat-na-dome/'
 ---
 # Как заработать на своем доме: полное руководство по монетизации частной недвижимости
 

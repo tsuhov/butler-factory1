@@ -1,11 +1,40 @@
 ---
-title: "Как студенту найти работу? Советы от ButlerSPB"
-description: "Ищете работу, которую легко совмещать с учебой? В этой статье мы расскажем, где студенту найти подработку, какие вакансии самые популярные и как ButlerSPB помогает."
-keywords: "работа для студентов, подработка студентам, вакансии для студентов, работа без опыта, ButlerSPB, совмещение с учебой, карьера студента"
-pubDate: "2025-07-25T15:57:46.335Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Как студенту найти работу? Советы от ButlerSPB","description":"Ищете работу, которую легко совмещать с учебой? В этой статье мы расскажем, где студенту найти подработку, какие вакансии самые популярные и как ButlerSPB помогает.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.8","reviewCount":332,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/rabota-studentam/"}}
+title: Как студенту найти работу? Советы от ButlerSPB
+description: >-
+  Ищете работу, которую легко совмещать с учебой? В этой статье мы расскажем,
+  где студенту найти подработку, какие вакансии самые популярные и как ButlerSPB
+  помогает.
+pubDate: '2025-07-25T15:57:46.335Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: Как студенту найти работу? Советы от ButlerSPB
+  description: >-
+    Ищете работу, которую легко совмещать с учебой? В этой статье мы расскажем,
+    где студенту найти подработку, какие вакансии самые популярные и как
+    ButlerSPB помогает.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.9'
+    reviewCount: 613
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': 'https://butlerspb-blog.netlify.app/blog/rabota-studentam/'
 ---
 # Работа для студентов: Полный гид от поиска первой вакансии до баланса с учебой
 

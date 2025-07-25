@@ -1,11 +1,40 @@
 ---
-title: "Перевод помещения: инструкция от ButlerSPB"
-description: "Узнайте все о переводе помещения из жилого в нежилое и наоборот. Полное руководство по сбору документов, согласованию и регистрации от экспертов ButlerSPB."
-keywords: "перевод помещения, жилое в нежилое, смена назначения помещения, согласование, документы для перевода, ButlerSPB"
-pubDate: "2025-07-25T14:35:55.206Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Перевод помещения: инструкция от ButlerSPB","description":"Узнайте все о переводе помещения из жилого в нежилое и наоборот. Полное руководство по сбору документов, согласованию и регистрации от экспертов ButlerSPB.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":717,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/perevod-pomescheniya/"}}
+title: 'Перевод помещения: инструкция от ButlerSPB'
+description: >-
+  Узнайте все о переводе помещения из жилого в нежилое и наоборот. Полное
+  руководство по сбору документов, согласованию и регистрации от экспертов
+  ButlerSPB.
+pubDate: '2025-07-25T14:35:55.206Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Перевод помещения: инструкция от ButlerSPB'
+  description: >-
+    Узнайте все о переводе помещения из жилого в нежилое и наоборот. Полное
+    руководство по сбору документов, согласованию и регистрации от экспертов
+    ButlerSPB.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.9'
+    reviewCount: 464
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': 'https://butlerspb-blog.netlify.app/blog/perevod-pomescheniya/'
 ---
 # Перевод жилого помещения в нежилое в СПб: Полное руководство от А до Я
 

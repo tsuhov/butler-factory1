@@ -1,11 +1,40 @@
 ---
-title: "Ответственность как фундамент сервиса ButlerSPB"
-description: "Ответственный подход к каждому клиенту и задаче — залог безупречного сервиса ButlerSPB. Узнайте, как мы строим работу на принципах надежности и проактивности."
-keywords: "ответственность, надежность, доверие, качество услуг, корпоративная культура, ButlerSPB, профессионализм"
-pubDate: "2025-07-25T15:37:17.227Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Ответственность как фундамент сервиса ButlerSPB","description":"Ответственный подход к каждому клиенту и задаче — залог безупречного сервиса ButlerSPB. Узнайте, как мы строим работу на принципах надежности и проактивности.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.8","reviewCount":350,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/otvetstvennost/"}}
+title: Ответственность как фундамент сервиса ButlerSPB
+description: >-
+  Ответственный подход к каждому клиенту и задаче — залог безупречного сервиса
+  ButlerSPB. Узнайте, как мы строим работу на принципах надежности и
+  проактивности.
+pubDate: '2025-07-25T15:37:17.227Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: Ответственность как фундамент сервиса ButlerSPB
+  description: >-
+    Ответственный подход к каждому клиенту и задаче — залог безупречного сервиса
+    ButlerSPB. Узнайте, как мы строим работу на принципах надежности и
+    проактивности.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.8'
+    reviewCount: 667
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': 'https://butlerspb-blog.netlify.app/blog/otvetstvennost/'
 ---
 # Ответственность: высшая форма личной свободы
 

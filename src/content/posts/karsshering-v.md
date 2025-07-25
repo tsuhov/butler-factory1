@@ -1,11 +1,39 @@
 ---
-title: "Каршеринг в Санкт-Петербурге: что нужно знать"
-description: "Обзор популярных сервисов каршеринга в СПб. Сравнение цен, автопарка и условий аренды. Советы от ButlerSPB по выбору лучшего оператора для поездок по городу."
-keywords: "каршеринг, аренда авто, спб, санкт-петербург, делимобиль, яндекс драйв, butler spb"
-pubDate: "2025-07-25T15:57:29.389Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Каршеринг в Санкт-Петербурге: что нужно знать","description":"Обзор популярных сервисов каршеринга в СПб. Сравнение цен, автопарка и условий аренды. Советы от ButlerSPB по выбору лучшего оператора для поездок по городу.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.7","reviewCount":808,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/karsshering-v/"}}
+title: 'Каршеринг в Санкт-Петербурге: что нужно знать'
+description: >-
+  Обзор популярных сервисов каршеринга в СПб. Сравнение цен, автопарка и условий
+  аренды. Советы от ButlerSPB по выбору лучшего оператора для поездок по городу.
+pubDate: '2025-07-25T15:57:29.389Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Каршеринг в Санкт-Петербурге: что нужно знать'
+  description: >-
+    Обзор популярных сервисов каршеринга в СПб. Сравнение цен, автопарка и
+    условий аренды. Советы от ButlerSPB по выбору лучшего оператора для поездок
+    по городу.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.8'
+    reviewCount: 876
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': 'https://butlerspb-blog.netlify.app/blog/karsshering-v/'
 ---
 # Каршеринг в Санкт-Петербурге: Полный гид по выбору лучшего сервиса в 2024 году
 

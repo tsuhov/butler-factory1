@@ -1,10 +1,47 @@
 ---
-title: "Как узнать кадастровую стоимость земельного участка в Ленобласти"
-description: "Планируете покупку, продажу или хотите рассчитать налог на землю в Ленинградской области? Первое, что вам понадобится — это кадастровая стоимость. В нашей новой статье от ButlerSPB мы подробно разбираем все доступные способы узнать кадастровую стоимость вашего земельного участка: от онлайн-сервисов Росреестра до заказа выписки из ЕГРН. Пошаговые инструкции и полезные советы для собственников."
-pubDate: "2025-07-23T11:45:13.863Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Как узнать кадастровую стоимость земельного участка в Ленобласти","description":"Планируете покупку, продажу или хотите рассчитать налог на землю в Ленинградской области? Первое, что вам понадобится — это кадастровая стоимость. В нашей новой статье от ButlerSPB мы подробно разбираем все доступные способы узнать кадастровую стоимость вашего земельного участка: от онлайн-сервисов Росреестра до заказа выписки из ЕГРН. Пошаговые инструкции и полезные советы для собственников.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.8","reviewCount":818,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/kak-uznat-kadastrovuyu-stoimost-zemelnogo-uchastka-v-lenoblasti/"}}
+title: Как узнать кадастровую стоимость земельного участка в Ленобласти
+description: >-
+  Планируете покупку, продажу или хотите рассчитать налог на землю в
+  Ленинградской области? Первое, что вам понадобится — это кадастровая
+  стоимость. В нашей новой статье от ButlerSPB мы подробно разбираем все
+  доступные способы узнать кадастровую стоимость вашего земельного участка: от
+  онлайн-сервисов Росреестра до заказа выписки из ЕГРН. Пошаговые инструкции и
+  полезные советы для собственников.
+pubDate: '2025-07-23T11:45:13.863Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: Как узнать кадастровую стоимость земельного участка в Ленобласти
+  description: >-
+    Планируете покупку, продажу или хотите рассчитать налог на землю в
+    Ленинградской области? Первое, что вам понадобится — это кадастровая
+    стоимость. В нашей новой статье от ButlerSPB мы подробно разбираем все
+    доступные способы узнать кадастровую стоимость вашего земельного участка: от
+    онлайн-сервисов Росреестра до заказа выписки из ЕГРН. Пошаговые инструкции и
+    полезные советы для собственников.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.8'
+    reviewCount: 826
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/kak-uznat-kadastrovuyu-stoimost-zemelnogo-uchastka-v-lenoblasti/
 ---
 
 # Как узнать кадастровую стоимость земельного участка в Ленинградской области: полное руководство

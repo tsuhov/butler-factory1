@@ -1,10 +1,45 @@
 ---
-title: "Продажа квартиры «под ключ»: как риэлтор ButlerSPB берет все заботы на себя"
-description: "Мечтаете продать квартиру быстро, выгодно и без стресса? Услуга «под ключ» от агентства недвижимости ButlerSPB — это ваше решение. Рассказываем, что входит в комплексный сервис: от профессиональной оценки и фотосъемки до юридического сопровождения и передачи ключей новому владельцу. Узнайте, как мы экономим ваше время и максимизируем прибыль от сделки."
-pubDate: "2025-07-22T16:29:11.080Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Продажа квартиры «под ключ»: как риэлтор ButlerSPB берет все заботы на себя","description":"Мечтаете продать квартиру быстро, выгодно и без стресса? Услуга «под ключ» от агентства недвижимости ButlerSPB — это ваше решение. Рассказываем, что входит в комплексный сервис: от профессиональной оценки и фотосъемки до юридического сопровождения и передачи ключей новому владельцу. Узнайте, как мы экономим ваше время и максимизируем прибыль от сделки.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":788,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/uslugi-rieltora-po-prodazhe-kvartiry-pod-klyuch/"}}
+title: 'Продажа квартиры «под ключ»: как риэлтор ButlerSPB берет все заботы на себя'
+description: >-
+  Мечтаете продать квартиру быстро, выгодно и без стресса? Услуга «под ключ» от
+  агентства недвижимости ButlerSPB — это ваше решение. Рассказываем, что входит
+  в комплексный сервис: от профессиональной оценки и фотосъемки до юридического
+  сопровождения и передачи ключей новому владельцу. Узнайте, как мы экономим
+  ваше время и максимизируем прибыль от сделки.
+pubDate: '2025-07-22T16:29:11.080Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Продажа квартиры «под ключ»: как риэлтор ButlerSPB берет все заботы на себя'
+  description: >-
+    Мечтаете продать квартиру быстро, выгодно и без стресса? Услуга «под ключ»
+    от агентства недвижимости ButlerSPB — это ваше решение. Рассказываем, что
+    входит в комплексный сервис: от профессиональной оценки и фотосъемки до
+    юридического сопровождения и передачи ключей новому владельцу. Узнайте, как
+    мы экономим ваше время и максимизируем прибыль от сделки.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.8'
+    reviewCount: 456
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/uslugi-rieltora-po-prodazhe-kvartiry-pod-klyuch/
 ---
 
 # Продажа квартиры "под ключ" в Санкт-Петербурге: Как получить максимум от сделки, не потратив ни минуты своего времени

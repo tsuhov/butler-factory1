@@ -1,10 +1,45 @@
 ---
-title: "Как найти риэлтора по коммерческой недвижимости: пошаговый гайд от ButlerSPB"
-description: "Поиск специалиста для сделок с коммерческими объектами — задача со звездочкой. От его компетенций зависит успех вашего бизнеса. В нашей новой статье мы расскажем, где искать профильного риэлтора, как проверить его репутацию, какие вопросы задать на первой встрече и на какие 'красные флаги' обратить внимание, чтобы защитить свои инвестиции."
-pubDate: "2025-07-23T12:20:28.105Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Как найти риэлтора по коммерческой недвижимости: пошаговый гайд от ButlerSPB","description":"Поиск специалиста для сделок с коммерческими объектами — задача со звездочкой. От его компетенций зависит успех вашего бизнеса. В нашей новой статье мы расскажем, где искать профильного риэлтора, как проверить его репутацию, какие вопросы задать на первой встрече и на какие 'красные флаги' обратить внимание, чтобы защитить свои инвестиции.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.7","reviewCount":405,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/kak-nayti-rieltora-specializiruyuschegosya-na-kommercheskoy-nedvizhimosti/"}}
+title: 'Как найти риэлтора по коммерческой недвижимости: пошаговый гайд от ButlerSPB'
+description: >-
+  Поиск специалиста для сделок с коммерческими объектами — задача со звездочкой.
+  От его компетенций зависит успех вашего бизнеса. В нашей новой статье мы
+  расскажем, где искать профильного риэлтора, как проверить его репутацию, какие
+  вопросы задать на первой встрече и на какие 'красные флаги' обратить внимание,
+  чтобы защитить свои инвестиции.
+pubDate: '2025-07-23T12:20:28.105Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Как найти риэлтора по коммерческой недвижимости: пошаговый гайд от ButlerSPB'
+  description: >-
+    Поиск специалиста для сделок с коммерческими объектами — задача со
+    звездочкой. От его компетенций зависит успех вашего бизнеса. В нашей новой
+    статье мы расскажем, где искать профильного риэлтора, как проверить его
+    репутацию, какие вопросы задать на первой встрече и на какие 'красные флаги'
+    обратить внимание, чтобы защитить свои инвестиции.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.9'
+    reviewCount: 738
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/kak-nayti-rieltora-specializiruyuschegosya-na-kommercheskoy-nedvizhimosti/
 ---
 
 # Как найти риэлтора по коммерческой недвижимости: полное экспертное руководство

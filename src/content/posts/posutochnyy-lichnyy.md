@@ -1,11 +1,40 @@
 ---
-title: "Посуточный личный: гид по аренде от ButlerSPB"
-description: "Планируете поездку в Петербург? Наша статья поможет разобраться во всех тонкостях посуточной аренды. Делимся личным опытом и советами для вашего комфорта."
-keywords: "посуточная аренда, краткосрочная аренда, ButlerSPB, аренда квартир спб, жилье посуточно, апартаменты в петербурге, снять жилье"
-pubDate: "2025-07-24T13:49:52.577Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Посуточный личный: гид по аренде от ButlerSPB","description":"Планируете поездку в Петербург? Наша статья поможет разобраться во всех тонкостях посуточной аренды. Делимся личным опытом и советами для вашего комфорта.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":497,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/posutochnyy-lichnyy/"}}
+title: 'Посуточный личный: гид по аренде от ButlerSPB'
+description: >-
+  Планируете поездку в Петербург? Наша статья поможет разобраться во всех
+  тонкостях посуточной аренды. Делимся личным опытом и советами для вашего
+  комфорта.
+pubDate: '2025-07-24T13:49:52.577Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Посуточный личный: гид по аренде от ButlerSPB'
+  description: >-
+    Планируете поездку в Петербург? Наша статья поможет разобраться во всех
+    тонкостях посуточной аренды. Делимся личным опытом и советами для вашего
+    комфорта.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.8'
+    reviewCount: 499
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': 'https://butlerspb-blog.netlify.app/blog/posutochnyy-lichnyy/'
 ---
 # Ваш личный помощник на день в Петербурге: Как успевать всё и получать от этого удовольствие
 

@@ -1,11 +1,40 @@
 ---
-title: "ButlerSPB: Новая концепция премиум-сервиса"
-description: "Мы в ButlerSPB пересмотрели подход к оказанию услуг. Наша новая концепция объединяет технологии, персонализацию и эксклюзивность, чтобы превзойти ваши ожидания."
-keywords: "новая концепция, ButlerSPB, премиум-сервис, инновации в услугах, персональный подход, консьерж-сервис, СПб"
-pubDate: "2025-07-24T13:47:04.635Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"ButlerSPB: Новая концепция премиум-сервиса","description":"Мы в ButlerSPB пересмотрели подход к оказанию услуг. Наша новая концепция объединяет технологии, персонализацию и эксклюзивность, чтобы превзойти ваши ожидания.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.7","reviewCount":584,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/novaya-koncepciya/"}}
+title: 'ButlerSPB: Новая концепция премиум-сервиса'
+description: >-
+  Мы в ButlerSPB пересмотрели подход к оказанию услуг. Наша новая концепция
+  объединяет технологии, персонализацию и эксклюзивность, чтобы превзойти ваши
+  ожидания.
+pubDate: '2025-07-24T13:47:04.635Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'ButlerSPB: Новая концепция премиум-сервиса'
+  description: >-
+    Мы в ButlerSPB пересмотрели подход к оказанию услуг. Наша новая концепция
+    объединяет технологии, персонализацию и эксклюзивность, чтобы превзойти ваши
+    ожидания.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.9'
+    reviewCount: 593
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': 'https://butlerspb-blog.netlify.app/blog/novaya-koncepciya/'
 ---
 # Новая концепция ButlerSPB: От выполнения задач к проактивному управлению вашей жизнью
 

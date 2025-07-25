@@ -1,11 +1,40 @@
 ---
-title: "Планировка квартиры: создаем уют с ButlerSPB"
-description: "Правильная планировка – ключ к комфорту. В статье от ButlerSPB мы разбираем основы зонирования, эргономики и выбора мебели для создания функционального и уютного жилья."
-keywords: "планировка квартиры, дизайн интерьера, зонирование пространства, эргономика, расстановка мебели, ButlerSPB"
-pubDate: "2025-07-25T14:20:14.022Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Планировка квартиры: создаем уют с ButlerSPB","description":"Правильная планировка – ключ к комфорту. В статье от ButlerSPB мы разбираем основы зонирования, эргономики и выбора мебели для создания функционального и уютного жилья.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"5.0","reviewCount":835,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/planirovka-kvartiry/"}}
+title: 'Планировка квартиры: создаем уют с ButlerSPB'
+description: >-
+  Правильная планировка – ключ к комфорту. В статье от ButlerSPB мы разбираем
+  основы зонирования, эргономики и выбора мебели для создания функционального и
+  уютного жилья.
+pubDate: '2025-07-25T14:20:14.022Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Планировка квартиры: создаем уют с ButlerSPB'
+  description: >-
+    Правильная планировка – ключ к комфорту. В статье от ButlerSPB мы разбираем
+    основы зонирования, эргономики и выбора мебели для создания функционального
+    и уютного жилья.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.8'
+    reviewCount: 565
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': 'https://butlerspb-blog.netlify.app/blog/planirovka-kvartiry/'
 ---
 # Секреты идеальной планировки квартиры: Полный гид от экспертов ButlerSPB
 

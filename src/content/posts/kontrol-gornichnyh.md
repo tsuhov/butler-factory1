@@ -1,11 +1,39 @@
 ---
-title: "Как эффективно контролировать работу горничной"
-description: "Эффективный контроль горничных – залог безупречного сервиса. ButlerSPB делится секретами: от составления чек-листов до внедрения программ для управления."
-keywords: "контроль горничных, управление персоналом, чек-лист для горничной, стандарты уборки, качество уборки, ButlerSPB"
-pubDate: "2025-07-25T16:16:48.050Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Как эффективно контролировать работу горничной","description":"Эффективный контроль горничных – залог безупречного сервиса. ButlerSPB делится секретами: от составления чек-листов до внедрения программ для управления.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.7","reviewCount":655,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/kontrol-gornichnyh/"}}
+title: Как эффективно контролировать работу горничной
+description: >-
+  Эффективный контроль горничных – залог безупречного сервиса. ButlerSPB делится
+  секретами: от составления чек-листов до внедрения программ для управления.
+pubDate: '2025-07-25T16:16:48.050Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: Как эффективно контролировать работу горничной
+  description: >-
+    Эффективный контроль горничных – залог безупречного сервиса. ButlerSPB
+    делится секретами: от составления чек-листов до внедрения программ для
+    управления.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '5.0'
+    reviewCount: 381
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': 'https://butlerspb-blog.netlify.app/blog/kontrol-gornichnyh/'
 ---
 # Эффективный контроль горничных: от чек-листов до полной автоматизации
 

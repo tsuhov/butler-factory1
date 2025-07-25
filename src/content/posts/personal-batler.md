@@ -1,11 +1,40 @@
 ---
-title: "Персонал батлер: элитный сервис от ButlerSPB"
-description: "Современный батлер – это не просто дворецкий, а персональный ассистент и управляющий домом. Узнайте, какие задачи он решает и почему его услуги востребованы."
-keywords: "батлер, домашний персонал, услуги батлера, найти батлера, дворецкий, ButlerSPB, управляющий домом"
-pubDate: "2025-07-24T22:01:25.509Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Персонал батлер: элитный сервис от ButlerSPB","description":"Современный батлер – это не просто дворецкий, а персональный ассистент и управляющий домом. Узнайте, какие задачи он решает и почему его услуги востребованы.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.8","reviewCount":392,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/personal-batler/"}}
+title: 'Персонал батлер: элитный сервис от ButlerSPB'
+description: >-
+  Современный батлер – это не просто дворецкий, а персональный ассистент и
+  управляющий домом. Узнайте, какие задачи он решает и почему его услуги
+  востребованы.
+pubDate: '2025-07-24T22:01:25.509Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Персонал батлер: элитный сервис от ButlerSPB'
+  description: >-
+    Современный батлер – это не просто дворецкий, а персональный ассистент и
+    управляющий домом. Узнайте, какие задачи он решает и почему его услуги
+    востребованы.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '5.0'
+    reviewCount: 569
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': 'https://butlerspb-blog.netlify.app/blog/personal-batler/'
 ---
 # Батлер: Больше, чем просто дворецкий. Как найти идеального управляющего для вашего дома в Санкт-Петербурге
 

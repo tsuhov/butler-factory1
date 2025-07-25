@@ -1,10 +1,45 @@
 ---
-title: "Стоимость услуг риэлтора в СПб при продаже и покупке недвижимости"
-description: "Планируете сделку с недвижимостью в Санкт-Петербурге? В новой статье блога ButlerSPB подробно разбираем, из чего складывается стоимость услуг риэлтора, какие средние комиссии на рынке при продаже и покупке квартир, и что входит в эту цену. Узнайте, как формируется вознаграждение агента и на что обратить внимание при заключении договора."
-pubDate: "2025-07-22T16:26:29.482Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Стоимость услуг риэлтора в СПб при продаже и покупке недвижимости","description":"Планируете сделку с недвижимостью в Санкт-Петербурге? В новой статье блога ButlerSPB подробно разбираем, из чего складывается стоимость услуг риэлтора, какие средние комиссии на рынке при продаже и покупке квартир, и что входит в эту цену. Узнайте, как формируется вознаграждение агента и на что обратить внимание при заключении договора.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":465,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/stoimost-uslug-rieltora-v-spb-pri-prodazhe-i-pokupke/"}}
+title: Стоимость услуг риэлтора в СПб при продаже и покупке недвижимости
+description: >-
+  Планируете сделку с недвижимостью в Санкт-Петербурге? В новой статье блога
+  ButlerSPB подробно разбираем, из чего складывается стоимость услуг риэлтора,
+  какие средние комиссии на рынке при продаже и покупке квартир, и что входит в
+  эту цену. Узнайте, как формируется вознаграждение агента и на что обратить
+  внимание при заключении договора.
+pubDate: '2025-07-22T16:26:29.482Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: Стоимость услуг риэлтора в СПб при продаже и покупке недвижимости
+  description: >-
+    Планируете сделку с недвижимостью в Санкт-Петербурге? В новой статье блога
+    ButlerSPB подробно разбираем, из чего складывается стоимость услуг риэлтора,
+    какие средние комиссии на рынке при продаже и покупке квартир, и что входит
+    в эту цену. Узнайте, как формируется вознаграждение агента и на что обратить
+    внимание при заключении договора.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.8'
+    reviewCount: 660
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/stoimost-uslug-rieltora-v-spb-pri-prodazhe-i-pokupke/
 ---
 
 # Сколько стоят услуги риэлтора в Санкт-Петербурге: полный гид по комиссиям при покупке и продаже от ButlerSPB

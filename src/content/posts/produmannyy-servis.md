@@ -1,11 +1,40 @@
 ---
-title: "ButlerSPB: Сервис, продуманный до мелочей"
-description: "В ButlerSPB мы верим, что настоящий сервис — это искусство предугадывать. Наша цель — не просто оправдать, а превзойти ваши ожидания, создавая уникальный опыт."
-keywords: "продуманный сервис, ButlerSPB, клиентский опыт, качество обслуживания, лояльность клиентов, внимание к деталям, персонализация"
-pubDate: "2025-07-24T22:01:13.111Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"ButlerSPB: Сервис, продуманный до мелочей","description":"В ButlerSPB мы верим, что настоящий сервис — это искусство предугадывать. Наша цель — не просто оправдать, а превзойти ваши ожидания, создавая уникальный опыт.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":656,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/produmannyy-servis/"}}
+title: 'ButlerSPB: Сервис, продуманный до мелочей'
+description: >-
+  В ButlerSPB мы верим, что настоящий сервис — это искусство предугадывать. Наша
+  цель — не просто оправдать, а превзойти ваши ожидания, создавая уникальный
+  опыт.
+pubDate: '2025-07-24T22:01:13.111Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'ButlerSPB: Сервис, продуманный до мелочей'
+  description: >-
+    В ButlerSPB мы верим, что настоящий сервис — это искусство предугадывать.
+    Наша цель — не просто оправдать, а превзойти ваши ожидания, создавая
+    уникальный опыт.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.9'
+    reviewCount: 555
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': 'https://butlerspb-blog.netlify.app/blog/produmannyy-servis/'
 ---
 # Продуманный сервис: Не роскошь, а главный актив вашего бизнеса и жизни
 

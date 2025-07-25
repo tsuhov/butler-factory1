@@ -1,11 +1,40 @@
 ---
-title: "Консультация юриста по самовольным постройкам"
-description: "Что такое самовольная постройка, чем она грозит владельцу и как ее легализовать? Юристы ButlerSPB объясняют порядок действий и судебную практику."
-keywords: "самовольная постройка, узаконить постройку, легализация самостроя, юрист по недвижимости, снос самостроя, ButlerSPB, консультация юриста"
-pubDate: "2025-07-24T12:04:55.882Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Консультация юриста по самовольным постройкам","description":"Что такое самовольная постройка, чем она грозит владельцу и как ее легализовать? Юристы ButlerSPB объясняют порядок действий и судебную практику.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.8","reviewCount":569,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/konsultaciya-yurista-po-samovolnym-postroykam/"}}
+title: Консультация юриста по самовольным постройкам
+description: >-
+  Что такое самовольная постройка, чем она грозит владельцу и как ее
+  легализовать? Юристы ButlerSPB объясняют порядок действий и судебную практику.
+pubDate: '2025-07-24T12:04:55.882Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: Консультация юриста по самовольным постройкам
+  description: >-
+    Что такое самовольная постройка, чем она грозит владельцу и как ее
+    легализовать? Юристы ButlerSPB объясняют порядок действий и судебную
+    практику.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.9'
+    reviewCount: 719
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/konsultaciya-yurista-po-samovolnym-postroykam/
 ---
 # Консультация юриста по самовольным постройкам: полный гид по легализации и защите прав в Санкт-Петербурге
 

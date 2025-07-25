@@ -1,10 +1,47 @@
 ---
-title: "Финансы в доверительном управлении: как ButlerSPB обеспечивает прозрачность отчетности и платежей"
-description: "Раскрываем финансовую кухню доверительного управления в ButlerSPB. В статье подробно объясняем, как мы ведем отчетность для собственников, организуем своевременную оплату счетов и обеспечиваем полную прозрачность всех денежных потоков, связанных с вашей недвижимостью."
-pubDate: "2025-07-23T11:52:02.602Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Финансы в доверительном управлении: как ButlerSPB обеспечивает прозрачность отчетности и платежей","description":"Раскрываем финансовую кухню доверительного управления в ButlerSPB. В статье подробно объясняем, как мы ведем отчетность для собственников, организуем своевременную оплату счетов и обеспечиваем полную прозрачность всех денежных потоков, связанных с вашей недвижимостью.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.8","reviewCount":823,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/kak-rabotaet-upravlenie-finansami-v-du-otchetnost-i-platezhi/"}}
+title: >-
+  Финансы в доверительном управлении: как ButlerSPB обеспечивает прозрачность
+  отчетности и платежей
+description: >-
+  Раскрываем финансовую кухню доверительного управления в ButlerSPB. В статье
+  подробно объясняем, как мы ведем отчетность для собственников, организуем
+  своевременную оплату счетов и обеспечиваем полную прозрачность всех денежных
+  потоков, связанных с вашей недвижимостью.
+pubDate: '2025-07-23T11:52:02.602Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: >-
+    Финансы в доверительном управлении: как ButlerSPB обеспечивает прозрачность
+    отчетности и платежей
+  description: >-
+    Раскрываем финансовую кухню доверительного управления в ButlerSPB. В статье
+    подробно объясняем, как мы ведем отчетность для собственников, организуем
+    своевременную оплату счетов и обеспечиваем полную прозрачность всех денежных
+    потоков, связанных с вашей недвижимостью.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.9'
+    reviewCount: 510
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/kak-rabotaet-upravlenie-finansami-v-du-otchetnost-i-platezhi/
 ---
 
 # Как работает управление финансами в ДУ: отчетность, платежи и способы контроля для собственника

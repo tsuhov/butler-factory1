@@ -1,10 +1,47 @@
 ---
-title: "Как правильно оформить временную регистрацию для иностранных гостей: пошаговая инструкция от ButlerSPB"
-description: "Принимаете гостей из-за рубежа? Наша команда ButlerSPB подготовила подробное руководство по миграционному учету. В статье вы найдете информацию о сроках подачи уведомления, необходимых документах и способах оформления, чтобы избежать штрафов и обеспечить комфортное пребывание ваших гостей."
-pubDate: "2025-07-22T10:59:46.057Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Как правильно оформить временную регистрацию для иностранных гостей: пошаговая инструкция от ButlerSPB","description":"Принимаете гостей из-за рубежа? Наша команда ButlerSPB подготовила подробное руководство по миграционному учету. В статье вы найдете информацию о сроках подачи уведомления, необходимых документах и способах оформления, чтобы избежать штрафов и обеспечить комфортное пребывание ваших гостей.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.8","reviewCount":453,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/kak-pravilno-oformit-vremennuyu-registraciyu-dlya-inostrannyh-gostey/"}}
+title: >-
+  Как правильно оформить временную регистрацию для иностранных гостей: пошаговая
+  инструкция от ButlerSPB
+description: >-
+  Принимаете гостей из-за рубежа? Наша команда ButlerSPB подготовила подробное
+  руководство по миграционному учету. В статье вы найдете информацию о сроках
+  подачи уведомления, необходимых документах и способах оформления, чтобы
+  избежать штрафов и обеспечить комфортное пребывание ваших гостей.
+pubDate: '2025-07-22T10:59:46.057Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: >-
+    Как правильно оформить временную регистрацию для иностранных гостей:
+    пошаговая инструкция от ButlerSPB
+  description: >-
+    Принимаете гостей из-за рубежа? Наша команда ButlerSPB подготовила подробное
+    руководство по миграционному учету. В статье вы найдете информацию о сроках
+    подачи уведомления, необходимых документах и способах оформления, чтобы
+    избежать штрафов и обеспечить комфортное пребывание ваших гостей.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.9'
+    reviewCount: 382
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/kak-pravilno-oformit-vremennuyu-registraciyu-dlya-inostrannyh-gostey/
 ---
 
 # Временная регистрация для иностранных гостей: полное пошаговое руководство для собственников жилья

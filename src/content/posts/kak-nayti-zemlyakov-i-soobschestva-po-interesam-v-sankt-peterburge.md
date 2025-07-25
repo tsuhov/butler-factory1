@@ -1,10 +1,47 @@
 ---
-title: "Как найти земляков и сообщества по интересам в Санкт-Петербурге"
-description: "Переезд в такой мегаполис, как Санкт-Петербург, может быть непростым. Но найти друзей и единомышленников здесь проще, чем кажется! В новой статье блога ButlerSPB мы собрали подробный гид: от онлайн-платформ и групп в социальных сетях до оффлайн-мероприятий, культурных центров и клубов по интересам. Узнайте, где встретить земляков и как присоединиться к сообществу, которое сделает вашу жизнь в Петербурге ярче и насыщеннее."
-pubDate: "2025-07-22T11:44:35.870Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Как найти земляков и сообщества по интересам в Санкт-Петербурге","description":"Переезд в такой мегаполис, как Санкт-Петербург, может быть непростым. Но найти друзей и единомышленников здесь проще, чем кажется! В новой статье блога ButlerSPB мы собрали подробный гид: от онлайн-платформ и групп в социальных сетях до оффлайн-мероприятий, культурных центров и клубов по интересам. Узнайте, где встретить земляков и как присоединиться к сообществу, которое сделает вашу жизнь в Петербурге ярче и насыщеннее.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":672,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/kak-nayti-zemlyakov-i-soobschestva-po-interesam-v-sankt-peterburge/"}}
+title: Как найти земляков и сообщества по интересам в Санкт-Петербурге
+description: >-
+  Переезд в такой мегаполис, как Санкт-Петербург, может быть непростым. Но найти
+  друзей и единомышленников здесь проще, чем кажется! В новой статье блога
+  ButlerSPB мы собрали подробный гид: от онлайн-платформ и групп в социальных
+  сетях до оффлайн-мероприятий, культурных центров и клубов по интересам.
+  Узнайте, где встретить земляков и как присоединиться к сообществу, которое
+  сделает вашу жизнь в Петербурге ярче и насыщеннее.
+pubDate: '2025-07-22T11:44:35.870Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: Как найти земляков и сообщества по интересам в Санкт-Петербурге
+  description: >-
+    Переезд в такой мегаполис, как Санкт-Петербург, может быть непростым. Но
+    найти друзей и единомышленников здесь проще, чем кажется! В новой статье
+    блога ButlerSPB мы собрали подробный гид: от онлайн-платформ и групп в
+    социальных сетях до оффлайн-мероприятий, культурных центров и клубов по
+    интересам. Узнайте, где встретить земляков и как присоединиться к
+    сообществу, которое сделает вашу жизнь в Петербурге ярче и насыщеннее.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '5.0'
+    reviewCount: 574
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/kak-nayti-zemlyakov-i-soobschestva-po-interesam-v-sankt-peterburge/
 ---
 
 # Как найти друзей в СПб: Полный гид по поиску земляков и сообществ по интересам

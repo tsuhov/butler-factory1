@@ -1,10 +1,49 @@
 ---
-title: "Как кадастровая стоимость влияет на налог на имущество: полное руководство от ButlerSPB"
-description: "Кадастровая стоимость является основой для расчета налога на недвижимость. В нашей новой статье мы подробно разбираем, как формируется эта величина, по какой формуле рассчитывается налог для физических лиц и организаций, и что делать, если вы считаете оценку завышенной. Узнайте о процедуре оспаривания кадастровой стоимости и возможностях снижения налоговой нагрузки."
-pubDate: "2025-07-23T15:38:35.135Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Как кадастровая стоимость влияет на налог на имущество: полное руководство от ButlerSPB","description":"Кадастровая стоимость является основой для расчета налога на недвижимость. В нашей новой статье мы подробно разбираем, как формируется эта величина, по какой формуле рассчитывается налог для физических лиц и организаций, и что делать, если вы считаете оценку завышенной. Узнайте о процедуре оспаривания кадастровой стоимости и возможностях снижения налоговой нагрузки.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":860,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/vliyanie-kadastrovoy-stoimosti-na-raschet-naloga-na-imuschestvo/"}}
+title: >-
+  Как кадастровая стоимость влияет на налог на имущество: полное руководство от
+  ButlerSPB
+description: >-
+  Кадастровая стоимость является основой для расчета налога на недвижимость. В
+  нашей новой статье мы подробно разбираем, как формируется эта величина, по
+  какой формуле рассчитывается налог для физических лиц и организаций, и что
+  делать, если вы считаете оценку завышенной. Узнайте о процедуре оспаривания
+  кадастровой стоимости и возможностях снижения налоговой нагрузки.
+pubDate: '2025-07-23T15:38:35.135Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: >-
+    Как кадастровая стоимость влияет на налог на имущество: полное руководство
+    от ButlerSPB
+  description: >-
+    Кадастровая стоимость является основой для расчета налога на недвижимость. В
+    нашей новой статье мы подробно разбираем, как формируется эта величина, по
+    какой формуле рассчитывается налог для физических лиц и организаций, и что
+    делать, если вы считаете оценку завышенной. Узнайте о процедуре оспаривания
+    кадастровой стоимости и возможностях снижения налоговой нагрузки.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.9'
+    reviewCount: 891
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/vliyanie-kadastrovoy-stoimosti-na-raschet-naloga-na-imuschestvo/
 ---
 
 # Как кадастровая стоимость определяет ваш налог на имущество: Полное руководство для владельцев недвижимости

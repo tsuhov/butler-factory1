@@ -1,11 +1,40 @@
 ---
-title: "Апартаменты ButlerSPB: ваш комфорт посуточно"
-description: "Откройте для себя апартаменты ButlerSPB – идеальный выбор для посуточной аренды в Петербурге. Мы предлагаем не просто жилье, а высокий уровень сервиса и комфорта."
-keywords: "батлер апартаменты, посуточная аренда спб, апартаменты с сервисом, снять квартиру посуточно, butlerspb, элитные апартаменты"
-pubDate: "2025-07-24T13:06:34.913Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Апартаменты ButlerSPB: ваш комфорт посуточно","description":"Откройте для себя апартаменты ButlerSPB – идеальный выбор для посуточной аренды в Петербурге. Мы предлагаем не просто жилье, а высокий уровень сервиса и комфорта.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.8","reviewCount":665,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/batler-apartamenty-posutochno/"}}
+title: 'Апартаменты ButlerSPB: ваш комфорт посуточно'
+description: >-
+  Откройте для себя апартаменты ButlerSPB – идеальный выбор для посуточной
+  аренды в Петербурге. Мы предлагаем не просто жилье, а высокий уровень сервиса
+  и комфорта.
+pubDate: '2025-07-24T13:06:34.913Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Апартаменты ButlerSPB: ваш комфорт посуточно'
+  description: >-
+    Откройте для себя апартаменты ButlerSPB – идеальный выбор для посуточной
+    аренды в Петербурге. Мы предлагаем не просто жилье, а высокий уровень
+    сервиса и комфорта.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.8'
+    reviewCount: 640
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': 'https://butlerspb-blog.netlify.app/blog/batler-apartamenty-posutochno/'
 ---
 # Батлер-апартаменты посуточно: что это, кому подходят и почему это лучший выбор для проживания в Петербурге?
 

@@ -1,11 +1,40 @@
 ---
-title: "Правила проживания в апартаментах ButlerSPB"
-description: "Для комфорта и безопасности всех наших гостей мы просим соблюдать простые правила. Узнайте о времени заезда/выезда, политике курения и других важных аспектах."
-keywords: "правила проживания, правила для гостей, ButlerSPB, аренда апартаментов, заезд и выезд, проживание в спб"
-pubDate: "2025-07-25T15:47:02.927Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Правила проживания в апартаментах ButlerSPB","description":"Для комфорта и безопасности всех наших гостей мы просим соблюдать простые правила. Узнайте о времени заезда/выезда, политике курения и других важных аспектах.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"5.0","reviewCount":467,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/pravila-prozhivaniya/"}}
+title: Правила проживания в апартаментах ButlerSPB
+description: >-
+  Для комфорта и безопасности всех наших гостей мы просим соблюдать простые
+  правила. Узнайте о времени заезда/выезда, политике курения и других важных
+  аспектах.
+pubDate: '2025-07-25T15:47:02.927Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: Правила проживания в апартаментах ButlerSPB
+  description: >-
+    Для комфорта и безопасности всех наших гостей мы просим соблюдать простые
+    правила. Узнайте о времени заезда/выезда, политике курения и других важных
+    аспектах.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.9'
+    reviewCount: 701
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': 'https://butlerspb-blog.netlify.app/blog/pravila-prozhivaniya/'
 ---
 # Правила проживания в апартаментах ButlerSPB: Забота о вашем комфорте и спокойствии
 

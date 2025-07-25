@@ -1,10 +1,45 @@
 ---
-title: "Программа лояльности для тех, кто возвращается: какие бонусы предложить"
-description: "Постоянные клиенты — золотой актив любого бизнеса. В новой статье блога ButlerSPB разбираем, как создать программу лояльности, которая будет не только удерживать, но и восхищать. Мы поделимся идеями бонусов — от классических скидок до эксклюзивных предложений, — которые заставят клиентов возвращаться к вам снова и снова."
-pubDate: "2025-07-22T11:09:58.164Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Программа лояльности для тех, кто возвращается: какие бонусы предложить","description":"Постоянные клиенты — золотой актив любого бизнеса. В новой статье блога ButlerSPB разбираем, как создать программу лояльности, которая будет не только удерживать, но и восхищать. Мы поделимся идеями бонусов — от классических скидок до эксклюзивных предложений, — которые заставят клиентов возвращаться к вам снова и снова.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.8","reviewCount":635,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/programma-loyalnosti-dlya-teh-kto-vozvraschaetsya-kakie-bonusy-predlozhit/"}}
+title: 'Программа лояльности для тех, кто возвращается: какие бонусы предложить'
+description: >-
+  Постоянные клиенты — золотой актив любого бизнеса. В новой статье блога
+  ButlerSPB разбираем, как создать программу лояльности, которая будет не только
+  удерживать, но и восхищать. Мы поделимся идеями бонусов — от классических
+  скидок до эксклюзивных предложений, — которые заставят клиентов возвращаться к
+  вам снова и снова.
+pubDate: '2025-07-22T11:09:58.164Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Программа лояльности для тех, кто возвращается: какие бонусы предложить'
+  description: >-
+    Постоянные клиенты — золотой актив любого бизнеса. В новой статье блога
+    ButlerSPB разбираем, как создать программу лояльности, которая будет не
+    только удерживать, но и восхищать. Мы поделимся идеями бонусов — от
+    классических скидок до эксклюзивных предложений, — которые заставят клиентов
+    возвращаться к вам снова и снова.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.9'
+    reviewCount: 583
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/programma-loyalnosti-dlya-teh-kto-vozvraschaetsya-kakie-bonusy-predlozhit/
 ---
 
 # Программа лояльности, которая работает: 15+ идей бонусов для возврата клиентов (кейс ButlerSPB)

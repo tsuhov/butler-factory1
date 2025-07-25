@@ -1,11 +1,39 @@
 ---
-title: "Как снять коттедж на свадьбу в Ленобласти"
-description: "Планируете свадьбу в Ленобласти? Рассказываем, как выбрать и арендовать идеальный коттедж. Советы от ButlerSPB по поиску, бюджету и важным деталям."
-keywords: "аренда коттеджа на свадьбу, коттедж в ленобласти, свадьба за городом, снять дом на свадьбу, свадебная площадка ленобласть, butlerspb"
-pubDate: "2025-07-24T12:04:39.976Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Как снять коттедж на свадьбу в Ленобласти","description":"Планируете свадьбу в Ленобласти? Рассказываем, как выбрать и арендовать идеальный коттедж. Советы от ButlerSPB по поиску, бюджету и важным деталям.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":329,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/kak-snyat-kottedzh-na-svadbu-v-leningradskoy-oblasti/"}}
+title: Как снять коттедж на свадьбу в Ленобласти
+description: >-
+  Планируете свадьбу в Ленобласти? Рассказываем, как выбрать и арендовать
+  идеальный коттедж. Советы от ButlerSPB по поиску, бюджету и важным деталям.
+pubDate: '2025-07-24T12:04:39.976Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: Как снять коттедж на свадьбу в Ленобласти
+  description: >-
+    Планируете свадьбу в Ленобласти? Рассказываем, как выбрать и арендовать
+    идеальный коттедж. Советы от ButlerSPB по поиску, бюджету и важным деталям.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.9'
+    reviewCount: 889
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/kak-snyat-kottedzh-na-svadbu-v-leningradskoy-oblasti/
 ---
 # Как снять идеальный коттедж на свадьбу в Ленинградской области: Полное руководство от ButlerSPB
 

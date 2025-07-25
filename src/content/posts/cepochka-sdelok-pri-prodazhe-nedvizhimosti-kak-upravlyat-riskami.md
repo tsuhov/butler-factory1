@@ -1,10 +1,47 @@
 ---
-title: "\"Цепочка\" сделок при продаже недвижимости: как управлять рисками."
-description: "Продажа одной квартиры для покупки другой, известная как 'альтернативная сделка' или 'цепочка', – одна из самых сложных операций на рынке недвижимости. В блоге ButlerSPB разбираемся, какие подводные камни скрываются в таких сделках, почему срыв одного звена может разрушить всю цепочку, и как профессиональный подход помогает управлять рисками. Узнайте, как обеспечить безопасность и успешное завершение вашей многоэтапной сделки."
-pubDate: "2025-07-23T12:07:28.401Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"\"Цепочка\" сделок при продаже недвижимости: как управлять рисками.","description":"Продажа одной квартиры для покупки другой, известная как 'альтернативная сделка' или 'цепочка', – одна из самых сложных операций на рынке недвижимости. В блоге ButlerSPB разбираемся, какие подводные камни скрываются в таких сделках, почему срыв одного звена может разрушить всю цепочку, и как профессиональный подход помогает управлять рисками. Узнайте, как обеспечить безопасность и успешное завершение вашей многоэтапной сделки.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":889,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/cepochka-sdelok-pri-prodazhe-nedvizhimosti-kak-upravlyat-riskami/"}}
+title: '"Цепочка" сделок при продаже недвижимости: как управлять рисками.'
+description: >-
+  Продажа одной квартиры для покупки другой, известная как 'альтернативная
+  сделка' или 'цепочка', – одна из самых сложных операций на рынке недвижимости.
+  В блоге ButlerSPB разбираемся, какие подводные камни скрываются в таких
+  сделках, почему срыв одного звена может разрушить всю цепочку, и как
+  профессиональный подход помогает управлять рисками. Узнайте, как обеспечить
+  безопасность и успешное завершение вашей многоэтапной сделки.
+pubDate: '2025-07-23T12:07:28.401Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: '"Цепочка" сделок при продаже недвижимости: как управлять рисками.'
+  description: >-
+    Продажа одной квартиры для покупки другой, известная как 'альтернативная
+    сделка' или 'цепочка', – одна из самых сложных операций на рынке
+    недвижимости. В блоге ButlerSPB разбираемся, какие подводные камни
+    скрываются в таких сделках, почему срыв одного звена может разрушить всю
+    цепочку, и как профессиональный подход помогает управлять рисками. Узнайте,
+    как обеспечить безопасность и успешное завершение вашей многоэтапной сделки.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.9'
+    reviewCount: 313
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/cepochka-sdelok-pri-prodazhe-nedvizhimosti-kak-upravlyat-riskami/
 ---
 
 # «Цепочка» сделок при продаже недвижимости: как управлять рисками и не остаться на улице. Полное руководство от ButlerSPB

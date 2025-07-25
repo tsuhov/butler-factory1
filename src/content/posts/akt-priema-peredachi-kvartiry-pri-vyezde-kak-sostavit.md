@@ -1,10 +1,45 @@
 ---
-title: "Акт приема-передачи квартиры при выезде: как составить"
-description: "Выезжаете из съемной квартиры? Команда ButlerSPB рассказывает, как правильно составить акт приема-передачи, чтобы защитить и арендатора, и арендодателя от будущих споров. В статье вы найдете пошаговую инструкцию, готовый шаблон документа и чек-лист ключевых моментов: от проверки состояния ремонта и мебели до фиксации показаний счетчиков."
-pubDate: "2025-07-22T11:36:03.994Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Акт приема-передачи квартиры при выезде: как составить","description":"Выезжаете из съемной квартиры? Команда ButlerSPB рассказывает, как правильно составить акт приема-передачи, чтобы защитить и арендатора, и арендодателя от будущих споров. В статье вы найдете пошаговую инструкцию, готовый шаблон документа и чек-лист ключевых моментов: от проверки состояния ремонта и мебели до фиксации показаний счетчиков.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"5.0","reviewCount":675,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/akt-priema-peredachi-kvartiry-pri-vyezde-kak-sostavit/"}}
+title: 'Акт приема-передачи квартиры при выезде: как составить'
+description: >-
+  Выезжаете из съемной квартиры? Команда ButlerSPB рассказывает, как правильно
+  составить акт приема-передачи, чтобы защитить и арендатора, и арендодателя от
+  будущих споров. В статье вы найдете пошаговую инструкцию, готовый шаблон
+  документа и чек-лист ключевых моментов: от проверки состояния ремонта и мебели
+  до фиксации показаний счетчиков.
+pubDate: '2025-07-22T11:36:03.994Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Акт приема-передачи квартиры при выезде: как составить'
+  description: >-
+    Выезжаете из съемной квартиры? Команда ButlerSPB рассказывает, как правильно
+    составить акт приема-передачи, чтобы защитить и арендатора, и арендодателя
+    от будущих споров. В статье вы найдете пошаговую инструкцию, готовый шаблон
+    документа и чек-лист ключевых моментов: от проверки состояния ремонта и
+    мебели до фиксации показаний счетчиков.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '5.0'
+    reviewCount: 436
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/akt-priema-peredachi-kvartiry-pri-vyezde-kak-sostavit/
 ---
 
 # Акт приема-передачи квартиры при выезде арендатора: полное руководство для собственника

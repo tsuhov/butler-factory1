@@ -1,10 +1,46 @@
 ---
-title: "Шаверма vs. Шаурма: Есть ли разница и как говорить правильно?"
-description: "Вечный спор гурманов и два названия для одного любимого блюда. В новой статье блога ButlerSPB мы разбираемся в лингвистических и кулинарных тонкостях: откуда пошли разные названия, действительно ли питерская шаверма отличается от московской шаурмы рецептом и соусом, и как в итоге правильно называть этот стритфуд-хит. Поставим точку в этом вкусном вопросе раз и навсегда!"
-pubDate: "2025-07-22T13:08:34.085Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Шаверма vs. Шаурма: Есть ли разница и как говорить правильно?","description":"Вечный спор гурманов и два названия для одного любимого блюда. В новой статье блога ButlerSPB мы разбираемся в лингвистических и кулинарных тонкостях: откуда пошли разные названия, действительно ли питерская шаверма отличается от московской шаурмы рецептом и соусом, и как в итоге правильно называть этот стритфуд-хит. Поставим точку в этом вкусном вопросе раз и навсегда!","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.8","reviewCount":322,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/chem-shaverma-otlichaetsya-ot-shaurmy/"}}
+title: 'Шаверма vs. Шаурма: Есть ли разница и как говорить правильно?'
+description: >-
+  Вечный спор гурманов и два названия для одного любимого блюда. В новой статье
+  блога ButlerSPB мы разбираемся в лингвистических и кулинарных тонкостях:
+  откуда пошли разные названия, действительно ли питерская шаверма отличается от
+  московской шаурмы рецептом и соусом, и как в итоге правильно называть этот
+  стритфуд-хит. Поставим точку в этом вкусном вопросе раз и навсегда!
+pubDate: '2025-07-22T13:08:34.085Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Шаверма vs. Шаурма: Есть ли разница и как говорить правильно?'
+  description: >-
+    Вечный спор гурманов и два названия для одного любимого блюда. В новой
+    статье блога ButlerSPB мы разбираемся в лингвистических и кулинарных
+    тонкостях: откуда пошли разные названия, действительно ли питерская шаверма
+    отличается от московской шаурмы рецептом и соусом, и как в итоге правильно
+    называть этот стритфуд-хит. Поставим точку в этом вкусном вопросе раз и
+    навсегда!
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.9'
+    reviewCount: 402
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/chem-shaverma-otlichaetsya-ot-shaurmy/
 ---
 
 # Шаверма vs. Шаурма: Разбираем главный гастрономический спор Петербурга и Москвы

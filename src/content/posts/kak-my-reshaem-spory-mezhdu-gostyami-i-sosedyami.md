@@ -1,10 +1,51 @@
 ---
-title: "Как ButlerSPB решает споры между гостями и соседями: наш подход к добрососедству"
-description: "Конфликты между гостями и соседями — одна из самых неприятных ситуаций для владельца квартиры в краткосрочной аренде. В этой статье мы делимся опытом ButlerSPB и рассказываем, какие шаги мы предпринимаем для предотвращения и оперативного решения таких споров. Вы узнаете о наших правилах проживания для гостей, методах коммуникации с соседями и юридических аспектах, которые помогают сохранять спокойствие и хорошие отношения со всеми сторонами."
-pubDate: "2025-07-22T11:13:46.596Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Как ButlerSPB решает споры между гостями и соседями: наш подход к добрососедству","description":"Конфликты между гостями и соседями — одна из самых неприятных ситуаций для владельца квартиры в краткосрочной аренде. В этой статье мы делимся опытом ButlerSPB и рассказываем, какие шаги мы предпринимаем для предотвращения и оперативного решения таких споров. Вы узнаете о наших правилах проживания для гостей, методах коммуникации с соседями и юридических аспектах, которые помогают сохранять спокойствие и хорошие отношения со всеми сторонами.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.8","reviewCount":898,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/kak-my-reshaem-spory-mezhdu-gostyami-i-sosedyami/"}}
+title: >-
+  Как ButlerSPB решает споры между гостями и соседями: наш подход к
+  добрососедству
+description: >-
+  Конфликты между гостями и соседями — одна из самых неприятных ситуаций для
+  владельца квартиры в краткосрочной аренде. В этой статье мы делимся опытом
+  ButlerSPB и рассказываем, какие шаги мы предпринимаем для предотвращения и
+  оперативного решения таких споров. Вы узнаете о наших правилах проживания для
+  гостей, методах коммуникации с соседями и юридических аспектах, которые
+  помогают сохранять спокойствие и хорошие отношения со всеми сторонами.
+pubDate: '2025-07-22T11:13:46.596Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: >-
+    Как ButlerSPB решает споры между гостями и соседями: наш подход к
+    добрососедству
+  description: >-
+    Конфликты между гостями и соседями — одна из самых неприятных ситуаций для
+    владельца квартиры в краткосрочной аренде. В этой статье мы делимся опытом
+    ButlerSPB и рассказываем, какие шаги мы предпринимаем для предотвращения и
+    оперативного решения таких споров. Вы узнаете о наших правилах проживания
+    для гостей, методах коммуникации с соседями и юридических аспектах, которые
+    помогают сохранять спокойствие и хорошие отношения со всеми сторонами.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.8'
+    reviewCount: 523
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/kak-my-reshaem-spory-mezhdu-gostyami-i-sosedyami/
 ---
 
 # "Ночной звонок от соседа — страшный сон собственника". Как ButlerSPB обеспечивает тишину и ваше спокойствие

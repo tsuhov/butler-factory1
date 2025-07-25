@@ -1,11 +1,40 @@
 ---
-title: "Новостройки СПБ: выгодные инвестиции в 2024"
-description: "Инвестирование в новостройки Санкт-Петербурга — надежный способ приумножить капитал. В блоге ButlerSPB разбираем, как выбрать ликвидный объект и снизить риски."
-keywords: "инвестиции в недвижимость, новостройки СПБ, купить квартиру для инвестиций, вложения в новостройки, доходная недвижимость, ButlerSPB"
-pubDate: "2025-07-25T14:12:35.011Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Новостройки СПБ: выгодные инвестиции в 2024","description":"Инвестирование в новостройки Санкт-Петербурга — надежный способ приумножить капитал. В блоге ButlerSPB разбираем, как выбрать ликвидный объект и снизить риски.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.8","reviewCount":882,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/invest-novostroyki/"}}
+title: 'Новостройки СПБ: выгодные инвестиции в 2024'
+description: >-
+  Инвестирование в новостройки Санкт-Петербурга — надежный способ приумножить
+  капитал. В блоге ButlerSPB разбираем, как выбрать ликвидный объект и снизить
+  риски.
+pubDate: '2025-07-25T14:12:35.011Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Новостройки СПБ: выгодные инвестиции в 2024'
+  description: >-
+    Инвестирование в новостройки Санкт-Петербурга — надежный способ приумножить
+    капитал. В блоге ButlerSPB разбираем, как выбрать ликвидный объект и снизить
+    риски.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.8'
+    reviewCount: 725
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': 'https://butlerspb-blog.netlify.app/blog/invest-novostroyki/'
 ---
 # Инвестиции в новостройки Санкт-Петербурга: как выбрать, купить и заработать в 2024 году
 

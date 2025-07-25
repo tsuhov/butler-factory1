@@ -1,11 +1,40 @@
 ---
-title: "Как организовать поездку: чек-лист от ButlerSPB"
-description: "Планирование путешествия может быть сложным. Наш гид поможет вам составить идеальный маршрут, выбрать отель, купить билеты и не забыть о мелочах. ButlerSPB."
-keywords: "организация поездки, планирование путешествия, чек-лист для поездки, советы путешественникам, ButlerSPB, как спланировать отдых"
-pubDate: "2025-07-24T13:11:09.912Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Как организовать поездку: чек-лист от ButlerSPB","description":"Планирование путешествия может быть сложным. Наш гид поможет вам составить идеальный маршрут, выбрать отель, купить билеты и не забыть о мелочах. ButlerSPB.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.8","reviewCount":754,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/poezdki-organizaciya/"}}
+title: 'Как организовать поездку: чек-лист от ButlerSPB'
+description: >-
+  Планирование путешествия может быть сложным. Наш гид поможет вам составить
+  идеальный маршрут, выбрать отель, купить билеты и не забыть о мелочах.
+  ButlerSPB.
+pubDate: '2025-07-24T13:11:09.912Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Как организовать поездку: чек-лист от ButlerSPB'
+  description: >-
+    Планирование путешествия может быть сложным. Наш гид поможет вам составить
+    идеальный маршрут, выбрать отель, купить билеты и не забыть о мелочах.
+    ButlerSPB.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.8'
+    reviewCount: 771
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': 'https://butlerspb-blog.netlify.app/blog/poezdki-organizaciya/'
 ---
 # Организация поездки от А до Я: Как спланировать идеальное путешествие и почему это стоит делегировать экспертам
 

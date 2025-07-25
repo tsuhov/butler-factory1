@@ -1,10 +1,47 @@
 ---
-title: "Жизнь в петербургской коммуналке: полное руководство"
-description: "Коммунальная квартира в Санкт-Петербурге – это не просто доступное жилье в центре, а целый культурный пласт со своими правилами и атмосферой. В новой статье блога ButlerSPB разбираемся во всех нюансах: как выстроить отношения с соседями, составить график дежурств, разделить коммунальные платежи и превратить бытовые трудности в уникальный жизненный опыт. Делимся практическими советами для тех, кто планирует или уже живет в коммуналке."
-pubDate: "2025-07-22T11:42:09.841Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Жизнь в петербургской коммуналке: полное руководство","description":"Коммунальная квартира в Санкт-Петербурге – это не просто доступное жилье в центре, а целый культурный пласт со своими правилами и атмосферой. В новой статье блога ButlerSPB разбираемся во всех нюансах: как выстроить отношения с соседями, составить график дежурств, разделить коммунальные платежи и превратить бытовые трудности в уникальный жизненный опыт. Делимся практическими советами для тех, кто планирует или уже живет в коммуналке.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"5.0","reviewCount":631,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/osobennosti-prozhivaniya-v-kommunalnoy-kvartire/"}}
+title: 'Жизнь в петербургской коммуналке: полное руководство'
+description: >-
+  Коммунальная квартира в Санкт-Петербурге – это не просто доступное жилье в
+  центре, а целый культурный пласт со своими правилами и атмосферой. В новой
+  статье блога ButlerSPB разбираемся во всех нюансах: как выстроить отношения с
+  соседями, составить график дежурств, разделить коммунальные платежи и
+  превратить бытовые трудности в уникальный жизненный опыт. Делимся
+  практическими советами для тех, кто планирует или уже живет в коммуналке.
+pubDate: '2025-07-22T11:42:09.841Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Жизнь в петербургской коммуналке: полное руководство'
+  description: >-
+    Коммунальная квартира в Санкт-Петербурге – это не просто доступное жилье в
+    центре, а целый культурный пласт со своими правилами и атмосферой. В новой
+    статье блога ButlerSPB разбираемся во всех нюансах: как выстроить отношения
+    с соседями, составить график дежурств, разделить коммунальные платежи и
+    превратить бытовые трудности в уникальный жизненный опыт. Делимся
+    практическими советами для тех, кто планирует или уже живет в коммуналке.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.8'
+    reviewCount: 727
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/osobennosti-prozhivaniya-v-kommunalnoy-kvartire/
 ---
 
 # Жизнь в питерской коммуналке: полный гид по выбору, правилам и выживанию

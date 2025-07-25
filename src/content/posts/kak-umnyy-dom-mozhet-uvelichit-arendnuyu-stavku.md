@@ -1,10 +1,49 @@
 ---
-title: "Как «умный дом» может увеличить арендную ставку: инсайты от ButlerSPB"
-description: "В условиях высокой конкуренции на рынке аренды Санкт-Петербурга технологии «умного дома» становятся не просто приятным бонусом, а весомым аргументом для повышения стоимости. В этой статье мы, команда ButlerSPB, разберем, какие smart-решения наиболее востребованы у арендаторов, как они влияют на безопасность и комфорт, и как грамотно интегрировать их в вашу недвижимость, чтобы не только привлечь качественных жильцов, но и обоснованно поднять арендную плату на 15-20%."
-pubDate: "2025-07-23T22:07:35.734Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Как «умный дом» может увеличить арендную ставку: инсайты от ButlerSPB","description":"В условиях высокой конкуренции на рынке аренды Санкт-Петербурга технологии «умного дома» становятся не просто приятным бонусом, а весомым аргументом для повышения стоимости. В этой статье мы, команда ButlerSPB, разберем, какие smart-решения наиболее востребованы у арендаторов, как они влияют на безопасность и комфорт, и как грамотно интегрировать их в вашу недвижимость, чтобы не только привлечь качественных жильцов, но и обоснованно поднять арендную плату на 15-20%.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.8","reviewCount":653,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/kak-umnyy-dom-mozhet-uvelichit-arendnuyu-stavku/"}}
+title: 'Как «умный дом» может увеличить арендную ставку: инсайты от ButlerSPB'
+description: >-
+  В условиях высокой конкуренции на рынке аренды Санкт-Петербурга технологии
+  «умного дома» становятся не просто приятным бонусом, а весомым аргументом для
+  повышения стоимости. В этой статье мы, команда ButlerSPB, разберем, какие
+  smart-решения наиболее востребованы у арендаторов, как они влияют на
+  безопасность и комфорт, и как грамотно интегрировать их в вашу недвижимость,
+  чтобы не только привлечь качественных жильцов, но и обоснованно поднять
+  арендную плату на 15-20%.
+pubDate: '2025-07-23T22:07:35.734Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Как «умный дом» может увеличить арендную ставку: инсайты от ButlerSPB'
+  description: >-
+    В условиях высокой конкуренции на рынке аренды Санкт-Петербурга технологии
+    «умного дома» становятся не просто приятным бонусом, а весомым аргументом
+    для повышения стоимости. В этой статье мы, команда ButlerSPB, разберем,
+    какие smart-решения наиболее востребованы у арендаторов, как они влияют на
+    безопасность и комфорт, и как грамотно интегрировать их в вашу недвижимость,
+    чтобы не только привлечь качественных жильцов, но и обоснованно поднять
+    арендную плату на 15-20%.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.8'
+    reviewCount: 539
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/kak-umnyy-dom-mozhet-uvelichit-arendnuyu-stavku/
 ---
 
 # Как "умный дом" увеличивает арендную ставку: Руководство для инвестора от ButlerSPB

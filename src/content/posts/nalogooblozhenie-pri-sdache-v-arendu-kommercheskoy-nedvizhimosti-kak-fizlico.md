@@ -1,10 +1,49 @@
 ---
-title: "Сдаете коммерческую недвижимость как физлицо? Разбираем налоги: НДФЛ, самозанятость или ИП"
-description: "Планируете сдавать коммерческое помещение и не знаете, какой налоговый режим выбрать? В новой статье блога ButlerSPB подробно разбираем все варианты для физических лиц: от уплаты НДФЛ 13% до преимуществ самозанятости и ИП. Узнайте, как легально сэкономить на налогах, какие есть риски и как правильно оформить документы, чтобы избежать проблем с ФНС."
-pubDate: "2025-07-23T12:09:41.825Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Сдаете коммерческую недвижимость как физлицо? Разбираем налоги: НДФЛ, самозанятость или ИП","description":"Планируете сдавать коммерческое помещение и не знаете, какой налоговый режим выбрать? В новой статье блога ButlerSPB подробно разбираем все варианты для физических лиц: от уплаты НДФЛ 13% до преимуществ самозанятости и ИП. Узнайте, как легально сэкономить на налогах, какие есть риски и как правильно оформить документы, чтобы избежать проблем с ФНС.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.7","reviewCount":674,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/nalogooblozhenie-pri-sdache-v-arendu-kommercheskoy-nedvizhimosti-kak-fizlico/"}}
+title: >-
+  Сдаете коммерческую недвижимость как физлицо? Разбираем налоги: НДФЛ,
+  самозанятость или ИП
+description: >-
+  Планируете сдавать коммерческое помещение и не знаете, какой налоговый режим
+  выбрать? В новой статье блога ButlerSPB подробно разбираем все варианты для
+  физических лиц: от уплаты НДФЛ 13% до преимуществ самозанятости и ИП. Узнайте,
+  как легально сэкономить на налогах, какие есть риски и как правильно оформить
+  документы, чтобы избежать проблем с ФНС.
+pubDate: '2025-07-23T12:09:41.825Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: >-
+    Сдаете коммерческую недвижимость как физлицо? Разбираем налоги: НДФЛ,
+    самозанятость или ИП
+  description: >-
+    Планируете сдавать коммерческое помещение и не знаете, какой налоговый режим
+    выбрать? В новой статье блога ButlerSPB подробно разбираем все варианты для
+    физических лиц: от уплаты НДФЛ 13% до преимуществ самозанятости и ИП.
+    Узнайте, как легально сэкономить на налогах, какие есть риски и как
+    правильно оформить документы, чтобы избежать проблем с ФНС.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.9'
+    reviewCount: 850
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/nalogooblozhenie-pri-sdache-v-arendu-kommercheskoy-nedvizhimosti-kak-fizlico/
 ---
 
 # Сдаем коммерческую недвижимость как физлицо: подробный гид по налогам

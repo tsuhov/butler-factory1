@@ -1,10 +1,45 @@
 ---
-title: "Что делать, если вы заболели в чужом городе: инструкция от ButlerSPB"
-description: "Болезнь во время путешествия — серьезный стресс, способный испортить любой отдых. В нашей статье мы собрали пошаговый план действий: как вызвать врача по полису ОМС в другом регионе, куда обращаться за экстренной помощью, как найти ближайшую аптеку и чем может быть полезен консьерж-сервис, чтобы вы могли сосредоточиться на главном — своем здоровье."
-pubDate: "2025-07-22T11:43:49.913Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Что делать, если вы заболели в чужом городе: инструкция от ButlerSPB","description":"Болезнь во время путешествия — серьезный стресс, способный испортить любой отдых. В нашей статье мы собрали пошаговый план действий: как вызвать врача по полису ОМС в другом регионе, куда обращаться за экстренной помощью, как найти ближайшую аптеку и чем может быть полезен консьерж-сервис, чтобы вы могли сосредоточиться на главном — своем здоровье.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.7","reviewCount":787,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/chto-delat-esli-vy-zaboleli-v-chuzhom-gorode/"}}
+title: 'Что делать, если вы заболели в чужом городе: инструкция от ButlerSPB'
+description: >-
+  Болезнь во время путешествия — серьезный стресс, способный испортить любой
+  отдых. В нашей статье мы собрали пошаговый план действий: как вызвать врача по
+  полису ОМС в другом регионе, куда обращаться за экстренной помощью, как найти
+  ближайшую аптеку и чем может быть полезен консьерж-сервис, чтобы вы могли
+  сосредоточиться на главном — своем здоровье.
+pubDate: '2025-07-22T11:43:49.913Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Что делать, если вы заболели в чужом городе: инструкция от ButlerSPB'
+  description: >-
+    Болезнь во время путешествия — серьезный стресс, способный испортить любой
+    отдых. В нашей статье мы собрали пошаговый план действий: как вызвать врача
+    по полису ОМС в другом регионе, куда обращаться за экстренной помощью, как
+    найти ближайшую аптеку и чем может быть полезен консьерж-сервис, чтобы вы
+    могли сосредоточиться на главном — своем здоровье.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '5.0'
+    reviewCount: 670
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/chto-delat-esli-vy-zaboleli-v-chuzhom-gorode/
 ---
 
 # Что делать, если вы заболели в чужом городе: пошаговый гид от экспертов ButlerSPB

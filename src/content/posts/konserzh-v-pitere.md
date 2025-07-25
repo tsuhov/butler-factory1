@@ -1,11 +1,40 @@
 ---
-title: "Консьерж-сервис в Питере от ButlerSPB: Услуги"
-description: "ButlerSPB предлагает премиальный консьерж-сервис в Санкт-Петербурге. Решаем любые задачи: от бронирования ресторанов до организации мероприятий. Ваш комфорт – наша работа."
-keywords: "консьерж спб, консьерж-сервис, услуги консьержа, ButlerSPB, личный помощник, консьерж в питере, элитный сервис"
-pubDate: "2025-07-24T13:38:11.933Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Консьерж-сервис в Питере от ButlerSPB: Услуги","description":"ButlerSPB предлагает премиальный консьерж-сервис в Санкт-Петербурге. Решаем любые задачи: от бронирования ресторанов до организации мероприятий. Ваш комфорт – наша работа.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":346,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/konserzh-v-pitere/"}}
+title: 'Консьерж-сервис в Питере от ButlerSPB: Услуги'
+description: >-
+  ButlerSPB предлагает премиальный консьерж-сервис в Санкт-Петербурге. Решаем
+  любые задачи: от бронирования ресторанов до организации мероприятий. Ваш
+  комфорт – наша работа.
+pubDate: '2025-07-24T13:38:11.933Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Консьерж-сервис в Питере от ButlerSPB: Услуги'
+  description: >-
+    ButlerSPB предлагает премиальный консьерж-сервис в Санкт-Петербурге. Решаем
+    любые задачи: от бронирования ресторанов до организации мероприятий. Ваш
+    комфорт – наша работа.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.7'
+    reviewCount: 832
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': 'https://butlerspb-blog.netlify.app/blog/konserzh-v-pitere/'
 ---
 # Консьерж-сервис в Санкт-Петербурге: Как получить от города все (и даже больше)
 

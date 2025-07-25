@@ -1,10 +1,48 @@
 ---
-title: "Сколько процентов берет риэлтор за сделку? Полный разбор комиссий от ButlerSPB"
-description: "Планируете продать или купить недвижимость и задаетесь вопросом о стоимости услуг риэлтора? В этой статье мы подробно разбираем, из чего складывается комиссия агента, какие средние проценты существуют на рынке Санкт-Петербурга, и от чего зависит итоговая сумма. Узнайте, за что вы платите специалисту и как формируется цена на риэлторские услуги в 2024 году."
-pubDate: "2025-07-22T20:16:33.487Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Сколько процентов берет риэлтор за сделку? Полный разбор комиссий от ButlerSPB","description":"Планируете продать или купить недвижимость и задаетесь вопросом о стоимости услуг риэлтора? В этой статье мы подробно разбираем, из чего складывается комиссия агента, какие средние проценты существуют на рынке Санкт-Петербурга, и от чего зависит итоговая сумма. Узнайте, за что вы платите специалисту и как формируется цена на риэлторские услуги в 2024 году.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":654,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/skolko-procentov-beret-rieltor-za-sdelku/"}}
+title: Сколько процентов берет риэлтор за сделку? Полный разбор комиссий от ButlerSPB
+description: >-
+  Планируете продать или купить недвижимость и задаетесь вопросом о стоимости
+  услуг риэлтора? В этой статье мы подробно разбираем, из чего складывается
+  комиссия агента, какие средние проценты существуют на рынке Санкт-Петербурга,
+  и от чего зависит итоговая сумма. Узнайте, за что вы платите специалисту и как
+  формируется цена на риэлторские услуги в 2024 году.
+pubDate: '2025-07-22T20:16:33.487Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: >-
+    Сколько процентов берет риэлтор за сделку? Полный разбор комиссий от
+    ButlerSPB
+  description: >-
+    Планируете продать или купить недвижимость и задаетесь вопросом о стоимости
+    услуг риэлтора? В этой статье мы подробно разбираем, из чего складывается
+    комиссия агента, какие средние проценты существуют на рынке
+    Санкт-Петербурга, и от чего зависит итоговая сумма. Узнайте, за что вы
+    платите специалисту и как формируется цена на риэлторские услуги в 2024
+    году.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.7'
+    reviewCount: 477
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/skolko-procentov-beret-rieltor-za-sdelku/
 ---
 
 # Сколько процентов берет риэлтор: всё о комиссии за сделку с недвижимостью

@@ -1,11 +1,40 @@
 ---
-title: "Выбираем видовую квартиру в Петербурге: советы"
-description: "Видовая квартира – это инвестиция в эмоции. Рассказываем, как выбрать жилье с лучшим видом на Петербург, на что обратить внимание и какие панорамы самые ценные."
-keywords: "видовая квартира, квартира с видом, панорамный вид, недвижимость СПб, элитное жилье, купить квартиру"
-pubDate: "2025-07-25T14:15:04.378Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Выбираем видовую квартиру в Петербурге: советы","description":"Видовая квартира – это инвестиция в эмоции. Рассказываем, как выбрать жилье с лучшим видом на Петербург, на что обратить внимание и какие панорамы самые ценные.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"5.0","reviewCount":458,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/vidovye-kvartiry/"}}
+title: 'Выбираем видовую квартиру в Петербурге: советы'
+description: >-
+  Видовая квартира – это инвестиция в эмоции. Рассказываем, как выбрать жилье с
+  лучшим видом на Петербург, на что обратить внимание и какие панорамы самые
+  ценные.
+pubDate: '2025-07-25T14:15:04.378Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Выбираем видовую квартиру в Петербурге: советы'
+  description: >-
+    Видовая квартира – это инвестиция в эмоции. Рассказываем, как выбрать жилье
+    с лучшим видом на Петербург, на что обратить внимание и какие панорамы самые
+    ценные.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.8'
+    reviewCount: 423
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': 'https://butlerspb-blog.netlify.app/blog/vidovye-kvartiry/'
 ---
 # Панорама на миллион: всё, что нужно знать о видовых квартирах в Санкт-Петербурге
 

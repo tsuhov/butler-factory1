@@ -1,10 +1,47 @@
 ---
-title: "Покупка квартиры на Васильевском острове: плюсы и минусы"
-description: "Васильевский остров — один из самых знаковых и престижных районов Санкт-Петербурга. Мечтаете о квартире с видом на Неву, но сомневаетесь? Команда ButlerSPB разбирает все плюсы и минусы жизни на 'Ваське': от уникальной атмосферы и близости к центру до транспортных особенностей и цен на недвижимость. Читайте наш подробный обзор, чтобы принять взвешенное решение о покупке жилья в этой исторической локации."
-pubDate: "2025-07-22T16:32:29.055Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Покупка квартиры на Васильевском острове: плюсы и минусы","description":"Васильевский остров — один из самых знаковых и престижных районов Санкт-Петербурга. Мечтаете о квартире с видом на Неву, но сомневаетесь? Команда ButlerSPB разбирает все плюсы и минусы жизни на 'Ваське': от уникальной атмосферы и близости к центру до транспортных особенностей и цен на недвижимость. Читайте наш подробный обзор, чтобы принять взвешенное решение о покупке жилья в этой исторической локации.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":756,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/pokupka-kvartiry-na-vasilevskom-ostrove-plyusy-i-minusy/"}}
+title: 'Покупка квартиры на Васильевском острове: плюсы и минусы'
+description: >-
+  Васильевский остров — один из самых знаковых и престижных районов
+  Санкт-Петербурга. Мечтаете о квартире с видом на Неву, но сомневаетесь?
+  Команда ButlerSPB разбирает все плюсы и минусы жизни на 'Ваське': от
+  уникальной атмосферы и близости к центру до транспортных особенностей и цен на
+  недвижимость. Читайте наш подробный обзор, чтобы принять взвешенное решение о
+  покупке жилья в этой исторической локации.
+pubDate: '2025-07-22T16:32:29.055Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Покупка квартиры на Васильевском острове: плюсы и минусы'
+  description: >-
+    Васильевский остров — один из самых знаковых и престижных районов
+    Санкт-Петербурга. Мечтаете о квартире с видом на Неву, но сомневаетесь?
+    Команда ButlerSPB разбирает все плюсы и минусы жизни на 'Ваське': от
+    уникальной атмосферы и близости к центру до транспортных особенностей и цен
+    на недвижимость. Читайте наш подробный обзор, чтобы принять взвешенное
+    решение о покупке жилья в этой исторической локации.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '5.0'
+    reviewCount: 539
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/pokupka-kvartiry-na-vasilevskom-ostrove-plyusy-i-minusy/
 ---
 
 # Покупка квартиры на Васильевском острове: полный разбор плюсов, минусов и подводных камней

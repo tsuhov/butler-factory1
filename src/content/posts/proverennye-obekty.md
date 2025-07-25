@@ -1,11 +1,40 @@
 ---
-title: "Проверенные объекты: гарантия качества ButlerSPB"
-description: "Наша команда тщательно отбирает и проверяет каждый объект, чтобы вы были уверены в своем выборе. Безопасность и комфорт – наши главные приоритеты для вас."
-keywords: "проверенные объекты, аренда спб, ButlerSPB, надежная аренда, проверка недвижимости, безопасная сделка"
-pubDate: "2025-07-25T15:53:10.338Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Проверенные объекты: гарантия качества ButlerSPB","description":"Наша команда тщательно отбирает и проверяет каждый объект, чтобы вы были уверены в своем выборе. Безопасность и комфорт – наши главные приоритеты для вас.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.7","reviewCount":784,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/proverennye-obekty/"}}
+title: 'Проверенные объекты: гарантия качества ButlerSPB'
+description: >-
+  Наша команда тщательно отбирает и проверяет каждый объект, чтобы вы были
+  уверены в своем выборе. Безопасность и комфорт – наши главные приоритеты для
+  вас.
+pubDate: '2025-07-25T15:53:10.338Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Проверенные объекты: гарантия качества ButlerSPB'
+  description: >-
+    Наша команда тщательно отбирает и проверяет каждый объект, чтобы вы были
+    уверены в своем выборе. Безопасность и комфорт – наши главные приоритеты для
+    вас.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '5.0'
+    reviewCount: 510
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': 'https://butlerspb-blog.netlify.app/blog/proverennye-obekty/'
 ---
 # Что такое «Проверенный объект» и почему это ваш главный актив при покупке недвижимости в Петербурге
 

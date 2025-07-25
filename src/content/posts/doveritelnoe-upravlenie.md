@@ -1,11 +1,40 @@
 ---
-title: "Доверительное управление активами с ButlerSPB"
-description: "Доверительное управление – это передача ваших активов в руки профессионалов. Мы заботимся о приумножении вашего капитала, пока вы занимаетесь важными делами."
-keywords: "доверительное управление, управление активами, инвестиции, финансовый управляющий, ButlerSPB, управление капиталом"
-pubDate: "2025-07-25T15:00:01.736Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Доверительное управление активами с ButlerSPB","description":"Доверительное управление – это передача ваших активов в руки профессионалов. Мы заботимся о приумножении вашего капитала, пока вы занимаетесь важными делами.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":391,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/doveritelnoe-upravlenie/"}}
+title: Доверительное управление активами с ButlerSPB
+description: >-
+  Доверительное управление – это передача ваших активов в руки профессионалов.
+  Мы заботимся о приумножении вашего капитала, пока вы занимаетесь важными
+  делами.
+pubDate: '2025-07-25T15:00:01.736Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: Доверительное управление активами с ButlerSPB
+  description: >-
+    Доверительное управление – это передача ваших активов в руки профессионалов.
+    Мы заботимся о приумножении вашего капитала, пока вы занимаетесь важными
+    делами.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.9'
+    reviewCount: 658
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': 'https://butlerspb-blog.netlify.app/blog/doveritelnoe-upravlenie/'
 ---
 # Доверительное управление квартирой в Санкт-Петербурге: как получать доход от аренды без головной боли
 

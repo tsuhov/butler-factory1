@@ -1,11 +1,40 @@
 ---
-title: "Как продать недвижимость быстро: советы вам"
-description: "Хотите быстро продать квартиру? В нашей статье вы найдете практические советы по предпродажной подготовке, оценке, маркетингу и ведению переговоров с покупателями."
-keywords: "продать быстро, продать квартиру, быстрая продажа, недвижимость спб, предпродажная подготовка, хоумстейджинг"
-pubDate: "2025-07-25T14:40:02.338Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Как продать недвижимость быстро: советы вам","description":"Хотите быстро продать квартиру? В нашей статье вы найдете практические советы по предпродажной подготовке, оценке, маркетингу и ведению переговоров с покупателями.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.7","reviewCount":715,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/prodat-bystro/"}}
+title: 'Как продать недвижимость быстро: советы вам'
+description: >-
+  Хотите быстро продать квартиру? В нашей статье вы найдете практические советы
+  по предпродажной подготовке, оценке, маркетингу и ведению переговоров с
+  покупателями.
+pubDate: '2025-07-25T14:40:02.338Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Как продать недвижимость быстро: советы вам'
+  description: >-
+    Хотите быстро продать квартиру? В нашей статье вы найдете практические
+    советы по предпродажной подготовке, оценке, маркетингу и ведению переговоров
+    с покупателями.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '5.0'
+    reviewCount: 757
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': 'https://butlerspb-blog.netlify.app/blog/prodat-bystro/'
 ---
 # Продать квартиру в СПб быстро: пошаговая инструкция на 2024 год от экспертов ButlerSPB
 

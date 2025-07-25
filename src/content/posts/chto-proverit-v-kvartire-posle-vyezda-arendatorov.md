@@ -1,10 +1,49 @@
 ---
-title: "Что проверить в квартире после выезда арендаторов: полный чек-лист от ButlerSPB"
-description: "Арендаторы съехали, и вам предстоит принять квартиру? Чтобы ничего не упустить, вовремя выявить недочеты и защитить себя от непредвиденных расходов, воспользуйтесь нашим подробным чек-листом. Рассказываем, на что обратить внимание в первую очередь: от состояния ремонта и мебели до показаний счетчиков и наличия всех ключей."
-pubDate: "2025-07-22T13:47:51.252Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Что проверить в квартире после выезда арендаторов: полный чек-лист от ButlerSPB","description":"Арендаторы съехали, и вам предстоит принять квартиру? Чтобы ничего не упустить, вовремя выявить недочеты и защитить себя от непредвиденных расходов, воспользуйтесь нашим подробным чек-листом. Рассказываем, на что обратить внимание в первую очередь: от состояния ремонта и мебели до показаний счетчиков и наличия всех ключей.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":336,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/chto-proverit-v-kvartire-posle-vyezda-arendatorov/"}}
+title: >-
+  Что проверить в квартире после выезда арендаторов: полный чек-лист от
+  ButlerSPB
+description: >-
+  Арендаторы съехали, и вам предстоит принять квартиру? Чтобы ничего не
+  упустить, вовремя выявить недочеты и защитить себя от непредвиденных расходов,
+  воспользуйтесь нашим подробным чек-листом. Рассказываем, на что обратить
+  внимание в первую очередь: от состояния ремонта и мебели до показаний
+  счетчиков и наличия всех ключей.
+pubDate: '2025-07-22T13:47:51.252Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: >-
+    Что проверить в квартире после выезда арендаторов: полный чек-лист от
+    ButlerSPB
+  description: >-
+    Арендаторы съехали, и вам предстоит принять квартиру? Чтобы ничего не
+    упустить, вовремя выявить недочеты и защитить себя от непредвиденных
+    расходов, воспользуйтесь нашим подробным чек-листом. Рассказываем, на что
+    обратить внимание в первую очередь: от состояния ремонта и мебели до
+    показаний счетчиков и наличия всех ключей.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.9'
+    reviewCount: 805
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/chto-proverit-v-kvartire-posle-vyezda-arendatorov/
 ---
 
 # Приемка квартиры после выезда арендаторов: Полный чек-лист от экспертов ButlerSPB, который сэкономит вам деньги и нервы

@@ -1,10 +1,49 @@
 ---
-title: "Как сдать коммерческое помещение в аренду без посредников: пошаговая инструкция от ButlerSPB"
-description: "Планируете сдать коммерческую недвижимость и хотите сэкономить на услугах риэлтора? В нашей новой статье блога ButlerSPB мы подробно разбираем весь процесс от А до Я: как правильно подготовить объект, определить адекватную арендную ставку, найти надежного арендатора и составить юридически грамотный договор. Узнайте все секреты успешной сделки без посредников."
-pubDate: "2025-07-22T13:59:15.260Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Как сдать коммерческое помещение в аренду без посредников: пошаговая инструкция от ButlerSPB","description":"Планируете сдать коммерческую недвижимость и хотите сэкономить на услугах риэлтора? В нашей новой статье блога ButlerSPB мы подробно разбираем весь процесс от А до Я: как правильно подготовить объект, определить адекватную арендную ставку, найти надежного арендатора и составить юридически грамотный договор. Узнайте все секреты успешной сделки без посредников.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":670,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/kak-sdat-kommercheskoe-pomeschenie-v-arendu-bez-posrednikov/"}}
+title: >-
+  Как сдать коммерческое помещение в аренду без посредников: пошаговая
+  инструкция от ButlerSPB
+description: >-
+  Планируете сдать коммерческую недвижимость и хотите сэкономить на услугах
+  риэлтора? В нашей новой статье блога ButlerSPB мы подробно разбираем весь
+  процесс от А до Я: как правильно подготовить объект, определить адекватную
+  арендную ставку, найти надежного арендатора и составить юридически грамотный
+  договор. Узнайте все секреты успешной сделки без посредников.
+pubDate: '2025-07-22T13:59:15.260Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: >-
+    Как сдать коммерческое помещение в аренду без посредников: пошаговая
+    инструкция от ButlerSPB
+  description: >-
+    Планируете сдать коммерческую недвижимость и хотите сэкономить на услугах
+    риэлтора? В нашей новой статье блога ButlerSPB мы подробно разбираем весь
+    процесс от А до Я: как правильно подготовить объект, определить адекватную
+    арендную ставку, найти надежного арендатора и составить юридически грамотный
+    договор. Узнайте все секреты успешной сделки без посредников.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '5.0'
+    reviewCount: 403
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/kak-sdat-kommercheskoe-pomeschenie-v-arendu-bez-posrednikov/
 ---
 
 # Как сдать коммерческое помещение в аренду без посредников: Пошаговый план от А до Я

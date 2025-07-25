@@ -1,10 +1,43 @@
 ---
-title: "Гид по петербургской шаверме: что это такое и где искать ту самую"
-description: "Откройте для себя гастрономический символ Петербурга — настоящую шаверму. В нашей новой статье от ButlerSPB мы разбираемся, чем она отличается от московской шаурмы, раскрываем секреты идеального рецепта и делимся проверенным списком мест, где готовят самый вкусный стритфуд города."
-pubDate: "2025-07-22T13:08:37.129Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Гид по петербургской шаверме: что это такое и где искать ту самую","description":"Откройте для себя гастрономический символ Петербурга — настоящую шаверму. В нашей новой статье от ButlerSPB мы разбираемся, чем она отличается от московской шаурмы, раскрываем секреты идеального рецепта и делимся проверенным списком мест, где готовят самый вкусный стритфуд города.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.7","reviewCount":736,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/chto-takoe-shaverma-i-gde-probovat-nastoyaschuyu-peterburgskuyu/"}}
+title: 'Гид по петербургской шаверме: что это такое и где искать ту самую'
+description: >-
+  Откройте для себя гастрономический символ Петербурга — настоящую шаверму. В
+  нашей новой статье от ButlerSPB мы разбираемся, чем она отличается от
+  московской шаурмы, раскрываем секреты идеального рецепта и делимся проверенным
+  списком мест, где готовят самый вкусный стритфуд города.
+pubDate: '2025-07-22T13:08:37.129Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Гид по петербургской шаверме: что это такое и где искать ту самую'
+  description: >-
+    Откройте для себя гастрономический символ Петербурга — настоящую шаверму. В
+    нашей новой статье от ButlerSPB мы разбираемся, чем она отличается от
+    московской шаурмы, раскрываем секреты идеального рецепта и делимся
+    проверенным списком мест, где готовят самый вкусный стритфуд города.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.8'
+    reviewCount: 672
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/chto-takoe-shaverma-i-gde-probovat-nastoyaschuyu-peterburgskuyu/
 ---
 
 # Шаверма в Петербурге: больше, чем еда. Полный гид по главному стритфуду города

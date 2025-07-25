@@ -1,10 +1,51 @@
 ---
-title: "Искусство продажи роскоши: ключевые особенности маркетинга элитной недвижимости от ButlerSPB"
-description: "Маркетинг элитной недвижимости — это не о квадратных метрах, а о стиле жизни и эмоциях. В премиум-сегменте стандартные рекламные инструменты не работают. В новой статье блога ButlerSPB мы разбираем, как создать уникальный бренд объекта, выстроить коммуникацию с состоятельной аудиторией через эксклюзивный контент и какие каналы продвижения действительно приносят результат, когда речь идет о продаже мечты."
-pubDate: "2025-07-22T11:31:23.982Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Искусство продажи роскоши: ключевые особенности маркетинга элитной недвижимости от ButlerSPB","description":"Маркетинг элитной недвижимости — это не о квадратных метрах, а о стиле жизни и эмоциях. В премиум-сегменте стандартные рекламные инструменты не работают. В новой статье блога ButlerSPB мы разбираем, как создать уникальный бренд объекта, выстроить коммуникацию с состоятельной аудиторией через эксклюзивный контент и какие каналы продвижения действительно приносят результат, когда речь идет о продаже мечты.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.8","reviewCount":838,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/osobennosti-marketinga-dlya-dorogoy-nedvizhimosti/"}}
+title: >-
+  Искусство продажи роскоши: ключевые особенности маркетинга элитной
+  недвижимости от ButlerSPB
+description: >-
+  Маркетинг элитной недвижимости — это не о квадратных метрах, а о стиле жизни и
+  эмоциях. В премиум-сегменте стандартные рекламные инструменты не работают. В
+  новой статье блога ButlerSPB мы разбираем, как создать уникальный бренд
+  объекта, выстроить коммуникацию с состоятельной аудиторией через эксклюзивный
+  контент и какие каналы продвижения действительно приносят результат, когда
+  речь идет о продаже мечты.
+pubDate: '2025-07-22T11:31:23.982Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: >-
+    Искусство продажи роскоши: ключевые особенности маркетинга элитной
+    недвижимости от ButlerSPB
+  description: >-
+    Маркетинг элитной недвижимости — это не о квадратных метрах, а о стиле жизни
+    и эмоциях. В премиум-сегменте стандартные рекламные инструменты не работают.
+    В новой статье блога ButlerSPB мы разбираем, как создать уникальный бренд
+    объекта, выстроить коммуникацию с состоятельной аудиторией через
+    эксклюзивный контент и какие каналы продвижения действительно приносят
+    результат, когда речь идет о продаже мечты.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '5.0'
+    reviewCount: 566
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/osobennosti-marketinga-dlya-dorogoy-nedvizhimosti/
 ---
 
 # Искусство эксклюзива: Ключевые особенности маркетинга дорогой недвижимости

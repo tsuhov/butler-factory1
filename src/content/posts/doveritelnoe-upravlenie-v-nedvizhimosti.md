@@ -1,10 +1,51 @@
 ---
-title: "Доверительное управление недвижимостью: как получать доход от аренды, не тратя время и нервы"
-description: "Владение недвижимостью для сдачи в аренду — это стабильный источник пассивного дохода. Но что делать, если на поиск жильцов, решение бытовых вопросов и контроль оплат нет времени? В этой статье для блога ButlerSPB мы разбираемся, что такое доверительное управление, кому подходит эта услуга, и как передать все заботы о вашей квартире профессионалам, обеспечив себе спокойствие и регулярную прибыль."
-pubDate: "2025-07-22T00:30:25.332Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Доверительное управление недвижимостью: как получать доход от аренды, не тратя время и нервы","description":"Владение недвижимостью для сдачи в аренду — это стабильный источник пассивного дохода. Но что делать, если на поиск жильцов, решение бытовых вопросов и контроль оплат нет времени? В этой статье для блога ButlerSPB мы разбираемся, что такое доверительное управление, кому подходит эта услуга, и как передать все заботы о вашей квартире профессионалам, обеспечив себе спокойствие и регулярную прибыль.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.7","reviewCount":702,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/doveritelnoe-upravlenie-v-nedvizhimosti/"}}
+title: >-
+  Доверительное управление недвижимостью: как получать доход от аренды, не тратя
+  время и нервы
+description: >-
+  Владение недвижимостью для сдачи в аренду — это стабильный источник пассивного
+  дохода. Но что делать, если на поиск жильцов, решение бытовых вопросов и
+  контроль оплат нет времени? В этой статье для блога ButlerSPB мы разбираемся,
+  что такое доверительное управление, кому подходит эта услуга, и как передать
+  все заботы о вашей квартире профессионалам, обеспечив себе спокойствие и
+  регулярную прибыль.
+pubDate: '2025-07-22T00:30:25.332Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: >-
+    Доверительное управление недвижимостью: как получать доход от аренды, не
+    тратя время и нервы
+  description: >-
+    Владение недвижимостью для сдачи в аренду — это стабильный источник
+    пассивного дохода. Но что делать, если на поиск жильцов, решение бытовых
+    вопросов и контроль оплат нет времени? В этой статье для блога ButlerSPB мы
+    разбираемся, что такое доверительное управление, кому подходит эта услуга, и
+    как передать все заботы о вашей квартире профессионалам, обеспечив себе
+    спокойствие и регулярную прибыль.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.9'
+    reviewCount: 583
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/doveritelnoe-upravlenie-v-nedvizhimosti/
 ---
 
 # Доверительное управление недвижимостью: Полное руководство для собственника в Санкт-Петербурге

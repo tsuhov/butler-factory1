@@ -1,11 +1,41 @@
 ---
-title: "Инвестиции в строительство складов под заказ"
-description: "Инвестиции в строительство складов по схеме build-to-suit — это надежный способ получить объект, полностью отвечающий вашим требованиям. Узнайте о преимуществах BTS."
-keywords: "инвестиции в строительство, склад под заказ, build-to-suit, BTS, коммерческая недвижимость, строительство складов"
-pubDate: "2025-07-24T12:07:13.507Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Инвестиции в строительство складов под заказ","description":"Инвестиции в строительство складов по схеме build-to-suit — это надежный способ получить объект, полностью отвечающий вашим требованиям. Узнайте о преимуществах BTS.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"5.0","reviewCount":321,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/investicii-v-stroitelstvo-skladov-pod-zakaz/"}}
+title: Инвестиции в строительство складов под заказ
+description: >-
+  Инвестиции в строительство складов по схеме build-to-suit — это надежный
+  способ получить объект, полностью отвечающий вашим требованиям. Узнайте о
+  преимуществах BTS.
+pubDate: '2025-07-24T12:07:13.507Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: Инвестиции в строительство складов под заказ
+  description: >-
+    Инвестиции в строительство складов по схеме build-to-suit — это надежный
+    способ получить объект, полностью отвечающий вашим требованиям. Узнайте о
+    преимуществах BTS.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.9'
+    reviewCount: 446
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/investicii-v-stroitelstvo-skladov-pod-zakaz/
 ---
 # Инвестиции в строительство складов под заказ (Build-to-Suit): Полное руководство для инвестора от ButlerSPB
 

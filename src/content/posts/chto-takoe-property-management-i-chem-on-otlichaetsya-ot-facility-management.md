@@ -1,10 +1,45 @@
 ---
-title: "Что такое property management и чем он отличается от facility management"
-description: "Часто путают property и facility management, но это два разных подхода к управлению недвижимостью. В нашей новой статье для блога ButlerSPB мы разбираемся в ключевых различиях. Узнайте, почему property management — это про максимизацию дохода и управление активом, а facility management — про обеспечение комфорта и функциональности самого здания."
-pubDate: "2025-07-22T11:35:43.420Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Что такое property management и чем он отличается от facility management","description":"Часто путают property и facility management, но это два разных подхода к управлению недвижимостью. В нашей новой статье для блога ButlerSPB мы разбираемся в ключевых различиях. Узнайте, почему property management — это про максимизацию дохода и управление активом, а facility management — про обеспечение комфорта и функциональности самого здания.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.8","reviewCount":765,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/chto-takoe-property-management-i-chem-on-otlichaetsya-ot-facility-management/"}}
+title: Что такое property management и чем он отличается от facility management
+description: >-
+  Часто путают property и facility management, но это два разных подхода к
+  управлению недвижимостью. В нашей новой статье для блога ButlerSPB мы
+  разбираемся в ключевых различиях. Узнайте, почему property management — это
+  про максимизацию дохода и управление активом, а facility management — про
+  обеспечение комфорта и функциональности самого здания.
+pubDate: '2025-07-22T11:35:43.420Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: Что такое property management и чем он отличается от facility management
+  description: >-
+    Часто путают property и facility management, но это два разных подхода к
+    управлению недвижимостью. В нашей новой статье для блога ButlerSPB мы
+    разбираемся в ключевых различиях. Узнайте, почему property management — это
+    про максимизацию дохода и управление активом, а facility management — про
+    обеспечение комфорта и функциональности самого здания.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.8'
+    reviewCount: 873
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/chto-takoe-property-management-i-chem-on-otlichaetsya-ot-facility-management/
 ---
 
 # Property Management и Facility Management: что это такое и в чем ключевая разница?

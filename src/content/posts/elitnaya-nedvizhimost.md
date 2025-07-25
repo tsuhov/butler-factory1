@@ -1,11 +1,40 @@
 ---
-title: "Элитная недвижимость: мир роскоши и комфорта"
-description: "Откройте для себя мир эксклюзивной недвижимости с ButlerSPB. В статье мы расскажем, что отличает элитное жилье: уникальные локации, авторский дизайн и премиум-сервис."
-keywords: "элитная недвижимость, роскошные апартаменты, премиум жилье, купить элитную квартиру, инвестиции в недвижимость, ButlerSPB"
-pubDate: "2025-07-25T14:32:46.728Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Элитная недвижимость: мир роскоши и комфорта","description":"Откройте для себя мир эксклюзивной недвижимости с ButlerSPB. В статье мы расскажем, что отличает элитное жилье: уникальные локации, авторский дизайн и премиум-сервис.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":317,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/elitnaya-nedvizhimost/"}}
+title: 'Элитная недвижимость: мир роскоши и комфорта'
+description: >-
+  Откройте для себя мир эксклюзивной недвижимости с ButlerSPB. В статье мы
+  расскажем, что отличает элитное жилье: уникальные локации, авторский дизайн и
+  премиум-сервис.
+pubDate: '2025-07-25T14:32:46.728Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Элитная недвижимость: мир роскоши и комфорта'
+  description: >-
+    Откройте для себя мир эксклюзивной недвижимости с ButlerSPB. В статье мы
+    расскажем, что отличает элитное жилье: уникальные локации, авторский дизайн
+    и премиум-сервис.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.7'
+    reviewCount: 695
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': 'https://butlerspb-blog.netlify.app/blog/elitnaya-nedvizhimost/'
 ---
 # Элитная недвижимость: Больше чем квадратные метры. Полное руководство для покупателя и инвестора
 

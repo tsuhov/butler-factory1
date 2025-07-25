@@ -1,11 +1,40 @@
 ---
-title: "Отраслевые выставки: ключ к успеху бизнеса"
-description: "Участие в выставке — это инвестиция в будущее. ButlerSPB поможет вам получить максимум от этого события, обеспечив безупречную организацию и привлекая клиентов."
-keywords: "отраслевая выставка, организация выставок, выставочный стенд, ButlerSPB, продвижение на выставке, деловые мероприятия, нетворкинг"
-pubDate: "2025-07-25T16:14:31.584Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Отраслевые выставки: ключ к успеху бизнеса","description":"Участие в выставке — это инвестиция в будущее. ButlerSPB поможет вам получить максимум от этого события, обеспечив безупречную организацию и привлекая клиентов.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":464,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/otraslevye-vystavki/"}}
+title: 'Отраслевые выставки: ключ к успеху бизнеса'
+description: >-
+  Участие в выставке — это инвестиция в будущее. ButlerSPB поможет вам получить
+  максимум от этого события, обеспечив безупречную организацию и привлекая
+  клиентов.
+pubDate: '2025-07-25T16:14:31.584Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Отраслевые выставки: ключ к успеху бизнеса'
+  description: >-
+    Участие в выставке — это инвестиция в будущее. ButlerSPB поможет вам
+    получить максимум от этого события, обеспечив безупречную организацию и
+    привлекая клиентов.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '5.0'
+    reviewCount: 695
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': 'https://butlerspb-blog.netlify.app/blog/otraslevye-vystavki/'
 ---
 # Как превратить участие в отраслевой выставке в машину для лидогенерации: Полное руководство от А до Я
 

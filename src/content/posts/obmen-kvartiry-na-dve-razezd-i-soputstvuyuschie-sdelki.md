@@ -1,10 +1,47 @@
 ---
-title: "Обмен квартиры на две: пошаговая инструкция по разъезду и сопутствующим сделкам"
-description: "Разъезд и обмен одной квартиры на две — сложный процесс со множеством юридических и финансовых нюансов. В этой статье от ButlerSPB мы разбираем основные схемы сделок, рассказываем о подводных камнях, налогах и о том, как провести размен максимально выгодно и безопасно для всех сторон."
-pubDate: "2025-07-23T11:37:00.926Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Обмен квартиры на две: пошаговая инструкция по разъезду и сопутствующим сделкам","description":"Разъезд и обмен одной квартиры на две — сложный процесс со множеством юридических и финансовых нюансов. В этой статье от ButlerSPB мы разбираем основные схемы сделок, рассказываем о подводных камнях, налогах и о том, как провести размен максимально выгодно и безопасно для всех сторон.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":637,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/obmen-kvartiry-na-dve-razezd-i-soputstvuyuschie-sdelki/"}}
+title: >-
+  Обмен квартиры на две: пошаговая инструкция по разъезду и сопутствующим
+  сделкам
+description: >-
+  Разъезд и обмен одной квартиры на две — сложный процесс со множеством
+  юридических и финансовых нюансов. В этой статье от ButlerSPB мы разбираем
+  основные схемы сделок, рассказываем о подводных камнях, налогах и о том, как
+  провести размен максимально выгодно и безопасно для всех сторон.
+pubDate: '2025-07-23T11:37:00.926Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: >-
+    Обмен квартиры на две: пошаговая инструкция по разъезду и сопутствующим
+    сделкам
+  description: >-
+    Разъезд и обмен одной квартиры на две — сложный процесс со множеством
+    юридических и финансовых нюансов. В этой статье от ButlerSPB мы разбираем
+    основные схемы сделок, рассказываем о подводных камнях, налогах и о том, как
+    провести размен максимально выгодно и безопасно для всех сторон.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.8'
+    reviewCount: 760
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/obmen-kvartiry-na-dve-razezd-i-soputstvuyuschie-sdelki/
 ---
 
 # Как обменять одну квартиру на две: полное руководство по разъезду и альтернативным сделкам

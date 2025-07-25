@@ -1,10 +1,45 @@
 ---
-title: "Сдача комнаты через агентство: стоит ли овчинка выделки"
-description: "Решили сдать комнату и задумались, стоит ли обращаться в агентство? Взвешиваем все «за» и «против». Разбираем, какие риски снимает профессиональный риелтор, сколько стоят его услуги и когда помощь специалиста действительно необходима. Полезные советы от команды ButlerSPB для всех, кто хочет сдать жилье быстро, выгодно и безопасно."
-pubDate: "2025-07-22T20:16:21.131Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Сдача комнаты через агентство: стоит ли овчинка выделки","description":"Решили сдать комнату и задумались, стоит ли обращаться в агентство? Взвешиваем все «за» и «против». Разбираем, какие риски снимает профессиональный риелтор, сколько стоят его услуги и когда помощь специалиста действительно необходима. Полезные советы от команды ButlerSPB для всех, кто хочет сдать жилье быстро, выгодно и безопасно.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.7","reviewCount":505,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/sdacha-komnaty-cherez-agentstvo-stoit-li-ovchinka-vydelki/"}}
+title: 'Сдача комнаты через агентство: стоит ли овчинка выделки'
+description: >-
+  Решили сдать комнату и задумались, стоит ли обращаться в агентство? Взвешиваем
+  все «за» и «против». Разбираем, какие риски снимает профессиональный риелтор,
+  сколько стоят его услуги и когда помощь специалиста действительно необходима.
+  Полезные советы от команды ButlerSPB для всех, кто хочет сдать жилье быстро,
+  выгодно и безопасно.
+pubDate: '2025-07-22T20:16:21.131Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Сдача комнаты через агентство: стоит ли овчинка выделки'
+  description: >-
+    Решили сдать комнату и задумались, стоит ли обращаться в агентство?
+    Взвешиваем все «за» и «против». Разбираем, какие риски снимает
+    профессиональный риелтор, сколько стоят его услуги и когда помощь
+    специалиста действительно необходима. Полезные советы от команды ButlerSPB
+    для всех, кто хочет сдать жилье быстро, выгодно и безопасно.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '5.0'
+    reviewCount: 814
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/sdacha-komnaty-cherez-agentstvo-stoit-li-ovchinka-vydelki/
 ---
 
 # Сдача комнаты через агентство: стоит ли овчинка выделки? Полный разбор для собственников в СПб

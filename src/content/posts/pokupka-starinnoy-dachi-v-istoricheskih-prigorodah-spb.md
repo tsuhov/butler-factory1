@@ -1,11 +1,40 @@
 ---
-title: "Старинная дача в пригороде СПб: как купить"
-description: "Мечтаете о даче с историей в живописных пригородах Петербурга? Рассказываем о нюансах выбора и покупки старинных домов в Курортном районе и окрестностях."
-keywords: "старинная дача, купить дачу спб, историческая недвижимость, Курортный район, Комарово, Репино, ButlerSPB"
-pubDate: "2025-07-24T12:11:03.377Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Старинная дача в пригороде СПб: как купить","description":"Мечтаете о даче с историей в живописных пригородах Петербурга? Рассказываем о нюансах выбора и покупки старинных домов в Курортном районе и окрестностях.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":320,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/pokupka-starinnoy-dachi-v-istoricheskih-prigorodah-spb/"}}
+title: 'Старинная дача в пригороде СПб: как купить'
+description: >-
+  Мечтаете о даче с историей в живописных пригородах Петербурга? Рассказываем о
+  нюансах выбора и покупки старинных домов в Курортном районе и окрестностях.
+pubDate: '2025-07-24T12:11:03.377Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Старинная дача в пригороде СПб: как купить'
+  description: >-
+    Мечтаете о даче с историей в живописных пригородах Петербурга? Рассказываем
+    о нюансах выбора и покупки старинных домов в Курортном районе и
+    окрестностях.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.7'
+    reviewCount: 710
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/pokupka-starinnoy-dachi-v-istoricheskih-prigorodah-spb/
 ---
 # Мечта о старинной даче: Как купить жемчужину в исторических пригородах Петербурга. Полное руководство от ButlerSPB
 

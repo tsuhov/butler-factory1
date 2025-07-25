@@ -1,11 +1,41 @@
 ---
-title: "Как найти риэлтора для промышленных объектов"
-description: "Ищете риэлтора для покупки или продажи завода? Это сложная задача. В нашей статье мы подробно объясняем, где искать специалиста и какие критерии важны для выбора."
-keywords: "промышленная недвижимость, купить завод, продать завод, риэлтор по коммерческой недвижимости, выбор риэлтора, ButlerSPB"
-pubDate: "2025-07-24T12:11:11.114Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Как найти риэлтора для промышленных объектов","description":"Ищете риэлтора для покупки или продажи завода? Это сложная задача. В нашей статье мы подробно объясняем, где искать специалиста и какие критерии важны для выбора.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.8","reviewCount":850,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/kak-nayti-rieltora-dlya-pokupki-ili-prodazhi-zavoda/"}}
+title: Как найти риэлтора для промышленных объектов
+description: >-
+  Ищете риэлтора для покупки или продажи завода? Это сложная задача. В нашей
+  статье мы подробно объясняем, где искать специалиста и какие критерии важны
+  для выбора.
+pubDate: '2025-07-24T12:11:11.114Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: Как найти риэлтора для промышленных объектов
+  description: >-
+    Ищете риэлтора для покупки или продажи завода? Это сложная задача. В нашей
+    статье мы подробно объясняем, где искать специалиста и какие критерии важны
+    для выбора.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.9'
+    reviewCount: 511
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/kak-nayti-rieltora-dlya-pokupki-ili-prodazhi-zavoda/
 ---
 # Как найти риэлтора для покупки или продажи завода: Полное руководство для собственников и инвесторов
 

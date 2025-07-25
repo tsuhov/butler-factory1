@@ -1,11 +1,40 @@
 ---
-title: "Полная прозрачность: главный принцип ButlerSPB"
-description: "В ButlerSPB мы верим, что доверие — это основа всего. Поэтому наш главный принцип — полная прозрачность на всех этапах: от первого звонка до отчета о работе."
-keywords: "прозрачность, доверие, ButlerSPB, качество услуг, отчетность, честность, клиентский сервис"
-pubDate: "2025-07-25T16:16:38.951Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Полная прозрачность: главный принцип ButlerSPB","description":"В ButlerSPB мы верим, что доверие — это основа всего. Поэтому наш главный принцип — полная прозрачность на всех этапах: от первого звонка до отчета о работе.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"5.0","reviewCount":397,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/polnaya-prozrachnost/"}}
+title: 'Полная прозрачность: главный принцип ButlerSPB'
+description: >-
+  В ButlerSPB мы верим, что доверие — это основа всего. Поэтому наш главный
+  принцип — полная прозрачность на всех этапах: от первого звонка до отчета о
+  работе.
+pubDate: '2025-07-25T16:16:38.951Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Полная прозрачность: главный принцип ButlerSPB'
+  description: >-
+    В ButlerSPB мы верим, что доверие — это основа всего. Поэтому наш главный
+    принцип — полная прозрачность на всех этапах: от первого звонка до отчета о
+    работе.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '5.0'
+    reviewCount: 642
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': 'https://butlerspb-blog.netlify.app/blog/polnaya-prozrachnost/'
 ---
 # Полная прозрачность в бизнесе: как превратить ее в ваше главное конкурентное преимущество
 

@@ -1,11 +1,40 @@
 ---
-title: "Как запустить свой бизнес: полное руководство"
-description: "Мечтаете о своем деле? Наша статья поможет вам пройти путь от идеи до первого клиента. Узнайте все о регистрации, планировании и поиске инвестиций. ButlerSPB."
-keywords: "запуск бизнеса, открыть свое дело, бизнес-план, регистрация бизнеса, стартап, предпринимательство, ButlerSPB"
-pubDate: "2025-07-25T14:14:22.974Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Как запустить свой бизнес: полное руководство","description":"Мечтаете о своем деле? Наша статья поможет вам пройти путь от идеи до первого клиента. Узнайте все о регистрации, планировании и поиске инвестиций. ButlerSPB.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":531,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/zapusk-biznesa/"}}
+title: 'Как запустить свой бизнес: полное руководство'
+description: >-
+  Мечтаете о своем деле? Наша статья поможет вам пройти путь от идеи до первого
+  клиента. Узнайте все о регистрации, планировании и поиске инвестиций.
+  ButlerSPB.
+pubDate: '2025-07-25T14:14:22.974Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Как запустить свой бизнес: полное руководство'
+  description: >-
+    Мечтаете о своем деле? Наша статья поможет вам пройти путь от идеи до
+    первого клиента. Узнайте все о регистрации, планировании и поиске
+    инвестиций. ButlerSPB.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.7'
+    reviewCount: 677
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': 'https://butlerspb-blog.netlify.app/blog/zapusk-biznesa/'
 ---
 # Запуск бизнеса с нуля: Полное пошаговое руководство для предпринимателя
 

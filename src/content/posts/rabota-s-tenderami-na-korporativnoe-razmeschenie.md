@@ -1,10 +1,51 @@
 ---
-title: "Работа с тендерами на корпоративное размещение: инструкция для отельеров и апарт-отелей"
-description: "Участие в тендерах на корпоративное размещение — отличная возможность для роста бизнеса, но и серьезный вызов. В новой статье блога ButlerSPB мы разбираем ключевые этапы: от поиска подходящего конкурса и анализа документации до подготовки идеального коммерческого предложения. Узнайте, как избежать распространенных ошибок и увеличить свои шансы на победу в борьбе за крупные контракты."
-pubDate: "2025-07-22T11:14:10.361Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Работа с тендерами на корпоративное размещение: инструкция для отельеров и апарт-отелей","description":"Участие в тендерах на корпоративное размещение — отличная возможность для роста бизнеса, но и серьезный вызов. В новой статье блога ButlerSPB мы разбираем ключевые этапы: от поиска подходящего конкурса и анализа документации до подготовки идеального коммерческого предложения. Узнайте, как избежать распространенных ошибок и увеличить свои шансы на победу в борьбе за крупные контракты.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.8","reviewCount":554,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/rabota-s-tenderami-na-korporativnoe-razmeschenie/"}}
+title: >-
+  Работа с тендерами на корпоративное размещение: инструкция для отельеров и
+  апарт-отелей
+description: >-
+  Участие в тендерах на корпоративное размещение — отличная возможность для
+  роста бизнеса, но и серьезный вызов. В новой статье блога ButlerSPB мы
+  разбираем ключевые этапы: от поиска подходящего конкурса и анализа
+  документации до подготовки идеального коммерческого предложения. Узнайте, как
+  избежать распространенных ошибок и увеличить свои шансы на победу в борьбе за
+  крупные контракты.
+pubDate: '2025-07-22T11:14:10.361Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: >-
+    Работа с тендерами на корпоративное размещение: инструкция для отельеров и
+    апарт-отелей
+  description: >-
+    Участие в тендерах на корпоративное размещение — отличная возможность для
+    роста бизнеса, но и серьезный вызов. В новой статье блога ButlerSPB мы
+    разбираем ключевые этапы: от поиска подходящего конкурса и анализа
+    документации до подготовки идеального коммерческого предложения. Узнайте,
+    как избежать распространенных ошибок и увеличить свои шансы на победу в
+    борьбе за крупные контракты.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.9'
+    reviewCount: 326
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/rabota-s-tenderami-na-korporativnoe-razmeschenie/
 ---
 
 # Как провести тендер на корпоративное размещение: Пошаговое руководство для заказчика

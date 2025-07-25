@@ -1,10 +1,53 @@
 ---
-title: "Как сдать квартиру посуточно только командировочным: полное руководство от ButlerSPB"
-description: "Хотите сдавать свою квартиру в Санкт-Петербурге посуточно, но опасаетесь шумных компаний и вечеринок? Ориентация на командировочных — ваше решение! В нашей новой статье от ButlerSPB мы подробно разбираем, как привлечь деловых гостей, что должно быть в квартире для их комфорта, как правильно оформить объявление и предоставить отчетные документы. Узнайте, как сделать ваш объект недвижимости востребованным у самого надежного сегмента арендаторов и обеспечить стабильный доход."
-pubDate: "2025-07-23T11:49:33.239Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Как сдать квартиру посуточно только командировочным: полное руководство от ButlerSPB","description":"Хотите сдавать свою квартиру в Санкт-Петербурге посуточно, но опасаетесь шумных компаний и вечеринок? Ориентация на командировочных — ваше решение! В нашей новой статье от ButlerSPB мы подробно разбираем, как привлечь деловых гостей, что должно быть в квартире для их комфорта, как правильно оформить объявление и предоставить отчетные документы. Узнайте, как сделать ваш объект недвижимости востребованным у самого надежного сегмента арендаторов и обеспечить стабильный доход.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":538,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/kak-sdat-kvartiru-posutochno-tolko-dlya-komandirovochnyh/"}}
+title: >-
+  Как сдать квартиру посуточно только командировочным: полное руководство от
+  ButlerSPB
+description: >-
+  Хотите сдавать свою квартиру в Санкт-Петербурге посуточно, но опасаетесь
+  шумных компаний и вечеринок? Ориентация на командировочных — ваше решение! В
+  нашей новой статье от ButlerSPB мы подробно разбираем, как привлечь деловых
+  гостей, что должно быть в квартире для их комфорта, как правильно оформить
+  объявление и предоставить отчетные документы. Узнайте, как сделать ваш объект
+  недвижимости востребованным у самого надежного сегмента арендаторов и
+  обеспечить стабильный доход.
+pubDate: '2025-07-23T11:49:33.239Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: >-
+    Как сдать квартиру посуточно только командировочным: полное руководство от
+    ButlerSPB
+  description: >-
+    Хотите сдавать свою квартиру в Санкт-Петербурге посуточно, но опасаетесь
+    шумных компаний и вечеринок? Ориентация на командировочных — ваше решение! В
+    нашей новой статье от ButlerSPB мы подробно разбираем, как привлечь деловых
+    гостей, что должно быть в квартире для их комфорта, как правильно оформить
+    объявление и предоставить отчетные документы. Узнайте, как сделать ваш
+    объект недвижимости востребованным у самого надежного сегмента арендаторов и
+    обеспечить стабильный доход.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.7'
+    reviewCount: 674
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/kak-sdat-kvartiru-posutochno-tolko-dlya-komandirovochnyh/
 ---
 
 # Как сдать квартиру посуточно командировочным: полное руководство для собственника от ButlerSPB

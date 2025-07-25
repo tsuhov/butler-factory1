@@ -1,10 +1,45 @@
 ---
-title: "Собственник поднимает арендную плату: что делать и как защитить свои права"
-description: "Столкнулись с неожиданным повышением арендной платы? Не паникуйте. В этой статье от ButlerSPB мы подробно разбираем, на что обратить внимание в договоре, какие у вас есть законные права, как вести переговоры с собственником и какие шаги предпринять, если договориться не удалось. Узнайте, как действовать грамотно и защитить свои интересы."
-pubDate: "2025-07-22T11:35:06.629Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Собственник поднимает арендную плату: что делать и как защитить свои права","description":"Столкнулись с неожиданным повышением арендной платы? Не паникуйте. В этой статье от ButlerSPB мы подробно разбираем, на что обратить внимание в договоре, какие у вас есть законные права, как вести переговоры с собственником и какие шаги предпринять, если договориться не удалось. Узнайте, как действовать грамотно и защитить свои интересы.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"5.0","reviewCount":890,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/chto-delat-esli-sobstvennik-podnimaet-arendnuyu-platu/"}}
+title: 'Собственник поднимает арендную плату: что делать и как защитить свои права'
+description: >-
+  Столкнулись с неожиданным повышением арендной платы? Не паникуйте. В этой
+  статье от ButlerSPB мы подробно разбираем, на что обратить внимание в
+  договоре, какие у вас есть законные права, как вести переговоры с
+  собственником и какие шаги предпринять, если договориться не удалось. Узнайте,
+  как действовать грамотно и защитить свои интересы.
+pubDate: '2025-07-22T11:35:06.629Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Собственник поднимает арендную плату: что делать и как защитить свои права'
+  description: >-
+    Столкнулись с неожиданным повышением арендной платы? Не паникуйте. В этой
+    статье от ButlerSPB мы подробно разбираем, на что обратить внимание в
+    договоре, какие у вас есть законные права, как вести переговоры с
+    собственником и какие шаги предпринять, если договориться не удалось.
+    Узнайте, как действовать грамотно и защитить свои интересы.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '5.0'
+    reviewCount: 875
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/chto-delat-esli-sobstvennik-podnimaet-arendnuyu-platu/
 ---
 
 # Собственник поднимает арендную плату: пошаговая инструкция для арендатора от экспертов по управлению недвижимостью

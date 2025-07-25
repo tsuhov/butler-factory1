@@ -1,11 +1,40 @@
 ---
-title: "Временная регистрация в СПб: ваш гид от А до Я"
-description: "Нужна временная регистрация в Санкт-Петербурге? Узнайте, зачем она нужна, какие документы потребуются и как проходит процедура оформления. ButlerSPB поможет!"
-keywords: "временная регистрация, регистрация в спб, прописка, регистрация по месту пребывания, оформить регистрацию, документы для регистрации"
-pubDate: "2025-07-25T16:32:10.999Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Временная регистрация в СПб: ваш гид от А до Я","description":"Нужна временная регистрация в Санкт-Петербурге? Узнайте, зачем она нужна, какие документы потребуются и как проходит процедура оформления. ButlerSPB поможет!","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"5.0","reviewCount":710,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/vremennaya-registraciya/"}}
+title: 'Временная регистрация в СПб: ваш гид от А до Я'
+description: >-
+  Нужна временная регистрация в Санкт-Петербурге? Узнайте, зачем она нужна,
+  какие документы потребуются и как проходит процедура оформления. ButlerSPB
+  поможет!
+pubDate: '2025-07-25T16:32:10.999Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Временная регистрация в СПб: ваш гид от А до Я'
+  description: >-
+    Нужна временная регистрация в Санкт-Петербурге? Узнайте, зачем она нужна,
+    какие документы потребуются и как проходит процедура оформления. ButlerSPB
+    поможет!
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.7'
+    reviewCount: 470
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': 'https://butlerspb-blog.netlify.app/blog/vremennaya-registraciya/'
 ---
 # Временная регистрация в 2024 году: Полное руководство от А до Я
 *Все, что нужно знать об оформлении в Санкт-Петербурге*

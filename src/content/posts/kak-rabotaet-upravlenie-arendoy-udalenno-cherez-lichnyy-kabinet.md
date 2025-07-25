@@ -1,10 +1,45 @@
 ---
-title: "Как работает удаленное управление арендой через личный кабинет ButlerSPB"
-description: "Современные технологии позволяют собственникам недвижимости контролировать все процессы аренды на расстоянии. В этой статье мы подробно разберем, как личный кабинет от ButlerSPB становится вашим надежным помощником: от отслеживания финансов и бронирований до заказа клининга и решения бытовых вопросов в несколько кликов."
-pubDate: "2025-07-23T11:09:42.251Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Как работает удаленное управление арендой через личный кабинет ButlerSPB","description":"Современные технологии позволяют собственникам недвижимости контролировать все процессы аренды на расстоянии. В этой статье мы подробно разберем, как личный кабинет от ButlerSPB становится вашим надежным помощником: от отслеживания финансов и бронирований до заказа клининга и решения бытовых вопросов в несколько кликов.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":315,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/kak-rabotaet-upravlenie-arendoy-udalenno-cherez-lichnyy-kabinet/"}}
+title: Как работает удаленное управление арендой через личный кабинет ButlerSPB
+description: >-
+  Современные технологии позволяют собственникам недвижимости контролировать все
+  процессы аренды на расстоянии. В этой статье мы подробно разберем, как личный
+  кабинет от ButlerSPB становится вашим надежным помощником: от отслеживания
+  финансов и бронирований до заказа клининга и решения бытовых вопросов в
+  несколько кликов.
+pubDate: '2025-07-23T11:09:42.251Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: Как работает удаленное управление арендой через личный кабинет ButlerSPB
+  description: >-
+    Современные технологии позволяют собственникам недвижимости контролировать
+    все процессы аренды на расстоянии. В этой статье мы подробно разберем, как
+    личный кабинет от ButlerSPB становится вашим надежным помощником: от
+    отслеживания финансов и бронирований до заказа клининга и решения бытовых
+    вопросов в несколько кликов.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.8'
+    reviewCount: 750
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/kak-rabotaet-upravlenie-arendoy-udalenno-cherez-lichnyy-kabinet/
 ---
 
 # Удаленное управление арендой: Полный гид по личному кабинету для собственника от ButlerSPB

@@ -1,10 +1,45 @@
 ---
-title: "Как сдать в аренду подвал или цокольный этаж: инструкция от ButlerSPB"
-description: "Думаете, подвал — это просто склад для ненужных вещей? А что, если мы скажем, что это потенциальный источник стабильного дохода? В этой статье блога ButlerSPB мы разберем все шаги: от юридического оформления и подготовки помещения до поиска надежного арендатора и заключения договора. Узнайте, как превратить неиспользуемые квадратные метры в прибыльный актив."
-pubDate: "2025-07-23T10:48:33.422Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Как сдать в аренду подвал или цокольный этаж: инструкция от ButlerSPB","description":"Думаете, подвал — это просто склад для ненужных вещей? А что, если мы скажем, что это потенциальный источник стабильного дохода? В этой статье блога ButlerSPB мы разберем все шаги: от юридического оформления и подготовки помещения до поиска надежного арендатора и заключения договора. Узнайте, как превратить неиспользуемые квадратные метры в прибыльный актив.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.8","reviewCount":487,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/kak-sdat-v-arendu-pomeschenie-v-podvale-ili-cokolnom-etazhe/"}}
+title: 'Как сдать в аренду подвал или цокольный этаж: инструкция от ButlerSPB'
+description: >-
+  Думаете, подвал — это просто склад для ненужных вещей? А что, если мы скажем,
+  что это потенциальный источник стабильного дохода? В этой статье блога
+  ButlerSPB мы разберем все шаги: от юридического оформления и подготовки
+  помещения до поиска надежного арендатора и заключения договора. Узнайте, как
+  превратить неиспользуемые квадратные метры в прибыльный актив.
+pubDate: '2025-07-23T10:48:33.422Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Как сдать в аренду подвал или цокольный этаж: инструкция от ButlerSPB'
+  description: >-
+    Думаете, подвал — это просто склад для ненужных вещей? А что, если мы
+    скажем, что это потенциальный источник стабильного дохода? В этой статье
+    блога ButlerSPB мы разберем все шаги: от юридического оформления и
+    подготовки помещения до поиска надежного арендатора и заключения договора.
+    Узнайте, как превратить неиспользуемые квадратные метры в прибыльный актив.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.8'
+    reviewCount: 802
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/kak-sdat-v-arendu-pomeschenie-v-podvale-ili-cokolnom-etazhe/
 ---
 
 # Сдать подвал или цоколь в аренду: превращаем "мертвые метры" в стабильный доход

@@ -1,10 +1,46 @@
 ---
-title: "Сотрудничество с компаниями для размещения сотрудников: как заключить договор"
-description: "Планируете разместить команду в Санкт-Петербурге? В блоге ButlerSPB разбираем ключевые этапы и важные пункты договора на корпоративное размещение сотрудников. Узнайте, как правильно оформить сотрудничество, чтобы обеспечить комфорт для вашей команды и юридическую безопасность для бизнеса."
-pubDate: "2025-07-22T11:20:27.169Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Сотрудничество с компаниями для размещения сотрудников: как заключить договор","description":"Планируете разместить команду в Санкт-Петербурге? В блоге ButlerSPB разбираем ключевые этапы и важные пункты договора на корпоративное размещение сотрудников. Узнайте, как правильно оформить сотрудничество, чтобы обеспечить комфорт для вашей команды и юридическую безопасность для бизнеса.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.7","reviewCount":651,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/sotrudnichestvo-s-kompaniyami-dlya-razmescheniya-sotrudnikov-kak-zaklyuchit-dogovor/"}}
+title: 'Сотрудничество с компаниями для размещения сотрудников: как заключить договор'
+description: >-
+  Планируете разместить команду в Санкт-Петербурге? В блоге ButlerSPB разбираем
+  ключевые этапы и важные пункты договора на корпоративное размещение
+  сотрудников. Узнайте, как правильно оформить сотрудничество, чтобы обеспечить
+  комфорт для вашей команды и юридическую безопасность для бизнеса.
+pubDate: '2025-07-22T11:20:27.169Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: >-
+    Сотрудничество с компаниями для размещения сотрудников: как заключить
+    договор
+  description: >-
+    Планируете разместить команду в Санкт-Петербурге? В блоге ButlerSPB
+    разбираем ключевые этапы и важные пункты договора на корпоративное
+    размещение сотрудников. Узнайте, как правильно оформить сотрудничество,
+    чтобы обеспечить комфорт для вашей команды и юридическую безопасность для
+    бизнеса.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.7'
+    reviewCount: 381
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/sotrudnichestvo-s-kompaniyami-dlya-razmescheniya-sotrudnikov-kak-zaklyuchit-dogovor/
 ---
 
 # Сотрудничество с компаниями для размещения сотрудников: как заключить выгодный и безопасный договор

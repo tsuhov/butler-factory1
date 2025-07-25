@@ -1,10 +1,51 @@
 ---
-title: "Искусство навигации в городе: как вежливо спросить дорогу и поблагодарить за помощь"
-description: "Даже с навигатором в кармане может возникнуть ситуация, когда помощь прохожего неоценима. В новой статье блога ButlerSPB мы разбираем тонкости уличного этикета: с каких фраз лучше начать разговор, как четко сформулировать свой вопрос, чтобы вас поняли с полуслова, и какими способами можно выразить благодарность, чтобы оставить о себе приятное впечатление. Наши советы помогут вам чувствовать себя уверенно на улицах любого города."
-pubDate: "2025-07-22T13:14:34.727Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Искусство навигации в городе: как вежливо спросить дорогу и поблагодарить за помощь","description":"Даже с навигатором в кармане может возникнуть ситуация, когда помощь прохожего неоценима. В новой статье блога ButlerSPB мы разбираем тонкости уличного этикета: с каких фраз лучше начать разговор, как четко сформулировать свой вопрос, чтобы вас поняли с полуслова, и какими способами можно выразить благодарность, чтобы оставить о себе приятное впечатление. Наши советы помогут вам чувствовать себя уверенно на улицах любого города.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.8","reviewCount":472,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/kak-pravilno-sprashivat-dorogu-i-blagodarit-za-pomosch/"}}
+title: >-
+  Искусство навигации в городе: как вежливо спросить дорогу и поблагодарить за
+  помощь
+description: >-
+  Даже с навигатором в кармане может возникнуть ситуация, когда помощь прохожего
+  неоценима. В новой статье блога ButlerSPB мы разбираем тонкости уличного
+  этикета: с каких фраз лучше начать разговор, как четко сформулировать свой
+  вопрос, чтобы вас поняли с полуслова, и какими способами можно выразить
+  благодарность, чтобы оставить о себе приятное впечатление. Наши советы помогут
+  вам чувствовать себя уверенно на улицах любого города.
+pubDate: '2025-07-22T13:14:34.727Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: >-
+    Искусство навигации в городе: как вежливо спросить дорогу и поблагодарить за
+    помощь
+  description: >-
+    Даже с навигатором в кармане может возникнуть ситуация, когда помощь
+    прохожего неоценима. В новой статье блога ButlerSPB мы разбираем тонкости
+    уличного этикета: с каких фраз лучше начать разговор, как четко
+    сформулировать свой вопрос, чтобы вас поняли с полуслова, и какими способами
+    можно выразить благодарность, чтобы оставить о себе приятное впечатление.
+    Наши советы помогут вам чувствовать себя уверенно на улицах любого города.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.7'
+    reviewCount: 771
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/kak-pravilno-sprashivat-dorogu-i-blagodarit-za-pomosch/
 ---
 
 # Искусство навигации по Петербургу: как вежливо спросить дорогу и элегантно поблагодарить

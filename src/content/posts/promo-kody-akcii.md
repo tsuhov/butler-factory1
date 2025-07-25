@@ -1,11 +1,40 @@
 ---
-title: "Промокоды ButlerSPB: Скидки и акции для вас"
-description: "Узнайте, как использовать промокоды ButlerSPB для получения скидок на наши услуги. В этой статье мы раскроем все секреты выгодных покупок и поделимся актуальными акциями."
-keywords: "промокод, скидка, акция, ButlerSPB, выгода, купон на скидку, спецпредложение"
-pubDate: "2025-07-25T16:12:08.092Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Промокоды ButlerSPB: Скидки и акции для вас","description":"Узнайте, как использовать промокоды ButlerSPB для получения скидок на наши услуги. В этой статье мы раскроем все секреты выгодных покупок и поделимся актуальными акциями.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.8","reviewCount":473,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/promo-kody-akcii/"}}
+title: 'Промокоды ButlerSPB: Скидки и акции для вас'
+description: >-
+  Узнайте, как использовать промокоды ButlerSPB для получения скидок на наши
+  услуги. В этой статье мы раскроем все секреты выгодных покупок и поделимся
+  актуальными акциями.
+pubDate: '2025-07-25T16:12:08.092Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Промокоды ButlerSPB: Скидки и акции для вас'
+  description: >-
+    Узнайте, как использовать промокоды ButlerSPB для получения скидок на наши
+    услуги. В этой статье мы раскроем все секреты выгодных покупок и поделимся
+    актуальными акциями.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.8'
+    reviewCount: 344
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': 'https://butlerspb-blog.netlify.app/blog/promo-kody-akcii/'
 ---
 # Секреты выгодных покупок: Ваш полный гид по промокодам и акциям
 

@@ -1,11 +1,40 @@
 ---
-title: "Роль коммерческого юриста в современном бизнесе"
-description: "Коммерческий юрист — незаменимый специалист для любой компании. Он обеспечивает правовую чистоту сделок, помогает в переговорах и защищает интересы бизнеса."
-keywords: "коммерческий юрист, юридическое сопровождение, договорное право, корпоративные споры, правовая помощь бизнесу, ButlerSPB"
-pubDate: "2025-07-25T15:48:27.451Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Роль коммерческого юриста в современном бизнесе","description":"Коммерческий юрист — незаменимый специалист для любой компании. Он обеспечивает правовую чистоту сделок, помогает в переговорах и защищает интересы бизнеса.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.8","reviewCount":486,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/yurist-kommerciya/"}}
+title: Роль коммерческого юриста в современном бизнесе
+description: >-
+  Коммерческий юрист — незаменимый специалист для любой компании. Он
+  обеспечивает правовую чистоту сделок, помогает в переговорах и защищает
+  интересы бизнеса.
+pubDate: '2025-07-25T15:48:27.451Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: Роль коммерческого юриста в современном бизнесе
+  description: >-
+    Коммерческий юрист — незаменимый специалист для любой компании. Он
+    обеспечивает правовую чистоту сделок, помогает в переговорах и защищает
+    интересы бизнеса.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.9'
+    reviewCount: 322
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': 'https://butlerspb-blog.netlify.app/blog/yurist-kommerciya/'
 ---
 # Юрист по коммерции: не расход, а инвестиция в безопасность и рост вашего бизнеса
 

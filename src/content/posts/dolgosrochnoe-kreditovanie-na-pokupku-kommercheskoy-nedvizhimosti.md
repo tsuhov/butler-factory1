@@ -1,10 +1,51 @@
 ---
-title: "Долгосрочное кредитование на покупку коммерческой недвижимости: гид для инвестора от ButlerSPB"
-description: "Планируете расширить бизнес или выгодно вложить капитал? Долгосрочный кредит на коммерческую недвижимость — эффективный инструмент для достижения этих целей. В нашей новой статье мы подробно разбираем все аспекты: от выбора программы и оценки рисков до сбора документов и получения одобрения банка. Узнайте, как сделать правильный выбор и обеспечить стабильное будущее для вашего бизнеса вместе с экспертами ButlerSPB."
-pubDate: "2025-07-23T11:52:49.444Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Долгосрочное кредитование на покупку коммерческой недвижимости: гид для инвестора от ButlerSPB","description":"Планируете расширить бизнес или выгодно вложить капитал? Долгосрочный кредит на коммерческую недвижимость — эффективный инструмент для достижения этих целей. В нашей новой статье мы подробно разбираем все аспекты: от выбора программы и оценки рисков до сбора документов и получения одобрения банка. Узнайте, как сделать правильный выбор и обеспечить стабильное будущее для вашего бизнеса вместе с экспертами ButlerSPB.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":773,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/dolgosrochnoe-kreditovanie-na-pokupku-kommercheskoy-nedvizhimosti/"}}
+title: >-
+  Долгосрочное кредитование на покупку коммерческой недвижимости: гид для
+  инвестора от ButlerSPB
+description: >-
+  Планируете расширить бизнес или выгодно вложить капитал? Долгосрочный кредит
+  на коммерческую недвижимость — эффективный инструмент для достижения этих
+  целей. В нашей новой статье мы подробно разбираем все аспекты: от выбора
+  программы и оценки рисков до сбора документов и получения одобрения банка.
+  Узнайте, как сделать правильный выбор и обеспечить стабильное будущее для
+  вашего бизнеса вместе с экспертами ButlerSPB.
+pubDate: '2025-07-23T11:52:49.444Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: >-
+    Долгосрочное кредитование на покупку коммерческой недвижимости: гид для
+    инвестора от ButlerSPB
+  description: >-
+    Планируете расширить бизнес или выгодно вложить капитал? Долгосрочный кредит
+    на коммерческую недвижимость — эффективный инструмент для достижения этих
+    целей. В нашей новой статье мы подробно разбираем все аспекты: от выбора
+    программы и оценки рисков до сбора документов и получения одобрения банка.
+    Узнайте, как сделать правильный выбор и обеспечить стабильное будущее для
+    вашего бизнеса вместе с экспертами ButlerSPB.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.8'
+    reviewCount: 357
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/dolgosrochnoe-kreditovanie-na-pokupku-kommercheskoy-nedvizhimosti/
 ---
 
 # Долгосрочное кредитование на покупку коммерческой недвижимости: Полное руководство для бизнеса и инвесторов

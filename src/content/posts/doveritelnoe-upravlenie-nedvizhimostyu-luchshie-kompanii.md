@@ -1,10 +1,47 @@
 ---
-title: "Доверительное управление недвижимостью: рейтинг лучших компаний и критерии выбора"
-description: "Хотите получать стабильный доход от аренды без лишних хлопот? Эксперты ButlerSPB рассказывают, как работает доверительное управление недвижимостью, и на что обратить внимание при выборе управляющей компании в Санкт-Петербурге, чтобы защитить свои инвестиции."
-pubDate: "2025-07-22T00:53:39.349Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Доверительное управление недвижимостью: рейтинг лучших компаний и критерии выбора","description":"Хотите получать стабильный доход от аренды без лишних хлопот? Эксперты ButlerSPB рассказывают, как работает доверительное управление недвижимостью, и на что обратить внимание при выборе управляющей компании в Санкт-Петербурге, чтобы защитить свои инвестиции.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":685,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/doveritelnoe-upravlenie-nedvizhimostyu-luchshie-kompanii/"}}
+title: >-
+  Доверительное управление недвижимостью: рейтинг лучших компаний и критерии
+  выбора
+description: >-
+  Хотите получать стабильный доход от аренды без лишних хлопот? Эксперты
+  ButlerSPB рассказывают, как работает доверительное управление недвижимостью, и
+  на что обратить внимание при выборе управляющей компании в Санкт-Петербурге,
+  чтобы защитить свои инвестиции.
+pubDate: '2025-07-22T00:53:39.349Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: >-
+    Доверительное управление недвижимостью: рейтинг лучших компаний и критерии
+    выбора
+  description: >-
+    Хотите получать стабильный доход от аренды без лишних хлопот? Эксперты
+    ButlerSPB рассказывают, как работает доверительное управление недвижимостью,
+    и на что обратить внимание при выборе управляющей компании в
+    Санкт-Петербурге, чтобы защитить свои инвестиции.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.8'
+    reviewCount: 398
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/doveritelnoe-upravlenie-nedvizhimostyu-luchshie-kompanii/
 ---
 
 # Доверительное управление недвижимостью: Рейтинг лучших компаний и 7 критериев выбора

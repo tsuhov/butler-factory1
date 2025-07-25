@@ -1,10 +1,43 @@
 ---
-title: "Помощь в покупке квартиры в Питере: полное руководство от ButlerSPB"
-description: "Планируете купить квартиру в Санкт-Петербурге, но не знаете, с чего начать? Эксперты ButlerSPB подготовили пошаговую инструкцию: от выбора района и проверки документов до заключения сделки. Узнайте, как избежать рисков и найти квартиру своей мечты в Северной столице."
-pubDate: "2025-07-21T23:00:26.457Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Помощь в покупке квартиры в Питере: полное руководство от ButlerSPB","description":"Планируете купить квартиру в Санкт-Петербурге, но не знаете, с чего начать? Эксперты ButlerSPB подготовили пошаговую инструкцию: от выбора района и проверки документов до заключения сделки. Узнайте, как избежать рисков и найти квартиру своей мечты в Северной столице.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"5.0","reviewCount":743,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/pomosch-v-pokupke-kvartiry-v-pitere/"}}
+title: 'Помощь в покупке квартиры в Питере: полное руководство от ButlerSPB'
+description: >-
+  Планируете купить квартиру в Санкт-Петербурге, но не знаете, с чего начать?
+  Эксперты ButlerSPB подготовили пошаговую инструкцию: от выбора района и
+  проверки документов до заключения сделки. Узнайте, как избежать рисков и найти
+  квартиру своей мечты в Северной столице.
+pubDate: '2025-07-21T23:00:26.457Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Помощь в покупке квартиры в Питере: полное руководство от ButlerSPB'
+  description: >-
+    Планируете купить квартиру в Санкт-Петербурге, но не знаете, с чего начать?
+    Эксперты ButlerSPB подготовили пошаговую инструкцию: от выбора района и
+    проверки документов до заключения сделки. Узнайте, как избежать рисков и
+    найти квартиру своей мечты в Северной столице.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.7'
+    reviewCount: 340
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/pomosch-v-pokupke-kvartiry-v-pitere/
 ---
 
 # Помощь в покупке квартиры в Питере: Ваш персональный гид от выбора до ключей

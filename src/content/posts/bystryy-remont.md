@@ -1,11 +1,40 @@
 ---
-title: "Быстрый ремонт квартиры: советы от ButlerSPB"
-description: "Хотите быстро обновить свою квартиру без больших затрат? ButlerSPB предлагает услуги косметического ремонта в Санкт-Петербурге. Рассказываем, как мы делаем это!"
-keywords: "быстрый ремонт, косметический ремонт, ремонт квартиры, ремонт в СПб, ButlerSPB, обновить интерьер, экспресс-ремонт"
-pubDate: "2025-07-25T15:58:20.285Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Быстрый ремонт квартиры: советы от ButlerSPB","description":"Хотите быстро обновить свою квартиру без больших затрат? ButlerSPB предлагает услуги косметического ремонта в Санкт-Петербурге. Рассказываем, как мы делаем это!","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"5.0","reviewCount":609,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/bystryy-remont/"}}
+title: 'Быстрый ремонт квартиры: советы от ButlerSPB'
+description: >-
+  Хотите быстро обновить свою квартиру без больших затрат? ButlerSPB предлагает
+  услуги косметического ремонта в Санкт-Петербурге. Рассказываем, как мы делаем
+  это!
+pubDate: '2025-07-25T15:58:20.285Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Быстрый ремонт квартиры: советы от ButlerSPB'
+  description: >-
+    Хотите быстро обновить свою квартиру без больших затрат? ButlerSPB
+    предлагает услуги косметического ремонта в Санкт-Петербурге. Рассказываем,
+    как мы делаем это!
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.8'
+    reviewCount: 393
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': 'https://butlerspb-blog.netlify.app/blog/bystryy-remont/'
 ---
 # Быстрый ремонт квартиры: пошаговая инструкция, как уложиться в 4 недели и не выйти за рамки бюджета
 

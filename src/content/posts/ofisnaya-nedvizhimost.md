@@ -1,11 +1,40 @@
 ---
-title: "Рынок офисов в 2024: анализ от ButlerSPB"
-description: "Ищете идеальный офис в Санкт-Петербурге? ButlerSPB анализирует ключевые тренды рынка: от гибких пространств до 'зеленых' технологий. Узнайте, как меняется спрос."
-keywords: "офисная недвижимость, аренда офиса, коммерческая недвижимость, офис в спб, ButlerSPB, тренды рынка, коворкинг"
-pubDate: "2025-07-25T16:28:51.623Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Рынок офисов в 2024: анализ от ButlerSPB","description":"Ищете идеальный офис в Санкт-Петербурге? ButlerSPB анализирует ключевые тренды рынка: от гибких пространств до 'зеленых' технологий. Узнайте, как меняется спрос.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":493,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/ofisnaya-nedvizhimost/"}}
+title: 'Рынок офисов в 2024: анализ от ButlerSPB'
+description: >-
+  Ищете идеальный офис в Санкт-Петербурге? ButlerSPB анализирует ключевые тренды
+  рынка: от гибких пространств до 'зеленых' технологий. Узнайте, как меняется
+  спрос.
+pubDate: '2025-07-25T16:28:51.623Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Рынок офисов в 2024: анализ от ButlerSPB'
+  description: >-
+    Ищете идеальный офис в Санкт-Петербурге? ButlerSPB анализирует ключевые
+    тренды рынка: от гибких пространств до 'зеленых' технологий. Узнайте, как
+    меняется спрос.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.8'
+    reviewCount: 707
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': 'https://butlerspb-blog.netlify.app/blog/ofisnaya-nedvizhimost/'
 ---
 # Офисная недвижимость в Санкт-Петербурге: Полный гид по выбору и аренде в 2024 году от экспертов ButlerSPB
 

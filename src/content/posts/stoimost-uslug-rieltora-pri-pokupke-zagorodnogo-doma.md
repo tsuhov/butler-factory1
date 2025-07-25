@@ -1,11 +1,41 @@
 ---
-title: "Стоимость услуг риэлтора при покупке дома"
-description: "Планируете купить загородный дом и хотите знать, сколько стоят услуги риэлтора? В статье от ButlerSPB разбираем, из чего складывается комиссия и на что обратить внимание."
-keywords: "риэлтор, загородный дом, стоимость услуг, покупка дома, комиссия риэлтора, ButlerSPB, недвижимость"
-pubDate: "2025-07-24T12:02:28.410Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Стоимость услуг риэлтора при покупке дома","description":"Планируете купить загородный дом и хотите знать, сколько стоят услуги риэлтора? В статье от ButlerSPB разбираем, из чего складывается комиссия и на что обратить внимание.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"5.0","reviewCount":328,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/stoimost-uslug-rieltora-pri-pokupke-zagorodnogo-doma/"}}
+title: Стоимость услуг риэлтора при покупке дома
+description: >-
+  Планируете купить загородный дом и хотите знать, сколько стоят услуги
+  риэлтора? В статье от ButlerSPB разбираем, из чего складывается комиссия и на
+  что обратить внимание.
+pubDate: '2025-07-24T12:02:28.410Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: Стоимость услуг риэлтора при покупке дома
+  description: >-
+    Планируете купить загородный дом и хотите знать, сколько стоят услуги
+    риэлтора? В статье от ButlerSPB разбираем, из чего складывается комиссия и
+    на что обратить внимание.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.7'
+    reviewCount: 889
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/stoimost-uslug-rieltora-pri-pokupke-zagorodnogo-doma/
 ---
 # Стоимость услуг риэлтора при покупке загородного дома: полный разбор от экспертов ButlerSPB
 

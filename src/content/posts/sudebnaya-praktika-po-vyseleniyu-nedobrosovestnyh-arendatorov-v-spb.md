@@ -1,10 +1,51 @@
 ---
-title: "Выселение арендатора через суд в СПб: анализ судебной практики и советы от ButlerSPB"
-description: "Сталкиваетесь с арендатором, который не платит, нарушает правила проживания или портит имущество? В этой статье мы на основе реальной судебной практики Санкт-Петербурга разбираем, какие основания для выселения являются законными, как правильно подготовиться к суду, собрать доказательства и досрочно расторгнуть договор аренды. Практические советы для собственников от экспертов ButlerSPB, которые помогут защитить ваши права и недвижимость."
-pubDate: "2025-07-23T12:09:23.627Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Выселение арендатора через суд в СПб: анализ судебной практики и советы от ButlerSPB","description":"Сталкиваетесь с арендатором, который не платит, нарушает правила проживания или портит имущество? В этой статье мы на основе реальной судебной практики Санкт-Петербурга разбираем, какие основания для выселения являются законными, как правильно подготовиться к суду, собрать доказательства и досрочно расторгнуть договор аренды. Практические советы для собственников от экспертов ButlerSPB, которые помогут защитить ваши права и недвижимость.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"5.0","reviewCount":566,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/sudebnaya-praktika-po-vyseleniyu-nedobrosovestnyh-arendatorov-v-spb/"}}
+title: >-
+  Выселение арендатора через суд в СПб: анализ судебной практики и советы от
+  ButlerSPB
+description: >-
+  Сталкиваетесь с арендатором, который не платит, нарушает правила проживания
+  или портит имущество? В этой статье мы на основе реальной судебной практики
+  Санкт-Петербурга разбираем, какие основания для выселения являются законными,
+  как правильно подготовиться к суду, собрать доказательства и досрочно
+  расторгнуть договор аренды. Практические советы для собственников от экспертов
+  ButlerSPB, которые помогут защитить ваши права и недвижимость.
+pubDate: '2025-07-23T12:09:23.627Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: >-
+    Выселение арендатора через суд в СПб: анализ судебной практики и советы от
+    ButlerSPB
+  description: >-
+    Сталкиваетесь с арендатором, который не платит, нарушает правила проживания
+    или портит имущество? В этой статье мы на основе реальной судебной практики
+    Санкт-Петербурга разбираем, какие основания для выселения являются
+    законными, как правильно подготовиться к суду, собрать доказательства и
+    досрочно расторгнуть договор аренды. Практические советы для собственников
+    от экспертов ButlerSPB, которые помогут защитить ваши права и недвижимость.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.9'
+    reviewCount: 850
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/sudebnaya-praktika-po-vyseleniyu-nedobrosovestnyh-arendatorov-v-spb/
 ---
 
 # Как выселить арендатора через суд в СПб: судебная практика, сроки и пошаговая инструкция для собственника

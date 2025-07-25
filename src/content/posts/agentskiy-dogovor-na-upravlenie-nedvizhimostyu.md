@@ -1,11 +1,41 @@
 ---
-title: "Агентский договор на управление недвижимостью"
-description: "Ключевой документ для владельца недвижимости – агентский договор. В статье разбираем его структуру, права и обязанности сторон, чтобы ваше имущество было в надежных руках."
-keywords: "агентский договор, управление недвижимостью, доверительное управление, сдать квартиру, управляющая компания, ButlerSPB, договор собственника"
-pubDate: "2025-07-24T12:11:55.345Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Агентский договор на управление недвижимостью","description":"Ключевой документ для владельца недвижимости – агентский договор. В статье разбираем его структуру, права и обязанности сторон, чтобы ваше имущество было в надежных руках.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":601,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/agentskiy-dogovor-na-upravlenie-nedvizhimostyu/"}}
+title: Агентский договор на управление недвижимостью
+description: >-
+  Ключевой документ для владельца недвижимости – агентский договор. В статье
+  разбираем его структуру, права и обязанности сторон, чтобы ваше имущество было
+  в надежных руках.
+pubDate: '2025-07-24T12:11:55.345Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: Агентский договор на управление недвижимостью
+  description: >-
+    Ключевой документ для владельца недвижимости – агентский договор. В статье
+    разбираем его структуру, права и обязанности сторон, чтобы ваше имущество
+    было в надежных руках.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.9'
+    reviewCount: 376
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/agentskiy-dogovor-na-upravlenie-nedvizhimostyu/
 ---
 # Агентский договор на управление недвижимостью: Разбираем по пунктам с экспертами ButlerSPB
 

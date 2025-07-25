@@ -1,10 +1,45 @@
 ---
-title: "Путешествуйте с умом: главные лайфхаки по экономии от ButlerSPB"
-description: "Мечтаете о новых путешествиях, но бюджет ограничен? Команда ButlerSPB делится проверенными советами, которые помогут сэкономить на поездке без ущерба для впечатлений. В нашей статье вы узнаете, как выгодно покупать билеты, находить идеальное жилье, питаться вкусно и недорого, а также находить бесплатные развлечения в любой точке мира."
-pubDate: "2025-07-22T11:46:51.454Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Путешествуйте с умом: главные лайфхаки по экономии от ButlerSPB","description":"Мечтаете о новых путешествиях, но бюджет ограничен? Команда ButlerSPB делится проверенными советами, которые помогут сэкономить на поездке без ущерба для впечатлений. В нашей статье вы узнаете, как выгодно покупать билеты, находить идеальное жилье, питаться вкусно и недорого, а также находить бесплатные развлечения в любой точке мира.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.7","reviewCount":779,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/layfhaki-po-ekonomii-dlya-turistov/"}}
+title: 'Путешествуйте с умом: главные лайфхаки по экономии от ButlerSPB'
+description: >-
+  Мечтаете о новых путешествиях, но бюджет ограничен? Команда ButlerSPB делится
+  проверенными советами, которые помогут сэкономить на поездке без ущерба для
+  впечатлений. В нашей статье вы узнаете, как выгодно покупать билеты, находить
+  идеальное жилье, питаться вкусно и недорого, а также находить бесплатные
+  развлечения в любой точке мира.
+pubDate: '2025-07-22T11:46:51.454Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Путешествуйте с умом: главные лайфхаки по экономии от ButlerSPB'
+  description: >-
+    Мечтаете о новых путешествиях, но бюджет ограничен? Команда ButlerSPB
+    делится проверенными советами, которые помогут сэкономить на поездке без
+    ущерба для впечатлений. В нашей статье вы узнаете, как выгодно покупать
+    билеты, находить идеальное жилье, питаться вкусно и недорого, а также
+    находить бесплатные развлечения в любой точке мира.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.8'
+    reviewCount: 453
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/layfhaki-po-ekonomii-dlya-turistov/
 ---
 
 # Экономия без потери комфорта: 25+ экспертных лайфхаков для современного туриста (на примере Санкт-Петербурга)

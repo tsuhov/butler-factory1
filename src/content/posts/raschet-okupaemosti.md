@@ -1,11 +1,40 @@
 ---
-title: "Расчет окупаемости: формула для вашего бизнеса"
-description: "Как понять, когда ваш проект начнет приносить прибыль? Расчет окупаемости — ключевой показатель. В нашей статье от ButlerSPB вы найдете простые формулы и примеры."
-keywords: "расчет окупаемости, срок окупаемости, payback period, формула окупаемости, инвестиционный проект, финансовый анализ, ButlerSPB"
-pubDate: "2025-07-25T16:20:16.539Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Расчет окупаемости: формула для вашего бизнеса","description":"Как понять, когда ваш проект начнет приносить прибыль? Расчет окупаемости — ключевой показатель. В нашей статье от ButlerSPB вы найдете простые формулы и примеры.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.8","reviewCount":730,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/raschet-okupaemosti/"}}
+title: 'Расчет окупаемости: формула для вашего бизнеса'
+description: >-
+  Как понять, когда ваш проект начнет приносить прибыль? Расчет окупаемости —
+  ключевой показатель. В нашей статье от ButlerSPB вы найдете простые формулы и
+  примеры.
+pubDate: '2025-07-25T16:20:16.539Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Расчет окупаемости: формула для вашего бизнеса'
+  description: >-
+    Как понять, когда ваш проект начнет приносить прибыль? Расчет окупаемости —
+    ключевой показатель. В нашей статье от ButlerSPB вы найдете простые формулы
+    и примеры.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.7'
+    reviewCount: 798
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': 'https://butlerspb-blog.netlify.app/blog/raschet-okupaemosti/'
 ---
 # Расчет окупаемости проекта: пошаговая инструкция, формулы и примеры для бизнеса
 

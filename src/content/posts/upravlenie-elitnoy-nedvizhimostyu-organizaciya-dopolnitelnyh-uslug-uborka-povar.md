@@ -1,11 +1,41 @@
 ---
-title: "Сервис для элитной недвижимости: уборка, повар"
-description: "Организация дополнительных услуг для элитной недвижимости от ButlerSPB. Подбор надежного персонала для уборки и личного повара для вашего максимального комфорта."
-keywords: "управление элитной недвижимостью, консьерж-сервис, клининг, услуги повара, ButlerSPB, обслуживание апартаментов, элитный сервис"
-pubDate: "2025-07-24T12:02:26.045Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Сервис для элитной недвижимости: уборка, повар","description":"Организация дополнительных услуг для элитной недвижимости от ButlerSPB. Подбор надежного персонала для уборки и личного повара для вашего максимального комфорта.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"5.0","reviewCount":314,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/upravlenie-elitnoy-nedvizhimostyu-organizaciya-dopolnitelnyh-uslug-uborka-povar/"}}
+title: 'Сервис для элитной недвижимости: уборка, повар'
+description: >-
+  Организация дополнительных услуг для элитной недвижимости от ButlerSPB. Подбор
+  надежного персонала для уборки и личного повара для вашего максимального
+  комфорта.
+pubDate: '2025-07-24T12:02:26.045Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Сервис для элитной недвижимости: уборка, повар'
+  description: >-
+    Организация дополнительных услуг для элитной недвижимости от ButlerSPB.
+    Подбор надежного персонала для уборки и личного повара для вашего
+    максимального комфорта.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.9'
+    reviewCount: 423
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/upravlenie-elitnoy-nedvizhimostyu-organizaciya-dopolnitelnyh-uslug-uborka-povar/
 ---
 # Управление элитной недвижимостью: От идеальной чистоты до ужина от шеф-повара — ваш комфорт в деталях
 

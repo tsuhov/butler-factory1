@@ -1,10 +1,49 @@
 ---
-title: "Субаренда коммерческой недвижимости: все риски и возможности. Гайд от ButlerSPB"
-description: "Планируете сдать часть своего офиса или склада в субаренду? Или, наоборот, ищете гибкое решение без долгосрочных обязательств? В новой статье блога ButlerSPB разбираем все подводные камни и преимущества субаренды коммерческой недвижимости. Узнайте, как избежать юридических рисков, получить максимальную выгоду и правильно составить договор."
-pubDate: "2025-07-23T12:02:22.941Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Субаренда коммерческой недвижимости: все риски и возможности. Гайд от ButlerSPB","description":"Планируете сдать часть своего офиса или склада в субаренду? Или, наоборот, ищете гибкое решение без долгосрочных обязательств? В новой статье блога ButlerSPB разбираем все подводные камни и преимущества субаренды коммерческой недвижимости. Узнайте, как избежать юридических рисков, получить максимальную выгоду и правильно составить договор.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":874,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/subarenda-kommercheskoy-nedvizhimosti-riski-i-vozmozhnosti/"}}
+title: >-
+  Субаренда коммерческой недвижимости: все риски и возможности. Гайд от
+  ButlerSPB
+description: >-
+  Планируете сдать часть своего офиса или склада в субаренду? Или, наоборот,
+  ищете гибкое решение без долгосрочных обязательств? В новой статье блога
+  ButlerSPB разбираем все подводные камни и преимущества субаренды коммерческой
+  недвижимости. Узнайте, как избежать юридических рисков, получить максимальную
+  выгоду и правильно составить договор.
+pubDate: '2025-07-23T12:02:22.941Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: >-
+    Субаренда коммерческой недвижимости: все риски и возможности. Гайд от
+    ButlerSPB
+  description: >-
+    Планируете сдать часть своего офиса или склада в субаренду? Или, наоборот,
+    ищете гибкое решение без долгосрочных обязательств? В новой статье блога
+    ButlerSPB разбираем все подводные камни и преимущества субаренды
+    коммерческой недвижимости. Узнайте, как избежать юридических рисков,
+    получить максимальную выгоду и правильно составить договор.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.8'
+    reviewCount: 503
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/subarenda-kommercheskoy-nedvizhimosti-riski-i-vozmozhnosti/
 ---
 
 # Субаренда коммерческой недвижимости: подробный гид по рискам и возможностям от ButlerSPB

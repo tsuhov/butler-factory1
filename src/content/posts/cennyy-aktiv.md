@@ -1,11 +1,40 @@
 ---
-title: "Время как ценный актив: секреты от ButlerSPB"
-description: "В современном мире время является невосполнимым ресурсом и главным активом. Компания ButlerSPB предлагает решения для эффективного управления вашим временем."
-keywords: "ценный актив, управление временем, личная эффективность, продуктивность, консьерж-сервис, ButlerSPB, делегирование"
-pubDate: "2025-07-25T16:31:01.534Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Время как ценный актив: секреты от ButlerSPB","description":"В современном мире время является невосполнимым ресурсом и главным активом. Компания ButlerSPB предлагает решения для эффективного управления вашим временем.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":804,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/cennyy-aktiv/"}}
+title: 'Время как ценный актив: секреты от ButlerSPB'
+description: >-
+  В современном мире время является невосполнимым ресурсом и главным активом.
+  Компания ButlerSPB предлагает решения для эффективного управления вашим
+  временем.
+pubDate: '2025-07-25T16:31:01.534Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Время как ценный актив: секреты от ButlerSPB'
+  description: >-
+    В современном мире время является невосполнимым ресурсом и главным активом.
+    Компания ButlerSPB предлагает решения для эффективного управления вашим
+    временем.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '5.0'
+    reviewCount: 472
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': 'https://butlerspb-blog.netlify.app/blog/cennyy-aktiv/'
 ---
 # Ваш главный ценный актив — это не деньги. Раскрываем, что это, и как его приумножить
 

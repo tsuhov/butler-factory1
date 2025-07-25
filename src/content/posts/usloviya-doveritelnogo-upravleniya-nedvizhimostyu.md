@@ -1,10 +1,47 @@
 ---
-title: "Доверительное управление недвижимостью: ключевые условия договора"
-description: "Передача квартиры или коммерческого объекта в доверительное управление — это эффективный способ получать пассивный доход, не тратя время на рутинные задачи. В новой статье блога ButlerSPB мы подробно разбираем, на каких условиях заключается договор, какие права и обязанности есть у собственника и управляющего, как определяется вознаграждение и на что обратить особое внимание, чтобы защитить свои интересы."
-pubDate: "2025-07-22T00:32:45.787Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Доверительное управление недвижимостью: ключевые условия договора","description":"Передача квартиры или коммерческого объекта в доверительное управление — это эффективный способ получать пассивный доход, не тратя время на рутинные задачи. В новой статье блога ButlerSPB мы подробно разбираем, на каких условиях заключается договор, какие права и обязанности есть у собственника и управляющего, как определяется вознаграждение и на что обратить особое внимание, чтобы защитить свои интересы.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":759,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/usloviya-doveritelnogo-upravleniya-nedvizhimostyu/"}}
+title: 'Доверительное управление недвижимостью: ключевые условия договора'
+description: >-
+  Передача квартиры или коммерческого объекта в доверительное управление — это
+  эффективный способ получать пассивный доход, не тратя время на рутинные
+  задачи. В новой статье блога ButlerSPB мы подробно разбираем, на каких
+  условиях заключается договор, какие права и обязанности есть у собственника и
+  управляющего, как определяется вознаграждение и на что обратить особое
+  внимание, чтобы защитить свои интересы.
+pubDate: '2025-07-22T00:32:45.787Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Доверительное управление недвижимостью: ключевые условия договора'
+  description: >-
+    Передача квартиры или коммерческого объекта в доверительное управление — это
+    эффективный способ получать пассивный доход, не тратя время на рутинные
+    задачи. В новой статье блога ButlerSPB мы подробно разбираем, на каких
+    условиях заключается договор, какие права и обязанности есть у собственника
+    и управляющего, как определяется вознаграждение и на что обратить особое
+    внимание, чтобы защитить свои интересы.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.8'
+    reviewCount: 717
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/usloviya-doveritelnogo-upravleniya-nedvizhimostyu/
 ---
 
 # Условия доверительного управления недвижимостью: Полное руководство для собственников в Санкт-Петербурге

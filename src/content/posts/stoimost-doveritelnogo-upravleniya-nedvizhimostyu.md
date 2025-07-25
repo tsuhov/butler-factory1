@@ -1,10 +1,50 @@
 ---
-title: "Сколько стоит доверительное управление недвижимостью: полный разбор от ButlerSPB"
-description: "Планируете сдать квартиру в аренду, но не хотите тратить время на поиск жильцов и решение бытовых вопросов? Доверительное управление – ваше решение. В новой статье блога ButlerSPB разбираемся, из чего складывается стоимость этой услуги в Санкт-Петербурге, какие факторы на нее влияют и почему инвестиции в профессиональное управление окупаются вашим спокойствием и стабильным доходом."
-pubDate: "2025-07-22T00:30:38.513Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Сколько стоит доверительное управление недвижимостью: полный разбор от ButlerSPB","description":"Планируете сдать квартиру в аренду, но не хотите тратить время на поиск жильцов и решение бытовых вопросов? Доверительное управление – ваше решение. В новой статье блога ButlerSPB разбираемся, из чего складывается стоимость этой услуги в Санкт-Петербурге, какие факторы на нее влияют и почему инвестиции в профессиональное управление окупаются вашим спокойствием и стабильным доходом.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.7","reviewCount":594,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/stoimost-doveritelnogo-upravleniya-nedvizhimostyu/"}}
+title: >-
+  Сколько стоит доверительное управление недвижимостью: полный разбор от
+  ButlerSPB
+description: >-
+  Планируете сдать квартиру в аренду, но не хотите тратить время на поиск
+  жильцов и решение бытовых вопросов? Доверительное управление – ваше решение. В
+  новой статье блога ButlerSPB разбираемся, из чего складывается стоимость этой
+  услуги в Санкт-Петербурге, какие факторы на нее влияют и почему инвестиции в
+  профессиональное управление окупаются вашим спокойствием и стабильным доходом.
+pubDate: '2025-07-22T00:30:38.513Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: >-
+    Сколько стоит доверительное управление недвижимостью: полный разбор от
+    ButlerSPB
+  description: >-
+    Планируете сдать квартиру в аренду, но не хотите тратить время на поиск
+    жильцов и решение бытовых вопросов? Доверительное управление – ваше решение.
+    В новой статье блога ButlerSPB разбираемся, из чего складывается стоимость
+    этой услуги в Санкт-Петербурге, какие факторы на нее влияют и почему
+    инвестиции в профессиональное управление окупаются вашим спокойствием и
+    стабильным доходом.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.8'
+    reviewCount: 579
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/stoimost-doveritelnogo-upravleniya-nedvizhimostyu/
 ---
 
 # Сколько стоит доверительное управление недвижимостью: полный разбор цен, тарифов и скрытых платежей в Санкт-Петербурге

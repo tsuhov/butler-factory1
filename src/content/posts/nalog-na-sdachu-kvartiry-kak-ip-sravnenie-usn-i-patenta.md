@@ -1,10 +1,45 @@
 ---
-title: "Налог на сдачу квартиры как ИП: УСН или патент — что выгоднее?"
-description: "Планируете сдавать квартиру как индивидуальный предприниматель? Эксперты ButlerSPB сравнивают два популярных налоговых режима — Упрощенную систему налогообложения (УСН) и Патент. В статье разбираем ставки, лимиты, порядок расчета и уплаты налогов, а также приводим примеры, чтобы помочь вам выбрать самый выгодный вариант и избежать ошибок."
-pubDate: "2025-07-23T11:08:05.245Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Налог на сдачу квартиры как ИП: УСН или патент — что выгоднее?","description":"Планируете сдавать квартиру как индивидуальный предприниматель? Эксперты ButlerSPB сравнивают два популярных налоговых режима — Упрощенную систему налогообложения (УСН) и Патент. В статье разбираем ставки, лимиты, порядок расчета и уплаты налогов, а также приводим примеры, чтобы помочь вам выбрать самый выгодный вариант и избежать ошибок.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.8","reviewCount":374,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/nalog-na-sdachu-kvartiry-kak-ip-sravnenie-usn-i-patenta/"}}
+title: 'Налог на сдачу квартиры как ИП: УСН или патент — что выгоднее?'
+description: >-
+  Планируете сдавать квартиру как индивидуальный предприниматель? Эксперты
+  ButlerSPB сравнивают два популярных налоговых режима — Упрощенную систему
+  налогообложения (УСН) и Патент. В статье разбираем ставки, лимиты, порядок
+  расчета и уплаты налогов, а также приводим примеры, чтобы помочь вам выбрать
+  самый выгодный вариант и избежать ошибок.
+pubDate: '2025-07-23T11:08:05.245Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Налог на сдачу квартиры как ИП: УСН или патент — что выгоднее?'
+  description: >-
+    Планируете сдавать квартиру как индивидуальный предприниматель? Эксперты
+    ButlerSPB сравнивают два популярных налоговых режима — Упрощенную систему
+    налогообложения (УСН) и Патент. В статье разбираем ставки, лимиты, порядок
+    расчета и уплаты налогов, а также приводим примеры, чтобы помочь вам выбрать
+    самый выгодный вариант и избежать ошибок.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.9'
+    reviewCount: 659
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/nalog-na-sdachu-kvartiry-kak-ip-sravnenie-usn-i-patenta/
 ---
 
 # Налог на сдачу квартиры как ИП: УСН или Патент — полное сравнение и расчет в 2024 году

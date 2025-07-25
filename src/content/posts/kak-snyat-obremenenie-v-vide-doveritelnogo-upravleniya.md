@@ -1,10 +1,51 @@
 ---
-title: "Как снять обременение в виде доверительного управления: пошаговая инструкция от ButlerSPB"
-description: "Планируете продать или подарить недвижимость, но на ней установлено обременение в виде доверительного управления? В новой статье блога ButlerSPB подробно разбираем, что такое обременение ДУ, в каких случаях оно возникает и как его снять. Вы узнаете, какие документы потребуются для прекращения договора и регистрации в Росреестре, и получите пошаговый план действий. Разбираемся в юридических тонкостях вместе с экспертами ButlerSPB."
-pubDate: "2025-07-22T11:33:16.925Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Как снять обременение в виде доверительного управления: пошаговая инструкция от ButlerSPB","description":"Планируете продать или подарить недвижимость, но на ней установлено обременение в виде доверительного управления? В новой статье блога ButlerSPB подробно разбираем, что такое обременение ДУ, в каких случаях оно возникает и как его снять. Вы узнаете, какие документы потребуются для прекращения договора и регистрации в Росреестре, и получите пошаговый план действий. Разбираемся в юридических тонкостях вместе с экспертами ButlerSPB.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":628,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/kak-snyat-obremenenie-v-vide-doveritelnogo-upravleniya/"}}
+title: >-
+  Как снять обременение в виде доверительного управления: пошаговая инструкция
+  от ButlerSPB
+description: >-
+  Планируете продать или подарить недвижимость, но на ней установлено
+  обременение в виде доверительного управления? В новой статье блога ButlerSPB
+  подробно разбираем, что такое обременение ДУ, в каких случаях оно возникает и
+  как его снять. Вы узнаете, какие документы потребуются для прекращения
+  договора и регистрации в Росреестре, и получите пошаговый план действий.
+  Разбираемся в юридических тонкостях вместе с экспертами ButlerSPB.
+pubDate: '2025-07-22T11:33:16.925Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: >-
+    Как снять обременение в виде доверительного управления: пошаговая инструкция
+    от ButlerSPB
+  description: >-
+    Планируете продать или подарить недвижимость, но на ней установлено
+    обременение в виде доверительного управления? В новой статье блога ButlerSPB
+    подробно разбираем, что такое обременение ДУ, в каких случаях оно возникает
+    и как его снять. Вы узнаете, какие документы потребуются для прекращения
+    договора и регистрации в Росреестре, и получите пошаговый план действий.
+    Разбираемся в юридических тонкостях вместе с экспертами ButlerSPB.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.9'
+    reviewCount: 597
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/kak-snyat-obremenenie-v-vide-doveritelnogo-upravleniya/
 ---
 
 # Как снять обременение в виде доверительного управления с недвижимости: пошаговая инструкция 2024 от экспертов

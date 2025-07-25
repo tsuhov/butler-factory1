@@ -1,11 +1,39 @@
 ---
-title: "Подробные инструкции для клиентов ButlerSPB"
-description: "В этой статье блога ButlerSPB мы делимся подробными инструкциями и советами. Узнайте, как правильно подготовиться к визиту специалиста и что делать после."
-keywords: "инструкции, пошаговое руководство, ButlerSPB, советы клиентам, подготовка к уборке, чек-лист, услуги спб"
-pubDate: "2025-07-25T13:43:11.993Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Подробные инструкции для клиентов ButlerSPB","description":"В этой статье блога ButlerSPB мы делимся подробными инструкциями и советами. Узнайте, как правильно подготовиться к визиту специалиста и что делать после.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.8","reviewCount":320,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/podrobnye-instrukcii/"}}
+title: Подробные инструкции для клиентов ButlerSPB
+description: >-
+  В этой статье блога ButlerSPB мы делимся подробными инструкциями и советами.
+  Узнайте, как правильно подготовиться к визиту специалиста и что делать после.
+pubDate: '2025-07-25T13:43:11.993Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: Подробные инструкции для клиентов ButlerSPB
+  description: >-
+    В этой статье блога ButlerSPB мы делимся подробными инструкциями и советами.
+    Узнайте, как правильно подготовиться к визиту специалиста и что делать
+    после.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.8'
+    reviewCount: 643
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': 'https://butlerspb-blog.netlify.app/blog/podrobnye-instrukcii/'
 ---
 # Как составить идеальную инструкцию: Секреты безупречного порядка от ButlerSPB
 

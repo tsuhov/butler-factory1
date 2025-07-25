@@ -1,10 +1,47 @@
 ---
-title: "Как выбрать агентство по загородной недвижимости в Санкт-Петербурге: гид от ButlerSPB"
-description: "Планируете покупку или продажу дома в Ленинградской области? В блоге ButlerSPB разбираем ключевые критерии выбора надежного агентства по загородной недвижимости. Узнайте, на что обратить внимание, чтобы обеспечить безопасность и выгоду вашей сделки."
-pubDate: "2025-07-21T21:43:43.655Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Как выбрать агентство по загородной недвижимости в Санкт-Петербурге: гид от ButlerSPB","description":"Планируете покупку или продажу дома в Ленинградской области? В блоге ButlerSPB разбираем ключевые критерии выбора надежного агентства по загородной недвижимости. Узнайте, на что обратить внимание, чтобы обеспечить безопасность и выгоду вашей сделки.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"5.0","reviewCount":470,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/agentstvo-po-prodazhe-zagorodnoy-nedvizhimosti-v-sankt-peterburge/"}}
+title: >-
+  Как выбрать агентство по загородной недвижимости в Санкт-Петербурге: гид от
+  ButlerSPB
+description: >-
+  Планируете покупку или продажу дома в Ленинградской области? В блоге ButlerSPB
+  разбираем ключевые критерии выбора надежного агентства по загородной
+  недвижимости. Узнайте, на что обратить внимание, чтобы обеспечить безопасность
+  и выгоду вашей сделки.
+pubDate: '2025-07-21T21:43:43.655Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: >-
+    Как выбрать агентство по загородной недвижимости в Санкт-Петербурге: гид от
+    ButlerSPB
+  description: >-
+    Планируете покупку или продажу дома в Ленинградской области? В блоге
+    ButlerSPB разбираем ключевые критерии выбора надежного агентства по
+    загородной недвижимости. Узнайте, на что обратить внимание, чтобы обеспечить
+    безопасность и выгоду вашей сделки.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.9'
+    reviewCount: 344
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/agentstvo-po-prodazhe-zagorodnoy-nedvizhimosti-v-sankt-peterburge/
 ---
 
 # Продажа загородной недвижимости в Санкт-Петербурге: Как выбрать идеальное агентство и не прогадать

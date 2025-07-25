@@ -1,10 +1,43 @@
 ---
-title: "Экспресс-оценка квартиры: как определить цену для быстрой продажи?"
-description: "Хотите продать квартиру быстро и по лучшей цене? Ключ к успеху — правильная экспресс-оценка. В блоге ButlerSPB мы делимся проверенными методами, которые помогут вам самостоятельно определить рыночную стоимость вашей недвижимости, учесть все важные факторы и избежать занижения цены при срочной продаже."
-pubDate: "2025-07-23T16:33:24.605Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Экспресс-оценка квартиры: как определить цену для быстрой продажи?","description":"Хотите продать квартиру быстро и по лучшей цене? Ключ к успеху — правильная экспресс-оценка. В блоге ButlerSPB мы делимся проверенными методами, которые помогут вам самостоятельно определить рыночную стоимость вашей недвижимости, учесть все важные факторы и избежать занижения цены при срочной продаже.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.7","reviewCount":565,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/ekspress-ocenka-kvartiry-dlya-bystroy-prodazhi/"}}
+title: 'Экспресс-оценка квартиры: как определить цену для быстрой продажи?'
+description: >-
+  Хотите продать квартиру быстро и по лучшей цене? Ключ к успеху — правильная
+  экспресс-оценка. В блоге ButlerSPB мы делимся проверенными методами, которые
+  помогут вам самостоятельно определить рыночную стоимость вашей недвижимости,
+  учесть все важные факторы и избежать занижения цены при срочной продаже.
+pubDate: '2025-07-23T16:33:24.605Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Экспресс-оценка квартиры: как определить цену для быстрой продажи?'
+  description: >-
+    Хотите продать квартиру быстро и по лучшей цене? Ключ к успеху — правильная
+    экспресс-оценка. В блоге ButlerSPB мы делимся проверенными методами, которые
+    помогут вам самостоятельно определить рыночную стоимость вашей недвижимости,
+    учесть все важные факторы и избежать занижения цены при срочной продаже.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.7'
+    reviewCount: 881
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/ekspress-ocenka-kvartiry-dlya-bystroy-prodazhi/
 ---
 
 # Экспресс-оценка квартиры в СПб: Как узнать реальную цену для продажи за 1 день?

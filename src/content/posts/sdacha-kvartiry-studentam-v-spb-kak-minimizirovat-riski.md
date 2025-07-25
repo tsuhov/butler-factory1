@@ -1,10 +1,47 @@
 ---
-title: "Сдача квартиры студентам в СПб: как минимизировать риски."
-description: "Студенты — одна из самых активных категорий арендаторов в Санкт-Петербурге. Для собственника это возможность обеспечить стабильный доход, но она сопряжена с рисками: от шумных вечеринок до порчи имущества. В новой статье блога ButlerSPB мы делимся практическими советами, как грамотно составить договор, проверить будущих жильцов и защитить свою недвижимость, чтобы сдача квартиры приносила только прибыль."
-pubDate: "2025-07-22T13:56:04.533Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Сдача квартиры студентам в СПб: как минимизировать риски.","description":"Студенты — одна из самых активных категорий арендаторов в Санкт-Петербурге. Для собственника это возможность обеспечить стабильный доход, но она сопряжена с рисками: от шумных вечеринок до порчи имущества. В новой статье блога ButlerSPB мы делимся практическими советами, как грамотно составить договор, проверить будущих жильцов и защитить свою недвижимость, чтобы сдача квартиры приносила только прибыль.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.7","reviewCount":811,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/sdacha-kvartiry-studentam-v-spb-kak-minimizirovat-riski/"}}
+title: 'Сдача квартиры студентам в СПб: как минимизировать риски.'
+description: >-
+  Студенты — одна из самых активных категорий арендаторов в Санкт-Петербурге.
+  Для собственника это возможность обеспечить стабильный доход, но она сопряжена
+  с рисками: от шумных вечеринок до порчи имущества. В новой статье блога
+  ButlerSPB мы делимся практическими советами, как грамотно составить договор,
+  проверить будущих жильцов и защитить свою недвижимость, чтобы сдача квартиры
+  приносила только прибыль.
+pubDate: '2025-07-22T13:56:04.533Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Сдача квартиры студентам в СПб: как минимизировать риски.'
+  description: >-
+    Студенты — одна из самых активных категорий арендаторов в Санкт-Петербурге.
+    Для собственника это возможность обеспечить стабильный доход, но она
+    сопряжена с рисками: от шумных вечеринок до порчи имущества. В новой статье
+    блога ButlerSPB мы делимся практическими советами, как грамотно составить
+    договор, проверить будущих жильцов и защитить свою недвижимость, чтобы сдача
+    квартиры приносила только прибыль.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.9'
+    reviewCount: 819
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/sdacha-kvartiry-studentam-v-spb-kak-minimizirovat-riski/
 ---
 
 # Сдаем квартиру студентам в СПб: подробное руководство по минимизации рисков

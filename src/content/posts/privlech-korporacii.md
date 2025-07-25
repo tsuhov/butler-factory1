@@ -1,11 +1,40 @@
 ---
-title: "Как ButlerSPB привлекает корпоративных клиентов"
-description: "Узнайте проверенные стратегии ButlerSPB по привлечению крупных корпоративных клиентов. Мы делимся секретами успешных переговоров и долгосрочного партнерства."
-keywords: "корпоративные клиенты, B2B продажи, привлечение корпораций, развитие бизнеса, партнерство с компаниями, ButlerSPB, корпоративное обслуживание"
-pubDate: "2025-07-25T16:04:16.218Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Как ButlerSPB привлекает корпоративных клиентов","description":"Узнайте проверенные стратегии ButlerSPB по привлечению крупных корпоративных клиентов. Мы делимся секретами успешных переговоров и долгосрочного партнерства.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.8","reviewCount":656,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/privlech-korporacii/"}}
+title: Как ButlerSPB привлекает корпоративных клиентов
+description: >-
+  Узнайте проверенные стратегии ButlerSPB по привлечению крупных корпоративных
+  клиентов. Мы делимся секретами успешных переговоров и долгосрочного
+  партнерства.
+pubDate: '2025-07-25T16:04:16.218Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: Как ButlerSPB привлекает корпоративных клиентов
+  description: >-
+    Узнайте проверенные стратегии ButlerSPB по привлечению крупных корпоративных
+    клиентов. Мы делимся секретами успешных переговоров и долгосрочного
+    партнерства.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.8'
+    reviewCount: 454
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': 'https://butlerspb-blog.netlify.app/blog/privlech-korporacii/'
 ---
 # Как привлечь корпоративных клиентов: пошаговая стратегия от А до Я
 

@@ -1,10 +1,45 @@
 ---
-title: "Загородный дом для ПМЖ: полное руководство от ButlerSPB по выбору и покупке"
-description: "Мечтаете сменить городскую суету на спокойствие и комфорт загородной жизни? Переезд в собственный дом на постоянное проживание — ответственный шаг. В этой статье эксперты ButlerSPB делятся ключевыми советами: как отличить дом для ПМЖ от дачи, на какие коммуникации и инфраструктуру обратить внимание, и как проверить юридическую чистоту объекта перед сделкой."
-pubDate: "2025-07-23T11:54:05.443Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Загородный дом для ПМЖ: полное руководство от ButlerSPB по выбору и покупке","description":"Мечтаете сменить городскую суету на спокойствие и комфорт загородной жизни? Переезд в собственный дом на постоянное проживание — ответственный шаг. В этой статье эксперты ButlerSPB делятся ключевыми советами: как отличить дом для ПМЖ от дачи, на какие коммуникации и инфраструктуру обратить внимание, и как проверить юридическую чистоту объекта перед сделкой.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":464,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/pokupka-zagorodnogo-doma-dlya-postoyannogo-prozhivaniya/"}}
+title: 'Загородный дом для ПМЖ: полное руководство от ButlerSPB по выбору и покупке'
+description: >-
+  Мечтаете сменить городскую суету на спокойствие и комфорт загородной жизни?
+  Переезд в собственный дом на постоянное проживание — ответственный шаг. В этой
+  статье эксперты ButlerSPB делятся ключевыми советами: как отличить дом для ПМЖ
+  от дачи, на какие коммуникации и инфраструктуру обратить внимание, и как
+  проверить юридическую чистоту объекта перед сделкой.
+pubDate: '2025-07-23T11:54:05.443Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Загородный дом для ПМЖ: полное руководство от ButlerSPB по выбору и покупке'
+  description: >-
+    Мечтаете сменить городскую суету на спокойствие и комфорт загородной жизни?
+    Переезд в собственный дом на постоянное проживание — ответственный шаг. В
+    этой статье эксперты ButlerSPB делятся ключевыми советами: как отличить дом
+    для ПМЖ от дачи, на какие коммуникации и инфраструктуру обратить внимание, и
+    как проверить юридическую чистоту объекта перед сделкой.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.8'
+    reviewCount: 809
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/pokupka-zagorodnogo-doma-dlya-postoyannogo-prozhivaniya/
 ---
 
 # Дом мечты для ПМЖ: Как избежать 9 критических ошибок при покупке (чек-листы и советы от ButlerSPB)

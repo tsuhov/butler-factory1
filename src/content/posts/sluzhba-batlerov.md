@@ -1,11 +1,40 @@
 ---
-title: "Служба батлеров: искусство гостеприимства"
-description: "Узнайте, кто такой современный батлер и почему эта профессия вновь популярна. Раскрываем секреты элитного сервиса, личные качества и навыки идеального дворецкого."
-keywords: "батлер, служба батлеров, дворецкий, элитный сервис, персональный помощник, ButlerSPB, управление домом"
-pubDate: "2025-07-24T13:04:42.160Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Служба батлеров: искусство гостеприимства","description":"Узнайте, кто такой современный батлер и почему эта профессия вновь популярна. Раскрываем секреты элитного сервиса, личные качества и навыки идеального дворецкого.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":303,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/sluzhba-batlerov/"}}
+title: 'Служба батлеров: искусство гостеприимства'
+description: >-
+  Узнайте, кто такой современный батлер и почему эта профессия вновь популярна.
+  Раскрываем секреты элитного сервиса, личные качества и навыки идеального
+  дворецкого.
+pubDate: '2025-07-24T13:04:42.160Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Служба батлеров: искусство гостеприимства'
+  description: >-
+    Узнайте, кто такой современный батлер и почему эта профессия вновь
+    популярна. Раскрываем секреты элитного сервиса, личные качества и навыки
+    идеального дворецкого.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.9'
+    reviewCount: 732
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': 'https://butlerspb-blog.netlify.app/blog/sluzhba-batlerov/'
 ---
 # Современный батлер: Невидимый дирижер вашего идеального дома
 

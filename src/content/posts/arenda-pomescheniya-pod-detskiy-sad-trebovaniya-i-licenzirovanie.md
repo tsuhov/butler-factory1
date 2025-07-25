@@ -1,11 +1,41 @@
 ---
-title: "Аренда под детский сад: требования, лицензия"
-description: "Планируете открыть детский сад? Узнайте все о требованиях к помещению, нормах СанПиН и процессе лицензирования. ButlerSPB поможет найти идеальный объект для аренды."
-keywords: "аренда под детский сад, помещение для детского сада, требования СанПиН, лицензирование детского сада, открыть детский сад, ButlerSPB"
-pubDate: "2025-07-24T12:04:35.200Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Аренда под детский сад: требования, лицензия","description":"Планируете открыть детский сад? Узнайте все о требованиях к помещению, нормах СанПиН и процессе лицензирования. ButlerSPB поможет найти идеальный объект для аренды.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.8","reviewCount":648,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/arenda-pomescheniya-pod-detskiy-sad-trebovaniya-i-licenzirovanie/"}}
+title: 'Аренда под детский сад: требования, лицензия'
+description: >-
+  Планируете открыть детский сад? Узнайте все о требованиях к помещению, нормах
+  СанПиН и процессе лицензирования. ButlerSPB поможет найти идеальный объект для
+  аренды.
+pubDate: '2025-07-24T12:04:35.200Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Аренда под детский сад: требования, лицензия'
+  description: >-
+    Планируете открыть детский сад? Узнайте все о требованиях к помещению,
+    нормах СанПиН и процессе лицензирования. ButlerSPB поможет найти идеальный
+    объект для аренды.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.8'
+    reviewCount: 361
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/arenda-pomescheniya-pod-detskiy-sad-trebovaniya-i-licenzirovanie/
 ---
 # Как арендовать помещение под детский сад: Полный гид по требованиям, лицензированию и подводным камням
 

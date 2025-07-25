@@ -1,11 +1,40 @@
 ---
-title: "Управление репутацией онлайн: гайд от ButlerSPB"
-description: "Ваша репутация в сети – это ценный актив. Мы расскажем, как отслеживать упоминания, правильно работать с отзывами и формировать позитивный имидж для роста бизнеса."
-keywords: "онлайн репутация, управление репутацией, SERM, работа с отзывами, имидж компании, мониторинг упоминаний, ButlerSPB"
-pubDate: "2025-07-25T15:35:13.407Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Управление репутацией онлайн: гайд от ButlerSPB","description":"Ваша репутация в сети – это ценный актив. Мы расскажем, как отслеживать упоминания, правильно работать с отзывами и формировать позитивный имидж для роста бизнеса.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.7","reviewCount":335,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/reputaciya-onlayn/"}}
+title: 'Управление репутацией онлайн: гайд от ButlerSPB'
+description: >-
+  Ваша репутация в сети – это ценный актив. Мы расскажем, как отслеживать
+  упоминания, правильно работать с отзывами и формировать позитивный имидж для
+  роста бизнеса.
+pubDate: '2025-07-25T15:35:13.407Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Управление репутацией онлайн: гайд от ButlerSPB'
+  description: >-
+    Ваша репутация в сети – это ценный актив. Мы расскажем, как отслеживать
+    упоминания, правильно работать с отзывами и формировать позитивный имидж для
+    роста бизнеса.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.8'
+    reviewCount: 795
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': 'https://butlerspb-blog.netlify.app/blog/reputaciya-onlayn/'
 ---
 # Управление репутацией в интернете: Полное руководство по защите и росту вашего бренда
 

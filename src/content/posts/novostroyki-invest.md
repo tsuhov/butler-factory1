@@ -1,11 +1,40 @@
 ---
-title: "Инвестиции в новостройки: гид от ButlerSPB"
-description: "Рассматриваете покупку квартиры в новостройке для инвестиций? Эксперты ButlerSPB делятся советами, как выбрать объект, оценить риски и максимизировать доход."
-keywords: "инвестиции в недвижимость, новостройки инвест, купить квартиру для инвестиций, доходная квартира, butlerspb, выбор новостройки"
-pubDate: "2025-07-25T15:44:35.935Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Инвестиции в новостройки: гид от ButlerSPB","description":"Рассматриваете покупку квартиры в новостройке для инвестиций? Эксперты ButlerSPB делятся советами, как выбрать объект, оценить риски и максимизировать доход.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":527,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/novostroyki-invest/"}}
+title: 'Инвестиции в новостройки: гид от ButlerSPB'
+description: >-
+  Рассматриваете покупку квартиры в новостройке для инвестиций? Эксперты
+  ButlerSPB делятся советами, как выбрать объект, оценить риски и
+  максимизировать доход.
+pubDate: '2025-07-25T15:44:35.935Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Инвестиции в новостройки: гид от ButlerSPB'
+  description: >-
+    Рассматриваете покупку квартиры в новостройке для инвестиций? Эксперты
+    ButlerSPB делятся советами, как выбрать объект, оценить риски и
+    максимизировать доход.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.8'
+    reviewCount: 358
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': 'https://butlerspb-blog.netlify.app/blog/novostroyki-invest/'
 ---
 # Инвестиции в новостройки Санкт-Петербурга: Полное руководство по выбору и заработку
 

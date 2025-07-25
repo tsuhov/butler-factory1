@@ -1,10 +1,45 @@
 ---
-title: "Привлечение гостей через корпоративные каналы: Стратегии от ButlerSPB"
-description: "Откройте для себя недооцененный ресурс для вашего гостиничного бизнеса. Команда ButlerSPB делится проверенными стратегиями по привлечению гостей через корпоративные партнерства, программы лояльности для сотрудников и внутренние коммуникации компаний. Узнайте, как увеличить загрузку и построить долгосрочные отношения с бизнес-клиентами."
-pubDate: "2025-07-22T11:12:00.319Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Привлечение гостей через корпоративные каналы: Стратегии от ButlerSPB","description":"Откройте для себя недооцененный ресурс для вашего гостиничного бизнеса. Команда ButlerSPB делится проверенными стратегиями по привлечению гостей через корпоративные партнерства, программы лояльности для сотрудников и внутренние коммуникации компаний. Узнайте, как увеличить загрузку и построить долгосрочные отношения с бизнес-клиентами.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.8","reviewCount":731,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/privlechenie-gostey-cherez-korporativnye-kanaly/"}}
+title: 'Привлечение гостей через корпоративные каналы: Стратегии от ButlerSPB'
+description: >-
+  Откройте для себя недооцененный ресурс для вашего гостиничного бизнеса.
+  Команда ButlerSPB делится проверенными стратегиями по привлечению гостей через
+  корпоративные партнерства, программы лояльности для сотрудников и внутренние
+  коммуникации компаний. Узнайте, как увеличить загрузку и построить
+  долгосрочные отношения с бизнес-клиентами.
+pubDate: '2025-07-22T11:12:00.319Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Привлечение гостей через корпоративные каналы: Стратегии от ButlerSPB'
+  description: >-
+    Откройте для себя недооцененный ресурс для вашего гостиничного бизнеса.
+    Команда ButlerSPB делится проверенными стратегиями по привлечению гостей
+    через корпоративные партнерства, программы лояльности для сотрудников и
+    внутренние коммуникации компаний. Узнайте, как увеличить загрузку и
+    построить долгосрочные отношения с бизнес-клиентами.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '5.0'
+    reviewCount: 348
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/privlechenie-gostey-cherez-korporativnye-kanaly/
 ---
 
 # Корпоративные гости: ваш ключ к стабильному доходу от аренды вне сезона

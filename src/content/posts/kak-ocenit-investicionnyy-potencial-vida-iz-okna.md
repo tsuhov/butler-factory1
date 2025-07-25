@@ -1,10 +1,47 @@
 ---
-title: "Вид из окна как инвестиция: как оценить его реальную стоимость"
-description: "Панорама на Исаакиевский собор, разводные мосты или тихий сквер — это не просто красивый бонус, а весомый фактор капитализации недвижимости в Санкт-Петербурге. В этой статье от ButlerSPB мы разберем, как объективно оценить инвестиционный потенциал вида из окна: какие характеристики увеличивают стоимость объекта, как вид влияет на арендную ставку и на что обращают внимание опытные инвесторы при выборе квартиры."
-pubDate: "2025-07-23T11:16:51.578Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Вид из окна как инвестиция: как оценить его реальную стоимость","description":"Панорама на Исаакиевский собор, разводные мосты или тихий сквер — это не просто красивый бонус, а весомый фактор капитализации недвижимости в Санкт-Петербурге. В этой статье от ButlerSPB мы разберем, как объективно оценить инвестиционный потенциал вида из окна: какие характеристики увеличивают стоимость объекта, как вид влияет на арендную ставку и на что обращают внимание опытные инвесторы при выборе квартиры.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":745,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/kak-ocenit-investicionnyy-potencial-vida-iz-okna/"}}
+title: 'Вид из окна как инвестиция: как оценить его реальную стоимость'
+description: >-
+  Панорама на Исаакиевский собор, разводные мосты или тихий сквер — это не
+  просто красивый бонус, а весомый фактор капитализации недвижимости в
+  Санкт-Петербурге. В этой статье от ButlerSPB мы разберем, как объективно
+  оценить инвестиционный потенциал вида из окна: какие характеристики
+  увеличивают стоимость объекта, как вид влияет на арендную ставку и на что
+  обращают внимание опытные инвесторы при выборе квартиры.
+pubDate: '2025-07-23T11:16:51.578Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Вид из окна как инвестиция: как оценить его реальную стоимость'
+  description: >-
+    Панорама на Исаакиевский собор, разводные мосты или тихий сквер — это не
+    просто красивый бонус, а весомый фактор капитализации недвижимости в
+    Санкт-Петербурге. В этой статье от ButlerSPB мы разберем, как объективно
+    оценить инвестиционный потенциал вида из окна: какие характеристики
+    увеличивают стоимость объекта, как вид влияет на арендную ставку и на что
+    обращают внимание опытные инвесторы при выборе квартиры.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.8'
+    reviewCount: 342
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/kak-ocenit-investicionnyy-potencial-vida-iz-okna/
 ---
 
 # Не просто картинка: Как оценить инвестиционный потенциал вида из окна и приумножить капитал

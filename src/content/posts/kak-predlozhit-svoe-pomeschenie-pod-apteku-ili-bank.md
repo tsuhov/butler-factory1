@@ -1,10 +1,51 @@
 ---
-title: "Как предложить свое помещение под аптеку или банк: инструкция для собственника от ButlerSPB"
-description: "Аптечные сети и банки — одни из самых стабильных и выгодных арендаторов для коммерческой недвижимости. Однако у них есть строгие требования к помещениям. В этой статье мы подробно разбираем, каким критериям должно соответствовать ваше помещение, как правильно подготовить коммерческое предложение и на какие юридические аспекты обратить внимание, чтобы успешно сдать объект в аренду крупной сети."
-pubDate: "2025-07-23T13:43:29.407Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Как предложить свое помещение под аптеку или банк: инструкция для собственника от ButlerSPB","description":"Аптечные сети и банки — одни из самых стабильных и выгодных арендаторов для коммерческой недвижимости. Однако у них есть строгие требования к помещениям. В этой статье мы подробно разбираем, каким критериям должно соответствовать ваше помещение, как правильно подготовить коммерческое предложение и на какие юридические аспекты обратить внимание, чтобы успешно сдать объект в аренду крупной сети.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.8","reviewCount":756,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/kak-predlozhit-svoe-pomeschenie-pod-apteku-ili-bank/"}}
+title: >-
+  Как предложить свое помещение под аптеку или банк: инструкция для собственника
+  от ButlerSPB
+description: >-
+  Аптечные сети и банки — одни из самых стабильных и выгодных арендаторов для
+  коммерческой недвижимости. Однако у них есть строгие требования к помещениям.
+  В этой статье мы подробно разбираем, каким критериям должно соответствовать
+  ваше помещение, как правильно подготовить коммерческое предложение и на какие
+  юридические аспекты обратить внимание, чтобы успешно сдать объект в аренду
+  крупной сети.
+pubDate: '2025-07-23T13:43:29.407Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: >-
+    Как предложить свое помещение под аптеку или банк: инструкция для
+    собственника от ButlerSPB
+  description: >-
+    Аптечные сети и банки — одни из самых стабильных и выгодных арендаторов для
+    коммерческой недвижимости. Однако у них есть строгие требования к
+    помещениям. В этой статье мы подробно разбираем, каким критериям должно
+    соответствовать ваше помещение, как правильно подготовить коммерческое
+    предложение и на какие юридические аспекты обратить внимание, чтобы успешно
+    сдать объект в аренду крупной сети.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '5.0'
+    reviewCount: 765
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/kak-predlozhit-svoe-pomeschenie-pod-apteku-ili-bank/
 ---
 
 # Как сдать помещение в аренду аптеке или банку: пошаговая инструкция для собственника

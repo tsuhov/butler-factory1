@@ -1,11 +1,40 @@
 ---
-title: "Элитные квартиры: что делает жилье роскошным"
-description: "Узнайте, какие характеристики отличают элитные квартиры от обычных. ButlerSPB разбирает ключевые аспекты: от уникальной локации и архитектуры до эксклюзивных материалов."
-keywords: "элитные квартиры, роскошная недвижимость, квартиры премиум-класса, элитное жилье спб, эксклюзивный дизайн, ButlerSPB"
-pubDate: "2025-07-25T15:09:56.983Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Элитные квартиры: что делает жилье роскошным","description":"Узнайте, какие характеристики отличают элитные квартиры от обычных. ButlerSPB разбирает ключевые аспекты: от уникальной локации и архитектуры до эксклюзивных материалов.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.8","reviewCount":751,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/elitnye-kvartiry/"}}
+title: 'Элитные квартиры: что делает жилье роскошным'
+description: >-
+  Узнайте, какие характеристики отличают элитные квартиры от обычных. ButlerSPB
+  разбирает ключевые аспекты: от уникальной локации и архитектуры до
+  эксклюзивных материалов.
+pubDate: '2025-07-25T15:09:56.983Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Элитные квартиры: что делает жилье роскошным'
+  description: >-
+    Узнайте, какие характеристики отличают элитные квартиры от обычных.
+    ButlerSPB разбирает ключевые аспекты: от уникальной локации и архитектуры до
+    эксклюзивных материалов.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.9'
+    reviewCount: 461
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': 'https://butlerspb-blog.netlify.app/blog/elitnye-kvartiry/'
 ---
 # Искусство жить в Петербурге: как выбрать элитную квартиру, достойную вас
 

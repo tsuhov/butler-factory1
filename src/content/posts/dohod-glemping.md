@@ -1,11 +1,40 @@
 ---
-title: "Прибыльный глэмпинг: сколько можно заработать"
-description: "Анализируем доходность глэмпинга как бизнес-проекта. Сколько нужно вложить, как быстро окупятся инвестиции и какой реальный доход можно получать с одного домика?"
-keywords: "доход глэмпинг, глэмпинг бизнес, инвестиции в глэмпинг, окупаемость глэмпинга, прибыль от глэмпинга, управление глэмпингом, бизнес-план глэмпинг"
-pubDate: "2025-07-25T16:30:58.397Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Прибыльный глэмпинг: сколько можно заработать","description":"Анализируем доходность глэмпинга как бизнес-проекта. Сколько нужно вложить, как быстро окупятся инвестиции и какой реальный доход можно получать с одного домика?","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"5.0","reviewCount":603,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/dohod-glemping/"}}
+title: 'Прибыльный глэмпинг: сколько можно заработать'
+description: >-
+  Анализируем доходность глэмпинга как бизнес-проекта. Сколько нужно вложить,
+  как быстро окупятся инвестиции и какой реальный доход можно получать с одного
+  домика?
+pubDate: '2025-07-25T16:30:58.397Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Прибыльный глэмпинг: сколько можно заработать'
+  description: >-
+    Анализируем доходность глэмпинга как бизнес-проекта. Сколько нужно вложить,
+    как быстро окупятся инвестиции и какой реальный доход можно получать с
+    одного домика?
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.9'
+    reviewCount: 452
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': 'https://butlerspb-blog.netlify.app/blog/dohod-glemping/'
 ---
 # Доход глэмпинга: откровенный разбор от А до Я. Сколько на самом деле можно заработать?
 

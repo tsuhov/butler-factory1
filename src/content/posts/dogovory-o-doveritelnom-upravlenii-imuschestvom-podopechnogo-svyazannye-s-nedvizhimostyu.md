@@ -1,10 +1,47 @@
 ---
-title: "Доверительное управление недвижимостью подопечного: ключевые аспекты договора"
-description: "Заключение договора доверительного управления недвижимостью подопечного — сложный процесс, требующий согласия органов опеки. В блоге ButlerSPB разбираем, какие условия обязательны для такого договора, как защитить имущественные права несовершеннолетнего или недееспособного лица и избежать юридических рисков."
-pubDate: "2025-07-22T00:39:16.707Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Доверительное управление недвижимостью подопечного: ключевые аспекты договора","description":"Заключение договора доверительного управления недвижимостью подопечного — сложный процесс, требующий согласия органов опеки. В блоге ButlerSPB разбираем, какие условия обязательны для такого договора, как защитить имущественные права несовершеннолетнего или недееспособного лица и избежать юридических рисков.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":864,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/dogovory-o-doveritelnom-upravlenii-imuschestvom-podopechnogo-svyazannye-s-nedvizhimostyu/"}}
+title: 'Доверительное управление недвижимостью подопечного: ключевые аспекты договора'
+description: >-
+  Заключение договора доверительного управления недвижимостью подопечного —
+  сложный процесс, требующий согласия органов опеки. В блоге ButlerSPB
+  разбираем, какие условия обязательны для такого договора, как защитить
+  имущественные права несовершеннолетнего или недееспособного лица и избежать
+  юридических рисков.
+pubDate: '2025-07-22T00:39:16.707Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: >-
+    Доверительное управление недвижимостью подопечного: ключевые аспекты
+    договора
+  description: >-
+    Заключение договора доверительного управления недвижимостью подопечного —
+    сложный процесс, требующий согласия органов опеки. В блоге ButlerSPB
+    разбираем, какие условия обязательны для такого договора, как защитить
+    имущественные права несовершеннолетнего или недееспособного лица и избежать
+    юридических рисков.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.9'
+    reviewCount: 846
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/dogovory-o-doveritelnom-upravlenii-imuschestvom-podopechnogo-svyazannye-s-nedvizhimostyu/
 ---
 
 # Как законно сдать в аренду недвижимость подопечного: полное руководство по договору доверительного управления

@@ -1,10 +1,47 @@
 ---
-title: "Как выгодно и безопасно сдать 5-комнатную квартиру в Санкт-Петербурге: инструкция от ButlerSPB"
-description: "Пятикомнатная квартира — нестандартный и ценный актив. В этой статье эксперты ButlerSPB рассказывают, как найти идеального арендатора для большой площади, правильно определить рыночную стоимость, подготовить объект и какие юридические тонкости учесть в договоре, чтобы обеспечить стабильный доход."
-pubDate: "2025-07-22T13:58:36.649Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Как выгодно и безопасно сдать 5-комнатную квартиру в Санкт-Петербурге: инструкция от ButlerSPB","description":"Пятикомнатная квартира — нестандартный и ценный актив. В этой статье эксперты ButlerSPB рассказывают, как найти идеального арендатора для большой площади, правильно определить рыночную стоимость, подготовить объект и какие юридические тонкости учесть в договоре, чтобы обеспечить стабильный доход.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.8","reviewCount":872,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/kak-sdat-5-komnatnuyu-kvartiru-v-sankt-peterburge/"}}
+title: >-
+  Как выгодно и безопасно сдать 5-комнатную квартиру в Санкт-Петербурге:
+  инструкция от ButlerSPB
+description: >-
+  Пятикомнатная квартира — нестандартный и ценный актив. В этой статье эксперты
+  ButlerSPB рассказывают, как найти идеального арендатора для большой площади,
+  правильно определить рыночную стоимость, подготовить объект и какие
+  юридические тонкости учесть в договоре, чтобы обеспечить стабильный доход.
+pubDate: '2025-07-22T13:58:36.649Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: >-
+    Как выгодно и безопасно сдать 5-комнатную квартиру в Санкт-Петербурге:
+    инструкция от ButlerSPB
+  description: >-
+    Пятикомнатная квартира — нестандартный и ценный актив. В этой статье
+    эксперты ButlerSPB рассказывают, как найти идеального арендатора для большой
+    площади, правильно определить рыночную стоимость, подготовить объект и какие
+    юридические тонкости учесть в договоре, чтобы обеспечить стабильный доход.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.9'
+    reviewCount: 444
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/kak-sdat-5-komnatnuyu-kvartiru-v-sankt-peterburge/
 ---
 
 # 5 комнат в Петербурге: Как сдать дорого, быстро и без головной боли. Пошаговая инструкция для собственника

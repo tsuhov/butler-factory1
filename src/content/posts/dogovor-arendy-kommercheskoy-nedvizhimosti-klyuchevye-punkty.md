@@ -1,10 +1,47 @@
 ---
-title: "Договор аренды коммерческой недвижимости: ключевые пункты"
-description: "Договор аренды — это фундамент ваших отношений с арендодателем и гарантия безопасности вашего бизнеса. В новой статье блога ButlerSPB мы подробно разбираем ключевые пункты, на которые стоит обратить внимание при заключении сделки: от точного описания объекта и размера арендной платы до условий расторжения и распределения ответственности за ремонт. Узнайте, как защитить свои интересы и избежать подводных камней."
-pubDate: "2025-07-22T11:31:11.021Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Договор аренды коммерческой недвижимости: ключевые пункты","description":"Договор аренды — это фундамент ваших отношений с арендодателем и гарантия безопасности вашего бизнеса. В новой статье блога ButlerSPB мы подробно разбираем ключевые пункты, на которые стоит обратить внимание при заключении сделки: от точного описания объекта и размера арендной платы до условий расторжения и распределения ответственности за ремонт. Узнайте, как защитить свои интересы и избежать подводных камней.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":385,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/dogovor-arendy-kommercheskoy-nedvizhimosti-klyuchevye-punkty/"}}
+title: 'Договор аренды коммерческой недвижимости: ключевые пункты'
+description: >-
+  Договор аренды — это фундамент ваших отношений с арендодателем и гарантия
+  безопасности вашего бизнеса. В новой статье блога ButlerSPB мы подробно
+  разбираем ключевые пункты, на которые стоит обратить внимание при заключении
+  сделки: от точного описания объекта и размера арендной платы до условий
+  расторжения и распределения ответственности за ремонт. Узнайте, как защитить
+  свои интересы и избежать подводных камней.
+pubDate: '2025-07-22T11:31:11.021Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Договор аренды коммерческой недвижимости: ключевые пункты'
+  description: >-
+    Договор аренды — это фундамент ваших отношений с арендодателем и гарантия
+    безопасности вашего бизнеса. В новой статье блога ButlerSPB мы подробно
+    разбираем ключевые пункты, на которые стоит обратить внимание при заключении
+    сделки: от точного описания объекта и размера арендной платы до условий
+    расторжения и распределения ответственности за ремонт. Узнайте, как защитить
+    свои интересы и избежать подводных камней.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.8'
+    reviewCount: 654
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/dogovor-arendy-kommercheskoy-nedvizhimosti-klyuchevye-punkty/
 ---
 
 # Договор аренды коммерческой недвижимости: 10 ключевых пунктов, которые защитят ваш капитал

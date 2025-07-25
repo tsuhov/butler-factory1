@@ -1,11 +1,40 @@
 ---
-title: "Спокойствие клиента — наш главный приоритет"
-description: "В ButlerSPB мы знаем, что основа безупречного сервиса — ваше душевное равновесие. Узнайте, как наш подход и внимание к деталям гарантируют вашу уверенность."
-keywords: "спокойствие клиента, ButlerSPB, клиентский сервис, доверие, надежность, премиум-услуги, гарантия качества"
-pubDate: "2025-07-25T15:54:07.106Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Спокойствие клиента — наш главный приоритет","description":"В ButlerSPB мы знаем, что основа безупречного сервиса — ваше душевное равновесие. Узнайте, как наш подход и внимание к деталям гарантируют вашу уверенность.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":692,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/spokoystvie-klienta/"}}
+title: Спокойствие клиента — наш главный приоритет
+description: >-
+  В ButlerSPB мы знаем, что основа безупречного сервиса — ваше душевное
+  равновесие. Узнайте, как наш подход и внимание к деталям гарантируют вашу
+  уверенность.
+pubDate: '2025-07-25T15:54:07.106Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: Спокойствие клиента — наш главный приоритет
+  description: >-
+    В ButlerSPB мы знаем, что основа безупречного сервиса — ваше душевное
+    равновесие. Узнайте, как наш подход и внимание к деталям гарантируют вашу
+    уверенность.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.8'
+    reviewCount: 308
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': 'https://butlerspb-blog.netlify.app/blog/spokoystvie-klienta/'
 ---
 # Спокойствие — новая роскошь. Как мы в ButlerSPB сделали его стандартом нашего сервиса
 

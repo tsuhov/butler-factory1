@@ -1,11 +1,40 @@
 ---
-title: "Старый фонд СПБ: выгодные инвестиции с ButlerSPB"
-description: "Инвестиции в старый фонд СПб — это выгодно. Наш гид для инвестора поможет выбрать ликвидный объект, оценить риски и получить максимальную доходность с ButlerSPB."
-keywords: "инвестиции в недвижимость, старый фонд, недвижимость СПБ, доходная недвижимость, ButlerSPB, покупка квартиры, инвестор"
-pubDate: "2025-07-25T14:10:18.312Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Старый фонд СПБ: выгодные инвестиции с ButlerSPB","description":"Инвестиции в старый фонд СПб — это выгодно. Наш гид для инвестора поможет выбрать ликвидный объект, оценить риски и получить максимальную доходность с ButlerSPB.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":639,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/staryy-fond-invest/"}}
+title: 'Старый фонд СПБ: выгодные инвестиции с ButlerSPB'
+description: >-
+  Инвестиции в старый фонд СПб — это выгодно. Наш гид для инвестора поможет
+  выбрать ликвидный объект, оценить риски и получить максимальную доходность с
+  ButlerSPB.
+pubDate: '2025-07-25T14:10:18.312Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Старый фонд СПБ: выгодные инвестиции с ButlerSPB'
+  description: >-
+    Инвестиции в старый фонд СПб — это выгодно. Наш гид для инвестора поможет
+    выбрать ликвидный объект, оценить риски и получить максимальную доходность с
+    ButlerSPB.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.9'
+    reviewCount: 604
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': 'https://butlerspb-blog.netlify.app/blog/staryy-fond-invest/'
 ---
 # Старый фонд как инвест-проект: полное руководство по заработку на истории Петербурга
 

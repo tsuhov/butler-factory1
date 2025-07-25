@@ -1,10 +1,46 @@
 ---
-title: "Портрет современного арендатора-студента в Санкт-Петербурге"
-description: "Кто сегодня снимает жилье на время учебы в СПб? Это уже не тот робкий первокурсник из прошлого. Команда ButlerSPB составила подробный портрет арендатора-студента: его бюджет, предпочтения по районам (спойлер: не только центр), требования к квартире и мебели, а также его платежеспособность и типичные привычки. Разбираемся, чего ожидать собственникам и как найти идеального квартиранта на долгий срок."
-pubDate: "2025-07-22T13:48:17.815Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Портрет современного арендатора-студента в Санкт-Петербурге","description":"Кто сегодня снимает жилье на время учебы в СПб? Это уже не тот робкий первокурсник из прошлого. Команда ButlerSPB составила подробный портрет арендатора-студента: его бюджет, предпочтения по районам (спойлер: не только центр), требования к квартире и мебели, а также его платежеспособность и типичные привычки. Разбираемся, чего ожидать собственникам и как найти идеального квартиранта на долгий срок.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.8","reviewCount":421,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/portret-arendatora-studenta-v-spb/"}}
+title: Портрет современного арендатора-студента в Санкт-Петербурге
+description: >-
+  Кто сегодня снимает жилье на время учебы в СПб? Это уже не тот робкий
+  первокурсник из прошлого. Команда ButlerSPB составила подробный портрет
+  арендатора-студента: его бюджет, предпочтения по районам (спойлер: не только
+  центр), требования к квартире и мебели, а также его платежеспособность и
+  типичные привычки. Разбираемся, чего ожидать собственникам и как найти
+  идеального квартиранта на долгий срок.
+pubDate: '2025-07-22T13:48:17.815Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: Портрет современного арендатора-студента в Санкт-Петербурге
+  description: >-
+    Кто сегодня снимает жилье на время учебы в СПб? Это уже не тот робкий
+    первокурсник из прошлого. Команда ButlerSPB составила подробный портрет
+    арендатора-студента: его бюджет, предпочтения по районам (спойлер: не только
+    центр), требования к квартире и мебели, а также его платежеспособность и
+    типичные привычки. Разбираемся, чего ожидать собственникам и как найти
+    идеального квартиранта на долгий срок.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.9'
+    reviewCount: 483
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': 'https://butlerspb-blog.netlify.app/blog/portret-arendatora-studenta-v-spb/'
 ---
 
 # Сдавать ли квартиру студенту в СПб? Разрушаем мифы и рисуем реальный портрет арендатора

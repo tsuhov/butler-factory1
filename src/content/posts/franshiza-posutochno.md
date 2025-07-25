@@ -1,11 +1,39 @@
 ---
-title: "Франшиза посуточно: бизнес-модель ButlerSPB"
-description: "Откройте успешный бизнес в посуточной аренде по франшизе ButlerSPB. Предлагаем готовую бизнес-модель, полную поддержку на всех этапах и быстрый старт."
-keywords: "франшиза посуточно, посуточная аренда, бизнес на апартаментах, франшиза ButlerSPB, готовый бизнес, инвестиции в недвижимость"
-pubDate: "2025-07-25T15:47:07.951Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Франшиза посуточно: бизнес-модель ButlerSPB","description":"Откройте успешный бизнес в посуточной аренде по франшизе ButlerSPB. Предлагаем готовую бизнес-модель, полную поддержку на всех этапах и быстрый старт.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.7","reviewCount":315,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/franshiza-posutochno/"}}
+title: 'Франшиза посуточно: бизнес-модель ButlerSPB'
+description: >-
+  Откройте успешный бизнес в посуточной аренде по франшизе ButlerSPB. Предлагаем
+  готовую бизнес-модель, полную поддержку на всех этапах и быстрый старт.
+pubDate: '2025-07-25T15:47:07.951Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Франшиза посуточно: бизнес-модель ButlerSPB'
+  description: >-
+    Откройте успешный бизнес в посуточной аренде по франшизе ButlerSPB.
+    Предлагаем готовую бизнес-модель, полную поддержку на всех этапах и быстрый
+    старт.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '5.0'
+    reviewCount: 331
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': 'https://butlerspb-blog.netlify.app/blog/franshiza-posutochno/'
 ---
 # Франшиза посуточно от ButlerSPB: Как запустить прибыльный бизнес на аренде квартир за 45 дней
 

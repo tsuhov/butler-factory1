@@ -1,10 +1,51 @@
 ---
-title: "Как выбрать апарт-комплекс для выгодной сдачи в аренду: инструкция для инвестора"
-description: "Планируете инвестировать в апартаменты? Команда ButlerSPB подготовила подробное руководство, которое поможет вам сделать правильный выбор. В статье разбираем ключевые критерии: локация и транспортная доступность, концепция и инфраструктура комплекса, надежность управляющей компании и потенциальная доходность. Узнайте, как избежать рисков и обеспечить максимальную загрузку вашего объекта."
-pubDate: "2025-07-22T13:45:06.786Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Как выбрать апарт-комплекс для выгодной сдачи в аренду: инструкция для инвестора","description":"Планируете инвестировать в апартаменты? Команда ButlerSPB подготовила подробное руководство, которое поможет вам сделать правильный выбор. В статье разбираем ключевые критерии: локация и транспортная доступность, концепция и инфраструктура комплекса, надежность управляющей компании и потенциальная доходность. Узнайте, как избежать рисков и обеспечить максимальную загрузку вашего объекта.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.7","reviewCount":469,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/kak-vybrat-apart-kompleks-dlya-vygodnoy-sdachi-v-arendu/"}}
+title: >-
+  Как выбрать апарт-комплекс для выгодной сдачи в аренду: инструкция для
+  инвестора
+description: >-
+  Планируете инвестировать в апартаменты? Команда ButlerSPB подготовила
+  подробное руководство, которое поможет вам сделать правильный выбор. В статье
+  разбираем ключевые критерии: локация и транспортная доступность, концепция и
+  инфраструктура комплекса, надежность управляющей компании и потенциальная
+  доходность. Узнайте, как избежать рисков и обеспечить максимальную загрузку
+  вашего объекта.
+pubDate: '2025-07-22T13:45:06.786Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: >-
+    Как выбрать апарт-комплекс для выгодной сдачи в аренду: инструкция для
+    инвестора
+  description: >-
+    Планируете инвестировать в апартаменты? Команда ButlerSPB подготовила
+    подробное руководство, которое поможет вам сделать правильный выбор. В
+    статье разбираем ключевые критерии: локация и транспортная доступность,
+    концепция и инфраструктура комплекса, надежность управляющей компании и
+    потенциальная доходность. Узнайте, как избежать рисков и обеспечить
+    максимальную загрузку вашего объекта.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.7'
+    reviewCount: 590
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/kak-vybrat-apart-kompleks-dlya-vygodnoy-sdachi-v-arendu/
 ---
 
 # Как выбрать апарт-комплекс для выгодной сдачи в аренду: полное руководство для инвестора от ButlerSPB

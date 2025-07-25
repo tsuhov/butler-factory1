@@ -1,11 +1,40 @@
 ---
-title: "Консьерж-сервис от ButlerSPB: новый уровень"
-description: "Узнайте, как консьерж-сервис от ButlerSPB изменит вашу жизнь. Мы решаем любые задачи: от бронирования столика до организации мероприятий. Доверьте рутину нам!"
-keywords: "консьерж-сервис, butlerspb, личный помощник, консьерж спб, услуги консьержа, лайфстайл менеджмент"
-pubDate: "2025-07-24T13:04:35.248Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Консьерж-сервис от ButlerSPB: новый уровень","description":"Узнайте, как консьерж-сервис от ButlerSPB изменит вашу жизнь. Мы решаем любые задачи: от бронирования столика до организации мероприятий. Доверьте рутину нам!","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"5.0","reviewCount":481,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/konserzh-ot-batlera/"}}
+title: 'Консьерж-сервис от ButlerSPB: новый уровень'
+description: >-
+  Узнайте, как консьерж-сервис от ButlerSPB изменит вашу жизнь. Мы решаем любые
+  задачи: от бронирования столика до организации мероприятий. Доверьте рутину
+  нам!
+pubDate: '2025-07-24T13:04:35.248Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Консьерж-сервис от ButlerSPB: новый уровень'
+  description: >-
+    Узнайте, как консьерж-сервис от ButlerSPB изменит вашу жизнь. Мы решаем
+    любые задачи: от бронирования столика до организации мероприятий. Доверьте
+    рутину нам!
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.9'
+    reviewCount: 358
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': 'https://butlerspb-blog.netlify.app/blog/konserzh-ot-batlera/'
 ---
 # Консьерж от Butler: Когда самое ценное – ваше время
 

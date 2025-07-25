@@ -1,10 +1,49 @@
 ---
-title: "Что входит в услуги доверительного управления недвижимостью? Полный гид от ButlerSPB"
-description: "Раскрываем все карты: от поиска и заселения арендаторов до решения бытовых вопросов, юридического сопровождения и финансовой отчетности. Узнайте, какие именно задачи берет на себя управляющая компания и как доверительное управление от ButlerSPB помогает собственникам экономить время и максимизировать доход от аренды."
-pubDate: "2025-07-22T00:30:51.777Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Что входит в услуги доверительного управления недвижимостью? Полный гид от ButlerSPB","description":"Раскрываем все карты: от поиска и заселения арендаторов до решения бытовых вопросов, юридического сопровождения и финансовой отчетности. Узнайте, какие именно задачи берет на себя управляющая компания и как доверительное управление от ButlerSPB помогает собственникам экономить время и максимизировать доход от аренды.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.8","reviewCount":700,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/chto-vhodit-v-uslugi-doveritelnogo-upravleniya-nedvizhimostyu/"}}
+title: >-
+  Что входит в услуги доверительного управления недвижимостью? Полный гид от
+  ButlerSPB
+description: >-
+  Раскрываем все карты: от поиска и заселения арендаторов до решения бытовых
+  вопросов, юридического сопровождения и финансовой отчетности. Узнайте, какие
+  именно задачи берет на себя управляющая компания и как доверительное
+  управление от ButlerSPB помогает собственникам экономить время и
+  максимизировать доход от аренды.
+pubDate: '2025-07-22T00:30:51.777Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: >-
+    Что входит в услуги доверительного управления недвижимостью? Полный гид от
+    ButlerSPB
+  description: >-
+    Раскрываем все карты: от поиска и заселения арендаторов до решения бытовых
+    вопросов, юридического сопровождения и финансовой отчетности. Узнайте, какие
+    именно задачи берет на себя управляющая компания и как доверительное
+    управление от ButlerSPB помогает собственникам экономить время и
+    максимизировать доход от аренды.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.7'
+    reviewCount: 850
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/chto-vhodit-v-uslugi-doveritelnogo-upravleniya-nedvizhimostyu/
 ---
 
 # Что на самом деле входит в услуги доверительного управления недвижимостью?

@@ -1,11 +1,40 @@
 ---
-title: "Стандарт услуг ButlerSPB: что это значит?"
-description: "В ButlerSPB мы разработали собственный стандарт услуг, гарантирующий высокое качество на каждом этапе. Узнайте, из чего он состоит и почему это важно для нас."
-keywords: "стандарт услуг, качество сервиса, ButlerSPB, обслуживание клиентов, клиентский опыт, протокол обслуживания"
-pubDate: "2025-07-24T13:46:09.022Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Стандарт услуг ButlerSPB: что это значит?","description":"В ButlerSPB мы разработали собственный стандарт услуг, гарантирующий высокое качество на каждом этапе. Узнайте, из чего он состоит и почему это важно для нас.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.8","reviewCount":836,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/standart-uslug/"}}
+title: 'Стандарт услуг ButlerSPB: что это значит?'
+description: >-
+  В ButlerSPB мы разработали собственный стандарт услуг, гарантирующий высокое
+  качество на каждом этапе. Узнайте, из чего он состоит и почему это важно для
+  нас.
+pubDate: '2025-07-24T13:46:09.022Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Стандарт услуг ButlerSPB: что это значит?'
+  description: >-
+    В ButlerSPB мы разработали собственный стандарт услуг, гарантирующий высокое
+    качество на каждом этапе. Узнайте, из чего он состоит и почему это важно для
+    нас.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.8'
+    reviewCount: 419
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': 'https://butlerspb-blog.netlify.app/blog/standart-uslug/'
 ---
 # Стандарт услуг: Что отличает хороший сервис от безупречного?
 

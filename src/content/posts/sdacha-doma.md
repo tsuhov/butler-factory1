@@ -1,11 +1,39 @@
 ---
-title: "Приемка дома у застройщика: пошаговый план"
-description: "Процесс приемки дома от застройщика полон нюансов. Рассказываем, как провести осмотр, на какие технические моменты обратить внимание и как составить акт."
-keywords: "приемка дома, сдача дома, застройщик, акт приема-передачи, скрытые дефекты, новостройка, ButlerSPB"
-pubDate: "2025-07-25T14:17:34.353Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Приемка дома у застройщика: пошаговый план","description":"Процесс приемки дома от застройщика полон нюансов. Рассказываем, как провести осмотр, на какие технические моменты обратить внимание и как составить акт.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"5.0","reviewCount":534,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/sdacha-doma/"}}
+title: 'Приемка дома у застройщика: пошаговый план'
+description: >-
+  Процесс приемки дома от застройщика полон нюансов. Рассказываем, как провести
+  осмотр, на какие технические моменты обратить внимание и как составить акт.
+pubDate: '2025-07-25T14:17:34.353Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Приемка дома у застройщика: пошаговый план'
+  description: >-
+    Процесс приемки дома от застройщика полон нюансов. Рассказываем, как
+    провести осмотр, на какие технические моменты обратить внимание и как
+    составить акт.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '5.0'
+    reviewCount: 582
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': 'https://butlerspb-blog.netlify.app/blog/sdacha-doma/'
 ---
 # Как сдать дом в аренду: Пошаговое руководство от экспертов по управлению недвижимостью
 

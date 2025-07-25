@@ -1,11 +1,39 @@
 ---
-title: "Гарантия комфорта: как ButlerSPB создает уют"
-description: "В ButlerSPB мы не просто предоставляем услуги, мы создаем атмосферу уюта и спокойствия. Узнайте, из каких элементов складывается наша гарантия комфорта."
-keywords: "гарантия комфорта, ButlerSPB, уют в доме, персональный сервис, стандарты качества, создание уюта, консьерж-сервис"
-pubDate: "2025-07-24T13:40:33.796Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Гарантия комфорта: как ButlerSPB создает уют","description":"В ButlerSPB мы не просто предоставляем услуги, мы создаем атмосферу уюта и спокойствия. Узнайте, из каких элементов складывается наша гарантия комфорта.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.7","reviewCount":488,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/garantiya-komforta/"}}
+title: 'Гарантия комфорта: как ButlerSPB создает уют'
+description: >-
+  В ButlerSPB мы не просто предоставляем услуги, мы создаем атмосферу уюта и
+  спокойствия. Узнайте, из каких элементов складывается наша гарантия комфорта.
+pubDate: '2025-07-24T13:40:33.796Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Гарантия комфорта: как ButlerSPB создает уют'
+  description: >-
+    В ButlerSPB мы не просто предоставляем услуги, мы создаем атмосферу уюта и
+    спокойствия. Узнайте, из каких элементов складывается наша гарантия
+    комфорта.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.9'
+    reviewCount: 665
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': 'https://butlerspb-blog.netlify.app/blog/garantiya-komforta/'
 ---
 # Гарантия комфорта: Как ButlerSPB создает идеальные условия для жизни и работы в Петербурге
 

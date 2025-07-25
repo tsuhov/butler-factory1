@@ -1,10 +1,47 @@
 ---
-title: "Продажа доли в квартире через нотариуса: обязательно ли?"
-description: "Планируете продать долю в квартире и не уверены, нужно ли обращаться к нотариусу? Эксперты компании ButlerSPB разъясняют, в каких случаях нотариальное удостоверение сделки является обязательным требованием закона, а когда можно обойтись простой письменной формой договора. В статье разбираем все нюансы: продажа доли постороннему лицу, другому сособственнику и исключения из правил."
-pubDate: "2025-07-23T12:11:19.921Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Продажа доли в квартире через нотариуса: обязательно ли?","description":"Планируете продать долю в квартире и не уверены, нужно ли обращаться к нотариусу? Эксперты компании ButlerSPB разъясняют, в каких случаях нотариальное удостоверение сделки является обязательным требованием закона, а когда можно обойтись простой письменной формой договора. В статье разбираем все нюансы: продажа доли постороннему лицу, другому сособственнику и исключения из правил.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":734,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/prodazha-doli-v-kvartire-cherez-notariusa-obyazatelno-li/"}}
+title: 'Продажа доли в квартире через нотариуса: обязательно ли?'
+description: >-
+  Планируете продать долю в квартире и не уверены, нужно ли обращаться к
+  нотариусу? Эксперты компании ButlerSPB разъясняют, в каких случаях
+  нотариальное удостоверение сделки является обязательным требованием закона, а
+  когда можно обойтись простой письменной формой договора. В статье разбираем
+  все нюансы: продажа доли постороннему лицу, другому сособственнику и
+  исключения из правил.
+pubDate: '2025-07-23T12:11:19.921Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Продажа доли в квартире через нотариуса: обязательно ли?'
+  description: >-
+    Планируете продать долю в квартире и не уверены, нужно ли обращаться к
+    нотариусу? Эксперты компании ButlerSPB разъясняют, в каких случаях
+    нотариальное удостоверение сделки является обязательным требованием закона,
+    а когда можно обойтись простой письменной формой договора. В статье
+    разбираем все нюансы: продажа доли постороннему лицу, другому сособственнику
+    и исключения из правил.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.8'
+    reviewCount: 734
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/prodazha-doli-v-kvartire-cherez-notariusa-obyazatelno-li/
 ---
 
 # Продажа доли в квартире: когда нотариус обязателен, а когда можно сэкономить? Полный разбор 2024 от ButlerSPB

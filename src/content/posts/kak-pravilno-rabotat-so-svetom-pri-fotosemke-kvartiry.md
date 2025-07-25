@@ -1,10 +1,51 @@
 ---
-title: "Как правильно работать со светом при фотосъемке квартиры: секреты идеальных кадров от ButlerSPB"
-description: "Хотите, чтобы фотографии вашей квартиры привлекали максимум внимания? Ключ к успеху — правильное освещение. В новой статье блога ButlerSPB мы разбираем, как использовать естественный и искусственный свет, избегать распространенных ошибок вроде бликов и темных углов, и создавать снимки, которые выгодно подчеркнут все достоинства вашего жилья. Узнайте, как сделать ваши фото яркими, объемными и по-настоящему продающими!"
-pubDate: "2025-07-22T11:09:50.985Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Как правильно работать со светом при фотосъемке квартиры: секреты идеальных кадров от ButlerSPB","description":"Хотите, чтобы фотографии вашей квартиры привлекали максимум внимания? Ключ к успеху — правильное освещение. В новой статье блога ButlerSPB мы разбираем, как использовать естественный и искусственный свет, избегать распространенных ошибок вроде бликов и темных углов, и создавать снимки, которые выгодно подчеркнут все достоинства вашего жилья. Узнайте, как сделать ваши фото яркими, объемными и по-настоящему продающими!","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":776,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/kak-pravilno-rabotat-so-svetom-pri-fotosemke-kvartiry/"}}
+title: >-
+  Как правильно работать со светом при фотосъемке квартиры: секреты идеальных
+  кадров от ButlerSPB
+description: >-
+  Хотите, чтобы фотографии вашей квартиры привлекали максимум внимания? Ключ к
+  успеху — правильное освещение. В новой статье блога ButlerSPB мы разбираем,
+  как использовать естественный и искусственный свет, избегать распространенных
+  ошибок вроде бликов и темных углов, и создавать снимки, которые выгодно
+  подчеркнут все достоинства вашего жилья. Узнайте, как сделать ваши фото
+  яркими, объемными и по-настоящему продающими!
+pubDate: '2025-07-22T11:09:50.985Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: >-
+    Как правильно работать со светом при фотосъемке квартиры: секреты идеальных
+    кадров от ButlerSPB
+  description: >-
+    Хотите, чтобы фотографии вашей квартиры привлекали максимум внимания? Ключ к
+    успеху — правильное освещение. В новой статье блога ButlerSPB мы разбираем,
+    как использовать естественный и искусственный свет, избегать
+    распространенных ошибок вроде бликов и темных углов, и создавать снимки,
+    которые выгодно подчеркнут все достоинства вашего жилья. Узнайте, как
+    сделать ваши фото яркими, объемными и по-настоящему продающими!
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.9'
+    reviewCount: 668
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/kak-pravilno-rabotat-so-svetom-pri-fotosemke-kvartiry/
 ---
 
 # Магия света: Как правильно фотографировать квартиру, чтобы сдать её дороже и быстрее

@@ -1,10 +1,49 @@
 ---
-title: "Как выгодно продать загородную недвижимость в Ленинградской области: полное руководство от ButlerSPB"
-description: "Планируете продать дом, дачу или коттедж в Ленобласти? В нашей статье вы найдете пошаговую инструкцию от экспертов ButlerSPB: от предпродажной подготовки и правильной оценки до сбора документов и проведения безопасной сделки. Узнайте, как продать вашу недвижимость быстро и по максимальной рыночной цене."
-pubDate: "2025-07-21T23:40:10.134Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Как выгодно продать загородную недвижимость в Ленинградской области: полное руководство от ButlerSPB","description":"Планируете продать дом, дачу или коттедж в Ленобласти? В нашей статье вы найдете пошаговую инструкцию от экспертов ButlerSPB: от предпродажной подготовки и правильной оценки до сбора документов и проведения безопасной сделки. Узнайте, как продать вашу недвижимость быстро и по максимальной рыночной цене.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.8","reviewCount":772,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/prodat-zagorodnuyu-nedvizhimost-v-leningradskoy-oblasti/"}}
+title: >-
+  Как выгодно продать загородную недвижимость в Ленинградской области: полное
+  руководство от ButlerSPB
+description: >-
+  Планируете продать дом, дачу или коттедж в Ленобласти? В нашей статье вы
+  найдете пошаговую инструкцию от экспертов ButlerSPB: от предпродажной
+  подготовки и правильной оценки до сбора документов и проведения безопасной
+  сделки. Узнайте, как продать вашу недвижимость быстро и по максимальной
+  рыночной цене.
+pubDate: '2025-07-21T23:40:10.134Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: >-
+    Как выгодно продать загородную недвижимость в Ленинградской области: полное
+    руководство от ButlerSPB
+  description: >-
+    Планируете продать дом, дачу или коттедж в Ленобласти? В нашей статье вы
+    найдете пошаговую инструкцию от экспертов ButlerSPB: от предпродажной
+    подготовки и правильной оценки до сбора документов и проведения безопасной
+    сделки. Узнайте, как продать вашу недвижимость быстро и по максимальной
+    рыночной цене.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.9'
+    reviewCount: 569
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/prodat-zagorodnuyu-nedvizhimost-v-leningradskoy-oblasti/
 ---
 
 # Как выгодно и быстро продать загородную недвижимость в Ленинградской области: Полное руководство от ButlerSPB

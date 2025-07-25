@@ -1,10 +1,47 @@
 ---
-title: "Консультация юриста по вопросам наследования недвижимости"
-description: "Наследование квартиры, дома или земельного участка — процесс, требующий глубоких знаний законодательства. В блоге компании ButlerSPB наши юристы разбирают ключевые вопросы: как вступить в наследство, какие сроки установлены законом, как разделить имущество между наследниками и избежать споров. Узнайте, как своевременная юридическая консультация поможет защитить ваши права и правильно оформить недвижимость в собственность."
-pubDate: "2025-07-23T12:02:17.761Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Консультация юриста по вопросам наследования недвижимости","description":"Наследование квартиры, дома или земельного участка — процесс, требующий глубоких знаний законодательства. В блоге компании ButlerSPB наши юристы разбирают ключевые вопросы: как вступить в наследство, какие сроки установлены законом, как разделить имущество между наследниками и избежать споров. Узнайте, как своевременная юридическая консультация поможет защитить ваши права и правильно оформить недвижимость в собственность.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"5.0","reviewCount":846,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/konsultaciya-yurista-po-voprosam-nasledovaniya-nedvizhimosti/"}}
+title: Консультация юриста по вопросам наследования недвижимости
+description: >-
+  Наследование квартиры, дома или земельного участка — процесс, требующий
+  глубоких знаний законодательства. В блоге компании ButlerSPB наши юристы
+  разбирают ключевые вопросы: как вступить в наследство, какие сроки установлены
+  законом, как разделить имущество между наследниками и избежать споров.
+  Узнайте, как своевременная юридическая консультация поможет защитить ваши
+  права и правильно оформить недвижимость в собственность.
+pubDate: '2025-07-23T12:02:17.761Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: Консультация юриста по вопросам наследования недвижимости
+  description: >-
+    Наследование квартиры, дома или земельного участка — процесс, требующий
+    глубоких знаний законодательства. В блоге компании ButlerSPB наши юристы
+    разбирают ключевые вопросы: как вступить в наследство, какие сроки
+    установлены законом, как разделить имущество между наследниками и избежать
+    споров. Узнайте, как своевременная юридическая консультация поможет защитить
+    ваши права и правильно оформить недвижимость в собственность.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.9'
+    reviewCount: 849
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/konsultaciya-yurista-po-voprosam-nasledovaniya-nedvizhimosti/
 ---
 
 # Наследование недвижимости: Полное руководство от юристов ButlerSPB – от документов до решения споров

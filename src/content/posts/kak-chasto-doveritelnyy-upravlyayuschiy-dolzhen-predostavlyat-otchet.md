@@ -1,10 +1,45 @@
 ---
-title: "Как часто доверительный управляющий должен предоставлять отчет?"
-description: "Регулярная отчетность — залог прозрачности и контроля в доверительном управлении имуществом. В новой статье блога ButlerSPB мы подробно разбираем, какие сроки предоставления отчетов установлены законодательством, что должно быть в отчете и как часто его стоит запрашивать, чтобы быть в курсе дел и защитить свои интересы."
-pubDate: "2025-07-23T22:15:53.451Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Как часто доверительный управляющий должен предоставлять отчет?","description":"Регулярная отчетность — залог прозрачности и контроля в доверительном управлении имуществом. В новой статье блога ButlerSPB мы подробно разбираем, какие сроки предоставления отчетов установлены законодательством, что должно быть в отчете и как часто его стоит запрашивать, чтобы быть в курсе дел и защитить свои интересы.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":608,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/kak-chasto-doveritelnyy-upravlyayuschiy-dolzhen-predostavlyat-otchet/"}}
+title: Как часто доверительный управляющий должен предоставлять отчет?
+description: >-
+  Регулярная отчетность — залог прозрачности и контроля в доверительном
+  управлении имуществом. В новой статье блога ButlerSPB мы подробно разбираем,
+  какие сроки предоставления отчетов установлены законодательством, что должно
+  быть в отчете и как часто его стоит запрашивать, чтобы быть в курсе дел и
+  защитить свои интересы.
+pubDate: '2025-07-23T22:15:53.451Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: Как часто доверительный управляющий должен предоставлять отчет?
+  description: >-
+    Регулярная отчетность — залог прозрачности и контроля в доверительном
+    управлении имуществом. В новой статье блога ButlerSPB мы подробно разбираем,
+    какие сроки предоставления отчетов установлены законодательством, что должно
+    быть в отчете и как часто его стоит запрашивать, чтобы быть в курсе дел и
+    защитить свои интересы.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '5.0'
+    reviewCount: 560
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/kak-chasto-doveritelnyy-upravlyayuschiy-dolzhen-predostavlyat-otchet/
 ---
 
 # Отчет доверительного управляющего: как часто, что требовать и как проверять? Полное руководство от ButlerSPB

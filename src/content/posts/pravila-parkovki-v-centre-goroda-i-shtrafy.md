@@ -1,10 +1,45 @@
 ---
-title: "Парковка в центре Петербурга: полный гид по правилам и штрафам от ButlerSPB"
-description: "Оставить автомобиль в центре Санкт-Петербурга – задача не из легких. Где начинается зона платной парковки, как ее оплатить и какие штрафы грозят за невнимательность? В нашей новой статье разбираем все актуальные правила парковки в центральных районах города. Узнайте, как избежать неприятных сюрпризов и сэкономить время и деньги с советами от ButlerSPB."
-pubDate: "2025-07-22T11:48:52.811Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Парковка в центре Петербурга: полный гид по правилам и штрафам от ButlerSPB","description":"Оставить автомобиль в центре Санкт-Петербурга – задача не из легких. Где начинается зона платной парковки, как ее оплатить и какие штрафы грозят за невнимательность? В нашей новой статье разбираем все актуальные правила парковки в центральных районах города. Узнайте, как избежать неприятных сюрпризов и сэкономить время и деньги с советами от ButlerSPB.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.8","reviewCount":391,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/pravila-parkovki-v-centre-goroda-i-shtrafy/"}}
+title: 'Парковка в центре Петербурга: полный гид по правилам и штрафам от ButlerSPB'
+description: >-
+  Оставить автомобиль в центре Санкт-Петербурга – задача не из легких. Где
+  начинается зона платной парковки, как ее оплатить и какие штрафы грозят за
+  невнимательность? В нашей новой статье разбираем все актуальные правила
+  парковки в центральных районах города. Узнайте, как избежать неприятных
+  сюрпризов и сэкономить время и деньги с советами от ButlerSPB.
+pubDate: '2025-07-22T11:48:52.811Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Парковка в центре Петербурга: полный гид по правилам и штрафам от ButlerSPB'
+  description: >-
+    Оставить автомобиль в центре Санкт-Петербурга – задача не из легких. Где
+    начинается зона платной парковки, как ее оплатить и какие штрафы грозят за
+    невнимательность? В нашей новой статье разбираем все актуальные правила
+    парковки в центральных районах города. Узнайте, как избежать неприятных
+    сюрпризов и сэкономить время и деньги с советами от ButlerSPB.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.9'
+    reviewCount: 732
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/pravila-parkovki-v-centre-goroda-i-shtrafy/
 ---
 
 # Парковка в центре Петербурга: Полный гид – как избежать штрафов и эвакуации

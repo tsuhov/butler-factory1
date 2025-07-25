@@ -1,10 +1,49 @@
 ---
-title: "Как найти арендатора на большую квартиру (4+ комнаты) в СПб: пошаговая инструкция от ButlerSPB"
-description: "Сдать многокомнатную квартиру в Санкт-Петербурге — задача со звездочкой. Высокая стоимость и специфический спрос требуют особого подхода. В статье разбираемся, кто ваш целевой арендатор (от большой семьи до IT-компании), как грамотно установить цену, подготовить объект к показам и где его эффективно рекламировать, чтобы найти надежного жильца в кратчайшие сроки."
-pubDate: "2025-07-23T11:32:34.098Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Как найти арендатора на большую квартиру (4+ комнаты) в СПб: пошаговая инструкция от ButlerSPB","description":"Сдать многокомнатную квартиру в Санкт-Петербурге — задача со звездочкой. Высокая стоимость и специфический спрос требуют особого подхода. В статье разбираемся, кто ваш целевой арендатор (от большой семьи до IT-компании), как грамотно установить цену, подготовить объект к показам и где его эффективно рекламировать, чтобы найти надежного жильца в кратчайшие сроки.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.8","reviewCount":385,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/kak-nayti-arendatora-na-bolshuyu-kvartiru-4-komnaty-v-spb/"}}
+title: >-
+  Как найти арендатора на большую квартиру (4+ комнаты) в СПб: пошаговая
+  инструкция от ButlerSPB
+description: >-
+  Сдать многокомнатную квартиру в Санкт-Петербурге — задача со звездочкой.
+  Высокая стоимость и специфический спрос требуют особого подхода. В статье
+  разбираемся, кто ваш целевой арендатор (от большой семьи до IT-компании), как
+  грамотно установить цену, подготовить объект к показам и где его эффективно
+  рекламировать, чтобы найти надежного жильца в кратчайшие сроки.
+pubDate: '2025-07-23T11:32:34.098Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: >-
+    Как найти арендатора на большую квартиру (4+ комнаты) в СПб: пошаговая
+    инструкция от ButlerSPB
+  description: >-
+    Сдать многокомнатную квартиру в Санкт-Петербурге — задача со звездочкой.
+    Высокая стоимость и специфический спрос требуют особого подхода. В статье
+    разбираемся, кто ваш целевой арендатор (от большой семьи до IT-компании),
+    как грамотно установить цену, подготовить объект к показам и где его
+    эффективно рекламировать, чтобы найти надежного жильца в кратчайшие сроки.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.7'
+    reviewCount: 807
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/kak-nayti-arendatora-na-bolshuyu-kvartiru-4-komnaty-v-spb/
 ---
 
 # Как быстро и выгодно сдать большую квартиру (4+ комнаты) в Санкт-Петербурге: пошаговая инструкция для собственника

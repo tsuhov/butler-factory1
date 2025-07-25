@@ -1,10 +1,45 @@
 ---
-title: "Как не потеряться в петербургском метро: гид для гостя от ButlerSPB"
-description: "Петербургское метро — это не просто транспорт, а настоящий подземный дворец. Но его красота и масштабы могут сбить с толку. В нашей статье от ButlerSPB мы собрали все лайфхаки: как пользоваться 'Подорожником', понимать запутанные переходы, ориентироваться по указателям и какие приложения скачать, чтобы ваша поездка была быстрой и комфортной."
-pubDate: "2025-07-22T11:46:42.098Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Как не потеряться в петербургском метро: гид для гостя от ButlerSPB","description":"Петербургское метро — это не просто транспорт, а настоящий подземный дворец. Но его красота и масштабы могут сбить с толку. В нашей статье от ButlerSPB мы собрали все лайфхаки: как пользоваться 'Подорожником', понимать запутанные переходы, ориентироваться по указателям и какие приложения скачать, чтобы ваша поездка была быстрой и комфортной.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.8","reviewCount":683,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/kak-ne-poteryatsya-v-peterburgskom-metro/"}}
+title: 'Как не потеряться в петербургском метро: гид для гостя от ButlerSPB'
+description: >-
+  Петербургское метро — это не просто транспорт, а настоящий подземный дворец.
+  Но его красота и масштабы могут сбить с толку. В нашей статье от ButlerSPB мы
+  собрали все лайфхаки: как пользоваться 'Подорожником', понимать запутанные
+  переходы, ориентироваться по указателям и какие приложения скачать, чтобы ваша
+  поездка была быстрой и комфортной.
+pubDate: '2025-07-22T11:46:42.098Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Как не потеряться в петербургском метро: гид для гостя от ButlerSPB'
+  description: >-
+    Петербургское метро — это не просто транспорт, а настоящий подземный дворец.
+    Но его красота и масштабы могут сбить с толку. В нашей статье от ButlerSPB
+    мы собрали все лайфхаки: как пользоваться 'Подорожником', понимать
+    запутанные переходы, ориентироваться по указателям и какие приложения
+    скачать, чтобы ваша поездка была быстрой и комфортной.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.8'
+    reviewCount: 830
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/kak-ne-poteryatsya-v-peterburgskom-metro/
 ---
 
 # Как не потеряться в петербургском метро: Подробный гид для гостя города от ButlerSPB

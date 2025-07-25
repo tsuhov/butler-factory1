@@ -1,10 +1,49 @@
 ---
-title: "Передача недвижимости в доверительное управление: подробный гайд для собственников от ButlerSPB"
-description: "Хотите, чтобы ваша недвижимость приносила стабильный доход без вашего личного участия? Узнайте все о договоре доверительного управления: что это такое, кому подходит, какие права и обязанности возникают у сторон, и как правильно оформить документы, чтобы защитить свои интересы. Эксперты ButlerSPB делятся ключевыми советами."
-pubDate: "2025-07-22T00:06:15.076Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Передача недвижимости в доверительное управление: подробный гайд для собственников от ButlerSPB","description":"Хотите, чтобы ваша недвижимость приносила стабильный доход без вашего личного участия? Узнайте все о договоре доверительного управления: что это такое, кому подходит, какие права и обязанности возникают у сторон, и как правильно оформить документы, чтобы защитить свои интересы. Эксперты ButlerSPB делятся ключевыми советами.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":664,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/peredacha-nedvizhimosti-po-dogovoru-doveritelnogo-upravleniya/"}}
+title: >-
+  Передача недвижимости в доверительное управление: подробный гайд для
+  собственников от ButlerSPB
+description: >-
+  Хотите, чтобы ваша недвижимость приносила стабильный доход без вашего личного
+  участия? Узнайте все о договоре доверительного управления: что это такое, кому
+  подходит, какие права и обязанности возникают у сторон, и как правильно
+  оформить документы, чтобы защитить свои интересы. Эксперты ButlerSPB делятся
+  ключевыми советами.
+pubDate: '2025-07-22T00:06:15.076Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: >-
+    Передача недвижимости в доверительное управление: подробный гайд для
+    собственников от ButlerSPB
+  description: >-
+    Хотите, чтобы ваша недвижимость приносила стабильный доход без вашего
+    личного участия? Узнайте все о договоре доверительного управления: что это
+    такое, кому подходит, какие права и обязанности возникают у сторон, и как
+    правильно оформить документы, чтобы защитить свои интересы. Эксперты
+    ButlerSPB делятся ключевыми советами.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.9'
+    reviewCount: 394
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/peredacha-nedvizhimosti-po-dogovoru-doveritelnogo-upravleniya/
 ---
 
 # Доверительное управление недвижимостью в СПб: Как получать пассивный доход без хлопот. Полное руководство от А до Я

@@ -1,10 +1,47 @@
 ---
-title: "Как оспорить кадастровую стоимость недвижимости: пошаговый гид от ButlerSPB"
-description: "Завышенная кадастровая стоимость — прямая причина высоких налогов на вашу квартиру, дом или земельный участок. В этой статье мы, команда ButlerSPB, подробно и доступно объясняем, как можно законно снизить кадастровую стоимость и, соответственно, налоговую нагрузку. Вы узнаете о двух путях оспаривания — через комиссию и суд, получите полный список необходимых документов и пошаговый алгоритм действий для успешного результата."
-pubDate: "2025-07-23T11:30:19.648Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Как оспорить кадастровую стоимость недвижимости: пошаговый гид от ButlerSPB","description":"Завышенная кадастровая стоимость — прямая причина высоких налогов на вашу квартиру, дом или земельный участок. В этой статье мы, команда ButlerSPB, подробно и доступно объясняем, как можно законно снизить кадастровую стоимость и, соответственно, налоговую нагрузку. Вы узнаете о двух путях оспаривания — через комиссию и суд, получите полный список необходимых документов и пошаговый алгоритм действий для успешного результата.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.7","reviewCount":605,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/procedura-osparivaniya-kadastrovoy-stoimosti-nedvizhimosti-poshagovyy-gid/"}}
+title: 'Как оспорить кадастровую стоимость недвижимости: пошаговый гид от ButlerSPB'
+description: >-
+  Завышенная кадастровая стоимость — прямая причина высоких налогов на вашу
+  квартиру, дом или земельный участок. В этой статье мы, команда ButlerSPB,
+  подробно и доступно объясняем, как можно законно снизить кадастровую стоимость
+  и, соответственно, налоговую нагрузку. Вы узнаете о двух путях оспаривания —
+  через комиссию и суд, получите полный список необходимых документов и
+  пошаговый алгоритм действий для успешного результата.
+pubDate: '2025-07-23T11:30:19.648Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Как оспорить кадастровую стоимость недвижимости: пошаговый гид от ButlerSPB'
+  description: >-
+    Завышенная кадастровая стоимость — прямая причина высоких налогов на вашу
+    квартиру, дом или земельный участок. В этой статье мы, команда ButlerSPB,
+    подробно и доступно объясняем, как можно законно снизить кадастровую
+    стоимость и, соответственно, налоговую нагрузку. Вы узнаете о двух путях
+    оспаривания — через комиссию и суд, получите полный список необходимых
+    документов и пошаговый алгоритм действий для успешного результата.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.9'
+    reviewCount: 827
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/procedura-osparivaniya-kadastrovoy-stoimosti-nedvizhimosti-poshagovyy-gid/
 ---
 
 # Как оспорить кадастровую стоимость недвижимости: Полный пошаговый гид от экспертов ButlerSPB

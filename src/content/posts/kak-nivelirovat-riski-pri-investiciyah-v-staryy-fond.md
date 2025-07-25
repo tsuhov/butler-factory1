@@ -1,10 +1,51 @@
 ---
-title: "Инвестиции в старый фонд Петербурга: как нивелировать риски и не прогадать с выбором"
-description: "Старый фонд Санкт-Петербурга — это не только уникальная атмосфера и престижная локация, но и потенциальные риски для инвестора: от изношенных коммуникаций до юридических сложностей. В новой статье блога ButlerSPB разбираем, на что обратить внимание при покупке квартиры в историческом здании, как провести техническую и юридическую проверку объекта и рассчитать реальный бюджет на ремонт, чтобы ваши инвестиции принесли только прибыль."
-pubDate: "2025-07-22T13:42:45.060Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Инвестиции в старый фонд Петербурга: как нивелировать риски и не прогадать с выбором","description":"Старый фонд Санкт-Петербурга — это не только уникальная атмосфера и престижная локация, но и потенциальные риски для инвестора: от изношенных коммуникаций до юридических сложностей. В новой статье блога ButlerSPB разбираем, на что обратить внимание при покупке квартиры в историческом здании, как провести техническую и юридическую проверку объекта и рассчитать реальный бюджет на ремонт, чтобы ваши инвестиции принесли только прибыль.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":806,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/kak-nivelirovat-riski-pri-investiciyah-v-staryy-fond/"}}
+title: >-
+  Инвестиции в старый фонд Петербурга: как нивелировать риски и не прогадать с
+  выбором
+description: >-
+  Старый фонд Санкт-Петербурга — это не только уникальная атмосфера и престижная
+  локация, но и потенциальные риски для инвестора: от изношенных коммуникаций до
+  юридических сложностей. В новой статье блога ButlerSPB разбираем, на что
+  обратить внимание при покупке квартиры в историческом здании, как провести
+  техническую и юридическую проверку объекта и рассчитать реальный бюджет на
+  ремонт, чтобы ваши инвестиции принесли только прибыль.
+pubDate: '2025-07-22T13:42:45.060Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: >-
+    Инвестиции в старый фонд Петербурга: как нивелировать риски и не прогадать с
+    выбором
+  description: >-
+    Старый фонд Санкт-Петербурга — это не только уникальная атмосфера и
+    престижная локация, но и потенциальные риски для инвестора: от изношенных
+    коммуникаций до юридических сложностей. В новой статье блога ButlerSPB
+    разбираем, на что обратить внимание при покупке квартиры в историческом
+    здании, как провести техническую и юридическую проверку объекта и рассчитать
+    реальный бюджет на ремонт, чтобы ваши инвестиции принесли только прибыль.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.8'
+    reviewCount: 327
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/kak-nivelirovat-riski-pri-investiciyah-v-staryy-fond/
 ---
 
 # Старый фонд Петербурга: как превратить риски в высокую доходность. Полное руководство для инвестора

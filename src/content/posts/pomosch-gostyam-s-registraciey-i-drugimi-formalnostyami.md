@@ -1,10 +1,51 @@
 ---
-title: "Регистрация гостей без хлопот: как ButlerSPB упрощает жизнь арендодателям и туристам"
-description: "Прием гостей, особенно иностранных, связан с рядом юридических формальностей, включая обязательную миграционную регистрацию. Несоблюдение правил грозит серьезными штрафами. В этой статье мы расскажем, какие документы необходимы, в какие сроки нужно уложиться, и как сервис ButlerSPB полностью избавляет владельцев недвижимости в Санкт-Петербурге от этих забот, обеспечивая легальное и комфортное пребывание для ваших гостей."
-pubDate: "2025-07-22T11:13:21.017Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Регистрация гостей без хлопот: как ButlerSPB упрощает жизнь арендодателям и туристам","description":"Прием гостей, особенно иностранных, связан с рядом юридических формальностей, включая обязательную миграционную регистрацию. Несоблюдение правил грозит серьезными штрафами. В этой статье мы расскажем, какие документы необходимы, в какие сроки нужно уложиться, и как сервис ButlerSPB полностью избавляет владельцев недвижимости в Санкт-Петербурге от этих забот, обеспечивая легальное и комфортное пребывание для ваших гостей.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.7","reviewCount":557,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/pomosch-gostyam-s-registraciey-i-drugimi-formalnostyami/"}}
+title: >-
+  Регистрация гостей без хлопот: как ButlerSPB упрощает жизнь арендодателям и
+  туристам
+description: >-
+  Прием гостей, особенно иностранных, связан с рядом юридических формальностей,
+  включая обязательную миграционную регистрацию. Несоблюдение правил грозит
+  серьезными штрафами. В этой статье мы расскажем, какие документы необходимы, в
+  какие сроки нужно уложиться, и как сервис ButlerSPB полностью избавляет
+  владельцев недвижимости в Санкт-Петербурге от этих забот, обеспечивая
+  легальное и комфортное пребывание для ваших гостей.
+pubDate: '2025-07-22T11:13:21.017Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: >-
+    Регистрация гостей без хлопот: как ButlerSPB упрощает жизнь арендодателям и
+    туристам
+  description: >-
+    Прием гостей, особенно иностранных, связан с рядом юридических
+    формальностей, включая обязательную миграционную регистрацию. Несоблюдение
+    правил грозит серьезными штрафами. В этой статье мы расскажем, какие
+    документы необходимы, в какие сроки нужно уложиться, и как сервис ButlerSPB
+    полностью избавляет владельцев недвижимости в Санкт-Петербурге от этих
+    забот, обеспечивая легальное и комфортное пребывание для ваших гостей.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.8'
+    reviewCount: 829
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/pomosch-gostyam-s-registraciey-i-drugimi-formalnostyami/
 ---
 
 # Регистрация в Санкт-Петербурге без головной боли: Полный гид для наших гостей

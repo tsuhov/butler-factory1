@@ -1,10 +1,49 @@
 ---
-title: "Акт приема-передачи квартиры после арендатора: как правильно составить"
-description: "Завершение аренды — ответственный этап для каждого собственника. Правильно составленный акт приема-передачи поможет избежать споров и защитит от финансовых потерь. В статье блога ButlerSPB мы делимся пошаговой инструкцией: на что обратить внимание при осмотре квартиры, как зафиксировать состояние имущества и показания счетчиков, и какие пункты обязательно должны быть в документе. Скачайте наш готовый шаблон и будьте уверены в юридической чистоте сделки."
-pubDate: "2025-07-22T22:11:06.106Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Акт приема-передачи квартиры после арендатора: как правильно составить","description":"Завершение аренды — ответственный этап для каждого собственника. Правильно составленный акт приема-передачи поможет избежать споров и защитит от финансовых потерь. В статье блога ButlerSPB мы делимся пошаговой инструкцией: на что обратить внимание при осмотре квартиры, как зафиксировать состояние имущества и показания счетчиков, и какие пункты обязательно должны быть в документе. Скачайте наш готовый шаблон и будьте уверены в юридической чистоте сделки.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.8","reviewCount":678,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/akt-priema-peredachi-kvartiry-posle-arendatora-kak-pravilno-sostavit/"}}
+title: 'Акт приема-передачи квартиры после арендатора: как правильно составить'
+description: >-
+  Завершение аренды — ответственный этап для каждого собственника. Правильно
+  составленный акт приема-передачи поможет избежать споров и защитит от
+  финансовых потерь. В статье блога ButlerSPB мы делимся пошаговой инструкцией:
+  на что обратить внимание при осмотре квартиры, как зафиксировать состояние
+  имущества и показания счетчиков, и какие пункты обязательно должны быть в
+  документе. Скачайте наш готовый шаблон и будьте уверены в юридической чистоте
+  сделки.
+pubDate: '2025-07-22T22:11:06.106Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Акт приема-передачи квартиры после арендатора: как правильно составить'
+  description: >-
+    Завершение аренды — ответственный этап для каждого собственника. Правильно
+    составленный акт приема-передачи поможет избежать споров и защитит от
+    финансовых потерь. В статье блога ButlerSPB мы делимся пошаговой
+    инструкцией: на что обратить внимание при осмотре квартиры, как
+    зафиксировать состояние имущества и показания счетчиков, и какие пункты
+    обязательно должны быть в документе. Скачайте наш готовый шаблон и будьте
+    уверены в юридической чистоте сделки.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.8'
+    reviewCount: 731
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/akt-priema-peredachi-kvartiry-posle-arendatora-kak-pravilno-sostavit/
 ---
 
 # Акт приема-передачи квартиры после арендатора: полное руководство от ButlerSPB (+ образец для скачивания)

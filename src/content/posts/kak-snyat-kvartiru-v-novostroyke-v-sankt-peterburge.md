@@ -1,10 +1,51 @@
 ---
-title: "Как снять квартиру в новостройке в Санкт-Петербурге: пошаговая инструкция от ButlerSPB"
-description: "Мечтаете жить в новой квартире с современным ремонтом? В этой статье эксперты ButlerSPB делятся всеми секретами аренды жилья в новостройках Петербурга. Мы расскажем, где искать лучшие варианты, как проверить собственника и документы, на что обратить внимание при осмотре и как заключить договор, чтобы избежать неприятных сюрпризов. Полное руководство для тех, кто ценит комфорт и безопасность."
-pubDate: "2025-07-22T11:38:21.422Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Как снять квартиру в новостройке в Санкт-Петербурге: пошаговая инструкция от ButlerSPB","description":"Мечтаете жить в новой квартире с современным ремонтом? В этой статье эксперты ButlerSPB делятся всеми секретами аренды жилья в новостройках Петербурга. Мы расскажем, где искать лучшие варианты, как проверить собственника и документы, на что обратить внимание при осмотре и как заключить договор, чтобы избежать неприятных сюрпризов. Полное руководство для тех, кто ценит комфорт и безопасность.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.8","reviewCount":303,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/kak-snyat-kvartiru-v-novostroyke-v-sankt-peterburge/"}}
+title: >-
+  Как снять квартиру в новостройке в Санкт-Петербурге: пошаговая инструкция от
+  ButlerSPB
+description: >-
+  Мечтаете жить в новой квартире с современным ремонтом? В этой статье эксперты
+  ButlerSPB делятся всеми секретами аренды жилья в новостройках Петербурга. Мы
+  расскажем, где искать лучшие варианты, как проверить собственника и документы,
+  на что обратить внимание при осмотре и как заключить договор, чтобы избежать
+  неприятных сюрпризов. Полное руководство для тех, кто ценит комфорт и
+  безопасность.
+pubDate: '2025-07-22T11:38:21.422Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: >-
+    Как снять квартиру в новостройке в Санкт-Петербурге: пошаговая инструкция от
+    ButlerSPB
+  description: >-
+    Мечтаете жить в новой квартире с современным ремонтом? В этой статье
+    эксперты ButlerSPB делятся всеми секретами аренды жилья в новостройках
+    Петербурга. Мы расскажем, где искать лучшие варианты, как проверить
+    собственника и документы, на что обратить внимание при осмотре и как
+    заключить договор, чтобы избежать неприятных сюрпризов. Полное руководство
+    для тех, кто ценит комфорт и безопасность.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.8'
+    reviewCount: 666
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/kak-snyat-kvartiru-v-novostroyke-v-sankt-peterburge/
 ---
 
 # Как снять квартиру в новостройке в Санкт-Петербурге: пошаговое руководство для идеального переезда

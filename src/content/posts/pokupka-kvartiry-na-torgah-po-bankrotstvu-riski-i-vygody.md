@@ -1,10 +1,47 @@
 ---
-title: "Покупка квартиры на торгах по банкротству: риски и выгоды"
-description: "Приобретение жилья на торгах по банкротству привлекает возможностью сэкономить до 30-40% от рыночной стоимости. Однако за низкой ценой могут скрываться юридические сложности, обременения и проблемы с бывшими собственниками. В новой статье блога ButlerSPB мы подробно разбираем все подводные камни и очевидные выгоды таких сделок, чтобы вы могли принять взвешенное решение и безопасно инвестировать в недвижимость."
-pubDate: "2025-07-23T11:28:02.261Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Покупка квартиры на торгах по банкротству: риски и выгоды","description":"Приобретение жилья на торгах по банкротству привлекает возможностью сэкономить до 30-40% от рыночной стоимости. Однако за низкой ценой могут скрываться юридические сложности, обременения и проблемы с бывшими собственниками. В новой статье блога ButlerSPB мы подробно разбираем все подводные камни и очевидные выгоды таких сделок, чтобы вы могли принять взвешенное решение и безопасно инвестировать в недвижимость.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":591,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/pokupka-kvartiry-na-torgah-po-bankrotstvu-riski-i-vygody/"}}
+title: 'Покупка квартиры на торгах по банкротству: риски и выгоды'
+description: >-
+  Приобретение жилья на торгах по банкротству привлекает возможностью сэкономить
+  до 30-40% от рыночной стоимости. Однако за низкой ценой могут скрываться
+  юридические сложности, обременения и проблемы с бывшими собственниками. В
+  новой статье блога ButlerSPB мы подробно разбираем все подводные камни и
+  очевидные выгоды таких сделок, чтобы вы могли принять взвешенное решение и
+  безопасно инвестировать в недвижимость.
+pubDate: '2025-07-23T11:28:02.261Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Покупка квартиры на торгах по банкротству: риски и выгоды'
+  description: >-
+    Приобретение жилья на торгах по банкротству привлекает возможностью
+    сэкономить до 30-40% от рыночной стоимости. Однако за низкой ценой могут
+    скрываться юридические сложности, обременения и проблемы с бывшими
+    собственниками. В новой статье блога ButlerSPB мы подробно разбираем все
+    подводные камни и очевидные выгоды таких сделок, чтобы вы могли принять
+    взвешенное решение и безопасно инвестировать в недвижимость.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.7'
+    reviewCount: 485
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/pokupka-kvartiry-na-torgah-po-bankrotstvu-riski-i-vygody/
 ---
 
 # Покупка квартиры на торгах по банкротству: Полное руководство по рискам, выгодам и процедуре в 2024 году

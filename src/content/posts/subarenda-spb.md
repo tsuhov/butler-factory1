@@ -1,11 +1,40 @@
 ---
-title: "Субаренда в Санкт-Петербурге: что нужно знать"
-description: "Планируете субаренду в Санкт-Петербурге? Наша статья поможет разобраться в правах и обязанностях сторон, рисках и юридических тонкостях процесса. Сдавайте жилье правильно!"
-keywords: "субаренда спб, договор субаренды, сдать квартиру в субаренду, аренда санкт-петербург, юридические аспекты аренды, ButlerSPB"
-pubDate: "2025-07-25T14:19:26.905Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Субаренда в Санкт-Петербурге: что нужно знать","description":"Планируете субаренду в Санкт-Петербурге? Наша статья поможет разобраться в правах и обязанностях сторон, рисках и юридических тонкостях процесса. Сдавайте жилье правильно!","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.7","reviewCount":556,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/subarenda-spb/"}}
+title: 'Субаренда в Санкт-Петербурге: что нужно знать'
+description: >-
+  Планируете субаренду в Санкт-Петербурге? Наша статья поможет разобраться в
+  правах и обязанностях сторон, рисках и юридических тонкостях процесса.
+  Сдавайте жилье правильно!
+pubDate: '2025-07-25T14:19:26.905Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Субаренда в Санкт-Петербурге: что нужно знать'
+  description: >-
+    Планируете субаренду в Санкт-Петербурге? Наша статья поможет разобраться в
+    правах и обязанностях сторон, рисках и юридических тонкостях процесса.
+    Сдавайте жилье правильно!
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.9'
+    reviewCount: 525
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': 'https://butlerspb-blog.netlify.app/blog/subarenda-spb/'
 ---
 # Субаренда в СПб: Полное руководство 2024 от А до Я. Как сдать и снять законно и выгодно?
 

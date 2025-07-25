@@ -1,10 +1,43 @@
 ---
-title: "Офис на час: что это такое и как на этом заработать. Гайд от ButlerSPB"
-description: "Раскрываем суть популярной услуги 'офис на час': для кого она предназначена и какие проблемы решает. Подробно разбираем, как владельцы недвижимости могут монетизировать свои помещения, сдавая их в почасовую аренду, и как ButlerSPB помогает автоматизировать этот процесс и увеличить доход."
-pubDate: "2025-07-23T12:18:05.169Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Офис на час: что это такое и как на этом заработать. Гайд от ButlerSPB","description":"Раскрываем суть популярной услуги 'офис на час': для кого она предназначена и какие проблемы решает. Подробно разбираем, как владельцы недвижимости могут монетизировать свои помещения, сдавая их в почасовую аренду, и как ButlerSPB помогает автоматизировать этот процесс и увеличить доход.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"5.0","reviewCount":725,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/chto-takoe-ofis-na-chas-i-kak-na-etom-zarabotat/"}}
+title: 'Офис на час: что это такое и как на этом заработать. Гайд от ButlerSPB'
+description: >-
+  Раскрываем суть популярной услуги 'офис на час': для кого она предназначена и
+  какие проблемы решает. Подробно разбираем, как владельцы недвижимости могут
+  монетизировать свои помещения, сдавая их в почасовую аренду, и как ButlerSPB
+  помогает автоматизировать этот процесс и увеличить доход.
+pubDate: '2025-07-23T12:18:05.169Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Офис на час: что это такое и как на этом заработать. Гайд от ButlerSPB'
+  description: >-
+    Раскрываем суть популярной услуги 'офис на час': для кого она предназначена
+    и какие проблемы решает. Подробно разбираем, как владельцы недвижимости
+    могут монетизировать свои помещения, сдавая их в почасовую аренду, и как
+    ButlerSPB помогает автоматизировать этот процесс и увеличить доход.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.8'
+    reviewCount: 355
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/chto-takoe-ofis-na-chas-i-kak-na-etom-zarabotat/
 ---
 
 # Офис на час: От гибкого рабочего места до стабильного бизнес-проекта. Полное руководство

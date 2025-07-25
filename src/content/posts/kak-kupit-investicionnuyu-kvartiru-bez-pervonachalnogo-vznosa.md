@@ -1,11 +1,41 @@
 ---
-title: "Как купить квартиру без взноса для инвестиций"
-description: "Покупка квартиры для инвестиций без первоначального взноса – это реально. В статье от ButlerSPB разбираем рабочие схемы, подводные камни и даем советы экспертов."
-keywords: "инвестиционная квартира, ипотека без первого взноса, купить квартиру для инвестиций, недвижимость без первоначального взноса, ButlerSPB"
-pubDate: "2025-07-24T12:04:53.685Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Как купить квартиру без взноса для инвестиций","description":"Покупка квартиры для инвестиций без первоначального взноса – это реально. В статье от ButlerSPB разбираем рабочие схемы, подводные камни и даем советы экспертов.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":703,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/kak-kupit-investicionnuyu-kvartiru-bez-pervonachalnogo-vznosa/"}}
+title: Как купить квартиру без взноса для инвестиций
+description: >-
+  Покупка квартиры для инвестиций без первоначального взноса – это реально. В
+  статье от ButlerSPB разбираем рабочие схемы, подводные камни и даем советы
+  экспертов.
+pubDate: '2025-07-24T12:04:53.685Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: Как купить квартиру без взноса для инвестиций
+  description: >-
+    Покупка квартиры для инвестиций без первоначального взноса – это реально. В
+    статье от ButlerSPB разбираем рабочие схемы, подводные камни и даем советы
+    экспертов.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.9'
+    reviewCount: 558
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/kak-kupit-investicionnuyu-kvartiru-bez-pervonachalnogo-vznosa/
 ---
 # Как купить инвестиционную квартиру без первоначального взноса: 7 рабочих схем, о рисках которых вы должны знать
 

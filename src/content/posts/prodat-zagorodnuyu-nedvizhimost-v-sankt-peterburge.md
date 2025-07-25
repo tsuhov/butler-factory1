@@ -1,10 +1,49 @@
 ---
-title: "Как выгодно и быстро продать загородную недвижимость в Санкт-Петербурге и Ленобласти: руководство от ButlerSPB"
-description: "Планируете продажу дома, коттеджа или дачи в пригороде Петербурга? В этой статье эксперты ButlerSPB делятся профессиональными советами: от предпродажной подготовки и правильной оценки до эффективных каналов продвижения и юридических тонкостей сделки. Узнайте, как максимизировать стоимость вашего объекта и продать его в оптимальные сроки."
-pubDate: "2025-07-21T23:40:16.993Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Как выгодно и быстро продать загородную недвижимость в Санкт-Петербурге и Ленобласти: руководство от ButlerSPB","description":"Планируете продажу дома, коттеджа или дачи в пригороде Петербурга? В этой статье эксперты ButlerSPB делятся профессиональными советами: от предпродажной подготовки и правильной оценки до эффективных каналов продвижения и юридических тонкостей сделки. Узнайте, как максимизировать стоимость вашего объекта и продать его в оптимальные сроки.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":652,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/prodat-zagorodnuyu-nedvizhimost-v-sankt-peterburge/"}}
+title: >-
+  Как выгодно и быстро продать загородную недвижимость в Санкт-Петербурге и
+  Ленобласти: руководство от ButlerSPB
+description: >-
+  Планируете продажу дома, коттеджа или дачи в пригороде Петербурга? В этой
+  статье эксперты ButlerSPB делятся профессиональными советами: от предпродажной
+  подготовки и правильной оценки до эффективных каналов продвижения и
+  юридических тонкостей сделки. Узнайте, как максимизировать стоимость вашего
+  объекта и продать его в оптимальные сроки.
+pubDate: '2025-07-21T23:40:16.993Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: >-
+    Как выгодно и быстро продать загородную недвижимость в Санкт-Петербурге и
+    Ленобласти: руководство от ButlerSPB
+  description: >-
+    Планируете продажу дома, коттеджа или дачи в пригороде Петербурга? В этой
+    статье эксперты ButlerSPB делятся профессиональными советами: от
+    предпродажной подготовки и правильной оценки до эффективных каналов
+    продвижения и юридических тонкостей сделки. Узнайте, как максимизировать
+    стоимость вашего объекта и продать его в оптимальные сроки.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '5.0'
+    reviewCount: 657
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/prodat-zagorodnuyu-nedvizhimost-v-sankt-peterburge/
 ---
 
 # Как выгодно и быстро продать загородную недвижимость в Санкт-Петербурге: Полное руководство от экспертов ButlerSPB

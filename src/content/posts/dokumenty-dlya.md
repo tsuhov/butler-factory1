@@ -1,11 +1,39 @@
 ---
-title: "Какие документы нужны для сдачи жилья в аренду"
-description: "Подробный гайд по документам для сдачи квартиры в аренду. Рассказываем, какие бумаги подготовить собственнику, чтобы сделка прошла гладко и безопасно."
-keywords: "документы для аренды, сдать квартиру, договор аренды, список документов, аренда жилья, собственник, ButlerSPB"
-pubDate: "2025-07-25T15:39:37.818Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Какие документы нужны для сдачи жилья в аренду","description":"Подробный гайд по документам для сдачи квартиры в аренду. Рассказываем, какие бумаги подготовить собственнику, чтобы сделка прошла гладко и безопасно.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":822,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/dokumenty-dlya/"}}
+title: Какие документы нужны для сдачи жилья в аренду
+description: >-
+  Подробный гайд по документам для сдачи квартиры в аренду. Рассказываем, какие
+  бумаги подготовить собственнику, чтобы сделка прошла гладко и безопасно.
+pubDate: '2025-07-25T15:39:37.818Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: Какие документы нужны для сдачи жилья в аренду
+  description: >-
+    Подробный гайд по документам для сдачи квартиры в аренду. Рассказываем,
+    какие бумаги подготовить собственнику, чтобы сделка прошла гладко и
+    безопасно.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.9'
+    reviewCount: 462
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': 'https://butlerspb-blog.netlify.app/blog/dokumenty-dlya/'
 ---
 # Навигатор по бюрократии: какие документы нужны для ключевых жизненных ситуаций
 

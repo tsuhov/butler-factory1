@@ -1,10 +1,51 @@
 ---
-title: "Как составить финансовую модель для инвестиционного объекта недвижимости: пошаговое руководство от экспертов ButlerSPB"
-description: "Планируете инвестировать в недвижимость? Грамотная финансовая модель — ваш главный инструмент для оценки рентабельности и рисков. В нашей новой статье от ButlerSPB мы подробно разбираем, как шаг за шагом создать точную модель: от прогнозирования доходов и операционных расходов до расчета ключевых показателей (NPV, IRR, Cap Rate). Узнайте, как превратить набор цифр в надежный компас для принятия инвестиционных решений."
-pubDate: "2025-07-23T22:14:06.559Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Как составить финансовую модель для инвестиционного объекта недвижимости: пошаговое руководство от экспертов ButlerSPB","description":"Планируете инвестировать в недвижимость? Грамотная финансовая модель — ваш главный инструмент для оценки рентабельности и рисков. В нашей новой статье от ButlerSPB мы подробно разбираем, как шаг за шагом создать точную модель: от прогнозирования доходов и операционных расходов до расчета ключевых показателей (NPV, IRR, Cap Rate). Узнайте, как превратить набор цифр в надежный компас для принятия инвестиционных решений.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":604,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/kak-sostavit-finansovuyu-model-dlya-investicionnogo-obekta-nedvizhimosti/"}}
+title: >-
+  Как составить финансовую модель для инвестиционного объекта недвижимости:
+  пошаговое руководство от экспертов ButlerSPB
+description: >-
+  Планируете инвестировать в недвижимость? Грамотная финансовая модель — ваш
+  главный инструмент для оценки рентабельности и рисков. В нашей новой статье от
+  ButlerSPB мы подробно разбираем, как шаг за шагом создать точную модель: от
+  прогнозирования доходов и операционных расходов до расчета ключевых
+  показателей (NPV, IRR, Cap Rate). Узнайте, как превратить набор цифр в
+  надежный компас для принятия инвестиционных решений.
+pubDate: '2025-07-23T22:14:06.559Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: >-
+    Как составить финансовую модель для инвестиционного объекта недвижимости:
+    пошаговое руководство от экспертов ButlerSPB
+  description: >-
+    Планируете инвестировать в недвижимость? Грамотная финансовая модель — ваш
+    главный инструмент для оценки рентабельности и рисков. В нашей новой статье
+    от ButlerSPB мы подробно разбираем, как шаг за шагом создать точную модель:
+    от прогнозирования доходов и операционных расходов до расчета ключевых
+    показателей (NPV, IRR, Cap Rate). Узнайте, как превратить набор цифр в
+    надежный компас для принятия инвестиционных решений.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.9'
+    reviewCount: 504
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/kak-sostavit-finansovuyu-model-dlya-investicionnogo-obekta-nedvizhimosti/
 ---
 
 # Финансовая модель для инвестиционной недвижимости: пошаговое руководство от экспертов ButlerSPB

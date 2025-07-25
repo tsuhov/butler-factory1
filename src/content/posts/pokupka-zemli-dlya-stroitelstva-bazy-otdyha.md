@@ -1,10 +1,48 @@
 ---
-title: "Покупка земли для строительства базы отдыха"
-description: "Выбор и покупка земельного участка — первый и решающий шаг на пути к созданию успешной базы отдыха. В новой статье блога ButlerSPB мы подробно разбираем все юридические и практические нюансы: от проверки категории и вида разрешенного использования (ВРИ) до оценки инфраструктуры, транспортной доступности и туристического потенциала локации. Узнайте, как избежать дорогостоящих ошибок и заложить надежный фундамент для вашего будущего проекта."
-pubDate: "2025-07-23T16:33:31.579Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Покупка земли для строительства базы отдыха","description":"Выбор и покупка земельного участка — первый и решающий шаг на пути к созданию успешной базы отдыха. В новой статье блога ButlerSPB мы подробно разбираем все юридические и практические нюансы: от проверки категории и вида разрешенного использования (ВРИ) до оценки инфраструктуры, транспортной доступности и туристического потенциала локации. Узнайте, как избежать дорогостоящих ошибок и заложить надежный фундамент для вашего будущего проекта.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"5.0","reviewCount":877,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/pokupka-zemli-dlya-stroitelstva-bazy-otdyha/"}}
+title: Покупка земли для строительства базы отдыха
+description: >-
+  Выбор и покупка земельного участка — первый и решающий шаг на пути к созданию
+  успешной базы отдыха. В новой статье блога ButlerSPB мы подробно разбираем все
+  юридические и практические нюансы: от проверки категории и вида разрешенного
+  использования (ВРИ) до оценки инфраструктуры, транспортной доступности и
+  туристического потенциала локации. Узнайте, как избежать дорогостоящих ошибок
+  и заложить надежный фундамент для вашего будущего проекта.
+pubDate: '2025-07-23T16:33:31.579Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: Покупка земли для строительства базы отдыха
+  description: >-
+    Выбор и покупка земельного участка — первый и решающий шаг на пути к
+    созданию успешной базы отдыха. В новой статье блога ButlerSPB мы подробно
+    разбираем все юридические и практические нюансы: от проверки категории и
+    вида разрешенного использования (ВРИ) до оценки инфраструктуры, транспортной
+    доступности и туристического потенциала локации. Узнайте, как избежать
+    дорогостоящих ошибок и заложить надежный фундамент для вашего будущего
+    проекта.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.9'
+    reviewCount: 488
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/pokupka-zemli-dlya-stroitelstva-bazy-otdyha/
 ---
 
 # Покупка земли для строительства базы отдыха: пошаговый план для инвестора

@@ -1,10 +1,43 @@
 ---
-title: "Что делать, если арендатор повредил имущество: пошаговая инструкция"
-description: "Столкнулись с порчей имущества в сдаваемой квартире? Эксперты ButlerSPB подготовили подробный план действий для собственника: от правильной фиксации повреждений и составления акта до взыскания ущерба через депозит или суд. Защитите свои инвестиции грамотно."
-pubDate: "2025-07-23T10:41:38.032Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Что делать, если арендатор повредил имущество: пошаговая инструкция","description":"Столкнулись с порчей имущества в сдаваемой квартире? Эксперты ButlerSPB подготовили подробный план действий для собственника: от правильной фиксации повреждений и составления акта до взыскания ущерба через депозит или суд. Защитите свои инвестиции грамотно.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":551,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/chto-delat-esli-arendator-povredil-imuschestvo-poshagovaya-instrukciya/"}}
+title: 'Что делать, если арендатор повредил имущество: пошаговая инструкция'
+description: >-
+  Столкнулись с порчей имущества в сдаваемой квартире? Эксперты ButlerSPB
+  подготовили подробный план действий для собственника: от правильной фиксации
+  повреждений и составления акта до взыскания ущерба через депозит или суд.
+  Защитите свои инвестиции грамотно.
+pubDate: '2025-07-23T10:41:38.032Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Что делать, если арендатор повредил имущество: пошаговая инструкция'
+  description: >-
+    Столкнулись с порчей имущества в сдаваемой квартире? Эксперты ButlerSPB
+    подготовили подробный план действий для собственника: от правильной фиксации
+    повреждений и составления акта до взыскания ущерба через депозит или суд.
+    Защитите свои инвестиции грамотно.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.9'
+    reviewCount: 792
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/chto-delat-esli-arendator-povredil-imuschestvo-poshagovaya-instrukciya/
 ---
 
 # Арендатор повредил имущество: пошаговая инструкция для арендодателя от экспертов ButlerSPB

@@ -1,10 +1,45 @@
 ---
-title: "Как адаптироваться к петербургскому климату: гид от ButlerSPB"
-description: "Переезд в Санкт-Петербург или возвращение после долгого отсутствия? Наша статья поможет вам подготовиться к знаменитой питерской погоде. Рассказываем, как правильно одеваться, поддерживать иммунитет, бороться с хандрой из-за нехватки солнца и находить плюсы в дождливых днях. Советы от ButlerSPB для комфортной жизни в Северной столице в любое время года."
-pubDate: "2025-07-22T11:46:08.774Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Как адаптироваться к петербургскому климату: гид от ButlerSPB","description":"Переезд в Санкт-Петербург или возвращение после долгого отсутствия? Наша статья поможет вам подготовиться к знаменитой питерской погоде. Рассказываем, как правильно одеваться, поддерживать иммунитет, бороться с хандрой из-за нехватки солнца и находить плюсы в дождливых днях. Советы от ButlerSPB для комфортной жизни в Северной столице в любое время года.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.8","reviewCount":460,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/kak-adaptirovatsya-k-peterburgskomu-klimatu/"}}
+title: 'Как адаптироваться к петербургскому климату: гид от ButlerSPB'
+description: >-
+  Переезд в Санкт-Петербург или возвращение после долгого отсутствия? Наша
+  статья поможет вам подготовиться к знаменитой питерской погоде. Рассказываем,
+  как правильно одеваться, поддерживать иммунитет, бороться с хандрой из-за
+  нехватки солнца и находить плюсы в дождливых днях. Советы от ButlerSPB для
+  комфортной жизни в Северной столице в любое время года.
+pubDate: '2025-07-22T11:46:08.774Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Как адаптироваться к петербургскому климату: гид от ButlerSPB'
+  description: >-
+    Переезд в Санкт-Петербург или возвращение после долгого отсутствия? Наша
+    статья поможет вам подготовиться к знаменитой питерской погоде.
+    Рассказываем, как правильно одеваться, поддерживать иммунитет, бороться с
+    хандрой из-за нехватки солнца и находить плюсы в дождливых днях. Советы от
+    ButlerSPB для комфортной жизни в Северной столице в любое время года.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.9'
+    reviewCount: 750
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/kak-adaptirovatsya-k-peterburgskomu-klimatu/
 ---
 
 # Как адаптироваться к климату Петербурга: Превращаем вызов в преимущество

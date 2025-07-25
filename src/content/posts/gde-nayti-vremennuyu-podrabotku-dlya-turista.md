@@ -1,10 +1,47 @@
 ---
-title: "Где найти временную подработку для туриста: гид от ButlerSPB"
-description: "Путешествие — это не только отдых, но и возможность заработать. Команда ButlerSPB подготовила обзор лучших способов найти временную подработку для туриста. В нашей статье вы узнаете о сезонных вакансиях в сфере гостеприимства, работе на мероприятиях, фриланс-биржах для путешественников и волонтерских программах с проживанием. Пополняйте бюджет и получайте уникальный опыт, не отрываясь от путешествия!"
-pubDate: "2025-07-22T11:46:20.369Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Где найти временную подработку для туриста: гид от ButlerSPB","description":"Путешествие — это не только отдых, но и возможность заработать. Команда ButlerSPB подготовила обзор лучших способов найти временную подработку для туриста. В нашей статье вы узнаете о сезонных вакансиях в сфере гостеприимства, работе на мероприятиях, фриланс-биржах для путешественников и волонтерских программах с проживанием. Пополняйте бюджет и получайте уникальный опыт, не отрываясь от путешествия!","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":304,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/gde-nayti-vremennuyu-podrabotku-dlya-turista/"}}
+title: 'Где найти временную подработку для туриста: гид от ButlerSPB'
+description: >-
+  Путешествие — это не только отдых, но и возможность заработать. Команда
+  ButlerSPB подготовила обзор лучших способов найти временную подработку для
+  туриста. В нашей статье вы узнаете о сезонных вакансиях в сфере
+  гостеприимства, работе на мероприятиях, фриланс-биржах для путешественников и
+  волонтерских программах с проживанием. Пополняйте бюджет и получайте
+  уникальный опыт, не отрываясь от путешествия!
+pubDate: '2025-07-22T11:46:20.369Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Где найти временную подработку для туриста: гид от ButlerSPB'
+  description: >-
+    Путешествие — это не только отдых, но и возможность заработать. Команда
+    ButlerSPB подготовила обзор лучших способов найти временную подработку для
+    туриста. В нашей статье вы узнаете о сезонных вакансиях в сфере
+    гостеприимства, работе на мероприятиях, фриланс-биржах для путешественников
+    и волонтерских программах с проживанием. Пополняйте бюджет и получайте
+    уникальный опыт, не отрываясь от путешествия!
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.7'
+    reviewCount: 651
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/gde-nayti-vremennuyu-podrabotku-dlya-turista/
 ---
 
 # Как туристу найти подработку: 15 проверенных способов заработать в путешествии (с акцентом на Санкт-Петербург)

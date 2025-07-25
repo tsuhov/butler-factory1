@@ -1,10 +1,45 @@
 ---
-title: "Предпродажная подготовка арендной квартиры: как продать дороже и быстрее"
-description: "Продажа квартиры, которая сдавалась в аренду, имеет свою специфику. Как устранить следы износа, обезличить интерьер для новых покупателей и подготовить все документы? Эксперты ButlerSPB делятся пошаговой инструкцией, которая поможет превратить ваш объект в ликвидный актив и заключить выгодную сделку в кратчайшие сроки."
-pubDate: "2025-07-22T13:50:58.783Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Предпродажная подготовка арендной квартиры: как продать дороже и быстрее","description":"Продажа квартиры, которая сдавалась в аренду, имеет свою специфику. Как устранить следы износа, обезличить интерьер для новых покупателей и подготовить все документы? Эксперты ButlerSPB делятся пошаговой инструкцией, которая поможет превратить ваш объект в ликвидный актив и заключить выгодную сделку в кратчайшие сроки.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.7","reviewCount":895,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/predprodazhnaya-podgotovka-arendnoy-kvartiry/"}}
+title: 'Предпродажная подготовка арендной квартиры: как продать дороже и быстрее'
+description: >-
+  Продажа квартиры, которая сдавалась в аренду, имеет свою специфику. Как
+  устранить следы износа, обезличить интерьер для новых покупателей и
+  подготовить все документы? Эксперты ButlerSPB делятся пошаговой инструкцией,
+  которая поможет превратить ваш объект в ликвидный актив и заключить выгодную
+  сделку в кратчайшие сроки.
+pubDate: '2025-07-22T13:50:58.783Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Предпродажная подготовка арендной квартиры: как продать дороже и быстрее'
+  description: >-
+    Продажа квартиры, которая сдавалась в аренду, имеет свою специфику. Как
+    устранить следы износа, обезличить интерьер для новых покупателей и
+    подготовить все документы? Эксперты ButlerSPB делятся пошаговой инструкцией,
+    которая поможет превратить ваш объект в ликвидный актив и заключить выгодную
+    сделку в кратчайшие сроки.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '5.0'
+    reviewCount: 435
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/predprodazhnaya-podgotovka-arendnoy-kvartiry/
 ---
 
 # Предпродажная подготовка арендной квартиры: от «убитого» состояния до выгодной сделки

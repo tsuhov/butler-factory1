@@ -1,10 +1,44 @@
 ---
-title: "Можно ли работать риэлтором удаленно: плюсы, минусы и реалии рынка"
-description: "Технологии изменили мир недвижимости. Многие риэлторы задумываются о переходе на удаленный формат. В новой статье блога ButlerSPB мы честно разбираем все преимущества и недостатки дистанционной работы для агента по недвижимости: от экономии времени до сложностей с показами и выстраиванием доверия с клиентом."
-pubDate: "2025-07-22T13:55:46.762Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Можно ли работать риэлтором удаленно: плюсы, минусы и реалии рынка","description":"Технологии изменили мир недвижимости. Многие риэлторы задумываются о переходе на удаленный формат. В новой статье блога ButlerSPB мы честно разбираем все преимущества и недостатки дистанционной работы для агента по недвижимости: от экономии времени до сложностей с показами и выстраиванием доверия с клиентом.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":888,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/mozhno-li-rabotat-rieltorom-udalenno-plyusy-i-minusy/"}}
+title: 'Можно ли работать риэлтором удаленно: плюсы, минусы и реалии рынка'
+description: >-
+  Технологии изменили мир недвижимости. Многие риэлторы задумываются о переходе
+  на удаленный формат. В новой статье блога ButlerSPB мы честно разбираем все
+  преимущества и недостатки дистанционной работы для агента по недвижимости: от
+  экономии времени до сложностей с показами и выстраиванием доверия с клиентом.
+pubDate: '2025-07-22T13:55:46.762Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Можно ли работать риэлтором удаленно: плюсы, минусы и реалии рынка'
+  description: >-
+    Технологии изменили мир недвижимости. Многие риэлторы задумываются о
+    переходе на удаленный формат. В новой статье блога ButlerSPB мы честно
+    разбираем все преимущества и недостатки дистанционной работы для агента по
+    недвижимости: от экономии времени до сложностей с показами и выстраиванием
+    доверия с клиентом.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.8'
+    reviewCount: 884
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/mozhno-li-rabotat-rieltorom-udalenno-plyusy-i-minusy/
 ---
 
 # Можно ли работать риэлтором удаленно: Полный разбор плюсов, минусов и подводных камней

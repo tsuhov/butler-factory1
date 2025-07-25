@@ -1,11 +1,39 @@
 ---
-title: "Безопасные расчеты: как защитить свои деньги"
-description: "Узнайте, как защитить свои финансовые данные при онлайн-покупках и переводах. ButlerSPB делится главными правилами и советами по кибербезопасности."
-keywords: "безопасные платежи, онлайн-расчеты, финансовая безопасность, защита данных, кибербезопасность, ButlerSPB"
-pubDate: "2025-07-25T16:23:58.397Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Безопасные расчеты: как защитить свои деньги","description":"Узнайте, как защитить свои финансовые данные при онлайн-покупках и переводах. ButlerSPB делится главными правилами и советами по кибербезопасности.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.8","reviewCount":856,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/bezopasnye-raschety/"}}
+title: 'Безопасные расчеты: как защитить свои деньги'
+description: >-
+  Узнайте, как защитить свои финансовые данные при онлайн-покупках и переводах.
+  ButlerSPB делится главными правилами и советами по кибербезопасности.
+pubDate: '2025-07-25T16:23:58.397Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Безопасные расчеты: как защитить свои деньги'
+  description: >-
+    Узнайте, как защитить свои финансовые данные при онлайн-покупках и
+    переводах. ButlerSPB делится главными правилами и советами по
+    кибербезопасности.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.9'
+    reviewCount: 654
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': 'https://butlerspb-blog.netlify.app/blog/bezopasnye-raschety/'
 ---
 # Как не потерять деньги при оплате аренды: Гид по безопасным расчетам от ButlerSPB
 

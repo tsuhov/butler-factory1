@@ -1,10 +1,49 @@
 ---
-title: "Риэлтор по земельным участкам в Санкт-Петербурге: как выбрать специалиста и не ошибиться с покупкой"
-description: "Покупка земли в Санкт-Петербурге и Ленинградской области — ответственный шаг. В новой статье блога ButlerSPB разбираемся, в чем специфика работы риэлтора по земельным участкам, какие юридические тонкости нужно знать и как наш специалист поможет вам найти идеальный участок для строительства дома мечты или выгодных инвестиций."
-pubDate: "2025-07-21T23:17:36.516Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Риэлтор по земельным участкам в Санкт-Петербурге: как выбрать специалиста и не ошибиться с покупкой","description":"Покупка земли в Санкт-Петербурге и Ленинградской области — ответственный шаг. В новой статье блога ButlerSPB разбираемся, в чем специфика работы риэлтора по земельным участкам, какие юридические тонкости нужно знать и как наш специалист поможет вам найти идеальный участок для строительства дома мечты или выгодных инвестиций.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":766,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/rieltor-po-zemelnym-uchastkam-v-sankt-peterburge/"}}
+title: >-
+  Риэлтор по земельным участкам в Санкт-Петербурге: как выбрать специалиста и не
+  ошибиться с покупкой
+description: >-
+  Покупка земли в Санкт-Петербурге и Ленинградской области — ответственный шаг.
+  В новой статье блога ButlerSPB разбираемся, в чем специфика работы риэлтора по
+  земельным участкам, какие юридические тонкости нужно знать и как наш
+  специалист поможет вам найти идеальный участок для строительства дома мечты
+  или выгодных инвестиций.
+pubDate: '2025-07-21T23:17:36.516Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: >-
+    Риэлтор по земельным участкам в Санкт-Петербурге: как выбрать специалиста и
+    не ошибиться с покупкой
+  description: >-
+    Покупка земли в Санкт-Петербурге и Ленинградской области — ответственный
+    шаг. В новой статье блога ButlerSPB разбираемся, в чем специфика работы
+    риэлтора по земельным участкам, какие юридические тонкости нужно знать и как
+    наш специалист поможет вам найти идеальный участок для строительства дома
+    мечты или выгодных инвестиций.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.7'
+    reviewCount: 460
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/rieltor-po-zemelnym-uchastkam-v-sankt-peterburge/
 ---
 
 # Ваш эксперт по земельным участкам в СПб и ЛО: Как риэлтор из ButlerSPB сэкономит вам миллионы и нервы

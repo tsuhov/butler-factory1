@@ -1,10 +1,49 @@
 ---
-title: "Покупка земли сельскохозяйственного назначения: можно ли строить дом?"
-description: "Земля сельхозназначения привлекает доступной ценой, но возможность строительства дома на таком участке — сложный юридический вопрос. В новой статье блога ButlerSPB разбираемся, в каких случаях закон разрешает возводить жилые строения на сельхозугодьях. Объясняем разницу между землями для садоводства, огородничества и ведения фермерского хозяйства, рассказываем про виды разрешенного использования (ВРИ) и какие из них подходят для строительства дома с возможностью прописки."
-pubDate: "2025-07-23T14:00:41.275Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Покупка земли сельскохозяйственного назначения: можно ли строить дом?","description":"Земля сельхозназначения привлекает доступной ценой, но возможность строительства дома на таком участке — сложный юридический вопрос. В новой статье блога ButlerSPB разбираемся, в каких случаях закон разрешает возводить жилые строения на сельхозугодьях. Объясняем разницу между землями для садоводства, огородничества и ведения фермерского хозяйства, рассказываем про виды разрешенного использования (ВРИ) и какие из них подходят для строительства дома с возможностью прописки.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"5.0","reviewCount":471,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/pokupka-zemli-selskohozyaystvennogo-naznacheniya-mozhno-li-stroit-dom/"}}
+title: 'Покупка земли сельскохозяйственного назначения: можно ли строить дом?'
+description: >-
+  Земля сельхозназначения привлекает доступной ценой, но возможность
+  строительства дома на таком участке — сложный юридический вопрос. В новой
+  статье блога ButlerSPB разбираемся, в каких случаях закон разрешает возводить
+  жилые строения на сельхозугодьях. Объясняем разницу между землями для
+  садоводства, огородничества и ведения фермерского хозяйства, рассказываем про
+  виды разрешенного использования (ВРИ) и какие из них подходят для
+  строительства дома с возможностью прописки.
+pubDate: '2025-07-23T14:00:41.275Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Покупка земли сельскохозяйственного назначения: можно ли строить дом?'
+  description: >-
+    Земля сельхозназначения привлекает доступной ценой, но возможность
+    строительства дома на таком участке — сложный юридический вопрос. В новой
+    статье блога ButlerSPB разбираемся, в каких случаях закон разрешает
+    возводить жилые строения на сельхозугодьях. Объясняем разницу между землями
+    для садоводства, огородничества и ведения фермерского хозяйства,
+    рассказываем про виды разрешенного использования (ВРИ) и какие из них
+    подходят для строительства дома с возможностью прописки.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '5.0'
+    reviewCount: 340
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/pokupka-zemli-selskohozyaystvennogo-naznacheniya-mozhno-li-stroit-dom/
 ---
 
 # Можно ли строить дом на земле сельхозназначения? Полный гайд 2024 от экспертов ButlerSPB

@@ -1,11 +1,40 @@
 ---
-title: "Видовой апарт: инвестиция в эмоции и комфорт"
-description: "Видовой апарт – это не просто квадратные метры, а ежедневное вдохновение. Узнайте о плюсах такого жилья, его ликвидности и как выбрать лучший вариант в Петербурге."
-keywords: "видовой апарт, недвижимость спб, квартира с видом, элитная недвижимость, инвестиции в недвижимость, ButlerSPB"
-pubDate: "2025-07-25T14:52:55.768Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Видовой апарт: инвестиция в эмоции и комфорт","description":"Видовой апарт – это не просто квадратные метры, а ежедневное вдохновение. Узнайте о плюсах такого жилья, его ликвидности и как выбрать лучший вариант в Петербурге.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":579,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/vidovoy-apart/"}}
+title: 'Видовой апарт: инвестиция в эмоции и комфорт'
+description: >-
+  Видовой апарт – это не просто квадратные метры, а ежедневное вдохновение.
+  Узнайте о плюсах такого жилья, его ликвидности и как выбрать лучший вариант в
+  Петербурге.
+pubDate: '2025-07-25T14:52:55.768Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Видовой апарт: инвестиция в эмоции и комфорт'
+  description: >-
+    Видовой апарт – это не просто квадратные метры, а ежедневное вдохновение.
+    Узнайте о плюсах такого жилья, его ликвидности и как выбрать лучший вариант
+    в Петербурге.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.8'
+    reviewCount: 380
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': 'https://butlerspb-blog.netlify.app/blog/vidovoy-apart/'
 ---
 *   **Title (Заголовок страницы, 60-70 зн.):** `Видовой апарт в СПб: Полный гид по выбору квартиры мечты | ButlerSPB`
 *   **Description (Описание страницы, 150-160 зн.):** `Что такое видовой апарт и почему он так ценится в Санкт-Петербурге? Узнайте о преимуществах, видах, ценах и как выбрать идеальный вариант с экспертами ButlerSPB.`

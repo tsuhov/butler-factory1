@@ -1,11 +1,40 @@
 ---
-title: "Проверенный план достижения чистоты от ButlerSPB"
-description: "Откройте для себя проверенный план идеальной чистоты от ButlerSPB. Мы разработали эффективную систему уборки, которая гарантирует безупречный результат каждый раз!"
-keywords: "проверенный план, уборка спб, клининг, ButlerSPB, чистота в доме, профессиональная уборка, план уборки"
-pubDate: "2025-07-25T16:22:31.317Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Проверенный план достижения чистоты от ButlerSPB","description":"Откройте для себя проверенный план идеальной чистоты от ButlerSPB. Мы разработали эффективную систему уборки, которая гарантирует безупречный результат каждый раз!","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"5.0","reviewCount":391,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/proverennyy-plan/"}}
+title: Проверенный план достижения чистоты от ButlerSPB
+description: >-
+  Откройте для себя проверенный план идеальной чистоты от ButlerSPB. Мы
+  разработали эффективную систему уборки, которая гарантирует безупречный
+  результат каждый раз!
+pubDate: '2025-07-25T16:22:31.317Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: Проверенный план достижения чистоты от ButlerSPB
+  description: >-
+    Откройте для себя проверенный план идеальной чистоты от ButlerSPB. Мы
+    разработали эффективную систему уборки, которая гарантирует безупречный
+    результат каждый раз!
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.9'
+    reviewCount: 825
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': 'https://butlerspb-blog.netlify.app/blog/proverennyy-plan/'
 ---
 # Проверенный план: Как вернуть себе 10+ часов в неделю и сфокусироваться на главном
 

@@ -1,11 +1,40 @@
 ---
-title: "Капремонт: оценка стоимости и этапы работ"
-description: "Планируете капитальный ремонт? Точная оценка стоимости – первый шаг к успеху. ButlerSPB расскажет, из чего складывается смета и как избежать скрытых расходов."
-keywords: "оценка капремонта, стоимость ремонта, смета на ремонт, капитальный ремонт квартиры, ремонт под ключ, ButlerSPB, ремонт спб"
-pubDate: "2025-07-25T15:50:13.725Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Капремонт: оценка стоимости и этапы работ","description":"Планируете капитальный ремонт? Точная оценка стоимости – первый шаг к успеху. ButlerSPB расскажет, из чего складывается смета и как избежать скрытых расходов.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.8","reviewCount":727,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/kapremont-ocenka/"}}
+title: 'Капремонт: оценка стоимости и этапы работ'
+description: >-
+  Планируете капитальный ремонт? Точная оценка стоимости – первый шаг к успеху.
+  ButlerSPB расскажет, из чего складывается смета и как избежать скрытых
+  расходов.
+pubDate: '2025-07-25T15:50:13.725Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Капремонт: оценка стоимости и этапы работ'
+  description: >-
+    Планируете капитальный ремонт? Точная оценка стоимости – первый шаг к
+    успеху. ButlerSPB расскажет, из чего складывается смета и как избежать
+    скрытых расходов.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '5.0'
+    reviewCount: 543
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': 'https://butlerspb-blog.netlify.app/blog/kapremont-ocenka/'
 ---
 # Оценка капремонта в МКД: как проверить смету и не переплатить Фонду. Полное руководство от ButlerSPB
 

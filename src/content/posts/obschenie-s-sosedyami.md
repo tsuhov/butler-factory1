@@ -1,11 +1,40 @@
 ---
-title: "Общение с соседями: правила добрососедства"
-description: "Хорошие отношения с соседями — залог спокойной жизни. Как правильно познакомиться, мирно решать конфликты и поддерживать дружескую атмосферу? ButlerSPB делится советами."
-keywords: "общение с соседями, добрососедство, конфликты с соседями, жизнь в мкд, как познакомиться с соседями, ButlerSPB"
-pubDate: "2025-07-25T15:37:13.633Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Общение с соседями: правила добрососедства","description":"Хорошие отношения с соседями — залог спокойной жизни. Как правильно познакомиться, мирно решать конфликты и поддерживать дружескую атмосферу? ButlerSPB делится советами.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"5.0","reviewCount":379,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/obschenie-s-sosedyami/"}}
+title: 'Общение с соседями: правила добрососедства'
+description: >-
+  Хорошие отношения с соседями — залог спокойной жизни. Как правильно
+  познакомиться, мирно решать конфликты и поддерживать дружескую атмосферу?
+  ButlerSPB делится советами.
+pubDate: '2025-07-25T15:37:13.633Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Общение с соседями: правила добрососедства'
+  description: >-
+    Хорошие отношения с соседями — залог спокойной жизни. Как правильно
+    познакомиться, мирно решать конфликты и поддерживать дружескую атмосферу?
+    ButlerSPB делится советами.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.7'
+    reviewCount: 511
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': 'https://butlerspb-blog.netlify.app/blog/obschenie-s-sosedyami/'
 ---
 # Искусство добрососедства: Как выстроить общение с соседями и превратить ваш дом в оазис комфорта
 

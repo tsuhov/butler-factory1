@@ -1,10 +1,51 @@
 ---
-title: "Юридический статус апартаментов и риски для арендатора: что нужно знать перед съемом"
-description: "Апартаменты привлекают своей стоимостью и расположением, но их юридический статус нежилого помещения несет риски для арендаторов. В новой статье блога ButlerSPB разбираемся, чем апартаменты отличаются от квартиры, какие права есть у жильца, и с какими проблемами можно столкнуться: от невозможности временной регистрации до повышенных коммунальных платежей и особенностей налогообложения. Узнайте, как обезопасить себя при аренде апартаментов."
-pubDate: "2025-07-22T11:37:36.541Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Юридический статус апартаментов и риски для арендатора: что нужно знать перед съемом","description":"Апартаменты привлекают своей стоимостью и расположением, но их юридический статус нежилого помещения несет риски для арендаторов. В новой статье блога ButlerSPB разбираемся, чем апартаменты отличаются от квартиры, какие права есть у жильца, и с какими проблемами можно столкнуться: от невозможности временной регистрации до повышенных коммунальных платежей и особенностей налогообложения. Узнайте, как обезопасить себя при аренде апартаментов.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":501,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/yuridicheskiy-status-apartamentov-i-riski-dlya-arendatora/"}}
+title: >-
+  Юридический статус апартаментов и риски для арендатора: что нужно знать перед
+  съемом
+description: >-
+  Апартаменты привлекают своей стоимостью и расположением, но их юридический
+  статус нежилого помещения несет риски для арендаторов. В новой статье блога
+  ButlerSPB разбираемся, чем апартаменты отличаются от квартиры, какие права
+  есть у жильца, и с какими проблемами можно столкнуться: от невозможности
+  временной регистрации до повышенных коммунальных платежей и особенностей
+  налогообложения. Узнайте, как обезопасить себя при аренде апартаментов.
+pubDate: '2025-07-22T11:37:36.541Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: >-
+    Юридический статус апартаментов и риски для арендатора: что нужно знать
+    перед съемом
+  description: >-
+    Апартаменты привлекают своей стоимостью и расположением, но их юридический
+    статус нежилого помещения несет риски для арендаторов. В новой статье блога
+    ButlerSPB разбираемся, чем апартаменты отличаются от квартиры, какие права
+    есть у жильца, и с какими проблемами можно столкнуться: от невозможности
+    временной регистрации до повышенных коммунальных платежей и особенностей
+    налогообложения. Узнайте, как обезопасить себя при аренде апартаментов.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.9'
+    reviewCount: 579
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/yuridicheskiy-status-apartamentov-i-riski-dlya-arendatora/
 ---
 
 # Апартаменты vs. Квартира: Юридический статус и все риски для арендатора

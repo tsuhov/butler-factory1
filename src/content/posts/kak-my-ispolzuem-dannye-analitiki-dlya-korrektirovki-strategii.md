@@ -1,10 +1,50 @@
 ---
-title: "Данные решают: как в ButlerSPB мы используем аналитику для корректировки стратегии"
-description: "В новой статье блога ButlerSPB делимся нашим подходом к работе с данными. Рассказываем, какие метрики мы отслеживаем, как превращаем цифры в конкретные действия и как аналитика помогает нам лучше понимать клиентов и оптимизировать бизнес-процессы. Приводим реальные кейсы и примеры, которые будут полезны любому, кто хочет принимать решения, основанные на фактах, а не на интуиции."
-pubDate: "2025-07-22T11:14:03.930Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Данные решают: как в ButlerSPB мы используем аналитику для корректировки стратегии","description":"В новой статье блога ButlerSPB делимся нашим подходом к работе с данными. Рассказываем, какие метрики мы отслеживаем, как превращаем цифры в конкретные действия и как аналитика помогает нам лучше понимать клиентов и оптимизировать бизнес-процессы. Приводим реальные кейсы и примеры, которые будут полезны любому, кто хочет принимать решения, основанные на фактах, а не на интуиции.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.8","reviewCount":617,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/kak-my-ispolzuem-dannye-analitiki-dlya-korrektirovki-strategii/"}}
+title: >-
+  Данные решают: как в ButlerSPB мы используем аналитику для корректировки
+  стратегии
+description: >-
+  В новой статье блога ButlerSPB делимся нашим подходом к работе с данными.
+  Рассказываем, какие метрики мы отслеживаем, как превращаем цифры в конкретные
+  действия и как аналитика помогает нам лучше понимать клиентов и оптимизировать
+  бизнес-процессы. Приводим реальные кейсы и примеры, которые будут полезны
+  любому, кто хочет принимать решения, основанные на фактах, а не на интуиции.
+pubDate: '2025-07-22T11:14:03.930Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: >-
+    Данные решают: как в ButlerSPB мы используем аналитику для корректировки
+    стратегии
+  description: >-
+    В новой статье блога ButlerSPB делимся нашим подходом к работе с данными.
+    Рассказываем, какие метрики мы отслеживаем, как превращаем цифры в
+    конкретные действия и как аналитика помогает нам лучше понимать клиентов и
+    оптимизировать бизнес-процессы. Приводим реальные кейсы и примеры, которые
+    будут полезны любому, кто хочет принимать решения, основанные на фактах, а
+    не на интуиции.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.8'
+    reviewCount: 684
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/kak-my-ispolzuem-dannye-analitiki-dlya-korrektirovki-strategii/
 ---
 
 # Как мы в ButlerSPB превращаем сухие цифры аналитики в точки роста для вашего бизнеса

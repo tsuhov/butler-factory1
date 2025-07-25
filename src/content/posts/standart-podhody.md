@@ -1,11 +1,38 @@
 ---
-title: "Стандартные подходы: основа успеха ButlerSPB"
-description: "Внедрение стандартных подходов — ключ к оптимизации процессов и повышению эффективности. В этой статье ButlerSPB делится опытом и лучшими практиками."
-keywords: "стандартные подходы, оптимизация процессов, управление проектами, стандартизация, эффективность, ButlerSPB"
-pubDate: "2025-07-25T14:50:18.906Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Стандартные подходы: основа успеха ButlerSPB","description":"Внедрение стандартных подходов — ключ к оптимизации процессов и повышению эффективности. В этой статье ButlerSPB делится опытом и лучшими практиками.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":714,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/standart-podhody/"}}
+title: 'Стандартные подходы: основа успеха ButlerSPB'
+description: >-
+  Внедрение стандартных подходов — ключ к оптимизации процессов и повышению
+  эффективности. В этой статье ButlerSPB делится опытом и лучшими практиками.
+pubDate: '2025-07-25T14:50:18.906Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Стандартные подходы: основа успеха ButlerSPB'
+  description: >-
+    Внедрение стандартных подходов — ключ к оптимизации процессов и повышению
+    эффективности. В этой статье ButlerSPB делится опытом и лучшими практиками.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '5.0'
+    reviewCount: 376
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': 'https://butlerspb-blog.netlify.app/blog/standart-podhody/'
 ---
 # Стандарты профессиональной уборки: Как мы в ButlerSPB задаем планку чистоты
 

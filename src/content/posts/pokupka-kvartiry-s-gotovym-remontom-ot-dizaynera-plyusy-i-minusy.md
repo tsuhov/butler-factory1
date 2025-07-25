@@ -1,10 +1,41 @@
 ---
-title: "Квартира с готовым ремонтом от дизайнера: плюсы и минусы"
-description: "Покупка квартиры с готовым ремонтом экономит время, но лишает индивидуальности. ButlerSPB разбирает плюсы и минусы такого решения для вашего будущего дома."
-pubDate: "2025-07-23T23:28:49.132Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Квартира с готовым ремонтом от дизайнера: плюсы и минусы","description":"Покупка квартиры с готовым ремонтом экономит время, но лишает индивидуальности. ButlerSPB разбирает плюсы и минусы такого решения для вашего будущего дома.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":694,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/pokupka-kvartiry-s-gotovym-remontom-ot-dizaynera-plyusy-i-minusy/"}}
+title: 'Квартира с готовым ремонтом от дизайнера: плюсы и минусы'
+description: >-
+  Покупка квартиры с готовым ремонтом экономит время, но лишает
+  индивидуальности. ButlerSPB разбирает плюсы и минусы такого решения для вашего
+  будущего дома.
+pubDate: '2025-07-23T23:28:49.132Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Квартира с готовым ремонтом от дизайнера: плюсы и минусы'
+  description: >-
+    Покупка квартиры с готовым ремонтом экономит время, но лишает
+    индивидуальности. ButlerSPB разбирает плюсы и минусы такого решения для
+    вашего будущего дома.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.9'
+    reviewCount: 624
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/pokupka-kvartiry-s-gotovym-remontom-ot-dizaynera-plyusy-i-minusy/
 ---
 
 # Квартира с готовым ремонтом от дизайнера: плюсы и минусы

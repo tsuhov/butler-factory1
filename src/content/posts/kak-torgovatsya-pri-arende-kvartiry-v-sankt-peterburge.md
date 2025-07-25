@@ -1,10 +1,49 @@
 ---
-title: "Как торговаться при аренде квартиры в Санкт-Петербурге: полное руководство от ButlerSPB"
-description: "Хотите снять квартиру в СПб по выгодной цене? Узнайте, как правильно вести переговоры с собственником, какие аргументы использовать для снижения стоимости и в какое время года лучше всего искать жилье. Эксперты ButlerSPB делятся проверенными лайфхаками, которые помогут вам сэкономить на аренде в культурной столице."
-pubDate: "2025-07-22T11:38:15.807Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Как торговаться при аренде квартиры в Санкт-Петербурге: полное руководство от ButlerSPB","description":"Хотите снять квартиру в СПб по выгодной цене? Узнайте, как правильно вести переговоры с собственником, какие аргументы использовать для снижения стоимости и в какое время года лучше всего искать жилье. Эксперты ButlerSPB делятся проверенными лайфхаками, которые помогут вам сэкономить на аренде в культурной столице.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":514,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/kak-torgovatsya-pri-arende-kvartiry-v-sankt-peterburge/"}}
+title: >-
+  Как торговаться при аренде квартиры в Санкт-Петербурге: полное руководство от
+  ButlerSPB
+description: >-
+  Хотите снять квартиру в СПб по выгодной цене? Узнайте, как правильно вести
+  переговоры с собственником, какие аргументы использовать для снижения
+  стоимости и в какое время года лучше всего искать жилье. Эксперты ButlerSPB
+  делятся проверенными лайфхаками, которые помогут вам сэкономить на аренде в
+  культурной столице.
+pubDate: '2025-07-22T11:38:15.807Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: >-
+    Как торговаться при аренде квартиры в Санкт-Петербурге: полное руководство
+    от ButlerSPB
+  description: >-
+    Хотите снять квартиру в СПб по выгодной цене? Узнайте, как правильно вести
+    переговоры с собственником, какие аргументы использовать для снижения
+    стоимости и в какое время года лучше всего искать жилье. Эксперты ButlerSPB
+    делятся проверенными лайфхаками, которые помогут вам сэкономить на аренде в
+    культурной столице.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.9'
+    reviewCount: 868
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/kak-torgovatsya-pri-arende-kvartiry-v-sankt-peterburge/
 ---
 
 # Как торговаться при аренде квартиры в Санкт-Петербурге: полное руководство от экспертов ButlerSPB

@@ -1,11 +1,40 @@
 ---
-title: "Квартира без лишнего: секреты минимализма"
-description: "Узнайте, как избавиться от ненужных вещей и превратить квартиру в оазис спокойствия. Наши советы помогут создать гармоничное пространство без лишнего хлама."
-keywords: "минимализм, расхламление, организация пространства, порядок в доме, квартира без лишнего, ButlerSPB"
-pubDate: "2025-07-25T16:26:07.668Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Квартира без лишнего: секреты минимализма","description":"Узнайте, как избавиться от ненужных вещей и превратить квартиру в оазис спокойствия. Наши советы помогут создать гармоничное пространство без лишнего хлама.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"5.0","reviewCount":417,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/kvartira-bez/"}}
+title: 'Квартира без лишнего: секреты минимализма'
+description: >-
+  Узнайте, как избавиться от ненужных вещей и превратить квартиру в оазис
+  спокойствия. Наши советы помогут создать гармоничное пространство без лишнего
+  хлама.
+pubDate: '2025-07-25T16:26:07.668Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Квартира без лишнего: секреты минимализма'
+  description: >-
+    Узнайте, как избавиться от ненужных вещей и превратить квартиру в оазис
+    спокойствия. Наши советы помогут создать гармоничное пространство без
+    лишнего хлама.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.7'
+    reviewCount: 417
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': 'https://butlerspb-blog.netlify.app/blog/kvartira-bez/'
 ---
 # Квартира "без": Что вы ищете на самом деле — экономию или эксклюзивность?
 

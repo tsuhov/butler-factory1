@@ -1,11 +1,40 @@
 ---
-title: "Служба поддержки ButlerSPB: решаем ваши вопросы"
-description: "Качественная служба поддержки — это лицо компании. В ButlerSPB мы стремимся оказывать лучший сервис. Узнайте о наших принципах, скорости реакции и желании помочь."
-keywords: "служба поддержки, клиентский сервис, поддержка клиентов, ButlerSPB, помощь клиентам, обратная связь"
-pubDate: "2025-07-24T13:37:40.449Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Служба поддержки ButlerSPB: решаем ваши вопросы","description":"Качественная служба поддержки — это лицо компании. В ButlerSPB мы стремимся оказывать лучший сервис. Узнайте о наших принципах, скорости реакции и желании помочь.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":776,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/sluzhba-podderzhki/"}}
+title: 'Служба поддержки ButlerSPB: решаем ваши вопросы'
+description: >-
+  Качественная служба поддержки — это лицо компании. В ButlerSPB мы стремимся
+  оказывать лучший сервис. Узнайте о наших принципах, скорости реакции и желании
+  помочь.
+pubDate: '2025-07-24T13:37:40.449Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Служба поддержки ButlerSPB: решаем ваши вопросы'
+  description: >-
+    Качественная служба поддержки — это лицо компании. В ButlerSPB мы стремимся
+    оказывать лучший сервис. Узнайте о наших принципах, скорости реакции и
+    желании помочь.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.8'
+    reviewCount: 866
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': 'https://butlerspb-blog.netlify.app/blog/sluzhba-podderzhki/'
 ---
 # Служба поддержки как драйвер роста вашего бизнеса: полное руководство по созданию и аутсорсингу
 

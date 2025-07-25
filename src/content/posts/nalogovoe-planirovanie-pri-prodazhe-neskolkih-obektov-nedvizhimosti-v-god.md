@@ -1,10 +1,45 @@
 ---
-title: "Налоговое планирование при продаже нескольких объектов недвижимости в год"
-description: "Продажа нескольких объектов недвижимости в одном налоговом периоде требует особого подхода к планированию. В нашей новой статье от экспертов ButlerSPB мы разбираем, как правильно рассчитать НДФЛ, какие налоговые вычеты можно применить, и как оптимизировать налоговую базу, чтобы сделать ваши сделки максимально выгодными и избежать ошибок при подаче декларации."
-pubDate: "2025-07-23T12:15:44.970Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Налоговое планирование при продаже нескольких объектов недвижимости в год","description":"Продажа нескольких объектов недвижимости в одном налоговом периоде требует особого подхода к планированию. В нашей новой статье от экспертов ButlerSPB мы разбираем, как правильно рассчитать НДФЛ, какие налоговые вычеты можно применить, и как оптимизировать налоговую базу, чтобы сделать ваши сделки максимально выгодными и избежать ошибок при подаче декларации.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.8","reviewCount":606,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/nalogovoe-planirovanie-pri-prodazhe-neskolkih-obektov-nedvizhimosti-v-god/"}}
+title: Налоговое планирование при продаже нескольких объектов недвижимости в год
+description: >-
+  Продажа нескольких объектов недвижимости в одном налоговом периоде требует
+  особого подхода к планированию. В нашей новой статье от экспертов ButlerSPB мы
+  разбираем, как правильно рассчитать НДФЛ, какие налоговые вычеты можно
+  применить, и как оптимизировать налоговую базу, чтобы сделать ваши сделки
+  максимально выгодными и избежать ошибок при подаче декларации.
+pubDate: '2025-07-23T12:15:44.970Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: Налоговое планирование при продаже нескольких объектов недвижимости в год
+  description: >-
+    Продажа нескольких объектов недвижимости в одном налоговом периоде требует
+    особого подхода к планированию. В нашей новой статье от экспертов ButlerSPB
+    мы разбираем, как правильно рассчитать НДФЛ, какие налоговые вычеты можно
+    применить, и как оптимизировать налоговую базу, чтобы сделать ваши сделки
+    максимально выгодными и избежать ошибок при подаче декларации.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.8'
+    reviewCount: 848
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://butlerspb-blog.netlify.app/blog/nalogovoe-planirovanie-pri-prodazhe-neskolkih-obektov-nedvizhimosti-v-god/
 ---
 
 # Продажа нескольких объектов недвижимости в 2024 году: Как грамотно спланировать налоги и не потерять прибыль

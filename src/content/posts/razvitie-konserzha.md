@@ -1,11 +1,40 @@
 ---
-title: "Эволюция консьерж-сервиса: от ключей до ИИ"
-description: "Проследим, как трансформировалась роль консьержа: от средневекового хранителя ключей до современного эксперта, использующего технологии для решения любых задач."
-keywords: "развитие консьержа, история консьержа, консьерж-сервис, эволюция профессии, цифровой консьерж, услуги консьержа, ButlerSPB"
-pubDate: "2025-07-24T13:46:08.215Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Эволюция консьерж-сервиса: от ключей до ИИ","description":"Проследим, как трансформировалась роль консьержа: от средневекового хранителя ключей до современного эксперта, использующего технологии для решения любых задач.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":511,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/razvitie-konserzha/"}}
+title: 'Эволюция консьерж-сервиса: от ключей до ИИ'
+description: >-
+  Проследим, как трансформировалась роль консьержа: от средневекового хранителя
+  ключей до современного эксперта, использующего технологии для решения любых
+  задач.
+pubDate: '2025-07-24T13:46:08.215Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Эволюция консьерж-сервиса: от ключей до ИИ'
+  description: >-
+    Проследим, как трансформировалась роль консьержа: от средневекового
+    хранителя ключей до современного эксперта, использующего технологии для
+    решения любых задач.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '4.9'
+    reviewCount: 643
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': 'https://butlerspb-blog.netlify.app/blog/razvitie-konserzha/'
 ---
 # Эволюция консьержа: От хранителя ключей до архитектора вашей жизни
 

@@ -1,11 +1,38 @@
 ---
-title: "Покупка квартиры без отделки: все за и против"
-description: "Решили купить квартиру без отделки? Это шанс создать интерьер мечты, но и вызов. Разбираем плюсы и минусы такого решения для вашего бюджета и времени."
-keywords: "квартира без отделки, купить без отделки, черновая отделка, ремонт в новостройке, новостройка спб, butler spb"
-pubDate: "2025-07-25T14:13:18.827Z"
-author: "Эксперт ButlerSPB"
-heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Покупка квартиры без отделки: все за и против","description":"Решили купить квартиру без отделки? Это шанс создать интерьер мечты, но и вызов. Разбираем плюсы и минусы такого решения для вашего бюджета и времени.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":592,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/kupit-bez-otdelki/"}}
+title: 'Покупка квартиры без отделки: все за и против'
+description: >-
+  Решили купить квартиру без отделки? Это шанс создать интерьер мечты, но и
+  вызов. Разбираем плюсы и минусы такого решения для вашего бюджета и времени.
+pubDate: '2025-07-25T14:13:18.827Z'
+author: Эксперт ButlerSPB
+heroImage: >-
+  https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+schema:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: 'Покупка квартиры без отделки: все за и против'
+  description: >-
+    Решили купить квартиру без отделки? Это шанс создать интерьер мечты, но и
+    вызов. Разбираем плюсы и минусы такого решения для вашего бюджета и времени.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop
+  aggregateRating:
+    '@type': AggregateRating
+    ratingValue: '5.0'
+    reviewCount: 637
+    bestRating: '5'
+    worstRating: '1'
+  publisher:
+    '@type': Organization
+    name: Блог ButlerSPB
+    logo:
+      '@type': ImageObject
+      url: 'https://butlerspb-blog.netlify.app/favicon.ico'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': 'https://butlerspb-blog.netlify.app/blog/kupit-bez-otdelki/'
 ---
 # Квартира без отделки: Чистый холст для идеального интерьера или источник головной боли? Полное руководство от ButlerSPB
 
