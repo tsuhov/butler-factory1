@@ -92,7 +92,7 @@ jobs:
         run: |
           git config --global user.name 'GitHub Actions Bot'
           git config --global user.email 'actions-bot@github.com'
-          git config --global pull.rebase true
+          git config --global pull.rebase false
           
           echo "--- ЭСКАДРОН #${{ matrix.thread }}: Начинаю генерацию ---"
           
@@ -108,9 +108,23 @@ jobs:
           MAX_RETRIES=5
           RETRY_DELAY=5
           for ((i=1; i<=MAX_RETRIES; i++)); do
-            git pull --rebase
+            # Сначала добавляем файлы в staging
             git add src/content/posts/*.md
-            git commit --allow-empty -m "🚀 Авто-публикация: пачка от Эскадрона №${{ matrix.thread }}"
+            
+            # Stash изменения для чистого pull
+            git stash push -m "Temporary stash for pull"
+            
+            # Делаем pull
+            git pull origin main
+            
+            # Возвращаем изменения
+            git stash pop || echo "Stash already applied"
+            
+            # Добавляем файлы снова (на случай конфликтов)
+            git add src/content/posts/*.md
+            
+            # Коммитим
+            git commit -m "🚀 Авто-публикация: пачка от Эскадрона №${{ matrix.thread }}" || echo "Nothing to commit"
             
             if git push; then
               echo "✅ Публикация прошла успешно с попытки №$i."
@@ -129,7 +143,7 @@ jobs:
           commit_after=$(git rev-parse HEAD)
           commit_before=$(git rev-parse HEAD~1)
           
-          NEW_FILES=$(git diff --name-only $commit_before $commit_after -- 'src/content/posts/*.md')
+          NEW_FILES=$(git diff --name-only $commit_before $commit_before HEAD -- 'src/content/posts/*.md' 2>/dev/null || echo "")
           
           if [[ -n "$NEW_FILES" ]]; then
             echo "📢 ЭСКАДРОН #${{ matrix.thread }}: Подготовка уведомления для IndexNow..."
