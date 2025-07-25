@@ -1,4 +1,4 @@
-name: 🚀 Content Factory (Bulletproof Batch Push v3)
+name: 🚀 Content Factory (Bulletproof)
 
 on:
   workflow_dispatch:
@@ -40,27 +40,34 @@ jobs:
           MATRIX=$(jq -cn --argjson n "$REQUESTED_THREADS" '[range(1; $n + 1)]')
           echo "matrix=$MATRIX" >> $GITHUB_OUTPUT
 
-  generate:
+  generate_and_publish:
     needs: prepare
+    permissions:
+      contents: write
+      
     runs-on: ubuntu-latest
+    
     strategy:
       fail-fast: false
       matrix:
         thread: ${{ fromJson(needs.prepare.outputs.matrix) }}
 
     steps:
-      - name: ⬇️ Checkout repo
+      - name: ⬇️ Checkout repo (Thread ${{ matrix.thread }})
         uses: actions/checkout@v4
+        with:
+          # Важно: используем токен для возможности пушить обратно
+          token: ${{ secrets.GITHUB_TOKEN }}
 
-      - name: ⚙️ Setup Node.js
+      - name: ⚙️ Setup Node.js (Thread ${{ matrix.thread }})
         uses: actions/setup-node@v4
         with:
           node-version: '20'
 
-      - name: 📦 Install dependencies
+      - name: 📦 Install dependencies (Thread ${{ matrix.thread }})
         run: npm install
 
-      - name: 🔑 Set API Key
+      - name: 🔑 Set API Key for Thread ${{ matrix.thread }}
         id: set_key
         run: |
           MODEL_CHOICE="${{ github.event.inputs.model_choice || 'gemini' }}"
@@ -69,9 +76,11 @@ jobs:
           else
             API_KEYS="${{ secrets.GEMINI_API_KEYS_POOL }}"
           fi
+          
           CURRENT_KEY=$(echo "$API_KEYS" | sed -n '${{ matrix.thread }}p' | tr -d '\r')
+
           if [[ -z "$CURRENT_KEY" ]]; then
-            echo "::error::Не удалось извлечь API-ключ для потока #${{ matrix.thread }}."
+            echo "::error::Не удалось извлечь API-ключ для потока #${{ matrix.thread }} для модели ${MODEL_CHOICE}."
             exit 1
           fi
           echo "key=$CURRENT_KEY" >> $GITHUB_OUTPUT
@@ -83,69 +92,12 @@ jobs:
           BATCH_SIZE: ${{ github.event.inputs.batch_size_per_thread || 10 }}
           TOTAL_THREADS: ${{ github.event.inputs.threads || 5 }}
           THREAD_ID: ${{ matrix.thread }}
-        run: npm run factory
-
-      - name: 📤 Upload generated articles
-        uses: actions/upload-artifact@v4
-        with:
-          name: generated-posts-thread-${{ matrix.thread }}
-          path: src/content/posts/*.md
-          if-no-files-found: ignore
-
-  publish_and_notify:
-    if: ${{ always() }} 
-    needs: generate
-    runs-on: ubuntu-latest
-    steps:
-      - name: ⬇️ Checkout repo
-        uses: actions/checkout@v4
-        with:
-          token: ${{ secrets.GITHUB_TOKEN }}
-
-      - name: 📥 Download all generated articles
-        uses: actions/download-artifact@v4
-        with:
-          path: src/content/posts
-          merge-multiple: true
-
-      - name: 🚀 Commit, Push & Notify
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
           git config --global user.name 'github-actions[bot]'
           git config --global user.email '41898282+github-actions[bot]@users.noreply.github.com'
-          git config --global pull.rebase true
-
-          if [[ -z $(git status --porcelain src/content/posts/) ]]; then
-            echo "✅ Новых статей для публикации не найдено."
-            exit 0
-          fi
-
-          echo "🔥 Обнаружены новые файлы. Начинаю процедуру публикации..."
-          git pull
           
-          # Получаем список именно новых, неотслеживаемых файлов
-          NEW_FILES=$(git status --porcelain src/content/posts/ | grep '^??' | awk '{print $2}')
+          echo "--- ЭСКАДРОН #${{ matrix.thread }}: Начинаю генерацию ---"
           
-          git add src/content/posts/*.md
-          git commit -m "🚀 Авто-публикация: пакетная сборка"
+          npm run factory
           
-          # Используем правильный метод аутентификации для push
-          git push https://x-access-token:${GITHUB_TOKEN}@github.com/${GITHUB_REPOSITORY}.git HEAD:main
-
-          if [[ -n "$NEW_FILES" ]]; then
-            echo "📢 Подготовка уведомления для IndexNow..."
-            API_KEY="d1b055ab1eb146d892169bbb2c96550e"
-            HOST="butlerspb-blog.netlify.app"
-            URL_JSON_ARRAY=$(for file in $NEW_FILES; do slug=$(basename "$file" .md); echo "https://butlerspb-blog.netlify.app/blog/${slug}/"; done | jq -R . | jq -s .)
-            JSON_PAYLOAD=$(jq -n --arg host "$HOST" --arg key "$API_KEY" --argjson urls "$URL_JSON_ARRAY" '{host: $host, key: $key, urlList: $urls}')
-            
-            echo "--- Диагностика пакета для IndexNow ---"
-            echo "$JSON_PAYLOAD"
-            echo "--- Конец диагностики ---"
-            
-            curl -X POST "https://yandex.com/indexnow" -H "Content-Type: application/json; charset=utf-8" -d "$JSON_PAYLOAD"
-            curl -X POST "https://www.bing.com/indexnow" -H "Content-Type: application/json; charset=utf-8" -d "$JSON_PAYLOAD"
-          fi
-          
-          echo -e "\n✅ Миссия успешно завершена."
+          echo "✅ ЭСКАДРОН #${{ matrix.thread }}: Миссия успешно завершена."
