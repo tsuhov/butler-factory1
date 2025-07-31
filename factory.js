@@ -17,7 +17,7 @@ const FALLBACK_IMAGE_URL = "https://images.unsplash.com/photo-1560448204-e02f11c
 
 // --- НАСТРОЙКИ МОДЕЛЕЙ ---
 const OPENROUTER_API_URL = "https://openrouter.ai/api/v1/chat/completions";
-const DEEPSEEK_MODEL_NAME = "deepseek/deepseek-r1-0528:free";
+const DEEPSEEK_MODEL_NAME = "qwen/qwen3-coder:free";
 const GEMINI_MODEL_NAME = "gemini-2.5-pro";
 
 // --- ИНИЦИАЛИЗАЦИЯ ПОТОКА ---
