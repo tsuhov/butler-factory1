@@ -5,9 +5,6 @@ keywords: "доверительное управление, недвижимос
 pubDate: "2025-08-23T07:29:26.937Z"
 author: "Эксперт ButlerSPB"
 heroImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"
-schema: {"@context":"https://schema.org","@type":"HowTo","name":"Доверительное управление недвижимостью в Санкт-Петербурге","description":"Услуги доверительного управления недвижимостью в Петербурге. Полная меблировка и организация с нуля. ButlerSPB - профессиональный сервис для инвесторов.","image":{"@type":"ImageObject","url":"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":320,"bestRating":"5","worstRating":"1"},"publisher":{"@type":"Organization","name":"Блог ButlerSPB","logo":{"@type":"ImageObject","url":"https://butlerspb-blog.netlify.app/favicon.ico"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://butlerspb-blog.netlify.app/blog/doveritelnoe-upravlenie-nedvizhimostyu-v-sankt-peterburge-meblirovka-s-nulya/"}}
----
-# Доверительное управление недвижимостью в Санкт-Петербурге: меблировка с нуля и сдача в аренду под ключ
 
 ## Что такое доверительное управление недвижимостью?
 
